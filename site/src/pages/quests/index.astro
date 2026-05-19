@@ -1,41 +1,116 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { getAllQuests } from '../../lib/quests';
+import { EXPANSIONS, getAllQuests, getStats, groupQuestsByLevel } from '../../lib/quests';
 
-const quests = getAllQuests();
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Selected expansion comes from ?exp=... — defaults to first available
+const requested = (Astro.url.searchParams.get('exp') ?? '').toLowerCase();
+const selected =
+  EXPANSIONS.find(e => e.id === requested && e.available) ??
+  EXPANSIONS.find(e => e.available)!;
+
+const quests = getAllQuests(selected.id);
+const stats  = getStats(quests);
+const groups = groupQuestsByLevel(quests);
 ---
-<Layout title="สารบัญ">
-  <div class="toc-header">
-    <h1>สารบัญ Quest</h1>
-    <p>Seventh Umbral Era — A Realm Reborn 2.0 ({quests.length} quests)</p>
+<Layout title="สารบัญ" active="toc">
+  <div class="toc-top">
+    <div>
+      <div class="crumb">สารบัญ Quest</div>
+      <h1>เลือก quest ที่จะอ่าน</h1>
+    </div>
+    <div class="exp-select-wrap">
+      <label for="expansion">ภาคที่กำลังดู</label>
+      <select id="expansion" class="exp-select" data-base={base}>
+        {EXPANSIONS.map(exp => (
+          <option
+            value={exp.id}
+            selected={exp.id === selected.id}
+            disabled={!exp.available}
+          >
+            {exp.title_en} — Patch {exp.patch}
+            {exp.available ? '' : ' (เร็วๆ นี้)'}
+          </option>
+        ))}
+      </select>
+    </div>
   </div>
 
-  <table class="quest-table">
-    <thead>
-      <tr>
-        <th>Lv</th>
-        <th>ชื่อ Quest</th>
-        <th>สถานะ</th>
-      </tr>
-    </thead>
-    <tbody>
-      {quests.map(q => (
-        <tr>
-          <td class="lv">{q.level}</td>
-          <td class="title">
-            <a href={`${base}/quests/${q.id}/`}>
-              {q.title_en}
-              {q.title_th && <span class="title-th-inline"> · {q.title_th}</span>}
-            </a>
-          </td>
-          <td>
-            {q.source === 'contributor' && <span class="badge badge-contributor">ชุมชน</span>}
-            {q.source === 'ai' && <span class="badge badge-ai">AI</span>}
-            {q.source === 'none' && <span class="badge badge-pending">รอแปล</span>}
-          </td>
-        </tr>
+  <p class="toc-summary">
+    <strong>{stats.total} quests</strong>
+    · แปลโดยชุมชน <strong>{stats.contrib}</strong>
+    · แปลโดย AI <strong>{stats.ai}</strong>
+    · รอแปล <strong>{stats.pending}</strong>
+  </p>
+
+  <div class="toc-filters" id="tocFilters">
+    <span class="label">กรอง</span>
+    <button class="chip on"  data-filter="all">ทั้งหมด <span class="chip-n">{stats.total}</span></button>
+    <button class="chip"     data-filter="contributor">ชุมชน <span class="chip-n">{stats.contrib}</span></button>
+    <button class="chip"     data-filter="ai">AI <span class="chip-n">{stats.ai}</span></button>
+    <button class="chip"     data-filter="none">รอแปล <span class="chip-n">{stats.pending}</span></button>
+  </div>
+
+  {groups.map(g => (
+    <div class="toc-section" data-section>
+      <div class="toc-section-head">
+        <span class="num">{g.num} · {g.range}</span>
+        <span class="title">{g.title}</span>
+        <span class="desc">{g.desc}</span>
+      </div>
+      {g.quests.map(q => (
+        <a class="quest-row" href={`${base}/quests/${q.id}/`} data-source={q.source}>
+          <span class="qr-lv">Lv {q.level}</span>
+          <div class="qr-title">
+            <span class="en">{q.title_en}</span>
+            {q.title_th
+              ? <span class="th">{q.title_th}</span>
+              : <span class="th empty">— ยังไม่มีคำแปลไทย —</span>}
+          </div>
+          <span class="qr-npc">{q.npc_start}</span>
+          <span class="qr-status">
+            {q.source === 'contributor' && <span class="badge badge-contrib">ชุมชน</span>}
+            {q.source === 'ai'          && <span class="badge badge-ai">AI</span>}
+            {q.source === 'none'        && <span class="badge badge-pending">รอแปล</span>}
+          </span>
+        </a>
       ))}
-    </tbody>
-  </table>
+    </div>
+  ))}
+
+  <script is:inline>
+    // Expansion dropdown — reload page with ?exp=
+    (function () {
+      var sel = document.getElementById('expansion');
+      if (sel) {
+        sel.addEventListener('change', function () {
+          var base = sel.getAttribute('data-base') || '';
+          var url = new URL(window.location.href);
+          url.pathname = base + '/quests/';
+          url.searchParams.set('exp', sel.value);
+          window.location.href = url.toString();
+        });
+      }
+
+      // Filter chips — purely client-side hide/show
+      var chips = document.querySelectorAll('#tocFilters .chip');
+      chips.forEach(function (c) {
+        c.addEventListener('click', function () {
+          chips.forEach(function (x) { x.classList.remove('on'); });
+          c.classList.add('on');
+          var f = c.getAttribute('data-filter');
+          document.querySelectorAll('.quest-row').forEach(function (row) {
+            var s = row.getAttribute('data-source');
+            row.style.display = (f === 'all' || s === f) ? '' : 'none';
+          });
+          // Hide section heads with no visible rows
+          document.querySelectorAll('[data-section]').forEach(function (sec) {
+            var visible = sec.querySelectorAll('.quest-row:not([style*="display: none"])').length;
+            sec.style.display = visible ? '' : 'none';
+          });
+        });
+      });
+    }());
+  </script>
 </Layout>

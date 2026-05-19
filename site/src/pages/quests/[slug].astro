@@ -1,134 +1,227 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { getAllQuests, getAdjacentQuests } from '../../lib/quests';
+import { EXPANSIONS, getAllQuests, getAdjacentQuests } from '../../lib/quests';
 
 export async function getStaticPaths() {
-  const quests = getAllQuests();
-  return quests.map(q => ({ params: { slug: q.id } }));
+  const paths: { params: { slug: string }; props: { expansionId: string } }[] = [];
+  for (const exp of EXPANSIONS) {
+    if (!exp.available) continue;
+    for (const q of getAllQuests(exp.id)) {
+      paths.push({ params: { slug: q.id }, props: { expansionId: exp.id } });
+    }
+  }
+  return paths;
 }
 
+interface Props { expansionId: string; }
+const { expansionId } = Astro.props;
 const { slug } = Astro.params;
-const quests = getAllQuests();
+
+const quests = getAllQuests(expansionId);
 const quest = quests.find(q => q.id === slug)!;
-const { prev, next } = getAdjacentQuests(slug);
+const { prev, next } = getAdjacentQuests(slug as string, expansionId);
+const expansion = EXPANSIONS.find(e => e.id === expansionId)!;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
+// Group consecutive lines by speaker
 const groups: { character: string; lines: typeof quest.dialogues }[] = [];
 for (const d of quest.dialogues) {
   const last = groups[groups.length - 1];
-  if (last && last.character === d.character) {
-    last.lines.push(d);
-  } else {
-    groups.push({ character: d.character, lines: [d] });
-  }
+  if (last && last.character === d.character) last.lines.push(d);
+  else groups.push({ character: d.character, lines: [d] });
 }
+
+// Deterministic 8-color avatar assignment across distinct speakers
+const speakerOrder: Record<string, number> = {};
+let speakerIdx = 0;
+for (const g of groups) {
+  if (!(g.character in speakerOrder)) speakerOrder[g.character] = speakerIdx++;
+}
+const colorClass = (char: string) => {
+  const sysWords = ['narrator', 'system', 'scene', 'ฉาก'];
+  if (sysWords.some(w => char.toLowerCase().includes(w))) return 'sys';
+  const idx = speakerOrder[char] ?? 0;
+  return `c${idx % 8}`;
+};
+const initials = (char: string) => {
+  const parts = char.replace(/[^\p{L}\s'`-]/gu, '').split(/\s+/).filter(Boolean);
+  if (parts.length === 0) return '?';
+  if (parts.length === 1) return parts[0].slice(0, 2);
+  return (parts[0][0] + parts[1][0]).toUpperCase();
+};
 
 const GENERIC_IMAGE = 'Quest_Accepted.png';
 const showBanner = quest.wiki_image_url && !quest.wiki_image_url.includes(GENERIC_IMAGE);
 const hasAnyTh = quest.dialogues.some(d => d.text_th);
 ---
-<Layout title={quest.title_th || quest.title_en}>
-<div class="quest-content">
+<Layout title={quest.title_th || quest.title_en} active="toc">
+  <div slot="below-header" class="progress-bar"><div class="fill" id="progFill"></div></div>
 
-  <div class="quest-header">
-    <div class="quest-header-meta">
-      <span class="meta-lv">Lv {quest.level}</span>
-      <span class="meta-sep" aria-hidden="true">·</span>
-      <span class="meta-npc">{quest.npc_start}</span>
-      {quest.source === 'contributor' && (
-        <span class="source-badge badge-contributor">
-          ชุมชน{quest.contributor ? ` · @${quest.contributor}` : ''}
-        </span>
-      )}
-      {quest.source === 'ai' && (
-        <span class="source-badge badge-ai">AI · รอ review</span>
-      )}
-      {quest.source === 'none' && (
-        <span class="source-badge badge-pending">ยังไม่แปล</span>
-      )}
-    </div>
-    <h1>
-      {quest.title_en}
-      {quest.title_th && <span class="title-th-inline"> · {quest.title_th}</span>}
-    </h1>
-  </div>
+  <div class="quest-page">
+    <a class="quest-back" href={`${base}/quests/?exp=${expansionId}`}>← กลับสารบัญ {expansion.title_en}</a>
 
-  {showBanner && (
-    <img
-      class="quest-banner"
-      src={quest.wiki_image_url}
-      alt={quest.title_en}
-      loading="lazy"
-      referrerpolicy="no-referrer"
-    />
-  )}
-
-  {hasAnyTh && (
-    <p class="en-hint">คลิกที่กล่องบทสนทนาเพื่อดูต้นฉบับภาษาอังกฤษ</p>
-  )}
-
-  <div class="dialogue-feed">
-    {groups.map((group, gi) => (
-      <div class="dl-group">
-        <div class="dl-speaker">
-          <span class="dl-sep-mark" aria-hidden="true">◆</span>
-          <span class="dl-speaker-name">{group.character}</span>
-        </div>
-        <div class={`dl-bubbles${group.lines.length > 1 ? ' multi' : ''}`}>
-          {group.lines.map(line => (
-            <div
-              class={`dl-bubble${line.text_th ? ' has-en' : ''}`}
-              role={line.text_th ? 'button' : undefined}
-              tabindex={line.text_th ? 0 : undefined}
-              aria-expanded={line.text_th ? 'false' : undefined}
-            >
-              <p class="dl-text-th">{line.text_th || line.text_en}</p>
-              {line.text_th && (
-                <p class="dl-text-en" aria-hidden="true">{line.text_en}</p>
-              )}
-            </div>
-          ))}
-        </div>
+    <div class="quest-head">
+      <div class="qh-meta">
+        <span class="pill gold"><span class="pl-k">Lv</span> {quest.level}</span>
+        <span class="pill"><span class="pl-k">Patch</span> {quest.patch}</span>
+        {quest.location && <span class="pill"><span class="pl-k">Loc</span> {quest.location}</span>}
+        <span class="pill"><span class="pl-k">NPC</span> {quest.npc_start}</span>
+        {quest.source === 'contributor' && (
+          <span class="badge badge-contrib">
+            แปลโดยชุมชน{quest.contributor ? ` · @${quest.contributor}` : ''}
+          </span>
+        )}
+        {quest.source === 'ai'   && <span class="badge badge-ai">แปลโดย AI · รอ review</span>}
+        {quest.source === 'none' && <span class="badge badge-pending">ยังไม่แปล</span>}
       </div>
-    ))}
+      <h1 class="qh-title-en">{quest.title_en}</h1>
+      {quest.title_th && <p class="qh-title-th">{quest.title_th}</p>}
+    </div>
+
+    {showBanner && (
+      <img
+        class="quest-banner"
+        src={quest.wiki_image_url}
+        alt={quest.title_en}
+        loading="lazy"
+        referrerpolicy="no-referrer"
+      />
+    )}
+
+    {hasAnyTh && (
+      <div class="read-controls">
+        <span class="hint">
+          คลิกที่กล่องเพื่อดูต้นฉบับอังกฤษ · กด <kbd>E</kbd> สลับทั้งหน้า
+        </span>
+        <div class="rc-size" title="ขนาดตัวอักษร">
+          <button class="s" data-size="dec" aria-label="ลดขนาดตัวอักษร">A</button>
+          <span class="sep"></span>
+          <button class="l" data-size="inc" aria-label="เพิ่มขนาดตัวอักษร">A</button>
+        </div>
+        <button class="rc-toggle" id="toggleAllEn">
+          <span class="sw"></span>
+          <span>แสดง EN ทั้งหมด</span>
+        </button>
+      </div>
+    )}
+
+    <div class="dialogue">
+      {groups.map(group => (
+        <div class="dl-group">
+          <div class={`dl-avatar ${colorClass(group.character)}`}>
+            {colorClass(group.character) === 'sys' ? '◆' : initials(group.character)}
+          </div>
+          <div class="dl-content">
+            <div class={`dl-speaker${colorClass(group.character) === 'sys' ? ' sys' : ''}`}>
+              {group.character}
+            </div>
+            {group.lines.map(line => (
+              <div
+                class={`dl-bubble${line.text_th ? ' has-en' : ''}`}
+                role={line.text_th ? 'button' : undefined}
+                tabindex={line.text_th ? 0 : undefined}
+                aria-expanded={line.text_th ? 'false' : undefined}
+              >
+                <p class={`dl-text-th${line.text_th ? '' : ' empty'}`}>
+                  {line.text_th || line.text_en}
+                </p>
+                {line.text_th && (
+                  <p class="dl-text-en" aria-hidden="true">{line.text_en}</p>
+                )}
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <div class="qp-foot">
+      <div class="pagination">
+        {prev
+          ? (
+            <a href={`${base}/quests/${prev.id}/`} class="pag prev">
+              <span class="pl">← ตอนก่อนหน้า</span>
+              <span class="pt-en">{prev.title_en}</span>
+              {prev.title_th && <span class="pt-th">{prev.title_th}</span>}
+            </a>
+          )
+          : <span class="pag-spacer"></span>
+        }
+        {next
+          ? (
+            <a href={`${base}/quests/${next.id}/`} class="pag next">
+              <span class="pl">ตอนถัดไป →</span>
+              <span class="pt-en">{next.title_en}</span>
+              {next.title_th && <span class="pt-th">{next.title_th}</span>}
+            </a>
+          )
+          : <span class="pag-spacer"></span>
+        }
+      </div>
+    </div>
   </div>
 
-  <nav class="pagination">
-    {prev
-      ? (
-        <a href={`${base}/quests/${prev.id}/`} class="pag-btn prev">
-          <span class="pag-label">← ก่อนหน้า</span>
-          <span class="pag-title">{prev.title_en}{prev.title_th && ` · ${prev.title_th}`}</span>
-        </a>
-      )
-      : <span class="pag-spacer" />
-    }
-    {next
-      ? (
-        <a href={`${base}/quests/${next.id}/`} class="pag-btn next">
-          <span class="pag-label">ถัดไป →</span>
-          <span class="pag-title">{next.title_en}{next.title_th && ` · ${next.title_th}`}</span>
-        </a>
-      )
-      : <span class="pag-spacer" />
-    }
-  </nav>
-
-</div>
-
-<script is:inline>
-(function () {
-  document.querySelectorAll('.dl-bubble.has-en').forEach(function (el) {
-    el.addEventListener('click', function () {
-      var isOpen = this.classList.toggle('open');
-      this.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
-      var en = this.querySelector('.dl-text-en');
-      if (en) en.setAttribute('aria-hidden', isOpen ? 'false' : 'true');
+  <script is:inline>
+  (function () {
+    // Bubble toggle
+    document.querySelectorAll('.dl-bubble.has-en').forEach(function (el) {
+      el.addEventListener('click', function () {
+        var open = this.classList.toggle('open');
+        this.setAttribute('aria-expanded', open ? 'true' : 'false');
+        var en = this.querySelector('.dl-text-en');
+        if (en) en.setAttribute('aria-hidden', open ? 'false' : 'true');
+      });
+      el.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); this.click(); }
+      });
     });
-    el.addEventListener('keydown', function (e) {
-      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); this.click(); }
+
+    // Show-all-EN toggle + E hotkey
+    var toggle = document.getElementById('toggleAllEn');
+    if (toggle) {
+      toggle.addEventListener('click', function () {
+        toggle.classList.toggle('on');
+        document.body.classList.toggle('show-all-en');
+      });
+      document.addEventListener('keydown', function (e) {
+        if ((e.key === 'e' || e.key === 'E') && !e.metaKey && !e.ctrlKey && !e.altKey) {
+          var t = document.activeElement && document.activeElement.tagName;
+          if (t !== 'INPUT' && t !== 'TEXTAREA' && t !== 'SELECT') {
+            toggle.click();
+          }
+        }
+      });
+    }
+
+    // Font-size control with localStorage
+    var root = document.documentElement;
+    var SIZES = ['0.95rem', '1.05rem', '1.15rem', '1.25rem'];
+    var KEY = 'ffxiv-msq-th:fs';
+    var sizeIdx = parseInt(localStorage.getItem(KEY) || '1', 10);
+    if (isNaN(sizeIdx) || sizeIdx < 0 || sizeIdx >= SIZES.length) sizeIdx = 1;
+    root.style.setProperty('--read-fs', SIZES[sizeIdx]);
+    document.querySelectorAll('[data-size]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        sizeIdx = Math.max(0, Math.min(SIZES.length - 1,
+          sizeIdx + (b.getAttribute('data-size') === 'inc' ? 1 : -1)));
+        root.style.setProperty('--read-fs', SIZES[sizeIdx]);
+        localStorage.setItem(KEY, String(sizeIdx));
+      });
     });
-  });
-}());
-</script>
+
+    // Scroll progress
+    var fill = document.getElementById('progFill');
+    if (fill) {
+      function update() {
+        var h = document.documentElement;
+        var max = h.scrollHeight - h.clientHeight;
+        var pct = max > 0 ? (h.scrollTop / max) * 100 : 0;
+        fill.style.width = Math.min(100, Math.max(0, pct)) + '%';
+      }
+      window.addEventListener('scroll', update, { passive: true });
+      window.addEventListener('resize', update);
+      update();
+    }
+  }());
+  </script>
 </Layout>

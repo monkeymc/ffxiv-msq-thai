@@ -1,38 +1,102 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { getAllQuests } from '../lib/quests';
+import { EXPANSIONS, getAllQuests, getStats } from '../lib/quests';
 
-const quests = getAllQuests();
-const byContributor = quests.filter(q => q.source === 'contributor').length;
-const byAi = quests.filter(q => q.source === 'ai').length;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
----
-<Layout title="หน้าหลัก">
-  <div class="hero">
-    <h1>FFXIV MSQ ภาษาไทย</h1>
-    <p class="subtitle">
-      บทสนทนา Main Scenario Quest จาก A Realm Reborn<br />
-      แปลเป็นภาษาไทยสำหรับผู้เล่นที่ยังไม่ถนัดภาษาอังกฤษ
-    </p>
-    <a href={`${base}/quests/`} class="cta">อ่านสารบัญ Quest →</a>
 
-    <div class="info-cards">
-      <div class="info-card">
-        <h3>Quest ทั้งหมด</h3>
-        <p>{quests.length}<small>Seventh Umbral Era MSQ</small></p>
+// Aggregate stats across every available expansion (just ARR today)
+const allQuests = EXPANSIONS
+  .filter(e => e.available)
+  .flatMap(e => getAllQuests(e.id));
+const stats = getStats(allQuests);
+
+// Per-expansion progress for the cards
+const expansionStats = EXPANSIONS.map(exp => {
+  if (!exp.available) return { exp, total: 0, done: 0, pct: 0 };
+  const quests = getAllQuests(exp.id);
+  const done = quests.filter(q => q.source !== 'none').length;
+  const total = quests.length;
+  return { exp, total, done, pct: total ? Math.round((done / total) * 100) : 0 };
+});
+
+// Find a first-quest target so the primary CTA goes somewhere useful
+const firstExp = EXPANSIONS.find(e => e.available);
+const firstQuest = firstExp ? getAllQuests(firstExp.id)[0] : null;
+---
+<Layout title="หน้าหลัก" active="home">
+  <div class="home-hero">
+    <h1>
+      อ่าน<span class="accent">เนื้อเรื่อง</span>Eorzea<br />
+      เป็นภาษาไทย
+    </h1>
+    <div class="th-title">
+      บทสนทนา Main Scenario Quest ทุกตอน แปลโดยชุมชนและ AI
+    </div>
+    <p class="lede">
+      <strong>อ่านได้ทุกบรรทัด คลิกเพื่อเทียบกับต้นฉบับอังกฤษ</strong>
+      เริ่มต้นจากตอนแรก เลือก quest จากสารบัญ<br />หรือเลือกภาคที่อยากอ่าน
+    </p>
+    <div class="home-cta-row">
+      {firstQuest && (
+        <a href={`${base}/quests/${firstQuest.id}/`} class="btn btn-primary">เริ่มอ่านจากตอนแรก →</a>
+      )}
+      <a href={`${base}/quests/`} class="btn btn-ghost">ดูสารบัญทั้งหมด</a>
+    </div>
+
+    {stats.total > 0 && (
+      <div class="home-stats">
+        <div class="home-stat">
+          <div class="v">{stats.total}</div>
+          <div class="k">Quests ทั้งหมด</div>
+        </div>
+        <div class="home-stat">
+          <div class="v">{stats.contrib}<span class="pct">/ {stats.pctContrib}%</span></div>
+          <div class="k">แปลโดยชุมชน</div>
+        </div>
+        <div class="home-stat">
+          <div class="v">{stats.ai}<span class="pct">/ {stats.pctAi}%</span></div>
+          <div class="k">แปลโดย AI</div>
+        </div>
+        <div class="home-stat">
+          <div class="v">{stats.pending}<span class="pct">/ {stats.pctPending}%</span></div>
+          <div class="k">รอการแปล</div>
+        </div>
       </div>
-      <div class="info-card">
-        <h3>แปลโดยชุมชน</h3>
-        <p>{byContributor}<small>quests</small></p>
-      </div>
-      <div class="info-card">
-        <h3>แปลโดย AI</h3>
-        <p>{byAi}<small>รอ review จากชุมชน</small></p>
-      </div>
-      <div class="info-card">
-        <h3>วิธีใช้</h3>
-        <p style="font-size:0.88rem;font-weight:400;color:var(--text-dim)">เลือก quest จากสารบัญ<small>กด Next/Back เพื่อเดินเรื่อง</small></p>
-      </div>
+    )}
+  </div>
+
+  <div class="expansion-section">
+    <div class="section-head">
+      <span class="h">เลือกภาคที่จะอ่าน</span>
+      <span class="sub">Expansions</span>
+    </div>
+
+    <div class="exp-grid">
+      {expansionStats.map(({ exp, total, done, pct }) => (
+        exp.available ? (
+          <a href={`${base}/quests/?exp=${exp.id}`} class="exp-card available">
+            <span class="ec-tag">PATCH {exp.patch}</span>
+            <span class="ec-title">{exp.title_en}</span>
+            <span class="ec-th">{exp.title_th}</span>
+            <div class="ec-prog"><div class="fill" style={`width:${pct}%`}></div></div>
+            <div class="ec-foot">
+              <span><span class="ec-count">{done}</span><span style="color:var(--ink-mute)">/{total} แปลแล้ว</span></span>
+              <span class="ec-arrow">→</span>
+            </div>
+          </a>
+        ) : (
+          <div class="exp-card soon">
+            <span class="ec-tag">PATCH {exp.patch}</span>
+            <span class="ec-title">{exp.title_en}</span>
+            <span class="ec-th">{exp.title_th}</span>
+            <div class="ec-prog"><div class="fill" style="width:0%"></div></div>
+            <div class="ec-foot">
+              <span style="color:var(--ink-mute)">ยังไม่เริ่มแปล</span>
+              <span class="soon-pill">เร็วๆ นี้</span>
+            </div>
+          </div>
+        )
+      ))}
     </div>
   </div>
 </Layout>
