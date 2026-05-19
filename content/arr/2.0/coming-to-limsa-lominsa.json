@@ -1,0 +1,212 @@
+{
+  "id": "coming-to-limsa-lominsa",
+  "wiki_path": "/wiki/Coming_to_Limsa_Lominsa",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Coming to Limsa Lominsa",
+  "level": "1",
+  "location": "Limsa Lominsa Lower Decks(X:10.4,Y:11.1)",
+  "npc_start": "Ryssfloh",
+  "dialogues": [
+    {
+      "character": "Ryssfloh",
+      "text_en": "Hey, where in the bleedin' hells do you think you're goin'!? I told you to get over here!"
+    },
+    {
+      "character": "Ryssfloh",
+      "text_en": "Now then, I'm sure you're itching to explore, but adventurers are required to register their presence in the city...and without a bit of local knowledge, you're like to get your throat slit in some piss-stinking alley."
+    },
+    {
+      "character": "Ryssfloh",
+      "text_en": "So before you do anything else, get yourself over to the Drowning Wench and enroll with the Adventurers' Guild."
+    },
+    {
+      "character": "Ryssfloh",
+      "text_en": "It's not far─just head straight down this street and speak with Grehfarr. He'll show you how to work that big moving platform we call the Crow's Lift, and that'll take you up to the pub."
+    },
+    {
+      "character": "Ryssfloh",
+      "text_en": "Once you're there, look for a fellow by the name of Baderon─he's the proprietor of the Wench. He might curse like an ale-sodden sailor, but the man's got a soft spot for wide-eyed newcomers like yourself. He'll set you straight."
+    },
+    {
+      "character": "Ryssfloh",
+      "text_en": "Got all that? Good. Now run along, and may the Navigator guide you on your journey."
+    },
+    {
+      "character": "Ryssfloh",
+      "text_en": "Were you able to find the Drowning Wench? Baderon there will help you get started here in Limsa Lominsa."
+    },
+    {
+      "character": "F'zhumii",
+      "text_en": "Halt right there, adventurer. If it is Baderon and the Drowning Wench you seek, then you'd best speak with Grehfarr."
+    },
+    {
+      "character": "Abylfarr",
+      "text_en": "Signed yourself up at the Adventurers' Guild, have you? I didn't think so. Turn around and march yourself over to the Crow's Lift. Baderon'll want a word with you."
+    },
+    {
+      "character": "Grehfarr",
+      "text_en": "Welcome to Limsa Lominsa. If you've a mind to visit the Drowning Wench, the Crow's Lift will take you there."
+    },
+    {
+      "character": "Grehfarr",
+      "text_en": "Might I remind you that all newly arrived adventurers are required to register with the Adventurers' Guild? Until you have done so, you will struggle to find employment in these parts."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Greetin's to ye, lad / lass ."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "What'll it be? ...Ah, but you ain't 'ere fer the drink, are ye!? Ye've come with a mind to try yer 'and at 'venturin', I reckon! Well, ye'll find no shortage o' work 'ere in Limsa."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "So what do they call y─ Nay, don't tell me. 'Tis on the tip o' me tongue... 'Tis...'tis...'tis bloody gone is what it is. Bollocks."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "They say this forgetfulness is some lingerin' effect o' the Calamity. I say it's a Leviathan-sized pain in the arse. Ah, but where are me manners?"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "The name's Baderon, an' this most 'ospitable of 'ostelries is the Drownin' Wench."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "'Tis also the 'ome o' the 'Venturers' Guild, 'ere in Limsa. That's why we've got a desk 'specially fer 'andlin' guild business─an' why I seem to spend more time savin' the necks o' whelps like yerself than wettin' the throats o' me regulars."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "'Venturers 'ave a knack fer findin' trouble, see."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Not that they need it in these parts, on account o' there bein' trouble wherever ye look. If ye manage to steer clear o' the fishbacks an' the kobolds outside the city, the pirates on the inside will get ye instead."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "An' if they don't manage, there's always the Garlean Empire to finish the job. Oh, no one knows what they're plannin', o' course...but if they're plannin' anythin' , ye can be sure it's to kill the lot of us."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Aye...this town seems peaceful at a glance, but look again, an' ye'll see a people livin' in fear o' what tomorrow might bring."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "...An' who can blame 'em, after everythin' that's 'appened? Eorzea took a mighty blow durin' the Calamity, but our 'omes weren't the only things what got wiped off the face of existence by that thrice-damned bastard of a dragon."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "It took our bleedin' memories , too. An' no one's been able to explain it in a way as makes an onze o' sense."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "None o' the folks what saw it an' lived to tell the tale seem to agree on 'ow the tale actually goes. 'Tis all foggy...like recollections from an 'ard night on the ale. Ye can imagine why people might fear fer the future if they can't rightly recall the past."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "But there is one thing we all remember, an' that's the group o' 'venturers what laid down their lives to drag Eorzea back from the brink, when she was bound fer the abyss."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Well, I say we remember... Truth is, though we ain't forgotten what they did fer us, this godsdamned Calamity-spawned memory loss robbed us o' their names..."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "It won't even let us picture their damn faces. 'Tis like starin' at a gull flyin' in front o' the sun─all ye see in yer mind's eye is a shadow set against a blindin' glare. An' that's 'ow every bugger describes it, by the way...give or take the odd gull."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "It's this what's got people callin' these 'eroes the “Warriors o' Light.”"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "If Limsa's ever goin' to put this time o' darkness behind it, it's goin' to need 'venturers to 'elp banish the fear. It's goin' to need new 'eroes like the ones we lost."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Maybe one day ye'll be one of 'em. An' that's why any aid we can give to a 'venturer is effort well spent. What say ye, lad / lass ? Ye willin' to lend us yer strength?"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Me thanks to ye, an' to the Navigator an' all! I knew She'd steered ye my way fer a reason."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Ah, but listen to me, yatterin' on like a sun-touched fishwife. 'Tis 'igh time we got yer mark in me book."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Put yer scrawl right there."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Forename Surname , is it? An' a fine name it is."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Congratulations. Yer now an upstandin' member o' the 'Venturers' Guild."
+    },
+    {
+      "character": "Yellowjacket",
+      "text_en": "You there─adventurer. You sailed in on the last ferry, did you not?"
+    },
+    {
+      "character": "Yellowjacket",
+      "text_en": "The captain reported being attacked by a pirate vessel. And several witnesses have testified independently that a passenger matching your description went out on deck mere moments before the incident took place. Sending your friends signals, were you?"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Now 'old on a just a moment there, officer. Ye've got the wrong bloke / lass ."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "This fine, upstandin' young gent / lady is me dear departed grandma's sister's niece's cousin's closest companion. The lad / lass wouldn't be caught dead fraternizin' with such unsavory elements."
+    },
+    {
+      "character": "Yellowjacket",
+      "text_en": "...Is that right? Ahem. You are surely aware of the recent kidnappings? Respectfully, then, we cannot be too trusting of outsiders at a time when the loyalty of even our closest friends is in doubt."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Aye, ye make a good point there, officer, a very good point. Very wise. Ye needn't worry, though─I keep one eye open at all times, me, an' two more often than not. Now, sir, what say ye to a tankard o' me finest ale afore ye return to yer duties, eh?"
+    },
+    {
+      "character": "Yellowjacket",
+      "text_en": "Not a watered-down cup of piss like last time, I should hope?"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Ain't got the faintest idea what yer on about, officer. The Wench might offer some o' the cheapest grog this side o' the Strait o' Merlthor, but that don't mean it won't get ye good an' pickled! An' look, there's a chair over there just cryin' out to be sat on, so kick off them 'eavy boots, eh!?"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Ye'll 'ave to excuse these eager bloody Yellowjackets. There's been a spate o' kidnappin's, see, an' they ain't got a clue who's behind 'em. Naturally, they've taken to clappin' irons on anyone who looks vaguely suspicious, which means 'venturers, visitors...an' pretty much every bugger else in this town."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Don't take it personal, though. Us Lominsans can be an 'eadstrong bunch o' bastards, 'tis true, but given time, we'll grow on ye. Now, where was I...?"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Oh aye! Welcome to Limsa Lominsa, where the sea's as green as the faces o' me patrons after a few too many Blackbelly whiskeys!"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Now, take a moment to gather yer wits, an' we'll get started with learnin' ye the ways o' the city."
+    },
+    {
+      "character": "S'dhodjbi",
+      "text_en": "I don't mean to be rude, mister / miss , but I know a green adventurer when I see one. Trust me when I say you'd be better off having a chat with all the folk here before you start wandering the city like some wide-eyed farmer's get."
+    },
+    {
+      "character": "Quentenain",
+      "text_en": "Old up there, lad / lass . Afore ye trot out the door an' straight into some scrag's ambush, ye might want to partake of the Wench's wisdom─proprietor and patrons both."
+    },
+    {
+      "character": "Skaenrael",
+      "text_en": "Bit premature for you to leave, don't you think? Or have you already heard everything that shady bloke behind the big desk had to say? If so, then you should know it's only polite to spare a moment for those in need─like the Lalafellin lass at the table who's staring at you right now."
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "id": "to-guard-a-guardian",
+  "wiki_path": "/wiki/To_Guard_a_Guardian",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "To Guard a Guardian",
+  "level": "14",
+  "location": "New Gridania(X:11.7,Y:13.5)",
+  "npc_start": "Mother Miounne",
+  "dialogues": [
+    {
+      "character": "Mother Miounne",
+      "text_en": "Time is of the essence, so I shall speak plain."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Based on Luquelot's observations, the Ixal have designs on the Guardian Tree, and they mean to act soon."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "The tree is the oldest living thing in this ancient forest, and it is held sacred by every forestborn Gridanian."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Should it come to any harm, the elementals would fly into a rage beyond pacifying. I dread to think of the chaos that would ensue."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "There isn't much time. We must act quickly."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Forename , please see this letter to the hands of Bowlord Lewin, at the Seat of the First Bow in Quiver's Hold. Should the need arise, pray put yourself wholly at the man's disposal. I strongly suspect he will need all the able-bodied souls he can muster."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "The fate of Gridania hangs in the balance. Go swiftly, Forename ."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text_en": "An urgent message from Mother Miounne? Very well, you may enter."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text_en": "Mayhap the messenger has forgotten the message? Should you gather your wits, I will be here."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "So you are Forename Surname , the adventurer of whom I have heard so much. I understand you wish words with me."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Miounne has information on the Ixal, you say? Speak freely─you have both my ears."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "...Matron forfend! They mean to defile the Guardian Tree ?"
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Before Nophica, I swear those filthy birdmen will not touch it─nay, not so much as a single leaf!"
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Twelve help me! How can it be that neither the Wood Wailers nor the Gods' Quiver caught wind of this?"
+    },
+    {
+      "character": "Lewin",
+      "text_en": "I cannot help but think this plot bears the mark of the masked devil who has eluded us for so long. We must be wary─this incursion may be more than it seems."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Ah, would that the Warriors of Light were still with us..."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "But this is no time for such idle thoughts. I thank you for delivering this message. You may assure Miounne that I will dispatch a unit of my best men to investi─"
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text_en": "My lord!"
+    },
+    {
+      "character": "Lewin",
+      "text_en": "What is it!?"
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text_en": "It's the Ixal, sir! The Ixal have amassed at the Guardian Tree!"
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Already!? Bloody hells..."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Forename ─Miounne believes you capable, and I can think of no better judge than she. Lend us your strength this day─aid in the defense of the Guardian Tree!"
+    },
+    {
+      "character": "Gods' Quiver Instructor",
+      "text_en": "The Bowlord sent you, yes? Good to have you with us!"
+    },
+    {
+      "character": "Gods' Quiver Instructor",
+      "text_en": "The birdmen have completely surrounded the Guardian Tree, and their calls grow more urgent by the minute."
+    },
+    {
+      "character": "Gods' Quiver Instructor",
+      "text_en": "Whatever it is they mean to do, we cannot let them go through with it. They must be stopped, no matter the cost!"
+    },
+    {
+      "character": "Ixali Occultists",
+      "text_en": "~( O mournful voice of creation! O mournful voice of time! )~"
+    },
+    {
+      "character": "Ixali Chieftain",
+      "text_en": "Squaaawk! Attend me, all!"
+    },
+    {
+      "character": "Ixali Chieftain",
+      "text_en": "To us, this forest, Tinolqa, belongs!"
+    },
+    {
+      "character": "Ixali Chieftain",
+      "text_en": "Wisdom of Paragons, we possess! To our former glory, restore us it will!"
+    },
+    {
+      "character": "Ixali Chieftain",
+      "text_en": "From this tree, a great crystal we take! Unto Garuda, an offering we shall make!"
+    },
+    {
+      "character": "Ixali Chieftain",
+      "text_en": "Unfeathered ones and elementals, banish we shall! Our ancient home, reclaim we will! Squaaawk!"
+    },
+    {
+      "character": "Lewin",
+      "text_en": "First squad, left flank. Second and third, right flank."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "The rest, form the main host with me. It is high time we reminded our Ixal guests why we Quivermen are to be feared!"
+    },
+    {
+      "character": "Lewin",
+      "text_en": "This position is yours, adventurer. May the elementals keep you!"
+    },
+    {
+      "character": "Ixali Chieftain",
+      "text_en": "Squawk!?"
+    },
+    {
+      "character": "Ixali Chieftain",
+      "text_en": "Interrupt us, you dare!? In your own blood, you shall bathe!"
+    },
+    {
+      "character": "Galfrid the Gallant",
+      "text_en": "The enemy chieftain is mine!"
+    },
+    {
+      "character": "Miraudont the Madder",
+      "text_en": "We shall engage the main flock!"
+    },
+    {
+      "character": "Galfrid the Gallant",
+      "text_en": "Another wave!? Where are they coming from!?"
+    },
+    {
+      "character": "Quzal Huatotl the Shrieker",
+      "text_en": "Wisdom of Paragons, almighty is! Perish, unfeathered ones shall!"
+    },
+    {
+      "character": "Quzal Huatotl the Shrieker",
+      "text_en": "Creature of the abyss! Mine enemies, strike down!"
+    },
+    {
+      "character": "Galfrid the Gallant",
+      "text_en": "A voidsent!? Th-This bodes ill!"
+    },
+    {
+      "character": "Miraudont the Madder",
+      "text_en": "Hold fast! We almost have him!"
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text_en": "Impressive work, adventurer."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text_en": "The Bowlord bids you hold this position. Enemies may yet lurk near, so stay on your guard."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text_en": "We go to bolster the left flank, where the battle yet rages."
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "The source of his / her strength becomes clear..."
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "You may have bested the golem, but you will not fare so well this day."
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "~( O mournful voice of creation! Send unto me a creature of the abyss, my thrall to command, that I may smite mine enemies! )~"
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "Your very being imperils the plan. You cannot be suffered to live."
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "Soon, you shall take your vile gifts to the grave!"
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "Mwahahaha! Writhe! Writhe as the venom eats its way through your veins!"
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "How is this possible...?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "I trust you won't object to our assistance!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Looks like you could do with a hand!"
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "Unwelcome guests... No matter, all shall fall before me!"
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "Whence comes your strength!?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "It is past time we finished this!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Come on! We're almost there!"
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "Unnngh... That the wisdom of the Paragons should be brought low...by mere mortals... collapses"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "...Paragons?"
+    },
+    {
+      "character": "Yda",
+      "text_en": "That's what I heard."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "The Bringers of Chaos...or Ascians , to give them their proper name."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "It would seem our suspicions were correct─it is they who have been manipulating the beast tribes."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Forename , are you unharmed!? Had I known this creature was near, I would have sent men , not called them away!"
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text_en": "There is no mistake, sir─he is the one who stirred the Ixal from their nest. Our intelligence was reliable."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "So this is the man who has eluded us for so long?"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Right! We finally got him!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "We sensed an ominous presence, and came here as swiftly as our legs would carry us."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Well, it's good to know what we're up against, anyway."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "My thanks as ever, friends."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Quivermen! Move out!"
+    },
+    {
+      "character": "Lewin",
+      "text_en": "To say you played an instrumental role in the success of this mission would scarcely do justice to your efforts this day, adventurer. Upon your return to Gridania, pray visit me at Quiver's Hold. I will see to it that you receive the thanks you are due."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Hmmm...you're probably wondering why we always seem to appear when there's trouble, right?"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Well, trust me when I tell you that it's almost never our fault. Despite what it looks like, Papalymo and I are actually helping the Gridanians. And we've been doing so for a good few years, too. Oh! Did I mention that we're not from around here?"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Hm? Why, yes, we are Sharlayans! However did you know?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "So I wasn't mistaken..."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Mistaken? About what?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Nothing. Nothing at all."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Awww! You always do that! Mumble something loaded with meaning, only to keep it to yourself when someone asks! It's unfair! And it's especially unfair when the someone is me!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Oh, do calm down! I'll tell you later."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Hmph! I bet you won't. Anyway, all's well that ends well."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "...Quite. We'd best be on our way."
+    },
+    {
+      "character": "Yda",
+      "text_en": "See you later!"
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text_en": "Welcome back, adventurer. Your exploits at the Guardian Tree are the stuff of songs. The Bowlord awaits you within."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text_en": "Let me know when you are ready to proceed, and I will admit you."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "I have awaited your return, Forename . Allow me to thank you again for helping us to defend the Guardian Tree."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Not only did you put the invading Ixal to rout─you confronted the masked mage and his fell minion, and emerged the victor."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "I have good men and women under me, none of whom give me cause for complaint─but you, Forename , are a class apart."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Your strength, your determination, your heart..."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "You have all the makings of a great adventurer. Miounne is seldom mistaken in her appraisals, and she is plainly not mistaken now."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Gridania is stronger for your presence. The Elder Seedseer will doubtless be pleased to learn that a capable adventurer like you has come to us."
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Once more, I thank you. Owing to your valor, disaster has been averted."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text_en": "Elder Seedseer!"
+    },
+    {
+      "character": "Lewin",
+      "text_en": "My lady!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I am come to express my gratitude for your valiant efforts before the Guardian Tree."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I am informed that an adventurer of singular talent now walks amongst us. You are she, are you not?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Hm? You seem...familiar to me. We have...met before?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "No...I do not believe we have."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Forgive me. Mayhap you are merely exactly as I pictured you when the elementals told me of your deeds."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "My name is Kan-E-Senna, and it is my solemn charge to watch over all who call Gridania home."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Well met and well come to our fair nation."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "It was your valor that won us the day, I believe. On behalf of all Gridanians, I offer you my humblest thanks."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "This gift I present to you as a small token of my gratitude. I hope that you will ever remain a friend to Gridania."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Greenbliss is coming. It is an age-old ceremony to renew the bond between man and elemental."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Over the centuries, it has blossomed into a joyous festival encompassing Gridanians from every walk of life."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I should be most gratified if you would participate in the ceremony as Emissary."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text_en": "<gasp>"
+    },
+    {
+      "character": "Lewin",
+      "text_en": "Such a great honor!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I look forward to seeing you on that most joyous of days."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Till then, fare you well. May you walk in the light of the Crystal."
+    }
+  ]
+}

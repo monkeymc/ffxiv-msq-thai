@@ -1,0 +1,272 @@
+{
+  "id": "lurkers-in-the-grotto",
+  "wiki_path": "/wiki/Lurkers_in_the_Grotto",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Lurkers in the Grotto",
+  "level": "5",
+  "location": "Middle La Noscea(X:25.6,Y:17.0)",
+  "npc_start": "Staelwyrn",
+  "dialogues": [
+    {
+      "character": "Staelwyrn",
+      "text_en": "Ah, Surname . That aura of confidence tells me you've not been idle since last we met."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "I hope I've read you aright, for I've a task that requires the attention of a capable adventurer. Might that adventurer be you?"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Good to hear. Then I shall lay before you the sorry tale."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "You will have heard rumors of the abductions. Aye, citizens have been disappearin' from every corner of Limsa Lominsa , as if plucked from the face of Hydaelyn , boots and all, by an unseen hand."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "And what's this got to do with Summerford Farms , you might ask. Well, that remains to be seen, but it seems a collection of right unsavory fellows with azure-tattooed faces has been creepin' up to the edges of the fields and spyin' on my yeomen."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Now, I doubt anyone would enjoy bein' scrutinized by such savages at the best of times, but the farmhands are convinced that they're the kidnappers of rumor, come for their hides."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Needless to say, they're beside 'emselves with worry, and their work's sufferin' for it -- which is the very last thing I need when my old crewmen are still gettin' used to their new jobs. 'Tis a struggle to get 'em to leave the farmhouse of a mornin'."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "That is, as they say, where you come in. Would you be willin' to investigate these tattooed thugs for me?"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Good lass. The sooner we get to the bottom of this, the sooner this place will start to resemble a workin' farm again."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "I suggest you begin by havin' a look around Seasong Grotto . If reports are to be believed, our unwelcome visitors have occupied the place."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Be careful, though, Surname -- I couldn't say for sure what manner of miscreants we're dealin' with here. If they are the kidnappers... well, just be on your guard, all right?"
+    },
+    {
+      "character": "???",
+      "text_en": "I am the waves that bear. I am the winds that guide."
+    },
+    {
+      "character": "???",
+      "text_en": "I am the evening stars. I am the morning sky. I am born of the sea. And there shall I die."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Thus reads the Sailors' Requiem carved into yonder stone."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Such words well describe the manner in which the citizens of Limsa Lominsa live their lives."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "It is both a litany against misfortune for those out on the waves..."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "...and a prayer that the souls of those who perish on land might find their way back to the sea."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Ah, you are the adventurer I've seen around Summerford Farms."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "I thought myself on the trail of the kidnappers, but it would seem I have missed my mark."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "...Or perhaps not."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "As I suspected, the aetheric disturbance here is no natural occurrence."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Nor is it a coincidence that the two of us should come here in search of those responsible for the disappearances only to be attacked."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "But who stands to benefit from the keeping of this secret?"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Such thoughts must wait. Let us attend to the task at hand, unpleasant though it be."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "I sense something awry with this creature. Be on your guard."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Ware! The disruption of the aether draws others to the fray!"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Keep your focus on the battle! Leave the tending of wounds to me."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "More unwelcome visitors? Slay them quickly lest we be overwhelmed."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "The creature falters. Press the attack and the battle will soon be won."
+    },
+    {
+      "character": "???",
+      "text_en": "Hear... Feel... Think..."
+    },
+    {
+      "character": "???",
+      "text_en": "Crystal bearer..."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "I am Hydaelyn . All made one."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "A Light there once was that shone throughout this realm... yet it hath since grown dim."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "And as it hath faltered, so hath Darkness risen up in its stead, presaging an end to Life."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "For the sake of all, I beseech thee: deliver us from this fate!"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "The power to banish the Darkness dwelleth in the Crystals of Light. Journey forth and lay claim to them."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "By thy deeds shall the Crystals reveal themselves to thee."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Only believe, for the Light liveth in thy heart."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Go now, my child, and shine thy Light on all creation."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Awake again, are we?"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Aha. The poor creature's fury was kindled with cruel forethought."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "See this blade ? I found it in the goobbue 's back."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "I have seen knives of this kind before -- they are most commonly used for the cutting of rope."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "It would appear our culprits are seafaring men of some persuasion... piratical being the most probable."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "In any event, you seem much recovered from your sudden... affliction."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "I confess, I was rather taken aback when you collapsed at the very moment of our victory. Mayhap a surfeit of aether...?"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "I beg your pardon? A “towering crystal”? I'm sure I don't-- Oh."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Well, well... This has been a day of unexpected revelations."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "I must continue my investigation."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "In the meantime, I suggest you deliver this knife to your patron, along with a warning concerning the pirates' probable involvement in this murky business."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "The days ahead promise little rest, I fear..."
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "May our paths cross again under the light of the Crystal."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Surname ! Right glad am I to see you safely returned!"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "My lads were all gabbin' about hearin' what sounded like all seven hells breakin' loose near the grotto, and I feared I'd sent you to your death."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "If you were in the middle of that commotion, I hope it yielded somethin' of interest. I'd hate to think you'd risked your life for naught."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Hmmm... A blade pulled from the back of a creature you slew at the cave, eh?"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Aye, I'd agree that such a knife would be part of any seafarin' man's kit."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "I'm startin' to think that these ruffians are pirates, come to lure my farmhands back to a life of plunder. Chances are, they didn't take kindly to your appearance on their doorstep, and set a maddened goobbue on you."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Aye, the pirates have been addin' to their numbers of late. I'd best warn the lads and lasses in my employ to be on guard against their schemes."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "...Hm? You met someone else at the grotto? A woman with a strange contraption...? Ah... Y'shtola !"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "She's been in Limsa Lominsa for a good while now. Her studies of the aether often bring her out to Summerford, so her presence at the grotto is hardly unusual."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "She's an odd-lookin' lass, I grant you, but she's not the kind to associate with kidnappers. You may take my word for that."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Where trust should be lackin' is in those yeomen of mine who have yet to wholly relinquish their pirate pasts. The temptation to return to the free and easy life of a buccaneer may prove too strong to resist."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "You have my thanks, Surname . If it weren't for the efforts of stalwart adventurers like yourself, this farm would be in a far worse state than it is."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Just you keep on lendin' your talents to those in need, eh? Help bring Limsa the brighter future she deserves."
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "id": "every-little-thing-she-does-is-magitek",
+  "wiki_path": "/wiki/Every_Little_Thing_She_Does_Is_Magitek",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Every Little Thing She Does Is Magitek",
+  "level": "46",
+  "location": "Mor Dhona(X:6.0,Y:6.0)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text_en": "The repairs are proceeding apace. It shouldn't be long now before Biggs and Wedge complete their work. There is, however, one small problem..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "As you may recall, the machina's servomechanism was discovered to be faulty. Wedge has subsequently ascertained that the magitek core which drives it is worn beyond use."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Such cores are rather fragile devices which must be replaced at regular intervals. Thanks to the negligence of our imperial colleagues, however, the one used in this reaper was long overdue."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Alas, we do not have access to a ready replacement here in Mor Dhona. But all is not lost: Wedge thinks he may have identified an alternative solution. Go and see him, would you? He'll explain the details to you."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Much like that gamble with the corrupted crystal, it's quite possible that this plan fails spectacularly. But it's a risk we'll have to take in order to free our friends."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "As I believe the chief has already informed you, the magitek core is worn beyond use. We need to find a replacement."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I thought about having you appropriate more reapers, but even if the dunderhead maintenance engineers of Castrum Centri had remembered to replace their cores, we would risk arousing imperial suspicion."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "But do not despair, for I believe there is a solution: to substitute the magitek core with a mammet heart!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "In case you don't know, a mammet heart can be used to grant sentience to an automaton. By my reckoning, such a device should be more than capable of regulating the armor's servomechanism. We'll just need to make some minor modifications to the housing unit."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I've already placed an order for a first-rate mammet heart with the Goldsmiths' Guild. All that remains is for someone to go to Ul'dah and collect it! Oh...and to pay for it. Ahem. Did I...mention how much they cost? No? W–Well, they typically cost something in the order of, um... <mumble> I hope you don't mind footing the bill─it's for a good cause!"
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "Hello there! Come to collect a mammet heart, you say?"
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "Then you must be here on behalf of Garlond Ironworks! I've taken the liberty of picking the finest example we have─a heart fit for a prince among mammets!"
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "...Payment? Oh, that won't be necessary. The heart is for Master Alphinaud's personal use, after all. He notified us a short while ago that his manservant would be coming to collect it."
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "Tender in years though he may be, Master Alphinaud has been a benefactor of ours since my predecessor's time. The Goldsmiths' Guild wouldn't dream of charging him."
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "But here is the mammet heart! May it serve you well! Oh, and please do pass on my compliments to your master!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Do you have the mammet heart? I can't wait to see if it works!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Hurrah! Thank you so much!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "<gasp> But this...this is magnificent ! It must have cost an emperor's ransom!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "...Free of charge, courtesy of Alphinaud!? Coming from an influential family certainly has its advantages!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "But without further ado, let's give it a try! I've already modified the housing unit, so it should slot right in!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "There! She's ready! Magitek armor...engage!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "...Or not. Haha...hah... She just needs a loving tap, I'll wager."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Yes! She's...she's ALIVE!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Let's take her outside and put her through her paces! Forename , would you care to do the honors?"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Hop into the pilot's seat! We'll begin as soon as you're ready!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "First, I'd like you to try climbing that tangle of crystals yonder─as far up as you can go, if you please."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Oh, and if for some reason you need to dismount, simply come back here and we'll start again."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Um...a fine effort, Forename , but you seem to have left Maggie behind─I-I mean the reaper. Come back here so we can start again."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Let's try that again, shall we? Hop back in, Forename !"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "I've overseen a hundred such tests, but they still play hells with my nerves. And that's without the chief watching..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "This is the Ironworks' first major project since my return. I mean to see that it's a success."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "No anomalous movements evident from either leg. Good. Next, jump back down and then sprint north, quick as you can!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Leg joints absorbing all impact without incident... Excellent. Please make your way back, Forename ."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "The torso remains stable during vigorous motion... Excellent. And that concludes our test. Thank you for your cooperation!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Here is a summary of my findings. The drivetrain is in sound condition. With some fine-tuning, we can expect a noticeable improvement in performance. As for the servomechanism..."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I'm afraid it's not nearly as responsive as it should be, and I'm at a loss to explain why. The mammet heart is in pristine condition, and should be installed correctly. Perhaps its inner workings are simply too different to operate harmoniously with the armor's other mechanisms?"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Whereas magitek cores serve only to conduct impulses, mammet hearts enable automata to process the information collected by their sensors as feeli─ <gasp> Feelings ! Maybe she just doesn't feel like part of the team!? In which case, we should all do our best to make her feel [welcome]!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Come on, everyone! Let's give Maggie here a warm [welcome]! Really make her feel at home!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "...You're not serious. You want us to welcome an inanimate object?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I take it Wedge's suggestion has given you pause. Well, I don't blame you. The lad does have some rather unorthodox ideas. Still, orthodoxy did not give us language, tools, clothes...or machina. Short of a better idea, I don't suppose it would hurt to try."
+    },
+    {
+      "character": "Magitek Armor",
+      "text_en": "..."
+    },
+    {
+      "character": "Magitek Armor",
+      "text_en": "<click>"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Daft as it felt, I gave it my best. I've welcomed myself to a bloody standstill. What were you expecting it to do anyway? Bob us a curtsy?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "No doubt you're wondering why the servomechanism is so important as to warrant this silliness."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Without it, the pilot would be required to control the armor's every movement manually. This would be an onerous task at the best of times, and wholly impractical during battle."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Using a mammet heart in place of the worn magitek core seemed a promising solution. Alas, the device does not appear to be compatible with Garlean technology."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Wedge, are there no other ways we might demonstrate our appreciation to our friend here?"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I'm at my wit's end, Chief. She just...doesn't seem convinced. We could try a little dance, perhaps, or cheer our heads off...?"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Imperials! They've come for the armor!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Damn it! They have us cornered!"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "There's the reaper!"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "Taken by the traitor Garlond─and is that the eikon-slayer !? Oh, bollocks..."
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "Call for reinforcements!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "The hells you will!"
+    },
+    {
+      "character": "Imperial Runner",
+      "text_en": "We've located the stolen reaper! Requesting immediate assistance! Respond! Respond !"
+    },
+    {
+      "character": "Imperial Runner",
+      "text_en": "It's no use, sir! There's some sort of interference!"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "Curse you, Garlond!"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "No matter! If we can't reclaim it, destroy it!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Bloody hells... Forename ─protect the armor at all costs!"
+    },
+    {
+      "character": "5th Cohort Secutor",
+      "text_en": "We cannot suffer the enemy to use our weapons against us!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "You're not undoing our hard work!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "They're on their own! We can take them!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Uwaaah! Keep them away from Maggie!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Oh no! She's taking damage!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Sh-She's in a bad way! Somebody, do something !"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "No! Maggie! Why? WHYYY!? <sob>"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Don't...let them take... Ungh..."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Chief, look! She moved!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Ah, now she deigns to grace us with her presence!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "It took us a good while, but we're finally ready."
+    },
+    {
+      "character": "Cid",
+      "text_en": "It's time to infiltrate Castrum Centri and rescue our comrades!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "There, the finishing touch!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "The servomechanism is now fully functional─and all it took was a simple fight to the death. Remind me not to install a mammet heart aboard the Enterprise , would you? Much as I love her, I would rather not be required to profess it before boarding. But enough of that. Let us see to our final preparations."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Thanks to Biggs and Wedge, the reaper is as good as new. We're as prepared as we're like to get!"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "getting-even-with-garlemald",
+  "wiki_path": "/wiki/Getting_Even_with_Garlemald",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Getting Even with Garlemald",
+  "level": "44",
+  "location": "Mor Dhona(X:22.5,Y:7.5)",
+  "npc_start": "Glaumunt",
+  "dialogues": [
+    {
+      "character": "Glaumunt",
+      "text_en": "...So you have friends at Castrum Centri what want for rescue. That Slafborn knows me too well─aye, you can count on my help."
+    },
+    {
+      "character": "Glaumunt",
+      "text_en": "I've got a score to settle with the imperials, an' I never pass on an opportunity to get back at the whoresons. But enough about me, let's talk strategy."
+    },
+    {
+      "character": "Glaumunt",
+      "text_en": "Rescuin' folk from captivity's right delicate business. A single oversight─just one little blunder─an' it's all over. You can't leave any room for uncertainty."
+    },
+    {
+      "character": "Glaumunt",
+      "text_en": "For starters, you need to confirm beyond the shadow of a doubt that your friends're where you think they are. You don't want to risk your neck only to discover they've been moved elsewhere. But how can you find out, you ask? By followin' these instructions:"
+    },
+    {
+      "character": "Glaumunt",
+      "text_en": "If you approach Centri from the east, you'll see a swampland to your left called the Tangle. Get in there, never mind all the morbols, an' navigate your way to the southwestern corner."
+    },
+    {
+      "character": "Glaumunt",
+      "text_en": "You'll come upon some drainage pipes comin' down from the stronghold. Don't ask me how I know, but one o' them leads back up to the command tower. If you listen closely, might be as you can eavesdrop on some o' the happenin's within."
+    },
+    {
+      "character": "Glaumunt",
+      "text_en": "Once we know for certain your friends're there, we'll move to the next stage o' the operation. Now, get goin', and godsspeed!"
+    },
+    {
+      "character": "Collected Voice",
+      "text_en": "What of the captive? Does she still refuse to speak?"
+    },
+    {
+      "character": "Youthful Voice",
+      "text_en": "She may as well be a deaf-mute for all the information we've gotten out of her."
+    },
+    {
+      "character": "Gruff Voice",
+      "text_en": "The others aren't much better. The Elezen gets on my nerves most of all. Every time he opens his mouth, it's only to spout gibberish."
+    },
+    {
+      "character": "Youthful Voice",
+      "text_en": "I do wonder, why is the tribunus so obsessed with this Minfilia woman?"
+    },
+    {
+      "character": "Gruff Voice",
+      "text_en": "They say she possesses some mystical power. Something we Garleans don't have."
+    },
+    {
+      "character": "Youthful Voice",
+      "text_en": "Mystical power? Like the kind the beastmen use?"
+    },
+    {
+      "character": "Gruff Voice",
+      "text_en": "How am I supposed to bloody know? If you're so curious, why don't you ask the tribunus yourself?"
+    },
+    {
+      "character": "Youthful Voice",
+      "text_en": "As well try to tumble her! I like my head where it is, thank you very much!"
+    },
+    {
+      "character": "Collected Voice",
+      "text_en": "Our break is over. Best we get back to our stations."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis good to see you again, Forename . I'm given to understand you have conducted some reconnaissance. Tell me, what were you able to learn?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...So Minfilia and the others are indeed at Castrum Centri! Their presence thus confirmed, we may proceed with the mission. While you were afield, Cid took the liberty of devising a plan of action. Pray have the details from him."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Good work, Forename . As Alphinaud has already told you, we've plotted out a course for the rescue."
+    },
+    {
+      "character": "Cid",
+      "text_en": "The gist of it is unchanged: we disguise ourselves as imperial soldiers and infiltrate the stronghold."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Glaumunt is looking into ways to procure a suit of magitek armor. In the meantime, I need your assistance for some preparation of my own."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Minfilia and the others are counting on us, Forename . Let's not keep them waiting any longer than necessary!"
+    }
+  ]
+}

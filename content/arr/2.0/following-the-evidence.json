@@ -1,0 +1,72 @@
+{
+  "id": "following-the-evidence",
+  "wiki_path": "/wiki/Following_the_Evidence",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Following the Evidence",
+  "level": "38",
+  "location": "Coerthas Central Highlands(X:26.7,Y:17.4)",
+  "npc_start": "Haurchefant",
+  "dialogues": [
+    {
+      "character": "Haurchefant",
+      "text_en": "As I see it, the key to proving Lord Francel's innocence is discrediting the evidence against him. I speak of the draconian rosary found in the chest you yourself recovered. If you would, please tell me of the incident in question."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "...So it was found in a locked chest labeled as the property of Lord Francel. If the rosary was not his, then someone else with access must have planted it. Here is what you must do: return to Skyfire Locks and speak with Rickeman. He works closely with the porters who ferry goods across Coerthas, so he may have some inkling of who could be responsible."
+    },
+    {
+      "character": "Rickeman",
+      "text_en": "Eh? Someone tamperin' with shipments? Fury strike me down, if all them rosaries found in our people's possessions were planted... Hey now, don't you give me that look, lad / lass ! I'm a House Haillenarte man through an' through. This heresy nonsense is bad for me an' my family too!"
+    },
+    {
+      "character": "Rickeman",
+      "text_en": "I ain't sayin' the porters what were bringin' the shipment did it, though. I know most of them what work the trade routes, an' I've never had cause to question their faith. But if it wasn't them neither, then your guess is as good as mine. After all, most every shipment is thoroughly inspected before it─"
+    },
+    {
+      "character": "Rickeman",
+      "text_en": "Eh? Could it've been the fellas what were responsible for the inspections? Hah! Ishgardian knights and inquisitors, the lot of them. As if they'd ever turn their cloaks. <sigh> Reckon that means the porters are your most likely suspects."
+    },
+    {
+      "character": "Rickeman",
+      "text_en": "Hate to think it, but maybe you should question them. There's a crew comin' to Camp Dragonhead from Whitebrim Front this morn / today / this eve . You might consider havin' a word with them."
+    },
+    {
+      "character": "Plain-spoken Porter",
+      "text_en": "No time to talk─we're on a tight schedule. Once we've made our deliveries here, we're to deliver parcels to Skyfire Locks."
+    },
+    {
+      "character": "Apathetic Porter",
+      "text_en": "Beg your pardon? You suspect that we porters have been planting draconian rosaries in House Haillenarte shipments!? What nerve! If you truly believe such nonsense, search our parcels and see what you find!"
+    },
+    {
+      "character": "Apathetic Porter",
+      "text_en": "Are we finished? If so, I would appreciate an apology."
+    },
+    {
+      "character": "Apathetic Porter",
+      "text_en": "But...but that's impossible! Once the knight at Whitebrim Front concluded her inspection, I loaded the parcels into the wagon myself!"
+    },
+    {
+      "character": "Apathetic Porter",
+      "text_en": "And if I had been the culprit, I would have never allowed you to search my shipments! Say what you will to Lord Haurchefant─I will not be held accountable for this!"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Did something happen outside? I thought I heard shouting... Ah, but more importantly, what did Rickeman have to say?"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "More draconian rosaries!? In every single parcel bound for Skyfire Locks? That beggars belief!"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Even the inquisitors must acknowledge that this is no more than a crass attempt to sully House Haillenarte's reputation. Whoever is responsible has overplayed his hand."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "And praise Halone that he did! Lord Francel's trial is upon us, and we must act now if we are to clear his name!"
+    }
+  ]
+}

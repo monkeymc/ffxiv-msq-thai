@@ -1,0 +1,41 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getAllQuests } from '../../lib/quests';
+
+const quests = getAllQuests();
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<Layout title="สารบัญ">
+  <div class="toc-header">
+    <h1>สารบัญ Quest</h1>
+    <p>Seventh Umbral Era — A Realm Reborn 2.0 ({quests.length} quests)</p>
+  </div>
+
+  <table class="quest-table">
+    <thead>
+      <tr>
+        <th>Lv</th>
+        <th>ชื่อ Quest</th>
+        <th>สถานะ</th>
+      </tr>
+    </thead>
+    <tbody>
+      {quests.map(q => (
+        <tr>
+          <td class="lv">{q.level}</td>
+          <td class="title">
+            <a href={`${base}/quests/${q.id}/`}>
+              {q.title_en}
+              {q.title_th && <span class="title-th-inline"> · {q.title_th}</span>}
+            </a>
+          </td>
+          <td>
+            {q.source === 'contributor' && <span class="badge badge-contributor">ชุมชน</span>}
+            {q.source === 'ai' && <span class="badge badge-ai">AI</span>}
+            {q.source === 'none' && <span class="badge badge-pending">รอแปล</span>}
+          </td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</Layout>

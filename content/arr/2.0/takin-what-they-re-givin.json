@@ -1,0 +1,64 @@
+{
+  "id": "takin-what-they-re-givin",
+  "wiki_path": "/wiki/Takin%27_What_They%27re_Givin%27",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Takin' What They're Givin'",
+  "level": "10",
+  "location": "Ul'dah - Steps of Nald(X:11.6,Y:9.6)",
+  "npc_start": "Momodi",
+  "dialogues": [
+    {
+      "character": "Momodi",
+      "text_en": "Look what the coeurl dragged in. Good to see you, Forename . I'd ask what brings you, but I reckon we both know the answer to that already."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Well, have I ever let you down before? Wait, don't answer that..."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "So happens I know a fella by the name of Dadanen who needs a hand. He's a merchant by trade, sellin' precious stones to those in Ul'dah with the means to buy them."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "He's asked that I send any lookin' for work his way. You can find him over in Horizon, if you fancy."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "That's in western Thanalan, mind you. Just cross the bridge north of Scorpion Crossing and the road will take you there."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Knowin' the circles he deals in, might be he'll have some talk of the royal family that'll interest you, as well."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "And why not make use of a chocobo porter for the journey to Horizon? If you've the gil for it, that is."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "You'll find the chocobo stables just across the way from my Quicksand. Find Mimigun ─he'll set you straight."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Well, off you go, then. I haven't got all day to be holdin' your bloody hand!"
+    },
+    {
+      "character": "Dadanen",
+      "text_en": "Forename , I presume? Aye, Momodi said to expect you, and so I have."
+    },
+    {
+      "character": "Dadanen",
+      "text_en": "Welcome to Horizon. Ours is a trading settlement that sees goods in from the port of Vesper Bay to the west─and trade we do. Nary a day goes by that Horizon isn't bustling with some manner of merchants and officials."
+    },
+    {
+      "character": "Dadanen",
+      "text_en": "They keep us running about busy, they do. Enough so that I wish I had chocobo legs in place of my own. And that's why I've asked Momodi to send me any souls looking for work."
+    },
+    {
+      "character": "Dadanen",
+      "text_en": "Twelve know there is plenty of it to be done around here. Speak to me again when you are ready to make yourself of some use."
+    }
+  ]
+}

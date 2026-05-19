@@ -1,0 +1,176 @@
+{
+  "id": "in-the-company-of-heroes",
+  "wiki_path": "/wiki/In_the_Company_of_Heroes",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "In the Company of Heroes",
+  "level": "33",
+  "location": "Eastern La Noscea(X:32.6,Y:30.5)",
+  "npc_start": "Y'shtola",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "...You have the look of a man / woman who has been to the seventh hell and back."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That a guest should be expected to supply the victuals for a banquet held in his / her own honor... And this while the shadow of Titan looms over us all! It beggars belief."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I can only applaud your stoicism. Had I been asked to endure such ignominy, I fear I should have accepted my lot with less grace."
+    },
+    {
+      "character": "Gegeruju",
+      "text_en": "Lady Y'shtola! Sir / Lady Surname !"
+    },
+    {
+      "character": "Gegeruju",
+      "text_en": "A thousand pardons for this extreme discourtesy! I was wholly unaware of your true identity, sir / madam ! Had I known, I would never have permitted my man to subject you to such unspeakable ordeals!"
+    },
+    {
+      "character": "???",
+      "text_en": "Come now, he / she must have sensed something was amiss."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "You didn't seriously think I would send you running the length and breadth of Eorzea for a banquet , did you?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Spare him / her your mockery, Captain. Your intent was unclear to me until this moment. And unlike me, Forename has no knowledge of your traditions. Mayhap you would be so good as to enlighten him / her ."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Aye, aye...fair's fair. There's no sense hiding it any longer."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "We five were chosen by our brothers and sisters, and before the Company of Heroes disbanded, we each swore a solemn oath..."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "That any who would follow in our footsteps must be weighed and measured─not by their reputation, but by their deeds."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Each man would judge these would-be god-slayers by his own criteria. If even one found him / her wanting, he / she would be rejected without a second thought."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "But if he / she proved himself / herself worthy, we swore that we would do our utmost to support his / her cause."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "The world has ever been full of brave souls eager to give their lives for a righteous cause, but all too few capable of making a difference with their sacrifice. To send wave after wave of hapless adventurers into the jaws of a foe against whom they have no hope of victory is worse than futile. Titan is not one to be challenged lightly, and we will not be complicit in the deaths of the unworthy."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Which is why the five of you deigned to test Forename with such commendable thoroughness. Time well spent, I am sure. But tell us, Captain: what is the assessment of you and your fellows?"
+    },
+    {
+      "character": "Landenel",
+      "text_en": "He / She 's a brave one, that much is certain. He / She willingly walked into the midst of danger, despite my repeated warnings that it could cost him / her his / her life."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "His / Her skill is undeniable. He / She stalked his / her prrrey as relentlessly as any child of the sands, and struck with precision when an opportunity presented itself."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "Too many adventurers these days care only for fortune and glory. Forename , however, is a kind and generous soul. I am certain he / she has no shortage of loyal allies who will gladly fight at his / her side."
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text_en": "Pshhh... Shkohhh... Wily uplander is talentful plansmaker. Tricksy foe for mighty rockman!"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "I can only concur with my colleagues' assessments."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "We five of the Company of Heroes hereby judge you a worthy challenger. Cast down the Lord of Crags, Forename Surname , and write a new chapter in the history of Eorzea."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "With the formalities out of the way, let the festivities begin! Summon the dancers, pour the wine!"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Eat, drink, and be merry, my friends, for today we celebrate the birth of a new legend─ Forename Surname , Titan's Bane!"
+    },
+    {
+      "character": "Company of Heroes",
+      "text_en": "Forename Surname , Titan's Bane!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Greetings, Forename . I thought it fitting that I seek you out and offer my gratitude for all that you have accomplished."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "It has been too long since I last set foot outside Forgotten Springs. Passing the time with old frrriends and old wine... Aye, today is a good day indeed."
+    },
+    {
+      "character": "Landenel",
+      "text_en": "Seeing everyone again like this brings back such fond memories. Hmmm...I wonder if any of them would be interested in reforming the Company?"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text_en": "Pshhh... Shkohhh... Tastyfresh treats are plentiful in belly of Brayflox!"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "It feels wonderful to be with the others again. I wish this day would never end..."
+    },
+    {
+      "character": "Bronze-skinned Beauty",
+      "text_en": "Congratulations, sweetling! Now relax and enjoy the show─it's only just begun!"
+    },
+    {
+      "character": "Bronze-skinned Beauty",
+      "text_en": "(Your Elezen friend is quite the dashing rogue. Any chance you could introduce me?)"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "When you face the Lord of Crags, think not of Limsa Lominsa, Eorzea, or anything beyond his chamber. Think only of the men and women by your side."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "Fight for them, and they will fight for you. Remember that no great victory was ever achieved alone."
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text_en": "Pshhh... Shkohhh... Goodly uplander must be facing mighty rockman with clever fighty-think. Gobbieflock cannot be coming to rescue this time!"
+    },
+    {
+      "character": "Landenel",
+      "text_en": "Ah, Forename , you brave fool! Promise me that when you meet Titan, you'll look him in the eye and tell him Landenel sends his regards!"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "You are blessed with a fortitude to rival the earth itself. Titan will struggle to break you, I think."
+    },
+    {
+      "character": "Landenel",
+      "text_en": "Ah, Forename , you brave fool! Promise me that when you meet Titan, you'll look him in the eye and tell him Landenel sends his regards!"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "You are a veteran of countless battles, Forename . This is but one more. Trrrust in your experience, and you will prevail."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "You are blessed with a fortitude to rival the earth itself. Titan will struggle to break you, I think."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...You are kind to indulge them, Forename . This banquet is as much for the Company as it is for you, whatever they may claim."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I do not deny that they mean well, but now is scarcely the time for celebration. Though they have all but pronounced you the victor, the battle with Titan has yet to begin. The hour has come for the good captain to make good on his promise. We must speak with him again."
+    }
+  ]
+}

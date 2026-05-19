@@ -1,0 +1,368 @@
+{
+  "id": "a-wild-rose-by-any-other-name",
+  "wiki_path": "/wiki/A_Wild_Rose_by_Any_Other_Name",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "A Wild Rose by Any Other Name",
+  "level": "17",
+  "location": "The Waking Sands(X:6.9,Y:6.1)",
+  "npc_start": "Minfilia",
+  "dialogues": [
+    {
+      "character": "Minfilia",
+      "text_en": "We Scions have but one objective: to safeguard the future of Eorzea. Among our gravest concerns are the godlike beings known as the primals. Long have we striven to find a lasting solution to the threat they pose."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I know not what it is you desire for yourself, nor what it was that first brought you to Eorzea, but I firmly believe that the power we possess was given to us for a purpose. Pray consider this when you give me your answer, Forename ."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Small? No. Worthy? Undeniably. We labor for the good of all the realm."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "They are. Yet the risks we take are justified, given that which is at stake."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I take it you will help us."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Wonderful! I knew you wouldn't let us down!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Forgive me for treating you as a stranger. I know you deserve better than this, considering all you've done for the realm."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "It remains unclear why no one remembers you. We can only assume that it is a consequence of the power that Louisoix invoked to save your life."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "But irrespective of the cause, know that whatever shroud has fallen upon people's memories, there will surely be a way to lift it."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Thank you for understanding."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "But come, I would introduce you to your friends in the order."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Tell me, does the name Sharlayan ring any bells?"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "It used to be one of Eorzea's six city–states, and was situated in the northwest of Aldenard."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The Sharlayans were the keepers of wisdom both old and new. Their mastery over magic and aether was unsurpassed, and even the Garleans knew to fear them."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Among their number, there were a noble few who devoted their lives to safeguarding the future of Eorzea."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "When the realm began its descent into chaos, and their countrymen fled for the motherland, they alone chose to remain here. These noble men and women were called the Archons."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Those same brave souls stand before you now."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The masked woman is Yda, and beside her is Papalymo. The two are charged with surveying the Twelveswood."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Hello there!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Well come!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "I had every confidence that you would agree to help us."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Me too!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Okay, my turn to introduce someone! That there is Thancred!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "He is our man here in Ul'dah, jewel of the desert."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Welcome to the team!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I never doubted that you'd come!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "If I may, the lovely maiden beside me is named Y'shtola. Limsa Lominsa has the pleasure of being under her care."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Greetings."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I have been expecting you."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Last but not least is Urianger, who presides over all affairs within these halls. Pray seek him out whenever you have questions."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Dawn may banish even the darkest night..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...The words of a dear friend. I am glad of our meeting."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "At the Battle of Carteneau, our leader was taken from us. But we did not stray from our purpose."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We sought out Minfilia and others with her talent, and together established the Scions of the Seventh Dawn."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Along with the Archons, those blessed with the Echo play a pivotal role in our endeavor to forge a brighter tomorrow for the realm."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Oh, I should also introduce you to Tataru, our clerk. She ensures that everything runs smoothly."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Pleased to make your acquaintance!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "In time, I hope you will come to think of us as family."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "But without further ado..."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I would assign you your first task."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Urianger. Have the documents arrived from the Students of Baldesion?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Aye, my lady, they arrived but recently."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We have received a request for aid from the Immortal Flames."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Thancred, would you do the honors?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "It would be my pleasure."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Some days ago, a crystal caravan registered to Amajina & Sons Mineral Concern was waylaid and divested of its cargo."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But there is more. Within a bell of the robbery, several people were reported missing from the shantytown outside the city."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "At a glance, one would assume the involvement of bandits, kidnappers, and coincidence."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Such crimes are hardly uncommon, and the Immortal Flames deal with their like almost every day."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "However, this time we have reason to believe that a primal is involved."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Aye, the evidence left behind implicates the Amalj'aa, who are known worshipers of Ifrit."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "If we then consider the objects that were taken, there is no room left for doubt─the crimes were committed in the name of a primal."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "That you may better understand the nature of our struggle with the primals, I would have you play the leading role in this investigation."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "You have my thanks."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "If there is aught you wish to know, I recommend you speak with Thancred. He is well versed in the affairs of Ul'dah."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ever at your service, dear fellow / fair lady !"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ready to begin, are we? That's the spirit!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So then, your mission is to investigate a crystal robbery and a spate of abductions."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "...Crimes which we believe to be connected. Assuming we are correct, it is like that any discoveries we make in relation to one will further our understanding of the other."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Now, since the attack on their caravan, our friends at Amajina & Sons Mineral Concern have doubled security over all their shipments."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "In light of this, it is my judgment that the abductions should be our priority."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "According to our preliminary findings, the majority of the missing were last seen in the vicinity of Camp Drybone, so that would seem a fine place to begin."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A fellow by the name of Isembard serves as the camp's de facto leader. Pay him a visit, and see that he gives us his full cooperation."
+    },
+    {
+      "character": "Isembard",
+      "text_en": "Aye, I'm Isembard. Here to search for the missing folk, I take it?"
+    },
+    {
+      "character": "Isembard",
+      "text_en": "Minfilia sent word that an adventurer fitting your description would be along."
+    },
+    {
+      "character": "Isembard",
+      "text_en": "She also warned us to be wary of the Amalj'aa. It seems we know who the culprits are, at the very least."
+    },
+    {
+      "character": "Isembard",
+      "text_en": "Now, I bear no official title at this camp, but the people here have come to look to me for leadership. You have my word that I'll do all I can to help see the victims safely returned."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Through this first mission, you will come to understand the nature of our struggle with the primals."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The realm may appear well on its way to recovery, but reality paints a far bleaker picture."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The truth is out there, Forename , and I would have you discover it for yourself."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Our organization, the Scions of the Seventh Dawn, was formed through the union of two separate entities. The first was comprised of Sharlayan natives such as muself, and was called the Circle of Knowing."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The second, made of individuals that share your rare gift, was known as the Path of the Twelve."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The terrible events that ushered in the Seventh Umbral Era taught us that only together may we stand against the evil that seeks to consume us."
+    },
+    {
+      "character": "Brendt",
+      "text_en": "Don't mind me, lad / lass . I'm just here to deliver a shipment. Now, where shall I tell 'em to put it..."
+    },
+    {
+      "character": "Una Tayuun",
+      "text_en": "Why don't any o' these blokes know who I am!? I swear I was one o' 'em Scions o' the Seventh Dawn!"
+    },
+    {
+      "character": "Una Tayuun",
+      "text_en": "Only we didn't have such a fancy name back then, an' the headquarters was in a far more convenient location."
+    },
+    {
+      "character": "Una Tayuun",
+      "text_en": "At least, I think it was... Or is me mind playin' tricks on me? Gods, what's wrong with me? Why can't I remember it more clearly?"
+    },
+    {
+      "character": "A'aba Tia",
+      "text_en": "Heh, so this boy has Garlean blood in him! Can't say I'm surprised. Everyone knows what happens when a city is sacked, even if the bards choose to omit that part."
+    },
+    {
+      "character": "A'aba Tia",
+      "text_en": "But Arenvald shouldn't be pitied. Boys like him have a clean slate, an opportunity to write their own story, free of the ties that bind the common man."
+    },
+    {
+      "character": "Aulie",
+      "text_en": "The robberies and disappearences? The Amalj'aa are the most likely culprit, wouldn't you agree?"
+    },
+    {
+      "character": "Aulie",
+      "text_en": "Then again, this is Thanalan—one cannot discount the possibility that moneyed interests are involved."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "They say that those of us who have seen the dream are chosen, that we have within us the seed of greatness. That we could be heroes."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Even me, an Ala Mhigan half-breed, cast out when his mother could no longer stand the sight of him. A half-breed who once took to banditry just to eat. Aye, I'm sure I'm just brimming with heroic potential..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Seven waning moons see seven suns rise, Divine order roils, fallen corpses writhe."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Thus the Divine Chronicles seek to warn us once more. The meaning of these words now shines clear: they evoke the dire circumstance of this imperiled age."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The realm doth shudder and twist, and the dawn lieth cowering 'neath the stifling blanket of night. And we abide. We await the coming of the unborn era's seed—the Light which shall pierce the glowering Darkness."
+    },
+    {
+      "character": "Yda",
+      "text_en": "This place is called the Waking Sands, and it's our headquarters."
+    },
+    {
+      "character": "Yda",
+      "text_en": "It used to be somewhere else, you know, but then a bunch of things happened, and we ended up here instead!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "While there are others who possess the Echo, none are near as strong as you with the power. Hence our extremely high expectations of you!"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "better-late-than-never",
+  "wiki_path": "/wiki/Better_Late_than_Never",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Better Late than Never",
+  "level": "43",
+  "location": "Old Gridania(X:8.7,Y:8.2)",
+  "npc_start": "Hedyn",
+  "dialogues": [
+    {
+      "character": "Hedyn",
+      "text_en": "Beg your pardon, Forename ─I forgot to return your crystal to you."
+    },
+    {
+      "character": "Hedyn",
+      "text_en": "Oh, and there was a message for you from Professor Lamberteint. Something about a man named Marques? Apparently the professor misses the intellectual stimulation. Forgive me, I should have written it down."
+    },
+    {
+      "character": "Hedyn",
+      "text_en": "It occurs to me that I have yet to ask why you needed that crystal. You aren't planning anything nefarious, are you? 'Twould reflect poorly on me and my research if it was used for evil ends..."
+    },
+    {
+      "character": "Hedyn",
+      "text_en": "Ah, well, perhaps it's best I remain ignorant. I didn't become the professor's greatest pupil by filling my head with unnecessary information."
+    },
+    {
+      "character": "Hedyn",
+      "text_en": "The professor's thesis also postulates the existence of corrupted crystals which could be likened to specialized converters, in that they could only be used to alter aether of a single aspect to aether of another aspect—say, earth to fire, for instance."
+    },
+    {
+      "character": "Hedyn",
+      "text_en": "Yet my research thus far suggests that such crystals do not exist. Could it be that the professor is—dare I say it—wrong?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "All repairs and modifications have been completed, Forename . Once you bring me that crystal, nothing will stand between us and Garuda."
+    },
+    {
+      "character": "Cid",
+      "text_en": "I'll need to run some tests to be sure, but this looks to be exactly what we need."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Worry not, Forename . I'll see that your hard work doesn't go to waste."
+    },
+    {
+      "character": "Cid",
+      "text_en": "The Enterprise is already more than a common airship. But mark my words: soon it will become something greater, something extraordinary ."
+    },
+    {
+      "character": "Cid",
+      "text_en": "This...this is me. This is what I was born to do."
+    }
+  ]
+}

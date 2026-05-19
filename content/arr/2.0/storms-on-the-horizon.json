@@ -1,0 +1,36 @@
+{
+  "id": "storms-on-the-horizon",
+  "wiki_path": "/wiki/Storms_on_the_Horizon",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Storms on the Horizon",
+  "level": "13",
+  "location": "Western Thanalan(X:17.9,Y:16.0)",
+  "npc_start": "Nunuzofu",
+  "dialogues": [
+    {
+      "character": "Nunuzofu",
+      "text_en": "Hey, adventurer! Mind runnin' a message to Crescent Cove for us?"
+    },
+    {
+      "character": "Nunuzofu",
+      "text_en": "Captain Baldewyn's plannin' some festivities for the thaumaturges, see, and he wants 'em treated to the finest food and drink. Nothin' but the best for our distinguished guests, eh?"
+    },
+    {
+      "character": "Nunuzofu",
+      "text_en": "Head west and south to the village and tell Raffe that he's to deliver a bounty of fresh fish to Horizon for the feast."
+    },
+    {
+      "character": "Raffe",
+      "text_en": "F-Fresh fish for Captain Baldewyn? Of course, of course ! We will do our best, sir / madam ."
+    },
+    {
+      "character": "Raffe",
+      "text_en": "U-Unfortunately, we've had a poor catch in recent days on account of the rough seas. More boats should be returning soon, but I cannot promise that their catch will please."
+    },
+    {
+      "character": "Raffe",
+      "text_en": "But don't worry, sir / milady ! The captain will have his fish! I swear it!"
+    }
+  ]
+}

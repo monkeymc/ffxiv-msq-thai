@@ -1,0 +1,68 @@
+{
+  "id": "highbridge-times",
+  "wiki_path": "/wiki/Highbridge_Times",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Highbridge Times",
+  "level": "24",
+  "location": "Eastern Thanalan(X:20.2,Y:21.3)",
+  "npc_start": "Hihibaru",
+  "dialogues": [
+    {
+      "character": "Hihibaru",
+      "text_en": "When the Order of Nald'thal began excavating the ruins below, I had hopes that Highbridge would turn into a bustling hub for pilgrims. But thanks to the nigh-endless beastman raids, folk are too afraid to come within a malm of here."
+    },
+    {
+      "character": "Hihibaru",
+      "text_en": "I sold everything I owned to get my venture started, and I'm loath to give up without making an earnest effort to stick it out. But if things keep going as they are, I'll be bankrupt before the moon is through..."
+    },
+    {
+      "character": "Hihibaru",
+      "text_en": "Whining won't do me any good, though. No, for my business to survive, I need business . Speaking of which, perhaps you'd like to browse my wares! Spend a bit of coin to help a struggling merchant!"
+    },
+    {
+      "character": "Hihibaru",
+      "text_en": "...The masked man? Bah, Thal take your bloody masked man! I know what I said before, but vague rumors are all I've got. If you want to know about him, go and ask the other merchants!"
+    },
+    {
+      "character": "Absent-minded Merchant",
+      "text_en": "On the trail of a masked man? Aye, I've heard of him...but only in hushed tones and faint whispers."
+    },
+    {
+      "character": "Absent-minded Merchant",
+      "text_en": "It's said he wears a black hooded robe, an' looks right suspicious . An' that's about all I can say, little though it is."
+    },
+    {
+      "character": "Impassive Merchant",
+      "text_en": "Have I seen a masked man wearing a dark robe? No, I haven't, nor do I wish to. Business is bad enough without shady characters lurking about."
+    },
+    {
+      "character": "Impassive Merchant",
+      "text_en": "Folk have been giving Highbridge a wide berth because of all the Qiqirn raids. None but the most devout of pilgrims are willing to come here anymore."
+    },
+    {
+      "character": "Impassive Merchant",
+      "text_en": "<sigh> Mayhap it's best I moved on... Cut my losses before they drag me all the way down..."
+    },
+    {
+      "character": "Multiloquent Merchant",
+      "text_en": "Aye, I've heard tell of the masked devil. Seems he's been appearing not only around Highbridge, but elsewhere about Thanalan, too."
+    },
+    {
+      "character": "Multiloquent Merchant",
+      "text_en": "Enough folk have reported seeing him to convince me he's more than a figment of the imagination, but little is known about him otherwise."
+    },
+    {
+      "character": "Hihibaru",
+      "text_en": "Judging by your expression, I take it you didn't learn much of use."
+    },
+    {
+      "character": "Hihibaru",
+      "text_en": "Look, I'm sorry for my rudeness earlier. It's just that things are tough for us merchants at the moment. The Qiqirn raids are so constant, so organized, we're beginning to suspect that someone is orchestrating it all."
+    },
+    {
+      "character": "Hihibaru",
+      "text_en": "I tend to put my own welfare first, like most of us do, but that doesn't mean I'm a bad person. I promise to keep an eye out for your masked man. If I see or hear anything, you'll be the first to know."
+    }
+  ]
+}

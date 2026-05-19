@@ -1,0 +1,36 @@
+{
+  "id": "rock-of-rancor",
+  "wiki_path": "/wiki/Rock_of_Rancor",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Rock of Rancor",
+  "level": "28",
+  "location": "North Shroud(X:21.8,Y:26.7)",
+  "npc_start": "Aideen",
+  "dialogues": [
+    {
+      "character": "Aideen",
+      "text_en": "There's something else I heard about the deaths. It appears all the victims have been comely maidens. I'd better watch myself, eh!? Heh heh heh!"
+    },
+    {
+      "character": "Aideen",
+      "text_en": "<sigh> Unseemly japes aside, there's a rumor been going around. There's some as whisper that, after each victim died, her rancor went into the great big rock southwest of here, causing it to flash and moan."
+    },
+    {
+      "character": "Aideen",
+      "text_en": "This bears investigating, I reckon. I'm going to give you a firesand stick to blow off a piece of that crag. The stick doesn't come with a fuse or anything, so you'll have to throw the thing. Once you've torn the rock a new one, bring back some of the fragments, and I'll give them a gander."
+    },
+    {
+      "character": "Aideen",
+      "text_en": "Most folk are too scared to go within a hundred yalms of the Rock of Rancor ─aye, it has a name. But what's a few vengeful spirits to a dauntless adventurer like you, eh?"
+    },
+    {
+      "character": "Aideen",
+      "text_en": "...Huh? Why, these are just your garden-variety crystals! 'Tis a bit hard to tell beneath all the dirt and grime, but they're definitely lightning-aspected."
+    },
+    {
+      "character": "Aideen",
+      "text_en": "I almost hate to say it, but that explains the flashing and moaning. Nothing to do with the masked stranger. Looks like I've gone and wasted both your time and a perfectly good firesand stick. Oh, well..."
+    }
+  ]
+}

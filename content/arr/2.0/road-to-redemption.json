@@ -1,0 +1,88 @@
+{
+  "id": "road-to-redemption",
+  "wiki_path": "/wiki/Road_to_Redemption",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Road to Redemption",
+  "level": "38",
+  "location": "Coerthas Central Highlands(X:26.7,Y:17.4)",
+  "npc_start": "Haurchefant",
+  "dialogues": [
+    {
+      "character": "Haurchefant",
+      "text_en": "I had another personal request to make of you. It concerns Lord Francel, of whom much has been whispered in recent days. I have received a report that he and three knights were seen heading north towards the Steel Vigil."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "The outpost was long ago overrun by the Dravanian Horde, so I am not certain what he intends to accomplish with such a small force."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Whatever his motives, I fear for his safety. Pray journey to the Steel Vigil and see if Lord Francel's party requires assistance."
+    },
+    {
+      "character": "Unfit Knight",
+      "text_en": "<pant> It's...it's not safe here! We must flee!"
+    },
+    {
+      "character": "Unnerved Knight",
+      "text_en": "So fast...so strong... We were no match..."
+    },
+    {
+      "character": "Unsettled Knight",
+      "text_en": "<pant> <pant> Where...where is Lord Francel? Please, you must find him!"
+    },
+    {
+      "character": "Francel",
+      "text_en": "Who goes there!? Forename !? No, stay back! The fiend is still here!"
+    },
+    {
+      "character": "Francel",
+      "text_en": "Halone be praised, you did it! But what of the others? The three knights who accompanied me, where are they!?"
+    },
+    {
+      "character": "Unfit Knight",
+      "text_en": "I heard the beast's cries from over yonder. Then Lord Francel is safe? Bless you, sir / miss , bless you!"
+    },
+    {
+      "character": "Unnerved Knight",
+      "text_en": "Curse those fiends! It's as though they knew we were coming..."
+    },
+    {
+      "character": "Unsettled Knight",
+      "text_en": "Confound it all! How are we to redeem House Haillenarte if we cannot even slay a single aevis!? <sigh> We are fortunate you came along when you did, sir / miss . House Haillenarte will remember your kindness."
+    },
+    {
+      "character": "Francel",
+      "text_en": "It was a foolish thing to do, I know, but I had hoped we might demonstrate our devotion by slaying a number of the scalekin."
+    },
+    {
+      "character": "Francel",
+      "text_en": "Moreover, it was House Haillenarte that yielded the Steel Vigil to the Horde many years ago. One might say that our defeat here heralded the slow decline of our house's once-great name."
+    },
+    {
+      "character": "Francel",
+      "text_en": "We have been brought even lower by these despicable accusations of heresy. And despite my best efforts, I have done naught to improve the situation."
+    },
+    {
+      "character": "Francel",
+      "text_en": "The day of my trial approaches. Soon I must accept the judgment of the inquisitors, whatever it may be. But even should my protestations fall on deaf ears, I will proclaim my innocence to my dying breath!"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "What did you find at the Steel Vigil? Ah, I see... A reckless plan, but at least it did not cost him and his knights their lives."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "I have news for you as well. A witness to the final flight of the Enterprise has been found. Alas, there is a complication."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "It has become common knowledge that you paid a visit to Lord Francel at Skyfire Locks not long ago. Upon learning of this, the witness became understandably reticent to make your acquaintance, for fear of being seen in the company of a man / woman who might later be declared a heretic."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "A not unreasonable fear, given the zeal with which Inquisitor Guillaime has conducted his investigations. In any case, if we wish to obtain his testimony, we must first clear Lord Francel's name─and, by association, yours."
+    }
+  ]
+}

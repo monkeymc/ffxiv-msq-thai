@@ -1,0 +1,64 @@
+{
+  "id": "on-to-the-drydocks",
+  "wiki_path": "/wiki/On_to_the_Drydocks",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "On to the Drydocks",
+  "level": "11",
+  "location": "Limsa Lominsa Upper Decks(X:10.5,Y:15.4)",
+  "npc_start": "H'naanza",
+  "dialogues": [
+    {
+      "character": "H'naanza",
+      "text_en": "What say you to taking on some work from Naldiq & Vymelli's? We've a great hulking warship to build and could certainly use an extra hand for any number of tasks."
+    },
+    {
+      "character": "H'naanza",
+      "text_en": "For your first job, I need you to run this missive over to Ahtbyrm, the head shipwright at the Moraby Drydocks."
+    },
+    {
+      "character": "H'naanza",
+      "text_en": "We forge most of the ship's bits and pieces here at the Armorers' Guild, but the actual construction takes place at the docks found in the south of lower La Noscea."
+    },
+    {
+      "character": "H'naanza",
+      "text_en": "That's also where you'll find the main offices of Naldiq & Vymelli's. The Moraby Drydocks is one of Limsa Lominsa's most important districts─at least as far as I'm concerned─and I'm sure you'll not regret attuning yourself to the area's aetheryte."
+    },
+    {
+      "character": "H'naanza",
+      "text_en": "If you've no confidence in your sense of direction, you'd be best served making use of the chocobo porters. First floor of the Mizzenmast, in case you were wondering."
+    },
+    {
+      "character": "H'naanza",
+      "text_en": "Should you choose to make the trek on your own two feet, leave the city through the Tempest Gate and follow the road south. May the Navigator guide your steps."
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "You have a missive for me from Forgemaster H'naanza? I assume it pertains to the pending arrival of the materials I ordered over a moon past. Let's see it, then."
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "Blast and botheration! Another delay? I am well aware of the shortage of skilled artisans, but this is insufferable!"
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "<sigh> My apologies. The messenger does not deserve to bear the brunt of my frustration. Might I have your name?"
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "Forename , is it? Well, Forename , this proud maiden you see taking shape before you is the Victory, the first new vessel to grace the docks since the Calamity."
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "We may have lost the bulk of our ships that fateful day, but starting with this beauty, we will restore the Maelstrom's fleet to its former glory. The Victory is more than a simple warship─it is the symbol of Limsa Lominsa's rebirth from the wreckage wrought by the coming of the Seventh Umbral Era."
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "Thus we are striving to complete her construction as swiftly as possible, even going so far as to hire veteran shipwrights from outside the thalassocracy."
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "Yet even with such unprecedented measures, there are never enough hands to handle the abundance of tasks. Should you choose to linger at the docks for a time, there is no end of odd jobs for a hardworking adventurer. Be you fair warned─there is no place here for layabouts and troublemakers."
+    }
+  ]
+}

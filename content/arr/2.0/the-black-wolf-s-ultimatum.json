@@ -1,0 +1,556 @@
+{
+  "id": "the-black-wolf-s-ultimatum",
+  "wiki_path": "/wiki/The_Black_Wolf%27s_Ultimatum",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "The Black Wolf's Ultimatum",
+  "level": "46",
+  "location": "Ul'dah - Steps of Nald(X:10.3,Y:11.2)",
+  "npc_start": "Minfilia",
+  "dialogues": [
+    {
+      "character": "Minfilia",
+      "text_en": "Grim tidings, Forename . It seems that word of the Ultima Weapon's existence has already reached the Alliance leaders...in the form of an ultimatum. They have gathered in the Fragrant Chamber, and are deliberating their answer even as we speak."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Beleaguered as they are, I fear they may well elect to lay down their arms in the belief that surrender will spare their people untold suffering. Yet nothing could be further from the truth."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "That which the Black Wolf offers will doom Eorzea, not deliver it, and the leaders must be made aware of this. Let us hurry to them, Forename , and ensure that they do not act in ignorance of the consequences."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The Alliance leaders have gathered in the Fragrant Chamber. Let us hurry to them, and ensure that they do not act without the full knowledge of the consequences."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Sorry we had to resort to such dramatic methods to escape. Things escalated so quickly that Alphinaud and I saw no other alternative."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "That wasn't at all how I expected things to play out, but at least we escaped with our lives."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "(What do you think, Forename ? Was she impressed? Do you think she might consider...you know...)"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Once the people of Eorzea learn that the Scions of the Seventh Dawn have returned, they will surely rally to our cause. We need only sound the clarion call."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Deep in the desert of my heart, a lonely flower blooms♪ Yearning for the heavens above to quench my thirst for you.♪ Trololololol~lololo~♪"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Oh, Forename ! I hope my singing doesn't bother you. I'm rather fond of this little ditty—it reminds me of home."
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "The council of the Alliance leaders is presently in progress in the Fragrant Chamber. I must ask that you step away from the doors, sir / madam ."
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "...I'm sorry? You're here on behalf of the Scions of the Seventh Dawn !? A thousand pardons, my lord / lady ! Of course you may enter!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Bah! We keep treading the same ground."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Van Baelsar's demands are clear..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Alas, our minds are not."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I've never been one to shy from a fight. But if this weapon of theirs can do all they claim..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "It has been five years since the Calamity, and our people have scarce begun to rebuild their lives."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Can we now, in good conscience, call upon them to risk what little they have left? I would spare them the pain of further conflict."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Conflict, I say, though that would imply forces set in opposition. If the combined might of three primals could not stay Garlemald's new terror..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "What meaningful resistance can we offer? We who struggle to quell the foes who rise up within our own borders..."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Long have we fought the primals, but to what end? We strike them down at no small cost, only for them to rise again and again."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Are we to play this profitless game for the rest of days? I for one grow tired of it."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Mistake me not, I do not propose to trade one tyranny for another."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "I love liberty. But conciliation need not mean oppression."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "By the Twelve... Though neither of you cried “surrender,” your every word betokened it."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Not that I deny there is truth in what you say. Nor can I rightly claim that Ul'dah is ready to fight."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Refugees flood our gates, and beastmen swarm our land, while the great and the good do nothing. My Flames struggle to bear the burden."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I put on a grand show at the remembrance service, made all manner of lofty promises... I've made good on not a bloody one."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Do not blame yourself, Raubahn. You said only that which the people needed to hear. All present have done the same."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Our citizens had become lost to hope. If our words served to kindle it in them anew, better we speak than remain silent."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Our enemy condemns us for failing our people, yet what does he care for their well-being?"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "While we labored to rebuild their lives, the Black Wolf built instruments of murder with which to end them."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Her Majesty speaks true. For all our failings, the people's well-being has ever been our foremost priority."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "While none among us ever doubted that the Empire would one day resume its war, we scarcely had means enough to solve the problems of the present."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Aye, which is why we looked to others to safeguard our future─"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "The Scions of the Seventh Dawn. Alas, they are gone, and the Black Wolf is at our door."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Admiral, I fear you are mistaken!"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Alphinaud? Minfilia? And─seven hells─MASTER GARLOND!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "And you, dear friend..."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "By Rhalgr... You're alive! All of you!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As we approached, I would swear I heard talk of surrender, but I know that cannot be! It is not the Eorzean way!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Hear me, my friends! Accepting the Garleans' offer to vanquish the primals would be folly."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Folly, I say, for might is not the answer to the primal threat. Indeed, the more the Empire exerts its strength, the worse matters will become."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Primals enter this world when mortals call upon them, and mortals are wont to appeal to a higher power when they are desperate."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Nothing is more certain to breed desperation in the beast tribes than the Garleans' proposed solution."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The true answer lies in a lasting peace, but the Garleans only know war and conquest. Should Eorzea fall into their hands, there will be such suffering as none can imagine."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We are not blind to the many challenges that each of your nations face. Yet you must not give in."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Aye! Remember five years ago, when you wagered all for the sake of the realm! Remember what you fought for, what you were willing to die for!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let the memories rekindle the fire in your heart, for Eorzea has need of it again!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Come what may, we Scions will never give up the fight."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "And so I bid you stand with us, and together we shall safeguard the future of the realm!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "A great man once said that a shrewd merchant grasps not for the quick profit, but invests in the future. Wise words...eh, Raubahn?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Cid... I..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Your words stir...and shame me in equal measure. How could I contemplate surrender...?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I know full well that all we have, we owe to the sacrifices of those who went before us. Yet the seeming hopelessness of our plight robbed me of my insight."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "We Gridanians have no love for war..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Yet we have still less for those who would threaten our homeland. Ever have we fought to protect those things we hold dear, and this shall never change."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Gridania will go to war. We will fight the Empire, for the sake of the realm and all who abide here!"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Ahaha... Ahahahaha!"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Hahaha! Hear, hear!"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Hahahaha..."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Hah hah hah hah!"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "At long last, I hear words worthy of a founder of the Alliance!"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Raubahn! Are we to be outdone!?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I lost one homeland. The thought of losing another had blunted my resolve."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "But no man knows better than I that if you want aught, you'd best be ready to die for it."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "With great danger comes the chance for great glory, and great profit─we Ul'dahns, who have turned sand into gold, know this well."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "How many times have we fallen into the pit of despair, only to have you pluck us out? I've fair lost count."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Reckless, the lot of you─like bloody pirates! Well, I won't waste my breath trying to talk you 'round..."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "...On account of being a pirate myself. And the pirate who shrinks from a challenge is no pirate at all!"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Those who would pick a quarrel with us must choose: back down, or go down with all hands."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Let the Garleans come. The united strength of Limsa Lominsa will be waiting for them!"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "If our realm is to be free of this pall of darkness, let it be by our own hands!"
+    },
+    {
+      "character": "Leaders",
+      "text_en": "For Eorzea!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "We must needs consider how the weapon may be brought to bear against us."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "The Maelstrom will secure strategic points along the coastline."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "In the meantime, the Flames will deploy at..."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Be at ease, my friends. You have banished our doubts."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Pray leave the military matters to us, and retire to the Waking Sands. We will send word anon."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I cannot well express my relief. To think that the Alliance came so close to surrender..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "But the fire in their hearts has been rekindled, and they will fight to the last."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This warmth inside... Did you feel it too, Grandfather?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I would know something─was that your power at work earlier?"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Nothing of the sort. The leaders of Eorzea had lost their way─I merely helped them to find it again."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Oh, hello! ...Yes, our party returned just a moment ago. How close are you?"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "It's all right, Cid."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We must needs plan our next move. Pray continue liaising with your respective nations. Cid, would you be our man in Ul'dah?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I'll be whatever and wherever you need me to be!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We haven't a moment to waste."
+    },
+    {
+      "character": "Yda",
+      "text_en": "All right! Let's do this!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Thancred's fate weighs heavy on my mind. I cannot bear to think of him in thrall to an Ascian."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Mayhap you know this already, but the Ascians are immortal beings without physical form. Since time immemorial, they have fanned the flames of chaos from the shadows."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "That they might work unseen, the Ascians entrap and possess mortal men by means of malign artifacts known as Crystals of Darkness."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "One such Crystal may yet be the key to saving Thancred."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This is a Crystal of Darkness?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A mere replica, created using data obtained from anomalous crystals found across Eorzea."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "It comes to us courtesy of the Students of Baldesion, our distant allies."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Even for an Archon, Thancred's talents are exceptional. We all had complete confidence in him."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "It was for this reason that none among us foresaw the danger in sending him to investigate the Ascians alone."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Thancred had been striving to fill the void left by Louisoix. Yet it was plain that he was overtaxing himself."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Yeah... He would volunteer for everything and work till he was dizzy."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And the toll taken by his exertions made him vulnerable to Ascian influence..."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The Crystal that binds Thancred must be somewhere on his person. If we could but destroy it, his Ascian possessor would be compelled to relinquish control over him."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "You have proven the stoutest of allies, standing with us through thick and thin."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Yet the most perilous struggle is still to come. For the sake of the realm─and Thancred─I ask that you lend us your strength once more."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Thank you. From the bottom of my heart."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "As I am sure you are aware, the realm was saved from certain doom five years ago by heroes known as the Warriors of Light."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "What you may not be aware of is that your many feats in service to the Scions have prompted folk to make certain...comparisons."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I must confess, you do remind me of them."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Yet remember this: however glorious the past, it is the hero's lot to be judged on the deeds of the present."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "A new darkness threatens the realm, and the people cry out for a savior."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I believe that you are he / she ─a Warrior of Light, here in the present, guided by the Crystal's will."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Come, my friends! Let us fight to safeguard the future of our beloved Eorzea!"
+    },
+    {
+      "character": "Slafswys",
+      "text_en": "Me dear sister drew her last breath here, in battle with the Empire. To her, the fight for Eorzea's future was more important than her homeland. True to her beliefs to the end, she was..."
+    },
+    {
+      "character": "Radolf",
+      "text_en": "No matter how dark the night, one day the dawn will break. As long as brave souls like yourself take up our cause, the Scions will never stand down!"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "I should have done something, done anything . But I didn't and now A'aba and Aulie are..."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "I will not let is be for nothing. I...I will earn this."
+    },
+    {
+      "character": "Wigstan",
+      "text_en": "We came away with our lives. Though our losses weigh heavy in our hearts, we must carry on for those who have fallen."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As one age endeth and another doth arise, so do our struggles wax and wane. What wouldst thou ask of me?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Souls from aether far, strangers from strange lands, Yester with thine eyes, morrow by thine hands."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "By my reckoning, these words from the Divine Chronicles tell of the Warriors of Light."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "With cloudless vision of the past, they forge the way into the future. Mine interpretation, it ringeth true with that which I have witnessed."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "(She hasn't said a word to me since the rescue. Was it all for nothing!?)"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "What's next on the agenda? We're ready to get to work!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "For many years I dedicated my life to the research and development of magitek, unable or unwilling to see the repercussions of my work. And though I have since left Garlemald behind, its scientists continue to build upon my work."
+    },
+    {
+      "character": "Cid",
+      "text_en": "I fear that this new weapon may be another example of that—an anicent relic enhanced with technologies I created. Yet even should that be the case, it would still require a brilliant mind to—"
+    },
+    {
+      "character": "Cid",
+      "text_en": "No... No, he didn't..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I understand you gave our fallen brothers and sisters a proper burial. I'm sure they appreciated it."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "When the Empire is beaten and all of this over, let us visit them at the church."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The counteroffensive to come will require the total commitment of every allied nation, as well as the flawless coordination of all forces. I pray the conucil understands this."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We may have surmounted this latest trial, but the worst is yet to come."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We must remain focused—I will not see our efforts wasted in futile regret. And as for Thancred... He and I have much to discuss."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Hmph! Instead of gratitude for coming to his rescue, Papalymo called me a scatterbrain!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "The ext time he gets caught by the Empire, I'm leaving him to rot!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Had I not intervened, that Garlean soldier may well have done for Yda. Lowering her guard in the heat of battle as though she were on an evening stroll—how much of a scatterbrain can she be?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "<sigh> Well, at least we cannot fault her for being inconsistent!"
+    }
+  ]
+}

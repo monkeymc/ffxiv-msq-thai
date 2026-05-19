@@ -1,0 +1,88 @@
+{
+  "id": "the-talk-of-coerthas",
+  "wiki_path": "/wiki/The_Talk_of_Coerthas",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "The Talk of Coerthas",
+  "level": "37",
+  "location": "Coerthas Central Highlands(X:26.7,Y:17.4)",
+  "npc_start": "Haurchefant",
+  "dialogues": [
+    {
+      "character": "Haurchefant",
+      "text_en": "As you have doubtless realized by now, the High Houses of Ishgard─House Fortemps included─are either unable or unwilling to offer you formal assistance in your search."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "However, that does not mean that there are not influential individuals within each house who are sympathetic to your cause."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "I shall be sending missives to their various representatives in Ishgard, though I suspect it would be quicker and more efficient if you were make inquiries of your own."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Lady Ninne of mine own House Fortemps, who resides here in Camp Dragonhead, rather enjoys the company of travelers. There is also Cravellin of House Haillenarte, who can be found at Skyfire Locks─though any information you pry from the scribe may prove difficult to parse."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Have you spoken with the chief astrologian of House Durendaire yet? Really? Hm... Perhaps he will be more accommodating once I inform him that you are a friend of House Fortemps."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Do not concern yourself with House Dzemael─I shall contact them myself. Seek the counsel of the three I mentioned, and return to me when finished."
+    },
+    {
+      "character": "Cid",
+      "text_en": "I'm glad we left the Observatorium. The people there were not friendly."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Though even here, I can feel eyes upon us. We...we are not safe."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We came to find an airship, yet now we meddle in Ishgardian affairs of state?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Gods, if Alisaie were here, I would never hear the end of it..."
+    },
+    {
+      "character": "Ninne",
+      "text_en": "Why, hello, good sir / madam . What's that? An airship, you say? I hate to disappoint you, but I know nothing of what you seek. Likely no one of House Fortemps does, for if they did, I would definitely know as well."
+    },
+    {
+      "character": "Ninne",
+      "text_en": "The topic on everyone's lips these days is what will become of young Lord Francel. Some say the allegations are long overdue, given how many members of House Haillenarte have been found guilty of heresy in recent days..."
+    },
+    {
+      "character": "Cravellin",
+      "text_en": "Halone, grant me strength! There must be some way to─ Oh, who are you? A friend of Lord Haurchefant?"
+    },
+    {
+      "character": "Cravellin",
+      "text_en": "I want to help you, I truly do! But these accusations of heresy have thrown House Haillenarte into chaos. Right now, we must focus on combating these charges and preserving our reputation."
+    },
+    {
+      "character": "Forlemort",
+      "text_en": "I gather you have been busy since last we spoke. Lord Haurchefant's missive was positively glowing. But if you think that his endorsement is cause for me to disregard Ishgardian policies, then you are sorely mistaken."
+    },
+    {
+      "character": "Forlemort",
+      "text_en": "We are at war , sir / madam , and the enemy grows bolder by the day. Why, in the short time since Inquisitor Guillaime arrived in Coerthas, countless heretics have been discovered, even amongst the elite of Ishgardian society!"
+    },
+    {
+      "character": "Forlemort",
+      "text_en": "If Lord Haurchefant wishes to waste his days chasing after a long-lost airship, then that is his choice. But if he expects others to share in his folly, then he is truly blind to the present state of affairs."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "By your countenance, I take it you did not learn anything of use."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Nor did I, I fear. It seems the whole of Coerthas is consumed by this talk of heretics in the High Houses. We can only hope that my sources in Ishgard proper provide more pertinent information."
+    }
+  ]
+}

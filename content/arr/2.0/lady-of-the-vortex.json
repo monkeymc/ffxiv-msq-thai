@@ -1,0 +1,628 @@
+{
+  "id": "lady-of-the-vortex",
+  "wiki_path": "/wiki/Lady_of_the_Vortex",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Lady of the Vortex",
+  "level": "44",
+  "location": "New Gridania(X:11.3,Y:13.6)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text_en": "According to my tests, the device is now functioning in perfect harmony with the crystal─meaning we can leave whenever you're ready."
+    },
+    {
+      "character": "Cid",
+      "text_en": "But you must understand: tests can only tell one so much."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Until we approach the Howling Eye─until we attempt to breach the barrier itself...I cannot be sure that this will work."
+    },
+    {
+      "character": "Cid",
+      "text_en": "I think it only fair to tell you that there is a small but statistically significant chance that the crystal could trigger a massive..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Hmmm... Mayhap it is better that we remain positive."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Forename , I want to thank you. For reuniting me with my ship, for trusting in me to develop this plan...for everything. You've helped me to rediscover a part of myself I'd forgotten. I am not the man I once was, and I do not know if I ever shall be...but I do know one thing: this feels right."
+    },
+    {
+      "character": "Cid",
+      "text_en": "...My apologies for the sudden outpouring of sentiment. I would have waited until after the mission, but...well, you understand."
+    },
+    {
+      "character": "Cid",
+      "text_en": "There...she's ready..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, she stirs..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To Coerthas! And an audience with the harpy queen Garuda!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Enterprise ...engage!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Phew..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Damn it!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I...I once flew in this airship. And I was not alone."
+    },
+    {
+      "character": "Cid",
+      "text_en": "There were adventurers on board...adventurers like you."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Just how long have I worn these damn goggles?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Ah, yes. I fancied myself a trendsetter in my younger days."
+    },
+    {
+      "character": "Cid",
+      "text_en": "The young prodigy, admired by all...exactly like his father."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Born and raised in Garlemald..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "It was only natural that the precocious young student should become an engineer. Had his father not done the same?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Father... When did we stop seeing eye to eye?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "When did Meteor become your everything, and your loved ones cease to matter?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "You abandoned us all. But he was there for me, Father─there for me when you were not."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Though he proved no better in the end. Gaius was just another man with an all-consuming obsession."
+    },
+    {
+      "character": "Cid",
+      "text_en": "And so I ran─left the Empire behind and came to Eorzea, where I built the Ironworks."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Ah, yes! It was then that I first donned these goggles."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Eorzea opened my eyes. It was home to so many manner of people, each with their own hopes and dreams. People worth saving. And so I fought beside them."
+    },
+    {
+      "character": "Cid",
+      "text_en": "I wanted to prove that my knowledge could serve a nobler purpose."
+    },
+    {
+      "character": "Cid",
+      "text_en": "I wanted to prove that there was another way..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "And it all began that day, when I found my new home..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "I had forgotten how wonderful it was. The wind in your hair, the endless sky..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "That light─it was you, wasn't it?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "It's surprising how few people know this, but all pureblood Garleans have a third eye."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Perhaps mine helped me recognize you─or perhaps it was just a lucky guess."
+    },
+    {
+      "character": "Cid",
+      "text_en": "The Enterprise was made for this! To carry Eorzea's protectors into battle!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I am proud to be able to call her my own."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Cid─what exactly do you remember?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Alphinaud, my boy─sorry to have been such a burden."
+    },
+    {
+      "character": "Cid",
+      "text_en": "I remember everything..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "My name, my people, and my purpose. Everything."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Come! It would be rude to keep Garuda waiting!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "It took a while for the memory to return, but I remember you."
+    },
+    {
+      "character": "Cid",
+      "text_en": "The floating isle, van Darnus... We ended it, that day─or so we thought."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Listen─let's keep this between the two of us, for the time being."
+    },
+    {
+      "character": "Cid",
+      "text_en": "If word got out that one of the Warriors of Light had returned, the eyes of the world would soon be upon us─our enemies' included. And that's the kind of attention we could well do without."
+    },
+    {
+      "character": "Cid",
+      "text_en": "What, isn't it enough that I know the truth?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Don't worry. A man / woman of your talents won't go unnoticed for long. Someday, they will remember you─and you'll never know another moment's peace!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "There, up ahead! Ready, old friend?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Hah! Some things never change! We're going in!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "All our efforts...all our travails...all of it was for this."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Make ready, Forename , for the end is nigh─be it hers or our own."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Beyond those gates awaits our foe. Are you prepared to meet with her?"
+    },
+    {
+      "character": "???",
+      "text_en": "Who dares intrude upon my sanctuary!?"
+    },
+    {
+      "character": "???",
+      "text_en": "Your insolence shall not go unpunished, landwalkers!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Twelve preserve...she's...she's huge !"
+    },
+    {
+      "character": "Cid",
+      "text_en": "As I live and breathe..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Over there─look."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Amalj'aa and kobold prisoners. But why would the Ixal bring them here...?"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Heehee HAHA hahaha HEEHEE haha HEEEEEE!!!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Wherefore come you hither, foolish mortals!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Garuda! We are come to put an end to your reign of terror!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Hear you this blasphemy, my children? These landwalkers would bring me low!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "You who are bound to crawl upon the earth should revere me─FOR I AM THE WIND!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Did we not take to the skies, and slip your defenses!? We are bound by nothing , Garuda!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "You think your playthings give you strength?"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "They will not help you here, landwalker. This is my realm, where none can challenge my supremacy! Struggle though you may─I shall slake the roots with your blood, and festoon the canopy with your ENTRAILS! HAHAHAHAHAAA!"
+    },
+    {
+      "character": "Ixali Chieftain",
+      "text_en": "Squaaawk! Slay the unfeathered ones, we shall! As an offering to Garuda, they will serve!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Leave the Ixal to us, Forename ! We will keep them distracted while you deal with her!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Do not fail, Forename ! Remember: you fight for the Scions! For Eorzea!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "This worm would die by mine own hand! Come, then...I shall grant you that which you seek!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Heehee HAHA hahaha HEEHEE haha HEEEEEE!!!"
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "Together, we can weather this storm!"
+    },
+    {
+      "character": "Scion Thaumaturge",
+      "text_en": "Quickly─take cover!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Soon you will see the depths of your folly, mortals!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "THE RECKONING COMES!!!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "There is no escape! No hope! NONE!!!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "My power... No..."
+    },
+    {
+      "character": "Garuda",
+      "text_en": "No... Nooo! NO! NO!!!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "What!? How in the hells─!?"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "HAHAHAHAHAAA! This...is...MY REALM! You have no hope here! None! NONNNE!!!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Did you truly believe you could defy a god, landwalkers!?"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "My power is limitless! My children legion!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "And they have rendered unto me a wealth of crystals."
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Their gifts sustain me, their faith empowers me!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "None save my children will escape the reckoning, mortals! And those who would use my crystals to waken the rest shall realize the folly of their faith!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Then all shall worship none but me! The one true god! HEE HEE HEE HEE HEEEEEE!!!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Of course! Worship ! So long as the Ixal keep praying, she will never fall!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Then let's stop them!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ugh!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "HAHA hahaha HEEHEE heehee HAHAHA!!! No harm will come to you, my children!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "This is only the beginning, landwalkers! All who oppose me shall suffer for their defiance!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Soon, the worms of the forest shall receive my judgment! The desert vermin next─their walls of stone will not shield them from the tempest!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "And then will I take vengeance on the sea lice! Their wooden boats cannot outrun the wind!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Tremble, mortals, for I shall visit you all in time! And all shall be mine! ALL MIIINE!!!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "You, landwalker─you who dared to raise your hand against me─you shall be the first to pay for your sins! Not with your death─but with your LIFE!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "You will serve me, landwalker...to your last breath!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "No, NO!!! I claimed you! You should be MINE!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "What...what are you? What have you done to me!?"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "No mortal should possess such power! This...this is impossible!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Why do you not tremble at my might? Why do you not beg for mercy!? Why do you not DIE!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We've done it!"
+    },
+    {
+      "character": "Ixal A",
+      "text_en": "Squaaak! Impossible, it is!"
+    },
+    {
+      "character": "Ixal B",
+      "text_en": "Garuda, kill you all!"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Is that all!?"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "O Lady of the Vortex! O mighty Garuda!"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Of all primals, the most terrible. I say again...IS─THAT─ALL!?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Gaius!?"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Ah, Cid, my boy. You look well─for one who has forsaken kin and country. I wonder, what else you will forsake before the day is done."
+    },
+    {
+      "character": "Cid",
+      "text_en": "What!?"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "What exactly did you hope to accomplish here this day?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I..."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Well, I shall accomplish far more!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "...Is that all? IS THAT ALL!?"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Insolent mortal! I shall make you suffer!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "That foul stench... I see now... She has touched you!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Very well..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Seven hells, does she still mean to fight!?"
+    },
+    {
+      "character": "Amalj'aa",
+      "text_en": "Lord of the Inferno! Almighty Ifrit! Grant us succor in our hour of need!"
+    },
+    {
+      "character": "Kobolds",
+      "text_en": "Save us, Titan, Lord of Crags! Ah, it hurts us so, the pain, the pain..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What is she─ Twelve preserve, she cannot mean to─"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "No... No, this is all wrong..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Stop gawping, boy! We must run !"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Surrender yourselves unto me... I would feast upon your aether. NONE SHALL STAND AGAINST THE WIND!"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "BEAR WITNESS TO THE GLORY OF THE EMPIRE!"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "It is you who will suffer, Garuda!"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Ancient Allag had ways of dealing with your kind. Now, look on their ultimate weapon, eikon, and despair!"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "No... Nooo! NOOO!"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Magnificent! It exceeds all expectation!"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "With each primal it consumes, it grows more powerful. A marvel, is it not?"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Such is the fate of those who oppose the Empire!"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "There will be no Warriors of Light to save you this time."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "If your leaders are as wise as they are reported, they will surrender."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Your skills are impressive, but they will not be enough."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Twelve have mercy! What chance have we against such an ungodly creation!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And who was that armored devil!?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "That was Gaius van Baelsar, legatus of the XIVth Imperial Legion, and supreme commander of the Garlean invasion force in Eorzea."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Of course, the Black Wolf─how could I not realize? Grandfather mentions him in his journal!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I was never so naive as to think the man would abandon his ambitions, but these developments are beyond my worst expectations..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "What have you been doing these past five years? How could something of this magnitude have escaped the Alliance's attention?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We heard no whispers, saw no signs. In the wake of the Calamity, the Empire seized land and built outposts, but that was the extent of their aggression"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Damn it, Gaius, where in the seven hells did you find that thing?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It has been a day of unexpected developments, but the fact remains: Garuda is no longer a threat."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While I take no comfort in the manner of her downfall, it does mean that we may safely put the matter of the primals to one side─for the time being, at least."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Which just leaves the matter of Gaius's new toy."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. That weapon poses the greatest threat to Eorzea. It must be destroyed."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But first, we must needs find out all we can."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let us make for Vesper Bay. We shall rebuild the Scions."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "All is not yet lost, my friend─for we bear the light, and shall surely lead our people from the darkness."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, that was an experience I would rather not have again."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Something has been troubling me, Forename . Shortly before the Black Wolf took center stage, when Garuda attempted to claim you as her own, I could have sworn I saw..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, but I'm sure I was mistaken. In times of great stress, the evidence of the eye is apt to be misread by even the most inquiring mind. Forget I mentioned it."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Returning to the subject of our earlier discussion, we may consider the matter of the primals closed until further notice. No beast tribe will dare summon their god so long as that weapon exists."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Truly, a more effective deterrent I could not imagine. It almost seems a shame to plot its destruction..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "That weapon didn't destroy those primals—it devoured them. Gods only know what else it can do."
+    }
+  ]
+}

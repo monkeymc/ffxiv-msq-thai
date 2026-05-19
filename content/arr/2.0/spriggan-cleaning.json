@@ -1,0 +1,11 @@
+{
+  "id": "spriggan-cleaning",
+  "wiki_path": "/wiki/Spriggan_Cleaning",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title_en": "Spriggan Cleaning",
+  "level": "9",
+  "location": "Central Thanalan(X:20,Y:18)",
+  "npc_start": "Warin",
+  "dialogues": []
+}

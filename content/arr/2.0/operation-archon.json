@@ -1,0 +1,672 @@
+{
+  "id": "operation-archon",
+  "wiki_path": "/wiki/Operation_Archon",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Operation Archon",
+  "level": "49",
+  "location": "The Waking Sands(X:6.9,Y:6.1)",
+  "npc_start": "Minfilia",
+  "dialogues": [
+    {
+      "character": "Minfilia",
+      "text_en": "All present? Then let us begin."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We have received the details of the impending operation."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In what promises to be the largest single counteroffensive in the realm's troubled history, the Alliance will strike at every imperial stronghold standing upon Eorzean soil."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As might be expected, the operation will be complex, but you need not commit its intricacies to memory."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It is enough that each man understands his part and plays it to the best of his ability."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The finer instructions, you will receive at each staging point."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To begin, let us review the distribution of our forces."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "From west to east─the Maelstrom of Limsa Lominsa, the Immortal Flames of Ul'dah, and the Order of the Twin Adder of Gridania."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Next, let us examine the locations of the imperial strongholds."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Near Limsa Lominsa, we have Castrum Occidens, situated in eastern Vylbrand, and Castrum Marinum, which lies to the south and east, in the midst of the Rhotano Sea."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Near Ul'dah, we have Castrum Meridianum to the north, and the coastal outpost at Cape Westwind which connects Castrum Marinum to the mainland by means of a magitek transporter."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Near Gridania, we have Castrum Oriens, which lies upon the eastern edge of the Twelveswood."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "And finally, in Mor Dhona...stands Castrum Centri. A thorn in the heart of Eorzea."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The forthcoming operation will see Allied forces assault each of the aforementioned locations, with the ultimate objective of destroying the Empire's new weapon, housed within Castrum Meridianum."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As one might expect of the Black Wolf's seat of power, Castrum Meridianum boasts all but impenetrable defenses. If we are to breach it, we must needs isolate it from its sister strongholds."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To do otherwise would be to risk being caught 'twixt hammer and anvil."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The operation will comprise four distinct phases, all told."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The first shall see us eliminate one of the Black Wolf's most trusted lieutenants─Rhitahtyn sas Arvina."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "According to our intelligence, the praefectus is due to visit the imperial outpost at Cape Westwind for an inspection."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "When he arrives, we shall dispatch an elite adventurer unit to eliminate him. Forename , we would have you lead this assault."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Rhitahtyn is a peerless field tactician. Shorn of his leadership, the garrison at Castrum Occidens will be as a snake without its head."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Phase two will see us sever Castrum Meridianum's primary lines of supply."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As soon as Rhitahtyn's presence is confirmed at the coastal outpost, the Maelstrom will lay siege to Castrum Occidens."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "At that very hour, the Lominsan Armada, helmed by the Admiral herself, shall move to blockade Castrum Marinum."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Meanwhile, in the Twelveswood, the Order of the Twin Adder will surround Castrum Oriens."
+    },
+    {
+      "character": "Yda",
+      "text_en": "And they'll have the sylphs to help them! Frixio's been waiting for a chance to avenge these ones!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Phase three shall see us neutralize Castrum Meridianum's defenses."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forming our main thrust, the Immortal Flames will march against the stronghold with all their strength. While the enemy's eyes are thus drawn outwards, another elite adventurer unit shall infiltrate the castrum."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Its mission: to disable the magitek field generator which protects the Praetorium , a fortress within a fortress wherein the Ultima Weapon is believed to be housed. Forename , we would have you take command once more."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Meanwhile, the Order of the Twin Adder will blockade the railway which connects Centri and Meridianum, preventing the timely arrival of reinforcements from Mor Dhona."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "A wise precaution. The monstrous locomotive which runs back and forth between the two castra is capacious enough to transport a small army, by all accounts."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It is well the Garleans did not think to give it wings."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Once Meridianum's defenses have been compromised, the operation will enter its fourth and final phase."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This will see the Immortal Flames enter the stronghold and suppress the remnants of the enemy garrison."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Allowing Forename 's unit to pass unopposed into the Praetorium, where they will locate and destroy the Ultima Weapon."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "By this feat shall the operation be deemed a success."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In addition to the Grand Companies, we can count upon the support of a variety of other parties, from the pirates of Limsa Lominsa to the Monetarists of Ul'dah. In all, the operation will involve no fewer than twelve major factions."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Legend holds that the Archons were twelve in one, and one in twelve..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It is for this reason that our grand endeavor has been dubbed “Operation Archon.”"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Countless free companies have also pledged their swords, and more join us by the day. At long last, all of Eorzea is rising as one."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As before, we Scions shall work in concert with the Grand Companies. Yda, Papalymo, Y'shtola─pray accompany your respective organizations on their missions."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Urianger, I would have you represent us in Ul'dah. Reassure the financiers that they have made a sound investment. When that is done, pray return here and aid in the coordination of our forces."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Tataru, please assist Urianger in any way you are able, and ensure that everyone is kept abreast of the latest developments."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Minfilia, Cid, and I shall accompany the main host in an advisory capacity. It will be our task to analyze intelligence as it comes into our possession, and make the necessary recommendations to command."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "As Alphinaud mentioned, you are to lead the elite unit of adventurers whose task it will be to see each of Operation Archon's main objectives fulfilled. Yours is the most important role of all, and like to be the most dangerous. Pray choose your party well, and stint not in your preparation."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The battle for the future of the realm is about to begin. Together, let us show the Black Wolf the power of a united Eorzea!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Pray report to the Immortal Flames encampment situated to the north of here when you are ready to be briefed on your first mission."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I cannot stress this enough, but please be careful. May you walk in the light of the Crystal."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "As briefed, you are to lead a squad of elite adventurers on infiltration missions. You will receive detailed orders at each staging point."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The future of Eorzea hinges upon the success of Operation Archon, and casualties are inevitable. May the Crystal watch over us all."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "<sigh> Our numbers have swelled so much of late, it takes an age to keep records up to date. ...Hee hee, that rhymes!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Oh, and I hope you don't mind, but I took the liberty of drawing a pretty little flower next to your name. This way I can find you quickly!"
+    },
+    {
+      "character": "Dariustel",
+      "text_en": "This was all his idea. Yet, in the end, he was the one who had to go and... <sigh> Godsdamned fool."
+    },
+    {
+      "character": "Yda",
+      "text_en": "...Sixty-two, sixty-three, sixty—"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Oh, Forename ! Just warming up...<pant>...for the operation. We're going to accompany...<pant>...the Gridanians. Um...<pant>...how many times was that...?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Gods' sake, Yda! We have the operation to think about, and you're wearing yourself down by exercising!? Your form isn't even correct! It's cheating to swing your arms!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "I appreciate that you have nervous energy, but there will be no shortage of opportunities to expend it when we go toe-to-toe against the Garleans!"
+    },
+    {
+      "character": "Bremondt",
+      "text_en": "Listen to these two, swappin' their stories. Life ain't always got to be an adventure, I say. Me, I'm the sort who enjoys a nice, relaxin' carriage ride, paired with a bottle of Bacchus—like that time I met you, come to think of it."
+    },
+    {
+      "character": "Brennan",
+      "text_en": "Bah, Brendt thinks he had it bad. Try bribin' a pirate an' see where that gets you!"
+    },
+    {
+      "character": "Brendt",
+      "text_en": "Have a seat, lad / lass ! I was just tellin' me brothers about the time these Amalj'aa saved me from the Brass Blades. Hard to believe, I know, but it's true!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "<sigh> Tataru... I suppose it wasn't meant to be..."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "The chief? To be honest, I don't know where he is or what he's up to at the moment. Probably busy doing something only he can do."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The Maelstrom has committed its forces to the operation. In fact, the pirates look forward to their part in this naval warfare with something approaching unholy glee."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You need only concentrate on the task that lies before you. We stand vigilant at your back."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Each phase of Operation Archon must be executed to perfection, Forename . The fate of Eorzea hangs in the balance!"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "You are well come, Forename Surname of the Scions. As communications officer, it falls to me to issue you your orders, and provide guidance on forthcoming missions."
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "Your first mission is to infiltrate the imperial outpost at Cape Westwind and eliminate Praefectus Rhitahtyn sas Arvina."
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "All participating units are now in position and awaiting your arrival. Please proceed to the staging point and report to Lieutenant Adalbert."
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "This is but the first step in our bid to purge the realm of the Garlean menace. I shall pray for your success!"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "The assault on Cape Westwind is but the first step in our bid to purge the realm of the Garlean menace. I shall pray for your success!"
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "So you're Forename Surname , the fearless leader of the elite adventurer unit. We've been expecting you."
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "Our Maelstrom friends report that Rhitahtyn sas Arvina departed Castrum Occidens a bell ago."
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "And sure enough, a convoy of imperial airships landed here just now."
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "The likelihood is high that our target was aboard one of the vessels. I've dispatched scouts to verify his presence before we strike."
+    },
+    {
+      "character": "Flame Runner",
+      "text_en": "Command to all units. Requesting status report."
+    },
+    {
+      "character": "1st Platoon Soldier",
+      "text_en": "This is Antlion I. Target has not been sighted."
+    },
+    {
+      "character": "2nd Platoon Soldier",
+      "text_en": "This is Antlion II. Likewise, target has not been sighted."
+    },
+    {
+      "character": "3rd Platoon Soldier",
+      "text_en": "Antlion III here. We've got nothin' for ye neither."
+    },
+    {
+      "character": "4th Platoon Soldier",
+      "text_en": "This is Antlion IV. Nothing to report as of─"
+    },
+    {
+      "character": "4th Platoon Soldier",
+      "text_en": "Wait! Disregard previous message! Target sighted. I say again: target sighted."
+    },
+    {
+      "character": "Flame Runner",
+      "text_en": "Understood. Hold your position."
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "Attention, all units. This is Lieutenant Adalbert Cotter."
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "The first step of Operation Archon begins with us. Should we falter here, all hope of victory will be lost."
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "'Tis no small burden, but know that I believe in all of you. So believe in yourselves, and together we will blaze a path for our brothers and sisters of the Alliance to follow."
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "We will create multiple diversions and disperse the enemy garrison. That should give you a chance to breach their defenses."
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "Go now, Forename , and bring us Rhitahtyn's head! May Rhalgr grant you strength!"
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "Commence diversionary maneuvers!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "It would appear we have unexpected guests."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Now, where have I seen you before? Ah, but of course─the man / woman who felled the mighty Titan."
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "This is the eikon-slayer!?"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "I see. The commotion without is naught but a diversion."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Allow me to hazard a guess: by eliminating me, you hope to undermine the garrison at Occidens."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "A bold strategy, to be sure, but have you the strength to see it to fruition?"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Leave us. None of you are a match for him / her ."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Send word to Castrum Occidens. Tell them the Lominsans are coming."
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "At once, my lord!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Fifteen years have come and gone since Lord van Baelsar first set foot in Eorzea, yet his ambition for the realm burns as strong as ever it did. Know you what fuels it, adventurer? The desire to deliver the people from their suffering."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "The lands he has conquered were all beset with problems─poverty, starvation, lawlessness, and strife. My homeland was no exception. Had my lord not reached out and claimed it for the Empire, it would eventually have destroyed itself."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "But under his sage leadership, my people enjoyed such peace and stability as we had never known. And he only desires the selfsame for the people of this realm. Under his rule, Eorzea would be free from the shackles which bind it─the shackles of false faith."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "There would be no feeble leaders to misguide the masses, no eikons to bleed the realm dry. True peace would reign, and the people would be free to live their lives without fear of persecution or oppression."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Should you doubt the truth of my words, I bid you look upon me. I am no son of Garlemald, yet Lord van Baelsar saw fit to raise me to a station of great honor."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "He measures a man not by his birth, but by his worth. Such is his sense of justice. By the grace of His Excellency, I am where I was born to be─upon the field of battle."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "He has given me a noble cause to fight for, and worthy adversaries to smite."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "I am not wont to bare my steel needlessly. But if you are deaf to reason..."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "In the name of Lord van Baelsar, I, Rhitahtyn sas Arvina, do swear to strike you down!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "I will suffer none to oppose Lord van Baelsar!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Your defeat will bring Lord van Baelsar's noble conquest one step closer to fruition!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "My shields are impregnable!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Let me show you a technique passed down in my homeland! [He casts Tartarean Tomb.]"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "You do not hold back! Very well, neither shall I!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Ugh... So this is the strength of he / she who vanquished Titan..."
+    },
+    {
+      "character": "Imperial Pilus Prior",
+      "text_en": "Let us aid you, my lord!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "What? I thought I ordered you to leave!"
+    },
+    {
+      "character": "Imperial Pilus Prior",
+      "text_en": "Forgive us, my lord, but we couldn't let you face the enemy alone!"
+    },
+    {
+      "character": "Imperial Pilus Prior",
+      "text_en": "We've raised the alarm as you bade...and now we would fight with you!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina (bubble text)",
+      "text_en": "Don't be fools, get away from here!"
+    },
+    {
+      "character": "Imperial Pilus Prior (bubble text)",
+      "text_en": "Pardon, my lord."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina (bubble text)",
+      "text_en": "Nooo! You... You bastard."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina (bubble text)",
+      "text_en": "Yaaaaargh!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Your conviction and courage will not be for naught! This I swear!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "For victory and vengeance, I will strike you down!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Ignore pain... Ignite rage... And fight with the fury of wildfire!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "You will have no mercy from me!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Ignore pain... Ignite rage... And fight with the fury of wildfire!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina (bubble text)",
+      "text_en": "Aaarrrgh!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "<pant> <pant> You are stronger than I had expected..."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "But I have my honor! I cannot─I will not yield!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Hah, I have you now!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "We shall go together, amidst a raging inferno!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "No amount of pain can loosen my grip!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Ungh... You will not escape..."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Rest in peace, men... I shall join you soon..."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "<pant> <pant> It's over... Strong as you are, you cannot survive this!"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "<gasp> <pant>"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Forgive me... I have failed you..."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Lord van Baelsar!!!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "That light─ <gasp> The magitek transporter!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forename , are you there? What news of Rhitahtyn? ... Fallen ?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "With this deed, you have sown the seeds of our ultimate victory."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The fading of that light presages an end to the Empire's tyranny!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Rhitahtyn sas Arvina is no more!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let the next phase of Operation Archon commence!"
+    },
+    {
+      "character": "All",
+      "text_en": "HURRAH!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "'Tis I! It seems you've done it again, Forename !"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I'd raise a tankard to you, but I'm afraid we've no time to savor the victory. There's still the small matter of infiltrating Castrum Meridianum and destroying the Ultima Weapon!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I know, I know...no rest for the preternaturally gifted. Now stop feeling sorry for yourself, and make your way back to the Immortal Flames' encampment. The communications officer will issue you your orders. I'll be waiting for you with the main host."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Look, Hydaelyn─Your minion comes... bringing the Light ."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Alas, the gate to the void already stands open. Soon, Darkness shall consume all, and you shall bow down before the one true god."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Ahahahahaha!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "The praefectus...slain?"
+    },
+    {
+      "character": "Imperial Officer",
+      "text_en": "Regrettably so, my lord. And at the hand of the eikon-slayer, if the centurion who survived the attack is to be believed."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "Rhitahtyn..."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "Where were his men when he faced the enemy!? Fleeing, even as their commander yielded up his last breath!? If it should prove they questioned his right..."
+    },
+    {
+      "character": "Imperial Officer",
+      "text_en": "I-I cannot speak for them, my lord."
+    },
+    {
+      "character": "Imperial Officer",
+      "text_en": "...Beg pardons, my lord, but there is more. The Maelstrom has laid siege to Castrum Occidens."
+    },
+    {
+      "character": "Imperial Officer",
+      "text_en": "Likewise, the Crimson Fleet moves to blockade Castrum Marinum."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "So this is their answer..."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "Very well! We shall crush them as we crushed the eikons!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "Go forth and show them the futility of their resistance!"
+    },
+    {
+      "character": "Tribuni",
+      "text_en": "Yes, my lord!"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "Scion Surname ! Your deeds this day are an inspiration to us all!"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "With the death of the praefectus, Operation Archon has entered its second phase. Even as we speak, the Maelstrom moves to blockade Castrum Occidens and Castrum Marinum."
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "And far to the east, in the Black Shroud, the Order of the Twin Adder advances upon Castrum Oriens."
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "Already, you have done much to advance our cause, performing such feats as are worthy of song─but if our plan is to succeed, more is required of you."
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "Let me know when your preparations are in order, and I shall relay to you the particulars of your next mission."
+    }
+  ]
+}

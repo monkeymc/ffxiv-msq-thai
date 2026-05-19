@@ -1,0 +1,68 @@
+{
+  "id": "on-to-bentbranch",
+  "wiki_path": "/wiki/On_to_Bentbranch",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "On to Bentbranch",
+  "level": "10",
+  "location": "New Gridania(X:11.7,Y:13.5)",
+  "npc_start": "Mother Miounne",
+  "dialogues": [
+    {
+      "character": "Mother Miounne",
+      "text_en": "How is my favorite fresh-faced adventurer? Oh, do not scowl so—I speak out of habit. You've come a long way since you first walked through my door, and I'll not deny it."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "As a matter of fact, I think it's about time you made yourself useful at Bentbranch Meadows in the Central Shroud."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Unlike the recruits you see at the Bannock, the men and women out at Bentbranch are fully occupied with their own work. As such, I imagine there are more than a few who would welcome the assistance of a rapidly maturing adventurer like yourself."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Bentbranch is also home to a very usefully situated aetheryte. It is, in other words, the perfect place for you to begin the next stage of your journey as an adventurer."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "And what better time than the present!? Leave the city via the Blue Badger Gate, and continue to the southwest until you come to a bridge."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Cross it, and when you spy an aetheryte in the distance, you may congratulate yourself on having successfully found Bentbranch Meadows."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "If you so fancy, you may also make use of the chocobo porter service, doubtless the safest way to get to your destination. Chocobokeep Cingur should not hesitate to lend his birds to a capable adventurer like you."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Oh, and be sure to introduce yourself to Keitha, the head chocobo wrangler, when you arrive."
+    },
+    {
+      "character": "Keitha",
+      "text_en": "You must be the 'venturer Miounne sent word about. I'm Keitha, head wrangler 'round these parts."
+    },
+    {
+      "character": "Keitha",
+      "text_en": "I've heard many and more things about you—good things, lest you worry."
+    },
+    {
+      "character": "Keitha",
+      "text_en": "When the Elder Seedseer bade us welcome 'venturers, 'tis fair to say we had our doubts—till hardworkin' folks like yourself set about provin' us wrong, that is. Consider me a convert!"
+    },
+    {
+      "character": "Keitha",
+      "text_en": "Anyroad, you've a mind to help out at the ranch, have you? Good. We could always do with a hand or two to keep the place runnin' smoothly."
+    },
+    {
+      "character": "Keitha",
+      "text_en": "As a matter of fact, I've a task right here that wants doin'."
+    },
+    {
+      "character": "Keitha",
+      "text_en": "Let me know when you're ready to get busy. Oh, and you come highly recommended, so don't go lettin' no one down, eh?"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "the-reluctant-researcher",
+  "wiki_path": "/wiki/The_Reluctant_Researcher",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "The Reluctant Researcher",
+  "level": "42",
+  "location": "Western La Noscea(X:27.9,Y:27.0)",
+  "npc_start": "Ceana",
+  "dialogues": [
+    {
+      "character": "Ceana",
+      "text_en": "<sigh> Fine, fine! I fail to see the justification for dragging me along on your journey, but if you insist, I will go as well."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "But Twelve as my witness, if you leave me behind to be devoured by some horrid abomination, I...I shall come back to haunt you!"
+    },
+    {
+      "character": "Ferry Skipper",
+      "text_en": "Hah! “Take me to the Isles of Umbra,” he / she bids! As if it's as simple as─ Oh, I see you've got a writ of passage. All right, then, climb aboard."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Th-Th-This doesn't seem all that bad..."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "I'm not saying I'd like to build a summer home here, but─ Oh, the hells with this. Here, take your pot and go on without me."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "You've harvested corrupted crystals before, right? So it isn't as though you require my assistance. Speak to the man guarding the gate─I'm sure he'll let you in. Now, if you would please excuse me..."
+    },
+    {
+      "character": "Ferry Skipper",
+      "text_en": "Hah! “Take me back to the Isles of Umbra,” he / she jests! As if anyone would ever want to─ Oh, I see you're serious. All right, then, climb aboard."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "You awful, awful man / woman ! I explicitly told you not to abandon me!"
+    },
+    {
+      "character": "Ceana",
+      "text_en": "And you even have the audacity to request that I accompany you again!? <sigh> Very well─but do not think I will forget this, Forename !"
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Beg your pardon, sir / madam , but how did you come here? Access to this island is currently restricted..."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "An old pot? I'm not sure I follow. ...Oh, I see. You wish to harvest a corrupted crystal. Sorry, friend, but you may have to return empty-handed."
+    }
+  ]
+}

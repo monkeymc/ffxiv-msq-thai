@@ -1,0 +1,52 @@
+{
+  "id": "in-the-grim-darkness-of-the-forest",
+  "wiki_path": "/wiki/In_the_Grim_Darkness_of_the_Forest",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "In the Grim Darkness of the Forest",
+  "level": "11",
+  "location": "Central Shroud(X:17.6,Y:19.1)",
+  "npc_start": "Theodore",
+  "dialogues": [
+    {
+      "character": "Theodore",
+      "text_en": "It is—regrettably—my duty to stand watch over the road from here to Bentbranch Meadows."
+    },
+    {
+      "character": "Theodore",
+      "text_en": "The ranch has become a veritable institution of Gridania, so any threats to its continued operation are taken quite seriously by the Wood Wailers."
+    },
+    {
+      "character": "Theodore",
+      "text_en": "Which reminds me—mayhap it was my imagination, but I believe I caught a glimpse of some shadowy fellow not too long ago. Would you mind passing word to Roseline down below? I would go myself but, well...it's hard enough marshaling the courage to walk the root for my shift..."
+    },
+    {
+      "character": "Roseline",
+      "text_en": "A shadowy fellow? Hmmm...now that you mention it, I may have seen something."
+    },
+    {
+      "character": "Roseline",
+      "text_en": "I dismissed it as a trick of the light before, but I thought I saw a shadow in the forest to the north. Still, I suspect it is nothing more than a Qiqirn thief on the run."
+    },
+    {
+      "character": "Roseline",
+      "text_en": "If you must sate your curiosity, by all means investigate. Should you actually find something of note, I would like very much to see it."
+    },
+    {
+      "character": "Roseline",
+      "text_en": "Hmmm? Have you found something?"
+    },
+    {
+      "character": "Roseline",
+      "text_en": "Remnants of a campfire and a forgotten bag...this could belong to any adventurer or traveler. And inside we have...a chocobo grooming brush and roseling oil?"
+    },
+    {
+      "character": "Roseline",
+      "text_en": "But wait—why would a traveler make camp here, when it would be far safer to beg the hospitality of Bentbranch Meadows?"
+    },
+    {
+      "character": "Roseline",
+      "text_en": "Bugger me, I think this belongs to that stranger said to be meddling with the chocobos! Thank you, adventurer. We have been lax in our duties, but no longer—I swear we will find this shadow."
+    }
+  ]
+}

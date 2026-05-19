@@ -1,0 +1,44 @@
+{
+  "id": "following-footfalls",
+  "wiki_path": "/wiki/Following_Footfalls",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Following Footfalls",
+  "level": "13",
+  "location": "Western Thanalan(X:22.6,Y:17.1)",
+  "npc_start": "Fufulupa",
+  "dialogues": [
+    {
+      "character": "Fufulupa",
+      "text_en": "The Brass Blades of the Rose have need of your assistance once more, Forename !"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "Thaumaturges from the Ossuary are presently surveying the Footfalls for ancient relics."
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "As the area is rife with wild beasts, the Horizon garrison has been charged with their security."
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "But Captain Baldewyn sent only a handful of Brass Blades! Despite his assurances to the contrary, such a small unit cannot possibly be sufficient to protect our patrons."
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "I would have you offer your assistance to my comrades. Pray travel to the Footfalls and speak with Totoruna."
+    },
+    {
+      "character": "Totoruna",
+      "text_en": "A bleedin' 'venturer, come to help? I ain't heard nothin' from Cap'n Baldewyn 'bout this. He said trusted men only..."
+    },
+    {
+      "character": "Totoruna",
+      "text_en": "Anyroad, we've got this under control─an' besides, this operation ain't got nothin' to do with Fufulupa."
+    },
+    {
+      "character": "Totoruna",
+      "text_en": "Boy's got a stick up his arse the size of a sabotender. It's no wonder the cap'n told him to stay at Horizon..."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ye-of-little-faith",
+  "wiki_path": "/wiki/Ye_of_Little_Faith",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Ye of Little Faith",
+  "level": "39",
+  "location": "Coerthas Central Highlands(X:11.9,Y:17.4)",
+  "npc_start": "Brunadier",
+  "dialogues": [
+    {
+      "character": "Brunadier",
+      "text_en": "Your timing could not have been worse, traveler. Lord Drillemont's attentions are focused solely on the Stone Vigil at present."
+    },
+    {
+      "character": "Brunadier",
+      "text_en": "In any case, it is not my responsibility to escort visitors. Take your letters and show them to...Ser Alboise. Yes, Ser Alboise can surely accommodate you─seek her in the storeroom on the opposite side of the yard."
+    },
+    {
+      "character": "Cid",
+      "text_en": "If the Enterprise is indeed inside the Stone Vigil, then we must convince Lord Drillemont to cooperate."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Time is a resource we can ill afford to squander. We must gain entrance to the Stone Vigil without further delay."
+    },
+    {
+      "character": "Alboise",
+      "text_en": "Ser Brunadier bade you speak with me, did he? I know not why he presumed I would be in a better position to help, but I assure you that he is mistaken."
+    },
+    {
+      "character": "Alboise",
+      "text_en": "Lord Drillemont hasn't the time to spend speaking with low-ranking knights such as I. However, he always has a moment to spare for head chirurgeon Astidien. Why not visit the infirmary upstairs and show your letters to him?"
+    },
+    {
+      "character": "Astidien",
+      "text_en": "Are you here to visit a patient, sir / madam ? What's this? Letters of introduction from House Fortemps and Haillenarte..."
+    },
+    {
+      "character": "Astidien",
+      "text_en": "With documents such as these, you needn't seek an escort. Pray proceed to the barracks and speak with Ser Goudernoux. He should know Lord Drillemont's current whereabouts."
+    },
+    {
+      "character": "Goudernoux",
+      "text_en": "What reason have you for barging into─ Oh, I see. Well, you are in luck─Lord Drillemont is just up these stairs."
+    },
+    {
+      "character": "Goudernoux",
+      "text_en": "Letters or no, though, I would not expect much. House Durendaire as a whole does not hold adventurers in high regard."
+    },
+    {
+      "character": "Goudernoux",
+      "text_en": "You had best state your intentions quickly and succinctly. Show proper respect, and it shall be returned in kind."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Ser Goudernoux permitted your passage? Very well. Speak."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "You wish to brave a ruined outpost filled with scalekin to secure an airship that may or may not be there. Are you the avatar of the Fury Herself?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We are the Scions of the Seventh Dawn, Lord Drillemont. You know our name, and you know our deeds."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We are come to Coerthas to slay Garuda, Lady of the Vortex. To that end, we seek the Enterprise , the airship of Master Cid nan Garlond, who stands before you now."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Master Garlond, you're alive !? But that's impossible!"
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "Indeed it is, my lord."
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "Do not be deceived by their honeyed words. These foreigners are not to be trusted."
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "At this critical moment in Ishgardian history, as House Durendaire marshals its forces to retake the Stone Vigil, who should appear in Whitebrim Front but three mysterious strangers..."
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "Cid Garlond─missing and presumed dead since before the Calamity, and two Scions of the Seventh Dawn─a defunct band of misfits recently exterminated by the Empire."
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "The lesser houses may have been duped by these grandiose lies, but I should hope that House Durendaire would have greater sense. I know not why these three seek the Stone Vigil, but I know that we cannot permit them to pass."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Thank you for your counsel, Inquisitor. For a moment, I nearly believed this mummer's farce."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "You three will not enter the outpost until we have reclaimed it─and until you declare your true intentions as well."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It could be moons before House Durendaire purges the dragons from the Stone Vigil. We cannot afford to wait that long!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Cid, Forename ─we must do whatever it takes to earn Lord Drillemont's trust. Understood?"
+    }
+  ]
+}

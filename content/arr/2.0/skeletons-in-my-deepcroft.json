@@ -1,0 +1,11 @@
+{
+  "id": "skeletons-in-my-deepcroft",
+  "wiki_path": "/wiki/Skeletons_in_My_Deepcroft",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title_en": "Skeletons in My Deepcroft",
+  "level": "13",
+  "location": "Central Shroud(X:22,Y:26)",
+  "npc_start": "Lothaire",
+  "dialogues": []
+}

@@ -1,0 +1,160 @@
+{
+  "id": "brotherly-love",
+  "wiki_path": "/wiki/Brotherly_Love",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Brotherly Love",
+  "level": "22",
+  "location": "East Shroud(X:21.9,Y:25.6)",
+  "npc_start": "Komuxio",
+  "dialogues": [
+    {
+      "character": "Komuxio",
+      "text_en": "Helpful one arrives at a good time! This one needs helpful one's help!"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "One of these ones named Claxio ventured outside Little Solace alone. Alone is unsafe! Helpful one must find Claxio!"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Claxio struck west after leaving the settlement. Hurry before Claxio ends up in the belly of a beastly one!"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "What? Walking one wants this one to return to Little Solace? Don't make this one laugh!"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "This one is weary of living with those who are not these ones. This one wants to be alone."
+    },
+    {
+      "character": "Claxio",
+      "text_en": "These ones rely on walking ones for everything. No better than those ones that summoned a primal one! Small wonder this one chose to leave!"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "This one thought this a likely place to build a home. But then meddling one arrives─forces this one to go deeper into the forest. Meddling one is forbidden from following this one! Away with meddling one!"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "What? Claxio refused to return to these ones, and went deeper into the forest!?"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "B-But this one saw touched ones lurking in the forest! Helpful one must hurry─hurry and find Claxio!"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Helpful one should search for spools of thread on the forest floor. Those things will lead helpful one to Claxio. But hurry! Hurry, before touched ones take Claxio away!"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "Meddling one is back!? This one told meddling one to be gone! Tell Komuxio that this one will never go back! Never !"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "T-Touched ones? Touched ones should go away too! This one is good one! Every one should just leave this one alone!!!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Be on guard, Forename . These sylphs have been tempered―brought under the thrall of the primal Ramuh."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Akin to the Amalj'aa tempered by Ifrit, these sylphs exist only to serve their deity."
+    },
+    {
+      "character": "Yda",
+      "text_en": "They'll not answer to words―only steel. I take no pleasure in this, but it must be done."
+    },
+    {
+      "character": "Sylvan Budnapper",
+      "text_en": "Claxio... These ones are your friends... Come with these ones... Serve primal one together..."
+    },
+    {
+      "character": "Claxio",
+      "text_en": "No! This one is good one! Will never go with bad ones!"
+    },
+    {
+      "character": "Sylvan Budnapper",
+      "text_en": "Meddling one not smart to anger this one... This one has many friends in the forest..."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Hurry up, Papalymo―I can't bear this stench any longer!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "I'm doing the best I can! If we dispatch the sylphs, surely..."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "A morbol!? And things were going so well..."
+    },
+    {
+      "character": "Claxio",
+      "text_en": "N-No...not stinky one! Stinky one is scary! Stinky one's stink makes this one's head go spinning!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "There's something not right about this morbol. Ignore it and focus your attacks on the sylphs!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Ick! Forename ―Papalymo and I can handle this beast. You take care of the sylphs!"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "Th-This one is...safe? This one was so scared..."
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Claxio! This one has been worried! So very worried! Is Claxio unharmed? Still in possession of wits?"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "K-Komuxio? And meddling one as well... Why are these two here?"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "These two came to rescue Claxio! That Claxio is safe fills this one with joy!"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "Komuxio...forgive this one. This one did not mean to run away from Little Solace. This one was just...afraid."
+    },
+    {
+      "character": "Claxio",
+      "text_en": "These ones who live at Little Solace were changing─becoming friendly with other ones."
+    },
+    {
+      "character": "Claxio",
+      "text_en": "This one feared that these ones were forgetting who these ones are...like touched ones did. But this one was wrong. This one can see that now."
+    },
+    {
+      "character": "Claxio",
+      "text_en": "Meddling─er, helpful one. This one is grateful. This one will return to Little Solace to be with Komuxio and friendly ones."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Well, that should see to that. What say we return to Little Solace as well? I, for one, could do with a nice, hot bath."
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one thought Claxio was lost forever. Helpful one saved Claxio―now these ones can be family again."
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one has known many walking ones―even many kind walking ones―but helpful one is kindest and strongest of all. Helpful one is a hero to these ones."
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Helpful one will bring these ones and walking ones closer together―this one knows. This one would take helpful one to see elder one."
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "But elder one is... Elder one is..."
+    }
+  ]
+}

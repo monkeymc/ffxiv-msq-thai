@@ -1,0 +1,56 @@
+{
+  "id": "sealed-with-science",
+  "wiki_path": "/wiki/Sealed_with_Science",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Sealed with Science",
+  "level": "41",
+  "location": "Eastern Thanalan(X:12.7,Y:23.4)",
+  "npc_start": "Lamberteint",
+  "dialogues": [
+    {
+      "character": "Lamberteint",
+      "text_en": "Ahhh, so rare it is to find fellow intellectuals in this region. 'Tis even rarer to find one capable of comprehending the nature of corrupted crystals."
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Come to think of it, there was another─a hermit to whom the church had given sanctuary. Curious fellow. Unsociable, rather daft at first impression, yet possessed of an amazing affinity towards the scientific pursuits..."
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "But to the matter at hand─did you say you wish not to conduct field observations, but to harvest a corrupted crystal?"
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Egads, man / woman ! At least take the necessary precautions so that you do not suffer from exposure to its harmful energies! I'm beginning to wonder if you've sufficient qualifications to handle such hazardous materials..."
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Still, your ignorance is somehow endearing. Luckily for you, I have precisely the means by which these inherent dangers may be averted. Simply store the crystal you seek within this warded pot to protect yourself from its deleterious effects. Though I suppose you will be bombarded with its energies until you place it within the vessel..."
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Well, perhaps it shall motivate you to work quickly. In any case, take the pot to Hahasako, a student of mine monitoring the flow of aether at Highbridge. Explain to him your quest, and he shall instruct you in the finer points of crystal harvesting."
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Come, listen closely...Can you hear that beating? 'Tis the flow of aether, the very pulse of the land."
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Truly, Eorzea is a realm of endless wonders. Every day, my heart is set aflutter with a new discovery!"
+    },
+    {
+      "character": "Hahasako",
+      "text_en": "How many times must I be made to explain myself!? I am not contemplating suicide, you imbecile─I have chosen this precise position to perform scientific measurements!"
+    },
+    {
+      "character": "Hahasako",
+      "text_en": "What have we here...a containment vessel!? Why, this is the handiwork of Professor Lamberteint! You thieving knave, I shall call for the─ Oh, you say the man himself lent it to you..."
+    },
+    {
+      "character": "Hahasako",
+      "text_en": "Then you must have sought me out per his instruction...which means he believes me experienced enough to expound upon his explanations! At last, the recognition I so rightfully deserve!"
+    }
+  ]
+}

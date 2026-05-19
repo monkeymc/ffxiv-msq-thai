@@ -1,0 +1,312 @@
+{
+  "id": "into-the-beast-s-maw",
+  "wiki_path": "/wiki/Into_the_Beast%27s_Maw",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Into the Beast's Maw",
+  "level": "24",
+  "location": "South Shroud(X:18.1,Y:19.8)",
+  "npc_start": "Buscarron",
+  "dialogues": [
+    {
+      "character": "Buscarron",
+      "text_en": "It's taken us a fair old while, but we've finally got our hands on some reliable information concerning the whereabouts of your missing green friend."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Ahem! His name is Frixio , and he is the eldest amongst the sylphs of Little Solace. Long has he represented his kind in dialogue with the Gridanians."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Yes, he's like a bridge between us and them─a small, leafy, green bridge that we can't find at the moment. And bridges are no use if you don't know where they are. That's why it's so important that we find him!"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "There's an abandoned dungeon called the Thousand Maws of Toto–Rak here in the South Shroud."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "'Twas by the entrance to the place that Frixio was seen─and not long ago, neither. If you hurry, I reckon you'll find him."
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "Walking ones, please help this one! This one needs help! Needs help to help elder one! Poor Frixio! Poor, poor Frixiooo!!!"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Whoa, whoa, whoa! Hooold your chocobos. Take a deep breath and tell us what's wrong, nice and slow."
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "Elder one went into Toto–Rak, but has not returned! This one is worried, so very worried!"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "And you're right to be... The place fair crawls with nasties waiting to make a meal of anyone daft enough to wander in."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "What in the seven hells was he thinking, entering that bloody death trap?"
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "Elder one had no choice! Imperial ones were chasing elder one! Please! Walking ones must help elder one─help elder one now !"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Argh! The fates conspire against us... Forgive my pragmatism, but Frixio is our best hope of reaching an accord with the sylphs. Were we to lose him, all our efforts thus far will have been for naught."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "I will tend to her wounds. Yda, make haste to the Adders' Nest and request assistance."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Understood!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Forename ─go to the Thousand Maws of Toto–Rak and see that Frixio comes to no harm. Peace between man and sylph rests upon your success."
+    },
+    {
+      "character": "Bloisirant",
+      "text_en": "By order of the Elder Seedseer, the dungeon known as the Thousand Maws of Toto–Rak has been placed under the control of─"
+    },
+    {
+      "character": "Bloisirant",
+      "text_en": "...What? The sylph elder is inside? And you are sure of this? How in the seven hells did he manage to sneak by? Gods strike me down for a purblind fool!"
+    },
+    {
+      "character": "Bloisirant",
+      "text_en": "You must find the sylph elder before he falls prey to the fiends within. Entrance to Toto–Rak is ordinarily restricted, but these are exceptional circumstances. Pray assemble a rescue party, and enter as soon as you are ready."
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "An ill wind blows through here. Let us hurry and be about our business."
+    },
+    {
+      "character": "Scion Marauder",
+      "text_en": "Something feels wrong about this place..."
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "Fear not─I will deal with its poison."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Darkness..."
+    },
+    {
+      "character": "???",
+      "text_en": "Hahahaha..."
+    },
+    {
+      "character": "???",
+      "text_en": "The mighty slayer of Ifrit comes now to me."
+    },
+    {
+      "character": "???",
+      "text_en": "...With a countenance that bespeaks understanding."
+    },
+    {
+      "character": "???",
+      "text_en": "An intriguing power, the Echo. I must needs choose my words with care."
+    },
+    {
+      "character": "???",
+      "text_en": "Mayhap I might if I deign to speak in my guest's crude tongue. We meet at last."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "I am Lahabrea of the Ascians, servant to the one true god."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Yours is a most fantastical tale. Truly absorbing."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "It is a tale to tell Eorzea's children before bedtime. And it will soon be dark, Bringer of Light."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "...The Dark Minions..."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "All that stands between this world and Darkness is an irksome anomaly in the aether─the Echo."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Yes...yours is a most fascinating tale."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Alas, like all good tales, it must needs come to an end. But fear not..."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Hear.. Feel... The presence... of evil..."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "For the end of your tale is but the beginning of another... The tale of the Crystal's demise!"
+    },
+    {
+      "character": "Scion Thaumaturge",
+      "text_en": "That tail looks like trouble."
+    },
+    {
+      "character": "???",
+      "text_en": "<gasp> Finally, fresh air!"
+    },
+    {
+      "character": "???",
+      "text_en": "<sniff> <sniff> Mayhap not so fresh...but better than before."
+    },
+    {
+      "character": "???",
+      "text_en": "Ah, sinister one is gone! This one can leave this awful place!"
+    },
+    {
+      "character": "???",
+      "text_en": "Hm? Did walking one vanquish the many-legged one? This one is grateful to walking one!"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "This one is called Frixio, eldest of these ones of Little Solace."
+    },
+    {
+      "character": "Imperial Herald",
+      "text_en": "Alpha squad reporting, sir! Nothing of note at Larkscall, sir!"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "Understood. Return to area twelve. Damn it all...where is that accursed eikon hiding?"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "No sign of our wizened friend?"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "I'm afraid not, my lord. Shall I order that the search perimeter be expanded?"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Absolutely not. We risk alerting the Gridanians to our presence. His Excellency bid us avoid unnecessary confrontation."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Loath though I am to admit it, I have found no evidence to suggest that Ramuh will be gracing the mortal realm in the near future."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "I ask you...what good is a god who does not grant one's wishes? Were I a sylph, I should strongly consider finding myself another idol."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Which reminds me─what of the sylphs we captured? A handful of them seemed to be in reasonably good health when last I looked."
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "Ah. A-Apologies, my lord. I fear we may have been...overzealous in our efforts to compel them to summon their eikon."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "<sigh> ...Really, Centurion─were you not aware that vegetables bruise easily? It is well that I did not entrust you with the important task of making my dinner."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Well, mayhap it was a kindness. Better dead in truth than dead to one's own god, I suppose...if you believe in such things."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Dawn is upon us. Make ready to withdraw."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Hmph, useless..."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "We are so close to completion, I can fair taste it, but at this rate..."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "No, I must be patient. Our efforts will bear fruit in due time."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "...What was it you always said? Ah, yes: “Though it mean bringing down the very heavens, who shall challenge the limits of possibility if not we?” In that alone were you right...Garlond."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "But your star is long fallen, while mine doth begin to rise."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "And it shall burn so bright─ so bright that Lord van Baelsar's ultimate weapon will seem a mere candle beside it! Ahahahaha!"
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "Those walking ones did for Noxia! This one is certain of it!"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "This one fears that other taken ones also suffered the same fate..."
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "This one is convinced! Walking ones have black hearts, seek only to harm these ones! Walking ones are not to be trusted!"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Now, now, Noraxia...do not pass judgment too hastily. Not all walking ones are alike. Though there are evil ones among the walking ones, there are good ones also."
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Hm? Does walking one feel unwell?"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "This one would know, what brings walking one to this place?"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Came to this one's rescue at Noraxia's bidding? Then this one owes walking one a debt of gratitude!"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Hm? Walking one has questions about Lord Ramuh? Then this one will provide answers."
+    },
+    {
+      "character": "Frixio",
+      "text_en": "But first, let these ones quit this lightless place."
+    },
+    {
+      "character": "Frixio",
+      "text_en": "This one will return to Little Solace. When walking one is ready, please come and see this one. These ones may speak properly then."
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Then it is settled! Let this one accompany walking one outside!"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Ah, you're back! Tell me the sylph elder is well!"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "...Thank the gods for that! I don't rightly know what to make of the rest of your tale, but I'm full glad Frixio didn't come to any harm."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Ah, but there I go tempting fate. Run over to Little Solace and secure us peace with the sylphs before aught else befalls us, eh? Rest assured, I'll send word to our friends of Sharlayan and the Twin Adder both."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "You've done Gridania a great service this day, lad / lass ─and earned yourself a place of honor here at the Druthers in so doing. Be sure and come by whenever you feel like a drop of Qiqirn firewater!"
+    }
+  ]
+}

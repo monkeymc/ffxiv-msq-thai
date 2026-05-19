@@ -1,0 +1,164 @@
+{
+  "id": "history-repeating",
+  "wiki_path": "/wiki/History_Repeating",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "History Repeating",
+  "level": "42",
+  "location": "Western La Noscea(X:16.1,Y:30.7)",
+  "npc_start": "Davyd",
+  "dialogues": [
+    {
+      "character": "Davyd",
+      "text_en": "...But if they have returned, that would mean─ Oh, beg your pardon, I was just, um...thinking about something."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Which reminds me─I received word that Master Mimidoa would be arriving any moment."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Apparently, he grew tired of waiting for the “lanky young lad with the thousand-yalm stare” to return─which I'm assuming is you."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Apparently, he grew frustrated waiting for the “sweet young lass with skin as soft as phoenix down” to return─which I'm assuming is you."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "I don't know what sort of arrangement you had, but you should probably go and explain yourself."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "What's been keepin' ye, 'nitiate? I ain't gettin' any younger, ye know..."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Eh? Some honey-voiced harlot's been callin' out to folk what wander near the Ship Graveyard? An' it's stirred up the dead an' all?"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Bloody hells... This takes me back to me days as a cannonboy, sailin' under ol' Mistbeard... ...But they wouldn't dare, would they? Not after the lesson we learned 'em last time... Bah, they bloody would , though, wouldn't they, brazen ol' biddies..."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "<sigh> Some folk said as the first purge would be the last, but I knew...knew deep down in me bones as this day would come. An' come it has. Aye...I'd bet me bum ear a siren's behind all this."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Nay, not one o' the Sanguine variety, 'nitiate. I speak o' the other kind─them what's got feathers, an' lure sailors to a watery grave with their sweet, sweet song."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Ohhh, but it don't end there... No, drownin's just the start. See, even in death, a man stays bound to the beast, forced to do her biddin' till his corpse can't do it no more."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "'Tis a fate I wouldn't wish on me worst enemy─'cept maybe in drink, an' I'd regret it after. Anyroad, 'tis up to us to stop this hells-born hussy afore she takes another soul!"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "'Course, we can't send ye marchin' off to war without these. The siren don't have no power o'er a man as can't hear her song. 'Tis lucky fer you I carry a spare pair─an' lucky fer the both of us I'm a superstitious ol' sod, eh?"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Well, she ain't comin' to us, so we'd best head o'er to her. To the Ship Graveyard, 'nitiate!"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "If she passes near the shore, she's sure to spy the campfire an' come lookin'... Just a matter o' waitin', now."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "<yawn> Hmph. I'm beginnin' to wonder if some sly bugger ain't spun us a yarn, here..."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Quiet! D'ye hear that? 'Tis her!"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Look! Out o'er the water! She's come, 'nitiate! She's come !"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Quick, lad / lass ─shove them plugs in yer ears, an' get ready fer a fight! Soon as she realizes yer deaf to her ditties, she'll call on her thralls, an' we'll be up to our necks in corpses afore ye know it!"
+    },
+    {
+      "character": "Siren",
+      "text_en": "...hither...embrace...mine everything...all...♪"
+    },
+    {
+      "character": "Siren",
+      "text_en": "...true love spurned... his / her cruelty's reward...♪"
+    },
+    {
+      "character": "Siren",
+      "text_en": "Cast out...callous soul...dead to desire...♪"
+    },
+    {
+      "character": "Siren",
+      "text_en": "Spare...mournful mistress...distress...♪"
+    },
+    {
+      "character": "Siren",
+      "text_en": "...melody...last breath...of death...the rhythm...♪"
+    },
+    {
+      "character": "Siren",
+      "text_en": "Dost thou not...to relent...regret...forever alone...♪"
+    },
+    {
+      "character": "Siren",
+      "text_en": "My love...a river...one look...soul shiver...♪"
+    },
+    {
+      "character": "Siren",
+      "text_en": "No more...dark...eclipse...the heart...♪"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Eh? Am I all right? Hah! I'm better'n that, 'nitiate! Happy as a sailor in a whorehouse, I am! ...'Course, I'd be happy as a sailor with two wotsits if we'd gutted the songstress─but ye can't have everythin', can ye?"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "She'll not come croonin' 'round here again, though─not fer a while, anyroad. An' if she does...well, we know what to do, don't we?"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Thanks for the help, uh... Bugger me, I've clean forgot yer name! Remind me. Forename ? Don't recall havin' no 'nitiate by that name. But if yer not me ol' mate, er...wossname, why've ye been so bloody helpful? Ah, never mind. Be seein' ye, lad / lassie ."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "You mean it was a siren!? But how were you able to resist her song? ...I see. I had heard that Master Mimidoa was involved in the first purge, but I never actually... Hm."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Having survived an ordeal like that, I can't blame him for carrying earplugs around with him..."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Anyway, I have something for you: the corrupted crystal you wanted, safely sealed within the pot, just as you requested. Please, take it with my compliments."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Oh, it's you! Welcome back, Forename . You're looking remarkably hale, I must say─and, more importantly, alive! You are alive, aren't you?"
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Aha! The conquering hero returns bearing a gift! Might I have a closer look?"
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Impressive... very impressive indeed. Yes...I think you'll be quite pleased with this specimen."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Congratulations, Forename ! Seldom if ever have I encountered a corrupted crystal composed of such a volatile overabundance of fire-aspected aether."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "What? You wanted a corrupted crystal composed of ice -aspected aether to counteract the effects of a raging wind? Ah...ahaha. Well, this specimen won't help you there. Anyone who knows anything about the elements could tell you that. You'll just have to keep looking, I suppose!"
+    }
+  ]
+}

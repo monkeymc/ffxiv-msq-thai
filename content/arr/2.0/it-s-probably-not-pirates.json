@@ -1,0 +1,44 @@
+{
+  "id": "it-s-probably-not-pirates",
+  "wiki_path": "/wiki/It%27s_Probably_Not_Pirates",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "It's Probably Not Pirates",
+  "level": "42",
+  "location": "Western La Noscea(X:27.9,Y:27.0)",
+  "npc_start": "Ceana",
+  "dialogues": [
+    {
+      "character": "Ceana",
+      "text_en": "As I told the professor in my many missives, I believe that the area surrounding Pharos Sirius is replete with corrupted crystals of exceptional strength."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Unfortunately, I've yet to test my hypothesis, as all access to the Isles of Umbra is prohibited at present, for reasons unknown to me. You see, my attempts to acquire this information are often met with annoyance and disdain. It's rather puzzling, since I always take the time to explain my motivations in great detail to the subjects of my questioning."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Mayhap you will have better luck wresting information from these Yellowjackets. I've all but given up at this point."
+    },
+    {
+      "character": "Firkmann",
+      "text_en": "Yer keen on travelin' to the Isles of Umbra? Bloody 'ells, lad / lass , are ye drunk or jus' crazy? Ain't nothin' there but death, death, an' more death!"
+    },
+    {
+      "character": "Q'ahnebb",
+      "text_en": "Ah, you startled me! Don't you know better than to sneak up on a person at a time like this, what with all this fatuous gossip of spirits and specters haunting the Isles of Umbra!? Just because I know it's nonsense doesn't make it any less frightening!"
+    },
+    {
+      "character": "Alza Gamilza",
+      "text_en": "The Isles of Umbra? What interest have you in that godsforsaken place? Ever since we were forced to abandon Pharos Sirius, the isles have become naught more than a graveyard for ships unable to navigate the shores─and a purgatory for the souls dragged down to the depths with 'em."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Ah, Forename , you've returned! Tell me of your findings."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "R-R-Really!? Infested with the undead, you say. That...that is a very, very interesting development. Excuse me for a moment while I gather my thoughts."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "microbrewing",
+  "wiki_path": "/wiki/Microbrewing",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Microbrewing",
+  "level": "23",
+  "location": "Upper La Noscea(X:14.7,Y:24.4)",
+  "npc_start": "Teteroon",
+  "dialogues": [
+    {
+      "character": "Teteroon",
+      "text_en": "Good Buscaroon help Teteroon. Teteroon dead without good Buscaroon. Must give thankies. Many, many thankies. Teteroon make Qiqirn firewater for Buscaroon! Buscaroon love firewater!"
+    },
+    {
+      "character": "Teteroon",
+      "text_en": "You help Teteroon make firewater? Need thingies to make. Need many, many thingies."
+    },
+    {
+      "character": "Teteroon",
+      "text_en": "Need coeurl pup whiskers. Need three good coeurl pup whiskers."
+    },
+    {
+      "character": "Teteroon",
+      "text_en": "Teteroon make firewater for Buscaroon. You bring thingies Teteroon need?"
+    },
+    {
+      "character": "Teteroon",
+      "text_en": "You brought all thingies! Teteroon make firewater now. Make good firewater for good Buscaroon."
+    },
+    {
+      "character": "Teteroon",
+      "text_en": "Teteroon start making firewater now. Good firewater take time. More time, more good. You come back later."
+    }
+  ]
+}

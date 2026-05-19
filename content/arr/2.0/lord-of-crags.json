@@ -1,0 +1,292 @@
+{
+  "id": "lord-of-crags",
+  "wiki_path": "/wiki/Lord_of_Crags",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Lord of Crags",
+  "level": "34",
+  "location": "Upper La Noscea(X:31.0,Y:24.0)",
+  "npc_start": "Riol",
+  "dialogues": [
+    {
+      "character": "Riol",
+      "text_en": "Years ago, when we was weighin' up how to get to Titan, one of our scouts stumbled across this beastman aetheryte, see..."
+    },
+    {
+      "character": "Riol",
+      "text_en": "Eh? What's that look for? Not familiar with 'em?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He speaks of an unamplified aetheryte which has been claimed by a beast tribe. Lest you wonder, there is no fundamental difference between such aetherytes and those which you have used on countless occasions, Forename ."
+    },
+    {
+      "character": "Riol",
+      "text_en": "Ah, well if it ain't the Sharlayan lass. Welcome back."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Forgive me for interrupting. I had planned to await your report, but I succumbed to curiosity."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The tunnels beneath O'Ghomoro form a bewildering labyrinth that no outsider has ever fully explored. How the Company of Heroes managed to navigate it is a mystery I have long pondered."
+    },
+    {
+      "character": "Riol",
+      "text_en": "Ha! Give us a bit of credit, love! We weren't daft enough to try goin' in the front."
+    },
+    {
+      "character": "Riol",
+      "text_en": "The kobolds are always diggin' new tunnels an' fillin' the old ones with traps. One wrong step, an' the next thing you know, ye've got a hundred tonzes o' rock on your noggin. Suicide to even try, see?"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Funny thing was, the kobolds didn't seem to have no trouble findin' their way 'round─an' it was that as got us thinkin'. I mean, U'Ghamaro Mines are like a bleedin' city , ain't they? An' gettin' around in a city that big would be a right pain in the arse if you didn't have an Aethernet, wouldn't it? So it stood to reason that the kobolds must have one, didn't it?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Hm. Even if there were aetheryte shards in the depths of O'Ghomoro, you would have needed to attune yourselves to them before you could identify their signatures within the Lifestream."
+    },
+    {
+      "character": "Riol",
+      "text_en": "Ah, well, that's where yer wrong, love. We had this Sharlayan bloke to help us, see. Delivered us right into Titan's bedchamber, he did."
+    },
+    {
+      "character": "Riol",
+      "text_en": "I don't rightly know how he did it, but I do remember him sayin' it weren't nothin' any Sharlayan scholar worth her salt couldn't manage."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "... Did he now? Hmph. Locating a beacon in the absence of a known signature might be possible if the aetherytes in question happened to be... Ah, yes. But in order to guide a traveler to said beacon safely, a second party would be required to... Hmmm."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It is possible─in theory at least. Yet I cannot be certain until I try. Plainly, all will depend upon whether or not I am “worth my salt.”"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Oh, you are, lass! Don't you worry about that! Have a bit o' faith in yerself!"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Why don't we all go to Zelma's Run an' take a closer look at the aetheryte? It ain't far─though there's sure to be a few kobolds blockin' the way. Naught ye can't handle, mind!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So this is the aetheryte the Company of Heroes used to gain access to Titan's sanctuary."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Hm. It is as Papalymo speculated."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In its present state, this aetheryte's signal will not be strong enough for our purposes. I may, however, be able to use my own energies to amplify it. Alas, the task will monopolize my attention for the duration."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It seems you will have to proceed without me, Forename . I must needs remain here and supplement this beacon's power, lest you be denied your only path of escape."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Fear not: I will summon the Maelstrom forces stationed nearby to protect us."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "With effort, it is possible that I may be able to stabilize the aetheryte's signal and thereby join you, albeit belatedly. Until such time as I do, you will be on your own."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Now...let us see if I am worth my salt."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I have located another beacon─one far below the mountain. I can only speculate as to what you will find there, so stint not in your preparation."
+    },
+    {
+      "character": "Cowering Kobold",
+      "text_en": "Look, an overdweller! Yes, yes, an invader from above! He / She uses our aetherytes against us!"
+    },
+    {
+      "character": "Crazed Kobold",
+      "text_en": "He / She has defiled Titan's sacred sanctuary─trespassed, violated, defiled!"
+    },
+    {
+      "character": "Kobolds",
+      "text_en": "Overdwellers must leave! Overdwellers must fly!"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "Brothers and sisters, fear him / her not! His / Her fate shall be decided by the Lord of Crags!"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "Hear me, overdweller! You and your treacherous brethren must be held to account for the breaking of the covenant!"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "You shall be first to face judgment! Then Limsa Lominsa and her oathbreakers─liars, betrayers, oathbreakers!"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "O Great Father, Lord of Crags! Titan, we summon You! Titan, we summon You! O Great Father, Lord of Crags! Titan, we summon You! Titan, we summon You!"
+    },
+    {
+      "character": "Kobolds",
+      "text_en": "He is come! He is come! The Lord of Crags, Titan is come!"
+    },
+    {
+      "character": "Titan",
+      "text_en": "Overdweller...art thou deaf to their weeping?"
+    },
+    {
+      "character": "Titan",
+      "text_en": "Thy vile kind coveteth ever the blessing of the land and murdereth my children by the score─all in service to greed. Such sins are beyond pardon."
+    },
+    {
+      "character": "Titan",
+      "text_en": "Ah...but I am not the first to suffer thy defiance. Thou didst bring Ifrit low."
+    },
+    {
+      "character": "Titan",
+      "text_en": "Godless overdweller! Thy myriad heresies shall not go unpunished! Upon thee shall I wreak a terrible vengeance!"
+    },
+    {
+      "character": "Titan",
+      "text_en": "Sons of man! Murderers of my children!"
+    },
+    {
+      "character": "Scion Marauder",
+      "text_en": "Time to bring low the mountain."
+    },
+    {
+      "character": "Titan",
+      "text_en": "I shall grind thee beneath my heel, mortal!"
+    },
+    {
+      "character": "Titan",
+      "text_en": "I shall grind thee beneath my heel, mortal!"
+    },
+    {
+      "character": "Titan",
+      "text_en": "For thee my hatred is unending, unyielding!"
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "Careful─this isn't over yet!"
+    },
+    {
+      "character": "Titan",
+      "text_en": "Tremble before the might of the earth!"
+    },
+    {
+      "character": "Titan",
+      "text_en": "To the last, I grapple with thee!"
+    },
+    {
+      "character": "Titan",
+      "text_en": "Hie, my children, into the dark! He / She will not be denied..."
+    },
+    {
+      "character": "Kobolds",
+      "text_en": "The Lord of Crags, Great Father Titan has fallen!"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "The crimes of the overdwellers shall never be forgiven! Never be forgotten! No, no, never!"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "'Twas your kin who broke the covenant! We have acted only in defense of our lands!"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "Cease your aggression, or never will there be peace! Until our dying breaths, we shall defy you─deny, decry, defy!"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Now these are the readings one would expect of an eikon..."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "I have seen enough. We proceed as planned."
+    },
+    {
+      "character": "???",
+      "text_en": "Are you sure that is wise, my lord? Your...curiosity is untested and unproven. We do not yet know its true capabilities."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Then trust in mine, Rhitahtyn. My curiosity , as you so eloquently put it, would have bested Titan in the blink of an eye."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Why, if there be truth to the legends, it could readily subjugate the whole of Eorzea given but a little while longer. Is that not so?"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "It is. No greater single power has ever been conceived, much less realized."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "What you say may well be true. But while such devices may win battles, I do not believe they will serve to change the course of this war."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Oh but they will. Have a little faith, my friend."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "...I cannot endorse this course of action."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "...Fool."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "And now he / she has a fourth. Fascinating."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Carry on, crystal bearer. Far though you have come, your work is far from done."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And naught remained to mark his passing..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Well, the Ascians are nothing if not elusive. It is of little wonder that they should cast advanced teleportation magicks at will."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But that they would choose to consort with the Empire ..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What common goal could they possibly share...?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I feared I might arrive too late, but I see you had the matter well in hand."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I have taken measures to ensure that we are not pursued, yet I cannot say how long they will hold."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Take your leave while the kobolds are still in disarray. I will follow anon. There is something I must investigate before I depart."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I will teleport you to the aetheryte in Zelma's Run, and we will rendezvous at Camp Bronze Lake. Agreed?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I am relieved to see you well. But come, let us discuss our next step."
+    }
+  ]
+}

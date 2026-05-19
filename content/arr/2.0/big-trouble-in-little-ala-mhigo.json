@@ -1,0 +1,236 @@
+{
+  "id": "big-trouble-in-little-ala-mhigo",
+  "wiki_path": "/wiki/Big_Trouble_in_Little_Ala_Mhigo",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Big Trouble in Little Ala Mhigo",
+  "level": "27",
+  "location": "Southern Thanalan(X:16.9,Y:14.4)",
+  "npc_start": "Gundobald",
+  "dialogues": [
+    {
+      "character": "Gundobald",
+      "text_en": "Wilred mentioned obtaining the power to bring down the Empire. Of what power could he be speaking...?"
+    },
+    {
+      "character": "???",
+      "text_en": "Gun...Gundobald... <groan> I-I..."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Bertliana!? Gods preserve! What happened!?"
+    },
+    {
+      "character": "Bertliana",
+      "text_en": "I was out foraging...when the Corpse Brigade came... They took me to their hideout...and they...they... <sob>"
+    },
+    {
+      "character": "Bertliana",
+      "text_en": "The whole while, they laughed at me... <sob> They said that I suffer... b-because I cling on to hope... <sob>"
+    },
+    {
+      "character": "Bertliana",
+      "text_en": "Is it wrong to dream of home? Is it wrong to call ourselves Ala Mhigans?"
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Do not heed such poisonous notions, child. Our dreams are what sustain us. Be strong─I swear to you, those villains will answer for their crimes in due time. But tell me...does anyone else know of this?"
+    },
+    {
+      "character": "Bertliana",
+      "text_en": "Wilred... He saw me outside... He was so angry..."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "I must tend to Bertliana. In the meantime, I need you to find out what the young ones make of this. I fear that they may do something rash."
+    },
+    {
+      "character": "Bertliana",
+      "text_en": "...Don't worry about me. Just being near everyone again eases my heart..."
+    },
+    {
+      "character": "Riled Lass",
+      "text_en": "What those animals did to Bertliana is unforgivable! And to think they look down on us!"
+    },
+    {
+      "character": "Riled Lass",
+      "text_en": "Well, I'll suffer this humiliation no more! I'm with Wilred to the bitter end! I'm not afraid of a few lizards!"
+    },
+    {
+      "character": "Wilred",
+      "text_en": "O mighty Rhalgr, Lord of Destruction...we implore You, lend us Your strength and put an end to the suffering of Your people..."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "Hmph, here to interfere again? Well, you're too late. Our plan is already in motion."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "Once we have the crystals, our enemies will pay for their crimes, and no one will dare oppress us ever again!"
+    },
+    {
+      "character": "Riled Youth",
+      "text_en": "If this plan succeeds, we'll have the power to lay the Empire low! To change the world for the better!"
+    },
+    {
+      "character": "Riled Youth",
+      "text_en": "Might be as Gundobald's content to eke out an existence in this musty old cave, but I'll be damned if I'm going to spend the rest of my life here. Now, where in the seven hells did I put that bloody map?"
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "...Gone? The whole lot of them? Then it is as I feared─they mean to take matters into their own hands. But what exactly is it that they mean to do?"
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "What's this? A hunting knife...and a map of Zanr'ak? ...Wait. You said Wilred spoke of crystals, did you not? But they couldn't possibly mean to─ By the gods, this is rank madness..."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "The young fools are untrained and unblooded, all. They have no notion of how dangerous the Amalj'aa are. They'll be butchered before they get within a hundred yalms of the crystals."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "They are headed east. If we hurry, we may yet find them before it's too late."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Wilred... Did no others survive?"
+    },
+    {
+      "character": "Wilred",
+      "text_en": "This is all wrong... Getting the crystals was supposed to be the start... We were going to reclaim our homeland... We were... We..."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Pull yourself together, lad!"
+    },
+    {
+      "character": "Wilred",
+      "text_en": "W-We were going to make an offering of crystals to Rhalgr─to summon Him, j-just like the masked man taught us."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "We plotted to sneak into Zanr'ak and make off with the lizardmen's cache, b-but they caught us and...and... So many dead... Gods forgive me..."
+    },
+    {
+      "character": "???",
+      "text_en": "Heathens! You shall pay for your crimes with your souls!"
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "I regret our young ones' transgressions, but a soul is too high a price for youthful folly."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "For all their failings, they are the hope of the Ala Mhigan people. This hope I will guard with my life."
+    },
+    {
+      "character": "Wilred of the Falling Petal",
+      "text_en": "Forgive us... We...we only wanted..."
+    },
+    {
+      "character": "Gundobald the Resolute",
+      "text_en": "The excuses will keep!"
+    },
+    {
+      "character": "Lavafang Hemozz Teh",
+      "text_en": "The whelps must pay for their crimes!"
+    },
+    {
+      "character": "Gundobald the Resolute",
+      "text_en": "I will not let you harm them!"
+    },
+    {
+      "character": "Gundobald the Resolute",
+      "text_en": "Adventurer, stay close to Wilred!"
+    },
+    {
+      "character": "Lavafang Hemozz Teh",
+      "text_en": "Come, ye blessed of our Lord's breath!"
+    },
+    {
+      "character": "Strapping Lad",
+      "text_en": "Mummy!!!"
+    },
+    {
+      "character": "Gundobald the Resolute",
+      "text_en": "We almost have them!"
+    },
+    {
+      "character": "Gundobald the Resolute",
+      "text_en": "Urgh... Is this...it?"
+    },
+    {
+      "character": "Wilred of the Falling Petal",
+      "text_en": "It wasn't meant to end...like this..."
+    },
+    {
+      "character": "Strapping Lad",
+      "text_en": "No! I don't want to die!"
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Your skill at arms is impressive, adventurer. Our wayward youths could learn much from a man / woman like you."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "The battle is won, but it would be unwise to linger here. Let us return to Little Ala Mhigo."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "W-Wait! We've come all this way─we have to get the crystals! They're right there, ripe for the picking!"
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Have you learned nothing, Wilred? Did you not see those tempered wretches?"
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Such is the fate of those who are touched by a god. Is that what you desire for yourself and your friends?"
+    },
+    {
+      "character": "Wilred",
+      "text_en": "What!? N-No one said anything about─ The masked man told us we could defeat the Empire if we summoned Rhalgr! He swore─"
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Enough. I will hear the rest of this sorry tale back in Little Ala Mhigo. I daresay Forename will wish to hear it as well."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "No more lies, Wilred. Tell us everything."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "I was outside with the others when he appeared─the masked stranger."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "He told us about summoning Rhalgr, about using crystals, and then just...vanished. We never saw him again."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "I wanted so desperately to believe that we could raise ourselves from this squalor that I never stopped to question his motives. But I should have known─there's no solution, nothing we can do to change our lot. Our people are doomed to live and die like beasts..."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Listen to me, Wilred. Our home may be lost to us, but it takes more than stones and mortar to define who we are. No matter where we may be, Ala Mhigo lives on within us all."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "It is for you to decide what to make of this legacy. But whatever you choose to do with your life, never forget that you owe it to this adventurer─an outsider ."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "I...I won't. I promise."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "Thank you for saving me. And...sorry I tried to kill you."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "My thanks as well, friend. It gives us hope to know that there are kind souls such as you out there. Little Ala Mhigo may not have much in the way of comfort, but you will always be welcome here."
+    }
+  ]
+}

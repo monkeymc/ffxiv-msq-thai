@@ -1,0 +1,40 @@
+{
+  "id": "nix-that",
+  "wiki_path": "/wiki/Nix_That",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Nix That",
+  "level": "30",
+  "location": "Eastern La Noscea(X:32.6,Y:30.5)",
+  "npc_start": "Wheiskaet",
+  "dialogues": [
+    {
+      "character": "Wheiskaet",
+      "text_en": "Master Gegeruju's requests can be more demanding than you realize. Before I set you to your true task, I would like to verify that this won't be a waste of my time."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "A nix has recently been seen prowling the beach to the east. As you can imagine, my master does not want large slimy creatures anywhere near his lands."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "The beast is cunning, but you should have no difficulty luring it out with herring."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Slay the nix and return to me. Oh, and don't forget to bring me a leg as proof of the kill."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Well? Did you deal with the nix?"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Lest you think me overly cautious for testing you in this way, you should know that we had an incident not long ago. A foolish young employee was dismissed for lying about his past. He claimed to have served in the Company of Heroes, but I knew for a fact he did not."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Anyway, now that the pointless busywork is finished, I shall give you a challenge as befits your talents."
+    }
+  ]
+}

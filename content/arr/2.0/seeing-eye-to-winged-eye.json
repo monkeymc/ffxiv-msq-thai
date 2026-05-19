@@ -1,0 +1,36 @@
+{
+  "id": "seeing-eye-to-winged-eye",
+  "wiki_path": "/wiki/Seeing_Eye_to_Winged_Eye",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Seeing Eye to Winged Eye",
+  "level": "28",
+  "location": "North Shroud(X:21.8,Y:26.7)",
+  "npc_start": "Ivaurault",
+  "dialogues": [
+    {
+      "character": "Ivaurault",
+      "text_en": "There is something you should know. I have been keeping this to myself, lest I worsen Medrod's paranoia, but I, too, have seen the winged eyeball."
+    },
+    {
+      "character": "Ivaurault",
+      "text_en": "I cannot say whether it was coincidence, but my sighting took place precisely the same time as Medrod's. I was heading home after a day of digging when a shadow fell over me."
+    },
+    {
+      "character": "Ivaurault",
+      "text_en": "Looking up, I found myself locked in a gaze with a giant eyeball. I let out a scream at the top of my lungs and ran without once looking back. This happened at the rocky area west of here, in case you had a mind to investigate."
+    },
+    {
+      "character": "Ivaurault",
+      "text_en": "A monstrous banemite appeared...and you slew it!? That creature had long been a scourge upon the folk of Fallgourd!"
+    },
+    {
+      "character": "Ivaurault",
+      "text_en": "Intentional or no, you have done us a great service. You have my gratitude!"
+    },
+    {
+      "character": "Ivaurault",
+      "text_en": "...But this does make me wonder, was it truly a winged eyeball I saw? Or merely a trick of light combined with blind panic?"
+    }
+  ]
+}

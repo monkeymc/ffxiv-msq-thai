@@ -1,0 +1,244 @@
+{
+  "id": "wood-s-will-be-done",
+  "wiki_path": "/wiki/Wood%27s_Will_Be_Done",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Wood's Will Be Done",
+  "level": "20",
+  "location": "New Gridania(X:9.8,Y:11.0)",
+  "npc_start": "Serpent Personnel Officer",
+  "dialogues": [
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Protocol requires that I apprise you of who we are and what we do, after which I will invite you to swear an oath of your own free will. Ahem!"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "The Order of the Twin Adder is the Grand Company of Gridania."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "It brings together the martial, economic, and technological resources of our nation, that we might stand strong in times of direst adversity, when our very survival hangs in the balance."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Our order was formed in the days before the Calamity, in readiness to fight the Garlean Empire, and to combat the beast tribes and their primals. Needless to say, our struggle continues to this day."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Elder Seedseer Kan-E-Senna is the supreme commander of our forces. Under her wise leadership, we protect the people of Gridania and the sanctity of the Twelveswood."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "As the entwined serpents that grace our standard, let forestborn strive as one with friends from afar to ensure that peace shall ever reign in Gridania."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "In so doing, we honor the will of the elementals, and theirs is the will of the wood."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Now then, Forename Surname , I ask that you give unto us your oath of allegiance, in whatever fashion you see fit."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "So you know the words of our Grand Company. That is well. Bound by this common belief, let us strive to preserve all that is good in this great nation."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Uh...quite. Your fervor is duly noted. May it lend you strength as you strive to preserve all that is good in this great nation."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "The Elder Seedseer is a kind and gentle soul who holds the welfare of her people above all else. Your faith in her is well placed."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "The elementals need not words to know your heart, and there is no doubt in mine own that you will prove a stalwart servant to them."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "By the power vested in me, I assign you the rank of serpent private third class."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "You are now a man / woman of the Order of the Twin Adder. Go forth, Private Surname , and do that which brings peace to the Twelveswood and honor to our name."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Can you hear me, Forename ? This is Minfilia."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "An officer of the Order of the Twin Adder contacted me with news of your enlistment. My congratulations, Private Surname ."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I have no doubt that you are eager to make the acquaintance of your new comrades, but I would ask that you pay a visit to your old ones first. Remember: though you are now a Serpent of Gridania, you are no less a Scion! Pray return to the Waking Sands at your earliest convenience. There are some friends here whom I would very much like you to meet. We shall be waiting!"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "The distant call of a friend in need, perhaps?"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "As you are needed elsewhere, I shall not keep you any longer. I would, however, suggest speaking with High Serpent Commander Vorsaile Heuloix before you depart. He may provide you with assistance on the journey ahead."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Let me see if I have this right—you're an adventurer...who's a Scion... and a Serpent? Golly, how do you keep track of everything?"
+    },
+    {
+      "character": "Yda",
+      "text_en": "It must be fun pairing up with lots of different people, though! Me? I'm always with Papalymo. ...Come to think of it, why am I always with Papalymo?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Following the Calamity, each nation's armed forces underwent large-scale restructuring centered upon its Grand Company."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "In Gridania, the Order of the Twin Adder absorbed both the Wood Wailers and the Gods' Quiver, while the Lominsans enacted the complete merger of the Maelstrom and the Knights of the Barracuda."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Ul'dah is the odd nation out, having made no notable changes to its armed forces. As before, and in the spirit of the sultanate, each entity retains a certain degree of independence."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The incident with the traitor still weighs heavily on everyone's minds—the Flame General's most of all."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And although he cannot be expected to know what evil lurks in the hearts of every man under his command, the revelation is nevertheless a devastating blow to his authority."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Even so, it warrants saying that you should not let this tragedy color your opinion of the man. In all my years working with the Flame General, I've never had reason to doubt his capacity to lead."
+    },
+    {
+      "character": "Brennan",
+      "text_en": "I heard tell one of me brothers came through not long ago. Looks like I just missed him, though."
+    },
+    {
+      "character": "Brennan",
+      "text_en": "I ain't seen either one of 'em since the Calamity—didn't even know if they were still alive. But after runnin' into folk who swore they knew me time an' again, I reckoned they had to be out there somewhere."
+    },
+    {
+      "character": "Brennan",
+      "text_en": "I've been travelin' an' peddlin' in the hopes I'd find me brothers ever since. If ye see a fella what looks like me, let him know that Brennan's lookin' for him, would you?"
+    },
+    {
+      "character": "Liavinne",
+      "text_en": "Have we met somewhere before? You must be quite the accomplished adventurer to be welcomed into these halls."
+    },
+    {
+      "character": "Liavinne",
+      "text_en": "Me? No one's ever expected much of me. And so far, I've done a fine job of living down to their expectations."
+    },
+    {
+      "character": "Una Tayuun",
+      "text_en": "I've been chattin' with Percevains an' we both swear there was another member of our crew. We still ain't figured out a way t'prove who we was, but just ye wait and see. It won't be long before everybody sees us for the heroes we is!"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "I hear you pledged yourself to a Grand Company. Me? I don't think I could do it. I'd never feel like one of them, no matter what the recruiters say."
+    },
+    {
+      "character": "Aulie",
+      "text_en": "I'm not sure I grasp the purpose of these remembrance ceremonies. Whether you remember of rewrite the past, what does it matter? It isn't as though you can repeat it."
+    },
+    {
+      "character": "Aulie",
+      "text_en": "Our present-day enemies ought to serve as sufficient motivation, don't you think? The only lesson I believe we should take from the Calamity is that far greater threats can and will appear."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We will continue to focus our efforts on investigating the primals. The Amalj'aa are not the only tribe that has succeeded in summoning its deity."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Fate shall be thy guide. When our purposes become one, once again shall our paths lead us here..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Our city of learning is now naught but shadows. Ere the light of dawn breaketh, shall we follow whither the sand blows."
+    },
+    {
+      "character": "Scion of the Seventh Dawn",
+      "text_en": "Welcome back, Forename ! Lady Minfilia awaits you within."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Welcome back! It seems you wasted no time putting your skills to work!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "How do I know? Why, the recruitment officer called to regale me with the tale of your heroics. The pride in his voice was palpable!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We Scions are truly fortunate to have you with us, Forename ."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Now, when last we spoke, I said that I wanted you to meet some friends, did I not? Well, I neglected to mention that you have already met."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Tataru─please show them in."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "This way, sirs!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Thanks again for getting us out of that mess. We owe you our lives."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "But I don't think we've properly introduced ourselves. I'm Biggs."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "A-And I'm...I'm..."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Gods, man, spit it out, will you!?"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "W-Wedge, at your service!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I am pleased to say that Biggs and Wedge will be staying with us for a while."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Magitek-driven contraptions such as airships grow ever more vital to the city-states of Eorzea. As a neutral party, it was judged that we Scions should serve as the keepers of this technology."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Of course, for this we needed the knowledge of experts. And so we requested the assistance of Garlond Ironworks, who very kindly sent us two of their finest engineers."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Our happy family continues to grow. On behalf of the Scions, I bid you welcome to the Waking Sands!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Like every soul here, I love Eorzea."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "And I count myself blessed to have been given this chance to stand with you all and fight for the future of the realm."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Never have I known such fulfillment─such happiness."
+    }
+  ]
+}

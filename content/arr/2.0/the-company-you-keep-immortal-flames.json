@@ -1,0 +1,260 @@
+{
+  "id": "the-company-you-keep-immortal-flames",
+  "wiki_path": "/wiki/The_Company_You_Keep_(Immortal_Flames)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "The Company You Keep (Immortal Flames)",
+  "level": "20",
+  "location": "The Waking Sands(X:6.8,Y:6.2)",
+  "npc_start": "Flame Officer",
+  "dialogues": [
+    {
+      "character": "Flame Officer",
+      "text_en": "Welcome back, adventurer! I take it General Raubahn's words kindled a fire within you?"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "What? You cannot seriously be considering joining another Grand Company! Why, they are not nearly as grand as ours!"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Excellent! I feared that the incident with the traitor may have soured your opinion of us. It gladdens me to see that isn't the case."
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "But before we can count you as one of our own, you must be formally inducted into our ranks."
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Please proceed to the Hall of Flames and identify yourself to the personnel officer. I will notify him of your coming."
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Excellent! I feared that the incident with the traitor may have soured your opinion of us. It gladdens me to see that isn't the case."
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "But before we can count you as one of our own, you must be formally inducted into our ranks."
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Please proceed to the Hall of Flames on Ul'dah's Merchant Strip and identify yourself to the personnel officer. I will notify him of your coming."
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "With your strength joined to ours, we shall surely prevail over our enemies, be they beastmen or imperials."
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "I will not deny that I am disappointed, but I take comfort in the knowledge that individuals are permitted to transfer between Grand Companies. Know that the Order of the Twin Adder would be proud to have you should you undergo a change of heart."
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "So you have decided to cast your lot with the Flames. Well, there is no help for it. Just remember that it's never too late to sign on with a different crew."
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Before you may take your place within our ranks, you must speak with the personnel officer at the Hall of Flames in Ul'dah. Pray do so at your earliest convenience. I, meanwhile, will bear word of your excellent decision to General Raubahn."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "What brings you to the Hall of Flames this morning / day / evening , adventurer?"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Ah, I thought as much! You are just as our man at the Waking Sands described! It is an honor to meet you, sir / madam !"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Is that so? Well then, I must ask you for your name. Ah, but let me guess. It is Forename Surname , is it not? Yes, you are just as our man at the Waking Sands described. Thank you for electing to join us."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Now, in order to formalize your——"
+    },
+    {
+      "character": "Flame Private",
+      "text_en": "Sir!"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Speak, Private."
+    },
+    {
+      "character": "Flame Private",
+      "text_en": "Imperials, sir! They've fired on a Highwind Skyways airship!"
+    },
+    {
+      "character": "Flame Private",
+      "text_en": "Scouts say she's coming down to the west, near Horizon's Edge!"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Bloody hells! Of all the times for this to happen!"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Forename , there's no time for formalities! The Immortal Flames need your help now !"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "We're in the midst of a large-scale operation against the Amalj'aa, and we have no one to spare in western Thanalan. You must get to that ship before the Garleans do!"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "If there are any survivors, see that they do not come to further harm. Now go!"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "An adventurer!? What're you doing out here? No, wait——let's find some cover first..."
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "The Immortal Flames sent you? How do I know you're not an imperial spy? You don't even have a uniform!"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "Are you all right, sir? Our scouts reported the attack on your craft. We've come to rescue you."
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "Forename Surname , yes? Glad to have you with us."
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "I have not seen a craft of this design before... That traitor Garlond has been busy."
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "The secrets of magitek are ours by right. They are not to be squandered upon the savages of this land."
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "We are taking this craft back to the fortress! Dismantle it if you must! And bring the engineer! Someone must pay for Garlond's crimes."
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "They mean to take the ship back to Castrum Meridianum, along with your friend."
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "Wedge! You have to help him! That fool of a Lalafell was hiding inside the Tiny Bronco !"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "Nice-looking ship——though not the best place to have taken shelter, I agree."
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "It's the first airship we've built since the Calamity——the first since Master Garlond...well, since he went missing."
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "After years of work, she was finally ready for her first test flight. And she was soaring , she really was——till those bastards blasted her out of the sky!"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "We attack on my command. Kill them quickly, and save the Lalafell if possible."
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "Is that clear, Forename ?"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "Show them what becomes of those who play with fire! Charge!"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "We're under attack! To arms!"
+    },
+    {
+      "character": "Flame Gladiator",
+      "text_en": "Give them no quarter, Flames!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Defend the airship! Kill the savages!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "What are you doing!? Kill them, I said!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Where's that bloody vanguard!? We need it NOW!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Hahaha! Show them no mercy!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Biggs!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Wedge! You shouldn't have stayed with the ship!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Th-That was a close one!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Too damn close. So...how's she look, anyway?"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "The auxiliary propeller is a dead loss, but I think we can wring enough thrust from the main propeller to get us airborne."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "A few minor modifications and we should be able to fly the Tiny Bronco home."
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "The imperials will come looking for their scouts, but we can defend this position until the engineers leave."
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "You should go, Forename . You still have unfinished business to attend to at the Hall of Flames."
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "You're not quite one of us yet, though anyone who'd seen you in action today would be forgiven for thinking otherwise."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "I, um...just wanted to say sorry...you know, for calling you an imperial spy and all that... Got that one wrong, didn't I!? Ha ha! Seriously, though——if it hadn't been for you and the Immortal Flames lads there, we'd be chained up in a dungeon by now. I'm in your debt, friend——we both are."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Wedge!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Thank you! We're very grateful!"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Welcome back, Forename . Word of your deeds in the field reached me not long ago. Exemplary service!"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Rest assured that the Garlond Ironworks engineers are fine. They were able to get their vessel back in the air before imperial reinforcements arrived."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Your willingness to assist us on such short notice is to be commended. Clearly, your reputation is well deserved."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Now then, I believe we have some unfinished business."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Shall we continue from where we left off and induct you into the Immortal Flames?"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "power-of-deduction",
+  "wiki_path": "/wiki/Power_of_Deduction",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Power of Deduction",
+  "level": "28",
+  "location": "North Shroud(X:21.7,Y:26.7)",
+  "npc_start": "Medrod",
+  "dialogues": [
+    {
+      "character": "Medrod",
+      "text_en": "<sigh> There've been no promising leads in the murders. I can scarce get a wink of sleep, knowing that the killer is still at large."
+    },
+    {
+      "character": "Medrod",
+      "text_en": "Judging by your furrowed brows, I take it this sorry business troubles you as much as it does me."
+    },
+    {
+      "character": "Ivaurault",
+      "text_en": "I had been pondering my encounter. I was uncertain for a time, but there can be no doubt: it was a winged eyeball that I witnessed. It's implausible that I could have mistaken so distinct a creature for a banemite."
+    },
+    {
+      "character": "Medrod",
+      "text_en": "But you and I were malms apart. How could we have both seen it at precisely the same time?"
+    },
+    {
+      "character": "Medrod",
+      "text_en": "What's more, our adventurer friend here had a run-in with the banemite at the very spot you claimed to see that fiendish eyeball. Isn't that right?"
+    },
+    {
+      "character": "Ivaurault",
+      "text_en": "There must be an explanation! I know I saw an eyeball with wings─I would wager an apple tart on it!"
+    },
+    {
+      "character": "Aideen",
+      "text_en": "Oooh, he's serious. But listen, mayhap it's not as mysterious as we're making it out to be. There's no reason why there couldn't be─"
+    },
+    {
+      "character": "Aideen",
+      "text_en": "<gasp> Gods, of course... There must be more than one of the buggers! Ugh, it's so obvious. But then that means...since there have been repeated sightings of these fiends...then there must be even more victims as yet undiscovered..."
+    },
+    {
+      "character": "All",
+      "text_en": "<gulp>"
+    },
+    {
+      "character": "Medrod",
+      "text_en": "I-I do believe we're out of our depth. We ought to leave the rest to the expert."
+    },
+    {
+      "character": "Aideen",
+      "text_en": "Y-Yes, we're just civilians, after all. Good luck, adventurer. It was a pleasure knowing you!"
+    },
+    {
+      "character": "Ivaurault",
+      "text_en": "While I burn to know the truth, some things are best left unknown. Lest you have forgotten, it was at the rocky area to the west that I had my encounter."
+    },
+    {
+      "character": "Ivaurault",
+      "text_en": "Should you discover aught of note, you will want to alert the authorities. There is a guardhouse nearby. The Serpents there should be pleased for any information that pertains to the security of the region."
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "Greetings, adventurer. Is there aught I might assist you with?"
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "Gods be good, not again..."
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "No matter how many bodies I see, I cannot seem to get used to the horrid sight. Poor woman..."
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "Identical deaths have been reported in the Central Shroud. While the masked stranger you seek does not seem to feature in any, sightings of the winged eyeball are common enough. The creature appears to be moving the bodies, but to what end, none can say."
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "The victims have all been young women. All are found with their faces mutilated beyond recognition. It's been difficult to identify them, so as to notify their next of─"
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "Hm? This button, engraved with a lily motif... The very same object was found upon another victim. A family sigil, or that of an organization, perhaps?"
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "Either way, I dare to hope that this find will prove pivotal in solving the murders."
+    }
+  ]
+}

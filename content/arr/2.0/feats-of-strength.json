@@ -1,0 +1,11 @@
+{
+  "id": "feats-of-strength",
+  "wiki_path": "/wiki/Feats_of_Strength",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title_en": "Feats of Strength",
+  "level": "37",
+  "location": "Coerthas Central Highlands(X:26,Y:17)",
+  "npc_start": "Haurchefant",
+  "dialogues": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": "you-can-t-take-it-with-you",
+  "wiki_path": "/wiki/You_Can%27t_Take_It_with_You",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "You Can't Take It with You",
+  "level": "35",
+  "location": "Eastern Thanalan(X:11.2,Y:21.3)",
+  "npc_start": "Marques",
+  "dialogues": [
+    {
+      "character": "Marques",
+      "text_en": "Excuse me, Forename ...do you have a moment? It concerns this broken horologe which was found in the pocket of a man brought here for burial."
+    },
+    {
+      "character": "Marques",
+      "text_en": "There is something...familiar about it...but just what I cannot say. Perhaps if I tinker with the device, it will come to me."
+    },
+    {
+      "character": "Marques",
+      "text_en": "However, I lack the proper tools to do so. I would ask that you journey to Camp Drybone in my stead to obtain a bull-point chisel and a pair of needle-nose pincers."
+    },
+    {
+      "character": "Marques",
+      "text_en": "They are often used by goldsmiths, so perhaps they would be the best people to ask."
+    },
+    {
+      "character": "Marques",
+      "text_en": "Of course, I do not expect you to foot the bill. Here, take this coinpurse. That should cover it."
+    },
+    {
+      "character": "Marques",
+      "text_en": "If...if there is anything I can do...please ask."
+    },
+    {
+      "character": "Traveling Goldsmith",
+      "text_en": "A bull-point chisel, you say? And a pair of needle-nose pincers? Those things don't come cheap, you know..."
+    },
+    {
+      "character": "Traveling Goldsmith",
+      "text_en": "Thal's balls! I mean, yes, that should be sufficient payment. Nice doing business with you. Heh heh..."
+    },
+    {
+      "character": "Traveling Goldsmith",
+      "text_en": "Erk! You again? Before you ask, no, I don't do refunds. Not that there's anything wrong with the fine tools I sold you!"
+    },
+    {
+      "character": "Marques",
+      "text_en": "Have you brought the tools I requested?"
+    },
+    {
+      "character": "Marques",
+      "text_en": "Hmmm...something occurs to me. Please wait here for a moment."
+    },
+    {
+      "character": "Marques",
+      "text_en": "It was for naught. Though I repaired the device easily, this sensation that stirs within me remains a mystery."
+    },
+    {
+      "character": "Marques",
+      "text_en": "But how...how did I do it?"
+    },
+    {
+      "character": "Marques",
+      "text_en": "These hands...my hands, they moved with a mind of their own, deftly manipulating the clockwork mechanisms..."
+    },
+    {
+      "character": "Marques",
+      "text_en": "There was no doubt or uncertainty. I knew exactly what to do, as though I had performed the same motions countless times before..."
+    },
+    {
+      "character": "Marques",
+      "text_en": "P-Pardon me, Forename ─this was a mistake. Please give the horologe to Sister Eluned. The man who once owned it is currently in her care, and I think it best that it be returned to him."
+    },
+    {
+      "character": "Eluned",
+      "text_en": "Good morrow / day / evening to you, sir / madam . Have you come to pay your respects to this man?"
+    },
+    {
+      "character": "Eluned",
+      "text_en": "Never before have I seen such a queer device. You say that it measures the passing of time?"
+    },
+    {
+      "character": "Eluned",
+      "text_en": "Mayhap they are more common in Garlemald. I am given to understand that its cities are filled with all manner of amazing technologies."
+    },
+    {
+      "character": "Eluned",
+      "text_en": "Marques said that it belonged to the deceased? Oh dear... You don't suppose that the owner might have been a Garlean spy? It may behoove us to notify the authorities in Camp Drybone."
+    },
+    {
+      "character": "Eluned",
+      "text_en": "But...mayhap more importantly, how did Marques manage to repair this device? I knew he had a talent for the trades, but this goes far beyond mending fences and thatching rooves..."
+    }
+  ]
+}

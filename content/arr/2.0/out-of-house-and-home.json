@@ -1,0 +1,44 @@
+{
+  "id": "out-of-house-and-home",
+  "wiki_path": "/wiki/Out_of_House_and_Home",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Out of House and Home",
+  "level": "9",
+  "location": "Central Thanalan(X:20.8,Y:18.5)",
+  "npc_start": "Warin",
+  "dialogues": [
+    {
+      "character": "Warin",
+      "text_en": "Let's get to it then, shall we?"
+    },
+    {
+      "character": "Warin",
+      "text_en": "Ore wagons pass through this station every day─but not without incident."
+    },
+    {
+      "character": "Warin",
+      "text_en": "Wagons coming and going from the Dispatch Yard to the south must pass through a tunnel by Fesca's Watch─a tunnel in which some genius saw fit to put an ore storehouse, creating ideal conditions for a coblyn nest!"
+    },
+    {
+      "character": "Warin",
+      "text_en": "So now the ore-loving beasts have taken up residence in a tunnel we dug, and we're practically delivering meals to their doorstep!"
+    },
+    {
+      "character": "Warin",
+      "text_en": "But no more. Inside the tunnel in question, you will find a narrow fissure where the coblyns hide. Use this silver ore cluster to lure out the creatures, then slay them."
+    },
+    {
+      "character": "Warin",
+      "text_en": "Well done! It shan't be easy work to keep the tunnel free of coblyns, but our wagons should be able to go unmolested for a time."
+    },
+    {
+      "character": "Warin",
+      "text_en": "Disruptions to ore shipments threaten not only the interests of Amajina & Sons Mineral Concern, but of Ul'dah herself. One might liken these train tracks to veins that bear our nation's lifeblood."
+    },
+    {
+      "character": "Warin",
+      "text_en": "If only we had more men / women like you to lend a hand."
+    }
+  ]
+}

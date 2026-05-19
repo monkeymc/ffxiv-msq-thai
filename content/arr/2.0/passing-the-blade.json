@@ -1,0 +1,44 @@
+{
+  "id": "passing-the-blade",
+  "wiki_path": "/wiki/Passing_the_Blade",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Passing the Blade",
+  "level": "12",
+  "location": "Central Thanalan(X:23.3,Y:16.0)",
+  "npc_start": "Leofric",
+  "dialogues": [
+    {
+      "character": "Leofric",
+      "text_en": "As you may have noticed, I'm in no shape to leave Lost Hope right now. So, in my stead, I'd like you to return to Horizon and give this dagger to Fufulupa."
+    },
+    {
+      "character": "Leofric",
+      "text_en": "Although it's just an old, ornamental dagger, it belongs with the Brass Blades of the Rose."
+    },
+    {
+      "character": "Leofric",
+      "text_en": "Aye, I should've given it to the boy before I came here..."
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "Ah, Forename ! I received word from Captain Leofric the other day. Thank you for delivering the letter for me!"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "Wh-Why do you have that dagger!? Only a captain of the Brass Blades of the Rose is permitted to possess it!"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "Captain Leofric says I am to have it? There must be some mistake!"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "He couldn't possibly mean to tell me that─ No, no, of course not. I am not worthy to wield it."
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "Nevertheless, I shall respect the captain's wishes and take the dagger into safekeeping until he comes to reclaim it."
+    }
+  ]
+}

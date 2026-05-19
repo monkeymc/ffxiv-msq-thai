@@ -1,0 +1,40 @@
+{
+  "id": "call-of-the-sea",
+  "wiki_path": "/wiki/Call_of_the_Sea_(Gridania)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Call of the Sea",
+  "level": "15",
+  "location": "Ul'dah - Steps of Thal(X:10.7,Y:12.9)",
+  "npc_start": "Bartholomew",
+  "dialogues": [
+    {
+      "character": "Bartholomew",
+      "text_en": "Ah, my lord / lady envoy. I trust your stay in the sultanate has been pleasant. Now, if you do not mind my asking, do you perchance have plans to visit Limsa Lominsa in the near future? If so, I have information that may be of interest to you."
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "I once accompanied the Flame General on an official visit to the seaside city-state, during which time I became acquainted with Baderon, the proprietor of the Drowning Wench. Well, the man sent word just now that he has a job for a capable adventurer."
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "I can think of none with better credentials than you. Baderon would doubtless be pleased were you to offer him your services."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Welcome to the Drownin' Wench! Sit wherever ye like, mate / lass . I'll be with ye in a—"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Hm? Aye, I'm Baderon, all right. Who's askin'?"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Ah, 'eard as I've got a job fer a capable 'venturer, ye say? Well, yer bloody right!"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Just so yer fairly warned, though, this ain't no job fer the faint of 'eart. Things're liable to get downright bleedin' 'airy. But if ye think yer still interested, let me know, an' I'll fill ye in on the details."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "spirited-away",
+  "wiki_path": "/wiki/Spirited_Away",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Spirited Away",
+  "level": "22",
+  "location": "East Shroud(X:21.6,Y:25.9)",
+  "npc_start": "Komuxio",
+  "dialogues": [
+    {
+      "character": "Komuxio",
+      "text_en": "This one must ask kind one's forgiveness. This one made promise to take kind one to see elder one, yes? But this one cannot..."
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one cannot because...elder one is not here. Elder one is not anywhere. Elder one went into forest yesterday, but has not come back..."
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one is worried. Elder one often goes into forest, but never, never for this long. Kind one will help find elder one, yes?"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Near where elder one disappeared is the home of a walking one named Buscarron. Buscarron may know what happened to elder one."
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one would talk to Buscarron...but walking ones do not always trust these ones. Would kind one talk to Buscarron for this one?"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "And kind one comes from Gridania, yes? In Gridania live many kind ones, yes?"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one begs of kind one. Please go to Gridania and ask fellow kind ones for help. And please hurry─these ones are not safe until elder one returns."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Well, if it isn't our intrepid ambassador. How fare your diplomatic efforts with the sylph tribes?"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Their elder's gone missing, you say!? Why, if he were to end up in the hands of the tempered ones, we'd have a crisis on our hands."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "You can assure the sylphs that my sharpest-eyed Serpents will be on the lookout night and day."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "No stone must be left unturned. I would ask you to call upon Giah Molkoh at Bentbranch Meadows and deliver the message that the Wood Wailers are needed in the search effort."
+    },
+    {
+      "character": "Giah Molkoh",
+      "text_en": "A message from Commander Heuloix, you say?"
+    },
+    {
+      "character": "Giah Molkoh",
+      "text_en": "The sylph elder has vanished? Worry not, friend─the Wood Wailers have eyes under every leaf, behind every branch. If the elder is anywhere in these forests, we shall find him."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Buscarron is a good friend of ours, and there's no place like his for the latest gossip in the South Shroud!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "The sylphs are known to avoid the South Shroud. What could have compelled the sylph elder to come here?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "But the question of motive must wait─finding him is our foremost priority. With things relatively calm over in Little Solace, we can focus our search effort on this area."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Well met, adventurer! We have the finest grog and grub this side of─ Eh? Not here to fill your belly, then?"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Ahhh, a hunger for news, is it? Aye, there's been talk of a sylph lurking hereabouts, but I couldn't rightly say if it be the elder you seek."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Those woodland scamps all look alike. Short of painting one red and another one blue, most folk would struggle to tell two of 'em apart."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "If you've the time, mayhap you could stay a while and see what the gods have in store. You never know, you might even stumble across this sylph elder yourself."
+    }
+  ]
+}

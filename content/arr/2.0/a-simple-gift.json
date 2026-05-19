@@ -1,0 +1,44 @@
+{
+  "id": "a-simple-gift",
+  "wiki_path": "/wiki/A_Simple_Gift",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "A Simple Gift",
+  "level": "24",
+  "location": "South Shroud(X:18.1,Y:19.8)",
+  "npc_start": "Buscarron",
+  "dialogues": [
+    {
+      "character": "Buscarron",
+      "text_en": "Say, friend, there's something I'd like to ask you to see delivered to the sylphs of Little Solace─this Azeyma rose oil."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "It's a gift to celebrate the safe return of their tribe's elder─and a token of Gridania's desire to unite."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "The wood is not what it once was. The Calamity changed the elementals─weakened them. Until their strength is returned, we must lend them ours to keep the wood safe. But ours alone will not be enough. We must have the strength of the sylphs, as well."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Only by working together and fighting together will we survive together─and the Twelveswood with us. The gift I ask you to bear is a symbol of the hope that both Gridanian and sylph alike will live to see the light beyond this darkness."
+    },
+    {
+      "character": "Knolexia",
+      "text_en": "A gift from walking one Buscarron? A gift for these ones?"
+    },
+    {
+      "character": "Knolexia",
+      "text_en": "Such a lovely scent! This one has never smelled anything like this before!"
+    },
+    {
+      "character": "Knolexia",
+      "text_en": "Walking one Buscarron and adventuring one are very kind. Know that this one is deeply grateful."
+    },
+    {
+      "character": "Knolexia",
+      "text_en": "Many walking ones are scary. Many walking ones utter many lies and much deception. But this one is moved. Let all these ones be friends forever!"
+    }
+  ]
+}

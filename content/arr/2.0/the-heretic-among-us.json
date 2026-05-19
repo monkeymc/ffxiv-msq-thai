@@ -1,0 +1,168 @@
+{
+  "id": "the-heretic-among-us",
+  "wiki_path": "/wiki/The_Heretic_among_Us",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "The Heretic among Us",
+  "level": "40",
+  "location": "Coerthas Central Highlands(X:12.8,Y:17.4)",
+  "npc_start": "Drillemont",
+  "dialogues": [
+    {
+      "character": "Drillemont",
+      "text_en": "That thrice-damned heretic has murdered countless innocents, and made a mockery of our laws! Hells take him and his Dravanian allies!"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "I am told he makes for Snowcloak even now, intending to pass judgment upon yet another poor soul whom he has branded heretic. If we hurry, there may still be time to prevent further tragedy."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Lend me your strength, Forename ! Together, let us put an end to this impostor's heresy once and for all!"
+    },
+    {
+      "character": "House Durendaire Knight",
+      "text_en": "Good to have you with us, sir / miss . When Lord Drillemont arrives, we are to confront the inquisitor. If he refuses to go quietly, we will need to use force. Are you prepared for that eventuality?"
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "You needn't tremble so, my child. The righteous shall enjoy everlasting peace in Halone's halls. Only the wicked─"
+    },
+    {
+      "character": "Cornered Expeditioner",
+      "text_en": "But why!? Why must I die!? By all that is holy, I swear to you that I have never questioned the teachings of Halone!"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Inquisitor! Release the maid and come with us!"
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "My lord Drillemont─what is the meaning of this interruption? You are aware that I am at present conducting an interrogation, are you not?"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Silence, villain! I name thee heretic , murderer of Inquisitor Guillaime and countless innocents!"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "You are a traitor to Ishgard, to your own kith and kin! Your sins are beyond measure─beyond redemption!"
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "Ah...grave allegations indeed. But you will find your logic is flawed. How can I betray that which I owe no allegiance? No, Lord Drillemont─my conscience is quite clear, I assure you."
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "I wonder...can you say the same? You whose hands are black with the blood of those whose only sin was to question your nation's crazed crusade!"
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "You speak to me of Ishgardian innocents ? Hah! All are complicit in these crimes, for all live their lives by the archbishop's lies."
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "But I know you will not hear me, deafened by dogma as you are. If you desire retribution, Lord Drillemont, then come─let us see how Ishgardian steel fares against Dravanian fang and claw!"
+    },
+    {
+      "character": "Drillemont the Honest",
+      "text_en": "Show the heretic no mercy! He must pay for the innocent blood he has spilled!"
+    },
+    {
+      "character": "Inquisitor Guillaime",
+      "text_en": "Ignorant swine! Soon you will know the futility of your faith!"
+    },
+    {
+      "character": "Drillemont the Honest",
+      "text_en": "Do you see, heretic? You and your allies are no match for the might of Ishgard!"
+    },
+    {
+      "character": "Inquisitor Guillaime",
+      "text_en": "How wrong you are, Ishgardian! I have been blessed with power far beyond your ken!"
+    },
+    {
+      "character": "Inquisitor Guillaime",
+      "text_en": "Come, my brothers─grant me the strength to smite our enemies!"
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "I...am... reborn !"
+    },
+    {
+      "character": "Drillemont the Honest",
+      "text_en": "Stand your ground─'tis but an illusion!"
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "A dragon stands before you, yet still you do not flee!?"
+    },
+    {
+      "character": "Drillemont the Honest",
+      "text_en": "Your magicks have no power over me, heretic!"
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "No, NO! It cannot be!"
+    },
+    {
+      "character": "Drillemont the Honest",
+      "text_en": "Ugh...I swear by the Fury, I will bury my blade into...your..."
+    },
+    {
+      "character": "House Durendaire Knight A",
+      "text_en": "For Ish...ga...ahhh..."
+    },
+    {
+      "character": "House Durendaire Knight B",
+      "text_en": "Ugh, not by a godsdamned heretic..."
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "My glamours...dispelled..."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Your plans lie in ruin, heretic. Choose your words wisely, for they will be your last."
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "<cough> <wheeze> Hah hah... You may not recall the many Ishgardians I have sentenced, but the families of the dead will never forget. Blood has been repaid with blood, and for that I am content."
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "My...my only regret is that you yet live..."
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "But your end is nigh, foreigner. The dragons within the Stone Vigil will rend you asunder. And when you are dead, Whitebrim Front shall fall..."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Defiant to the last. Leave the body for the crows─his ilk deserves naught better."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Forename , I must apologize for involving you in this sordid business. You should never have been asked to intervene in Ishgardian affairs of state."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Rest assured, I have not forgotten the matter which first brought you into our midst. It is past time that you were reunited with your airship."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "But this is not the place to discuss such matters. Pray visit me at Whitebrim Front─and bring your associates."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Where have you been, Forename ? ...Hm? The false inquisitor has been slain, has he? Yes, well, his was a tale always like to end in bloodshed."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though you have overcome the latest in a long line of unfortunate impediments, I would ask you not to revel in your victory just yet."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We can celebrate once we have secured the Enterprise !"
+    }
+  ]
+}

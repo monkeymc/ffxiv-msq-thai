@@ -1,0 +1,124 @@
+{
+  "id": "life-materia-and-everything",
+  "wiki_path": "/wiki/Life,_Materia_and_Everything",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Life, Materia and Everything",
+  "level": "19",
+  "location": "The Waking Sands(X:6.9,Y:6.1)",
+  "npc_start": "Minfilia",
+  "dialogues": [
+    {
+      "character": "Minfilia",
+      "text_en": "Though we seek a peaceful solution to the primal problem, we must needs be ready to fight for our cause. That you might take to the field suitably prepared, I would have you meet with a goblin acquaintance of mine. His name is Mutamix Bubblypots, and he is a scholar of no small repute."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Mutamix is renowned for having introduced a revolutionary method of enhancing equipment to Eorzea."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The knowledge of this method was once a closely guarded secret, but thanks to Mutamix and his students, it has now been disseminated to the great benefit of all the realm."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "It would serve you well to acquire an understanding of the process. For this purpose, I shall lend you a blade. Take it to Mutamix, and bid him use it to demonstrate his craft to you."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Mutamix is ever to be found at his camp in central Thanalan─a place known as the Bonfire. Look for a pillar of smoke, and the way will become clear."
+    },
+    {
+      "character": "Mutamix Bubblypots",
+      "text_en": "Pshhh... Shkohhh...? Who is uplander come to tent-ring of Mutamix Bubblypots?"
+    },
+    {
+      "character": "Swynbroes",
+      "text_en": "Fighty-tool drinks in airyself."
+    },
+    {
+      "character": "F'hobhas",
+      "text_en": "When full of airyself, fighty-tool changes to stonyshine, name of materia ."
+    },
+    {
+      "character": "Kokosamu",
+      "text_en": "If materia join with other fighty-tool..."
+    },
+    {
+      "character": "Mutamix Bubblypots",
+      "text_en": "Then bigeyes! Fighty-tool gains power of airyself!"
+    },
+    {
+      "character": "Mutamix Bubblypots",
+      "text_en": "Pshhh... Shkohhh... Mutamix is reckoning that uplander is friend of Minfilia."
+    },
+    {
+      "character": "Mutamix Bubblypots",
+      "text_en": "Yesss, tongueflaps reach ears of Mutamix with fastness."
+    },
+    {
+      "character": "Mutamix Bubblypots",
+      "text_en": "Minfilia wants uplander to see power of materia. Uplander brings fighty-tool to Mutamix, yes?"
+    },
+    {
+      "character": "Mutamix Bubblypots",
+      "text_en": "Shkohhh! Fighty-tool is unstrong as eating-tool! Make good teachy-show of power of materia!"
+    },
+    {
+      "character": "Swynbroes",
+      "text_en": "The materia, Master."
+    },
+    {
+      "character": "Mutamix Bubblypots",
+      "text_en": "Now eyes of uplander point at fighty-tool, yes? Pshhh... Shkohhh... Materia join with fighty-tool..."
+    },
+    {
+      "character": "Mutamix Bubblypots",
+      "text_en": "Fighty-tool gains power of materia! Fighty-tool reborn! Here, uplander take fighty-tool to Minfilia!"
+    },
+    {
+      "character": "Swynbroes",
+      "text_en": "Materia, strictly speaking, is a kind of crystal. It is created by drawing out the aetheric constituents from a piece of equipment and then crystallizing them."
+    },
+    {
+      "character": "F'hobhas",
+      "text_en": "Not just any old equipment will serve, mind you. It must have sufficient spiritbond ─that being a measure of how fully an item has been imbued with its owner's spirit."
+    },
+    {
+      "character": "Kokosamu",
+      "text_en": "When ye attach a piece o' materia to gear, ye imbue the host item with its power. That's how Master Mutamix turned that dagger o' yours from summat as would've struggled to cut steak into a weapon worth wieldin'."
+    },
+    {
+      "character": "Mutamix Bubblypots",
+      "text_en": "Pshhh... Shkohhh... Uplander wishes to be joiner of materia?"
+    },
+    {
+      "character": "Mutamix Bubblypots",
+      "text_en": "Then uplander best fill braincase with knowings of crafty-making."
+    },
+    {
+      "character": "Mutamix Bubblypots",
+      "text_en": "With knowings of crafty-making, uplander can become joiner of materia."
+    },
+    {
+      "character": "Mutamix Bubblypots",
+      "text_en": "If uplander wants braincase to rattle with knowings of materia, uplander best trade tongueflaps with learny-ones of Mutamix."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Welcome back, Forename . I trust your visit to the Bonfire proved fruitful"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Ahhh...what a remarkable difference a single piece of materia can make! Granted, the skills needed to manipulate the substance are not easily acquired, but one need only look upon the results to realize such efforts are worthwhile."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "As I am sure you are aware, the quality of one's equipment can be the difference between victory and defeat. Materia may well give you the edge you need, Forename , so make it your ally."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Now, it is time we discussed the matter of your next mission. Pray speak with me when you are ready to begin."
+    }
+  ]
+}

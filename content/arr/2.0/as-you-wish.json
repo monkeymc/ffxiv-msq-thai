@@ -1,0 +1,36 @@
+{
+  "id": "as-you-wish",
+  "wiki_path": "/wiki/As_You_Wish",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "As You Wish",
+  "level": "33",
+  "location": "Eastern La Noscea(X:32.6,Y:30.5)",
+  "npc_start": "Wheiskaet",
+  "dialogues": [
+    {
+      "character": "Wheiskaet",
+      "text_en": "You must be eager to face Titan. As promised, we will show you the way."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Travel to Bronze Lake in upper La Noscea. There you will meet with Riol, another man who once served with the Company."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "To ensure that this knowledge does not fall into the wrong hands, he will remain in hiding until you have given the correct signal."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Give me your map. You must whistle loudly at the three locations I mark. Only then will he appear to meet you at this fourth location. I realize this may seem excessive now, but you will see that it is more than reasonable once you comprehend the risks inherent in our method."
+    },
+    {
+      "character": "Riol",
+      "text_en": "Greetin's, mate / lass . Might you be the one the cap'n said would come callin'?"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Aye, I thought so. Pay attention, now, 'cause I ain't explainin' meself twice."
+    }
+  ]
+}

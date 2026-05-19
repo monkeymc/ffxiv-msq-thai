@@ -1,0 +1,76 @@
+{
+  "id": "the-final-flight-of-the-enterprise",
+  "wiki_path": "/wiki/The_Final_Flight_of_the_Enterprise",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "The Final Flight of the Enterprise",
+  "level": "38",
+  "location": "Coerthas Central Highlands(X:26.7,Y:17.4)",
+  "npc_start": "Haurchefant",
+  "dialogues": [
+    {
+      "character": "Haurchefant",
+      "text_en": "The man with knowledge of the Enterprise awaits you outside. I pray his information proves useful to you."
+    },
+    {
+      "character": "Discomposed Cataloger",
+      "text_en": "How quickly the commoners' opinions change. They say Lord Francel is innocent now, but just a few days prior..."
+    },
+    {
+      "character": "Discomposed Cataloger",
+      "text_en": "Anyway, you were inquiring as to the whereabouts of an airship last seen in Coerthas several days before the Calamity, yes? Well, it so happens that I was monitoring the night sky at the Observatorium during that period. I recall that a small vessel came from the direction of Gridania and landed near the Stone Vigil, in the far northwest."
+    },
+    {
+      "character": "Discomposed Cataloger",
+      "text_en": "The garrison almost certainly seized the vessel and brought it within their walls. If so, then you would need an army of knights to have any hope of securing it."
+    },
+    {
+      "character": "Discomposed Cataloger",
+      "text_en": "Though Lord Haurchefant is, from all indications, quite fond of you, so mayhap he can lend you a few? In any case, I have done my part. I shall pray for your success, friend."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Oh, so you've at last located the Enterprise ! I believe congratulations are in order."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "The Stone Vigil? Ah...perhaps I spoke too soon. The outpost has been held by the dragons for years, and all access is restricted by decree of House Durendaire."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "I will write a letter to Lord Drillemont of Whitebrim Front and request that he grant you permission to enter. That said, I fear my influence alone will not suffice, so I suggest that you request Lord Francel do the same."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Now that your business in Camp Dragonhead is concluded, I suspect we may not meet again for some time."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "I wish you well in your journeys, Forename . May Halone guide you."
+    },
+    {
+      "character": "Francel",
+      "text_en": "Wonderful to see you again, Forename ! If there is anything I can do to repay you, name it."
+    },
+    {
+      "character": "Francel",
+      "text_en": "...So the airship you seek is likely inside the Stone Vigil. It shames me to say that it too was once an outpost held by House Haillenarte. In the chaos that followed the Calamity, the Dravanian Horde caught us unawares. The fiends have held the outpost ever since."
+    },
+    {
+      "character": "Francel",
+      "text_en": "As we lack the strength of arms to retake the Stone Vigil, House Durendaire instead has been charged with the duty. Given that, I doubt that my words will carry much weight with Lord Drillemont. Nevertheless, I will write you your letter."
+    },
+    {
+      "character": "Francel",
+      "text_en": "Before you depart, a word of caution: the cravens who attempted to destroy House Haillenarte have yet to be unmasked. Though their plans were foiled, they doubtless still harbor great hatred towards us─and towards you now as well."
+    },
+    {
+      "character": "Brunadier",
+      "text_en": "You desire an audience with Lord Drillemont, do you? Hah! I desire a night in a warm bed with my wife, but wishing won't make it so."
+    },
+    {
+      "character": "Brunadier",
+      "text_en": "What do we have here? Letters from Lords Haurchefant and Francel, is it? A likely─ ...Oh, you're serious. Hmmm...what to do, what to do..."
+    }
+  ]
+}

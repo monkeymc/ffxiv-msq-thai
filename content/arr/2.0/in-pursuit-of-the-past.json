@@ -1,0 +1,236 @@
+{
+  "id": "in-pursuit-of-the-past",
+  "wiki_path": "/wiki/In_Pursuit_of_the_Past",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "In Pursuit of the Past",
+  "level": "41",
+  "location": "Coerthas Central Highlands(X:12.7,Y:16.5)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "As I am sure you will agree, it is past time we entered the Stone Vigil. Pay Lord Drillemont a visit and remind him of his obligation to us─Cid and I will follow anon."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "We owe you all a great debt of gratitude. Had it not been for you, the heretic masquerading as Inquisitor Guillaime would still be among us, free to prey upon the innocent."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "I see now that I was a fool to dismiss your claims out of hand... But you must understand, it seemed too much to hope that the Scions of the Seventh Dawn still lived, to say nothing of Master Garlond!"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Never have I been happier to be proven wrong."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, it is gratifying to know that someone has derived a measure of enjoyment from your error."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Now, if you have no further objections, we would appreciate it if you would permit us to enter the Stone Vigil and retrieve our airship."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Yes! Yes, of course. It is the very least I can do, given all that you have done for us."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "But entering the outpost is the least of your concerns, I fear..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You speak of the Dravanians that now hold the ruin."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "...In part, yes. I should explain: shortly after you first arrived, I had my men scour the old records. They confirmed that an abandoned airship had been seized by the soldiers garrisoned at the Stone Vigil in the days following the Calamity."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "As far as we have been able to ascertain, it was still in their custody when the outpost was overrun by the dragons. Whether it was damaged or destroyed during the battle, I cannot say, nor can I give you any assurances that it has not been removed in the intervening years."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "For far too long, the ruin has served as a Dravanian foothold in Coerthas, from which they have struck out at us with depressing regularity."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Though we have pushed them back behind the walls, we have as yet been unable to drive them out, and I cannot say when the situation will change."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Or how it will change. Forgive me, Lord Drillemont, but there is no guarantee that you will prevail. In any event, we have not the time to wait. We will secure our property without Ishgardian aid."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "I see. Well, that may be for the best."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "I will inform Ser Nathelain of your impending visit. May Halone guide you, Scions."
+    },
+    {
+      "character": "Nathelain",
+      "text_en": "Hail, Forename ! Lord Drillemont has apprised me of the situation. You may enter the Stone Vigil whensoever you will."
+    },
+    {
+      "character": "Nathelain",
+      "text_en": "Every knight in Whitebrim Front is praying for your success. May the Fury guide and protect you."
+    },
+    {
+      "character": "Scion Marauder",
+      "text_en": "It will take more than a few dragons to stop us."
+    },
+    {
+      "character": "Scion Marauder",
+      "text_en": "Seven hells. I pray we don't face another of those beasts."
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "So it was this dragon who set the halls ablaze."
+    },
+    {
+      "character": "Scion Thaumaturge",
+      "text_en": "Hopefully we've no more fires to worry about."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Look! It's the Enterprise !"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Yes...just beyond that enormous sleeping dragon."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The dragon is not our concern. We have come for the airship, and only the airship."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Cid─you and I will sneak aboard the Enterprise and prepare it for launch."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forename ─you stay here and keep an eye on the beast."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If it wakes, we may need you to provide a distraction until we are ready to depart. You can manage that, can't you?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That settles it, then. Shall we, Cid?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "As you command..."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "...So you mean to slay Garuda next? Interesting. Most interesting."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "And you are aware that her strength greatly exceeds that of your previous primal conquests? ...A testament to the fanatical devotion of her followers. The Ixal are nothing if not zealous."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "In spite of your past achievements, I labor to believe that you will best this foe."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Yet only a fool would underestimate the great Bringer of Light, slayer of Ifrit, bane of Titan..."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "If any mortal is capable of defeating the Lady of the Vortex, it is you."
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Win or lose, the battle should at least make for an entertaining spectacle. ...Assuming, of course, you live that long."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Alphinaud! The dragon!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Confound it all!"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Let us see how well your blasphemous gifts serve you this time, crystal bearer!"
+    },
+    {
+      "character": "Scion Marauder",
+      "text_en": "We'll need to be careful with this one."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forename ! Forename ! Are you all right? Speak to me!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Twelve be praised, I feared the beast had injured you."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I see now why the others rated you so highly. When you were caught in the midst of that aetheric bubble with the dragon, I was all but certain my next mission would be to find a new champion."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank the gods for sparing me that inconvenience. I have quite enough to do already. Which reminds me─Cid is working on the Enterprise as we speak. Let us go and see what he has to say."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What say you, Cid? Will she fly?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Yes...though it will not be a pleasant ride."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, I daresay it will be no more unpleasant than staying here. 'Tis a pity the Enterprise is not in a better state, but if she will allow us to quit this place, I shall not complain."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If all are in agreement, let us return to Gridania."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though I would like nothing more than to set course for the Howling Eye, it is plain the Enterprise is in no condition to weather the storm. She must needs be repaired if we are to proceed with our mission."
+    },
+    {
+      "character": "Cid",
+      "text_en": "This is all so familiar. I...I know this airship. If I could just..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Bah, it's no use."
+    },
+    {
+      "character": "Cid",
+      "text_en": "...Let's go."
+    },
+    {
+      "character": "Lionnellais",
+      "text_en": "Greetings, madam. Do you wish to proceed to your vessel?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, how I have longed for the more agreeable climate of the Twelveswood."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Yet I will not deny the Holy See had its charms. Endless detours aside, our Ishgardian jaunt proved quite an adventure!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Alas, our work is far from done. We still have an airship to repair and a primal to slay. No rest for the heroic, eh?"
+    }
+  ]
+}

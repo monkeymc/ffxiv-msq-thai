@@ -1,0 +1,134 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getAllQuests, getAdjacentQuests } from '../../lib/quests';
+
+export async function getStaticPaths() {
+  const quests = getAllQuests();
+  return quests.map(q => ({ params: { slug: q.id } }));
+}
+
+const { slug } = Astro.params;
+const quests = getAllQuests();
+const quest = quests.find(q => q.id === slug)!;
+const { prev, next } = getAdjacentQuests(slug);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const groups: { character: string; lines: typeof quest.dialogues }[] = [];
+for (const d of quest.dialogues) {
+  const last = groups[groups.length - 1];
+  if (last && last.character === d.character) {
+    last.lines.push(d);
+  } else {
+    groups.push({ character: d.character, lines: [d] });
+  }
+}
+
+const GENERIC_IMAGE = 'Quest_Accepted.png';
+const showBanner = quest.wiki_image_url && !quest.wiki_image_url.includes(GENERIC_IMAGE);
+const hasAnyTh = quest.dialogues.some(d => d.text_th);
+---
+<Layout title={quest.title_th || quest.title_en}>
+<div class="quest-content">
+
+  <div class="quest-header">
+    <div class="quest-header-meta">
+      <span class="meta-lv">Lv {quest.level}</span>
+      <span class="meta-sep" aria-hidden="true">·</span>
+      <span class="meta-npc">{quest.npc_start}</span>
+      {quest.source === 'contributor' && (
+        <span class="source-badge badge-contributor">
+          ชุมชน{quest.contributor ? ` · @${quest.contributor}` : ''}
+        </span>
+      )}
+      {quest.source === 'ai' && (
+        <span class="source-badge badge-ai">AI · รอ review</span>
+      )}
+      {quest.source === 'none' && (
+        <span class="source-badge badge-pending">ยังไม่แปล</span>
+      )}
+    </div>
+    <h1>
+      {quest.title_en}
+      {quest.title_th && <span class="title-th-inline"> · {quest.title_th}</span>}
+    </h1>
+  </div>
+
+  {showBanner && (
+    <img
+      class="quest-banner"
+      src={quest.wiki_image_url}
+      alt={quest.title_en}
+      loading="lazy"
+      referrerpolicy="no-referrer"
+    />
+  )}
+
+  {hasAnyTh && (
+    <p class="en-hint">คลิกที่กล่องบทสนทนาเพื่อดูต้นฉบับภาษาอังกฤษ</p>
+  )}
+
+  <div class="dialogue-feed">
+    {groups.map((group, gi) => (
+      <div class="dl-group">
+        <div class="dl-speaker">
+          <span class="dl-sep-mark" aria-hidden="true">◆</span>
+          <span class="dl-speaker-name">{group.character}</span>
+        </div>
+        <div class={`dl-bubbles${group.lines.length > 1 ? ' multi' : ''}`}>
+          {group.lines.map(line => (
+            <div
+              class={`dl-bubble${line.text_th ? ' has-en' : ''}`}
+              role={line.text_th ? 'button' : undefined}
+              tabindex={line.text_th ? 0 : undefined}
+              aria-expanded={line.text_th ? 'false' : undefined}
+            >
+              <p class="dl-text-th">{line.text_th || line.text_en}</p>
+              {line.text_th && (
+                <p class="dl-text-en" aria-hidden="true">{line.text_en}</p>
+              )}
+            </div>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+
+  <nav class="pagination">
+    {prev
+      ? (
+        <a href={`${base}/quests/${prev.id}/`} class="pag-btn prev">
+          <span class="pag-label">← ก่อนหน้า</span>
+          <span class="pag-title">{prev.title_en}{prev.title_th && ` · ${prev.title_th}`}</span>
+        </a>
+      )
+      : <span class="pag-spacer" />
+    }
+    {next
+      ? (
+        <a href={`${base}/quests/${next.id}/`} class="pag-btn next">
+          <span class="pag-label">ถัดไป →</span>
+          <span class="pag-title">{next.title_en}{next.title_th && ` · ${next.title_th}`}</span>
+        </a>
+      )
+      : <span class="pag-spacer" />
+    }
+  </nav>
+
+</div>
+
+<script is:inline>
+(function () {
+  document.querySelectorAll('.dl-bubble.has-en').forEach(function (el) {
+    el.addEventListener('click', function () {
+      var isOpen = this.classList.toggle('open');
+      this.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      var en = this.querySelector('.dl-text-en');
+      if (en) en.setAttribute('aria-hidden', isOpen ? 'false' : 'true');
+    });
+    el.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); this.click(); }
+    });
+  });
+}());
+</script>
+</Layout>

@@ -1,0 +1,44 @@
+{
+  "id": "thanks-a-million",
+  "wiki_path": "/wiki/Thanks_a_Million",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Thanks a Million",
+  "level": "11",
+  "location": "Middle La Noscea(X:15.8,Y:16.4)",
+  "npc_start": "Wyrkrhit",
+  "dialogues": [
+    {
+      "character": "Wyrkrhit",
+      "text_en": "Glad I am to see ye again, lass. A wagon driver just returned in a great bloody hurry, screamin' about some monstrosity what sprang out from a millioncorn seedling in his cargo."
+    },
+    {
+      "character": "Wyrkrhit",
+      "text_en": "Seems the gutless bastard tossed it over the side afore turnin' tail an' runnin' for his life. I need ye to head down the road, recover that seedling, an' deliver it to Lyulf over at Swiftperch in western La Noscea."
+    },
+    {
+      "character": "Wyrkrhit",
+      "text_en": "Whatever he pays ye for the cargo is yers to keep. After all, I don't rightly know what else is lurkin' inside that plant, an' ye deserve to be rewarded for yer troubles."
+    },
+    {
+      "character": "Wyrkrhit",
+      "text_en": "Oh, an' ye'll also find an aetheryte in Swiftperch, so the journey should be worth yer while."
+    },
+    {
+      "character": "Lyulf",
+      "text_en": "Has Nymeia Herself forsaken this desolate land? Though I understood there were risks in gambling my entire fortune on a crop of millioncorn, I at least expected the seedling to be delivered before disaster struck!"
+    },
+    {
+      "character": "Lyulf",
+      "text_en": "Is...is that my millioncorn seedling!? O joyous day! It may seem a paltry beginning, but the yield of this particular variety of crop plant is nothing short of astonishing."
+    },
+    {
+      "character": "Lyulf",
+      "text_en": "As you have undoubtedly noticed, Swiftperch lacks a certain, shall we say, vital energy? Thus I mean to restore a modicum of hope to its residents by growing a veritable ocean of corn!"
+    },
+    {
+      "character": "Lyulf",
+      "text_en": "You, madam, seem fit to burst with vim and vigor! Might I persuade you to abide a while and help nurture this ailing settlement?"
+    }
+  ]
+}

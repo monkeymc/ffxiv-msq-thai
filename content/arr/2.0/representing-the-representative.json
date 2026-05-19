@@ -1,0 +1,96 @@
+{
+  "id": "representing-the-representative",
+  "wiki_path": "/wiki/Representing_the_Representative",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Representing the Representative",
+  "level": "42",
+  "location": "Western La Noscea(X:27.9,Y:27.0)",
+  "npc_start": "Ceana",
+  "dialogues": [
+    {
+      "character": "Ceana",
+      "text_en": "W-W-Worry not, my friend! I've given your findings some thought, and I've concluded that this talk of spirits is naught more than local folklore. As for why all travel to the Isles of Umbra is restricted, well...mayhap it's considered too dangerous, owing to the abandonment of Pharos Sirius?"
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Yes, well, anyway─while you were questioning those Yellowjackets, I paid a visit to the local pub, since even an esteemed scholar like myself enjoys dulling her wits on occasion."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "It was there that I heard tell of a man named Skyfryn, who was recently detained after returning from─wait for it─the Isles of Umbra !"
+    },
+    {
+      "character": "Ceana",
+      "text_en": "This is the first I've heard of someone actually traveling to and from there, so I'm curious as to how he obtained permission. Mind having a chat with him in my stead? He was arrested, after all, so I'm somewhat reticent to approach him myself..."
+    },
+    {
+      "character": "Skyfryn",
+      "text_en": "I...I have to go back. She calls to me... sings to me..."
+    },
+    {
+      "character": "Skyfryn",
+      "text_en": "Ugh... Tell Mimidoa I'm sorry. Give him this. He was...he was right..."
+    },
+    {
+      "character": "Skyfryn",
+      "text_en": "Or...or you could release me? Yes...yes...release me. I will go and tell her... Let me...let me go to her..."
+    },
+    {
+      "character": "Skyfryn",
+      "text_en": "I...I hear you, my love. Wait for me..."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "What did Skyfryn have to say? Hm, that's not terribly helpful. I couldn't care less how much he misses his favorite bar wench. But what was that about a man named Mimidoa?"
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Wait...I know that name! That's that bastard who grabbed my arse the other day at the pub! Well, if you want to give him that feather, be my guest─I'm not going anywhere near him and his wandering hands."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "'Nother 'nitiate, are ye? No? Then what are ye? Speak up, son / missy , I can't hear ye!"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Eh!? Bugger me, is this what I think it is? Nah, couldn't be... Ye found this, ye say? Where'd ye say ye found it?"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Skyfryn , ye say? Was hopin' to have a word with the lad, but it sounds like there's naught left 'twixt his ears. He was s'posed to help patch up Pharos Sirius, he was. Company sent me to supervise the lot of 'em."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Weren't gettin' work done on their own, see─half of 'em walked off, half of 'em ran off, an' half of 'em up an' vanished."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "What's that? Ye be lookin' fer passage to the Isles of Umbra!? Why didn't ye say so─I've been thinkin' o' dispatchin' someone to take a look on behalf of ol' Mimidoa. Tell him how the land lies."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Ain't nobody been interested till you came a-callin'. Whole port's up in arms 'bout spirits an' so forth. If I had the gil, I'd hire some sellswords an' let 'em sort it out..."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "But ye'll do in a pinch, ye will. Show this parchment to the skipper an' he'll see ye there an' back."
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Eh? What's that? Speak up, now─or better yet, don't . Till ye find out what's the cause o' this commotion, there ain't no call for chitchat."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "So you went and had a word with Mimidoa. I hope the valuable time you saw fit to waste amounted to something."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "You mean that disgusting creature was Skyfryn's superior ? I find that hard to believe. But this writ of passage does appear to be genuine, so it must be true..."
+    },
+    {
+      "character": "Ceana",
+      "text_en": "I must say, it is a relief to work with such an industrious man / woman as you. I look forward to hearing of the discoveries you will make on the Isles of Umbra...without me."
+    }
+  ]
+}

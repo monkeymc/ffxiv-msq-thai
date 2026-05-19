@@ -1,0 +1,40 @@
+{
+  "id": "cold-reception",
+  "wiki_path": "/wiki/Cold_Reception",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Cold Reception",
+  "level": "36",
+  "location": "North Shroud(X:15.4,Y:25.4)",
+  "npc_start": "Vortefaurt",
+  "dialogues": [
+    {
+      "character": "Vortefaurt",
+      "text_en": "'Twas on the eve of the Battle of Carteneau, nigh on five years ago. I held the spire alone that night, while the bulk of our forces marched to meet the enemy in the field."
+    },
+    {
+      "character": "Vortefaurt",
+      "text_en": "Then, all of a sudden, the most fantastic airship I'd ever seen splits the sky overhead! I could only watch in shock as it disappeared over the mountains to the northwest. If the Enterprise wasn't destroyed during the Calamity, I'd wager it's still somewhere in Coerthas."
+    },
+    {
+      "character": "Vortefaurt",
+      "text_en": "The astrologians at the Observatorium may have records which could help. But to obtain them, you would need to deal with the Ishgardians who control the region. I wouldn't expect much, though─the High Houses have long been concerned with their own affairs above all else. When Dalamud descended, they took shelter behind their gates, and even now they have little regard for the plights of other nations."
+    },
+    {
+      "character": "Vortefaurt",
+      "text_en": "Nevertheless, they may deign to assist you should you prove yourself useful. Consider providing your services to the soldiers who guard the Observatorium. Though they may refuse you at first, I've little doubt they would accept aid freely offered."
+    },
+    {
+      "character": "Ludovoix",
+      "text_en": "Excuse me, can you repeat that? You wish to offer your services to House Durendaire? And what, pray tell, do you wish to receive in exchange?"
+    },
+    {
+      "character": "Ludovoix",
+      "text_en": "Hah, how absurd! As if we would permit an outsider to peruse the records of the Observatorium."
+    },
+    {
+      "character": "Ludovoix",
+      "text_en": "Do not mistake our courtesy for friendliness. The Holy See of Ishgard may allow foreigners to travel freely within these lands, but we do not intend to offer succor to strangers."
+    }
+  ]
+}

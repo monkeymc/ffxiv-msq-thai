@@ -1,0 +1,44 @@
+{
+  "id": "call-of-the-desert",
+  "wiki_path": "/wiki/Call_of_the_Desert",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Call of the Desert",
+  "level": "16",
+  "location": "New Gridania(X:11.7,Y:13.5)",
+  "npc_start": "Mother Miounne",
+  "dialogues": [
+    {
+      "character": "Mother Miounne",
+      "text_en": "So, you're not averse to taking a little trip? Wonderful!"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "As I mentioned earlier, the request comes to us from the Adventurers' Guild in Ul'dah. Once you arrive, seek out Momodi, the proprietress of the Quicksand. Think of her as the sultanate's version of myself."
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Chances are she'll send you into the midst of danger, but I have every confidence that you will pull through unscathed. Now, off you go, Forename , and good luck!"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Welcome to the Quicksand, friend. I'm a tad busy right now, if you wouldn't mind showin' yourself to—"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Oh, it's you, Forename ! And there I was, spoutin' the same tired line!"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Judgin' by your determined expression, I take it you ain't here for ale. Are you called Forename Surname , by any chance?"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Miounne sent word that you'd be reportin' for duty. She also made a point of callin' you the adventurer of the moment. That ain't no small praise, comin' from her."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "But you didn't come all the way here to listen to my prattle. Doubtless you're eager to get started, so let's talk business, shall we?"
+    }
+  ]
+}

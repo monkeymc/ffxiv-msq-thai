@@ -1,0 +1,68 @@
+{
+  "id": "step-nine",
+  "wiki_path": "/wiki/Step_Nine",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Step Nine",
+  "level": "6",
+  "location": "Central Thanalan(X:23.1,Y:27.7)",
+  "npc_start": "Cicidoa",
+  "dialogues": [
+    {
+      "character": "Cicidoa",
+      "text_en": "You're an adventurer, yes? If you're not otherwise occupied, I've a favor to ask. I've resolved to repay a debt of gratitude, which I owe to the owner of the Coffer & Coffin."
+    },
+    {
+      "character": "Cicidoa",
+      "text_en": "For this purpose, I've purchased from the Royal Plantations a prodigiously plump pumpkin─a particularly popular piece of produce."
+    },
+    {
+      "character": "Cicidoa",
+      "text_en": "Alas, I cannot part this place to procure and proffer the pumpkin. You see, the scheduled shipment from the Nanawa Mines, for which I wait, is late."
+    },
+    {
+      "character": "Cicidoa",
+      "text_en": "I would prevail upon you to pick up the pumpkin in my stead, and see it safely to the Coffer & Coffin. Present this receipt of purchase to Gagari at the Royal Plantations, and she will yield it to you."
+    },
+    {
+      "character": "Cicidoa",
+      "text_en": "I apologize for asking you to attend to this time-consuming task, but I truly appreciate your assistance!"
+    },
+    {
+      "character": "Gagari",
+      "text_en": "If Cicidoa doesn't come calling soon, this spectacular specimen shall sadly be past its prime..."
+    },
+    {
+      "character": "Gagari",
+      "text_en": "Oh, so you're to deliver this decadent delight? I can say with confidence that any gourmand would be grateful for such a grand gift."
+    },
+    {
+      "character": "Gagari",
+      "text_en": "Here is the pumpkin. I hope it meets with Roger's approval."
+    },
+    {
+      "character": "Gagari",
+      "text_en": "Fresh produce is somewhat scarce in these parts, and as such we are always deluged with demand."
+    },
+    {
+      "character": "Gagari",
+      "text_en": "You know the way to the Coffer & Coffin, correct? It is beyond the bridge to the northwest. Look for a place where local laborers lounge."
+    },
+    {
+      "character": "Roger",
+      "text_en": "Drink fer ye, laddie / lassie ? Ye won't get better ale or spirits fer yer coin than at me place."
+    },
+    {
+      "character": "Roger",
+      "text_en": "What's that? Wee Cicidoa asked ye to bring this here to me? Ha! Heh, so even that foul-mouthed drunk knows the meanin' o' remorse. Reckon this is fer the time I carried his drink-sodden arse back home."
+    },
+    {
+      "character": "Roger",
+      "text_en": "But hells, an honest-to-gods pumpkin from the Royal Plantations! I can't wait to see what the cooks'll do with her."
+    },
+    {
+      "character": "Roger",
+      "text_en": "The lads here scoff down beastly amounts o' meat, an' it's startin' to tell on their health. It'll be good to get more vegetables in their bellies─assumin' I can get the stubborn bastards to try somethin' new. Thanks fer the help, laddie / lassie !"
+    }
+  ]
+}

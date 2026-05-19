@@ -1,0 +1,276 @@
+{
+  "id": "victory-in-peril",
+  "wiki_path": "/wiki/Victory_in_Peril",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Victory in Peril",
+  "level": "14",
+  "location": "Lower La Noscea(X:24.8,Y:35.1)",
+  "npc_start": "Ghimthota",
+  "dialogues": [
+    {
+      "character": "Ghimthota",
+      "text_en": "I am concerned, Forename . It appears that the pirates I had you investigate are on the move."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "They creep ever closer to the Drydocks, so I must assume they mean to target the Victory herself."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "That ship is the symbol of everything Limsa Lominsa strives to become, and I will not allow these base scoundrels to lay a single finger upon her hull."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "We must apprehend them before they put their plans into motion! And you, Forename , are just the man / woman to do it."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "Without your capable assistance, I fear the security of the Drydocks cannot be guaranteed."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "Not moments ago, my guards submitted reports of suspicious activity in the area. Pray begin your efforts by listening to one of their accounts firsthand."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "It matters not whom you choose to speak with, but be sure to question either Urswyrst at the front gate or C'nangho at the rear."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "Any suspect saboteurs you encounter during the course of your investigation are to be interrogated. Report any and all findings directly to me."
+    },
+    {
+      "character": "Urswyrst",
+      "text_en": "Ghimthota sent you to follow up on my report?"
+    },
+    {
+      "character": "Urswyrst",
+      "text_en": "Well, it was not too long ago that I saw some unsavory sort slinking along the top of the bluff near Empty Heart, just over yonder."
+    },
+    {
+      "character": "Urswyrst",
+      "text_en": "It may be that he's still about. If you've got the time, adventurer, I'd much appreciate you getting up there to take a look."
+    },
+    {
+      "character": "C'nangho",
+      "text_en": "Hail, adventurer. Glad to have another hand aboard to help shore up security."
+    },
+    {
+      "character": "C'nangho",
+      "text_en": "The gods know our reports would sit on Ghimthota's desk gathering dust if it weren't for the assistance of those such as yourself."
+    },
+    {
+      "character": "C'nangho",
+      "text_en": "Speaking of reports, though, I saw one of those mangy pirates lurking around the cliff near Empty Heart. I'd take a closer look before he has a chance to cover his tracks."
+    },
+    {
+      "character": "Shifty-eyed Sailor",
+      "text_en": "Bah, spotted me, did ye? Well, yer too late─what's to 'appen is already 'appenin'."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "So, you found me one of those pirates, did you?"
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "I knew you were the right adventurer to ask for aid."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "But what could these knaves be planning? “What's to happen is already happening”...?"
+    },
+    {
+      "character": "Storm Soldier",
+      "text_en": "Captain! Ungh... Trouble...at the shipyard... <pant>"
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "Easy now, soldier. Who did this to you?"
+    },
+    {
+      "character": "Storm Soldier",
+      "text_en": "<pant> Pirates... Out of nowhere... <cough> Stuck me good..."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "Gods below, we are not prepared for this!"
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "The pirates, soldier, how many do they number?"
+    },
+    {
+      "character": "Storm Soldier",
+      "text_en": "Not sure... More than I could quickly count... Seemed to be carrying...explosives..."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "Explosives!? Then there is no time to lose!"
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "Forename , you heard the situation. Make your way to the shipyard and engage these intruders!"
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "I will see to this man's wounds, then follow after."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "Make haste, now!"
+    },
+    {
+      "character": "Ahtzapfyn",
+      "text_en": "Gahahaha! Never reckoned it'd be this easy! Still don't trust those slimy bastards, but their plan worked like a charm!"
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "Da! What are you doing, you great bloody fool!?"
+    },
+    {
+      "character": "Ahtzapfyn",
+      "text_en": "Shut yer trap, boy."
+    },
+    {
+      "character": "Ahtzapfyn",
+      "text_en": "This'll all be over soon. All that's left now is to blow this ugly pile o' driftwood into splinters."
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "Why would you do such a thing!? Have you any idea how important this ship is? What it represents?"
+    },
+    {
+      "character": "Ahtzapfyn",
+      "text_en": "Aye, an' that's what makes it all the sweeter! Whatever it takes to knock some sense into me treacherous, backstabbin' son!"
+    },
+    {
+      "character": "Ahtzapfyn",
+      "text_en": "Imagine, a boy o' mine givin' up the pirate life to become a shipwright! An' buildin' a bleedin' Maelstrom vessel at that! What under Llymlaen's wide, green ocean made ye take up with these self-righteous shites!?"
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "You're the one with no bloody sense, Da! Don't you see? The pirates had their glory days, but that era is over!"
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "Ah! I wondered why Ahtbyrm never spoke of his father. I never would have thought..."
+    },
+    {
+      "character": "Ahtzapfyn",
+      "text_en": "This ship's a symbol alright─of everythin' what went wrong with the world. An' I mean to shatter it into a hunnerd thousand pieces!"
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "Ghimthota! Forename ! Pray beat the tar out of this bloated sea slug, and make sure no harm comes to the Victory !"
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "Da, this is madness!"
+    },
+    {
+      "character": "Ahtzapfyn the Absorbed",
+      "text_en": "A pirate don't abandon 'is treasures!"
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "My father... You must stop him!"
+    },
+    {
+      "character": "Storm Captain Ghimthota Sthalmoenwyn",
+      "text_en": "Leave him to us. Forename , C'nangho, to me!"
+    },
+    {
+      "character": "Mamool Ja Mercenary Head",
+      "text_en": "As we agreed, Ahtzapfyn!"
+    },
+    {
+      "character": "Storm Private C'nangho Enah",
+      "text_en": "Mamool Ja mercenaries!?"
+    },
+    {
+      "character": "Storm Captain Ghimthota Sthalmoenwyn",
+      "text_en": "I'll take the Mamool Ja. You focus on Ahtzapfyn."
+    },
+    {
+      "character": "Ahtzapfyn the Absorbed",
+      "text_en": "Ye've no idea who yer up against!"
+    },
+    {
+      "character": "Ahtzapfyn the Absorbed",
+      "text_en": "Now, outta me damn way!"
+    },
+    {
+      "character": "Storm Private C'nangho Enah",
+      "text_en": "Ware, adventurer! Ahtzapfyn has a crazy glint in his eye..."
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "Please! You cannot let him win!"
+    },
+    {
+      "character": "Storm Captain Ghimthota Sthalmoenwyn",
+      "text_en": "Protect the ship..."
+    },
+    {
+      "character": "Storm Private C'nangho Enah",
+      "text_en": "Captain, I...ugh..."
+    },
+    {
+      "character": "Ahtzapfyn",
+      "text_en": "I...I must be gettin' old, lettin' some green 'venturer get the best o' me."
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "Da..."
+    },
+    {
+      "character": "Ahtzapfyn",
+      "text_en": "<cough> That's one big bloody ship. Big...an' nasty lookin'. Ye made that, did ye...?"
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "My thanks, Forename . I shudder to think what may have become of the Victory without your intervention."
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "<sigh> The pirates have made a right mess of things─I'd best get to sorting out the docks."
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "...And my thoughts could use some sorting out as well. Ever did my father have a way of turning my life upside down."
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "Pray convey my thanks─and my apologies─to Ghimthota."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "How fare you, Forename ? I cannot begin to thank you for the role you played in preventing this madness."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "You defended more than a simple ship─you saved the budding hope of Limsa Lominsa from a violent demise. The day was yours."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "It seems our security regimen will require much in the way of improvement if we are to truly keep the Drydocks safe."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "...Ahtbyrm apologizes? Well, I suppose I can understand why he would feel responsible for his father's actions. Of all those involved, this incident was hardest on him."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "But, in time, I believe he will come to a single conclusion: the most fitting way of moving past his anguish is to see the Victory completed and in the water."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "Ah, by the by, the pirates we defeated have been handed over to the Yellowjackets. Reyner's men will be taking over the investigation."
+    },
+    {
+      "character": "Ghimthota",
+      "text_en": "Before the Yellowjackets moved in, however, we recovered a most unusual object. Should you have the time to spare, I would ask of you another favor..."
+    }
+  ]
+}

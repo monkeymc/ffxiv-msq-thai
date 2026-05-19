@@ -1,0 +1,248 @@
+{
+  "id": "notorious-biggs",
+  "wiki_path": "/wiki/Notorious_Biggs",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Notorious Biggs",
+  "level": "44",
+  "location": "Coerthas Central Highlands(X:7.4,Y:28.9)",
+  "npc_start": "Wedge",
+  "dialogues": [
+    {
+      "character": "Wedge",
+      "text_en": "We can't give up, Forename ! We must find Biggs before he succumbs to the cold or is recaptured!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "There must be someone in this tower who can help us, even if it's only to tell us where else to look!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Ask them for me! Ask anyone who'll listen! And hurry ! Biggs's chances of survival grow slimmer by the moment!"
+    },
+    {
+      "character": "Ignace",
+      "text_en": "Your friend is lost in the wilderness, you say?"
+    },
+    {
+      "character": "Ignace",
+      "text_en": "If he's not to be found around here or in the vicinity of the Darkhold, it is possible he made for Whitebrim."
+    },
+    {
+      "character": "Ignace",
+      "text_en": "To reach it, one must travel through Daniffen Pass, the southern end of which lies to the north and east of here."
+    },
+    {
+      "character": "Ignace",
+      "text_en": "While I make no guarantee that your search will bear fruit, it is surely better than worrying in idleness. I wish you luck."
+    },
+    {
+      "character": "Ignace",
+      "text_en": "...Oh, and one more thing. Do tread warily when climbing the stairs here. Not a moon ago, I near broke my neck when I slipped and took a tumble."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Forename ! We've found Biggs, but he's in trouble!"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "Our orders are to take you back, dead or alive ! Which will it be, Engineer?"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Why don't you come and find out, tin-head!?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ah, Forename , it is well that you are here. The situation is grave."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Biggs is in a bad way! We need to do something, right now !"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yda has the right of it. He will perish if we delay."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "With me!"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "He's not alone! Kill them all!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "H-How did you know where to find me?"
+    },
+    {
+      "character": "5th Cohort Decurion",
+      "text_en": "Hold your ground! Reinforcements are coming!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "The more the merrier! I'll pound you all into the next Umbral Era!"
+    },
+    {
+      "character": "5th Cohort Decurion",
+      "text_en": "Vanguards, destroy them!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yda! Less provoking and more pummeling, if you would be so kind!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Forename ! Stay close to Biggs!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Ack! How many of them are there!?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...More than are conducive to merriment. ...Next time, Yda, have a care what you wish for."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "This is the last of them!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I cannot...go on..."
+    },
+    {
+      "character": "Yda",
+      "text_en": "I need to rest...just for a little...while..."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Ungh... Not here...not now..."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "<pant> M-My thanks... <pant> Another m-moment, and...I-I would have... <grunt>"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He has been too long in the cold. We must find shelter for him."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...Monument Tower, you say? Very well, Yda and I shall bear him there with all haste."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Cid will be so happy to see Biggs and Wedge again! Awww, I love reunions!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I cannot thank you enough, Forename ─and the same goes for the rest of you! Thank you all so much!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Oh, don't mention it!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We are a family, are we not?"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Well...well, yes. It's just─ <sniff> It's just, I didn't think─ <sniff> I didn't think I'd ever see him again. <sob>"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "I owe the lot of you my life."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "And you saved Wedge's too, Forename . I'm losing count of how many I owe you."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Biggs! Wedge! Gods, it's good to see the two of you again!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Chief! It's you! It's really you!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "In our hearts, we knew you were still alive... But to finally see you in the flesh... <sniff>"
+    },
+    {
+      "character": "Cid",
+      "text_en": "When Alphinaud told me of the raid on the Waking Sands, I feared the worst. What happened?"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "The enemy struck with nary a warning. We didn't stand a chance."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Wedge and I were in the workshop when they came. Before we knew what was happening, the imperials had us at gunpoint."
+    },
+    {
+      "character": "Yda",
+      "text_en": "It must have been awful... There's one thing I don't understand, though: how did the Garleans get there so fast? I mean, the Immortal Flames should have seen them coming, right?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I myself have asked the same question. That day, when I returned to the carnage at the Waking Sands, I noted naught amiss in Horizon─nothing at all to suggest the passing of an imperial force. From this, I conclude that the Garleans came neither by land nor by air. Nay, they were borne there by potent teleportation magicks─magicks of the kind used by the Ascians."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Carry on."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "We were bound and blindfolded, and bundled into the cargo bay of a waiting airship."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I can't rightly say how long we were aboard, but when the time came for us to disembark, we found ourselves in the midst of an imperial stronghold─Castrum Centri."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Upon arrival, we were marched off into the main complex. Biggs and I were thrown into a detainment cell together, while Minfilia and the others were taken elsewhere. That was the last we heard from them."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Castrum Centri..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "What happened next?"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Well, we were held in isolation for what felt like years, but was probably moons...or maybe only weeks. And then, without warning, the imperials collected the pair of us, and put us on another vessel, which we found out was bound for Garlemald, much to our dread. We knew that if we were taken back there, we weren't like to leave again."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "So, risky though it was, we sabotaged the ship's altitude control and thereby forced an emergency landing. And in the midst of the ensuing chaos, we managed to slip our captors. The rest, as they say, is history."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Hah! If I didn't know better, I'd call that a likely story! Sabotaging the altitude controls of an airborne vessel!? That will have been Biggs's handiwork, like as not. You always were resourceful in a tight spot, my friend!"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Forename ─thank you for returning my dear assistants to me. It would seem I owe you yet another debt of gratitude."
+    },
+    {
+      "character": "Cid",
+      "text_en": "There are still many questions in my mind, but the answers can wait─Minfilia and the others still want for rescue."
+    },
+    {
+      "character": "Cid",
+      "text_en": "All right, you lot─Garlond Ironworks is back in business! Let's go and give the imperials what for!"
+    },
+    {
+      "character": "Biggs and Wedge",
+      "text_en": "Hurrah!"
+    }
+  ]
+}

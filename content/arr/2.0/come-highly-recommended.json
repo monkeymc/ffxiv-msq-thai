@@ -1,0 +1,40 @@
+{
+  "id": "come-highly-recommended",
+  "wiki_path": "/wiki/Come_Highly_Recommended",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Come Highly Recommended",
+  "level": "27",
+  "location": "South Shroud(X:25.6,Y:20.6)",
+  "npc_start": "Meffrid",
+  "dialogues": [
+    {
+      "character": "Meffrid",
+      "text_en": "Now that things are relatively settled, I seem to recall that you wanted something of me."
+    },
+    {
+      "character": "Meffrid",
+      "text_en": "You've proven a true friend to my people. Ask of me anything, and it's yours, so long as it's mine to give."
+    },
+    {
+      "character": "Meffrid",
+      "text_en": "The cooperation of the people of Little Ala Mhigo? That's all? Far be it from me to question your desires, of course... Very well, I will provide you with a letter to show to Gundobald."
+    },
+    {
+      "character": "Meffrid",
+      "text_en": "The old bear was my mentor when I first joined the Resistance. He's intimidating to those who don't know him, but he takes care of his own. I've no doubt that he will do all in his power to aid you."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Why have you returned? You are not welcome here; I thought I made that clear."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "You...you spoke with Meffrid? It has been so long since I last heard from him, I had feared him dead... Twelve be praised..."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Whoever you are, Meffrid sees you as a friend, and any friend of Meffrid is a friend of mine. I know of this masked stranger you seek, and will tell you what I can"
+    }
+  ]
+}

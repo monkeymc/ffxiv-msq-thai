@@ -1,0 +1,40 @@
+{
+  "id": "don-t-look-down",
+  "wiki_path": "/wiki/Don%27t_Look_Down",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Don't Look Down",
+  "level": "11",
+  "location": "Central Shroud(X:18.9,Y:20.5)",
+  "npc_start": "Osha Jaab",
+  "dialogues": [
+    {
+      "character": "Osha Jaab",
+      "text_en": "Ho there, adventurer. You seem light on your feet. Fancy a quick skip along the root of the heavenspillar here? I need someone to pick off a blue trumpet or two."
+    },
+    {
+      "character": "Osha Jaab",
+      "text_en": "I know what you're thinking: it's naught more than a mushroom, so why the commotion? I'll tell you why. You allow that fungal menace to multiply, and within a moon they'll be covering the whole damn root and rotting the wood clear through."
+    },
+    {
+      "character": "Osha Jaab",
+      "text_en": "Just watch your step while you're up there, though—the diremites on the ground won't waste any time adding insult to falling injuries."
+    },
+    {
+      "character": "Osha Jaab",
+      "text_en": "Once you're done, head up to the top end of the root and report to Theodore. He'll be glad to hear someone's taken care of one of his more dreaded chores."
+    },
+    {
+      "character": "Theodore",
+      "text_en": "Oh, you've cleared the root of blue trumpets? Wonderful! To be quite honest, I have this teeny-tiny problem with heights. <sigh> No, this is not my ideal posting, but we all do what we must."
+    },
+    {
+      "character": "Theodore",
+      "text_en": "Keeping the root passable is an important job, you see. It's one of the few ways folk can traverse the Central Shroud since the Calamity all but split the area in twain."
+    },
+    {
+      "character": "Theodore",
+      "text_en": "It is not, perhaps, the easiest pathway to walk, but there are those who believe the will of the Matron Herself caused this tendril of a heavenspillar to remain thus suspended, that it might serve the forest's people. I'm rather fond of the notion, myself."
+    }
+  ]
+}

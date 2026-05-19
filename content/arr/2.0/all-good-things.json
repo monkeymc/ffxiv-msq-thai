@@ -1,0 +1,272 @@
+{
+  "id": "all-good-things",
+  "wiki_path": "/wiki/All_Good_Things",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "All Good Things",
+  "level": "34",
+  "location": "Upper La Noscea(X:30.0,Y:23.1)",
+  "npc_start": "Y'shtola",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "Though word will already have reached Maelstrom Command, protocol requires that a representative of our order inform the high commander of the mission's success. The honor is rightfully yours, Forename ."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Once again, I must commend you on a job well done. We shall speak again soon."
+    },
+    {
+      "character": "R'ashaht Rhiki",
+      "text_en": "GC Rank . Word of your triumph reached me some while ago, but I am pleased to have it personally confirmed."
+    },
+    {
+      "character": "R'ashaht Rhiki",
+      "text_en": "First Ifrit and now Titan... Truly, when I think of your achievements, I feel the loss of the Warriors of Light less keenly─and there can be no greater compliment than that. You and your order are heroes. Suffice it to say, we are glad to have a Scion in our ranks."
+    },
+    {
+      "character": "R'ashaht Rhiki",
+      "text_en": "I shall relay the details of your report to the Admiral forthwith. Please send my regards to the Scions of the Seventh Dawn. GC Rank"
+    },
+    {
+      "character": "R'ashaht Rhiki",
+      "text_en": "It is good to see you, Surname . Word of your triumph reached me some while ago, but I am pleased to have it personally confirmed."
+    },
+    {
+      "character": "R'ashaht Rhiki",
+      "text_en": "First Ifrit and now Titan... Truly, when I think of your achievements, I feel the loss of the Warriors of Light less keenly─and there can be no greater compliment than that. You and your order are heroes. The people of Limsa Lominsa are forever in your debt."
+    },
+    {
+      "character": "R'ashaht Rhiki",
+      "text_en": "I shall relay the details of your report to the Admiral forthwith. Please send my regards to the Scions of the Seventh Dawn. Until next time, Surname ."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Forename , this is Minfilia. Y'shtola has informed me of your success."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "You have won a great victory for the people of Eorzea, one that shall not be forgotten."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "And what is more, both you and Y'shtola emerged from O'Ghomoro unscathed. Why, Tataru and the others seemed as glad of that as they did of Titan's fall!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "You can look forward to a hero's welcome!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We'll be awaiting your return at the Waking Sands. There is much to discuss. Godsspeed."
+    },
+    {
+      "character": "Disquieted Villager",
+      "text_en": "You hear that commotion just now? What in the seven hells were they doin' in there? Wrestlin' a peiste!? You look like the adventurous type. Mind takin' a quick look?"
+    },
+    {
+      "character": "Frightened Villager",
+      "text_en": "...Was that screaming I heard? I'm not sure I want to know..."
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "This one is glad...walking one is safe..."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We'll be awaiting your return at the Waking Sands. There is much to discuss. Godsspeed."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Thank heavens he / she is safe."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Louisoix, do you see? Your light shines brightly in this one. And in time, it will illuminate the realm once more."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "<gasp>"
+    },
+    {
+      "character": "Scion of the Seventh Dawn",
+      "text_en": "Advance no further!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "We have come for the one who slayed Ifrit and Titan!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "Bring him / her forth! And you may yet know mercy!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "<whimper>"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Confound it."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Stay out of sight. I would leave a message with you."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I surrender myself, on the condition you spare the innocents."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "Conditions? There speaks the supreme Scion."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "I'll grant you have courage, but you would be better served by armor."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Search all you will, the one you seek is not here."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "So it would seem."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "And yet you knew to look here...but how? <gasp>"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "Hold that thought."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "No!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "Conditions of surrender...denied."
+    },
+    {
+      "character": "Scion",
+      "text_en": "Cease at once!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Have you not done enough!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "Perhaps. Enough! We must away."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "Though we have not found our quarry, the “High Priestess of the Scions” should suffice for now."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "They say she also possesses the Echo. I cannot wait to hear her scream."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "I said “enough!”"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "We leave! Bring the prisoners."
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "Walking...walking one Minfilia...asked this one to... <groan>"
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "In case walking one r-returned...this one was to say...to say..."
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "At church in eastern Thanalan...walking one must claim sanctuary..."
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "This one tried...tried to protect walking one Minfilia f-from imperial ones..."
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "For...give...this...one."
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "Save..."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "Is something troubling you, my son / child ? You have the look of one who has endured great suffering. If there is anything I can do to help─anything at all─you need only ask."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "Close your eyes and look within. Acknowledge your misdeeds and your regrets. Pray endeavor to atone with an earnest heart, and you shall surely find salvation, my son / child ."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "The crimes of which you speak are grave...yet I cannot do that which you ask of me. Be assured, however, that the gods see all. If you would ask them for anything, let it be justice and not vengeance."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "...The wild roses ? I see. You may speak freely here. We are all friends of the Scions."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "How...how could this have happened...?"
+    },
+    {
+      "character": "Iliud",
+      "text_en": "And you are certain that Minfilia was among those taken by the Garleans?"
+    },
+    {
+      "character": "Iliud",
+      "text_en": "Let us pray no further harm comes to them..."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "You may stay here for as long as you wish. It is the least I can do for a friend of Minfilia's."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "I have known her since she was but a child... Well do I recall the day of our first meeting."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "I swore then to do everything in my power to support her, and I will gladly offer the selfsame service to her brother and sister Scions."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "So please─no matter what you require, you need not hesitate to ask."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "Marques, would you come here for a moment?"
+    },
+    {
+      "character": "Marques",
+      "text_en": "Yes, Father?"
+    },
+    {
+      "character": "Iliud",
+      "text_en": "If you require assistance, pray speak with Marques. He is a trifle shy, but I assure you he means well."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "I should explain─Marques is a survivor of the battle of Carteneau. Alas, his experiences took a terrible toll upon his mind... Had we not taken him into our care, he would surely have perished in the desert."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "Marques, I want you to look after Forename . Do you understand?"
+    },
+    {
+      "character": "Marques",
+      "text_en": "Yes, Father..."
+    }
+  ]
+}

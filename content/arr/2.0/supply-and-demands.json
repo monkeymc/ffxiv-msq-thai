@@ -1,0 +1,48 @@
+{
+  "id": "supply-and-demands",
+  "wiki_path": "/wiki/Supply_and_Demands",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Supply and Demands",
+  "level": "10",
+  "location": "Western Thanalan(X:22.6,Y:17.3)",
+  "npc_start": "Dadanen",
+  "dialogues": [
+    {
+      "character": "Dadanen",
+      "text_en": "It so happens that I've a situation that must be resolved posthaste─and I do mean posthaste ."
+    },
+    {
+      "character": "Dadanen",
+      "text_en": "I'm plumb out of premium product, and my latest order has yet to arrive! If I keep my customers waiting any longer, this could irrevocably damage my reputation!"
+    },
+    {
+      "character": "Dadanen",
+      "text_en": "What's worse, I paid my man in advance for his services. Despite his assurances that it would be a simple affair, I've heard nothing since he departed for Copperbell Mines days ago."
+    },
+    {
+      "character": "Dadanen",
+      "text_en": "Find Drunken Stag and give him this notice. I cannot afford any further delay."
+    },
+    {
+      "character": "Dadanen",
+      "text_en": "What the hells am I to do with three crates of vanya silk gloves─all left-handed !? If I can't find a buyer by next moon, I'm ruined !"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "What do you want? Hm? Dadanen's product?"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "He can send all the notices he likes, but it won't change a thing."
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "The Concern has closed the mines due to some incident in the depths."
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "It's a godsdamned shame too─lost a decent haul just over yonder during all the chaos..."
+    }
+  ]
+}

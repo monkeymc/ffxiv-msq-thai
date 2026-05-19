@@ -1,0 +1,60 @@
+{
+  "id": "righting-the-shipwright",
+  "wiki_path": "/wiki/Righting_the_Shipwright",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Righting the Shipwright",
+  "level": "12",
+  "location": "Lower La Noscea(X:20.7,Y:38.7)",
+  "npc_start": "Haldbroda",
+  "dialogues": [
+    {
+      "character": "Haldbroda",
+      "text_en": "Now, the way I see it, if you have time to be standing here questioning my character, then you most certainly have the time to get that arse of yours down to the Salt Strand and help us search for survivors of the wreck."
+    },
+    {
+      "character": "Haldbroda",
+      "text_en": "Who knows? You may just run across this Fyrilsmyd everyone seems so eager to find. Here's to hoping the Navigator hasn't found him first."
+    },
+    {
+      "character": "Fyrilsmyd",
+      "text_en": "Aye, I'm Fyrilsmyd. Ye say the foreman's wonderin' on me whereabouts? I thought he might be. But ye must know, I cannot show me face at the Drydocks until I've righted the terrible wrong I caused."
+    },
+    {
+      "character": "Fyrilsmyd",
+      "text_en": "Two nights past, I made the trip from the Drydocks to Candlekeep Quay, just as the foreman asked. The seas were right rough, and the cap'n of the cargo ship was wary of bringin' her too close to the cliffs, so I paid a few coins to a fisher to take me out to meet her."
+    },
+    {
+      "character": "Fyrilsmyd",
+      "text_en": "By the time we was halfway 'twixt shore and ship, the swells had risen to nigh on ten yalms, and 'twasn't long afore the waves had hold of us. Try as we might to steady the boat, nature's grip was too tight, and we was flung headlong into the Lominsan galley."
+    },
+    {
+      "character": "Fyrilsmyd",
+      "text_en": "When I awoke, both ships were gone, and the cargo I was to collect lay strewn across the Salt Strand. I's made every effort to salvage it, but the sands are crawlin' with Qiqirn, and I ain't a one with a sword. And now ye see why it is I cannot return to the Drydocks..."
+    },
+    {
+      "character": "Fyrilsmyd",
+      "text_en": "That night, I was tossed into the sea like some doll of rags, and it weren't long afore the world 'round me faded to black as I slipped deeper into the abyss. But lo, the Navigator wouldn't see me to the gates of the seven hells, and I woke to find meself washed ashore. And here I's been, ever since, waitin' for a chance to salvage me master's cargo."
+    },
+    {
+      "character": "Fyrilsmyd",
+      "text_en": "The missin' parts! I-I don't know how I can repay you!"
+    },
+    {
+      "character": "Fyrilsmyd",
+      "text_en": "I'll deliver the supplies right away...but first I must stop by the Quay so that I might pay me respects to the widow of the brave fisher who gave his life fer a handful o' coin."
+    },
+    {
+      "character": "Fyrilsmyd",
+      "text_en": "Could ye tell Ahtbyrm that I'll be back at the Drydocks by nightfall / daybreak ? Many thanks, adventurer! I will not forget this kindness!"
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "I am relieved to hear that both Fyrilsmyd and the supplies are unharmed, though it was foolish for him to believe that I would blame him for that which was obviously out of his hands."
+    },
+    {
+      "character": "Ahtbyrm",
+      "text_en": "You see, there was no storm that day, and the seas here adjacent the Drydocks were as calm as a slumbering child. This leads me to believe that the trouble the ships encountered off Candlekeep Quay was of a less natural sort─the sort which the Sahagin have been known to conjure."
+    }
+  ]
+}

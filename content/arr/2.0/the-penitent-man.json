@@ -1,0 +1,11 @@
+{
+  "id": "the-penitent-man",
+  "wiki_path": "/wiki/The_Penitent_Man",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title_en": "The Penitent Man",
+  "level": "30",
+  "location": "South Shroud(X:16,Y:28)",
+  "npc_start": "Landenel",
+  "dialogues": []
+}

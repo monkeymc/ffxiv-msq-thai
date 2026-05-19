@@ -1,0 +1,264 @@
+{
+  "id": "the-company-you-keep-twin-adder",
+  "wiki_path": "/wiki/The_Company_You_Keep_(Twin_Adder)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "The Company You Keep (Twin Adder)",
+  "level": "20",
+  "location": "The Waking Sands(X:6.8,Y:6.1)",
+  "npc_start": "Serpent Officer",
+  "dialogues": [
+    {
+      "character": "Serpent Officer",
+      "text_en": "Ah, I take it the Elder Seedseer's words have touched your heart. Have you resolved to entwine your destiny with that of the Twin Adder?"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "Ah...forgive me. In my eagerness to embrace you as a brother / sister , I mistook your intention."
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "You have chosen wisely, my friend! The Elder Seedseer will be overjoyed!"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "Without further ado, let us speak of practical matters. In order to complete the enrollment procedure, you must report to our headquarters in Gridania─the Adders' Nest."
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "I daresay you know it well from your wanderings in New Gridania. Give your name to the personnel officer there, and he will guide you through the formalities."
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "You have chosen wisely, my friend! The Elder Seedseer will be overjoyed!"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "Without further ado, let us speak of practical matters. In order to complete the enrollment procedure, you must report to the Adders' Nest."
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "The building you seek stands in the southern part of the city, now called New Gridania. Give your name to the personnel officer there, and he will guide you through the formalities."
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "I shall send word to the Adders' Nest so that our people know to expect you. Give your name to the personnel officer, and he will guide you through the formalities."
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "I have no doubt but that your deeds will bring great honor to our order. When next we meet in Gridania, I shall be proud to call you brother / sister !"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "What's this!? You mean to take up with the Adders !? B-But...did the awe-inspiring figure of General Raubahn not stir you? He can seem a trifle intimidating...but I'm sure you'd warm to him, given time."
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "If your mind is made up, then there is no help for it. Yet know that like the tide, men's hearts are apt to change. If and when yours does, you may be certain of a warm welcome from us."
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "You are come to the Adders' Nest, headquarters of the Order of the Twin Adder. Ever do we welcome they who would toil in the elementals' name for the good of our forest nation."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "You are come to the Adders' Nest, headquarters of the Order of the Twin Adder. Ever do we welcome they who would toil in the elementals' name for the good of our forest nation."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Ah, the great adventurer himself / herself ! Yes, our recruitment officer sent word that you were on your way. It is a pleasure and an honor both to welcome you to our ranks, friend."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Ah! Might you be Forename Surname ? I thought as much! Our recruitment officer sent word that you would be coming. It is a pleasure and a honor both to welcome you to our ranks."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Now, let me gather together the relevant documentation..."
+    },
+    {
+      "character": "Serpent Private",
+      "text_en": "Sir!"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "What is it? Report."
+    },
+    {
+      "character": "Serpent Private",
+      "text_en": "An urgent message from Amarissaix's Spire, sir! A Highwind Skyways airship has taken fire from imperial forces in the skies over the East Shroud!"
+    },
+    {
+      "character": "Serpent Private",
+      "text_en": "The vessel's engines were crippled, sir, and it was forced to make an emergency landing southeast of Nine Ivies."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Nine Ivies? Gods, this could not have come at a worse time. All but a handful of our forces are presently afield, dealing with the Ixal."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Forename ─I know full well you have yet to be formally inducted into our ranks, but we have urgent need of your aid."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "In all likelihood, the airship was bearing civilians, and if the reports are accurate, it will have come down dangerously close to Garlean-occupied territory."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Please make all haste to the area southeast of Nine Ivies, locate the airship, and ascertain the status of the passengers."
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "An adventurer!? What're you doing out here? No, wait─let's find some cover first..."
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "The Adders' Nest sent you? How do I know you're not an imperial spy? You don't even have a uniform!"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "Peace, friend─we mean you no harm. You are an engineer of Garlond Ironworks, are you not? We were alerted to your plight, and have come to rescue you."
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "And you are Forename Surname , I presume. I was told to expect an “honorary” Serpent. My thanks for your aid, friend."
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "I've never seen a craft of this design... It must be Garlond's work. Is there no end to the man's treachery?"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "The secrets of magitek belong in imperial hands. They are not to be squandered on Eorzean savages!"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "We are taking this craft back to the fortress! Dismantle it if you must! And bring the engineer! Someone must pay for Garlond's crimes."
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "Imperial scouts from Castrum Oriens. They mean to requisition the ship."
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "Wedge! You have to help him! That fool of a Lalafell was hiding inside the Tiny Bronco !"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "The Tiny Bronco ? But isn't that the Ironworks' latest creation!?"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "It's the first airship we've built since the Calamity─the first since Master Garlond...well, since he went missing."
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "After years of work, she was finally ready for her first test flight. And she was soaring , she really was─till those bastards blasted her out of the sky!"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "Attend me, all: the Ironworks' latest creation must not fall into Garlean hands. We shall strike them, swift and sure, and rescue Engineer Wedge."
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "Forename , I trust we can rely on your support."
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "May the Matron watch over us! With me!"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "An ambush! To arms!"
+    },
+    {
+      "character": "Serpent Gladiator",
+      "text_en": "Leave none standing!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Keep them away from the airship!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Savages! You cannot stand against the might of the Empire!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "This has gone on long enough!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Annihilate these barbarians! Teach them the futility of resistance!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Biggs!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Wedge! You shouldn't have stayed with the ship!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Th-That was a close one!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Too damn close. So...how's she look, anyway?"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "The auxiliary propeller is a dead loss, but I think we can wring enough thrust from the main propeller to get us airborne."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "A few minor modifications and we should be able to fly the Tiny Bronco home."
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "While you do your work, we shall keep watch over the perimeter. The enemy may yet be lurking nearby."
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "As for you, Forename , you have more than done your part today. I bid you return to the Adders' Nest and complete your enlistment."
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "I pray there will be no further interruptions. When next we meet, let it be as fellow Serpents of the Order!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "I, um...just wanted to say sorry...you know, for calling you an imperial spy and all that... Got that one wrong, didn't I!? Ha ha! Seriously, though─if it hadn't been for you and the Twin Adder lads there, we'd be chained up in a dungeon by now. I'm in your debt, friend─we both are."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Wedge!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Thank you! We're very grateful!"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Forename ! It does my spirit well to see you returned!"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Word arrived but moments ago from the team at Nine Ivies. Lest you worry, the two engineers are safely on their way."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "The lieutenant informs me that you were instrumental in the mission's success. Had you not found Engineer Biggs when you did, and helped us to rout the Garleans, things might have been very different."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "And all this before you were even inducted into the Order! You are well on your way to carving out a fine career for yourself beneath the Twin Adder standard."
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "But without further ado, let us see to your induction. Twelve willing, there won't be any further interruptions."
+    }
+  ]
+}

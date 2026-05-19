@@ -1,0 +1,60 @@
+{
+  "id": "sweet-somethings",
+  "wiki_path": "/wiki/Sweet_Somethings",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Sweet Somethings",
+  "level": "42",
+  "location": "Western La Noscea(X:16.1,Y:30.7)",
+  "npc_start": "Davyd",
+  "dialogues": [
+    {
+      "character": "Davyd",
+      "text_en": "The writ Master Mimidoa gave you may grant you access to the island, but only authorized personnel may proceed past this point. Why, you ask? Look up and see for yourself."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "When that giant mass of crystal struck the lighthouse, it caused severe damage to both the structure and the machinery within that once powered the beacon."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Aye, contrary to what the smallfolk would have you believe, the fires of Pharos Sirius were not the product of a mage's thaumaturgy or a colossal arcane bomb, but an elaborate contraption fueled by aetherial energy."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Repairs are still ongoing, but it's anyone's guess when they'll be complete. What's worse, all work has ceased since rumors of the walking dead drove off our entire crew."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Not that those rumors are incorrect─I've observed the fiends from a distance, at the Ship Graveyard to the south. What's drawn them to our shores is still a mystery, though."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "I'll make you a deal, Forename : help me unravel this mystery, and I'll bring you your corrupted crystal. In fact, I shall begin searching for one that satisfies your requirements."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "As for where to begin your inquiries into the situation, it so happens that a party of three adventurers came ashore not long ago, seeking to scavenge valuable trinkets at the Ship Graveyard. I'd be surprised if they knew nothing of the undead infestation, so it might behoove you to question them."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "The lights at Pharos Sirius once guided many a sailor home. Ever since the Calamity quenched its fire, it's seen many a ship run aground. But mark my words—one day I will see this beacon of hope restored."
+    },
+    {
+      "character": "Ahlduwil",
+      "text_en": "Itsh all there fer the takin'! Five bleedin' yearsh worth of wrecksh and their cargo. But thoshe queer dead thingsh...and that voice... Actually, the voice was quite nice..."
+    },
+    {
+      "character": "Erapi Taropi",
+      "text_en": "You saw 'em too, right? Dead people . Just shambling about, without a care in the world. Except when they do seem to care, that is, and start shuffling towards the water..."
+    },
+    {
+      "character": "Louis",
+      "text_en": "Gods, that voice, that single fleeting verse... I can still hear it... Stay clear of the southern shore, friend. It took every onze of my strength to resist."
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Hmmm... This talk of an alluring voice is disturbingly familiar, as if... But that's impossible, they're all dead...aren't they?"
+    }
+  ]
+}

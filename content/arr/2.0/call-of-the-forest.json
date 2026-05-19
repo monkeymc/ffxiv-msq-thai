@@ -1,0 +1,48 @@
+{
+  "id": "call-of-the-forest",
+  "wiki_path": "/wiki/Call_of_the_Forest",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Call of the Forest",
+  "level": "15",
+  "location": "Limsa Lominsa Upper Decks(X:11.6,Y:11.1)",
+  "npc_start": "Baderon",
+  "dialogues": [
+    {
+      "character": "Baderon",
+      "text_en": "Ready to 'ear about that job, then? Like I said, the request comes from our sister guild in Gridania."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "...An' that's all I know. But whatever it is ye get asked to do, I some'ow doubt it'd pose any trouble fer a 'venturer as survived the bedlam in Satasha."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "If ye think ye might be interested, ye'll want to 'ave words with Mother Miounne, me counterpart in Gridania. Good luck, mate!"
+    },
+    {
+      "character": "Miounne",
+      "text_en": "Take a seat wherever you like, friend. Our waitress will come to take your—"
+    },
+    {
+      "character": "Miounne",
+      "text_en": "Oh it's you, Forename ! 'Tis so good to see you again! ...What's that? Here at Baderon's suggestion, you say?"
+    },
+    {
+      "character": "Miounne",
+      "text_en": "The foul mouthed rogue sends me word that an adventurer might be along for the job, and it turns out to be you! Well, this makes things a lot easier, doesn't it?"
+    },
+    {
+      "character": "Miounne",
+      "text_en": "Oh? Not here to dine? Dare I hope that you're the adventurer Baderon sent word about? ...You are!? The Matron be praised!"
+    },
+    {
+      "character": "Miounne",
+      "text_en": "Allow me to introduce myself. My name is Miounne, and the Carline Canopy is my place."
+    },
+    {
+      "character": "Miounne",
+      "text_en": "With regard to the task in question, there is a fair bit to tell. Let me know when you're ready to hear the details, and I shall brief you."
+    }
+  ]
+}

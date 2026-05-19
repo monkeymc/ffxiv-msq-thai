@@ -1,0 +1,48 @@
+{
+  "id": "first-impressions",
+  "wiki_path": "/wiki/First_Impressions",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "First Impressions",
+  "level": "20",
+  "location": "East Shroud(X:16.7,Y:27.1)",
+  "npc_start": "Rolfe Hawthorne",
+  "dialogues": [
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Oh, still here, eh? Great! There's one more thing you should know about the sylphs. They don't take kindly to guests who show up empty-handed. To earn their trust, you'd do well to bring along a...a... Uh..."
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Drat! What was it, again? And my wife Rosa and I were just speaking of the matter not days ago..."
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Forgive me, friend. Speak to Rosa at the Comb─her memory should prove more reliable than mine own."
+    },
+    {
+      "character": "Rosa Hawthorne",
+      "text_en": "A peace offering for the sylphs? Were it anyone else, I'd recommend a jar of honey, but I fear that wouldn't get you past their front doorstep, dear. No, their tastes run more to the un usual."
+    },
+    {
+      "character": "Rosa Hawthorne",
+      "text_en": "Are you, perchance, familiar with milkroot? That's what we call the root of that most fiendish seedkin, the ochu. When chewed, it exudes a cloudy liquid that's said to induce curious visions in the imbiber. You'd not catch me dead trying the stuff, but the sylphs seem to enjoy it to no end."
+    },
+    {
+      "character": "Rosa Hawthorne",
+      "text_en": "I've not seen an ochu around the Comb in quite some time, but I did encounter a suspicious clump of grass the other day. Were you to stimulate it somehow─with some of this amber syrup, for example─you might be surprised at what comes out. Good luck."
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Ah, you're back. Was my wife able to direct you to a suitable offering?"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Milkroot! But of course! Those sylphs quaff that cloudy stuff as quick as I do a flagon of mead. The effect's just about the same, as well."
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Anyroad, a gift of milkroot will have the sylphs calling you friend and brother / sister the moment they lay eyes on it. Now let me wrap that up for you─I'm startin' to feel a bit woozy..."
+    }
+  ]
+}

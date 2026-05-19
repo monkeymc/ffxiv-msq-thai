@@ -1,0 +1,56 @@
+{
+  "id": "what-do-you-mean-you-forgot-the-wine",
+  "wiki_path": "/wiki/What_Do_You_Mean_You_Forgot_the_Wine",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "What Do You Mean You Forgot the Wine",
+  "level": "32",
+  "location": "Eastern La Noscea(X:32.6,Y:30.5)",
+  "npc_start": "Wheiskaet",
+  "dialogues": [
+    {
+      "character": "Wheiskaet",
+      "text_en": "Bravo, Forename . Thanks to you, our guests shall be honored with a marvelous banquet."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "But what good is an exotic feast without an equally exquisite aperitif?"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Luckily, I know just the person to ask. Make your way to Wineport and seek out Shamani Lohmani, another former member of the Company."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "All you have to do is give him this order slip. He'll take care of the rest."
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Oh, and if you're wondering if this is merely a ploy to test your patience, I assure you I do actually need that wine. And while you're there, give Shamani Lohmani my regards."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "...Sweat, grime, and blood. Aye, you reek of blood. An adventurer, unless I am mistaken. What brings you to Wineport?"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "An order? Let me guess─a request for the finest vintage I can muster."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "<sniff> <sniff> The paper smells of loam and perfume. Costa del Sol. And there is also the─<cough>─unmistakable odor of goblin cheese..."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "Yes, Master Gegeruju would not settle for anything less than the best. Dyrstweitz and his crew must be quite busy preparing an exotic feast, hence his decision to rely on an adventurer."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "Ah, but perhaps you are confused. This display of deduction was not intended to impress you."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "When one loses his vision, he is forced to compensate in other ways. But you've no interest in my affairs─you wish only to discuss the wine, I suspect."
+    }
+  ]
+}

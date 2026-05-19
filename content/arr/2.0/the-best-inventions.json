@@ -1,0 +1,68 @@
+{
+  "id": "the-best-inventions",
+  "wiki_path": "/wiki/The_Best_Inventions",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "The Best Inventions",
+  "level": "39",
+  "location": "Coerthas Central Highlands(X:13.1,Y:15.4)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text_en": "Might I have a word with you, Forename ? It concerns the chirurgeons. After speaking with them earlier, I learned that they lack sufficient alembics for their needs, you see..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "So I used some of their broken equipment to craft a more advanced alembic─both as a gesture of goodwill, and as a means to help me recover my memories, since working with my hands kindles familiar feelings."
+    },
+    {
+      "character": "Cid",
+      "text_en": "All I require to complete the device are the cores of three ice sprites. Though commonly used to reduce the temperatures of alchemical mixtures, there is a way to alter their properties so that they draw the cold within rather than radiate it without."
+    },
+    {
+      "character": "Cid",
+      "text_en": "It must sound ridiculous to you─impossible, even. Yet somehow I know it will work."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Have you obtained the cores? If so, please show them to me."
+    },
+    {
+      "character": "Cenota",
+      "text_en": "What an amazing device! But...is it truly an alembic, sir? I've never seen its like before."
+    },
+    {
+      "character": "Astidien",
+      "text_en": "I too am unsure what to make of this machine. While certainly impressive, I've no idea how to make use of it."
+    },
+    {
+      "character": "Cenota",
+      "text_en": "Nevertheless, if it is as effective as he claims, it will be a great boon to the infirmary! Think of the medicines we could create, the lives we could save!"
+    },
+    {
+      "character": "Astidien",
+      "text_en": "Even so, I wonder..."
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "Ware thee the kindly stranger, bearer of gifts wondrous and strange, for his generosity comes at cost."
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "Their earnest efforts are but a means to an as-yet-unknown end. Moreover, you should be wary of associating with individuals who have interfered with the questioning of a suspected heretic."
+    },
+    {
+      "character": "Astidien",
+      "text_en": "They did what !? Bless you, Inquisitor, for coming along when you did! We almost succumbed to the temptation proffered by these...these unbelievers !"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Why does that man detest us so? Is it all because we interrupted Lord Francel's trial?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Whatever his reasons, he clearly means to oppose us at every turn..."
+    }
+  ]
+}

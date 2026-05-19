@@ -1,0 +1,68 @@
+{
+  "id": "druthers-house-rules",
+  "wiki_path": "/wiki/Druthers_House_Rules",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Druthers House Rules",
+  "level": "22",
+  "location": "South Shroud(X:18.1,Y:19.8)",
+  "npc_start": "Buscarron",
+  "dialogues": [
+    {
+      "character": "Buscarron",
+      "text_en": "No word on the sylph elder yet, but I'm sure it's only a matter of time. In the meantime, how about doing a favor for old Buscarron in return?"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Right, then, let's put you to work. There's a customer outside who's spoiling for a fight and I need you to cool him off for me."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "No need to go cracking any skulls, though. Just take this tub of cold water and douse the drunkard. Tends to do the trick."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "My patrons can swill grog all night and carouse loud enough to wake the dead if they wish, but as soon as it turns violent, I've got to put my boot down."
+    },
+    {
+      "character": "Drunken Duskwight",
+      "text_en": "Grrr... If this were anywhere but the Druthers, I'd have that fool spittin' teeth before he formed a second word."
+    },
+    {
+      "character": "Mead-soaked Midlander",
+      "text_en": "What are you starin' at!? You wanna keep them eyes in yer face?"
+    },
+    {
+      "character": "Mead-soaked Midlander",
+      "text_en": "Ugh! Nophica's teats, that's cold! What do you mean, “no fightin'”? This Duskwight scum was─"
+    },
+    {
+      "character": "Mead-soaked Midlander",
+      "text_en": "Yeah, yeah, I know the rules. That bastard gets to keep his skin...for now."
+    },
+    {
+      "character": "Drunken Duskwight",
+      "text_en": "Thanks for steppin' in there, friend. Not that I couldn't handle myself against a bleatin' milksop like that bloke."
+    },
+    {
+      "character": "Drunken Duskwight",
+      "text_en": "And I don't want to cause no trouble for Buscarron. You know, havin' to mop up blood and bits o' teeth and the like."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Nicely done, Forename . I'll not have my patrons picking fights with each other over a bit of petty prejudice."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "In case you didn't see, the bloke who caught the brunt of that outburst is a Duskwight Elezen. They're a people who shun cities to live in the wilds, making them no better than brigands in the eyes of many."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "To be fair, the Duskwights can be an unruly lot, but they ain't so bad once you get to know them. And it don't seem right to bar a whole race of people from the Druthers for the misdeeds of a few."
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "There should be at least one place where anyone willing to pay the coin and drink in peace is welcome, don't you think?"
+    }
+  ]
+}

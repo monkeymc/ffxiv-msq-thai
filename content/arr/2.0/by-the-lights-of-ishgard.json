@@ -1,0 +1,48 @@
+{
+  "id": "by-the-lights-of-ishgard",
+  "wiki_path": "/wiki/By_the_Lights_of_Ishgard",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "By the Lights of Ishgard",
+  "level": "40",
+  "location": "Coerthas Central Highlands(X:12.7,Y:16.5)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "Something troubles me about that wounded knight's account. He claims he fell chasing a figure in the darkness that he saw outside the eastern gate, yes? But the main road leads to the southwestern gate."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Since we've arrived in Whitebrim Front, I've seen no travelers arrive by the eastern gate. Moreover, he said he glimpsed a “silhouette illuminated by the light of the city,” which would imply that the inquisitor came from north of the eastern gate, not south."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But it cannot be so─that way lies naught but a deep chasm."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Assuming Ser Joellaut is not misremembering, the inquisitor's behavior that night makes absolutely no sense, at least to me. Mayhap retracing his steps will shed light on this mystery."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You found something, didn't you? Well, don't keep me waiting in suspense. Let's see it."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hmmm... Given the contents of this encyclical, I believe you have just made the acquaintance of the real Inquisitor Guillaime."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Newly come to Coerthas and murdered on the day of his arrival... Yes, it would have been a simple thing to assume his identity, for even if he were to behave oddly, who would dare question the wisdom of a papal appointment?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Still, while this is incontrovertible proof that the inquisitor is an impostor, we have yet to discern his true identity, or why he has decided to oppose us."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We must proceed quickly, Forename , before he learns that his deception has been discovered!"
+    }
+  ]
+}

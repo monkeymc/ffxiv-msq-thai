@@ -1,0 +1,72 @@
+{
+  "id": "shadow-of-darkness",
+  "wiki_path": "/wiki/Shadow_of_Darkness",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Shadow of Darkness",
+  "level": "24",
+  "location": "The Waking Sands(X:6.9,Y:6.1)",
+  "npc_start": "Minfilia",
+  "dialogues": [
+    {
+      "character": "Minfilia",
+      "text_en": "I am afraid there is no rest for the weary, Forename . We must delve further into the motivations of the masked man─the Ascian known as Lahabrea. This is an ideal moment to do so, while our hands are not bound dealing with another primal."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "At present, we know little and less about the Ascians─only that destruction follows in their wake."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I should not be surprised if these beings are behind the chaos that racks the realm. If my fears prove to be reality, we must do all in our power to stop them."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Earlier, I sent word to each Grand Company to solicit cooperation. The Immortal Flames responded to the effect that they have information on a potential sighting."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "This is intelligence that we can ill afford to ignore. Go speak with Flame Commander Swift at the Hall of Flames in Ul'dah to inquire further. How you go about the investigation thereafter, I leave wholly to your discretion."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "But whatever you do, never forget that we are dealing with the unknown. You cannot take too many precautions. Be safe, Forename ."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "To think that the Ascians have grown so brazen as to carry out their work in plain view..."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We must needs uncover their dark designs, that we might take measures against them. I am relying on you Forename ."
+    },
+    {
+      "character": "Swift",
+      "text_en": "The masked man? Ah, you are come on behalf of the Scions, of course. Yes, as we've already relayed to Lady Minfilia, there has been a sighting of this rogue near about eastern Thanalan."
+    },
+    {
+      "character": "Swift",
+      "text_en": "A Brass Blade stationed at Highbridge described him in detail when he alerted us to suspicious activity. I would point you to the witness, but I'm afraid he died not two days ago, slain by a marauding horde of Qiqirn. Fate can be a cruel mistress."
+    },
+    {
+      "character": "Swift",
+      "text_en": "But do not be too quick to despair. Being situated on a trade route, Highbridge sees its fair share of travelers. Folk are always coming and going, and some among them may well have caught a glimpse of your target."
+    },
+    {
+      "character": "Swift",
+      "text_en": "You could do worse than to speak with a merchant named Hihibaru. The fellow's always starved for customers, and he'd no doubt welcome your attention, whether or not you have coin or the mind to spend it."
+    },
+    {
+      "character": "Hihibaru",
+      "text_en": "Welcome to Highbridge, adventurer! Whatever you seek, I, Hihibaru, can provide it. ...Probably!"
+    },
+    {
+      "character": "Hihibaru",
+      "text_en": "You're after a masked man? Hmmm, I'm not sure I have one of those in stock..."
+    },
+    {
+      "character": "Hihibaru",
+      "text_en": "Ohhh, you're after a masked man! Why didn't you say so sooner? Such an individual might have featured in one of the many rumors I've heard. If you linger awhile, mayhap you'll learn a thing or two, eh?"
+    }
+  ]
+}

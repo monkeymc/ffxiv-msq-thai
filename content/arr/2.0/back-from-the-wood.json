@@ -1,0 +1,336 @@
+{
+  "id": "back-from-the-wood",
+  "wiki_path": "/wiki/Back_from_the_Wood_(Quest)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Back from the Wood",
+  "level": "24",
+  "location": "New Gridania(X:9.7,Y:11.1)",
+  "npc_start": "Vorsaile Heuloix",
+  "dialogues": [
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "The sylphic folk have long been friends to Gridania. The mere thought of being at war with them pained the Elder Seedseer to no end."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "But owing to your efforts, she will be able to rest easier. Being the benevolent soul that she is, my lady will surely try to find a way to reverse the tempering process."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Once again, I thank you. Had the Scions of the Seventh Dawn not offered to mediate between our peoples, suspicion and doubt may well have led us into needless conflict. Pray pass on my regards to Lady Minfilia."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "...Hello? Hello, Forename ? Can you hear me? It is I, Minfilia."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Yda and Papalymo returned some little while ago. And they wasted no time in regaling me with the tale of your exploits."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Thanks in large part to you, the name of one primal may be struck from our list of enemies, and the Gridanians may turn their attention to more pressing matters. Well done!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Yet the end of one tale is but the start of another. Pray return to the Waking Sands at your earliest convenience. I would apprise you of the present situation in person."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Well, if it isn't my favorite adventurer! Welcome back, Forename !"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Lady Minfilia awaits you within the solar. Please enter at your leisure."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I am given to understand that the matter of Ramuh has finally been resolved."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Hm. I fear “resolved” bespeaks a permanence we cannot rightly claim. Yet I am well satisfied that the Lord of Levin will not trouble us in the foreseeable future."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Your satisfaction is assurance enough for me."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "How fares the investigation?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well enough. Thancred is sparing no effort."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "They are many and one, just as you suspected. Their purpose, however, eludes us still."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I see."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Ah, I have been meaning to ask, but is Alisaie quite well? I feel as if I have scarcely seen her in recent days."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Oh, you haven't─and nor have I, alas. Alisaie has chosen to walk her own path─stubborn girl─but you may be assured that our destination remains the same."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And on that note, I take my leave of you. I trust the Baldesion report will serve you well."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I take it we can proceed as discussed?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Why do you ask? You scarce need my permission to act."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "It is good to see you again, Forename !"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I have been looking forward to congratulating you on your triumph in the Twelveswood. Owing to your efforts, conflict has been averted. Truly, you have done the Scions proud."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "With that, we can strike Ramuh from the list."
+    },
+    {
+      "character": "Yda",
+      "text_en": "So who's next? The Sahagin and Leviathan?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "The Lord of the Whorl has not answered his minions' call of late, nor is he expected to do so in the near future."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "While the Sahagin remain as aggressive as ever, they lack the quantity of crystals required to call forth their god. As with the sylphs, we can leave them to their own devices...for a time, at least."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "“For a time” bears repeating. We can ill afford to fall complacent."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "It is as Y'shtola says. Unless we know the minds of the beast tribes, we cannot predict with any certainty when next a primal will return to plague the land."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "This being the case, we must proceed with as much haste as prudence allows."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Any word on Titan?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The Maelstrom keeps the kobolds under constant observation."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We shall hear from them ere long, you may depend upon it."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Indeed. So, then─of all the known primals that have been active in recent times, we are left with..."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Gridania! Wait, I meant Garuda ─who is the primal of the Ixal who live near Gridania. Yes, that's what I meant."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "So many malms to cover... Would that there were a more efficient way to conduct our surveys."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Were he still with us, we should not long have wanted for a more practicable solution..."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "She's not wrong there... <sigh> Where in the world are you, Chief?"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "...But one sure step at a time!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Henceforth, the Order of the Twin Adder will handle all matters pertaining to the sylphs, under the sage guidance of the Seedseers."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I bid you all enjoy a moment's respite. You have earned it!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Is there something else, Forename ?"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Beg pardon? A man named Lahabrea, sporting a red mask and robed in black...? Twelve preserve..."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Prior to the Calamity, the Ascians took great pains to remain hidden... Why would they choose to cast off their veil of secrecy now? Gods, this bodes ill..."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We must take advantage of the present lull in primal hostilities and investigate this Lahabrea─learn all we can of him and his designs. I dread to thi─"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "EEEEEEK!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Tataru!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "A sylph...in Thanalan?"
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "At long last, this one finds walking one Forename !"
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "This one is most dependable of these ones! Is sent by elder one Frixio to help walking ones!"
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "This one is called Noraxia. This one comes as a friend. Let these ones be friends!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "P-Pleasure to meet you...Noraxia."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "...Ah, Forename . Pray do not concern yourself with my welfare. My current investigation has yielded some curious results, and at present I am pondering how best to proceed."
+    },
+    {
+      "character": "Bremondt",
+      "text_en": "Wait a minute. I know you—the carriage into Gridania, right? It's me, Bredmondt! How the hell did you end up here, lad / lass ? Ah, never mind—you can tell me later. I've got to ask your somethin' first. This might sound strange, but you haven't by chance seen a fella what looks exactly like me? I'm lookin' for my twin brothers, see, an' I heard they might've come through here."
+    },
+    {
+      "character": "Bremondt",
+      "text_en": "<sigh> They could be dead, for all I know. Least it feels like I've been chasin' ghosts for an eternity now."
+    },
+    {
+      "character": "Bremondt",
+      "text_en": "Excuse me, lad. This might sound strange, but you haven't by chance seen a fella what looks exactly like me? I'm lookin' for my twin brothers, see, an' I heard they might've come through here."
+    },
+    {
+      "character": "Bremondt",
+      "text_en": "<sigh> They could be dead, for all I know. Least it feels like I've been chasin' ghosts for an eternity now."
+    },
+    {
+      "character": "Clive",
+      "text_en": "Greetings, Scion. I come on behalf of the Students of Baldesion. You may address me as Clive."
+    },
+    {
+      "character": "Clive",
+      "text_en": "...Is there some reason you are still here? Please, carry on. I am not here to see you."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "People in masks cannot be trusted? But Biggs and I wear masks all the time when welding!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "<sigh> If only Master Garlond were still with us..."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "He was a brilliant man, full of life and purpose. Kind and generous, he taught us everything we know about engineering. Though believe me, he could also be a very hard person to please."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "He would force us to completely rebuild devices if even a single flaw was discovered. I can only imagine what he'd say if he saw the Tiny Bronco ..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Knowest thou the import of the broken staff within the solar? It fell from the grasp of Archon Louisoix, the man who, in his abiding love for all Eorzeans, shielded us against the storm of the Calamity."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The stars wheel across the heavens, and the skies brighten once more. The survivors gather, and ignite a fiery dawn to burn away the glowering shroud. Ah, but destiny, thou art beautiful..."
+    },
+    {
+      "character": "Una Tayuun",
+      "text_en": "I'm startin' to wonder if it's worth the hassle to prove who we was."
+    },
+    {
+      "character": "Una Tayuun",
+      "text_en": "I mean, maybe some folk would say, \"Good on ye, mate, thanks for fightin' to save Eorzea!\" an' whatnot. But I reckon most would ask what we've done for 'em lately, if not spit in our faces for allowin' Bahamut to blow up half the godsdamned world..."
+    },
+    {
+      "character": "Haribehrt",
+      "text_en": "There are two types of Ala Mhigans—fools who wish to fight back but know not how, and cowards who've chosen to run from their worries."
+    },
+    {
+      "character": "Haribehrt",
+      "text_en": "The young man over there is a striking example of the former. Me? I'm the latter, or couldn't you tell?"
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "Walking ones from Ul'dah have not seen these ones before—this one knows. Still, must walking ones make such screaming sounds when seeing this one's face? This one cannot get a wink of rest!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Look, Noraxia, I realize that this makes no sense to you, but you must try to be more discreet. Years ago, a law was enacted in Ul'dah whereby— <sigh> Please just trust me and stay out of sight..."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Noraxia and I both wear a mask! We're going to get along famously, I just know it!"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "I'm to meet with the Antecedent soon to discuss a matter of great import. A'aba thinks it's about my first official mission. I suppose it would be good if it was, yes? I mean, I'm not sure if I'm ready, but still..."
+    },
+    {
+      "character": "A'aba Tia",
+      "text_en": "A masked man? I vaguely recall some Amalj'aa rantin' about somethin' like that in the middle of a skirmish. 'Course, I wasn't listenin' too closely, on account of the fact their friends were tryin' to kill me."
+    },
+    {
+      "character": "A'aba Tia",
+      "text_en": "I don't mean to waste yer time, friend, but that's the only thing what comes to mind."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As you have doubtless witnessed in your travels, the lands of Eorzea are gasping under the pall of a suffocating darkness."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I must wonder if it is this darkness that invites disaster, or simply that disaster has left such gloom in its wake. One thing is for certain: now is not the time to relax our vigilance."
+    },
+    {
+      "character": "Liavinne",
+      "text_en": "In recent days, I've resumed my training. Idle hands make for idle minds, and painful memories are all too quick to resurface."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Yes, Tataru is as ready to express her fright as she is to express...everything else! Not all of us are forged of the same steel as you, I'm afraid."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "But it takes all kinds to make a family, and it pleases me to no end to see ours continue to grow. One by one, the people of Eorzea are beginning to unite, Forename , drawn to the hope that shines within you."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Yet a darkness threatens to engulf this light. Never have I doubted the Ascians' presence, but that they have grown so brazen as to carry out their work in plain sight fills me with a sense of deep foreboding."
+    }
+  ]
+}

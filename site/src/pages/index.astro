@@ -1,0 +1,38 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getAllQuests } from '../lib/quests';
+
+const quests = getAllQuests();
+const byContributor = quests.filter(q => q.source === 'contributor').length;
+const byAi = quests.filter(q => q.source === 'ai').length;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<Layout title="หน้าหลัก">
+  <div class="hero">
+    <h1>FFXIV MSQ ภาษาไทย</h1>
+    <p class="subtitle">
+      บทสนทนา Main Scenario Quest จาก A Realm Reborn<br />
+      แปลเป็นภาษาไทยสำหรับผู้เล่นที่ยังไม่ถนัดภาษาอังกฤษ
+    </p>
+    <a href={`${base}/quests/`} class="cta">อ่านสารบัญ Quest →</a>
+
+    <div class="info-cards">
+      <div class="info-card">
+        <h3>Quest ทั้งหมด</h3>
+        <p>{quests.length}<small>Seventh Umbral Era MSQ</small></p>
+      </div>
+      <div class="info-card">
+        <h3>แปลโดยชุมชน</h3>
+        <p>{byContributor}<small>quests</small></p>
+      </div>
+      <div class="info-card">
+        <h3>แปลโดย AI</h3>
+        <p>{byAi}<small>รอ review จากชุมชน</small></p>
+      </div>
+      <div class="info-card">
+        <h3>วิธีใช้</h3>
+        <p style="font-size:0.88rem;font-weight:400;color:var(--text-dim)">เลือก quest จากสารบัญ<small>กด Next/Back เพื่อเดินเรื่อง</small></p>
+      </div>
+    </div>
+  </div>
+</Layout>

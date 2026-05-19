@@ -1,0 +1,48 @@
+{
+  "id": "surveying-the-damage",
+  "wiki_path": "/wiki/Surveying_the_Damage",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Surveying the Damage",
+  "level": "8",
+  "location": "Central Shroud(X:25.5,Y:19.3)",
+  "npc_start": "Monranguin",
+  "dialogues": [
+    {
+      "character": "Monranguin",
+      "text_en": "Such an embarrassing turn of events... I sent a recruit from the Bannock on a surveying expedition only for the craven to turn tail and flee at the first sign of trouble."
+    },
+    {
+      "character": "Monranguin",
+      "text_en": "This is not how we treat requests from the conjurers! And as if such a poor showing weren't bad enough, the lily-livered half-wit left behind the surveying equipment provided by Hearer Pauline herself!"
+    },
+    {
+      "character": "Monranguin",
+      "text_en": "While I attempt to instill some backbone into this so-called “soldier,” would you mind recovering the survey gear and returning it to Hearer Pauline at Gabineaux's Bower ?"
+    },
+    {
+      "character": "Monranguin",
+      "text_en": "According to my recruit's tale of woe, there should be a set of survey records, a surveyor's rope, and two boxes of surveyor's instruments strewn about the interior of a cave to the south of here. <sigh> It's a wonder the damn fool didn't lose his boots... Ahem. Matron watch over you."
+    },
+    {
+      "character": "Pauline",
+      "text_en": "Yes, may I assist you with some matter?"
+    },
+    {
+      "character": "Pauline",
+      "text_en": "Oh? But this is the equipment I left with the soldiers of the Bannock..."
+    },
+    {
+      "character": "Pauline",
+      "text_en": "Fled at the first sign of danger, you say? I see... Well, all is not lost: it appears the recruit managed to complete the surveying assignment. The records are actually quite detailed."
+    },
+    {
+      "character": "Pauline",
+      "text_en": "With the changes wrought by the Calamity , I thought it wise to send the Order of the Twin Adder on a number of expeditions to map the region's topography. As fortune would have it, the officers saw these tasks as an excellent opportunity to train inexperienced soldiers."
+    },
+    {
+      "character": "Pauline",
+      "text_en": "We can no longer rely on our past knowledge of the Twelveswood . If we are to survive these troubled times, we must reacquaint ourselves with our surroundings, that we may better discern the threats we face. Stay vigilant, adventurer."
+    }
+  ]
+}

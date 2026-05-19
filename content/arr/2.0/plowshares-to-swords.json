@@ -1,0 +1,48 @@
+{
+  "id": "plowshares-to-swords",
+  "wiki_path": "/wiki/Plowshares_to_Swords",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Plowshares to Swords",
+  "level": "9",
+  "location": "Middle La Noscea(X:21.4,Y:15.3)",
+  "npc_start": "Pfrewahl",
+  "dialogues": [
+    {
+      "character": "Pfrewahl",
+      "text_en": "Confounded pirates! They know nothin' of tillin', only killin'! Stealin' our shovels to melt and forge into axes, of all things."
+    },
+    {
+      "character": "Pfrewahl",
+      "text_en": "They're bitin' the hand that feeds 'em, the mangy mongrels. I'd love to teach those curs a lesson in obedience myself, if I hadn't sworn to Staelwyrn that I wouldn't fight no more."
+    },
+    {
+      "character": "Pfrewahl",
+      "text_en": "So I need you to bring back our farm tools, and make sure those dogs reap what they've sown!"
+    },
+    {
+      "character": "Pfrewahl",
+      "text_en": "I wonder what those sea dogs will try an' steal when there's no harvest!"
+    },
+    {
+      "character": "Pfrewahl",
+      "text_en": "Ah, good to see the tools back, and in serviceable condition. Which will be more than we can say of Sevrin when we get our hands on him. The wretch likely had a role in the theft."
+    },
+    {
+      "character": "Pfrewahl",
+      "text_en": "Spied him meetin' the pirates in secret, I did. I couldn't care less if the wastrel won't work, but when he consorts with cutpurses that take our tools away, he's crossed the line!"
+    },
+    {
+      "character": "Pfrewahl",
+      "text_en": "Staelwyrn ought to know what sort of scalawag he's dealing with. Take word to him, would you?"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Pirates makin' off with our tools? Pfrewahl did well not to take matters into his own hands. Last thing I need is blood on my crops."
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "But I'll be damned if Sevrin thinks he can take us for fools. His treachery won't go unpunished."
+    }
+  ]
+}

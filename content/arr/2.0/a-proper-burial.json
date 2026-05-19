@@ -1,0 +1,108 @@
+{
+  "id": "a-proper-burial",
+  "wiki_path": "/wiki/A_Proper_Burial",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "A Proper Burial",
+  "level": "18",
+  "location": "Eastern Thanalan(X:13.9,Y:23.6)",
+  "npc_start": "Isembard",
+  "dialogues": [
+    {
+      "character": "Isembard",
+      "text_en": "If we would know what the commonfolk speak of to their gods, we've no better place to ask than at the Church of Saint Adama Landama. It is a small and humble church, found to the northwest of here."
+    },
+    {
+      "character": "Isembard",
+      "text_en": "And so long as you are headed there...might I ask you to deliver this embalmed corpse? A morbid request, I grant you, but it must be borne to burial, and I trust none more than you to see it done."
+    },
+    {
+      "character": "Isembard",
+      "text_en": "Seek out a man named Marques─he tends the graves of the lichyard. He will tell you where the body is to be interred."
+    },
+    {
+      "character": "Marques",
+      "text_en": "I am Marques, yes. A body? Of course... There...there have been...so many bodies of late..."
+    },
+    {
+      "character": "Marques",
+      "text_en": "I... I apologize, sir / miss . If you seek a place of burial, then there is an empty grave atop the ridge. Take the path and lay him to rest there."
+    },
+    {
+      "character": "Marques",
+      "text_en": "Bury him well and give his soul peace. Then we will talk."
+    },
+    {
+      "character": "Marques",
+      "text_en": "Did you bury him? You must pack the earth tight, or they will come... The mongrels will come and defile the body..."
+    },
+    {
+      "character": "Marques",
+      "text_en": "May they all walk in Thal's realm... ...What? Missing people? I...I'm afraid I cannot help you."
+    },
+    {
+      "character": "Marques",
+      "text_en": "But maybe Sister Ourcen can. She has been kind to me. Everyone...everyone has been so kind."
+    },
+    {
+      "character": "Marques",
+      "text_en": "I don't know why, though. I... Pardon me. You will find Sister Ourcen within the church walls."
+    },
+    {
+      "character": "Marques",
+      "text_en": "It's all wrong. I...I should have..."
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "I hear you have done us the service of burying a fallen soul. Please accept our gratitude, and extend it to Isembard when next you see him."
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "Hm? You seek knowledge of missing Drybone inhabitants? It is true I am closer to the people than any other of the Order. I confide in them, and they in me. When they wish to speak to their keeper, Thal, I am the medium through which they do."
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "Should I learn anything pertinent, I will be sure to share the information with you. <sigh> I only wish Marques would be more helpful in the matter. I pray he did nothing to offend. He saw...terrible things during the Calamity... His scars run deep. Indeed, he seems to now prefer the company of the dead over the living."
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "While tragic, I fear such behavior ill befits the church. I received word not long ago that one of our recent visitors─a man called Thancred, I believe─took offense at his conduct. I must have words with Marques, and soon."
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "Please extend my gratitude to Isembard on behalf of the Order."
+    },
+    {
+      "character": "Isembard",
+      "text_en": "Thank you, Forename . A burial is no easy thing─even when the departed is a stranger. Were you able to learn aught of the missing commonfolk?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You've been keeping yourself rather busy of late, haven't you, Forename ?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A pleasure, my dear Isembard. The name is Thancred, and I share a passion with you and our mutual friend here for learning what has become of these missing persons and why."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I, too, spoke with Ungust─more times than I care to count. There seems to be some truth to this notion of the commonfolk speaking their secrets only to those in service to the gods."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Prostration, prayer, penance. Abject deeds done behind closed doors, away from prying eyes. Who better to take the pious unawares than she who takes confession─the good Sister Ourcen herself?"
+    },
+    {
+      "character": "Isembard",
+      "text_en": "Ourcen!? She wouldn't... She couldn't !"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Even the most beautiful roses have thorns, my friend. And you would be wise to keep an eye to this rose."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Still, the lichkeeper Marques... I'd swear to the Twelve I've seen that face elsewhere before..."
+    }
+  ]
+}

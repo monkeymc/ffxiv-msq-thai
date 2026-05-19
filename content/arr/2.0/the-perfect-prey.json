@@ -1,0 +1,68 @@
+{
+  "id": "the-perfect-prey",
+  "wiki_path": "/wiki/The_Perfect_Prey",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "The Perfect Prey",
+  "level": "31",
+  "location": "Southern Thanalan(X:14.3,Y:29.9)",
+  "npc_start": "U'odh Nunh",
+  "dialogues": [
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Perrrsistent bugger. Very well, let's have a look at you."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "...You've seen your share of battle, there's no mistaking that. And you did manage to obtain that adamantoise egg. However, that was naught more than a display of brrrute force and blind courage."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "The nunh I once fought also believed that his strrrength would save him. He was wrong, and now I am nunh."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Many years ago, I joined the Company of Heroes to hone my skills, instead of challenging my predecessor before I was ready. Even when I was young, I understood that victorrry goes to the patient, the cunning, the pragmatic."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "That is why I claimed my position, and it is why I still hold it. And it is why I will not help an unprrroven whelp."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "The Children of the Sands do not offer aid to strangers. To do so is a sign of weakness. However, if you were rrrecognized as a skilled hunter in your own right, it would be permissible to assist you."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Across the desert to the east lies an Amalj'aa encampment. There dwells a warrior renowned both for his strrrength and his guile. To even face this Amalj'aa in battle, you must first find a way to lure him away from the encampment."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "This will be your test: to drrraw out and defeat the veteran. For this, I will offer you no advice─only this worn spear."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Why, you ask? You will have to solve that rrriddle yourself. Now go─slay this old warrior and bring to me his necklace."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Tell me, adventurerrr: is our old nemesis dead?"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "'Tis a fine necklace, as befits a veteran of countless battles. It will make an excellent trophy."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "The spear? It belonged to one of his brrrothers. I knew when he spied it from afar, he would be unable to rrresist venturing outside the encampment to see for himself."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Did you discern my intent, or was it dumb luck, I wonder..."
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Heh heh heh! Either way, you imprrress me, adventurer! I shall tell you of the ingredient you seek."
+    }
+  ]
+}

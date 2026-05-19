@@ -1,0 +1,80 @@
+{
+  "id": "he-who-waited-behind",
+  "wiki_path": "/wiki/He_Who_Waited_Behind",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "He Who Waited Behind",
+  "level": "36",
+  "location": "Eastern Thanalan(X:11.2,Y:21.3)",
+  "npc_start": "Iliud",
+  "dialogues": [
+    {
+      "character": "Iliud",
+      "text_en": "What a curious twist of fate that Master Cid Garlond would at last be found within our church. It defies imagination..."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "Beg your pardon, Forename . You wish to find his airship, yes?"
+    },
+    {
+      "character": "Iliud",
+      "text_en": "I know not how much truth there is to it, but there is a tale known as, “The Final Flight of the Enterprise ,” which grew popular in the wake of the Calamity─much like “The Great Goobbue Wall of Ul'dah.” It states that the Enterprise flew northwest from Gridania towards Coerthas."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "If true, the airship would have passed through the North Shroud, likely over Fallgourd Float─the closest settlement to Coerthas. Mayhap the Serpents stationed there have records of the events that transpired that day."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "I had hoped you might rest from your journeys for a time, but I see that the world still has need of you and the Scions. Pray look after yourself and Cid, Forename ."
+    },
+    {
+      "character": "Iliud",
+      "text_en": "You and Cid shall ever be in my thoughts, Forename . Return whenever you require respite."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Whilst you were catering to the Company of Buffoons' every whim, I was gathering information on our feathered foe. As a result, I was not present when the Garleans came."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I suppose we should be grateful for our good fortune—though it matters little should Garuda grow powerful enough to bring Eorzea to heel."
+    },
+    {
+      "character": "Cid",
+      "text_en": "The Enterprise ... I...I have heard that name before, but where?"
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "Is there aught I can assist you with, sir / miss ?"
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "The Enterprise ? You speak of Master Garlond's ship, yes?"
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "Aye, I needn't refer to the records. I know that the airship was sighted overhead five years ago, clearly bound for Coerthas. What became of it after that I cannot say."
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "If you wish to know more, pray speak with Vortefaurt at Florentel's Spire. He was on duty that day and saw it with his own eyes."
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "I am unsure what it is you hope to accomplish, though. Even should you locate the ship, would you not need a man of Master Garlond's caliber to fly it? I hear tell that the machinery is fiendishly complex..."
+    },
+    {
+      "character": "Vortefaurt",
+      "text_en": "You have come in search of Vortefaurt? Then well met, for you have found him."
+    },
+    {
+      "character": "Vortefaurt",
+      "text_en": "Indeed, I have served as a Wailer for many years, since before the great snows came to Coerthas. What exactly is this about?"
+    },
+    {
+      "character": "Vortefaurt",
+      "text_en": "Ahhh, the final flight of the Enterprise . I do indeed remember that day..."
+    }
+  ]
+}

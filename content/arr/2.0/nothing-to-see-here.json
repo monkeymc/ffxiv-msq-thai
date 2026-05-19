@@ -1,0 +1,92 @@
+{
+  "id": "nothing-to-see-here",
+  "wiki_path": "/wiki/Nothing_to_See_Here",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
+  "patch": "2.0",
+  "title_en": "Nothing to See Here",
+  "level": "5",
+  "location": "Central Thanalan(X:22.9,Y:27.8)",
+  "npc_start": "Papashan",
+  "dialogues": [
+    {
+      "character": "Papashan",
+      "text_en": "Since you've come all this way, perhaps you can perform an errand for me."
+    },
+    {
+      "character": "Papashan",
+      "text_en": "It just so happens a number of sentries have been sent to guard the area. A dispatch to the Dispatch Yard, as it were."
+    },
+    {
+      "character": "Papashan",
+      "text_en": "They have long been away from the shade and featherbeds of the city. The hot days and cold nights can play hells on the mind and body out here."
+    },
+    {
+      "character": "Papashan",
+      "text_en": "It isn't much, but go and give them these twilight pretzels, would you? I find comfort food always helps when I feel like killing myself."
+    },
+    {
+      "character": "Serious Sultansworn",
+      "text_en": "Halt! Sir, I'm going to have to ask you to put the pretzel on the ground and place your hands above your head!"
+    },
+    {
+      "character": "Serious Sultansworn",
+      "text_en": "State your name and business! A twilight pretzel from Papashan? By the gods, forgive me! You could say this new post has my nerves in a...twist."
+    },
+    {
+      "character": "Serious Sultansworn",
+      "text_en": "I'm...I'm terribly sorry for that. Ahem, yes, well, you may rest assured that the Dispatch Yard is safe so long as I stand watch."
+    },
+    {
+      "character": "Serious Sultansworn",
+      "text_en": "Please give Papashan my thanks, and tell him that I only wish I could repay the favor..."
+    },
+    {
+      "character": "Serious Sultansworn",
+      "text_en": "Nothing to report, here. Peace reigns another day in central Thanalan."
+    },
+    {
+      "character": "Stern Sultansworn",
+      "text_en": "Western front, clear! Eastern front, clear!"
+    },
+    {
+      "character": "Stern Sultansworn",
+      "text_en": "For me? From Papashan? A twilight pretzel... My favorite! How did he know!?"
+    },
+    {
+      "character": "Stern Sultansworn",
+      "text_en": "Can't fight on an empty stomach, now, can I? Actually...I can't fight on any stomach. I suppose you could say I have no stomach...for fighting."
+    },
+    {
+      "character": "Stern Sultansworn",
+      "text_en": "Brigands beware! The Sultansworn are here to serve and protect!"
+    },
+    {
+      "character": "Servile Sultansworn",
+      "text_en": "Twelve save me. Scorching days... Freezing nights... This post will be the end of me."
+    },
+    {
+      "character": "Servile Sultansworn",
+      "text_en": "A twilight pretzel? Don't mind if I do!"
+    },
+    {
+      "character": "Servile Sultansworn",
+      "text_en": "Ahhh, now that's a refreshing godsdamned pretzel! I feel reborn!"
+    },
+    {
+      "character": "Servile Sultansworn",
+      "text_en": "<sigh> Much as I hate to say it, though, the pretzel does nothing to change the fact that these hot days are bloody intolerable..."
+    },
+    {
+      "character": "Papashan",
+      "text_en": "You've returned─and with a deal fewer pretzels, I see! Tell me, how fare our Sultansworn sentries? Did they have anything to report, anything at all!?"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "What? Nothing? Are you sure? I...oh, oh dear."
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Take this for your troubles, then. And stay a moment─there is more I would ask of you."
+    }
+  ]
+}

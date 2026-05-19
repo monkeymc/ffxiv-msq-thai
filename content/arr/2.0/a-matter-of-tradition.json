@@ -1,0 +1,84 @@
+{
+  "id": "a-matter-of-tradition",
+  "wiki_path": "/wiki/A_Matter_of_Tradition",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "A Matter of Tradition",
+  "level": "14",
+  "location": "Heart of the Sworn(X:6.1,Y:6.0)",
+  "npc_start": "Owyne",
+  "dialogues": [
+    {
+      "character": "Owyne",
+      "text_en": "By the Twelve, Forename ! For an adventurer to receive a personal invitation from Her Grace is unprecedented!"
+    },
+    {
+      "character": "Owyne",
+      "text_en": "Seats at these banquets are offered only to the most distinguished individuals. You will be dining with some of the most influential people in Ul'dah."
+    },
+    {
+      "character": "Owyne",
+      "text_en": "There are, of course, certain protocols that must be observed."
+    },
+    {
+      "character": "Owyne",
+      "text_en": "...But I am no authority on them. Fear not, however─Mistress Momodi has long been responsible for familiarizing foreign guests with our customs."
+    },
+    {
+      "character": "Owyne",
+      "text_en": "Pray return to the Quicksand and speak with her. She will tell you all you need know."
+    },
+    {
+      "character": "Owyne",
+      "text_en": "My fellow Sultansworn and I must see to our own preparations. In the meantime, you should speak with Mistress Momodi. She will explain to you the protocols that must be observed by all in attendance."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Welcome back, Forename , and congratulations on your invite to the big soirée!"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "To be honest, I never imagined I'd be explainin' these procedures to you. It's usually only foreign dignitaries who get to hear me prattle on and on about royal traditions. Anyroad, I know you're a busy man / woman , so I'll keep it short and sweet."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "In accordance with ancient custom, all guests to this banquet are required to wear a pair of ceremonial earrin's, made 'specially for the occasion. They're meant to symbolize─ Actually, forget about that. This was meant to be the short version. Ahem. Bein' of a design unique to the occasion, the earrin's serve as a security measure. The Sultansworn won't let you near the hall without 'em."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Your set should be ready and waitin' for you at the Goldsmiths' Guild. Mistress Serendipity is expectin' you, so you'll want to head down there now."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Once you've got them, bring them back here and we'll continue."
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "Greetings! Is there something I can help you with?"
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "Ah, Forename ! Your earrings are right here. I crafted them myself, I'll have you know. I think you'll be very pleased!"
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "In case Mistress Momodi didn't warn you, the box is locked, and I am not permitted to give you the key. It's a final safeguard, you see─only designated individuals are authorized to distribute the earrings to guests. In this instance, the person in question is none other than Mistress Momodi, so you will need to ask her to open the box on your behalf. Pardon the inconvenience, but the Sultansworn take Her Grace's safety very seriously."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Picked up your earrin's yet, Forename ?"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Let me just... <gasp> Well, now, looks like the guildmaster outdid herself with this pair!"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "You'd best take good care of these earrin's! If they fell into the wrong hands, gods only know what might happen!"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Now then, I hope you're feelin' sociable, Forename , 'cause you're about to hobnob with Ul'dah's elite! Let me know when you're ready to head to the banquet."
+    }
+  ]
+}

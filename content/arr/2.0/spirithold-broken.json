@@ -1,0 +1,392 @@
+{
+  "id": "spirithold-broken",
+  "wiki_path": "/wiki/Spirithold_Broken",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Spirithold Broken",
+  "level": "9",
+  "location": "Central Shroud(X:23,Y:19)",
+  "npc_start": "Galfrid",
+  "dialogues": [
+    {
+      "character": "Galfrid",
+      "text_en": "Adventurer! Thank the gods you've come!"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "We have a potential crisis on our hands, and I would appreciate your assistance. Will you hear me out?"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Listen well, for we haven't much time."
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "To the southeast of here lies a dungeon known as Spirithold. It was all but destroyed during the Calamity."
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Desiring to offer the ruins back to the forest, a Hearer ventured inside to carry out the Rite of Returning."
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Alas, it would seem something has gone awry. Word arrived just moments ago that the Hearer and his guards have been attacked by a towering shadow. Aye, you heard me true - a shadow ."
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "On any other day, I would dispatch my best Quivermen to provide support, but I sent them to repel an Ixali incursion in the West Shroud nary a bell ago."
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "The timing of these events cannot be mere coincidence. I fear the Ixal somehow caught wind of our plans, and are attempting to disrupt the rite in an effort to weaken the bond between man and elemental."
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "They must not be allowed to succeed. And so I bid you go to Spirithold and do whatever is necessary to resolve the situation. Please, say you will help us."
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "I knew you would not let me down. You will have all the support I can muster."
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Now, we are racing against time, so you had best make haste."
+    },
+    {
+      "character": "Alestan",
+      "text_en": "Who goes there? An adventurer, is it?"
+    },
+    {
+      "character": "Alestan",
+      "text_en": "Here at Instructor Galfrid's request, you say? Thank the Matron!"
+    },
+    {
+      "character": "Alestan",
+      "text_en": "Doubtless you already know this, but a towering shadow manifested without warning and attacked the Hearer in the midst of the rite."
+    },
+    {
+      "character": "Alestan",
+      "text_en": "Most of his party has been successfully evacuated, but five remain unaccounted for."
+    },
+    {
+      "character": "Alestan",
+      "text_en": "Please find them, and see them out of harm's way."
+    },
+    {
+      "character": "Worried Wood Wailer",
+      "text_en": "<groan> A shadow... towering over me... What in the Twelve's good grace?"
+    },
+    {
+      "character": "Worried Wood Wailer",
+      "text_en": "A-an adventurer!? Please, you must save the Hearer!"
+    },
+    {
+      "character": "Witless Wood Wailer",
+      "text_en": "Galfrid... sent you?"
+    },
+    {
+      "character": "Witless Wood Wailer",
+      "text_en": "I am no longer... of use here. Pray help the Hearer... in my stead."
+    },
+    {
+      "character": "Overwrought Wood Wailer",
+      "text_en": "Away, vile fiend! Away, I say! I defy you! I defy yooouuu !!! ...Uh? ...Oh! An adventurer!"
+    },
+    {
+      "character": "Overwrought Wood Wailer",
+      "text_en": "W-We were ambushed - ambushed in the midst of the ritual! And then... And then... I'm not sure what happened."
+    },
+    {
+      "character": "Cool-headed Conjurer",
+      "text_en": "...You were sent to help? I fear you are too late - the ritual has failed."
+    },
+    {
+      "character": "Cool-headed Conjurer",
+      "text_en": "I must needs return to Gridania. The Seedseers must know of this."
+    },
+    {
+      "character": "Confused Conjurer",
+      "text_en": "That thing was no elemental, but a being born of darkness."
+    },
+    {
+      "character": "Confused Conjurer",
+      "text_en": "The Hearer languishes alone in the depths. You must help him!"
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "O mournful voice of creation! Grant ye this humble stone a soul, that it may wake to life!"
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "That the golem could be vanquished..."
+    },
+    {
+      "character": "Masked Mage",
+      "text_en": "That man / lady is no ordinary adventurer."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Damnation! He has eluded us yet again!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Oh, fancy meeting you here! How are things?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Hm? Whatever are you-"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Shhh! More birds! This makes it how many times today? Seven?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Their movements are beyond our fathoming."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Hmmm. Do you think maybe... they're trying to summon their primal?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "I hope not, for all our sakes. Yet we must be prepared for the worst."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Withered. The same fate has befallen Emerald Moss."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "It is as we feared: Dalamud's anomaly is affecting life in the Twelveswood."
+    },
+    {
+      "character": "Yda",
+      "text_en": "You mean the disturbance in the aetheric flow?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "The very same. The Garleans have a lot to answer for."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "The imbalance they have created is plunging the land into chaos, just as Louisoix forewarned."
+    },
+    {
+      "character": "Yda",
+      "text_en": "It's no wonder the primals have started appearing..."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Time is against us, but there is still hope for the land."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "We must hold fast to that hope and fight to the very last."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Agreed!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Waaah!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Ack! Stupid things..."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "These stupid things happen to be the very latest in Sharlayan innovation! Show some respect!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "But they're so uncomfortable and... and... ugly !"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "If you ask me, they're an improvement over that mask of yours."
+    },
+    {
+      "character": "Yda",
+      "text_en": "<sigh> Hard to believe it's already been five whole years, isn't it?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Already ? Five years is but a heartbeat in the life of the planet!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "I suppose you're right... Now that I think about it, the Twelveswood's barely recovered at all, and the Gridanians still have the same old problems."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Aye, along with some new ones. Just in case the Ixal and Garuda weren't troublesome enough, the sylphs had to go and invite Ramuh, didn't they?"
+    },
+    {
+      "character": "Yda",
+      "text_en": "...Do you ever think about those adventurers who fought alongside us? I do. And then five years seems like ages... I wonder what became of them."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Ah..."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Yda, look."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Hm?"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Golly! ...And this is what, exactly?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Yet another disturbance in the aether, and freshly manifested at that."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "It seems to be emanating from Lifemend Stump. We must hurry!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Are you all right? Your eyes glazed over for a while there."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "The good news is that the Hearer is unharmed. Somewhat dazed, yes, but whole of mind and body. The bad news... concerns everything else."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Lest you forget, the Twelveswood is the domain of the elementals; it is by their leave that man abides in the forest and avails himself of its bounty. The ground which the dungeon occupies is no different."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Having no more use for the dungeon, the Gridanians sent a Hearer to offer the place back to the elementals by way of the Rite of Returning, which is essentially an expression of gratitude."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Alas, he failed to complete the ritual for obvious reasons."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "While the poor soul cannot be blamed for this, the fact remains that unless the elementals are given their due, they may well consider it a slight. And the very last thing the Gridanians can afford to do in these uncertain times is risk alienating the Twelveswood's eternal guardians."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "But you have more than done your part. We shall see the Hearer to safety, and send for his peers to finish the rite."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "In the meantime, please make your way outside and report to Alestan."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Ah, but where are my manners?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "I am Papalymo, and the tactless woman beside me here is-"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Yda!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Papalymo and I are surveying the Twelveswood together!"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Pleased to meet you!"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Yda, give me a hand, would you?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Wait. There is something... familiar about you. Could it be that you are...?"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "N-Never mind. Doubtless my eyes are playing tricks. Till we meet again!"
+    },
+    {
+      "character": "Alestan",
+      "text_en": "All this happened inside Spirithold? Twelve preserve us..."
+    },
+    {
+      "character": "Alestan",
+      "text_en": "Who was that masked mage, and by what dark ambition is he driven? SO many things shrouded in mystery..."
+    },
+    {
+      "character": "Alestan",
+      "text_en": "Well, I shan't find any answers on my own. I must needs discuss this with Galfrid. The matter warrants a full investigation, if I am any judge, and that shall certainly be my recommendation."
+    },
+    {
+      "character": "Alestan",
+      "text_en": "Your courage has saved many lives this day, adventurer. For this you have my deepest gratitude."
+    },
+    {
+      "character": "Alestan",
+      "text_en": "Pray return to Gridania and seek out Miounne."
+    },
+    {
+      "character": "Alestan",
+      "text_en": "I understand she wishes to thank you for your efforts on our behalf."
+    },
+    {
+      "character": "Miounne",
+      "text_en": "Welcome back, Adventurer. A little bird tells me that the Hearer and his party owe you their lives."
+    },
+    {
+      "character": "Miounne",
+      "text_en": "A tale for the tavern if ever there were one! ...It is only a shame that I must ask you not to tell it - for the time being, at least. Do I make myself clear?"
+    },
+    {
+      "character": "Miounne",
+      "text_en": "Until the Hearers have made their will on the matter known, it would be best to avoid unsettling people with stories of walking statues."
+    },
+    {
+      "character": "Miounne",
+      "text_en": "Now then, you must have suitable recompense for your valiant service."
+    },
+    {
+      "character": "Miounne",
+      "text_en": "For the first half of your reward, I give you leave to make use of the accommodations here at the guild."
+    },
+    {
+      "character": "Miounne",
+      "text_en": "Arrangements have been made, so all you need do is speak with Antoinaut whenever you crave the comfort of a firm bed and a soft pillow."
+    },
+    {
+      "character": "Miounne",
+      "text_en": "For the second half of your reward, I offer you another path to fame and fortune: guildleves."
+    },
+    {
+      "character": "Miounne",
+      "text_en": "Guildleves are records of the various requests we receive from the citizenry. They outline all manner of tasks which ambitious young adventurers like you can elect to undertake."
+    },
+    {
+      "character": "Miounne",
+      "text_en": "Gontrant is our guildleve official, or \"levemete,\" here at the Carline Canopy. I have spoken with him regarding your knack for solving challenging problems, and he is eager to make your acquaintance."
+    },
+    {
+      "character": "Miounne",
+      "text_en": "By the way, have you perchance heard about the coming festival? It is truly a splendid occasion, looked forward to by young and old alike, and I heartily recommend that you take the time to enjoy."
+    },
+    {
+      "character": "Miounne",
+      "text_en": "Don't be too disappointed if the recent troubles cast a shadow over proceedings, however. I fear nothing short of the mysterious interloper's apprehension can prevent that..."
+    },
+    {
+      "character": "Miounne",
+      "text_en": "But we were talking about you, Adventurer. You have made Mother proud. I expect great things of you, young man / lady !"
+    }
+  ]
+}

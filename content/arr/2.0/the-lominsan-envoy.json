@@ -1,0 +1,664 @@
+{
+  "id": "the-lominsan-envoy",
+  "wiki_path": "/wiki/The_Lominsan_Envoy",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "The Lominsan Envoy",
+  "level": "15",
+  "location": "Command Room(X:3.5,Y:3.4)",
+  "npc_start": "Merlwyb",
+  "dialogues": [
+    {
+      "character": "Merlwyb",
+      "text_en": "The duty I have in mind for you requires some explanation. I do hope you have not made other plans. To business, then."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "I have penned a letter to each of my counterparts in the Eorzean Alliance."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "The Battle of Carteneau and the Calamity that followed claimed countless lives."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "It has been five years since those of us who were spared dragged ourselves from the ashes to look upon an Eorzea we scarcely knew... Five years, and yet the people still suffer."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Their lives are fraught with worry and hardship, and the Warriors of Light who might once have given them hope are gone."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Yet we must press on regardless. We will never truly do so, however, till we have faced our past."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "To that end, I am proposing that a memorial service be held in each of the city–states on the fifth anniversary of the Battle of Carteneau."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "These letters contain the details of said proposal."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "And I would have you deliver them to our allies as my personal envoy."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "You have proven yourself a staunch and able ally to Limsa, but that is not my only reason for choosing you. No. I choose you because you possess a quality which puts me in mind of history's champions. A quality I feared lost. Say that you will perform this duty."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "I knew you would not disappoint me."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "This task shall take you far from the borders of our nation, to the city–states of Gridania and Ul'dah."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "A grueling journey, to be sure...were you to travel by sea and land. But I mean to have you take to the skies."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "An airship pass, to be used at your discretion."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Airships bound for the nations of our allies leave from the landing connected to the Bridge. But before you depart, I suggest you trouble Baderon for a few pearls of wisdom regarding each of your destinations. The old bastard is nothing if not well traveled."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "'Tis a pity I cannot issue such passes with a freer hand, as I did in more peaceful times, when berths were not so limited. But in these times of war, every craft we commit to the clouds risks drawing the eye of the Empire, and every voyage must needs be born of necessity."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Lest you doubt, I consider your place well deserved."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Nor am I alone in that opinion. There were other parties who would see you granted the privilege of air travel."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Aye, Forename , your deeds do not go unnoticed."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Full many see great promise in you. But I have flattered you enough."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "On behalf of Limsa Lominsa and her people, I bid you go forth, adventurer."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Discover the realm for which so many have fought and died."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Wonder and danger await you in equal measure, but turn not from either. Only by braving the unknown will you achieve the greatness of which you are surely capable."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "The light of the Crystal guides you, and I wager that your destiny will be no small thing."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Back from yer meetin' with the Admiral, are ye?"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Personal bleedin' envoy!?"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "So ye'll be carryin' the word o' the Admiral 'erself to the leaders o' the Alliance!?"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Bugger me... I knew ye was goin' up in the world, but I didn't realize ye'd got that bloody 'igh!"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "I'm proud o' ye, lasslad! Thinkin' of 'ow far ye've come...why, 'tis enough to bring a tear to me eye! An' that ain't the ale talkin', neither─well, not just the ale, at any rate..."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Bless the Navigator fer steerin' ye my way."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "'Course, this is only the start! Now ye've got yer 'ands on an airship pass, the 'ole of Eorzea's laid out before ye, like a fair maid on a feather bed!"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "An' she's a big girl, too, with plenty of enticin' nooks an' crannies!"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "If ye think us Lominsans are characters, just wait till ye cross paths with the grim forest dwellers o' Gridania, or trade coins with the crafty merchants of Ul'dah."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "An' then there's the wild places where the beasties rule, an' no bugger with an onze o' sense sets foot..."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "But yer a 'venturer, so I wouldn't let a little thing like that 'old ye back."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "'Course, it ain't all explorin' an' excitement."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "There's an 'eap o' troubles what plagues every nation, see─'tain't just ours. I'm talkin' intrigue an' infightin', beastmen an' their godsdamned primals─aye, there's an ugly side to life, an' sooner or later, yer bound to walk into it."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "...But I'll wager there's bugger all out there as you can't 'andle. Summat tells me yer goin' to be just fine."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "The realm's 'ad it rough, 'tis true, but folk're beginnin' to recover from the beatin' the Calamity dealt 'em. Call me an 'opeless optimist, but it wouldn't take much to turn things 'round."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "'Tis the perfect time fer a 'venturer like yerself to get out there an' make a difference!"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "...Well, what are ye waitin' fer!?"
+    },
+    {
+      "character": "L'nophlo",
+      "text_en": "Greetings, sir / madam . This is the counter for passengers traveling to Gridania."
+    },
+    {
+      "character": "L'nophlo",
+      "text_en": "...Wait, aren't you that famous adventurer? It's Forename Surname , isn't it? I thought I recognized you! You are an inspiration to us all, sir / madam ! Highwind Skyways is at your disposal! Will you be traveling with us today?"
+    },
+    {
+      "character": "L'nophlo",
+      "text_en": "Take your time, sir / madam . I'll be glad to assist you when you're ready."
+    },
+    {
+      "character": "Airship Attendant",
+      "text_en": "Attention, all passengers: the airship bound for Gridania is about to depart. Please make your way to the boarding gate."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Good fortune to ye, Forename ."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "The day'll come when yer name means the same as “'ero” to the folk o' this realm."
+    },
+    {
+      "character": "Baderon",
+      "text_en": "May ye walk in the light o' the Crystal..."
+    },
+    {
+      "character": "???",
+      "text_en": "It has been fifteen years, but the bitter taste of defeat lingers still..."
+    },
+    {
+      "character": "???",
+      "text_en": "Fifteen years since the imperial fleet set course for Mor Dhona, led by the Agrius, mightiest of all vessels."
+    },
+    {
+      "character": "???",
+      "text_en": "Silvertear Lake lay ripe for the taking, and all of Eorzea would soon be ours..."
+    },
+    {
+      "character": "???",
+      "text_en": "...or so we believed."
+    },
+    {
+      "character": "???",
+      "text_en": "But an innumerable host of dragons met us that day, at the heart of which flew the great Midgardsormr."
+    },
+    {
+      "character": "???",
+      "text_en": "Though we succeeded in slaying that lord among wyrms, the dread serpent's defeat was bought at too high a price."
+    },
+    {
+      "character": "???",
+      "text_en": "Our invincible flagship was lost, and all hope of victory with her."
+    },
+    {
+      "character": "???",
+      "text_en": "So ended our glorious conquest."
+    },
+    {
+      "character": "???",
+      "text_en": "Eorzea... A blighted realm, riddled with false gods."
+    },
+    {
+      "character": "???",
+      "text_en": "Twice now it has eluded the Empire's grasp."
+    },
+    {
+      "character": "???",
+      "text_en": "For all the destruction it wrought, even Meteor, the Great Sin, failed to yield us control over it."
+    },
+    {
+      "character": "???",
+      "text_en": "And for this failure, the realm has sunk deeper into depravity."
+    },
+    {
+      "character": "???",
+      "text_en": "It is twisted beyond all reckoning—rotten night to the core."
+    },
+    {
+      "character": "???",
+      "text_en": "Yet it must be saved."
+    },
+    {
+      "character": "???",
+      "text_en": "Only Garlean rule can bring order to Eorzea. It falls to us to deliver the misguided masses from their ignorance."
+    },
+    {
+      "character": "All",
+      "text_en": "We are of one mind, Lord van Baelsar."
+    },
+    {
+      "character": "Announcement",
+      "text_en": "Senior engineers, please report to Magitek Research following scheduled inspections."
+    },
+    {
+      "character": "Midlander Engineer",
+      "text_en": "Hey. Is the legatus really planning to take another tilt at Eorzea?"
+    },
+    {
+      "character": "Highlander Engineer",
+      "text_en": "Eh!? What hole have you been hiding in? We're in the midst of preparing for a new campaign, and a huge one at that!"
+    },
+    {
+      "character": "Midlander Engineer",
+      "text_en": "But...I thought the Emperor had given up the western lands for lost after Carteneau. What could the legatus possibly hope to gain by acting alone?"
+    },
+    {
+      "character": "???",
+      "text_en": "I sense you harbor certain doubts over the wisdom of the legatus's plan."
+    },
+    {
+      "character": "Midlander Engineer",
+      "text_en": "M-My lord!"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Please, call me Nero. Tell me, where were you born?"
+    },
+    {
+      "character": "Highlander Engineer",
+      "text_en": "Othard, milord!"
+    },
+    {
+      "character": "Midlander Engineer",
+      "text_en": "Ala Mhigo, my lord!"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Ah, Codename Hummingway, I presume?"
+    },
+    {
+      "character": "Midlander Engineer",
+      "text_en": "I-I don't know what you—"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Silence. Your denials will not change your fate."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "I assure you—Frumentarium sees all."
+    },
+    {
+      "character": "Midlander Engineer",
+      "text_en": "Argh..."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Clean up this mess. And do not miss any, or I shall be most displeased."
+    },
+    {
+      "character": "Highlander Engineer",
+      "text_en": "A-At once, milord!"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Garlond... Soon you will be made to know the true power of magitek."
+    },
+    {
+      "character": "Arrivals Attendant",
+      "text_en": "Ah, you must be the envoy from Limsa Lominsa! Welcome to Gridania, my lord / lady . The Elder Seedseer awaits your arrival."
+    },
+    {
+      "character": "Arrivals Attendant",
+      "text_en": "Please let me know if you require any assistance."
+    },
+    {
+      "character": "Serpent Honor Guard",
+      "text_en": "Greetings, good sir / madam ."
+    },
+    {
+      "character": "Serpent Honor Guard",
+      "text_en": "You are the Lominsan envoy, are you not? I have received instructions to assist you."
+    },
+    {
+      "character": "Serpent Honor Guard",
+      "text_en": "Pray make your way into the city proper, and identify yourself to the conjurer at Nophica's Altar. She will admit you to the Lotus Stand, where the Elder Seedseer awaits."
+    },
+    {
+      "character": "Silent Conjurer",
+      "text_en": "You are the Lominsan envoy? Begging your pardons, sir / madam , but might I inspect the missive you bear?"
+    },
+    {
+      "character": "Silent Conjurer",
+      "text_en": "Verily, this is the seal of the Admiral of Limsa Lominsa. Please come with me."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "So you are the Lominsan envoy."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "And an adventurer besides. The realm owes much to you and yours."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "On behalf of our fair nation, I bid you welcome."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Please."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Allow me to introduce myself."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I am Kan-E-Senna, Elder Seedseer of Gridania, and leader of the Order of the Twin Adder, our nation's Grand Company."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I understand you bear a message from the Admiral."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "But...before you begin, might I behold your face more closely?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "My apologies. You put me in mind of one I once knew─a brave and noble soul."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "But come, let us return to the matter at hand."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "A remembrance service for the fallen of Carteneau..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "To think that five years have already come and gone..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "It seems like only yesterday that the Garlean Empire attempted to seize all that we hold dear."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Rising in resistance, the city–states of Eorzea formed the Grand Companies, and joined hands in alliance."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "But unbeknown to us, the Garleans sought not to best us in battle, but moved instead to enact a terrible plot: the Meteor project, by which the lesser moon, Dalamud, would be torn down from the heavens to annihilate all life below."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "In a desperate bid to save the realm from certain destruction, our forces marched for the Carteneau Flats, and there met the VIIth Imperial Legion."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "More bloody a battle I have never seen, and would never wish to see again. Yet the carnage was but a prelude to the atrocity which followed."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "For despite our best efforts, Dalamud continued its descent, and from it emerged the elder primal Bahamut, who proceeded to rain fire upon Eorzea."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The VIIth Imperial Legion was consumed in the blinking of an eye, while our own forces fared little better..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "That any among us were spared defies explanation. All seemed sure to perish."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "As the flames converged upon us, I prepared myself for death...only for a brilliant light to envelop me, relieving me of my senses."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "When at last I awoke, Bahamut was gone, and the land, which had but moments before been aflame, now seemed to me a place unknown─not simply ruined...but changed."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Archon Louisoix may well have been able to shed light upon these mysteries, but he, like so many, never returned from Carteneau."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "And so we were left with countless questions, and no prospect of an answer. Yet such matters did not long occupy our thoughts, for we had far graver concerns."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The Calamity, as the devastation wrought by Bahamut has come to be known, laid our nations nigh to waste, and to this day we struggle to rebuild our lives and homes."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "To compound matters, the beast tribes continue to summon their primals, while the Empire encroaches upon our borders, consolidating its foothold in Eorzea. The outlook, in short, is bleak."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "In the wake of the Calamity, it has been all each nation could do to nurse its own wounds."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Yet if we are to weather the coming storm, we must needs stand united once more. A remembrance service may well present an opportunity to rekindle the spirit of unity which first gave rise to the Alliance."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I wholeheartedly approve of the Admiral's proposal. The necessary provisions shall be made for a service here in Gridania."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "You have done the people of Eorzea a fine service this day, and I would not put you to further trouble. I shall see that my reply reaches the Admiral anon."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "You, meanwhile, are bound next for Ul'dah, are you not?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Please send the Flame General my regards. Ah, and if you would be so kind, I should appreciate it if you would inform him that a pet of mine has been ill behaved of late─my wolf, to be precise. Needless to say, he must be brought to heel, and I would very much welcome the General's counsel on how this might be achieved."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I thank you for coming. May the Twelve see you safe to Ul'dah and beyond."
+    },
+    {
+      "character": "Lionnellais",
+      "text_en": "Greetings, sir / madam . This is the counter for passengers traveling to Ul'dah."
+    },
+    {
+      "character": "Lionnellais",
+      "text_en": "Oh, are you not Forename Surname , the Lominsan envoy? On behalf of all at Highwind Skyways, may I say what an honor it is to serve you! Will you be flying with us today?"
+    },
+    {
+      "character": "Lionnellais",
+      "text_en": "Very well. When you are ready to board, please let me know."
+    },
+    {
+      "character": "Arrivals Attendant",
+      "text_en": "Ah, you must be the envoy from Limsa Lominsa! Welcome to Ul'dah, my lord / lady . The Flame General awaits your arrival."
+    },
+    {
+      "character": "Arrivals Attendant",
+      "text_en": "Please let me know if you require any assistance."
+    },
+    {
+      "character": "Flame Honor Guard",
+      "text_en": "Welcome to Ul'dah, sir / madam . We have been expecting you."
+    },
+    {
+      "character": "Flame Honor Guard",
+      "text_en": "Flame General Raubahn will receive you in the Fragrant Chamber. Please take the lift down to the Hustings Strip and speak with Bartholomew at the Royal Promenade."
+    },
+    {
+      "character": "Flame Honor Guard",
+      "text_en": "The lift over yonder will take you to the Hustings Strip. From there, proceed south to the Royal Promenade, and speak with Bartholomew to gain admittance to the Fragrant Chamber."
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "The Lominsan envoy, I presume? Would you be so good as to allow me to inspect the missive you bear, sir / madam ? My thanks."
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "Ah yes, the Admiral's seal. Please proceed."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Ah, a guest from Limsa. I thought I smelled stale ale."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I won't hold it against you. If you're half the warrior Merlwyb says, 'tis a wonder you don't reek of dead Sahagin."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Welcome to the sultanate of Ul'dah. I am Raubahn Aldynn, General of the Immortal Flames."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "But you did not come all this way to trade formalities."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "There's something familiar about you... For a moment, I mistook you for an old brother-in-arms / sister-in-arms ."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Like him / her , you have the eyes of a hero. Eyes that have looked upon the horrors of battle, unblinking."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I've no doubt Merlwyb saw them, too. Mayhap there is hope for Limsa Lominsa yet! Come, let us talk."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "...Carteneau. Aye, I remember bloody Carteneau."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Do you know what happened that day, adventurer? When we took the field against the Garleans?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "So my counterparts have educated you."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Hm? Kan–E's pet is giving her trouble, is it? Well, she should already know my mind on that subject."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Wolves are beyond taming. 'Tis but a matter of time before they bare their teeth."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "So it was with the Garleans, fifty years ago."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "No sooner had they learned how to use magitek than they began seizing territory from their neighbors."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Led by then legatus Solus zos Galvus, they swiftly brought the other nations of Ilsabard to heel. And so the legatus became an emperor, and his republic an empire..."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "An empire which then set its sights upon Eorzea."
+    },
+    {
+      "character": "Eline Roaille",
+      "text_en": "But the conquering emperor is now an old man of four score winters. His health is failing, and he has no clear successor. Like as not, this is why the Garleans have been quiet of late."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "But the XIVth Imperial Legion is still entrenched within our borders."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "And their commander, Legatus Gaius van Baelsar, has long harbored ambitions of conquest."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Were he to strike now, I fear we would fall like so many others before us. And not only Ul'dah, but Gridania and Limsa Lominsa as well."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "For the Calamity brought the lot of us to our knees, and we've yet to get up. We barely have the strength to stand against the beast tribes, never mind the primals they mean to summon."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "We are a realm divided, adventurer. An alliance in name only."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "But the wolf cares not for the plight of its prey."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "The Garleans stir, and the Elder Seedseer would not let it go unnoticed."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "All other concerns pale in comparison to the Empire─even the beast tribes and their bloody primals."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "We must stand united once more, that much is clear. And if we're to do so, we must remember the cause which last brought us together. Merlwyb will have her memorial."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "We will honor the memory of the fallen. We will remind the people what their brothers and sisters fought and died for."
+    },
+    {
+      "character": "Eline Roaille",
+      "text_en": "Shall I inform the sultana and the Syndicate?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I will speak with Her Grace myself."
+    },
+    {
+      "character": "Eline Roaille",
+      "text_en": "Very good, sir."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "The Admiral will have my reply anon."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "My thanks to you, adventurer."
+    }
+  ]
+}

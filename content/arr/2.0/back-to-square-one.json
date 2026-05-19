@@ -1,0 +1,64 @@
+{
+  "id": "back-to-square-one",
+  "wiki_path": "/wiki/Back_to_Square_One",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Back to Square One",
+  "level": "27",
+  "location": "Southern Thanalan(X:16.9,Y:14.4)",
+  "npc_start": "Gundobald",
+  "dialogues": [
+    {
+      "character": "Gundobald",
+      "text_en": "Would that we had more information to offer, but what Wilred told you is the extent of our knowledge of the masked stranger."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Left unchecked, that man will bring about great pain and suffering. I pray that you'll find and put a swift end to the creature─for the sake of the young ones who died by his poisoned words."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "How fare your travels, adventurer? Though it barely begins to repay the debt you are owed, you will always find a safe haven here."
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "And you need not be concerned with young Wilred. The pain and regret he feels is a common burden amongst Ala Mhigans, and one we willingly bear—it reminds us to always strive for a better life."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Welcome back, Forename ! I'm reliably informed the investigation took you to Quarrymill and Little Ala Mhigo."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "So tell me, were you able to learn aught of Lahabrea?"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Planted the knowledge of summoning in impressionable young minds, you say? Precisely the kind of deception the Ascians would employ..."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "While many of the ills that ail the land can be attributed to the Calamity, some are being brought about by a malign will."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We must needs delve deeper into this, while things remain quiet on the primal front."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "All work and no play makes Minfilia a dull Scion."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Hm? Did you say something?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "N-Nothing, my lady!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Ahem. Mayhap we ought to rest awhile before speaking further of the investigation."
+    }
+  ]
+}

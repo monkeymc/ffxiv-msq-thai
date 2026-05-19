@@ -1,0 +1,152 @@
+{
+  "id": "come-into-my-castrum",
+  "wiki_path": "/wiki/Come-Into-My-Castrum",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Come-Into-My-Castrum",
+  "level": "44",
+  "location": "Coerthas Central Highlands(X:7.5,Y:28.9)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text_en": "Thanks to you, Biggs and Wedge are with us again."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Now we must find a way to rescue Minfilia and the others. Gods know we've kept them waiting too long already."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Based on what we've learned, I believe it's safe to say they're being held at Castrum Centri."
+    },
+    {
+      "character": "Cid",
+      "text_en": "So let us convene at Revenant's Toll in Mor Dhona─'tis as good a place as any to prepare, and better than most. The road leading east then south will get you there."
+    },
+    {
+      "character": "Cid",
+      "text_en": "When we arrive, let us seek the advice of the local adventurers. We're bound to learn a thing or two that will benefit our mission."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Now that we've found Biggs and Wedge, there's no reason for us to remain here any longer. Let us make for Revenant's Toll in Mor Dhona. There we can make our plans to rescue the others."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Thank goodness you found me, Forename ! I would have frozen, or drowned, or been eaten by a mudpuppy if it wasn't for you!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "I knew the chief was still alive! Deep down, I always knew. And he looks healthy, too—well, he could do with a shave, I suppose, but other than that..."
+    },
+    {
+      "character": "Slafborn",
+      "text_en": "Well met, friend. What brings you to Revenant's Toll?"
+    },
+    {
+      "character": "Slafborn",
+      "text_en": "...Did I hear you rightly? Your friends are being held captive at Castrum Centri, and you want to rescue them? I don't mean to discourage you, but that might prove...difficult."
+    },
+    {
+      "character": "Slafborn",
+      "text_en": "The stronghold has been on high alert of late, with armored patrols seen about the perimeter around the clock. Not even a fly could get within a hundred yalms of the walls undetected."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If the Garleans were alerted to our coming, we cannot know what they will do to Minfilia and the others. We must act with the greatest stealth."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Aye, it has to be good old-fashioned infiltration."
+    },
+    {
+      "character": "Yda",
+      "text_en": "But with security so tight, how are we going to smuggle ourselves in?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Why, I've a mind to walk through the front door."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Huh? The front door?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Aye, we'll disguise ourselves as imperial troops and march right in."
+    },
+    {
+      "character": "Cid",
+      "text_en": "For this, we'll need a few sets of imperial uniforms, a suit of magitek armor, and impeccable timing."
+    },
+    {
+      "character": "Slafborn",
+      "text_en": "Heh, that's a bold strategy, but it just might work. Where we are, there's certainly no shortage of opportunities to borrow the equipment."
+    },
+    {
+      "character": "Slafborn",
+      "text_en": "Knowing those imperial bastards, they won't even suspect that we savage Eorzeans would think to use their technology."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Then it's settled!"
+    },
+    {
+      "character": "Slafborn",
+      "text_en": "If you're determined to go ahead with this, I'd recommend you speak with Glaumunt."
+    },
+    {
+      "character": "Slafborn",
+      "text_en": "The fellow's got a personal grudge against the Empire, and happens to know a deal about Castrum Centri besides. I've no doubt that he'd want to be of aid."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yda and I shall go to reconnoiter Garlean activity at the stronghold. It would not do if something were to befall our comrades before we had the chance to act."
+    },
+    {
+      "character": "Yda",
+      "text_en": "Come and join us when you're ready, Forename ! Let's do this!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Sometimes I wonder, Yda... Are there ever times when you are not enthused?"
+    },
+    {
+      "character": "Yda",
+      "text_en": "I'm nothing if not enthused, Y'shtola! And you're beginning to remind me of Papalymo!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Dressing up as soldiers and sneaking in the front door, eh? Well, if you've got the guts to go through with it, then so do I!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Oh, boy, I always wanted my own reaper! I would wash her and wax her and name her and..."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Stealth and subterfuge, Forename , are how we will free our friends. I have every confidence you can play the part of an imperial soldier."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In the wake of the Calamity, the XIVth Imperial Legion occupied what remained of Castrum Novum, eventually rebuilding and renaming it Castrum Centri."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The stronghold contains immense manufacturing and storage facilities, and it is the primary supplier of material for imperial forces stationed throughout Eorzea."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Consequently, it is heavily defended. Infiltrating will not be easy. Nevertheless, it is necessary."
+    },
+    {
+      "character": "Glaumunt",
+      "text_en": "Lookin' for Glaumunt, are you? Well, you've found him, whoever you are."
+    },
+    {
+      "character": "Glaumunt",
+      "text_en": "...Eh? You're lookin' to get inside Castrum Centri, and you need my help? Heh, somethin' tells me we're gonna get along just fine."
+    }
+  ]
+}
