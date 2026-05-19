@@ -179,9 +179,10 @@ def main():
     parser.add_argument("--output", default="content_ai/arr/2.0", help="AI layer output directory")
     parser.add_argument("--characters", default="characters", help="Directory containing character .md files")
     parser.add_argument("--limit", type=int, default=0, help="Max quests to translate (0 = all)")
-    parser.add_argument("--engine", default="claude", choices=["claude", "ollama", "gemini", "google-free"], help="Translation engine to use")
+    parser.add_argument("--engine", default="claude", choices=["claude", "ollama", "gemini", "agent", "google-free"], help="Translation engine to use")
     parser.add_argument("--model", default=None, help="LLM Model name (default: claude-opus-4-7 for claude, qwen2.5:7b for ollama, gemini-1.5-flash for gemini)")
     parser.add_argument("--ollama-url", default="http://localhost:11434", help="Ollama API URL")
+    parser.add_argument("--batch-size", type=int, default=20, help="Number of quests to translate in a batch for agent engine (default: 20)")
     args = parser.parse_args()
 
     engine = args.engine
@@ -193,6 +194,8 @@ def main():
             model = "qwen2.5:7b"
         elif engine == "gemini":
             model = "gemini-1.5-flash"
+        elif engine == "agent":
+            model = "gemini-agent"
 
     input_dir = Path(args.input)
     output_dir = Path(args.output)
@@ -207,6 +210,76 @@ def main():
     quest_files = sorted(input_dir.glob("*.json"))
     if args.limit:
         quest_files = quest_files[: args.limit]
+
+    if engine == "agent":
+        scratch_dir = Path("scratch")
+        scratch_dir.mkdir(exist_ok=True)
+        to_translate_file = scratch_dir / "to_translate_by_agent.json"
+        translated_file = scratch_dir / "translated_by_agent.json"
+
+        # Check if we have translated file to import
+        if translated_file.exists():
+            print(f"[AGENT ENGINE] Found {translated_file}. Importing translations...")
+            try:
+                translated_data = json.loads(translated_file.read_text(encoding="utf-8"))
+                imported_count = 0
+                for item in translated_data:
+                    qid = item.get("id")
+                    if not qid:
+                        continue
+                    # find original blueprint to preserve order and fields
+                    blueprint_file = input_dir / f"{qid}.json"
+                    if not blueprint_file.exists():
+                        continue
+                    
+                    # build output ai layer structure
+                    ai_layer = {
+                        "title_th": item.get("title_th", ""),
+                        "dialogues": [
+                            {"text_th": d.get("text_th", "")}
+                            for d in item.get("dialogues", [])
+                        ]
+                    }
+                    out_file = output_dir / f"{qid}.json"
+                    out_file.write_text(json.dumps(ai_layer, ensure_ascii=False, indent=2), encoding="utf-8")
+                    imported_count += 1
+                
+                print(f"[AGENT ENGINE] Successfully imported {imported_count} translated quests.")
+                # clean up
+                translated_file.unlink()
+                if to_translate_file.exists():
+                    to_translate_file.unlink()
+            except Exception as e:
+                print(f"[AGENT ENGINE] Error importing translations: {e}")
+            return
+
+        # Otherwise, prepare untranslated quests for export
+        untranslated = []
+        for quest_file in quest_files:
+            out_file = output_dir / quest_file.name
+            if out_file.exists():
+                continue
+            blueprint = json.loads(quest_file.read_text(encoding="utf-8"))
+            untranslated.append({
+                "id": quest_file.stem,
+                "title_en": blueprint["title_en"],
+                "dialogues": [
+                    {"character": d["character"], "text_en": d["text_en"]}
+                    for d in blueprint.get("dialogues", [])
+                ]
+            })
+
+        if not untranslated:
+            print("All quests are already translated!")
+            return
+
+        batch = untranslated[:args.batch_size]
+        to_translate_file.write_text(json.dumps(batch, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"\n[AGENT ENGINE] Exported {len(batch)} untranslated quests to {to_translate_file}")
+        print("Please tell the Gemini Agent (me):")
+        print(f"\"Please translate the quests in {to_translate_file} and write the result to {translated_file}\"")
+        print("After the Agent writes the file, run this script again to import them.\n")
+        return
 
     print(f"Translating {len(quest_files)} quests via '{engine}' (model: {model}) -> {output_dir}")
     for i, quest_file in enumerate(quest_files, 1):
