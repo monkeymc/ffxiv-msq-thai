@@ -13,6 +13,21 @@ const selected =
 const quests = getAllQuests(selected.id);
 const stats  = getStats(quests);
 const groups = groupQuestsByLevel(quests);
+
+interface MajorSectionGroup {
+  title?: string;
+  groups: typeof groups;
+}
+
+const majorGroups: MajorSectionGroup[] = [];
+groups.forEach(g => {
+  const last = majorGroups[majorGroups.length - 1];
+  if (last && last.title === g.majorSection) {
+    last.groups.push(g);
+  } else {
+    majorGroups.push({ title: g.majorSection, groups: [g] });
+  }
+});
 ---
 <Layout title="สารบัญ" active="toc">
   <div class="toc-top">
@@ -52,29 +67,38 @@ const groups = groupQuestsByLevel(quests);
     <button class="chip"     data-filter="none">รอแปล <span class="chip-n">{stats.pending}</span></button>
   </div>
 
-  {groups.map(g => (
-    <div class="toc-section" data-section>
-      <div class="toc-section-head">
-        <span class="num">{g.num} · {g.range}</span>
-        <span class="title">{g.title}</span>
-        <span class="desc">{g.desc}</span>
-      </div>
-      {g.quests.map(q => (
-        <a class="quest-row" href={`${base}/quests/${q.id}/`} data-source={q.source}>
-          <span class="qr-lv">Lv {q.level}</span>
-          <div class="qr-title">
-            <span class="en">{q.title_en}</span>
-            {q.title_th
-              ? <span class="th">{q.title_th}</span>
-              : <span class="th empty">— ยังไม่มีคำแปลไทย —</span>}
+  {majorGroups.map(mg => (
+    <div class="major-section-group" data-major-section>
+      {mg.title && (
+        <div class="major-section-header">
+          <h2>{mg.title}</h2>
+        </div>
+      )}
+      {mg.groups.map(g => (
+        <div class="toc-section" data-section>
+          <div class="toc-section-head">
+            <span class="num">{g.num} · {g.range}</span>
+            <span class="title">{g.title}</span>
+            <span class="desc">{g.desc}</span>
           </div>
-          <span class="qr-npc">{q.npc_start}</span>
-          <span class="qr-status">
-            {q.source === 'contributor' && <span class="badge badge-contrib">ชุมชน</span>}
-            {q.source === 'ai'          && <span class="badge badge-ai">AI</span>}
-            {q.source === 'none'        && <span class="badge badge-pending">รอแปล</span>}
-          </span>
-        </a>
+          {g.quests.map(q => (
+            <a class="quest-row" href={`${base}/quests/${q.id}/`} data-source={q.source}>
+              <span class="qr-lv">Lv {q.level}</span>
+              <div class="qr-title">
+                <span class="en">{q.title_en}</span>
+                {q.title_th
+                  ? <span class="th">{q.title_th}</span>
+                  : <span class="th empty">— ยังไม่มีคำแปลไทย —</span>}
+              </div>
+              <span class="qr-npc">{q.npc_start}</span>
+              <span class="qr-status">
+                {q.source === 'contributor' && <span class="badge badge-contrib">ชุมชน</span>}
+                {q.source === 'ai'          && <span class="badge badge-ai">AI</span>}
+                {q.source === 'none'        && <span class="badge badge-pending">รอแปล</span>}
+              </span>
+            </a>
+          ))}
+        </div>
       ))}
     </div>
   ))}
@@ -108,6 +132,11 @@ const groups = groupQuestsByLevel(quests);
           document.querySelectorAll('[data-section]').forEach(function (sec) {
             var visible = sec.querySelectorAll('.quest-row:not([style*="display: none"])').length;
             sec.style.display = visible ? '' : 'none';
+          });
+          // Hide major section groups with no visible rows
+          document.querySelectorAll('[data-major-section]').forEach(function (mSec) {
+            var visible = mSec.querySelectorAll('.quest-row:not([style*="display: none"])').length;
+            mSec.style.display = visible ? '' : 'none';
           });
         });
       });

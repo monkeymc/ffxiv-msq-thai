@@ -148,17 +148,71 @@ cp characters/TEMPLATE.md characters/<ชื่อตัวละคร-lowercas
 
 ## ขั้นที่ 7 — แปล (AI layer)
 
-```bash
-python scripts/translate.py \
-  --input content/arr/<patch> \
-  --output content_ai/arr/<patch> \
-  --limit 5  # ทดสอบ 5 quest ก่อน ดูคุณภาพ
+เลือกใช้ตัวเลือกการแปลตามความสะดวก:
 
-# ถ้าโอเค ลบ --limit แล้วรันจริง
-python scripts/translate.py \
-  --input content/arr/<patch> \
-  --output content_ai/arr/<patch>
-```
+### ทางเลือกที่ A: ใช้ Local LLM ผ่าน Ollama (แนะนำหากไม่สะดวกใช้ API Key)
+*ได้ผลลัพธ์คุณภาพสูง และสามารถอ่านเพื่อรักษาข้อมูล Character Voices และ Glossary ร่วมในการแปลได้*
+1. ดาวน์โหลดและติดตั้ง [Ollama](https://ollama.com/) ในเครื่องของคุณ
+2. ดาวน์โหลด Model ที่จะใช้ผ่าน Command Line (เช่น Qwen 2.5 หรือ Gemma 2):
+   ```bash
+   ollama pull qwen2.5:7b
+   ```
+3. รันสคริปต์ระบุ `--engine ollama` และ `--model` ที่ติดตั้ง:
+   ```bash
+   # ทดสอบ 5 quest เพื่อดูคุณภาพ
+   python scripts/translate.py \
+     --engine ollama \
+     --model qwen2.5:7b \
+     --input content/arr/<patch> \
+     --output content_ai/arr/<patch> \
+     --limit 5
+
+   # แปลเต็มรูปแบบ (ลบ --limit)
+   python scripts/translate.py \
+     --engine ollama \
+     --model qwen2.5:7b \
+     --input content/arr/<patch> \
+     --output content_ai/arr/<patch>
+   ```
+
+### ทางเลือกที่ B: ใช้ Google Translate (แปลฟรี ไม่มีขั้นตอนเพิ่มเติม)
+*สะดวก รวดเร็ว และไม่ต้องใช้ API Key แต่ไม่รองรับการนำ Character Voices หรือ Glossary มาปรับแต่งการแปล*
+   ```bash
+   # ทดสอบ 5 quest
+   python scripts/translate.py \
+     --engine google-free \
+     --input content/arr/<patch> \
+     --output content_ai/arr/<patch> \
+     --limit 5
+
+   # แปลเต็มรูปแบบ (ลบ --limit)
+   python scripts/translate.py \
+     --engine google-free \
+     --input content/arr/<patch> \
+     --output content_ai/arr/<patch>
+   ```
+
+### ทางเลือกที่ C: ใช้ Claude API (ต้องใช้ API Key)
+*แปลคุณภาพสูงที่สุด ผ่าน API ทางการ*
+1. ตั้งค่า API Key ใน Terminal:
+   - PowerShell: `$env:ANTHROPIC_API_KEY="your-api-key"`
+   - Command Prompt: `set ANTHROPIC_API_KEY="your-api-key"`
+   - Linux/macOS: `export ANTHROPIC_API_KEY="your-api-key"`
+2. รันสคริปต์:
+   ```bash
+   # ทดสอบ 5 quest
+   python scripts/translate.py \
+     --engine claude \
+     --input content/arr/<patch> \
+     --output content_ai/arr/<patch> \
+     --limit 5
+
+   # แปลเต็มรูปแบบ (ลบ --limit)
+   python scripts/translate.py \
+     --engine claude \
+     --input content/arr/<patch> \
+     --output content_ai/arr/<patch>
+   ```
 
 ---
 
@@ -189,11 +243,12 @@ npm run preview  # เปิด http://localhost:4321 ตรวจสอบ
 [ ] 4. สร้าง character files สำหรับตัวละครใหม่ (> 50 lines)
 [ ] 5. อัปเดต characters/glossary.md
 [ ] 6. อัปเดต characters/context.md
-[ ] 7. รัน translate.py --limit 5 ทดสอบก่อน
-[ ] 8. รัน translate.py เต็ม
+[ ] 7. รัน translate.py --limit 5 เพื่อทดสอบ (เลือก --engine ollama หรือ google-free ได้ถ้าไม่มี API key)
+[ ] 8. รัน translate.py เต็มรูปแบบตามตัวเลือกที่กำหนด
 [ ] 9. npm run build ใน site/
 [ ] 10. ตรวจสอบ site ด้วยตา ก่อน push
 ```
+
 
 ---
 

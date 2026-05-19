@@ -1,0 +1,336 @@
+{
+  "id": "close-to-home-ul-dah",
+  "wiki_path": "/wiki/Close_to_Home_(Ul%27dah)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/e/e0/Close_to_Home_%28Ul%27dah%29_Image.png",
+  "patch": "2.0",
+  "title_en": "Close to Home",
+  "level": "1",
+  "location": "Ul'dah - Steps of Nald(X:11,Y:9)",
+  "npc_start": "Momodi",
+  "dialogues": [
+    {
+      "character": "Momodi",
+      "text_en": "Before you go chargin' off to find your fortune, I've a few basic tasks I'd like you to perform so as to help you get to know the place."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "First of all, I want you to visit the Aetheryte Plaza. To get there, head west from here till you reach Emerald Avenue , then look to the north. You should see a giant, floatin' crystal called an aetheryte ."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "If it weren't for aetherytes, travelin' around Eorzea would be a damn sight more troublesome than it is. 'Course, you still need to attune with 'em before you can use 'em, so be sure to do that with the one in the plaza. You ever attuned with an aetheryte before, Forename ? If not, just lay your hand on the thing and you'll see what I mean."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "When you've done that, I want you to pay a visit to the Thaumaturges' Guild, over at Arrzaneth Ossuary ."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Assumin' that scepter ain't just for show, you might consider trainin' there."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "When you've done that, I want you to pay a visit to the Pugilists' Guild, over at the Platinum Mirage ."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Assumin' those weapons of yours ain't just for show, you might consider trainin' there."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "When you've done that, I want you to pay a visit to the Gladiators' Guild, over at the Coliseum ."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Assumin' that sword ain't just for show, you might consider trainin' there."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "And finally, I want you to visit the Sapphire Avenue Exchange , over on the Steps of Thal ."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Goods from all across Eorzea and beyond turn up there every day. You'll have no trouble findin' armor, weapons, or anythin' else a fledglin' adventurer like yourself might need."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "You might say that everythin's for sale here in Ul'dah -- as long as you've got the gil ."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Just make sure as you don't pay more than you ought, Forename ."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "There's plenty as won't scruple to swindle unsuspectin' foreigners like yourself, 'specially if they think no one's lookin' out for their best interests."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Which is why I'm givin' you this letter . When you visit the exchange, find a gentleman named Seseroga and give it to him. He'll be happy to tell you about the markets once he's read it."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "In short, then: visit the Aetheryte Plaza, the Gladiators' Guild / Pugilists' Guild / Thaumaturges' Guild , and the Sapphire Avenue Exchange. Simple."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Oh, but before you go, a word of advice: while there're more than a few unsavory characters out there who'll try to take advantage of you, there are also some with honest-to-goodness problems who you should consider offerin' a helpin' hand to."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "A lot of folk are lured to this city by the promise of wealth and power. What many of 'em fail to realize is that instead of chasin' after gil the moment they get here, they ought to be makin' friends."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Let it be known that you're willin' to give as much as you get, and opportunities will come your way."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "And that's all from me. It's past time you got goin'. Oh, and let me know when you've finished, will you? That way, I won't spend my days worryin' that you're down to your smallclothes without a gil to your name."
+    },
+    {
+      "character": "Nenebaru",
+      "text_en": "Hail, adventurer! Might you have come at the behest of Miss Momodi of the Quicksand ?"
+    },
+    {
+      "character": "Nenebaru",
+      "text_en": "Excellent. Which brings us to the matter of the attunement fee -- that will be one hundred thousand gil, if you please, madam."
+    },
+    {
+      "character": "Nenebaru",
+      "text_en": "...AHAHAHAHAHA! Apologies, but I do so relish the opportunity to make that jest. The look on your face was absolutely priceless! Ah, but the fact that you were so easily deceived suggests to me that you are unfamiliar with the use of aetherytes. Allow me to explain."
+    },
+    {
+      "character": "Nenebaru",
+      "text_en": "These crystalline agglomerations tap into aetherial energies, and are primarily used as a means to travel swiftly from one place to another."
+    },
+    {
+      "character": "Nenebaru",
+      "text_en": "Perchance you have heard of Return and Teleport ? Well, these transportation spells make direct use of the aetherytes and their connection to the flow of aether ."
+    },
+    {
+      "character": "Nenebaru",
+      "text_en": "Given that there is an aetheryte in almost every corner of Eorzea, any adventurer with a mind to explore the realm will wish to seek out and attune herself to each and every one!"
+    },
+    {
+      "character": "Nenebaru",
+      "text_en": "But even if you have no intention of wandering beyond the sultanate's borders, it would be prudent for you to attune yourself to any aetherytes you encounter from now on."
+    },
+    {
+      "character": "Nenebaru",
+      "text_en": "I pray you found that informative. Should you wish to learn more about aetherytes or transportation magic, I should be happy to answer your questions."
+    },
+    {
+      "character": "Yayake",
+      "text_en": "Welcome to the Thaumaturges' Guild . It is fate that has guided your steps here this day, friend. I see that you harbor arcane ambitions... though your journey has scarcely begun."
+    },
+    {
+      "character": "Yayake",
+      "text_en": "Within these hallowed halls, the arts of devastation are taught -- primeval magicks with which to bring about an enemy's ruin."
+    },
+    {
+      "character": "Yayake",
+      "text_en": "If you would join our ranks and wield such power, you must needs know of our beginnings."
+    },
+    {
+      "character": "Yayake",
+      "text_en": "The nation of Ul'dah inherited its traditions from ancient Belah'dia , a city founded by the descendants of the first mages."
+    },
+    {
+      "character": "Yayake",
+      "text_en": "The secrets of these illustrious sorcerers were ultimately entrusted to the priests of the Order of Nald'thal , who have passed them down from generation to generation ever since."
+    },
+    {
+      "character": "Yayake",
+      "text_en": "Focused and refined over centuries of use in the Order's funereal rites, the arcane magicks of our ancestors eventually emerged as the art we now know as thaumaturgy ."
+    },
+    {
+      "character": "Yayake",
+      "text_en": "A freezing blizzard to halt corruption; a raging fire to cleanse the corpse; a bolt of lightning to expel the sins of mortal life... The dweomers employed in the preparation of the dead are equally efficacious when applied to the living."
+    },
+    {
+      "character": "Yayake",
+      "text_en": "It is for this reason that we are feared and respected in equal measure. Thus does our guild thrive, ensconced in the catacombs of Arrzaneth Ossuary -- a sanctuary devoted to Thal , divine arbiter of the afterlife."
+    },
+    {
+      "character": "Yayake",
+      "text_en": "What say you, then, adventurer? If you would plumb the abyssal depths of thaumaturgy, let our learned sages guide your descent!"
+    },
+    {
+      "character": "Yayake",
+      "text_en": "Ah, but before you leap into the darkness, you must prove to our guildmasters that you are possessed of the spiritual fortitude necessary to look upon that which waits therein. When you are ready to submit to the judgment of our most eminent mages, say the word."
+    },
+    {
+      "character": "Gagaruna",
+      "text_en": "Greetings and welcome to the Pugilists' Guild !"
+    },
+    {
+      "character": "Gagaruna",
+      "text_en": "I see you already walk the path of the pugilist . Yet your journey has only just begun."
+    },
+    {
+      "character": "Gagaruna",
+      "text_en": "I highly recommend you add your name to our roll, for there is no better place in all the realm to train in our discipline than here."
+    },
+    {
+      "character": "Gagaruna",
+      "text_en": "The origins of pugilism as we know it can be traced back to the staging of bare-handed bouts at the Coliseum."
+    },
+    {
+      "character": "Gagaruna",
+      "text_en": "These contests attracted fighters from far and wide, bringing their myriad styles crashing together on the bloodsands."
+    },
+    {
+      "character": "Gagaruna",
+      "text_en": "Amidst this chaotic intermingling of styles, there rose a pugilist of singular strength and skill. This woman made it her life's mission to master every form she encountered, that she might refine her art."
+    },
+    {
+      "character": "Gagaruna",
+      "text_en": "Among her many song-worthy exploits, we pugilists remember her participation in a gladiator tournament most fondly. Back when bare-handed fighting was still seen as a pastime for peasants, she took on fully armed and armored gladiators, and effortlessly bested the lot of them."
+    },
+    {
+      "character": "Gagaruna",
+      "text_en": "Word of her feat spread across the realm like wildfire, of course, and Ul'dah swiftly transformed into a center of pugilism, with people flocking from all over to train under this master among masters."
+    },
+    {
+      "character": "Gagaruna",
+      "text_en": "The woman's name was Cornelia , and it is to her that the Pugilists' Guild owes its existence. The art practiced here is based on her all-encompassing style, and this training hall is modeled upon the one which she once built."
+    },
+    {
+      "character": "Gagaruna",
+      "text_en": "And there it is -- a brief history of our guild."
+    },
+    {
+      "character": "Gagaruna",
+      "text_en": "I've told this tale a thousand times, but gods, it never fails to fan the flames of my fighting spirit!"
+    },
+    {
+      "character": "Gagaruna",
+      "text_en": "Now then, should you wish to proceed with enrollment, you must first obtain the guildmaster's approval. Let me know if you would like to meet him."
+    },
+    {
+      "character": "Lulutsu",
+      "text_en": "Welcome to the Gladiators' Guild , friend!"
+    },
+    {
+      "character": "Lulutsu",
+      "text_en": "Tell me, are you new to the thrills of mortal combat? Well, whether you are or not, you are new to us!"
+    },
+    {
+      "character": "Lulutsu",
+      "text_en": "If you would take your place in these hallowed halls, you must be willing and ready to undergo the most rigorous training. You must endure cuts and bruises beyond counting, and like as not far worse."
+    },
+    {
+      "character": "Lulutsu",
+      "text_en": "A daunting prospect, I concede -- but there is no other way if you mean to take to the bloodsands one day. And why wouldn't you? The Coliseum is only the most celebrated place of public entertainment in all of Ul'dah!"
+    },
+    {
+      "character": "Lulutsu",
+      "text_en": "Where else could a poor man amass a fortune so vast as to one day allow him to claim a seat on the Syndicate?"
+    },
+    {
+      "character": "Lulutsu",
+      "text_en": "Ahhh... there's not an Ul'dahn alive who isn't inspired by the rise of the self-made man."
+    },
+    {
+      "character": "Lulutsu",
+      "text_en": "And there is no truer embodiment of this than the gladiator who wins riches and fame with his sword."
+    },
+    {
+      "character": "Lulutsu",
+      "text_en": "Throughout its long and storied history, this guild has nurtured countless champions."
+    },
+    {
+      "character": "Lulutsu",
+      "text_en": "Our training methods are second to none, and our members ever strive to develop new techniques."
+    },
+    {
+      "character": "Lulutsu",
+      "text_en": "If you desire true glory -- to fight and triumph, 'midst the roar of ten thousand voices -- then this is where you belong, adventurer."
+    },
+    {
+      "character": "Lulutsu",
+      "text_en": "...Think of it. Think of your legacy. And if your soul stirs... join us.\\"
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "And you are? ...Ho, a newly come adventurer. But of course. Yes, I am Seseroga. What can I do for you?"
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "Ah, you would have me teach you the ways of the marketplace? Very wise. As for my fee... What? You expect me to do it for free !? Surely you jest."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "My dear adventurer, when you ask an Ul'dahn for a favor, you should at least try to make it worth his while. Judging by your garb, I rather doubt you could afford my services, but the fact you offer nothing is laughable."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "Oh. Mistress Momodi instructed you to seek me out, did she? Hmph. Consider yourself fortunate to have such influential friends."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "I shall be brief, and you shall be attentive."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "You stand in the Sapphire Avenue Exchange, the busiest and most profitable marketplace in the sultanate."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "Being advantageously situated in relation to the other city-states, Ul'dah's markets have ever served as both the literal and figurative centers of Eorzean commerce."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "All the great overland trade routes lead to our city, and the majority of maritime trade between Vylbrand and Aldenard passes through our ports."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "Because of this, countless companies and consortia have chosen Ul'dah as their base of operations. They see to it that this marketplace is awash with merchants and moneylenders, day and night."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "Anything a man could ever desire can be purchased here -- provided as he has sufficient funds."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "Surely there's something you seek, adventurer? A deadlier sword, perhaps, or a shinier trinket? Whatever it is you want, the exchange will have it."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "To the north, you will find merchants peddling armor and accessories, curatives and crafting materials."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "And to the south, you will find weapons, tools, and an assortment of other useful items for sale."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "Seek out a particular merchant, or browse to your heart's content. But do try to remain aloof should you find something that piques your interest. Decisions made in the heat of the moment are usually unwise, especially where coin is concerned."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "Ahem. That is all the complimentary aid you shall have from me -- and far too much for my taste ."
+    },
+    {
+      "character": "Seseroga",
+      "text_en": "My regards to Momodi. Now, off with you!"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "How was your tour of the city, Forename ? Get lost, did you?"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Aye, well, Ul'dah's a big place with lots to see and do -- but wanderin' around aimlessly don't pay the bills. If you're serious about makin' a livin' here, you'll need to remember where things are."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "So when you go explorin', explore like you've got a purpose, eh?"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "All right, then! All that's left is for you to work hard, make money, and spend it here at the Quicksand!"
+    }
+  ]
+}

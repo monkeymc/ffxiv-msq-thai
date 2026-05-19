@@ -8,6 +8,7 @@ import json
 import re
 import time
 from pathlib import Path
+from urllib.parse import unquote
 
 import requests
 from bs4 import BeautifulSoup
@@ -26,6 +27,14 @@ ARR_INDEX_PAGES = {
     "2.4": "/wiki/Patch_2.4_Main_Scenario_Quests",
     "2.5": "/wiki/Patch_2.5_Main_Scenario_Quests",
 }
+
+
+def get_id_from_path(wiki_path: str) -> str:
+    name = wiki_path.split("/wiki/")[-1]
+    name = unquote(name)
+    name = re.sub(r"\([qQ]uest\)$", "", name).strip()
+    cleaned = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+    return cleaned
 
 
 def slug(title: str) -> str:
@@ -159,7 +168,8 @@ def scrape_patch(patch: str, out_dir: Path, delay: float = 1.5):
     print(f"[patch {patch}] found {len(quests)} quests")
 
     for i, q in enumerate(quests, 1):
-        out_file = out_dir / f"{slug(q['title_en'])}.json"
+        qid = get_id_from_path(q["wiki_path"])
+        out_file = out_dir / f"{qid}.json"
         if out_file.exists():
             print(f"  [{i:03}/{len(quests)}] skip  {q['title_en']}")
             continue
@@ -168,7 +178,7 @@ def scrape_patch(patch: str, out_dir: Path, delay: float = 1.5):
         try:
             detail = get_quest_detail(q["wiki_path"])
             data = {
-                "id": slug(q["title_en"]),
+                "id": qid,
                 "wiki_path": q["wiki_path"],
                 "wiki_image_url": detail["wiki_image_url"],
                 "patch": detail["patch"] or patch,
@@ -229,7 +239,8 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
 
     for i, q in enumerate(quests, 1):
-        out_file = out_dir / f"{slug(q['title_en'])}.json"
+        qid = get_id_from_path(q["wiki_path"])
+        out_file = out_dir / f"{qid}.json"
         if out_file.exists():
             print(f"  [{i:03}/{len(quests)}] skip  {q['title_en']}")
             continue
@@ -238,7 +249,7 @@ def main():
         try:
             detail = get_quest_detail(q["wiki_path"])
             data = {
-                "id": slug(q["title_en"]),
+                "id": qid,
                 "wiki_path": q["wiki_path"],
                 "wiki_image_url": detail["wiki_image_url"],
                 "patch": detail["patch"] or args.patch,

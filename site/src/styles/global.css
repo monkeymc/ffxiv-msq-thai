@@ -534,6 +534,36 @@ footer.site a:hover { color: var(--gold); }
 }
 .chip.on .chip-n { opacity: 0.95; }
 
+.major-section-group {
+  margin-bottom: 3.5rem;
+}
+.major-section-header {
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  padding: 0.75rem 0 0.5rem;
+  border-bottom: 1px solid var(--line-bold);
+  position: relative;
+}
+.major-section-header h2 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.45rem;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 0;
+}
+.major-section-header h2::before {
+  content: '';
+  display: inline-block;
+  width: 4px;
+  height: 1.35rem;
+  background: var(--gold);
+  border-radius: var(--radius-sm);
+}
+
 .toc-section { margin-bottom: 2.25rem; }
 .toc-section-head {
   display: flex;
