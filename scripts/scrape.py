@@ -97,13 +97,25 @@ def get_quest_detail(wiki_path: str) -> dict:
                 level = val
 
     # --- quest image (banner ของ quest) ---
-    # ใช้ dialogue-quest-banner ถ้ามี, fallback = generic Quest_Accepted
+    # 1. ลองหาจาก infobox ก่อน (รูปขนาดใหญ่ / รูปประกอบของเควสต์)
+    # 2. ถ้าไม่มีใน infobox ค่อยใช้ dialogue-quest-banner
     wiki_image = ""
-    banner = content.find(class_="dialogue-quest-banner")
-    if banner:
-        img = banner.find("img")
-        if img:
-            wiki_image = wiki_image_url(img.get("src", ""))
+    if infobox:
+        for img in infobox.find_all("img"):
+            try:
+                width = int(img.get("width", 0))
+            except ValueError:
+                width = 0
+            if width >= 100:
+                wiki_image = wiki_image_url(img.get("src", ""))
+                break
+
+    if not wiki_image:
+        banner = content.find(class_="dialogue-quest-banner")
+        if banner:
+            img = banner.find("img")
+            if img:
+                wiki_image = wiki_image_url(img.get("src", ""))
 
     # --- dialogue ---
     SKIP_SPEAKERS = {"optional dialogue", "unknown"}
