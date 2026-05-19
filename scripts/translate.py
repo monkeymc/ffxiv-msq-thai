@@ -82,6 +82,28 @@ def call_llm(engine: str, model: str, system_prompt: str, user_prompt: str, olla
                 except:
                     pass
             raise e
+    elif engine == "gemini":
+        import os
+        try:
+            import google.generativeai as genai
+        except ImportError:
+            print("\n[ERROR] The 'google-generativeai' package is not installed.")
+            print("Please run: pip install google-generativeai\n")
+            raise
+
+        api_key = os.environ.get("GEMINI_API_KEY")
+        if not api_key:
+            raise ValueError("[ERROR] GEMINI_API_KEY environment variable is not set. Please set it before running.")
+
+        genai.configure(api_key=api_key)
+        model_name = model if model else "gemini-1.5-flash"
+        
+        gemini_model = genai.GenerativeModel(
+            model_name=model_name,
+            system_instruction=system_prompt
+        )
+        response = gemini_model.generate_content(user_prompt)
+        return response.text.strip()
     else:
         raise ValueError(f"Unknown engine: {engine}")
 
@@ -157,8 +179,8 @@ def main():
     parser.add_argument("--output", default="content_ai/arr/2.0", help="AI layer output directory")
     parser.add_argument("--characters", default="characters", help="Directory containing character .md files")
     parser.add_argument("--limit", type=int, default=0, help="Max quests to translate (0 = all)")
-    parser.add_argument("--engine", default="claude", choices=["claude", "ollama", "google-free"], help="Translation engine to use")
-    parser.add_argument("--model", default=None, help="LLM Model name (default: claude-opus-4-7 for claude, qwen2.5:7b for ollama)")
+    parser.add_argument("--engine", default="claude", choices=["claude", "ollama", "gemini", "google-free"], help="Translation engine to use")
+    parser.add_argument("--model", default=None, help="LLM Model name (default: claude-opus-4-7 for claude, qwen2.5:7b for ollama, gemini-1.5-flash for gemini)")
     parser.add_argument("--ollama-url", default="http://localhost:11434", help="Ollama API URL")
     args = parser.parse_args()
 
@@ -169,6 +191,8 @@ def main():
             model = "claude-opus-4-7"
         elif engine == "ollama":
             model = "qwen2.5:7b"
+        elif engine == "gemini":
+            model = "gemini-1.5-flash"
 
     input_dir = Path(args.input)
     output_dir = Path(args.output)

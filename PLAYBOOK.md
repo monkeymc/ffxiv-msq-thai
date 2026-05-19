@@ -214,6 +214,32 @@ cp characters/TEMPLATE.md characters/<ชื่อตัวละคร-lowercas
      --output content_ai/arr/<patch>
    ```
 
+### ทางเลือกที่ D: ใช้ Gemini API (แนะนำสำหรับคุณภาพสูงโดยมี Free Tier)
+*แปลคุณภาพสูง ใกล้เคียงกับ Claude และรองรับระบบระเบียบการแปล (System Instruction) มี Free Tier สำหรับทดสอบ/ใช้งานได้ฟรี*
+1. ติดตั้งไลบรารีเสริม:
+   ```bash
+   pip install google-generativeai
+   ```
+2. ตั้งค่า API Key ใน Terminal (ขอฟรีได้จาก [Google AI Studio](https://aistudio.google.com/)):
+   - PowerShell: `$env:GEMINI_API_KEY="your-api-key"`
+   - Command Prompt: `set GEMINI_API_KEY="your-api-key"`
+   - Linux/macOS: `export GEMINI_API_KEY="your-api-key"`
+3. รันสคริปต์:
+   ```bash
+   # ทดสอบ 5 quest
+   python scripts/translate.py \
+     --engine gemini \
+     --input content/arr/<patch> \
+     --output content_ai/arr/<patch> \
+     --limit 5
+
+   # แปลเต็มรูปแบบ (ลบ --limit)
+   python scripts/translate.py \
+     --engine gemini \
+     --input content/arr/<patch> \
+     --output content_ai/arr/<patch>
+   ```
+
 ---
 
 ## ขั้นที่ 8 — อัปเดต site
@@ -243,7 +269,7 @@ npm run preview  # เปิด http://localhost:4321 ตรวจสอบ
 [ ] 4. สร้าง character files สำหรับตัวละครใหม่ (> 50 lines)
 [ ] 5. อัปเดต characters/glossary.md
 [ ] 6. อัปเดต characters/context.md
-[ ] 7. รัน translate.py --limit 5 เพื่อทดสอบ (เลือก --engine ollama หรือ google-free ได้ถ้าไม่มี API key)
+[ ] 7. รัน translate.py --limit 5 เพื่อทดสอบ (เลือก --engine ollama, gemini หรือ google-free ได้ถ้าไม่มี API key/ใช้ free tier)
 [ ] 8. รัน translate.py เต็มรูปแบบตามตัวเลือกที่กำหนด
 [ ] 9. npm run build ใน site/
 [ ] 10. ตรวจสอบ site ด้วยตา ก่อน push
