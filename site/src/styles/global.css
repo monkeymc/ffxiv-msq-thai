@@ -421,7 +421,7 @@ footer.site a:hover { color: var(--ink); }
   border-color: var(--accent);
   text-decoration: none;
 }
-.exp-card.soon { opacity: 0.6; }
+.exp-card.soon { opacity: 0.78; }
 .exp-card .ec-tag {
   display: inline-block;
   font-family: var(--mono);
@@ -472,14 +472,14 @@ footer.site a:hover { color: var(--ink); }
 }
 .exp-card.available:hover .ec-arrow { color: var(--accent); transform: translateX(3px); }
 .soon-pill {
-  font-family: var(--mono);
-  font-size: 0.66rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--ink-mute);
-  background: var(--surface-2);
-  border: 1px solid var(--line);
-  padding: 0.12rem 0.5rem;
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  color: var(--accent-strong);
+  background: var(--accent-soft);
+  border: 1px solid color-mix(in oklab, var(--accent) 35%, transparent);
+  padding: 0.18rem 0.65rem;
   border-radius: 999px;
 }
 
@@ -530,15 +530,76 @@ footer.site a:hover { color: var(--ink); }
 }
 .exp-select:hover { border-color: var(--accent); }
 
+.toc-summary {
+  color: var(--ink-dim);
+  font-size: 0.92rem;
+  margin-bottom: 1.2rem;
+}
+.toc-summary strong { color: var(--ink); font-weight: 500; }
+
+.toc-filters {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid var(--line);
+}
+.toc-filters .label {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  margin-right: 0.4rem;
+}
+.chip {
+  background: transparent;
+  border: 1px solid var(--line);
+  color: var(--ink-dim);
+  padding: 0.32rem 0.85rem;
+  border-radius: 999px;
+  font-size: 0.84rem;
+  display: inline-flex; align-items: center; gap: 0.4rem;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.chip:hover { color: var(--ink); border-color: var(--ink-dim); }
+.chip.on {
+  background: var(--ink);
+  color: var(--bg);
+  border-color: var(--ink);
+}
+.chip.on .chip-n { color: var(--bg); opacity: 0.75; }
+.chip-n {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--ink-mute);
+}
 
 .toc-section { margin-bottom: 2.5rem; }
-.toc-section-head {
+.toc-subsection { margin-bottom: 1.8rem; }
+.toc-subsection:last-child { margin-bottom: 0; }
+.toc-subhead {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 0.98rem;
+  font-weight: 500;
+  color: var(--ink-2);
+  margin-bottom: 0.7rem;
+  padding-left: 0.1rem;
   display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 0.4rem;
+  align-items: baseline;
+  gap: 0.7rem;
+}
+.toc-subhead::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--line-soft);
+  align-self: center;
+}
+.toc-section-head {
+  display: block;
   margin-bottom: 1.2rem;
-  padding-bottom: 0.6rem;
+  padding-bottom: 0.75rem;
   border-bottom: 1px dashed var(--line);
 }
 .toc-section-head .num {
@@ -546,21 +607,24 @@ footer.site a:hover { color: var(--ink); }
   font-size: 0.74rem;
   letter-spacing: 0.14em;
   color: var(--accent);
+  display: inline-block;
+  margin-right: 0.7rem;
 }
 .toc-section-head .title {
   font-family: var(--serif);
-  font-size: 1.18rem;
+  font-size: 1.22rem;
   font-weight: 500;
   color: var(--ink);
+  display: inline;
+  line-height: 1.35;
 }
 .toc-section-head .desc {
-  font-size: 0.84rem;
+  display: block;
+  font-size: 0.86rem;
   color: var(--ink-dim);
-  line-height: 1.5;
+  margin-top: 0.35rem;
+  line-height: 1.55;
   text-wrap: pretty;
-  margin-left: 0;
-  max-width: 100%;
-  text-align: left;
 }
 
 .quest-grid {
@@ -631,6 +695,147 @@ footer.site a:hover { color: var(--ink); }
 
 /* hidden state for filter */
 .quest-card.hidden { display: none; }
+
+/* ─── TOC jump overlay (chapter navigator) ─────────────────────── */
+.toc-jump-btn {
+  position: fixed;
+  right: 1.5rem;
+  bottom: 1.5rem;
+  z-index: 70;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.7rem 1.05rem 0.7rem 0.9rem;
+  background: var(--ink);
+  color: var(--bg);
+  border: 0;
+  border-radius: 999px;
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  box-shadow: 0 8px 24px -8px rgba(0,0,0,0.35), 0 1px 2px rgba(0,0,0,0.08);
+  cursor: pointer;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, opacity 0.18s ease;
+}
+.toc-jump-btn:hover { transform: translateY(-2px); box-shadow: 0 14px 32px -10px rgba(0,0,0,0.45), 0 1px 2px rgba(0,0,0,0.1); }
+.toc-jump-btn:active { transform: translateY(0); }
+.toc-jump-btn svg { width: 16px; height: 16px; }
+[data-theme="dark"] .toc-jump-btn { background: var(--accent); color: #1a1814; }
+
+.toc-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+.toc-overlay[data-open="true"] { opacity: 1; pointer-events: auto; }
+.toc-overlay-backdrop {
+  position: absolute; inset: 0;
+  background: color-mix(in oklab, var(--bg-deep) 70%, transparent);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+.toc-overlay-panel {
+  position: relative;
+  width: min(560px, 100%);
+  max-height: 78vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lift);
+  transform: translateY(8px) scale(0.985);
+  transition: transform 0.22s cubic-bezier(.2,.7,.2,1);
+}
+.toc-overlay[data-open="true"] .toc-overlay-panel { transform: none; }
+.toc-overlay-head {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 1.1rem 1.3rem 0.9rem;
+  border-bottom: 1px solid var(--line-soft);
+}
+.toc-overlay-head .h {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--ink);
+}
+.toc-overlay-head .sub {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+}
+.overlay-close {
+  background: transparent;
+  border: 1px solid var(--line);
+  color: var(--ink-dim);
+  width: 30px; height: 30px;
+  border-radius: 999px;
+  display: inline-grid; place-items: center;
+  font-size: 1.05rem;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+.overlay-close:hover { color: var(--ink); border-color: var(--ink-dim); background: var(--surface-2); }
+.toc-overlay-list {
+  list-style: none;
+  margin: 0;
+  padding: 0.6rem;
+  overflow-y: auto;
+}
+.toc-overlay-list li { margin: 0; padding: 0; }
+.toc-overlay-list a {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  padding: 0.75rem 0.85rem;
+  border-radius: var(--radius);
+  color: var(--ink);
+  transition: background 0.15s, color 0.15s;
+}
+.toc-overlay-list a:hover { background: var(--surface-2); text-decoration: none; color: var(--ink); }
+.toc-overlay-list .ol-lv {
+  font-family: var(--mono);
+  font-size: 0.74rem;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  min-width: 70px;
+  flex-shrink: 0;
+}
+.toc-overlay-list .ol-title {
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--ink);
+  line-height: 1.3;
+}
+.toc-overlay-list .ol-desc {
+  display: block;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--ink-dim);
+  font-weight: 400;
+  margin-top: 0.2rem;
+  line-height: 1.4;
+}
+.toc-overlay-list .ol-count {
+  font-family: var(--mono);
+  font-size: 0.74rem;
+  color: var(--ink-mute);
+  margin-left: auto;
+  flex-shrink: 0;
+}
+
+body.overlay-open { overflow: hidden; }
+
+/* ─── end TOC jump overlay ─────────────────────────────────────── */
 
 /* ═══════════════════════════════════════════════════════════════════
    READER — quest page
@@ -945,15 +1150,8 @@ body.show-all-en .dl-line .dl-text-en {
 }
 
 /* ═══════════════════════════════════════════════════════════════════
-   SUBSECTIONS
+   LEGACY SUBSECTION STYLE (kept for backwards compatibility)
 ═══════════════════════════════════════════════════════════════════ */
-.toc-subsection {
-  margin-top: 2rem;
-  margin-bottom: 2.5rem;
-}
-.toc-subsection:first-of-type {
-  margin-top: 0.6rem;
-}
 .subsection-title {
   font-family: var(--serif);
   font-size: 1.05rem;
