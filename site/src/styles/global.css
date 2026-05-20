@@ -515,7 +515,7 @@ footer.site a:hover { color: var(--ink); }
   text-wrap: pretty;
   margin-left: auto;
   max-width: 55%;
-  text-align: right;
+  text-align: left;
 }
 
 .quest-grid {
