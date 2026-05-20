@@ -574,13 +574,6 @@ footer.site a:hover { color: var(--gold); }
   margin-bottom: 0.2rem;
   flex-wrap: wrap;
 }
-.toc-section-head .num {
-  font-family: var(--mono);
-  font-size: 0.78rem;
-  font-weight: 600;
-  color: var(--gold);
-  letter-spacing: 0.05em;
-}
 .toc-section-head .title {
   font-family: var(--serif);
   font-weight: 600;
@@ -597,7 +590,7 @@ footer.site a:hover { color: var(--gold); }
 
 .quest-row {
   display: grid;
-  grid-template-columns: 3.2rem 1fr 11rem 5.5rem;
+  grid-template-columns: 3.2rem 1fr 5.5rem;
   gap: 1rem;
   padding: 0.95rem 0.6rem 0.95rem 0.7rem;
   border-bottom: 1px solid var(--line-soft);
@@ -657,22 +650,7 @@ footer.site a:hover { color: var(--gold); }
   line-height: 1.45;
 }
 .qr-title .th.empty { color: var(--ink-mute); font-style: italic; }
-.qr-npc {
-  font-family: var(--sans);
-  font-weight: 400;
-  font-size: 0.85rem;
-  color: var(--ink-dim);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-.qr-npc::before {
-  content: '◉';
-  color: var(--ink-faint);
-  margin-right: 0.4rem;
-  font-size: 0.55em;
-  vertical-align: middle;
-}
+
 .qr-status { justify-self: end; }
 
 /* Badge */
@@ -971,7 +949,10 @@ footer.site a:hover { color: var(--gold); }
   margin-bottom: 0.55rem;
 }
 .dl-bubble:last-child { margin-bottom: 0; }
-.dl-bubble.has-en { cursor: pointer; }
+.dl-bubble.has-en {
+  cursor: pointer;
+  padding-right: 3.2rem;
+}
 .dl-bubble.has-en:hover {
   border-color: var(--line-bold);
   box-shadow: 0 1px 3px rgba(60,40,10,0.05);
@@ -1030,7 +1011,7 @@ body.show-all-en .dl-bubble .dl-text-en {
   border: 1px solid var(--line-bold);
   border-radius: 3px;
   padding: 0.14rem 0.4rem;
-  opacity: 0.7;
+  opacity: 0.85;
   transition: opacity 0.15s, color 0.15s, border-color 0.15s, background 0.15s;
 }
 .dl-bubble.has-en:hover::after { opacity: 1; color: var(--ink-2); }
@@ -1119,7 +1100,6 @@ body.show-all-en .dl-bubble.has-en::after {
   .home-stat:nth-child(1),
   .home-stat:nth-child(2) { border-bottom: 1px solid var(--line-soft); }
   .quest-row { grid-template-columns: 2.6rem 1fr 5rem; }
-  .quest-row .qr-npc { display: none; }
   .toc-top { flex-direction: column; align-items: stretch; }
   .exp-select { width: 100%; min-width: 0; }
   .dl-group { grid-template-columns: 2.2rem 1fr; gap: 0.7rem; }

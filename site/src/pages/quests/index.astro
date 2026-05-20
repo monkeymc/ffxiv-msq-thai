@@ -52,20 +52,7 @@ groups.forEach(g => {
     </div>
   </div>
 
-  <p class="toc-summary">
-    <strong>{stats.total} quests</strong>
-    · แปลโดยชุมชน <strong>{stats.contrib}</strong>
-    · แปลโดย AI <strong>{stats.ai}</strong>
-    · รอแปล <strong>{stats.pending}</strong>
-  </p>
 
-  <div class="toc-filters" id="tocFilters">
-    <span class="label">กรอง</span>
-    <button class="chip on"  data-filter="all">ทั้งหมด <span class="chip-n">{stats.total}</span></button>
-    <button class="chip"     data-filter="contributor">ชุมชน <span class="chip-n">{stats.contrib}</span></button>
-    <button class="chip"     data-filter="ai">AI <span class="chip-n">{stats.ai}</span></button>
-    <button class="chip"     data-filter="none">รอแปล <span class="chip-n">{stats.pending}</span></button>
-  </div>
 
   {majorGroups.map(mg => (
     <div class="major-section-group" data-major-section>
@@ -77,7 +64,6 @@ groups.forEach(g => {
       {mg.groups.map(g => (
         <div class="toc-section" data-section>
           <div class="toc-section-head">
-            <span class="num">{g.num} · {g.range}</span>
             <span class="title">{g.title}</span>
             <span class="desc">{g.desc}</span>
           </div>
@@ -90,7 +76,6 @@ groups.forEach(g => {
                   ? <span class="th">{q.title_th}</span>
                   : <span class="th empty">— ยังไม่มีคำแปลไทย —</span>}
               </div>
-              <span class="qr-npc">{q.npc_start}</span>
               <span class="qr-status">
                 {q.source === 'contributor' && <span class="badge badge-contrib">ชุมชน</span>}
                 {q.source === 'ai'          && <span class="badge badge-ai">AI</span>}
@@ -116,30 +101,6 @@ groups.forEach(g => {
           window.location.href = url.toString();
         });
       }
-
-      // Filter chips — purely client-side hide/show
-      var chips = document.querySelectorAll('#tocFilters .chip');
-      chips.forEach(function (c) {
-        c.addEventListener('click', function () {
-          chips.forEach(function (x) { x.classList.remove('on'); });
-          c.classList.add('on');
-          var f = c.getAttribute('data-filter');
-          document.querySelectorAll('.quest-row').forEach(function (row) {
-            var s = row.getAttribute('data-source');
-            row.style.display = (f === 'all' || s === f) ? '' : 'none';
-          });
-          // Hide section heads with no visible rows
-          document.querySelectorAll('[data-section]').forEach(function (sec) {
-            var visible = sec.querySelectorAll('.quest-row:not([style*="display: none"])').length;
-            sec.style.display = visible ? '' : 'none';
-          });
-          // Hide major section groups with no visible rows
-          document.querySelectorAll('[data-major-section]').forEach(function (mSec) {
-            var visible = mSec.querySelectorAll('.quest-row:not([style*="display: none"])').length;
-            mSec.style.display = visible ? '' : 'none';
-          });
-        });
-      });
     }());
   </script>
 </Layout>

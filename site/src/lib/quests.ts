@@ -306,7 +306,7 @@ export function groupQuestsByLevel(quests: Quest[]): QuestGroup[] {
         desc: 'เส้นทางเริ่มต้นของป่าใหญ่ Gridania',
         match: () => false,
         quests: gridania,
-        majorSection: 'ครึ่งแรก: Seventh Umbral Era Main Scenario Quests'
+        majorSection: 'Seventh Umbral Era Main Scenario Quests'
       },
       {
         num: '2',
@@ -315,7 +315,7 @@ export function groupQuestsByLevel(quests: Quest[]): QuestGroup[] {
         desc: 'เส้นทางเริ่มต้นของเมืองท่า Limsa Lominsa',
         match: () => false,
         quests: limsa,
-        majorSection: 'ครึ่งแรก: Seventh Umbral Era Main Scenario Quests'
+        majorSection: 'Seventh Umbral Era Main Scenario Quests'
       },
       {
         num: '3',
@@ -324,7 +324,7 @@ export function groupQuestsByLevel(quests: Quest[]): QuestGroup[] {
         desc: 'เส้นทางเริ่มต้นของนครทะเลทราย Ul\'dah',
         match: () => false,
         quests: uldah,
-        majorSection: 'ครึ่งแรก: Seventh Umbral Era Main Scenario Quests'
+        majorSection: 'Seventh Umbral Era Main Scenario Quests'
       },
       {
         num: '4',
@@ -333,7 +333,7 @@ export function groupQuestsByLevel(quests: Quest[]): QuestGroup[] {
         desc: 'เส้นทางรวมพลตั้งแต่วิหาร Scions ถึงการต่อสู้ปกป้อง Eorzea',
         match: () => false,
         quests: unified,
-        majorSection: 'ครึ่งแรก: Seventh Umbral Era Main Scenario Quests'
+        majorSection: 'Seventh Umbral Era Main Scenario Quests'
       },
       {
         num: '5',
@@ -342,7 +342,7 @@ export function groupQuestsByLevel(quests: Quest[]): QuestGroup[] {
         desc: 'เนื้อเรื่องช่วงรอยต่อ Patch 2.1 — 2.55 ก่อนเข้าสู่ Heavensward',
         match: () => false,
         quests: astral,
-        majorSection: 'ครึ่งหลัง: Seventh Astral Era Main Scenario Quests'
+        majorSection: 'Seventh Astral Era Main Scenario Quests'
       }
     ];
 
