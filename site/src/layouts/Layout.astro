@@ -16,7 +16,18 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     <title>{title} — FFXIV MSQ ภาษาไทย</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Sarabun:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;1,400;1,500&family=IBM+Plex+Sans+Thai:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" />
+    <script is:inline>
+      // Theme: apply ASAP to avoid flash. Defaults to system preference.
+      (function () {
+        try {
+          var saved = localStorage.getItem('ffxiv-msq-th:theme');
+          var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+          var theme = saved || (prefersDark ? 'dark' : 'light');
+          document.documentElement.setAttribute('data-theme', theme);
+        } catch (e) {}
+      })();
+    </script>
   </head>
   <body>
     <header class="site">
@@ -30,6 +41,10 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         <div class="nav-links">
           <a href={`${base}/`} class={active === 'home' ? 'active' : ''}>หน้าหลัก</a>
           <a href={`${base}/quests/`} class={active === 'toc' ? 'active' : ''}>สารบัญ</a>
+          <button class="theme-toggle" id="themeToggle" aria-label="สลับโหมดสว่าง/มืด" title="สลับโหมด">
+            <svg class="icon-sun"  viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"></path></svg>
+            <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3a7 7 0 0 0 9.79 9.79z"></path></svg>
+          </button>
         </div>
       </nav>
     </header>
@@ -43,5 +58,18 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         &nbsp;·&nbsp; โครงการแฟนเมด ไม่เกี่ยวข้องกับ Square Enix
       </p>
     </footer>
+
+    <script is:inline>
+      (function () {
+        var btn = document.getElementById('themeToggle');
+        if (!btn) return;
+        btn.addEventListener('click', function () {
+          var cur = document.documentElement.getAttribute('data-theme') || 'light';
+          var next = cur === 'dark' ? 'light' : 'dark';
+          document.documentElement.setAttribute('data-theme', next);
+          try { localStorage.setItem('ffxiv-msq-th:theme', next); } catch (e) {}
+        });
+      })();
+    </script>
   </body>
 </html>

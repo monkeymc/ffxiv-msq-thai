@@ -31,23 +31,9 @@ for (const d of quest.dialogues) {
   else groups.push({ character: d.character, lines: [d] });
 }
 
-// Deterministic 8-color avatar assignment across distinct speakers
-const speakerOrder: Record<string, number> = {};
-let speakerIdx = 0;
-for (const g of groups) {
-  if (!(g.character in speakerOrder)) speakerOrder[g.character] = speakerIdx++;
-}
-const colorClass = (char: string) => {
+const isSys = (char: string) => {
   const sysWords = ['narrator', 'system', 'scene', 'ฉาก'];
-  if (sysWords.some(w => char.toLowerCase().includes(w))) return 'sys';
-  const idx = speakerOrder[char] ?? 0;
-  return `c${idx % 8}`;
-};
-const initials = (char: string) => {
-  const parts = char.replace(/[^\p{L}\s'`-]/gu, '').split(/\s+/).filter(Boolean);
-  if (parts.length === 0) return '?';
-  if (parts.length === 1) return parts[0].slice(0, 2);
-  return (parts[0][0] + parts[1][0]).toUpperCase();
+  return sysWords.some(w => char.toLowerCase().includes(w));
 };
 
 const GENERIC_IMAGE = 'Quest_Accepted.png';
@@ -91,7 +77,7 @@ const hasAnyTh = quest.dialogues.some(d => d.text_th);
     {hasAnyTh && (
       <div class="read-controls">
         <span class="hint">
-          คลิกที่กล่องเพื่อดูต้นฉบับอังกฤษ · กด <kbd>E</kbd> สลับทั้งหน้า
+          คลิก <strong style="color:var(--ink-2)">EN</strong> หลังแต่ละบรรทัดเพื่อดูต้นฉบับ · กด <kbd>E</kbd> สลับทั้งหน้า
         </span>
         <div class="rc-size" title="ขนาดตัวอักษร">
           <button class="s" data-size="dec" aria-label="ลดขนาดตัวอักษร">A</button>
@@ -107,30 +93,23 @@ const hasAnyTh = quest.dialogues.some(d => d.text_th);
 
     <div class="dialogue">
       {groups.map(group => (
-        <div class="dl-group">
-          <div class={`dl-avatar ${colorClass(group.character)}`}>
-            {colorClass(group.character) === 'sys' ? '◆' : initials(group.character)}
+        <div class={`dl-group${isSys(group.character) ? ' is-sys' : ''}`}>
+          <div class={`dl-speaker${isSys(group.character) ? ' sys' : ''}`}>
+            {group.character}
           </div>
-          <div class="dl-content">
-            <div class={`dl-speaker${colorClass(group.character) === 'sys' ? ' sys' : ''}`}>
-              {group.character}
-            </div>
-            {group.lines.map(line => (
-              <div
-                class={`dl-bubble${line.text_th ? ' has-en' : ''}`}
-                role={line.text_th ? 'button' : undefined}
-                tabindex={line.text_th ? 0 : undefined}
-                aria-expanded={line.text_th ? 'false' : undefined}
-              >
-                <p class={`dl-text-th${line.text_th ? '' : ' empty'}`}>
-                  {line.text_th || line.text_en}
-                </p>
+          {group.lines.map(line => (
+            <div class="dl-line">
+              <p class={`dl-text-th${line.text_th ? '' : ' empty'}`}>
+                {line.text_th || line.text_en}
                 {line.text_th && (
-                  <p class="dl-text-en" aria-hidden="true">{line.text_en}</p>
+                  <button class="en-btn" type="button" aria-expanded="false" aria-label="แสดง/ซ่อนต้นฉบับอังกฤษ">EN</button>
                 )}
-              </div>
-            ))}
-          </div>
+              </p>
+              {line.text_th && (
+                <p class="dl-text-en" aria-hidden="true">{line.text_en}</p>
+              )}
+            </div>
+          ))}
         </div>
       ))}
     </div>
@@ -163,17 +142,18 @@ const hasAnyTh = quest.dialogues.some(d => d.text_th);
 
   <script is:inline>
   (function () {
-    // Bubble toggle
-    document.querySelectorAll('.dl-bubble.has-en').forEach(function (el) {
-      el.addEventListener('click', function () {
-        var open = this.classList.toggle('open');
-        this.setAttribute('aria-expanded', open ? 'true' : 'false');
-        var en = this.querySelector('.dl-text-en');
-        if (en) en.setAttribute('aria-hidden', open ? 'false' : 'true');
-      });
-      el.addEventListener('keydown', function (e) {
-        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); this.click(); }
-      });
+    // Per-paragraph EN toggle. Click the EN pill (or the line) to expand.
+    document.querySelectorAll('.dl-line').forEach(function (line) {
+      var btn = line.querySelector('.en-btn');
+      var en  = line.querySelector('.dl-text-en');
+      if (!btn || !en) return;
+      function toggle(e) {
+        if (e) e.stopPropagation();
+        var open = line.classList.toggle('open');
+        btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        en.setAttribute('aria-hidden', open ? 'false' : 'true');
+      }
+      btn.addEventListener('click', toggle);
     });
 
     // Show-all-EN toggle + E hotkey
@@ -195,7 +175,7 @@ const hasAnyTh = quest.dialogues.some(d => d.text_th);
 
     // Font-size control with localStorage
     var root = document.documentElement;
-    var SIZES = ['0.95rem', '1.05rem', '1.15rem', '1.25rem'];
+    var SIZES = ['0.95rem', '1.0625rem', '1.18rem', '1.3rem'];
     var KEY = 'ffxiv-msq-th:fs';
     var sizeIdx = parseInt(localStorage.getItem(KEY) || '1', 10);
     if (isNaN(sizeIdx) || sizeIdx < 0 || sizeIdx >= SIZES.length) sizeIdx = 1;

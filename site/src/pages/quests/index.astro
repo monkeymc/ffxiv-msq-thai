@@ -4,7 +4,6 @@ import { EXPANSIONS, getAllQuests, getStats, groupQuestsByLevel } from '../../li
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
-// Selected expansion comes from ?exp=... — defaults to first available
 const requested = (Astro.url.searchParams.get('exp') ?? '').toLowerCase();
 const selected =
   EXPANSIONS.find(e => e.id === requested && e.available) ??
@@ -13,27 +12,11 @@ const selected =
 const quests = getAllQuests(selected.id);
 const stats  = getStats(quests);
 const groups = groupQuestsByLevel(quests);
-
-interface MajorSectionGroup {
-  title?: string;
-  groups: typeof groups;
-}
-
-const majorGroups: MajorSectionGroup[] = [];
-groups.forEach(g => {
-  const last = majorGroups[majorGroups.length - 1];
-  if (last && last.title === g.majorSection) {
-    last.groups.push(g);
-  } else {
-    majorGroups.push({ title: g.majorSection, groups: [g] });
-  }
-});
 ---
 <Layout title="สารบัญ" active="toc">
   <div class="toc-top">
     <div>
-      <div class="crumb">สารบัญ Quest</div>
-      <h1>เลือก quest ที่จะอ่าน</h1>
+      <div class="crumb">สารบัญ Quest · {selected.title_en}</div>
     </div>
     <div class="exp-select-wrap">
       <label for="expansion">ภาคที่กำลังดู</label>
@@ -52,44 +35,35 @@ groups.forEach(g => {
     </div>
   </div>
 
-
-
-  {majorGroups.map(mg => (
-    <div class="major-section-group" data-major-section>
-      {mg.title && (
-        <div class="major-section-header">
-          <h2>{mg.title}</h2>
-        </div>
-      )}
-      {mg.groups.map(g => (
-        <div class="toc-section" data-section>
-          <div class="toc-section-head">
-            <span class="title">{g.title}</span>
-            <span class="desc">{g.desc}</span>
-          </div>
-          {g.quests.map(q => (
-            <a class="quest-row" href={`${base}/quests/${q.id}/`} data-source={q.source}>
-              <span class="qr-lv">Lv {q.level}</span>
-              <div class="qr-title">
-                <span class="en">{q.title_en}</span>
-                {q.title_th
-                  ? <span class="th">{q.title_th}</span>
-                  : <span class="th empty">— ยังไม่มีคำแปลไทย —</span>}
-              </div>
-              <span class="qr-status">
-                {q.source === 'contributor' && <span class="badge badge-contrib">ชุมชน</span>}
-                {q.source === 'ai'          && <span class="badge badge-ai">AI</span>}
-                {q.source === 'none'        && <span class="badge badge-pending">รอแปล</span>}
-              </span>
-            </a>
-          ))}
-        </div>
-      ))}
+  {groups.map(g => (
+    <div class="toc-section" data-section>
+      <div class="toc-section-head">
+        <span class="title">{g.title}</span>
+        <span class="desc">{g.desc}</span>
+      </div>
+      <div class="quest-grid">
+        {g.quests.map(q => (
+          <a class="quest-card" href={`${base}/quests/${q.id}/`} data-source={q.source}>
+            <div class="qc-head">
+              <span class="qc-lv">LV {q.level}</span>
+              {q.source === 'contributor' && <span class="badge badge-contrib">ชุมชน</span>}
+              {q.source === 'ai'          && <span class="badge badge-ai">AI</span>}
+              {q.source === 'none'        && <span class="badge badge-pending">รอแปล</span>}
+            </div>
+            <div class="qc-title-en">{q.title_en}</div>
+            {q.title_th
+              ? <span class="qc-title-th">{q.title_th}</span>
+              : <span class="qc-title-th empty">— ยังไม่มีคำแปลไทย —</span>}
+            <div class="qc-foot">
+              <span class="qc-npc">{q.npc_start}</span>
+            </div>
+          </a>
+        ))}
+      </div>
     </div>
   ))}
 
   <script is:inline>
-    // Expansion dropdown — reload page with ?exp=
     (function () {
       var sel = document.getElementById('expansion');
       if (sel) {
@@ -101,6 +75,24 @@ groups.forEach(g => {
           window.location.href = url.toString();
         });
       }
+
+      var chips = document.querySelectorAll('#tocFilters .chip');
+      chips.forEach(function (c) {
+        c.addEventListener('click', function () {
+          chips.forEach(function (x) { x.classList.remove('on'); });
+          c.classList.add('on');
+          var f = c.getAttribute('data-filter');
+          document.querySelectorAll('.quest-card').forEach(function (card) {
+            var s = card.getAttribute('data-source');
+            if (f === 'all' || s === f) card.classList.remove('hidden');
+            else card.classList.add('hidden');
+          });
+          document.querySelectorAll('[data-section]').forEach(function (sec) {
+            var visible = sec.querySelectorAll('.quest-card:not(.hidden)').length;
+            sec.style.display = visible ? '' : 'none';
+          });
+        });
+      });
     }());
   </script>
 </Layout>
