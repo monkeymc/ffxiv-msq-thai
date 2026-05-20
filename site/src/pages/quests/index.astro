@@ -51,9 +51,6 @@ const groups = groupQuestsByLevel(quests);
                 <a class="quest-card" href={`${base}/quests/${q.id}/`} data-source={q.source}>
                   <div class="qc-head">
                     <span class="qc-lv">LV {q.level}</span>
-                    {q.source === 'contributor' && <span class="badge badge-contrib">ชุมชน</span>}
-                    {q.source === 'ai'          && <span class="badge badge-ai">AI</span>}
-                    {q.source === 'none'        && <span class="badge badge-pending">รอแปล</span>}
                   </div>
                   <div class="qc-title-en">{q.title_en}</div>
                   {q.title_th
@@ -73,9 +70,6 @@ const groups = groupQuestsByLevel(quests);
             <a class="quest-card" href={`${base}/quests/${q.id}/`} data-source={q.source}>
               <div class="qc-head">
                 <span class="qc-lv">LV {q.level}</span>
-                {q.source === 'contributor' && <span class="badge badge-contrib">ชุมชน</span>}
-                {q.source === 'ai'          && <span class="badge badge-ai">AI</span>}
-                {q.source === 'none'        && <span class="badge badge-pending">รอแปล</span>}
               </div>
               <div class="qc-title-en">{q.title_en}</div>
               {q.title_th
