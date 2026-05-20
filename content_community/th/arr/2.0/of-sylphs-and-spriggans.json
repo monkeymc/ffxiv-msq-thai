@@ -1,5 +1,11 @@
 {
+  "id": "of-sylphs-and-spriggans",
+  "wiki_path": "/wiki/Of_Sylphs_and_Spriggans",
+  "wiki_image_url": "",
+  "patch": "2.0",
   "title": "เรื่องของซิลฟ์และสปริกแกน",
-  "title_status": "AI",
+  "level": "43",
+  "location": "East Shroud(X:21,Y:25)",
+  "npc_start": "Komuxio",
   "dialogues": []
 }

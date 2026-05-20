@@ -1,30 +1,36 @@
 {
+  "id": "microbrewing",
+  "wiki_path": "/wiki/Microbrewing",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
   "title": "ต้มเหล้าเถื่อน",
-  "title_status": "AI",
+  "level": "23",
+  "location": "Upper La Noscea(X:14.7,Y:24.4)",
+  "npc_start": "Teteroon",
   "dialogues": [
     {
-      "text": "Buscaroon คนดีช่วย Teteroon Teteroon คงตายไปแล้วถ้าไม่มี Buscaroon คนดี ต้องขอบคุณมากๆ เลยนะ ขอบคุณจริงๆ Teteroon จะทำเหล้าเถื่อน Qiqirn ให้ Buscaroon! Buscaroon ชอบเหล้าเถื่อนมากๆ เลย!",
-      "status": "AI"
+      "character": "Teteroon",
+      "text": "Buscaroon คนดีช่วย Teteroon Teteroon คงตายไปแล้วถ้าไม่มี Buscaroon คนดี ต้องขอบคุณมากๆ เลยนะ ขอบคุณจริงๆ Teteroon จะทำเหล้าเถื่อน Qiqirn ให้ Buscaroon! Buscaroon ชอบเหล้าเถื่อนมากๆ เลย!"
     },
     {
-      "text": "คุณช่วย Teteroon ทำเหล้าเถื่อนได้ไหม? ต้องใช้ของหลายอย่างเลยล่ะ ต้องใช้ของเยอะแยะไปหมด",
-      "status": "AI"
+      "character": "Teteroon",
+      "text": "คุณช่วย Teteroon ทำเหล้าเถื่อนได้ไหม? ต้องใช้ของหลายอย่างเลยล่ะ ต้องใช้ของเยอะแยะไปหมด"
     },
     {
-      "text": "ต้องใช้หนวดลูก coeurl ขอลูก coeurl สักสามเส้นนะ",
-      "status": "AI"
+      "character": "Teteroon",
+      "text": "ต้องใช้หนวดลูก coeurl ขอลูก coeurl สักสามเส้นนะ"
     },
     {
-      "text": "Teteroon จะทำเหล้าเถื่อนให้ Buscaroon คุณเอาของที่ Teteroon ต้องการมาให้หน่อยได้ไหม?",
-      "status": "AI"
+      "character": "Teteroon",
+      "text": "Teteroon จะทำเหล้าเถื่อนให้ Buscaroon คุณเอาของที่ Teteroon ต้องการมาให้หน่อยได้ไหม?"
     },
     {
-      "text": "คุณเอาของมาครบหมดแล้ว! Teteroon จะทำเหล้าเถื่อนเดี๋ยวนี้แหละ จะทำเหล้าเถื่อนดีๆ ให้ Buscaroon คนดีเลย",
-      "status": "AI"
+      "character": "Teteroon",
+      "text": "คุณเอาของมาครบหมดแล้ว! Teteroon จะทำเหล้าเถื่อนเดี๋ยวนี้แหละ จะทำเหล้าเถื่อนดีๆ ให้ Buscaroon คนดีเลย"
     },
     {
-      "text": "Teteroon จะเริ่มทำเหล้าเถื่อนแล้วนะ เหล้าเถื่อนดีๆ ต้องใช้เวลา ยิ่งนานยิ่งดี คุณค่อยกลับมาใหม่ทีหลังนะ",
-      "status": "AI"
+      "character": "Teteroon",
+      "text": "Teteroon จะเริ่มทำเหล้าเถื่อนแล้วนะ เหล้าเถื่อนดีๆ ต้องใช้เวลา ยิ่งนานยิ่งดี คุณค่อยกลับมาใหม่ทีหลังนะ"
     }
   ]
 }

@@ -1,5 +1,11 @@
 {
+  "id": "an-eft-for-effort",
+  "wiki_path": "/wiki/An_Eft_for_Effort",
+  "wiki_image_url": "",
+  "patch": "2.0",
   "title": "เอฟท์แลกความพยายาม",
-  "title_status": "AI",
+  "level": "6",
+  "location": "Central Shroud(X:23,Y:19)",
+  "npc_start": "Galfrid",
   "dialogues": []
 }

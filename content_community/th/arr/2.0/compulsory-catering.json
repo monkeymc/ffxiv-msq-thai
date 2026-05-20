@@ -1,5 +1,11 @@
 {
+  "id": "compulsory-catering",
+  "wiki_path": "/wiki/Compulsory_Catering",
+  "wiki_image_url": "",
+  "patch": "2.0",
   "title": "จัดเลี้ยงภาคบังคับ",
-  "title_status": "AI",
+  "level": "13",
+  "location": "Western Thanalan(X:14,Y:18)",
+  "npc_start": "Merilda",
   "dialogues": []
 }

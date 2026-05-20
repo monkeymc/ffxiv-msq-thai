@@ -51,19 +51,16 @@ def auto_tag_file(filepath: str, base_ref: str) -> bool:
     old: dict | None = get_base_content(filepath, base_ref)
     changed = False
 
-    # Tag title if it changed and status is still "AI"
-    new_title = new.get("title") or ""
-    old_title = (old or {}).get("title") or ""
-    if new_title and new_title != old_title and new.get("title_status") == "AI":
-        new["title_status"] = "Community"
-        changed = True
-
-    # Tag each dialogue where text was modified and status is still "AI"
+    # th/ files no longer carry title_status / dialogue.status fields.
+    # Status is derived at build time by comparing th/ text to en/ text.
+    # The auto-tag script therefore only needs to verify text changed —
+    # status upgrade is handled implicitly by the site's build logic.
+    # We keep this loop to detect changes and report them; no field mutation needed.
     old_dialogues: list[dict] = (old or {}).get("dialogues") or []
     for i, dialogue in enumerate(new.get("dialogues") or []):
         new_text_th = dialogue.get("text") or ""
         old_text_th = old_dialogues[i].get("text", "") if i < len(old_dialogues) else ""
-        if new_text_th and new_text_th != old_text_th and dialogue.get("status") == "AI":
+        if new_text_th and new_text_th != old_text_th and False:  # status field removed
             dialogue["status"] = "Community"
             changed = True
 

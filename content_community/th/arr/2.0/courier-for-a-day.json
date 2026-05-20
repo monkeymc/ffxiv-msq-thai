@@ -1,5 +1,11 @@
 {
+  "id": "courier-for-a-day",
+  "wiki_path": "/wiki/Courier_for_a_Day",
+  "wiki_image_url": "",
+  "patch": "2.0",
   "title": "คนส่งของจำเป็น",
-  "title_status": "AI",
+  "level": "10",
+  "location": "Middle La Noscea(X:15,Y:16)",
+  "npc_start": "Wyrkrhit",
   "dialogues": []
 }

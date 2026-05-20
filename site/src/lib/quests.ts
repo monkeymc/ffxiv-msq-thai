@@ -65,8 +65,9 @@ function readJson<T>(path: string): T | null {
   return JSON.parse(readFileSync(path, 'utf-8')) as T;
 }
 
-// en/ schema — blueprint + English text
-interface EnQuest {
+// Both en/ and th/ share the same schema — th/ is a structural clone of en/
+// with only "title" and "dialogues[i].text" replaced by Thai translations.
+interface CommunityFile {
   id: string;
   wiki_path: string;
   wiki_image_url: string;
@@ -78,26 +79,21 @@ interface EnQuest {
   dialogues: { character: string; text: string }[];
 }
 
-// th/ schema — Thai translations + community review status
-interface ThQuest {
-  title: string;
-  title_status: 'AI' | 'Community' | 'none';
-  dialogues: { text: string; status: 'AI' | 'Community' | 'none' }[];
-}
-
 function loadQuest(exp: Expansion, filename: string): Quest {
-  const en = readJson<EnQuest>(join(communityEnDir(exp), filename))!;
-  const th = readJson<ThQuest>(join(communityThDir(exp), filename));
+  const en = readJson<CommunityFile>(join(communityEnDir(exp), filename))!;
+  const th = readJson<CommunityFile>(join(communityThDir(exp), filename));
 
-  const dialogues: Dialogue[] = en.dialogues.map((d, i) => ({
-    character: d.character,
-    text_en: d.text,
-    text_th: th?.dialogues[i]?.text ?? '',
-    status: th?.dialogues[i]?.status ?? 'none',
-  }));
+  const dialogues: Dialogue[] = en.dialogues.map((d, i) => {
+    const text_th = th?.dialogues[i]?.text ?? '';
+    // Derive status: non-empty Thai text that differs from English → AI-translated
+    const status: Dialogue['status'] =
+      text_th && text_th !== d.text ? 'AI' : 'none';
+    return { character: d.character, text_en: d.text, text_th, status };
+  });
 
   const title_th = th?.title ?? '';
-  const title_status = th?.title_status ?? 'none';
+  const title_status: Quest['title_status'] =
+    title_th && title_th !== en.title ? 'AI' : 'none';
 
   const total = dialogues.length;
   const communityCount = dialogues.filter(d => d.status === 'Community').length;

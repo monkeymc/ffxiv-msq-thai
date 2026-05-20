@@ -1,50 +1,56 @@
 {
+  "id": "wilred-wants-you",
+  "wiki_path": "/wiki/Wilred_Wants_You",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
   "title": "วิลเรดต้องการคุณ",
-  "title_status": "AI",
+  "level": "27",
+  "location": "Southern Thanalan(X:16.9,Y:14.3)",
+  "npc_start": "Hremfing",
   "dialogues": [
     {
-      "text": "",
-      "status": "none"
+      "character": "Hremfing",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Hremfing",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Hremfing",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Wilred",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Wilred",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Wilred",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Wilred",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Wilred",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Wilred",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Gundobald",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Gundobald",
+      "text": ""
     }
   ]
 }

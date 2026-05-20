@@ -1,5 +1,11 @@
 {
+  "id": "further-afield",
+  "wiki_path": "/wiki/Further_Afield",
+  "wiki_image_url": "",
+  "patch": "2.0",
   "title": "ไกลออกไปอีก",
-  "title_status": "AI",
+  "level": "6",
+  "location": "Middle La Noscea(X:25,Y:17)",
+  "npc_start": "Gurcant",
   "dialogues": []
 }

@@ -1,378 +1,384 @@
 {
+  "id": "wrath-of-the-titan",
+  "wiki_path": "/wiki/Wrath_of_the_Titan",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/db/Wrath_of_the_Titan_Image.png",
+  "patch": "2.0",
   "title": "พิโรธของไทแทน",
-  "title_status": "AI",
+  "level": "30",
+  "location": "The Waking Sands(X:6.9,Y:6.1)",
+  "npc_start": "Minfilia",
   "dialogues": [
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Thancred",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Minfilia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Dariustel",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Dariustel",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Noraxia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Bremondt",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Papalymo",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Papalymo",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Haribehrt",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Una Tayuun",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Una Tayuun",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Liavinne",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Liavinne",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "A'aba Tia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "A'aba Tia",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Arenvald",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Arenvald",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Aulie",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Aulie",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Biggs",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Wedge",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Clive",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Urianger",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "R'ashaht Rhiki",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "R'ashaht Rhiki",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "R'ashaht Rhiki",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "R'ashaht Rhiki",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "R'ashaht Rhiki",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "R'ashaht Rhiki",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "R'ashaht Rhiki",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Merlwyb",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Merlwyb",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Merlwyb",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Merlwyb",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Merlwyb",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Merlwyb",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Merlwyb",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "R'ashaht Rhiki",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Merlwyb",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Merlwyb",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Merlwyb",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Merlwyb",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Merlwyb",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "R'ashaht Rhiki",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Y'shtola",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Trachtoum",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Trachtoum",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Trachtoum",
+      "text": ""
     },
     {
-      "text": "",
-      "status": "none"
+      "character": "Trachtoum",
+      "text": ""
     }
   ]
 }

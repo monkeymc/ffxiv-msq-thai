@@ -1,5 +1,11 @@
 {
+  "id": "with-a-little-elbow-grease",
+  "wiki_path": "/wiki/With_a_Little_Elbow_Grease",
+  "wiki_image_url": "",
+  "patch": "2.0",
   "title": "ด้วยแรงกายเล็กน้อย",
-  "title_status": "AI",
+  "level": "35",
+  "location": "Eastern Thanalan(X:11,Y:21)",
+  "npc_start": "Eaduuard",
   "dialogues": []
 }
