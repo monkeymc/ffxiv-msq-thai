@@ -487,13 +487,12 @@ footer.site a:hover { color: var(--ink); }
 .toc-section { margin-bottom: 2.5rem; }
 .toc-section-head {
   display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 0.9rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.4rem;
   margin-bottom: 1.2rem;
   padding-bottom: 0.6rem;
   border-bottom: 1px dashed var(--line);
-  flex-wrap: wrap;
 }
 .toc-section-head .num {
   font-family: var(--mono);
@@ -506,15 +505,14 @@ footer.site a:hover { color: var(--ink); }
   font-size: 1.18rem;
   font-weight: 500;
   color: var(--ink);
-  flex-shrink: 0;
 }
 .toc-section-head .desc {
   font-size: 0.84rem;
   color: var(--ink-dim);
   line-height: 1.5;
   text-wrap: pretty;
-  margin-left: auto;
-  max-width: 55%;
+  margin-left: 0;
+  max-width: 100%;
   text-align: left;
 }
 
@@ -895,8 +893,6 @@ body.show-all-en .dl-line .dl-text-en {
 @media (max-width: 720px) {
   main { padding: 1.5rem 1rem 4rem; }
   .home-hero { margin: 1.5rem auto 3rem; }
-  .toc-section-head { flex-direction: column; align-items: flex-start; gap: 0.4rem; }
-  .toc-section-head .desc { margin-left: 0; max-width: 100%; text-align: left; }
   .brand .th { display: none; }
   header.site nav { padding: 0.8rem 1rem; gap: 0.6rem; }
 }
