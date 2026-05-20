@@ -1,0 +1,68 @@
+{
+  "id": "sky-high",
+  "wiki_path": "/wiki/Sky-high",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Sky-high",
+  "title_th": "เสียดฟ้า",
+  "title_status": "AI",
+  "level": "10",
+  "location": "Limsa Lominsa Upper Decks(X:11.6,Y:11.1)",
+  "npc_start": "Baderon",
+  "dialogues": [
+    {
+      "character": "Baderon",
+      "text_en": "'Ow do ye fare, Forename ? Rested and ready to expand yer 'orizons?",
+      "text_th": "เป็นไงบ้างล่ะ [ชื่อ] ? พักผ่อนเต็มอิ่มพร้อมจะออกไปเปิดหูเปิดตาแล้วใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Well, then, I've an idea o' where ye might try 'eadin' next. 'Ave ye 'eard o' the Skylift out in middle La Noscea?",
+      "text_th": "เอาล่ะ ถ้าอย่างนั้น ข้ามีไอเดียว่าเจ้าควรจะลองไปที่ไหนต่อ เจ้าเคยได้ยินชื่อ Skylift ตรงกลางเขต La Noscea บ้างไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "If ye've ever visited Woad Whisper Canyon, then ye must've been up and down the thing at least once. It's that big bleedin' scaffoldin' attached to the Descent.",
+      "text_th": "ถ้าเจ้าเคยไปเที่ยวที่ Woad Whisper Canyon ล่ะก็ เจ้าก็ต้องเคยขึ้นลงไอ้นั่นอย่างน้อยก็ครั้งนึงล่ะนะ มันคือโครงนั่งร้านขนาดเบ้อเริ่มเทิ่มที่ติดอยู่กับ Descent ไงล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Ye've likely seen the lads and lasses out there usin' it to 'aul cargo up the cliff face. 'Ard labor, that, and I 'ear they could use an enterprisin' soul to pick up the odd jobs what no other bugger 'as time to deal with.",
+      "text_th": "เจ้าคงเคยเห็นพวกหนุ่มๆ สาวๆ แถวนั้นใช้มันลากของขึ้นหน้าผากันสินะ งานใช้แรงงานหนักเลยล่ะ และข้าก็ได้ยินมาว่าพวกเขาต้องการคนขยันๆ สักคนไปช่วยทำงานจิปาถะที่ไม่มีใครมีเวลาไปจัดการด้วยน่ะสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Track down the 'ead o' the operation─bloke by the name o' Wyrkrhit─and 'e'll be sure to put ye to work on a task or two.",
+      "text_th": "ไปตามหาหัวหน้าคนงานดูสิ─หมอนั่นชื่อ Wyrkrhit ─แล้วเขาก็จะต้องมีงานให้เจ้าทำสักงานสองงานแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Wyrkrhit",
+      "text_en": "Baderon sent ye out here, did he? Then consider yerself welcome at the Skylift.",
+      "text_th": "Baderon ส่งเจ้ามาที่นี่งั้นรึ? ถ้าอย่างนั้นก็ขอต้อนรับสู่ Skylift นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wyrkrhit",
+      "text_en": "Look at that bloody cliff, will ye? One blast o' fiery hell from that huge dragon was all it took to split the ground in half.",
+      "text_th": "ลองดูหน้าผาบ้านั่นสิ เห็นไหม? มังกรยักษ์นั่นพ่นไฟนรกออกมาแค่ทีเดียว ก็เล่นเอาแผ่นดินแยกเป็นสองเสี่ยงเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wyrkrhit",
+      "text_en": "Cargo still needs to get through, though, so this mess o' wood an' pulleys was our solution to the problem.",
+      "text_th": "แต่สินค้าก็ยังต้องส่งผ่านไปให้ได้อยู่ดี ไอ้กองไม้กับรอกพวกนี้ก็เลยกลายมาเป็นวิธีแก้ปัญหาของเราไงล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wyrkrhit",
+      "text_en": "Well, one of 'em, at least. If the gods were kind─an' they ain't─I'd have about a dozen more workers to handle me growin' list o' headaches...",
+      "text_th": "ก็แค่วิธีนึงล่ะนะ ถ้าเทพเจ้าทรงเมตตาเราบ้าง─ซึ่งพวกเขาก็ไม่หรอก─ข้าก็คงจะมีคนงานมาช่วยแบ่งเบาเรื่องน่าปวดหัวที่เพิ่มขึ้นเรื่อยๆ นี่อีกสักสิบกว่าคนแล้วล่ะ...",
+      "status": "AI"
+    }
+  ]
+}

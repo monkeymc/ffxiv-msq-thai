@@ -1,0 +1,458 @@
+{
+  "id": "every-little-thing-she-does-is-magitek",
+  "wiki_path": "/wiki/Every_Little_Thing_She_Does_Is_Magitek",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/6/66/Every_Little_Thing_She_Does_Is_Magitek_Image.png",
+  "patch": "2.0",
+  "title_en": "Every Little Thing She Does Is Magitek",
+  "title_th": "ทุกสิ่งที่เธอทำล้วนเป็นมาจิเทค",
+  "title_status": "AI",
+  "level": "46",
+  "location": "Mor Dhona(X:6.0,Y:6.0)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text_en": "The repairs are proceeding apace. It shouldn't be long now before Biggs and Wedge complete their work. There is, however, one small problem...",
+      "text_th": "การซ่อมแซมกำลังดำเนินไปอย่างรวดเร็ว อีกไม่นาน Biggs กับ Wedge ก็น่าจะซ่อมเสร็จแล้วล่ะ แต่ติดปัญหาเล็กๆ อยู่อย่างนึงนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "As you may recall, the machina's servomechanism was discovered to be faulty. Wedge has subsequently ascertained that the magitek core which drives it is worn beyond use.",
+      "text_th": "อย่างที่เธอจำได้นั่นแหละ กลไกเซอร์โวของจักรกลมันเสีย จากนั้น Wedge ก็เช็คดูแล้วว่าแกนมาจิเทคที่ขับเคลื่อนมันอยู่ สึกหรอจนใช้งานไม่ได้แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Such cores are rather fragile devices which must be replaced at regular intervals. Thanks to the negligence of our imperial colleagues, however, the one used in this reaper was long overdue.",
+      "text_th": "แกนพวกนี้มันบอบบางมาก ต้องเปลี่ยนเป็นระยะๆ ด้วยความที่วิศวกรของพวกอิมพีเรียลละเลย แกนที่อยู่ใน reaper ตัวนี้ก็เลยเลยกำหนดเปลี่ยนมานานแล้วน่ะสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Alas, we do not have access to a ready replacement here in Mor Dhona. But all is not lost: Wedge thinks he may have identified an alternative solution. Go and see him, would you? He'll explain the details to you.",
+      "text_th": "น่าเสียดายนะที่เราไม่มีอะไหล่เปลี่ยนที่นี่ใน Mor Dhona แต่ก็ยังไม่สิ้นหวังซะทีเดียวนะ: Wedge คิดว่าเขาอาจจะหาทางออกสำรองได้แล้วล่ะ ลองไปคุยกับเขาดูสิ เขาจะอธิบายรายละเอียดให้ฟังเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Much like that gamble with the corrupted crystal, it's quite possible that this plan fails spectacularly. But it's a risk we'll have to take in order to free our friends.",
+      "text_th": "มันก็เหมือนกับการเสี่ยงดวงกับคริสตัลเสื่อมสภาพนั่นแหละ แผนนี้มีโอกาสที่จะพังไม่เป็นท่าได้เหมือนกัน แต่มันเป็นความเสี่ยงที่เราต้องยอมแลกเพื่อช่วยเพื่อนของเรานะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "As I believe the chief has already informed you, the magitek core is worn beyond use. We need to find a replacement.",
+      "text_th": "อย่างที่ท่านหัวหน้าน่าจะบอกเธอไปแล้วล่ะว่าแกนมาจิเทคมันพังจนซ่อมไม่ได้แล้ว เราต้องหาอะไหล่มาเปลี่ยนน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I thought about having you appropriate more reapers, but even if the dunderhead maintenance engineers of Castrum Centri had remembered to replace their cores, we would risk arousing imperial suspicion.",
+      "text_th": "ตอนแรกฉันคิดว่าจะให้เธอไปขโมย reaper มาอีกสักสองสามตัว แต่ต่อให้ไอ้วิศวกรซ่อมบำรุงหัวขี้เลื่อยที่ Castrum Centri จะจำได้ว่าต้องเปลี่ยนแกนมาจิเทค เราก็จะเสี่ยงทำให้พวกอิมพีเรียลสงสัยเอาได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "But do not despair, for I believe there is a solution: to substitute the magitek core with a mammet heart!",
+      "text_th": "แต่ไม่ต้องหมดหวังไปหรอกนะ ฉันคิดว่ามีทางแก้แล้วล่ะ: เราจะเอาหัวใจตุ๊กตาไขลาน (mammet heart) มาใช้แทนแกนมาจิเทคไง!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "In case you don't know, a mammet heart can be used to grant sentience to an automaton. By my reckoning, such a device should be more than capable of regulating the armor's servomechanism. We'll just need to make some minor modifications to the housing unit.",
+      "text_th": "เผื่อเธอไม่รู้นะ หัวใจตุ๊กตาไขลานน่ะใช้สำหรับมอบความรู้สึกนึกคิดให้กับหุ่นยนต์ได้ จากที่ฉันคำนวณดูแล้ว อุปกรณ์แบบนั้นน่าจะควบคุมกลไกเซอร์โวของชุดเกราะได้สบายๆ เลยล่ะ เราแค่ต้องปรับแต่งตัวเรือนมันนิดหน่อยก็พอ",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I've already placed an order for a first-rate mammet heart with the Goldsmiths' Guild. All that remains is for someone to go to Ul'dah and collect it! Oh...and to pay for it. Ahem. Did I...mention how much they cost? No? W–Well, they typically cost something in the order of, um... <mumble> I hope you don't mind footing the bill─it's for a good cause!",
+      "text_th": "ฉันสั่งหัวใจตุ๊กตาไขลานชั้นยอดจาก Goldsmiths' Guild ไว้เรียบร้อยแล้ว ที่เหลือก็แค่มีคนไปเอามาจาก Ul'dah เท่านั้นเอง! อ้อ... แล้วก็ต้องจ่ายเงินด้วยนะ อะแฮ่ม ฉัน... บอกหรือยังว่ามันราคาเท่าไหร่? ยังเหรอ? อ-เอ่อ ปกติแล้วมันก็ราคาราวๆ... <พึมพำ> หวังว่าเธอคงไม่รังเกียจที่จะออกเงินให้ก่อนนะ─เพื่อเป้าหมายที่ดีไง!",
+      "status": "AI"
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "Hello there! Come to collect a mammet heart, you say?",
+      "text_th": "สวัสดีค่ะ! มารับหัวใจตุ๊กตาไขลานใช่ไหมคะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "Then you must be here on behalf of Garlond Ironworks! I've taken the liberty of picking the finest example we have─a heart fit for a prince among mammets!",
+      "text_th": "งั้นคุณคงมาในนามของ Garlond Ironworks สินะคะ! ฉันขอถือวิสาสะเลือกชิ้นที่ดีที่สุดมาให้เลยค่ะ─เป็นหัวใจที่คู่ควรกับเจ้าชายแห่งตุ๊กตาไขลานเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "...Payment? Oh, that won't be necessary. The heart is for Master Alphinaud's personal use, after all. He notified us a short while ago that his manservant would be coming to collect it.",
+      "text_th": "...จ่ายเงินเหรอคะ? อ้อ ไม่เป็นไรหรอกค่ะ หัวใจดวงนี้เป็นของใช้ส่วนตัวของท่าน Alphinaud นี่คะ เขาเพิ่งแจ้งเราเมื่อครู่นี้เองว่าจะมีคนรับใช้มารับของ",
+      "status": "AI"
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "Tender in years though he may be, Master Alphinaud has been a benefactor of ours since my predecessor's time. The Goldsmiths' Guild wouldn't dream of charging him.",
+      "text_th": "แม้ท่าน Alphinaud จะยังอายุน้อยอยู่ แต่เขาก็เป็นผู้อุปถัมภ์เรามาตั้งแต่สมัยผู้ดำรงตำแหน่งคนก่อนแล้วล่ะค่ะ ทาง Goldsmiths' Guild ไม่กล้าคิดเงินเขาหรอกค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "But here is the mammet heart! May it serve you well! Oh, and please do pass on my compliments to your master!",
+      "text_th": "นี่ค่ะ หัวใจตุ๊กตาไขลาน! ขอให้ใช้งานได้ดีนะคะ! อ้อ แล้วก็อย่าลืมฝากความเคารพของฉันไปถึงเจ้านายของคุณด้วยนะคะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Do you have the mammet heart? I can't wait to see if it works!",
+      "text_th": "ได้หัวใจตุ๊กตาไขลานมาแล้วใช่ไหม? ฉันล่ะแทบรอไม่ไหวที่จะดูว่ามันจะใช้ได้ไหม!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Hurrah! Thank you so much!",
+      "text_th": "ไชโย! ขอบคุณมากนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "<gasp> But this...this is magnificent ! It must have cost an emperor's ransom!",
+      "text_th": "<สะอึก> แต่นี่... นี่มัน ช่างงดงามจริงๆ ! ราคามันต้องแพงหูฉี่แน่ๆ เลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "...Free of charge, courtesy of Alphinaud!? Coming from an influential family certainly has its advantages!",
+      "text_th": "...ได้มาฟรีเหรอ ด้วยความอนุเคราะห์ของ Alphinaud เนี่ยนะ!? การเกิดมาในตระกูลที่มีอิทธิพลมันก็มีข้อดีแบบนี้แหละเนอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "But without further ado, let's give it a try! I've already modified the housing unit, so it should slot right in!",
+      "text_th": "แต่ไม่ต้องพูดพร่ำทำเพลงแล้ว มาลองดูกันเถอะ! ฉันปรับแต่งตัวเรือนไว้เรียบร้อยแล้ว มันน่าจะใส่เข้าล็อกได้พอดีเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "There! She's ready! Magitek armor...engage!",
+      "text_th": "เอาล่ะ! เธอพร้อมแล้ว! หุ่นเกราะมาจิเทค... เริ่มทำงานได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "...Or not. Haha...hah... She just needs a loving tap, I'll wager.",
+      "text_th": "...หรืออาจจะยัง ฮ่าๆ... ฮะ... ฉันว่าเธอแค่ต้องการให้แตะเบาๆ ด้วยความรักล่ะมั้ง",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Yes! She's...she's ALIVE!",
+      "text_th": "สำเร็จ! เธอ... เธอ มีชีวิต แล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Let's take her outside and put her through her paces! Forename , would you care to do the honors?",
+      "text_th": "เอาเธอออกไปข้างนอกแล้วลองทดสอบดูดีกว่า! [ชื่อ] เธออยากจะลองประเดิมไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Hop into the pilot's seat! We'll begin as soon as you're ready!",
+      "text_th": "ขึ้นไปนั่งตรงที่คนขับเลย! พร้อมเมื่อไหร่ก็เริ่มกันเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "First, I'd like you to try climbing that tangle of crystals yonder─as far up as you can go, if you please.",
+      "text_th": "อย่างแรก ฉันอยากให้เธอลองปีนกองคริสตัลตรงโน้นดู─ปีนขึ้นไปให้สูงที่สุดเท่าที่จะทำได้เลยนะ ขอร้องล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Oh, and if for some reason you need to dismount, simply come back here and we'll start again.",
+      "text_th": "อ้อ แล้วถ้ามีเหตุให้ต้องลงจากหุ่นล่ะก็ แค่กลับมาที่นี่แล้วเราก็เริ่มกันใหม่ได้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Um...a fine effort, Forename , but you seem to have left Maggie behind─I-I mean the reaper. Come back here so we can start again.",
+      "text_th": "เอ่อ... พยายามได้ดีนะ [ชื่อ] แต่ดูเหมือนเธอจะทิ้ง Maggie ไว้ข้างหลังนะ─ฉ-ฉันหมายถึงหุ่น reaper น่ะ กลับมาที่นี่สิ เราจะได้เริ่มกันใหม่",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Let's try that again, shall we? Hop back in, Forename !",
+      "text_th": "เอาใหม่ดีกว่านะ? ขึ้นไปขับใหม่เลย [ชื่อ] !",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "I've overseen a hundred such tests, but they still play hells with my nerves. And that's without the chief watching...",
+      "text_th": "ฉันดูแลการทดสอบแบบนี้มาเป็นร้อยครั้งแล้ว แต่ก็ยังทำให้ฉันประหม่าอยู่ดี ยิ่งหัวหน้ายืนดูอยู่ด้วยนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "This is the Ironworks' first major project since my return. I mean to see that it's a success.",
+      "text_th": "นี่เป็นโปรเจกต์ใหญ่โปรเจกต์แรกของ Ironworks ตั้งแต่ฉันกลับมาเลยนะ ฉันตั้งใจจะทำให้มันสำเร็จให้จงได้",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "No anomalous movements evident from either leg. Good. Next, jump back down and then sprint north, quick as you can!",
+      "text_th": "ไม่มีความเคลื่อนไหวผิดปกติใดๆ จากขาทั้งสองข้าง ดีมาก ต่อไป กระโดดลงมาแล้ววิ่งไปทางเหนือให้เร็วที่สุดเลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Leg joints absorbing all impact without incident... Excellent. Please make your way back, Forename .",
+      "text_th": "ข้อต่อขาสามารถรองรับแรงกระแทกได้ทั้งหมดโดยไม่มีปัญหา... เยี่ยมมาก กลับมาได้เลย [ชื่อ]",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "The torso remains stable during vigorous motion... Excellent. And that concludes our test. Thank you for your cooperation!",
+      "text_th": "ช่วงลำตัวยังคงมั่นคงดีในระหว่างการเคลื่อนไหวอย่างรุนแรง... ยอดเยี่ยมมาก และนั่นก็สิ้นสุดการทดสอบของเรา ขอบคุณสำหรับความร่วมมือนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Here is a summary of my findings. The drivetrain is in sound condition. With some fine-tuning, we can expect a noticeable improvement in performance. As for the servomechanism...",
+      "text_th": "นี่คือสรุปผลการตรวจสอบของฉันนะ ระบบขับเคลื่อนอยู่ในสภาพที่สมบูรณ์ดี ถ้าปรับแต่งอีกนิดหน่อย ก็น่าจะคาดหวังถึงประสิทธิภาพที่ดีขึ้นได้อย่างชัดเจนเลยล่ะ ส่วนระบบกลไกเซอร์โว...",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I'm afraid it's not nearly as responsive as it should be, and I'm at a loss to explain why. The mammet heart is in pristine condition, and should be installed correctly. Perhaps its inner workings are simply too different to operate harmoniously with the armor's other mechanisms?",
+      "text_th": "ฉันเกรงว่ามันจะไม่ค่อยตอบสนองอย่างที่ควรจะเป็นนะ และฉันก็ไม่รู้จะอธิบายว่าทำไมด้วย หัวใจตุ๊กตาไขลานก็อยู่ในสภาพที่สมบูรณ์แบบ แถมก็น่าจะติดตั้งถูกต้องแล้วด้วย บางทีกลไกภายในของมันอาจจะแตกต่างเกินไปจนทำงานร่วมกับกลไกอื่นๆ ของหุ่นเกราะได้ไม่ดีล่ะมั้ง?",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Whereas magitek cores serve only to conduct impulses, mammet hearts enable automata to process the information collected by their sensors as feeli─ <gasp> Feelings ! Maybe she just doesn't feel like part of the team!? In which case, we should all do our best to make her feel [welcome]!",
+      "text_th": "ในขณะที่แกนมาจิเทคทำหน้าที่แค่ส่งกระแสไฟฟ้า แต่หัวใจตุ๊กตาไขลานกลับทำให้หุ่นยนต์สามารถประมวลผลข้อมูลที่ได้รับจากเซ็นเซอร์ออกมาเป็นความรู้สึ─ <สะอึก> ความรู้สึก ! บางทีเธออาจจะแค่ยังไม่รู้สึกว่าเป็นส่วนหนึ่งของทีมก็ได้นะ!? ถ้าเป็นอย่างนั้น เราก็ต้องพยายามทำให้เธอรู้สึก [เป็นที่ต้อนรับ] ให้ได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Come on, everyone! Let's give Maggie here a warm [welcome]! Really make her feel at home!",
+      "text_th": "มาเร็วทุกคน! มาให้การต้อนรับ Maggie แบบอบอุ่น [welcome] กันเถอะ! ทำให้เธอรู้สึกเหมือนอยู่บ้านเลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "...You're not serious. You want us to welcome an inanimate object?",
+      "text_th": "...นายไม่ได้พูดจริงใช่ไหม? นายจะให้เราต้อนรับสิ่งของที่ไม่มีชีวิตเนี่ยนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I take it Wedge's suggestion has given you pause. Well, I don't blame you. The lad does have some rather unorthodox ideas. Still, orthodoxy did not give us language, tools, clothes...or machina. Short of a better idea, I don't suppose it would hurt to try.",
+      "text_th": "ฉันเดาว่าข้อเสนอของ Wedge คงทำให้เธออึ้งไปเลยสิ แหม ฉันก็ไม่โทษเธอหรอกนะ เจ้าหนูนี่มีไอเดียแปลกๆ อยู่บ้างแหละ แต่ก็นะ การทำตามแบบแผนเดิมๆ มันไม่ได้ทำให้เรามีภาษา เครื่องมือ เสื้อผ้า... หรือเครื่องจักรหรอกนะ ในเมื่อยังไม่มีไอเดียที่ดีกว่านี้ ฉันว่าลองดูหน่อยก็ไม่เสียหายนี่นา",
+      "status": "AI"
+    },
+    {
+      "character": "Magitek Armor",
+      "text_en": "...",
+      "text_th": "...",
+      "status": "AI"
+    },
+    {
+      "character": "Magitek Armor",
+      "text_en": "<click>",
+      "text_th": "<คลิก>",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Daft as it felt, I gave it my best. I've welcomed myself to a bloody standstill. What were you expecting it to do anyway? Bob us a curtsy?",
+      "text_th": "ถึงจะรู้สึกว่ามันงี่เง่าแค่ไหน ฉันก็พยายามเต็มที่แล้วนะ ฉันต้อนรับจนเหนื่อยหอบไปหมดแล้วเนี่ย เธอหวังจะให้มันทำอะไรกันแน่เนี่ย? ถอนสายบัวให้เราเหรอไง?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "No doubt you're wondering why the servomechanism is so important as to warrant this silliness.",
+      "text_th": "เธอคงสงสัยสินะว่าทำไมกลไกเซอร์โวถึงสำคัญนัก ถึงขนาดต้องมาทำเรื่องไร้สาระพวกนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Without it, the pilot would be required to control the armor's every movement manually. This would be an onerous task at the best of times, and wholly impractical during battle.",
+      "text_th": "ถ้าไม่มีมัน คนขับจะต้องควบคุมการเคลื่อนไหวทุกอย่างของหุ่นเกราะด้วยตัวเองเลยล่ะ ซึ่งนั่นเป็นงานที่หนักหนาสาหัสเอาการในสถานการณ์ปกติ และเป็นไปไม่ได้เลยในระหว่างการต่อสู้",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Using a mammet heart in place of the worn magitek core seemed a promising solution. Alas, the device does not appear to be compatible with Garlean technology.",
+      "text_th": "การใช้หัวใจตุ๊กตาไขลานแทนแกนมาจิเทคที่สึกหรอ มันดูเป็นทางออกที่มีแนวโน้มดีนะ แต่น่าเสียดายที่อุปกรณ์ชิ้นนี้ดูเหมือนจะไม่รองรับเทคโนโลยีของ Garlean ซะแล้วสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Wedge, are there no other ways we might demonstrate our appreciation to our friend here?",
+      "text_th": "Wedge เราไม่มีวิธีอื่นที่จะแสดงความขอบคุณเพื่อนคนนี้แล้วเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I'm at my wit's end, Chief. She just...doesn't seem convinced. We could try a little dance, perhaps, or cheer our heads off...?",
+      "text_th": "ฉันจนปัญญาแล้วครับหัวหน้า เธอแค่... ดูเหมือนจะไม่เชื่อใจเราน่ะ เราลองเต้นระบำหน่อยดีไหม หรือไม่ก็เชียร์ให้สุดเสียงเลย...?",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Imperials! They've come for the armor!",
+      "text_th": "พวกอิมพีเรียล! พวกมันมาเอาหุ่นเกราะคืนแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Damn it! They have us cornered!",
+      "text_th": "บ้าเอ๊ย! พวกมันต้อนเราจนมุมแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "There's the reaper!",
+      "text_th": "นั่นไงหุ่น reaper!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "Taken by the traitor Garlond─and is that the eikon-slayer !? Oh, bollocks...",
+      "text_th": "โดนไอ้คนทรยศ Garlond ยึดไปแล้ว─แล้วนั่นมัน ผู้สังหารอีคอน ไม่ใช่เหรอ!? โอ้ บรรลัยแล้วไง...",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "Call for reinforcements!",
+      "text_th": "ขอกำลังเสริมด่วน!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "The hells you will!",
+      "text_th": "ไปลงนรกซะเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Runner",
+      "text_en": "We've located the stolen reaper! Requesting immediate assistance! Respond! Respond !",
+      "text_th": "เราเจอหุ่น reaper ที่ถูกขโมยไปแล้ว! ขอกำลังเสริมด่วน! ตอบด้วย! ตอบด้วย สิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Runner",
+      "text_en": "It's no use, sir! There's some sort of interference!",
+      "text_th": "ไม่ได้ผลครับท่าน! มีคลื่นรบกวนบางอย่าง!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "Curse you, Garlond!",
+      "text_th": "ขอสาปแช่งแก Garlond!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "No matter! If we can't reclaim it, destroy it!",
+      "text_th": "ช่างมันเถอะ! ถ้าเอาคืนไม่ได้ ก็ทำลายมันทิ้งซะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Bloody hells... Forename ─protect the armor at all costs!",
+      "text_th": "บรรลัยแล้วไง... [ชื่อ] ─ปกป้องหุ่นเกราะไว้ให้ได้ ไม่ว่าจะเกิดอะไรขึ้นก็ตาม!",
+      "status": "AI"
+    },
+    {
+      "character": "5th Cohort Secutor",
+      "text_en": "We cannot suffer the enemy to use our weapons against us!",
+      "text_th": "เราจะยอมให้ศัตรูเอาอาวุธของเรามาใช้จัดการเราเองไม่ได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "You're not undoing our hard work!",
+      "text_th": "พวกแกไม่มีทางทำลายความพยายามของพวกเราได้หรอก!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "They're on their own! We can take them!",
+      "text_th": "พวกมันมากันแค่นี้แหละ! เราจัดการได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Uwaaah! Keep them away from Maggie!",
+      "text_th": "อุแว้ก! กันพวกมันให้ออกห่างจาก Maggie นะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Oh no! She's taking damage!",
+      "text_th": "ไม่นะ! เธอโดนโจมตีแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Sh-She's in a bad way! Somebody, do something !",
+      "text_th": "ธ-เธอแย่แล้ว! ใครก็ได้ทำอะไร สักอย่าง สิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "No! Maggie! Why? WHYYY!? <sob>",
+      "text_th": "ไม่นะ! Maggie! ทำไมล่ะ? ทำม๊ายยยย!? <สะอื้น>",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Don't...let them take... Ungh...",
+      "text_th": "อย่า... ยอมให้พวกมันยึดไปได้... อั่ก...",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Chief, look! She moved!",
+      "text_th": "หัวหน้าครับ ดูสิ! เธอขยับแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Ah, now she deigns to grace us with her presence!",
+      "text_th": "อ่า ในที่สุดเธอก็ยอมแสดงปาฏิหาริย์ให้เราเห็นซะทีนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "It took us a good while, but we're finally ready.",
+      "text_th": "ใช้เวลานานเอาเรื่องเลยนะ แต่ในที่สุดเราก็พร้อมซะที",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "It's time to infiltrate Castrum Centri and rescue our comrades!",
+      "text_th": "ได้เวลาลอบเข้าไปใน Castrum Centri แล้วไปช่วยเพื่อนของเราแล้วล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "There, the finishing touch!",
+      "text_th": "นั่นไง สัมผัสสุดท้าย!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "The servomechanism is now fully functional─and all it took was a simple fight to the death. Remind me not to install a mammet heart aboard the Enterprise , would you? Much as I love her, I would rather not be required to profess it before boarding. But enough of that. Let us see to our final preparations.",
+      "text_th": "กลไกเซอร์โวทำงานเต็มรูปแบบแล้วนะ─แถมยังต้องแลกมาด้วยการต่อสู้เสี่ยงตายอีกต่างหาก เตือนฉันด้วยล่ะว่าอย่าเอาหัวใจตุ๊กตาไขลานไปติดตั้งบน Enterprise เด็ดขาดนะ? ถึงฉันจะรักเรือลำนั้นมากแค่ไหน แต่ฉันก็ไม่อยากจะต้องมานั่งสารภาพรักก่อนขึ้นเรือหรอกนะ แต่เอาเรื่องแค่นี้ก่อนดีกว่า ไปเตรียมตัวครั้งสุดท้ายกันเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Thanks to Biggs and Wedge, the reaper is as good as new. We're as prepared as we're like to get!",
+      "text_th": "ต้องขอบคุณ Biggs กับ Wedge นะ หุ่น reaper ตอนนี้สภาพเหมือนใหม่เลย เราเตรียมตัวพร้อมที่สุดเท่าที่จะพร้อมได้แล้วล่ะ!",
+      "status": "AI"
+    }
+  ]
+}

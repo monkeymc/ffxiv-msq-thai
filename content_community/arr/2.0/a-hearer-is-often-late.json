@@ -1,0 +1,62 @@
+{
+  "id": "a-hearer-is-often-late",
+  "wiki_path": "/wiki/A_Hearer_Is_Often_Late",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "A Hearer Is Often Late",
+  "title_th": "ผู้ฟังมักจะมาสาย",
+  "title_status": "AI",
+  "level": "13",
+  "location": "Central Shroud(X:22.4,Y:26.0)",
+  "npc_start": "Lothaire",
+  "dialogues": [
+    {
+      "character": "Lothaire",
+      "text_en": "I have another task for you, adventurer. I need you to head to the Hedgetree to the southwest of here and speak with Hearer Leonnie.",
+      "text_th": "ฉันมีงานอื่นสำหรับคุณนักผจญภัย ฉันต้องการให้คุณมุ่งหน้าไปที่ Hedgetree ทางตะวันตกเฉียงใต้ของที่นี่ และพูดคุยกับ Hearer Leonnie",
+      "status": "AI"
+    },
+    {
+      "character": "Lothaire",
+      "text_en": "After tending to the Hedgetree, the Hearer was scheduled to board a boat from the Mirror Planks... Well, the vessel's departure time has come and gone, but there is still no sign of her.",
+      "text_th": "หลังจากดูแล Hedgetree แล้ว ผู้ฟังก็ถูกกำหนดให้ขึ้นเรือจาก Mirror Planks... เวลาออกเดินทางของเรือมาและผ่านไปแล้ว แต่ยังไม่มีร่องรอยของเธอ",
+      "status": "AI"
+    },
+    {
+      "character": "Lothaire",
+      "text_en": "Knowing how absorbed the Hearer becomes in her work, I am not unduly concerned. Armelle, however, was responsible for organizing Leonnie's transportation and is likely wondering if her wayward passenger is ever going to arrive. Perhaps a gentle reminder is in order?",
+      "text_th": "เมื่อรู้ว่าผู้ฟังหมกมุ่นอยู่กับงานของเธอมากเพียงใด ฉันไม่กังวลจนเกินไป อย่างไรก็ตาม Armelle รับผิดชอบในการจัดการขนส่งของ Leonnie และสงสัยว่าผู้โดยสารที่เอาแต่ใจของเธอจะมาถึงหรือไม่ บางทีการเตือนใจอย่างอ่อนโยนอาจเป็นไปตามลำดับ?",
+      "status": "AI"
+    },
+    {
+      "character": "Leonnie",
+      "text_en": "Yes, what troubles you, my de─? Ah. Yes. The boat. I had quite forgotten.",
+      "text_th": "ใช่ มีปัญหาอะไรกับคุณเดอของฉัน─? อา. ใช่. เรือ. ฉันลืมไปสนิทเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Leonnie",
+      "text_en": "Hm? Oh, my task with the Hedgetree is well and finished, but the elementals murmur of a malevolent presence in the vicinity of the Tam-Tara Deepcroft.",
+      "text_th": "หืม? โอ้ งานของฉันกับ Hedgetree ผ่านไปด้วยดีและเสร็จสิ้นแล้ว แต่เหล่า Elementals ก็พึมพำถึงการปรากฏตัวอันชั่วร้ายในบริเวณใกล้กับ Tam-Tara Deepcroft",
+      "status": "AI"
+    },
+    {
+      "character": "Leonnie",
+      "text_en": "I must abide a while longer, that I might better divine the source of the elementals' distress. Please inform Armelle that I shall be late in arriving.",
+      "text_th": "ฉันจะต้องอยู่ต่อไปอีกสักระยะหนึ่ง เพื่อที่ฉันจะได้ทำนายแหล่งที่มาของความทุกข์ยากของธาตุได้ดีขึ้น กรุณาแจ้ง Armelle ว่าฉันจะมาถึงล่าช้า",
+      "status": "AI"
+    },
+    {
+      "character": "Armelle",
+      "text_en": "You bear a message from Hearer Leonnie? An evil presence in the Deepcroft? That does sound grave, indeed.",
+      "text_th": "คุณได้รับข้อความจากผู้ฟัง ลีโอนี่ เหรอ? การปรากฏตัวของความชั่วร้ายใน Deepcroft? นั่นฟังดูร้ายแรงจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Armelle",
+      "text_en": "I shall organize a vessel for a later time, then. Perhaps a bell from now? Two? Better make it three, just to be safe. Thank you for your trouble.",
+      "text_th": "ข้าพเจ้าจะจัดเรือไว้คราวหลังแล้ว บางทีระฆังจากตอนนี้? สอง? ให้เป็นสามดีกว่าเพื่อความปลอดภัย ขอบคุณสำหรับปัญหาของคุณ",
+      "status": "AI"
+    }
+  ]
+}

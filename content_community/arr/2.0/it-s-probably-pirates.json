@@ -1,0 +1,662 @@
+{
+  "id": "it-s-probably-pirates",
+  "wiki_path": "/wiki/It%27s_Probably_Pirates",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3b/It%27s_Probably_Pirates_Image.png",
+  "patch": "2.0",
+  "title_en": "It's Probably Pirates",
+  "title_th": "น่าจะเป็นโจรสลัด",
+  "title_status": "AI",
+  "level": "15",
+  "location": "Limsa Lominsa Upper Decks(X:11.6,Y:11.1)",
+  "npc_start": "Baderon",
+  "dialogues": [
+    {
+      "character": "Baderon",
+      "text_en": "I thank ye fer takin' the time to 'elp me out. Now, I'm sure yer busy, so I'll come straight to the point.",
+      "text_th": "ข้าต้องขอบใจเจ้ามากนะที่อุตส่าห์สละเวลามาช่วยข้า เอาล่ะ ข้ามั่นใจว่าเจ้าคงยุ่งอยู่ งั้นข้าจะเข้าเรื่องเลยละกันนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Word 'as it some suspicious lookin' buggers 'ave been sneakin' in an' out o' the Sastasha Seagrot , an' I need a trustworthy sort to 'ead up north of Aleport an' find out who they are an' what they're up to.",
+      "text_th": "มีข่าวลือว่ามีพวกน่าสงสัยแอบเข้าๆ ออกๆ Sastasha Seagrot แล้วข้าก็ต้องการคนที่ไว้ใจได้ให้ขึ้นเหนือไปทาง Aleport เพื่อสืบดูว่าพวกมันเป็นใครและกำลังวางแผนอะไรอยู่",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Don't sound like much, I know...",
+      "text_th": "ฟังดูอาจจะไม่ใช่เรื่องใหญ่อะไร ข้ารู้...",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "But it weren't so long ago as the fishbacks ' pet pirates paid us an unwelcome visit, an' folk are feelin' a bit nervous.",
+      "text_th": "แต่เมื่อไม่นานมานี้เองที่โจรสลัดสัตว์เลี้ยงของไอ้พวกหลังปลามาเยี่ยมเยือนเราแบบไม่ได้รับเชิญ ชาวบ้านก็เลยรู้สึกกังวลกันนิดหน่อยน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Reyner",
+      "text_en": "If you would permit me, Master Baderon , I should be happy to elaborate.",
+      "text_th": "หากท่านอนุญาต ท่าน Baderon ข้าก็ยินดีที่จะอธิบายเพิ่มเติมขอรับ",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Well, well, if it ain't the chief Yellowjacket 'imself. To what do I owe this rare honor, Commodore Reyner ? Come to make sure me patrons are behavin' -- or just thirsty?",
+      "text_th": "แหมๆๆ ถ้านี่ไม่ใช่หัวหน้า Yellowjacket ตัวเป็นๆ ล่ะก็ เป็นเกียรติอย่างยิ่งเลยนะ ท่านผู้บังคับการ Reyner ท่านมาที่นี่เพื่อมาตรวจตราดูความประพฤติของลูกค้าข้า หรือแค่กระหายน้ำล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Reyner",
+      "text_en": "Neither, in fact. I was informed that you had requested an adventurer to assist in my investigation, and I came to offer what information I could sift from recent reports.",
+      "text_th": "ไม่ได้มาเพื่อทั้งสองอย่างนั่นแหละ ข้าได้รับรายงานว่าท่านได้ขอความช่วยเหลือจากนักผจญภัยเพื่อช่วยสืบสวนคดีของข้า ข้าก็เลยมาที่นี่เพื่อให้ข้อมูลเท่าที่ข้าจะคัดกรองจากรายงานล่าสุดมาได้",
+      "status": "AI"
+    },
+    {
+      "character": "Reyner",
+      "text_en": "Over the course of the past moon, there have been several sightings of an unfamiliar vessel off the coast of Aleport, in the vicinity of the Isles of Umbra .",
+      "text_th": "ในช่วงเดือนที่ผ่านมา มีการพบเห็นเรือแปลกหน้าหลายครั้งนอกชายฝั่ง Aleport บริเวณใกล้ๆ กับ Isles of Umbra",
+      "status": "AI"
+    },
+    {
+      "character": "Reyner",
+      "text_en": "This information came to my attention no more than a few weeks after a squad of my own soldiers had completed a routine patrol of the region, the Sastasha Seagrot included.",
+      "text_th": "ข้อมูลนี้เพิ่งจะส่งมาถึงข้าไม่กี่สัปดาห์หลังจากที่กองทหารลาดตระเวนของข้าเพิ่งจะเสร็จสิ้นภารกิจลาดตระเวนตามปกติในพื้นที่นั้น ซึ่งรวมถึง Sastasha Seagrot ด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Reyner",
+      "text_en": "Their search revealed little, save that a family of coeurls had taken up residence in the caves. Nothing to concern us, in short.",
+      "text_th": "ผลการค้นหาของพวกเขาไม่ได้ให้อะไรมากนัก นอกจากร่องรอยของครอบครัว coeurl ที่เข้าไปอาศัยอยู่ในถ้ำ พูดสั้นๆ ก็คือ ไม่มีอะไรให้เราต้องกังวล",
+      "status": "AI"
+    },
+    {
+      "character": "Reyner",
+      "text_en": "In light of recent developments, however, it would seem wise to search Sastasha again.",
+      "text_th": "แต่จากความคืบหน้าล่าสุด ข้าเห็นสมควรว่าเราควรจะเข้าไปค้นหาใน Sastasha อีกครั้ง",
+      "status": "AI"
+    },
+    {
+      "character": "Reyner",
+      "text_en": "But with the Sahagin testing our defenses daily, I am loath to assign the task to the limited forces at my disposal. Our line is stretched as it is.",
+      "text_th": "แต่ในเมื่อพวก Sahagin คอยทดสอบแนวป้องกันของเราอยู่ทุกวัน ข้าจึงไม่ค่อยอยากจะส่งกองกำลังอันน้อยนิดที่มีอยู่ไปทำภารกิจนี้เลย กองทัพของเราก็ตึงเครียดอยู่แล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Reyner",
+      "text_en": "Thus I sought the services of a competent adventurer to conduct an investigation in our stead. Any aid you can offer in this matter would be greatly appreciated.",
+      "text_th": "ข้าจึงต้องพึ่งพานักผจญภัยที่มีฝีมือเพื่อทำการสืบสวนแทนพวกเรา หากท่านพอจะช่วยเหลือเราในเรื่องนี้ได้ ข้าจะขอขอบคุณเป็นอย่างยิ่ง",
+      "status": "AI"
+    },
+    {
+      "character": "Reyner",
+      "text_en": "Then it is settled.",
+      "text_th": "งั้นก็ตกลงตามนี้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Reyner",
+      "text_en": "Sastasha is located in western La Noscea . For more detailed instructions on how to reach the place, I suggest you consult V'mellpa . She can be found at the ferry docks on the lower decks.",
+      "text_th": "Sastasha ตั้งอยู่ใน La Noscea ตะวันตก หากต้องการคำแนะนำที่ละเอียดกว่านี้ว่าต้องไปที่นั่นได้อย่างไร ข้าแนะนำให้ไปปรึกษา V'mellpa ดู นางอยู่ที่ท่าเรือเฟอร์รี่ชั้นล่างนั่นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "You 'eard the man! Good luck to ye, lad / lass !",
+      "text_th": "เจ้าได้ยินที่เขาพูดแล้วนี่! โชคดีนะ ไอ้หนู / แม่หนู !",
+      "status": "AI"
+    },
+    {
+      "character": "V'mellpa",
+      "text_en": "You're here about Commodore Reyner's investigation? Then you'll want to board a ferry bound for Aleport.",
+      "text_th": "คุณมาเรื่องการสืบสวนของท่านผู้บังคับการ Reyner ใช่ไหม? งั้นคุณก็ต้องขึ้นเรือเฟอร์รี่ไปที่ Aleport",
+      "status": "AI"
+    },
+    {
+      "character": "V'mellpa",
+      "text_en": "Once you arrive in western La Noscea, though, you'd best pay a visit to the Hall of the Novice before you blunder into Sastasha.",
+      "text_th": "แต่พอคุณไปถึง La Noscea ตะวันตกแล้ว ฉันแนะนำให้คุณไปแวะที่ Hall of the Novice ก่อนจะดุ่มๆ เข้าไปใน Sastasha นะ",
+      "status": "AI"
+    },
+    {
+      "character": "V'mellpa",
+      "text_en": "The Adventurers' Guild runs the Hall, and the folk there will prepare you -- train you with the skill you'll need to face the dangers undoubtedly waiting for you in the Seagrot.",
+      "text_th": "Hall นั่นอยู่ภายใต้การดูแลของ Adventurers' Guild แล้วคนที่นั่นก็จะเตรียมความพร้อมให้กับคุณ -- ฝึกสอนทักษะที่คุณจำเป็นต้องมีเพื่อรับมือกับอันตรายที่รอคุณอยู่ใน Seagrot อย่างไม่ต้องสงสัยเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "V'mellpa",
+      "text_en": "The Hall is on the way to Sastasha, just north of Aleport. Head inside and one of their seasoned adventurers will take you in hand. Best of luck to you, friend!",
+      "text_th": "Hall อยู่ระหว่างทางไป Sastasha อยู่ทางเหนือของ Aleport นิดเดียวเอง เข้าไปข้างในแล้วเดี๋ยวจะมีนักผจญภัยมือฉมังมาดูแลคุณเอง โชคดีนะเพื่อน!",
+      "status": "AI"
+    },
+    {
+      "character": "Seasoned Adventurer",
+      "text_en": "Ah, you must be the adventurer of whom the Yellowjackets sent word. I hear you are to brave the depths of the Sastasha Seagrot.",
+      "text_th": "อา คุณคงจะเป็นนักผจญภัยที่พวก Yellowjackets ส่งข่าวมาบอกสินะ ฉันได้ยินมาว่าคุณจะไปเสี่ยงตายที่ส่วนลึกของ Sastasha Seagrot สินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Seasoned Adventurer",
+      "text_en": "The occupants of those caves are rumored to be as numerous as they are bloodthirsty. No matter what the epic tales would have you believe, strolling into such a den of savagery alone would be the height of foolishness. No, you shall need companions.",
+      "text_th": "พวกที่อาศัยอยู่ในถ้ำนั่น มีข่าวลือว่ามีจำนวนเยอะมาก แถมยังกระหายเลือดสุดๆ ด้วย ไม่ว่านิทานวีรบุรุษจะหลอกลวงให้คุณเชื่อยังไงก็ตาม การเดินดุ่มๆ เข้าไปในรังของพวกป่าเถื่อนเพียงลำพังน่ะถือเป็นเรื่องงี่เง่าที่สุดเลยล่ะ ไม่เลย คุณจะต้องมีเพื่อนร่วมทาง",
+      "status": "AI"
+    },
+    {
+      "character": "Seasoned Adventurer",
+      "text_en": "And you shall need the training we here at the Hall of the Novice can provide! I strongly suggest that you study the fundamentals of group combat before continuing on your mission.",
+      "text_th": "และคุณก็ต้องได้รับการฝึกฝนที่เราที่ Hall of the Novice จัดไว้ให้! ฉันขอแนะนำอย่างยิ่งให้คุณศึกษาพื้นฐานการต่อสู้แบบกลุ่มก่อนที่จะไปทำภารกิจต่อ",
+      "status": "AI"
+    },
+    {
+      "character": "Seasoned Adventurer",
+      "text_en": "The Smith here oversees the training schedules. Speak with him, and you can register for exercises tailored to your particular field of expertise.",
+      "text_th": "ช่างตีเหล็กที่นี่เป็นคนดูแลตารางการฝึก ไปคุยกับเขาสิ แล้วคุณก็จะได้ลงทะเบียนเรียนวิชาที่เหมาะกับความถนัดของคุณ",
+      "status": "AI"
+    },
+    {
+      "character": "Seasoned Adventurer",
+      "text_en": "When you have mastered all that our masters have to teach, then it will be time to head north once more. Report to the Yellowjacket scout at the mouth of the Sastasha Seagrot, and he will furnish you with the details of your duty.",
+      "text_th": "เมื่อไหร่ที่คุณเชี่ยวชาญทุกอย่างที่ปรมาจารย์ของเราสอนแล้ว ก็ได้เวลาที่คุณจะต้องมุ่งหน้าขึ้นเหนืออีกครั้ง ไปรายงานตัวกับหน่วยสอดแนม Yellowjacket ที่ปากทางเข้า Sastasha Seagrot แล้วเขาจะบอกรายละเอียดเกี่ยวกับหน้าที่ของคุณเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Edda",
+      "text_en": "<gasp> I-I'm sorry, Avere ! I came as fast as I could! I tried haggling with the merchant, but two potions was the best I could get with the money you gave me. I had no idea how expensive they were!",
+      "text_th": "<หอบ> ฉ-ฉันขอโทษนะ Avere ! ฉันมาเร็วที่สุดเท่าที่จะทำได้แล้ว! ฉันพยายามต่อราคากับพ่อค้าแล้วนะ แต่ยาพกสองขวดก็ถือว่าดีที่สุดแล้วล่ะกับเงินที่คุณให้มา ฉันไม่รู้เลยว่ามันจะแพงขนาดนี้!",
+      "status": "AI"
+    },
+    {
+      "character": "Avere",
+      "text_en": "What took ye so bloody long, Edda ? If me purse was too light, ye might've considered usin' some of yer own bleedin' coin to get us what we need!",
+      "text_th": "ทำไมมัวชักช้าอยู่ได้ฮะ Edda ? ถ้าเงินฉันมันน้อยไป เธอไม่คิดจะควักกระเป๋าตัวเองมาซื้อของที่เราจำเป็นต้องใช้หน่อยหรือไง!",
+      "status": "AI"
+    },
+    {
+      "character": "Avere",
+      "text_en": "Ye've only ever been as useful as the contents o' yer pockets -- the gods know ye can barely 'eal a scratch!",
+      "text_th": "เธอมันมีประโยชน์ก็แค่ตอนที่มีเงินติดกระเป๋าเท่านั้นแหละ -- พระเจ้าก็รู้ว่าเธอแทบจะรักษาแผลถลอกให้ฉันไม่ได้ด้วยซ้ำ!",
+      "status": "AI"
+    },
+    {
+      "character": "Avere",
+      "text_en": "We took up the 'venturin' life to take on the big jobs an' claim the big rewards. How're we meant to do that if ye can't even get our supplies in order?",
+      "text_th": "เราเลือกมาเป็นนักผจญภัยก็เพื่อจะได้รับงานใหญ่ๆ แล้วก็รับเงินรางวัลก้อนโตๆ เราจะทำแบบนั้นได้ยังไงถ้าเธอจัดหาเสบียงให้เราไม่ได้น่ะฮะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Avere",
+      "text_en": "Hm? It's 'im / 'er -- the one Baderon was talkin' to!",
+      "text_th": "หืม? นั่น เขา / เธอ นี่นา -- คนที่ Baderon กำลังคุยด้วยน่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Avere",
+      "text_en": "Well, we'll see who gets the glory! This job should've been ours in the first place!",
+      "text_th": "เดี๋ยวเราก็จะได้รู้กันว่าใครจะเป็นคนได้รับเกียรติยศนี้! งานนี้มันควรจะเป็นของเราตั้งแต่แรกแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Liavinne",
+      "text_en": "Bwahahaha! Edda, you're so slow, you'd lose a footrace to a tree slug.",
+      "text_th": "กร๊ากกกก! Edda เธอนี่ช้าเป็นบ้าเลย ช้ากว่าทากคลานอีกมั้งเนี่ย",
+      "status": "AI"
+    },
+    {
+      "character": "Paiyo Reiyo",
+      "text_en": "This is perfect for our inaugural outing as a party -- wandering around in the caves, turning over a few rocks... How difficult could it possibly be? I never expected our first visit to the Adventurers' Guild would yield such a straightforward way to win fame and fortune.",
+      "text_th": "นี่แหละเหมาะเจาะที่สุดแล้วสำหรับการเปิดตัวปาร์ตี้เราเป็นครั้งแรก -- เดินเตาะแตะเข้าไปในถ้ำ พลิกก้อนหินดูนิดหน่อย... มันจะยากสักแค่ไหนกันเชียว? ฉันไม่เคยคิดเลยนะว่าการมาเยือน Adventurers' Guild เป็นครั้งแรกจะทำให้เราได้มีโอกาสสร้างชื่อเสียงและเงินทองได้ง่ายดายขนาดนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Isildaure",
+      "text_en": "Ah, a fellow adventurer. You, too, are here to unravel the mysteries of Sastasha? I have adventured across this wide realm for more seasons than I dare to count, yet still Eorzea manages to surprise me with her beauty and splendor. Our journeys are not ended by the attainment of riches or fame. It is an unquenchable thirst for the unknown that drives us into the wilds time and again. Even if I explored the world for a thousand years, I would never grow weary of this life.",
+      "text_th": "อา เพื่อนนักผจญภัย คุณก็มาเพื่อไขปริศนาของ Sastasha สินะ? ข้าผจญภัยไปทั่วดินแดนอันกว้างใหญ่นี้มาหลายฤดูกาลจนขี้เกียจนับแล้ว แต่ Eorzea ก็ยังคงทำให้ข้าประหลาดใจกับความงดงามและความอลังการของมันได้เสมอ การเดินทางของเราไม่ได้สิ้นสุดลงเมื่อเราได้ความร่ำรวยหรือชื่อเสียงหรอกนะ แต่มันคือความกระหายในสิ่งที่ยังไม่รู้ต่างหากที่ขับเคลื่อนเราให้เดินเข้าป่าไปครั้งแล้วครั้งเล่า ต่อให้ข้าใช้เวลาสำรวจโลกใบนี้เป็นพันปี ข้าก็คงไม่มีวันเบื่อชีวิตแบบนี้หรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Alianne",
+      "text_en": "Grandfather and I are companions on the road. We travel where the wind takes us, and drink in all the wonders this world has to offer. Only an adventurer can understand the joy of such freedom -- of discovering hidden places and experiencing sights and sounds that few may ever know. The passing years have begun to take their toll on the old man, but no force save death itself will sate his appetite for adventure!",
+      "text_th": "ท่านปู่กับฉันเป็นเพื่อนร่วมทางกันน่ะ เราเดินทางไปตามสายลม และก็ดื่มด่ำกับความมหัศจรรย์ทั้งหมดที่โลกนี้มีให้ มีแต่นักผจญภัยเท่านั้นแหละที่เข้าใจถึงความสุขของความอิสระแบบนี้ -- ของการได้ค้นพบสถานที่ที่ถูกซ่อนอยู่ ได้สัมผัสภาพและเสียงที่มีเพียงไม่กี่คนที่จะได้เห็น วันเวลาที่ผ่านไปเริ่มส่งผลกับตาแก่คนนี้แล้วล่ะ แต่ไม่มีอะไรนอกจากความตายเท่านั้นแหละที่จะหยุดความกระหายในการผจญภัยของเขาได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Yellowjacket",
+      "text_en": "Please tell me you're here on Yellowjacket duty, and not some daft sod out for a stroll. I can't take any more of this blasted waiting. You are? Thank the gods.",
+      "text_th": "บอกฉันทีนะว่าคุณมาที่นี่เพื่อปฏิบัติหน้าที่ Yellowjacket ไม่ใช่พวกเพี้ยนๆ ที่มาเดินเล่นน่ะ ฉันรับมือกับการรอคอยบ้าๆ นี่ไม่ไหวแล้วนะ คุณใช่ไหม? ขอบคุณพระเจ้า",
+      "status": "AI"
+    },
+    {
+      "character": "Yellowjacket",
+      "text_en": "I assume you already know about the ship seen slipping around the Isles of Umbra?",
+      "text_th": "ฉันเดาว่าคุณคงจะรู้เรื่องเรือที่แอบด้อมๆ มองๆ อยู่แถวๆ Isles of Umbra แล้วใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Yellowjacket",
+      "text_en": "We've been on the lookout for pirate activity ever since that vessel was sighted, thinking a crew of cutthroats might have a den nearby.",
+      "text_th": "เราเฝ้าจับตาดูความเคลื่อนไหวของโจรสลัดมาตลอดตั้งแต่มีคนเห็นเรือลำนั้น โดยคิดว่าพวกโจรสลัดอาจจะมีรังอยู่แถวๆ นี้",
+      "status": "AI"
+    },
+    {
+      "character": "Yellowjacket",
+      "text_en": "So when we received word that men of questionable quality had been seen passing in and out of Sastasha here, we weren't entirely surprised.",
+      "text_th": "ดังนั้นตอนที่เราได้รับข่าวว่ามีคนแปลกหน้าท่าทางน่าสงสัยเดินเข้าออก Sastasha เราก็เลยไม่ค่อยแปลกใจเท่าไหร่",
+      "status": "AI"
+    },
+    {
+      "character": "Yellowjacket",
+      "text_en": "I've yet to see them for myself, but if this lot belongs to those fishback-fancying Serpent Reavers...",
+      "text_th": "ฉันยังไม่เคยเห็นกับตาหรอกนะ แต่ถ้าพวกนี้มันเป็นลูกน้องของพวก Serpent Reavers ที่คลั่งไคล้ไอ้พวกหลังปลาล่ะก็...",
+      "status": "AI"
+    },
+    {
+      "character": "Yellowjacket",
+      "text_en": "Well, you can imagine the panic it'll cause. The kidnappings are still fresh in people's minds.",
+      "text_th": "ก็นะ คุณก็น่าจะนึกภาพออกว่ามันจะสร้างความแตกตื่นได้ขนาดไหน เรื่องลักพาตัวยังฝังอยู่ในหัวผู้คนอยู่เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Yellowjacket",
+      "text_en": "Anyway, your task is to poke around in the caves, and find out exactly who we're dealing with. While you do that, I'll be keeping watch out here... praying you don't spot any blue face tattoos.",
+      "text_th": "ยังไงก็ตาม งานของคุณก็คือเข้าไปสืบเรื่องนี้ในถ้ำให้ชัดเจนว่าเรากำลังรับมือกับใครกันแน่ ในระหว่างนั้น ฉันจะคอยเฝ้าดูอยู่ข้างนอกนี่... ภาวนาให้คุณไม่ต้องเจอคนสักหน้าสีฟ้าก็แล้วกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Yellowjacket",
+      "text_en": "The fishbacks and their Serpent Reaver lackeys cannot be allowed to establish a permanent base in these lands. You must uncover the truth behind who or what is lurking in these caves, adventurer. The peace of western La Noscea may depend on it!",
+      "text_th": "พวกปลาหน้าเลือดกับพวกลูกกระจ๊อก Serpent Reaver จะมาตั้งฐานทัพถาวรในดินแดนแถบนี้ไม่ได้หรอกนะ คุณต้องสืบหาความจริงให้ได้ว่าใครหรืออะไรซ่อนอยู่ในถ้ำพวกนี้ นักผจญภัย ความสงบสุขของ La Noscea ตะวันตกอาจจะขึ้นอยู่กับมันก็ได้นะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Eager Marauder",
+      "text_en": "This is it.",
+      "text_th": "ที่นี่แหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Eager Conjurer",
+      "text_en": "This cavern is strangely beautiful.",
+      "text_th": "ถ้ำนี้สวยแปลกๆ ดีนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Bloody Memo",
+      "text_en": "You find a bloodstained scrap of parchment with a message scrawled upon it in faded ink.",
+      "text_th": "คุณเจอเศษกระดาษเปื้อนเลือดที่มีข้อความเขียนหวัดๆ ด้วยหมึกสีซีดจาง",
+      "status": "AI"
+    },
+    {
+      "character": "Bloody Memo",
+      "text_en": "\"The Capten lykes his wyne Redd.\"",
+      "text_th": "\"กัปตันชอบไวน์ของเขา สีแดง\"",
+      "status": "AI"
+    },
+    {
+      "character": "Bloody Memo",
+      "text_en": "\"The Capten lykes his sees Bloo.\"",
+      "text_th": "\"กัปตันชอบทะเลของเขา สีฟ้า\"",
+      "status": "AI"
+    },
+    {
+      "character": "Bloody Memo",
+      "text_en": "\"The Capten lykes his cabege Green.\"",
+      "text_th": "\"กัปตันชอบกะหล่ำปลีของเขา สีเขียว\"",
+      "status": "AI"
+    },
+    {
+      "character": "Eager Marauder",
+      "text_en": "An ambush!?",
+      "text_th": "ซุ่มโจมตีเหรอ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Eager Conjurer",
+      "text_en": "The door's guardian, no doubt.",
+      "text_th": "คงเป็นผู้พิทักษ์ประตูนั่นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Captain Madison",
+      "text_en": "How did ye find this place!?",
+      "text_th": "พวกแกหาที่นี่เจอได้ยังไง!?",
+      "status": "AI"
+    },
+    {
+      "character": "Bird",
+      "text_en": "Squawk!",
+      "text_th": "กว้าก!",
+      "status": "AI"
+    },
+    {
+      "character": "Captain Madison",
+      "text_en": "Me loyal pups!",
+      "text_th": "ลูกหมาผู้ภักดีของข้า!",
+      "status": "AI"
+    },
+    {
+      "character": "Bird",
+      "text_en": "Cap'n is strong! Cap'n is strong! Squawk!",
+      "text_th": "กัปตันแข็งแกร่ง! กัปตันแข็งแกร่ง! กว้าก!",
+      "status": "AI"
+    },
+    {
+      "character": "Bird",
+      "text_en": "Scurvy dog! Scurvy dog! Squawk!",
+      "text_th": "หมาขี้เรื้อน! หมาขี้เรื้อน! กว้าก!",
+      "status": "AI"
+    },
+    {
+      "character": "Bird",
+      "text_en": "Batten down the hatches! Batten down the hatches! Squawk!",
+      "text_th": "เตรียมรับมือพายุ! เตรียมรับมือพายุ! กว้าก!",
+      "status": "AI"
+    },
+    {
+      "character": "Captain Madison",
+      "text_en": "Come closer. I'll slit your throat and toss yer corpse to the mad serpent.",
+      "text_th": "เข้ามาใกล้ๆ สิ ข้าจะเชือดคอพวกแกแล้วโยนศพให้งูคลั่งกินซะ",
+      "status": "AI"
+    },
+    {
+      "character": "Captain Madison",
+      "text_en": "Wh-where are my men?! Wh-where are my maidens?!",
+      "text_th": "ล-ลูกน้องข้าไปไหนหมดล่ะเนี่ย?! ส-สาวๆ ของข้าล่ะ?!",
+      "status": "AI"
+    },
+    {
+      "character": "Captain Madison",
+      "text_en": "Try 'n catch me, you two-legged lubber!",
+      "text_th": "ตามข้าให้ทันสิเว้ย ไอ้อ่อนสองขาเอ๊ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Bird",
+      "text_en": "Two legged lubber! Two legged lubber! Squawk!",
+      "text_th": "ไอ้อ่อนสองขา! ไอ้อ่อนสองขา! กว้าก!",
+      "status": "AI"
+    },
+    {
+      "character": "Eager Lancer",
+      "text_en": "Hmph. The coward ran off.",
+      "text_th": "หึ ไอ้ขี้ขลาดนั่นหนีไปแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Eager Conjurer",
+      "text_en": "Where has he run off to...? Best we keep on our guard.",
+      "text_th": "มันหนีไปไหนแล้วล่ะเนี่ย...? เราควรระวังตัวไว้จะดีกว่านะ",
+      "status": "AI"
+    },
+    {
+      "character": "Lalafell Maidens",
+      "text_en": "You must save us!",
+      "text_th": "คุณต้องช่วยพวกเรานะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Lalafell Maidens",
+      "text_en": "Who are you!?",
+      "text_th": "พวกคุณเป็นใครกันเนี่ย!?",
+      "status": "AI"
+    },
+    {
+      "character": "Miqo'te Maidens",
+      "text_en": "I'm not one of them! I swear it on what little remains of my virtue!",
+      "text_th": "ฉันไม่ใช่พวกมันนะ! ฉันสาบานด้วยความบริสุทธิ์อันน้อยนิดที่ฉันเหลืออยู่เลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Miqo'te Maiden",
+      "text_en": "What shall it be tonight, Cap- You're not the captain!",
+      "text_th": "คืนนี้จะให้ฉันทำอะไรคะ กัป— คุณไม่ใช่กัปตันนี่!",
+      "status": "AI"
+    },
+    {
+      "character": "Deckhand's Quarters Pirate",
+      "text_en": "Get them gropers off me grog!",
+      "text_th": "เอามือโสโครกของแกออกไปจากเหล้าข้านะเว้ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Deckhand's Quarters Pirate",
+      "text_en": "Sod off! I drink what I want.",
+      "text_th": "ไปไกลๆ เลย! ข้าจะกินอะไรก็เรื่องของข้า",
+      "status": "AI"
+    },
+    {
+      "character": "Deckhand's Quarters Pirate",
+      "text_en": "I'll cut ye a new gob so's that ye can drink all grog ye like!",
+      "text_th": "ข้าจะเจาะปากแกใหม่ แกจะได้กินเหล้าเข้าไปเยอะๆ ไงวะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Deckhand's Quarters Pirate",
+      "text_en": "Not before I cut you a new piss'ole!",
+      "text_th": "ก่อนหน้านั้นข้าจะเจาะรูเยี่ยวใหม่ให้แกก่อนละกัน!",
+      "status": "AI"
+    },
+    {
+      "character": "The Hole Lalafell Maiden",
+      "text_en": "I don't think I can last another night in the Deckhand's Quarters...",
+      "text_th": "ข้าคิดว่าข้าคงทนอยู่ใน Deckhand's Quarters อีกคืนไม่ไหวแล้วล่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "The Hole Lalafell Maiden",
+      "text_en": "Forgive me, my lord! I did not mean to offend!",
+      "text_th": "ยกโทษให้ข้าด้วยเถิดนายท่าน! ข้าไม่ได้ตั้งใจจะล่วงเกินท่านเลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "The Hole Lalafell Maiden",
+      "text_en": "Am I... free?",
+      "text_th": "ข้า... เป็นอิสระแล้วเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "The Hole Miqo'te Maiden",
+      "text_en": "Thank the Twelve! This nightmare is over!",
+      "text_th": "ขอบคุณทวยเทพทั้งสิบสอง! ฝันร้ายนี้จบลงซะที!",
+      "status": "AI"
+    },
+    {
+      "character": "The Hole Miqo'te Maiden",
+      "text_en": "Please, milord, I'm ever so sore...",
+      "text_th": "ได้โปรดเถิดนายท่าน ข้าเจ็บไปหมดแล้ว...",
+      "status": "AI"
+    },
+    {
+      "character": "The Hole Miqo'te Maiden",
+      "text_en": "Mother... Father... What did I do to deserve this?",
+      "text_th": "ท่านแม่... ท่านพ่อ... ข้าทำกรรมอะไรไว้ถึงต้องมาเจอเรื่องแบบนี้?",
+      "status": "AI"
+    },
+    {
+      "character": "Captain Madison",
+      "text_en": "Back for more, eh? I sharpened me blade, just fer this very occasion.",
+      "text_th": "กลับมาหาที่ตายอีกแล้วรึไง? ข้าลับดาบมาเพื่องานนี้โดยเฉพาะเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Bird",
+      "text_en": "Squawk!",
+      "text_th": "กว้าก!",
+      "status": "AI"
+    },
+    {
+      "character": "Captain Madison",
+      "text_en": "What do you see now? Nothin'! Nothin' at all! (Accuracy Down)",
+      "text_th": "ตอนนี้แกเห็นอะไรบ้าง? ไม่เห็น! ไม่เห็นอะไรเลย! (ความแม่นยำลดลง)",
+      "status": "AI"
+    },
+    {
+      "character": "Captain Madison",
+      "text_en": "Eat 'em alive! (Dogs)",
+      "text_th": "กินพวกมันทั้งเป็นเลย! (หมา)",
+      "status": "AI"
+    },
+    {
+      "character": "Captain Madison",
+      "text_en": "M-M-Might ye consider a parley?",
+      "text_th": "จ-จ-เจรจากันหน่อยไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Bird",
+      "text_en": "Parley! Parley! Squawk!",
+      "text_th": "เจรจา! เจรจา! กว้าก!",
+      "status": "AI"
+    },
+    {
+      "character": "Eager Thaumaturge",
+      "text_en": "He won't escape next time!",
+      "text_th": "คราวหน้ามันหนีไม่รอดแน่!",
+      "status": "AI"
+    },
+    {
+      "character": "Captain Madison",
+      "text_en": "The boss ain't goin' to like this one bit...",
+      "text_th": "ลูกพี่ต้องไม่ชอบใจเรื่องนี้แน่ๆ ...",
+      "status": "AI"
+    },
+    {
+      "character": "Denn the Orcatoothed",
+      "text_en": "Pshhh! Finleshhh fools!",
+      "text_th": "ชู่ววว! ไอ้พวกไร้ครีบโง่เง่าเอ๊ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Denn the Orcatoothed",
+      "text_en": "The Lord of the Whorl shhhall sssup upon your sssouls!",
+      "text_th": "ท่านลอร์ดแห่ง Whorl จะต้องได้กินวิญญาณของพวกแกเป็นอาหารเย็นแน่ๆ!",
+      "status": "AI"
+    },
+    {
+      "character": "Eager Marauder",
+      "text_en": "Surely, he's no match for us.",
+      "text_th": "เขาไม่ใช่คู่มือของเราหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Aye, such a task was on the books. \"Was,\" mind. I'm afraid that ship 'as already sailed, friend.",
+      "text_th": "ใช่ มีงานแบบนั้นอยู่ในบันทึกนั่นแหละ \"เคยมี\" นะ ฟังนะ ข้าเกรงว่าเรือลำนั้นมันออกเรือไปซะแล้วสิเพื่อน",
+      "status": "AI"
+    },
+    {
+      "character": "Dolorous Bear",
+      "text_en": "Ah. Might you be the adventurer who accepted the job of investigating Sastasha?",
+      "text_th": "อ้อ คุณคงจะเป็นนักผจญภัยที่รับงานสืบสวน Sastasha สินะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Dolorous Bear",
+      "text_en": "Hmph. It would seem that ship has not only sailed, but now returns to harbor, none the worse for its voyage. A pity. We dragged our boots too long on this one.",
+      "text_th": "หึ ดูเหมือนว่าเรือลำนั้นนอกจากจะออกเรือไปแล้ว ตอนนี้ยังกลับเข้าฝั่งมาอย่างปลอดภัยไร้รอยขีดข่วนอีกต่างหาก น่าเสียดายนะ เรามัวแต่ชักช้ากันไปหน่อย",
+      "status": "AI"
+    },
+    {
+      "character": "E'manafa",
+      "text_en": "No matter. The wheel will turn and our chance will come.",
+      "text_th": "ไม่เป็นไร กงล้อแห่งโชคชะตาต้องหมุนมาเข้าข้างเราสักวัน โอกาสของเราต้องมาถึงแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Dolorous Bear",
+      "text_en": "You are right, of course. But there shall be no rest till we have attained our goal, lofty though it may be!",
+      "text_th": "คุณพูดถูก แน่นอนอยู่แล้ว แต่เราจะไม่หยุดพักจนกว่าเราจะบรรลุเป้าหมาย ถึงแม้มันจะสูงส่งแค่ไหนก็ตาม!",
+      "status": "AI"
+    },
+    {
+      "character": "Kikina",
+      "text_en": "Not a wink of sleep, great leader!",
+      "text_th": "ไม่ได้หลับไม่ได้นอนเลยนะ ท่านผู้นำที่ยิ่งใหญ่!",
+      "status": "AI"
+    },
+    {
+      "character": "Dolorous Bear",
+      "text_en": "Our aim, lest you wonder, is to perform such feats of heroism as will earn us a place in the songs of every alehouse in Eorzea . We mean to write a legend which will inspire adventurers as yet unborn to follow our shining example.",
+      "text_th": "เป้าหมายของเรา เผื่อคุณจะสงสัยนะ ก็คือการสร้างวีรกรรมที่ยิ่งใหญ่จนได้รับการจารึกไว้ในบทเพลงของทุกๆ โรงเตี๊ยมใน Eorzea เราตั้งใจจะเขียนตำนานที่จะเป็นแรงบันดาลใจให้นักผจญภัยรุ่นหลังๆ ได้เดินตามรอยอันสว่างไสวของเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Dolorous Bear",
+      "text_en": "Do you have such a goal? Large or small, it matters not. Only have a star to reach for and you will reach higher.",
+      "text_th": "คุณมีเป้าหมายแบบนั้นบ้างไหม? จะเล็กหรือใหญ่ก็ไม่สำคัญหรอก แค่มีดวงดาวให้เอื้อมคว้า คุณก็จะเอื้อมได้สูงขึ้น",
+      "status": "AI"
+    },
+    {
+      "character": "Dolorous Bear",
+      "text_en": "Purpose can sustain you through times of hardship. Keep your eye on the prize, and all obstacles will be overcome in time. You would not think to stride into battle unclad, would you? Well, goals are as arms and armor for the spirit! I wish you fortune in your endeavors, sir / madam !",
+      "text_th": "จุดมุ่งหมายจะช่วยค้ำจุนคุณให้ผ่านพ้นช่วงเวลาที่ยากลำบากไปได้ จงจับจ้องไปที่รางวัล แล้วอุปสรรคทั้งหลายก็จะถูกก้าวข้ามไปได้ในที่สุด คุณคงไม่คิดจะเดินตัวเปล่าเข้าสู่สมรภูมิรบหรอกใช่ไหม? ก็นะ เป้าหมายก็เปรียบเสมือนอาวุธและชุดเกราะสำหรับจิตวิญญาณนั่นแหละ! ขอให้คุณโชคดีกับเป้าหมายของคุณนะ ท่าน / คุณผู้หญิง !",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Back then, are ye? With all yer limbs, an' a tale to tell, I wager.",
+      "text_th": "กลับมาแล้วเหรอ? อวัยวะครบสามสิบสอง แถมมีเรื่องจะเล่าให้ฟังด้วยสิท่า ข้าพนันได้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Fishbacks? An' there I was thinkin' ye'd only 'ave to crack a pirate skull or three. Seven hells... Ye turn yer back fer five bloody minutes, an' the scaly bastards've set up shop on yer bleedin' doorstep...",
+      "text_th": "ไอ้พวกปลาหน้าเลือดเนี่ยนะ? แล้วข้าก็นึกว่าเจ้าแค่ต้องไปทุบหัวกะโหลกโจรสลัดสักสองสามคน นรกทั้งเจ็ดเถอะ... เผลอแป๊บเดียว ไอ้พวกเกล็ดนั่นมันก็มาตั้งรกรากอยู่หน้าบ้านเจ้าซะแล้ว...",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Still, sounds like ye left 'em in pieces, so I don't s'pose they'll be carryin' out whatever mischief they was plannin' -- unless they was plannin' on feedin' 'emselves to the fauna o' Sastasha, o' course. Anyroad, all's well that ends well!",
+      "text_th": "แต่ฟังดูเหมือนเจ้าจัดการพวกมันซะเละเลยนี่ ข้าก็เลยไม่คิดว่าพวกมันจะได้ลงมือทำอะไรชั่วๆ ตามที่วางแผนไว้หรอกนะ -- เว้นแต่ว่าพวกมันตั้งใจจะเอาตัวเองไปเป็นอาหารให้พวกสัตว์ป่าใน Sastasha น่ะนะ ยังไงก็เถอะ ทุกอย่างก็จบลงด้วยดี!",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "On behalf o' Limsa, I thank ye fer sheddin' some light on this mystery. Ye've lived up to yer reputation, an' I couldn't ask fer no more'n that.",
+      "text_th": "ในนามของ Limsa ข้าขอขอบใจเจ้ามากนะที่ช่วยไขความกระจ่างให้กับเรื่องลึกลับนี้ เจ้าสมศักดิ์ศรีกับชื่อเสียงของเจ้าจริงๆ ข้าคงขออะไรจากเจ้าไปมากกว่านี้ไม่ได้แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Now, I'll bet yer dyin' fer a rest, but just in case yer not, I was wonderin' if ye might be interested in takin' on another job? It just so 'appens that I've 'ad a request from our sister guild in Gridania , see.",
+      "text_th": "ตอนนี้ ข้าพนันได้เลยว่าเจ้าคงอยากจะพักผ่อนเต็มทีแล้ว แต่เผื่อเจ้ายังไม่เหนื่อยนะ ข้าก็สงสัยว่าเจ้าสนใจจะรับงานอีกสักงานไหม? พอดีกิลด์สาขาใน Gridania ขอความช่วยเหลือมาน่ะสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Seems the forest folk're in need of a 'venturer what can get things done.",
+      "text_th": "ดูเหมือนพวกชาวป่าจะต้องการนักผจญภัยที่พึ่งพาได้ล่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Fer them to ask fer 'elp like this, ye can bet the task won't be no skip through a sunny glade. But after the way ye dealt with our fishback infestation, I doubt it's anythin' ye can't 'andle.",
+      "text_th": "สำหรับการที่พวกนั้นเอ่ยปากขอความช่วยเหลือแบบนี้ เจ้าเดาได้เลยว่างานนี้คงไม่ใช่การเดินเล่นชมนกชมไม้แน่นอน แต่หลังจากที่เจ้าจัดการปัญหาพวกไอ้ปลาหน้าเลือดนั่นได้แล้ว ข้าก็ไม่คิดว่าจะมีอะไรที่เจ้าจัดการไม่ได้หรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "Give us a shout when yer ready, an' I'll lay it our fer ye.",
+      "text_th": "ถ้าพร้อมเมื่อไหร่ก็บอกข้าแล้วกัน ข้าจะอธิบายรายละเอียดให้ฟัง",
+      "status": "AI"
+    },
+    {
+      "character": "V'mellpa",
+      "text_en": "You're here about Commodore Reyner's investigation? Then you'll want to board a ferry bound for Aleport.",
+      "text_th": "คุณมาเรื่องการสืบสวนของท่านผู้บังคับการ Reyner ใช่ไหม? งั้นคุณก็ต้องขึ้นเรือเฟอร์รี่ไปที่ Aleport",
+      "status": "AI"
+    },
+    {
+      "character": "V'mellpa",
+      "text_en": "Once you arrive in western La Noscea, head to the north and you'll come across the Sastasha Seagrot soon enough. We have a scout stationed by the entrance to the cave with orders to brief you on the situation.",
+      "text_th": "พอถึง La Noscea ตะวันตกแล้ว มุ่งหน้าไปทางเหนือ ไม่นานคุณก็จะเจอ Sastasha Seagrot เอง เรามีทหารลาดตระเวนประจำการอยู่ที่ปากทางเข้าถ้ำ มีคำสั่งให้ชี้แจงสถานการณ์ให้คุณฟังด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "V'mellpa",
+      "text_en": "Whatever else he tells you, be ready for pirates. There's never any shortage of the bastards. This is Limsa Lominsa we're talking about...",
+      "text_th": "ไม่ว่าเขาจะบอกอะไรคุณอีกก็เถอะ เตรียมรับมือกับพวกโจรสลัดไว้ด้วยนะ พวกสารเลวพวกนั้นมีอยู่เกลื่อนกลาดไปหมด ก็ที่นี่คือ Limsa Lominsa นี่นา...",
+      "status": "AI"
+    }
+  ]
+}

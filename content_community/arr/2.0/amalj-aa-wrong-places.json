@@ -1,0 +1,122 @@
+{
+  "id": "amalj-aa-wrong-places",
+  "wiki_path": "/wiki/Amalj%27aa_Wrong_Places",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Amalj'aa Wrong Places",
+  "title_th": "Amalj'aa ผิดที่ผิดทาง",
+  "title_status": "AI",
+  "level": "19",
+  "location": "Eastern Thanalan(X:13.9,Y:23.6)",
+  "npc_start": "Isembard",
+  "dialogues": [
+    {
+      "character": "Isembard",
+      "text_en": "I am well glad I reserved that inn room for Sister Ourcen. It seems she received greater injuries from her attackers than she initially let on. Thankfully, she is expected to make a full recovery.",
+      "text_th": "ดีใจจริงๆ ที่ฉันจองห้องพักให้ซิสเตอร์ Ourcen ไว้ ดูเหมือนว่าเธอจะบาดเจ็บจากการถูกทำร้ายหนักกว่าที่บอกตอนแรกนะ แต่โชคดีที่คาดว่าเธอน่าจะหายเป็นปกติได้",
+      "status": "AI"
+    },
+    {
+      "character": "Isembard",
+      "text_en": "But now, on to the matter at hand. Thancred came looking for you once more. He left word that he will be waiting at the Amalj'aa encampment to the southeast. I pray the two of you are able to uncover some evidence regarding these disappearances.",
+      "text_th": "เอาล่ะ มาเข้าเรื่องกันดีกว่า Thancred มาหาเธออีกแล้วนะ เขาทิ้งข้อความไว้ว่าจะรออยู่ที่ค่ายของพวก Amalj'aa ทางตะวันออกเฉียงใต้ ฉันภาวนาให้พวกเธอสองคนเจอเบาะแสเกี่ยวกับการหายตัวไปนี่นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ah, there you are, Forename . So good of you to come!",
+      "text_th": "อ้าว อยู่นี่เอง [ชื่อ] ดีใจที่มานะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Indeed, I've heard all about good Sister Ourcen. Isembard said her wounds were serious. It would seem my suspicions about the poor rose were misplaced.",
+      "text_th": "ใช่ ผมได้ยินเรื่องของซิสเตอร์ Ourcen คนดีแล้วล่ะ Isembard บอกว่าบาดแผลของเธอสาหัสเอาการ ดูเหมือนว่าที่ผมสงสัยดอกกุหลาบผู้น่าสงสารคนนั้นจะผิดไปถนัดเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But false though they were, perhaps my suspicions were not entirely without merit. Whilst following Sister Ourcen near the Golden Bazaar, a band of Amalj'aa caught my eye.",
+      "text_th": "แต่ถึงมันจะผิด บางทีข้อสงสัยของผมอาจจะไม่ได้ไร้สาระไปซะทีเดียวนะ ตอนที่สะกดรอยตามซิสเตอร์ Ourcen ไปแถวๆ Golden Bazaar ผมบังเอิญไปเห็นพวก Amalj'aa กลุ่มหนึ่งเข้า",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I tracked them as far as this encampment, but... Well, let us say that I would much prefer to keep my distance and remain here. This, of course, brings me to why I requested you, dear Forename . Would you be so kind as to take a look inside?",
+      "text_th": "ผมตามพวกมันมาจนถึงค่ายนี่แหละ แต่... เอาเป็นว่าผมขอรักษาระยะห่างและรออยู่ตรงนี้ดีกว่า ซึ่งนี่ก็คือเหตุผลที่ผมขอร้องให้คุณมาช่วยไงล่ะ [ชื่อ] รบกวนคุณช่วยเข้าไปดูข้างในหน่อยได้ไหมครับ?",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well? Did anything tickle your fancy?",
+      "text_th": "ว่าไงครับ? เจออะไรน่าสนใจบ้างไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "This leaflet... “See the wealth of Nald to the hands of your children.” It looks to be some sort of assembly to provide the poor with work.",
+      "text_th": "ใบปลิวนี่... “จงมอบความมั่งคั่งของ Nald ให้ถึงมือลูกหลานของท่าน” ดูเหมือนจะเป็นการรวมตัวกันเพื่อหางานให้คนจนทำเลยแฮะ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The lettering, though... Atrocious, is it not? And these bits about Nald'thal seem somewhat...less than studied. I find it hard to believe one among the Order penned this.",
+      "text_th": "แต่ตัวหนังสือนี่สิ... อ่านยากชะมัดเลยใช่ไหม? แถมเนื้อหาที่เกี่ยวกับ Nald'thal ก็ดูเหมือน... ไม่ค่อยมีการศึกษาเท่าไหร่ ผมไม่อยากจะเชื่อเลยว่าจะมีคนในนิกายเป็นคนเขียนเรื่องพวกนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Pray take this to the inn at Camp Drybone. Let us see what Sister Ourcen makes of it.",
+      "text_th": "รบกวนเอาใบปลิวนี่ไปที่โรงเตี๊ยมใน Camp Drybone หน่อยนะ ไปดูกันว่าซิสเตอร์ Ourcen จะคิดยังไงกับเรื่องนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "My savior comes again. To what do I owe the honor this day?",
+      "text_th": "ผู้มีพระคุณของฉันมาอีกแล้ว วันนี้มีเกียรติอะไรให้ฉันรับใช้เหรอคะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "What is this? Blasphemous... These are not our teachings at all! This was not made by any true brother or sister of the Order─of that , I can assure you.",
+      "text_th": "นี่มันอะไรกัน? ลบหลู่ที่สุด... นี่ไม่ใช่คำสอนของเราเลยนะ! ฉันรับรองได้เลยว่านี่ไม่ได้มาจากพี่น้องร่วมศาสนาที่แท้จริงคนไหนแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "Come to think of it, weeks ago, the church was plagued by missing garments. Could someone be posing as a priest of the Order to deceive the people?",
+      "text_th": "พอมาคิดดูแล้ว เมื่อหลายสัปดาห์ก่อน มีคนมาขโมยชุดในโบสถ์ไปหลายชุดเลย เป็นไปได้ไหมว่าจะมีใครปลอมตัวเป็นนักบวชของนิกายเราเพื่อไปหลอกลวงชาวบ้าน?",
+      "status": "AI"
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "Who would do such a thing?",
+      "text_th": "ใครจะทำเรื่องแบบนี้กันนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The plot thickens, Forename ! Our culprit pretends to be a priest to lend credence to his deception. There is no doubt an irony in there somewhere.",
+      "text_th": "เรื่องมันชักจะซับซ้อนแล้วสิ [ชื่อ]! คนร้ายของเราปลอมตัวเป็นนักบวชเพื่อให้การหลอกลวงดูน่าเชื่อถือ ฟังดูย้อนแย้งดีจังเลยนะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But I suspect we have a worthy adversary on our hands. I shall consider how best to handle this. For now, tell Isembard what we have learned here.",
+      "text_th": "แต่ผมว่าเรากำลังเจอกับศัตรูที่สมน้ำสมเนื้อแล้วล่ะ เดี๋ยวผมจะลองคิดดูว่าควรจัดการเรื่องนี้ยังไงดี ตอนนี้คุณไปบอก Isembard ถึงสิ่งที่เราเจอที่นี่ก่อนเถอะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Isembard",
+      "text_en": "Posing as a priest!? To think...",
+      "text_th": "ปลอมตัวเป็นนักบวชงั้นเหรอ!? ไม่อยากจะเชื่อเลย...",
+      "status": "AI"
+    },
+    {
+      "character": "Isembard",
+      "text_en": "These troubling notions aside, it is gratifying to finally be able to move this investigation forward. Thank you once again, Forename . I shall keep my ears and eyes open─now more than ever.",
+      "text_th": "ถึงเรื่องนี้มันจะน่าปวดหัว แต่ก็ดีใจนะที่ในที่สุดเราก็คืบหน้าเรื่องการสืบสวนสักที ขอบใจอีกครั้งนะ [ชื่อ] ฉันจะคอยจับตาดูและเปิดหูเปิดตาให้กว้างกว่าเดิมเลยล่ะ─โดยเฉพาะช่วงนี้",
+      "status": "AI"
+    }
+  ]
+}

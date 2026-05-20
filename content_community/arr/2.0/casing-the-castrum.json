@@ -1,0 +1,272 @@
+{
+  "id": "casing-the-castrum",
+  "wiki_path": "/wiki/Casing_the_Castrum",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/d4/Casing_the_Castrum_Image.png",
+  "patch": "2.0",
+  "title_en": "Casing the Castrum",
+  "title_th": "ส่องคาสทรัม",
+  "title_status": "AI",
+  "level": "44",
+  "location": "The Waking Sands(X:6.8,Y:6.1)",
+  "npc_start": "Y'shtola",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "The rescue of our allies will be no small undertaking, Forename .",
+      "text_th": "การช่วยเหลือสหายของเราไม่ใช่งานเล็กๆ หรอกนะ [ชื่อ]",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Even under normal circumstances, breaching the defenses of an imperial castrum would be a highly dangerous proposition.",
+      "text_th": "ถึงแม้ในสถานการณ์ปกติ การฝ่าแนวป้องกันของคาสทรัมอิมพีเรียลก็ถือเป็นเรื่องที่อันตรายมากอยู่แล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But now that Castrum Centri houses prisoners whom the Garleans deem valuable, we may be confident that they have taken additional measures to ensure the stronghold's security.",
+      "text_th": "แต่ตอนนี้ Castrum Centri มีนักโทษที่พวก Garlean มองว่ามีค่าอยู่ด้วย เรามั่นใจได้เลยว่าพวกมันต้องเพิ่มมาตรการรักษาความปลอดภัยให้ป้อมปราการแน่นหนาขึ้นแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If we are to free our friends, we will require an effective strategy. And if we are to formulate an effective strategy, we will require intelligence.",
+      "text_th": "ถ้าเราจะปลดปล่อยเพื่อนของเรา เราก็ต้องการแผนการที่มีประสิทธิภาพ และถ้าเราจะวางแผนให้มีประสิทธิภาพ เราก็ต้องการข้อมูลข่าวกรอง",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I believe I know a man who may be able to assist us in this: Lord Portelaine of House Durendaire. He is stationed at the Observatorium in Coerthas. Let us go to him, and beseech his aid.",
+      "text_th": "ฉันคิดว่าฉันรู้จักผู้ชายคนนึงที่น่าจะช่วยเราเรื่องนี้ได้: ท่านลอร์ด Portelaine แห่งตระกูล Durendaire เขาประจำการอยู่ที่ Observatorium ใน Coerthas ไปหาเขาแล้วขอความช่วยเหลือจากเขากันเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Gaius may have called it a weapon of ancient Allag, but I saw extensive magitek modifications...",
+      "text_th": "ถึง Gaius จะเรียกมันว่าอาวุธแห่ง Allag โบราณ แต่ฉันเห็นว่ามีการดัดแปลงด้วยมาจิเทคไปเยอะเลยล่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "An imperial castrum... 'Twas to be expected, I suppose.",
+      "text_th": "คาสทรัมอิมพีเรียลเหรอ... ก็พอจะเดาได้ล่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "All right, let's do this! Let's go and rescue Minifilia and the others!",
+      "text_th": "เอาล่ะ ลุยกันเลย! ไปช่วย Minfilia กับคนอื่นๆ กันเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It is fortunate indeed that we were able to regroup here—I did not care much for my chances of surviving a foray into an imperial stronghold alone. But I am certain that together, we will find a way to rescue our fellow Scions.",
+      "text_th": "โชคดีจริงๆ ที่เรามารวมตัวกันที่นี่ได้—ฉันไม่ค่อยอยากเสี่ยงบุกเข้าไปในป้อมปราการของพวกอิมพีเรียลคนเดียวเท่าไหร่เลย แต่ฉันมั่นใจว่าเมื่อเราร่วมมือกัน เราจะหาทางช่วย Scions คนอื่นๆ ได้แน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "Ah, Forename ─the man / woman who unmasked the heretic in our midst! To what do I owe the pleasure of your company?",
+      "text_th": "อ้อ [ชื่อ] ─ชาย / หญิง ผู้กระชากหน้ากากคนนอกรีตในหมู่พวกเรานี่เอง! มีเกียรติอะไรให้ฉันรับใช้เหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "You are an associate of Y'shtola? But of course. Lord Drillemont confided to me that you were a Scion of the Seventh Dawn...",
+      "text_th": "เธอเป็นเพื่อนกับ Y'shtola งั้นเหรอ? แน่นอนอยู่แล้ว ท่านลอร์ด Drillemont เล่าให้ฉันฟังว่าเธอคือหนึ่งใน Scions of the Seventh Dawn...",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "Castrum Centri? What interest have you all in the imperials?",
+      "text_th": "Castrum Centri เหร? พวกเธอมีความสนใจอะไรในตัวพวกอิมพีเรียลกันล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "They hold several of our number─whom we intend to free. Any information you can provide would be greatly appreciated.",
+      "text_th": "พวกมันจับกุมพรรคพวกของเราไปหลายคน─ซึ่งเราตั้งใจจะไปปลดปล่อยให้เป็นอิสระ ถ้าท่านมีข้อมูลอะไรพอจะบอกเราได้ เราจะขอบคุณมากเลยค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "I see. That might explain our scouts' reports...",
+      "text_th": "เข้าใจแล้วล่ะ งั้นนั่นก็อธิบายรายงานจากหน่วยลาดตระเวนของเราได้เลย...",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "They observed four prisoners being led into the castrum: a Hyuran woman, an Elezen man, and two Lalafells─one male, one female.",
+      "text_th": "พวกเขาเห็นนักโทษสี่คนถูกพาตัวเข้าไปในคาสทรัม: ผู้หญิงเผ่า Hyur, ผู้ชายเผ่า Elezen แล้วก็เผ่า Lalafell สองคน─ชายหนึ่งหญิงหนึ่ง",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "It's them! It has to be! Minfilia, Urianger, Papalymo, and Tataru!",
+      "text_th": "พวกเขานั่นแหละ! ต้องใช่แน่ๆ! Minfilia, Urianger, Papalymo แล้วก็ Tataru!",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "If that scant morsel is of use to you, you may also be interested to hear about a more recent incident.",
+      "text_th": "ถ้าข้อมูลเล็กๆ น้อยๆ นั่นมีประโยชน์กับพวกเธอ พวกเธออาจจะสนใจฟังเรื่องที่เพิ่งเกิดขึ้นเร็วๆ นี้ด้วยก็ได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Incident?",
+      "text_th": "เรื่องอะไรคะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "An imperial airship made an emergency landing here in Coerthas not long ago. Two men believed to be prisoners─a Roegadyn and a Lalafell─were seen fleeing the craft.",
+      "text_th": "เรือเหาะของอิมพีเรียลลำนึงลงจอดฉุกเฉินที่นี่ใน Coerthas เมื่อไม่นานนี้เอง มีคนเห็นผู้ชายสองคนที่คาดว่าเป็นนักโทษ─เผ่า Roegadyn กับเผ่า Lalafell ─กำลังหนีออกมาจากยาน",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "What did you say?",
+      "text_th": "ท่านว่าอะไรนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "A Roegadyn and a Lalafell, Master Garlond. Neither wore imperial dress, and both seemed disinclined to wait for rescue, hence our assumption that they were prisoners.",
+      "text_th": "เผ่า Roegadyn กับเผ่า Lalafell ไง ท่านอาจารย์ Garlond ทั้งคู่ไม่ได้ใส่ชุดอิมพีเรียล และดูเหมือนไม่อยากจะรอให้ใครมาช่วย เราก็เลยเดาว่าพวกเขาน่าจะเป็นนักโทษน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Well, I'll be damned...it's Biggs and Wedge! Trust those two rascals to escape...",
+      "text_th": "ให้ตายสิ... ต้องเป็น Biggs กับ Wedge แน่ๆ! เชื่อใจไอ้สองแสบนั่นได้เลยว่าต้องหาทางหนีจนได้...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "We must find them, Forename , and soon!",
+      "text_th": "เราต้องหาพวกเขาให้เจอ [ชื่อ] และต้องเร็วด้วย!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "The imperials will not rest until they are captured or killed, and if Biggs were given the choice, I fear he'd take the latter.",
+      "text_th": "พวกอิมพีเรียลจะไม่ยอมเลิกราจนกว่าจะจับเป็นหรือจับตายพวกเขาได้ และถ้าให้ Biggs เลือก ฉันกลัวว่าเขาจะเลือกอย่างหลังน่ะสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "Freeing those held in Castrum Centri will require substantial planning and preparation. As such, it is an endeavor that will admit some slight delay.",
+      "text_th": "การจะเข้าไปช่วยคนที่ถูกขังอยู่ใน Castrum Centri ต้องใช้การวางแผนและการเตรียมตัวอย่างมาก ดังนั้นมันจึงเป็นภารกิจที่พอจะรอได้บ้าง",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "The matter of the escapees, by contrast, will not. Shortly after the prisoners vacated the airship, our scouts observed imperial troops setting off in pursuit. It is likely only a matter of time before they catch them.",
+      "text_th": "แต่สำหรับเรื่องคนที่หนีออกมานั้น ตรงกันข้ามเลยล่ะ มันรอไม่ได้หรอก หลังจากที่นักโทษหนีออกมาจากเรือเหาะได้ไม่นาน หน่วยลาดตระเวนของเราก็เห็นทหารอิมพีเรียลออกตามล่าพวกเขา มันเป็นแค่เรื่องของเวลาเท่านั้นแหละกว่าพวกมันจะตามทัน",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "If you wish to see your comrades again, you had best act now.",
+      "text_th": "ถ้าพวกเธออยากจะเจอเพื่อนอีกครั้ง รีบลงมือตอนนี้จะดีกว่านะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If, as has been suggested, the Garleans took our fellow Scions prisoner in hopes of understanding the Echo, it seems reasonable to assume that they will not be executed until such time as the study is complete.",
+      "text_th": "ถ้าเป็นอย่างที่คาดกันไว้ว่าพวก Garlean จับเพื่อน Scions ของเราไปเพื่อหวังจะเข้าใจพลัง Echo มันก็มีเหตุผลที่เราจะสันนิษฐานได้ว่าพวกเขาจะไม่ถูกประหารชีวิตจนกว่าการศึกษาจะเสร็จสิ้น",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But Biggs and Wedge are not Scions, nor do they know aught of the Echo. As Lord Portelaine said, this may prove our only chance to rescue them. I say we seize it.",
+      "text_th": "แต่ Biggs กับ Wedge ไม่ใช่ Scions และพวกเขาก็ไม่รู้เรื่องพลัง Echo ด้วย อย่างที่ท่านลอร์ด Portelaine บอก นี่อาจจะเป็นโอกาสเดียวที่เราจะช่วยพวกเขาได้ ฉันว่าเราควรคว้าโอกาสนี้ไว้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Thank you, everyone! You won't regret this.",
+      "text_th": "ขอบคุณนะทุกคน! พวกเธอจะไม่ผิดหวังแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Final preparations are almost complete, my lord.",
+      "text_th": "การเตรียมการขั้นตอนสุดท้ายเกือบเสร็จสมบูรณ์แล้วครับ ท่านลอร์ด",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "There stands the culmination of five long years of painstaking work. But all our efforts will be vindicated when the Emperor's vision becomes reality.",
+      "text_th": "นั่นคือจุดสูงสุดของความพยายามอันแสนยากลำบากตลอดห้าปีที่ผ่านมา แต่ความพยายามทั้งหมดของเราจะได้รับการพิสูจน์ว่าเป็นจริง เมื่อวิสัยทัศน์ขององค์จักรพรรดิกลายเป็นความจริง",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "At last, we have the power to purge this land of its false gods.",
+      "text_th": "ในที่สุด เราก็มีพลังที่จะชำระล้างแผ่นดินนี้ให้ปราศจากพระเจ้าจอมปลอมเสียที",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "We shall give the ignorant children of Eorzea the security and stability they so desperately crave─and which their spineless leaders have so palpably failed to provide.",
+      "text_th": "เราจะมอบความมั่นคงและเสถียรภาพที่พวกเด็กน้อยผู้โง่เขลาแห่ง Eorzea โหยหามาตลอด─ซึ่งผู้นำที่ไร้กระดูกสันหลังของพวกเขาไม่สามารถให้ได้อย่างชัดเจน",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "As you say, my lord. Rest assured, our engineers will not rest until the weapon is fully armed and operational.",
+      "text_th": "เป็นไปตามประสงค์ครับ ท่านลอร์ด ขอให้มั่นใจได้เลยว่าวิศวกรของเราจะไม่ยอมหยุดพักจนกว่าอาวุธจะพร้อมรบอย่างสมบูรณ์",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "Rhitahtyn. You depart for Castrum Occidens at midnight.",
+      "text_th": "Rhitahtyn เจ้าต้องออกเดินทางไป Castrum Occidens คืนนี้ตอนเที่ยงคืน",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "You will command the western front in Vylbrand.",
+      "text_th": "เจ้าจะได้รับมอบหมายให้เป็นผู้บัญชาการแนวรบด้านตะวันตกใน Vylbrand",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "The Eorzeans will attempt to interfere with our plans. You will see that they do not.",
+      "text_th": "พวก Eorzean จะต้องพยายามเข้ามาแทรกแซงแผนการของเรา เจ้าต้องทำให้แน่ใจว่าพวกมันจะทำไม่สำเร็จ",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "My lord, if this be your will, I shall carry it out to the best of my ability. I live only to serve the Empire.",
+      "text_th": "นายท่าน หากนี่คือความประสงค์ของท่าน ข้าจะปฏิบัติหน้าที่อย่างสุดความสามารถ ข้ามีชีวิตอยู่ก็เพื่อรับใช้จักรวรรดิเท่านั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Yet...forgive my impudence, but is it proper to give command of half our forces to a─",
+      "text_th": "ทว่า... โปรดอภัยในความบังอาจของข้า แต่การมอบอำนาจบัญชาการกองกำลังครึ่งหนึ่งของเราให้กับ─",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "I have given you nothing, Praefectus. You have earned it. That will be all. Dismissed.",
+      "text_th": "ข้าไม่ได้มอบอะไรให้เจ้าเลย ท่านผู้บัญชาการ เจ้าคู่ควรกับมันต่างหาก แค่นี้แหละ แยกย้ายได้",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Yes, my lord!",
+      "text_th": "ขอรับ นายท่าน!",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "...My quarters, one hour.",
+      "text_th": "...ไปพบข้าที่ห้องพัก อีกหนึ่งชั่วโมง",
+      "status": "AI"
+    }
+  ]
+}

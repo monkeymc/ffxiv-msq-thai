@@ -1,0 +1,146 @@
+{
+  "id": "footprints-in-the-snow",
+  "wiki_path": "/wiki/Footprints_in_the_Snow",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/2/2a/Footprints_in_the_Snow_Image.png",
+  "patch": "2.0",
+  "title_en": "Footprints in the Snow",
+  "title_th": "รอยเท้าบนหิมะ",
+  "title_status": "AI",
+  "level": "44",
+  "location": "Coerthas Central Highlands(X:14.3,Y:35.2)",
+  "npc_start": "Pierremons",
+  "dialogues": [
+    {
+      "character": "Pierremons",
+      "text_en": "There were prisoners aboard the airship, it seems, and they seized the opportunity to flee when the vessel was forced to land.",
+      "text_th": "ดูเหมือนจะมีนักโทษอยู่บนเรือเหาะลำนั้นนะ และพวกเขาก็ฉวยโอกาสหลบหนีตอนที่เรือต้องลงจอดฉุกเฉิน",
+      "status": "AI"
+    },
+    {
+      "character": "Pierremons",
+      "text_en": "The Garleans who were deployed formed search parties and proceeded to scour the wilderness. In order to alert our forces, I returned to my post...",
+      "text_th": "พวก Garlean ที่ถูกส่งมาได้ตั้งทีมค้นหา และกระจายกำลังกันออกไปสำรวจป่า เพื่อที่จะแจ้งให้กองกำลังของเราทราบ ข้าก็เลยกลับมาที่ป้อมยาม...",
+      "status": "AI"
+    },
+    {
+      "character": "Pierremons",
+      "text_en": "...To find evidence that someone had been here in my absence. Whoever they were, they tried the door to no avail, and decided to go elsewhere.",
+      "text_th": "...และก็พบหลักฐานว่ามีคนมาที่นี่ตอนที่ข้าไม่อยู่ ไม่ว่าพวกเขาจะเป็นใคร พวกเขาก็พยายามจะเปิดประตูแต่ไม่สำเร็จ ก็เลยเปลี่ยนใจไปที่อื่น",
+      "status": "AI"
+    },
+    {
+      "character": "Pierremons",
+      "text_en": "In all, I marked two sets of footprints─one large and one small. If you search the area, mayhap you will be able to follow the prints to their owners.",
+      "text_th": "รวมๆ แล้ว ข้าพบรอยเท้าอยู่สองคู่─คู่ใหญ่กับคู่เล็ก ถ้าเจ้าลองสำรวจพื้นที่ดู บางทีเจ้าอาจจะตามรอยเท้าพวกนั้นไปเจอเจ้าของมันก็ได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Brrr... So...c-c-cold... I w-w-want to go home...",
+      "text_th": "บรื๋อ... ห-หนาวจังเลย... ฉ-ฉันอยากกลับบ้าน...",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Uwaaaaaah! P-Please don't eat me! I'm not nearly as succulent as I look! It's all skin and bones underneath, I swear!",
+      "text_th": "อุแว้ก! ด-ได้โปรดอย่ากินฉันเลย! ฉันไม่ได้น่ากินอย่างที่เห็นหรอกนะ! ข้างในมีแต่หนังหุ้มกระดูกจริงๆ สาบานเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "<gasp> Forename , it's you! Thank goodness you're here! It's been...it's been awful !",
+      "text_th": "<เฮือก> [ชื่อ] คุณนั่นเอง! ขอบคุณพระเจ้าที่คุณมา! มัน... มัน แย่มาก เลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "The Garleans were snapping at our heels like a hungry pack of wolves! I was so hells-bent on evading them, I almost ran headlong into a monster's gaping maw... thrice ! And when I finally found cover, it hit me how cold and hungry I was!",
+      "text_th": "พวก Garlean ไล่ตามหลังเรามาติดๆ เหมือนฝูงหมาป่าหิวโซเลย! ฉันมัวแต่วิ่งหนีหัวซุกหัวซุนจนเกือบจะวิ่งเข้าปากมอนสเตอร์ไปแล้วตั้ง... สามรอบ แน่ะ! แล้วพอฉันหาที่ซ่อนได้ ในที่สุดฉันก็เพิ่งรู้ตัวว่าตัวเองทั้งหนาวทั้งหิวขนาดไหน!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "B-Biggs? He...he isn't here. He went off in a different direction to lure our pursuers away.",
+      "text_th": "บ-Biggs เหรอ? เขา... เขาไม่ได้อยู่ที่นี่ เขาแยกไปอีกทางเพื่อล่อพวกที่ตามเรามาน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "It's me, Cid. Have you had any success?",
+      "text_th": "ฉันเอง Cid ตามหาเจอไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "...Tracked down Wedge!? That's wonderful news! Now, what of Biggs?",
+      "text_th": "...เจอ Wedge แล้วเหรอ!? เป็นข่าวดีที่สุดเลย! แล้ว Biggs ล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "...I see. Well, it hardly surprises me that the big fellow went off as he did. For all the tongue-lashings he gives Wedge, he's always taken care of him.",
+      "text_th": "...เข้าใจล่ะ ก็นะ มันก็ไม่ค่อยแปลกใจเท่าไหร่หรอกที่พ่อหนุ่มร่างใหญ่คนนั้นจะทำแบบนั้น ถึงเขาจะชอบด่า Wedge อยู่บ่อยๆ แต่เขาก็คอยดูแลเจ้านั่นมาตลอดแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I've scoured the area surrounding the Darkhold, but have nothing to show for it. At any rate, we know for a fact that Biggs headed west. With both Yda and Y'shtola helping out, I'm sure he'll turn up soon.",
+      "text_th": "ฉันค้นหาบริเวณรอบๆ Darkhold แล้วล่ะ แต่ก็ไม่เจออะไรเลย แต่ยังไงก็เถอะ เรารู้แน่ๆ แล้วว่า Biggs มุ่งหน้าไปทางตะวันตก ยิ่งมี Yda กับ Y'shtola คอยช่วยอยู่ด้วย ฉันมั่นใจว่าเขาจะต้องปรากฏตัวในไม่ช้าแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Now then, I'll make my way over to your position while keeping an eye out for Biggs.",
+      "text_th": "เอาล่ะ เดี๋ยวฉันจะเดินทางไปสมทบกับเธอ พร้อมกับคอยสอดส่องหา Biggs ไปด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "If memory serves, there should be an Ishgardian fortification not far to your west─Monument Tower, I believe it's called. Let us meet there.",
+      "text_th": "ถ้าฉันจำไม่ผิด น่าจะมีป้อมปราการของพวก Ishgardian อยู่ไม่ไกลจากทางตะวันตกของเธอเท่าไหร่─น่าจะชื่อ Monument Tower นะ ไปเจอกันที่นั่นเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Dare I hope...? Was that...Master Garlond you spoke with!?",
+      "text_th": "ฉันพอจะหวังได้ไหม...? นั่นมัน... ท่านอาจารย์ Garlond ที่คุณคุยด้วยเมื่อกี้หรือเปล่า!?",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "<sniff> After five long years... <sob> Thank goodness he's alive...",
+      "text_th": "<สูดจมูก> หลังจากห้าปีอันยาวนาน... <สะอื้น> ขอบคุณพระเจ้าที่เขายังมีชีวิตอยู่...",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I'm feeling better now, Forename ! Let's go to Monument Tower and wait for the chief to arrive!",
+      "text_th": "ฉันรู้สึกดีขึ้นแล้วล่ะ [ชื่อ] ! เราไปที่ Monument Tower แล้วไปรอท่านอาจารย์กันเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Abelie",
+      "text_en": "Well met and welcome, adventurer. What brings you to this frozen corner of the realm?",
+      "text_th": "ยินดีต้อนรับนักผจญภัย ลมอะไรหอบเจ้ามาถึงดินแดนอันหนาวเหน็บแห่งนี้ล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Abelie",
+      "text_en": "Oh? It would seem your companion has caught a chill. Come and warm yourself by the fire. I will bring you a hot broth.",
+      "text_th": "โอ้? ดูเหมือนเพื่อนของเจ้าจะโดนความหนาวเล่นงานเข้าแล้วนะ มาผิงไฟให้อุ่นๆ ก่อนเถอะ เดี๋ยวข้าจะเอาน้ำซุปร้อนๆ มาให้",
+      "status": "AI"
+    },
+    {
+      "character": "Abelie",
+      "text_en": "How are we feeling now, then? Stay here as long as you need.",
+      "text_th": "เป็นยังไงบ้างล่ะ ดีขึ้นหรือยัง? พักอยู่ที่นี่นานเท่าที่เจ้าต้องการเลยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Abelie",
+      "text_en": "The same goes for you, friend. 'Tis plain you have a hard journey ahead of you. You must find rest when you can.",
+      "text_th": "สำหรับเจ้าก็เหมือนกันนะเพื่อน เห็นได้ชัดว่าเจ้ายังมีการเดินทางที่ยากลำบากรออยู่ข้างหน้า พักผ่อนซะตอนที่ยังมีโอกาสเถอะ",
+      "status": "AI"
+    }
+  ]
+}

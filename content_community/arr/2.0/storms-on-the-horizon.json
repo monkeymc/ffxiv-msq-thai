@@ -1,0 +1,50 @@
+{
+  "id": "storms-on-the-horizon",
+  "wiki_path": "/wiki/Storms_on_the_Horizon",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Storms on the Horizon",
+  "title_th": "พายุที่เส้นขอบฟ้า",
+  "title_status": "AI",
+  "level": "13",
+  "location": "Western Thanalan(X:17.9,Y:16.0)",
+  "npc_start": "Nunuzofu",
+  "dialogues": [
+    {
+      "character": "Nunuzofu",
+      "text_en": "Hey, adventurer! Mind runnin' a message to Crescent Cove for us?",
+      "text_th": "เฮ้ นักผจญภัย! ช่วยวิ่งไปส่งข้อความที่ Crescent Cove ให้พวกเราหน่อยได้ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Nunuzofu",
+      "text_en": "Captain Baldewyn's plannin' some festivities for the thaumaturges, see, and he wants 'em treated to the finest food and drink. Nothin' but the best for our distinguished guests, eh?",
+      "text_th": "กัปตัน Baldewyn กำลังวางแผนจะจัดงานเลี้ยงต้อนรับพวกนักเวท (thaumaturge) น่ะ แล้วเขาก็อยากจะต้อนรับพวกเขาด้วยอาหารและเครื่องดื่มชั้นยอด ต้องเป็นของที่ดีที่สุดสำหรับแขกผู้มีเกียรติของเราเท่านั้น จริงไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Nunuzofu",
+      "text_en": "Head west and south to the village and tell Raffe that he's to deliver a bounty of fresh fish to Horizon for the feast.",
+      "text_th": "มุ่งหน้าไปทางทิศตะวันตกและทิศใต้ มุ่งสู่หมู่บ้านนั่น แล้วไปบอก Raffe ให้เขานำปลาสดๆ กองโตมาส่งที่ Horizon เพื่อใช้ในงานเลี้ยงด้วยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Raffe",
+      "text_en": "F-Fresh fish for Captain Baldewyn? Of course, of course ! We will do our best, sir / madam .",
+      "text_th": "ป-ปลาสดๆ สำหรับกัปตัน Baldewyn งั้นรึ? ได้เลย ได้แน่นอนขอรับ! พวกเราจะทำอย่างสุดความสามารถเลยขอรับ นายท่าน / นายหญิง .",
+      "status": "AI"
+    },
+    {
+      "character": "Raffe",
+      "text_en": "U-Unfortunately, we've had a poor catch in recent days on account of the rough seas. More boats should be returning soon, but I cannot promise that their catch will please.",
+      "text_th": "น-น่าเสียดายนะขอรับ ที่ช่วงหลายวันมานี้เราจับปลาได้น้อยมากเพราะทะเลปั่นป่วนน่ะขอรับ น่าจะมีเรือกลับมาอีกเร็วๆ นี้แหละขอรับ แต่ข้าก็รับปากไม่ได้หรอกนะขอรับว่าปลาที่ได้มาจะถูกใจพวกท่านไหม",
+      "status": "AI"
+    },
+    {
+      "character": "Raffe",
+      "text_en": "But don't worry, sir / milady ! The captain will have his fish! I swear it!",
+      "text_th": "แต่ไม่ต้องเป็นห่วงไปหรอกขอรับ นายท่าน / นายหญิง ! กัปตันจะต้องได้ปลาของเขาแน่นอน! ข้าขอสาบานเลยขอรับ!",
+      "status": "AI"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "druthers-house-rules",
+  "wiki_path": "/wiki/Druthers_House_Rules",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Druthers House Rules",
+  "title_th": "กฎของร้าน Druthers",
+  "title_status": "AI",
+  "level": "22",
+  "location": "South Shroud(X:18.1,Y:19.8)",
+  "npc_start": "Buscarron",
+  "dialogues": [
+    {
+      "character": "Buscarron",
+      "text_en": "No word on the sylph elder yet, but I'm sure it's only a matter of time. In the meantime, how about doing a favor for old Buscarron in return?",
+      "text_th": "ยังไม่มีข่าวคราวจากท่านผู้อาวุโสซิลฟ์เลย แต่ฉันว่ามันเป็นแค่เรื่องของเวลาแหละ ระหว่างนี้ ทำไมไม่ช่วยตาแก่ Buscarron หน่อยเพื่อเป็นการตอบแทนล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Right, then, let's put you to work. There's a customer outside who's spoiling for a fight and I need you to cool him off for me.",
+      "text_th": "เอาล่ะ งั้นก็มาเริ่มงานกันเลย มีลูกค้าอยู่ข้างนอกกำลังหาเรื่องชกต่อยกัน ฉันอยากให้เธอช่วยทำให้เขาเย็นลงหน่อย",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "No need to go cracking any skulls, though. Just take this tub of cold water and douse the drunkard. Tends to do the trick.",
+      "text_th": "ไม่ต้องถึงกับไปตีกะโหลกใครให้แตกหรอกนะ แค่เอาน้ำเย็นถังนี้ไปสาดไอ้ขี้เมานั่นก็พอ มักจะได้ผลเสมอล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "My patrons can swill grog all night and carouse loud enough to wake the dead if they wish, but as soon as it turns violent, I've got to put my boot down.",
+      "text_th": "ลูกค้าของฉันจะกระดกเหล้าทั้งคืน แล้วก็โหวกเหวกโวยวายดังลั่นจนปลุกคนตายก็ไม่ว่าหรอกนะ แต่ถ้าเมื่อไหร่ที่มันเริ่มใช้ความรุนแรง ฉันก็ต้องลงดาบขั้นเด็ดขาดล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Duskwight",
+      "text_en": "Grrr... If this were anywhere but the Druthers, I'd have that fool spittin' teeth before he formed a second word.",
+      "text_th": "กรร... ถ้าไม่ใช่ที่ร้าน Druthers ล่ะก็ ฉันคงตั๊นหน้าไอ้โง่นี่ให้ฟันร่วงหมดปากก่อนที่มันจะพูดคำที่สองจบแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Mead-soaked Midlander",
+      "text_en": "What are you starin' at!? You wanna keep them eyes in yer face?",
+      "text_th": "มองอะไรวะ!? อยากให้ลูกตาแกยังอยู่บนหน้าไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Mead-soaked Midlander",
+      "text_en": "Ugh! Nophica's teats, that's cold! What do you mean, “no fightin'”? This Duskwight scum was─",
+      "text_th": "อึ๋ย! แม่เจ้าโว้ย เย็นเจี๊ยบเลย! หมายความว่าไง “ห้ามทะเลาะกัน”? ไอ้ขี้เรื้อน Duskwight นี่มัน─",
+      "status": "AI"
+    },
+    {
+      "character": "Mead-soaked Midlander",
+      "text_en": "Yeah, yeah, I know the rules. That bastard gets to keep his skin...for now.",
+      "text_th": "เออๆ รู้กฎแล้วน่า ไอ้เวรนั่นรอดไปนะ... คราวนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Duskwight",
+      "text_en": "Thanks for steppin' in there, friend. Not that I couldn't handle myself against a bleatin' milksop like that bloke.",
+      "text_th": "ขอบใจที่เข้ามาห้ามนะเพื่อน ไม่ใช่ว่าฉันจะรับมือกับไอ้หน้าจืดนั่นไม่ได้หรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Duskwight",
+      "text_en": "And I don't want to cause no trouble for Buscarron. You know, havin' to mop up blood and bits o' teeth and the like.",
+      "text_th": "แล้วฉันก็ไม่อยากจะสร้างความเดือดร้อนให้ Buscarron ด้วยน่ะสิ เธอรู้ใช่ไหมล่ะ ต้องมาคอยเช็ดเลือด เก็บเศษฟัน อะไรทำนองนั้นน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Nicely done, Forename . I'll not have my patrons picking fights with each other over a bit of petty prejudice.",
+      "text_th": "ทำได้ดีมาก [ชื่อ] ฉันจะไม่ยอมให้ลูกค้าในร้านมาหาเรื่องชกต่อยกันเพียงเพราะอคติเล็กๆ น้อยๆ หรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "In case you didn't see, the bloke who caught the brunt of that outburst is a Duskwight Elezen. They're a people who shun cities to live in the wilds, making them no better than brigands in the eyes of many.",
+      "text_th": "เผื่อเธอไม่เห็นนะ ไอ้คนที่รับเคราะห์จากการอาละวาดเมื่อกี้เป็นชาว Duskwight Elezen น่ะ พวกเขาเป็นเผ่าพันธุ์ที่หลีกหนีจากเมืองไปใช้ชีวิตในป่าเขา ทำให้ในสายตาหลายๆ คนมองพวกเขาไม่ต่างจากพวกโจรป่าหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "To be fair, the Duskwights can be an unruly lot, but they ain't so bad once you get to know them. And it don't seem right to bar a whole race of people from the Druthers for the misdeeds of a few.",
+      "text_th": "พูดอย่างเป็นธรรมนะ พวก Duskwight บางทีก็เอาแต่ใจตัวเอง แต่พวกเขาไม่ได้เลวร้ายอย่างที่คิดหรอกถ้าได้รู้จักจริงๆ แล้วมันก็ไม่ถูกต้องเลยที่จะห้ามคนทั้งเผ่าพันธุ์ไม่ให้เข้าร้าน Druthers เพียงเพราะการกระทำผิดของคนไม่กี่คน",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "There should be at least one place where anyone willing to pay the coin and drink in peace is welcome, don't you think?",
+      "text_th": "มันควรจะมีสถานที่อย่างน้อยสักแห่งหนึ่ง ที่เปิดรับทุกคนที่ยินดีจ่ายเงินและดื่มอย่างสงบสุข เธอว่าไหมล่ะ?",
+      "status": "AI"
+    }
+  ]
+}

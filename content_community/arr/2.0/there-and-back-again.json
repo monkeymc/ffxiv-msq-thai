@@ -1,0 +1,68 @@
+{
+  "id": "there-and-back-again",
+  "wiki_path": "/wiki/There_and_Back_Again",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "There and Back Again",
+  "title_th": "ไปแล้วกลับมา",
+  "title_status": "AI",
+  "level": "31",
+  "location": "Southern Thanalan(X:14.3,Y:29.9)",
+  "npc_start": "U'odh Nunh",
+  "dialogues": [
+    {
+      "character": "U'odh Nunh",
+      "text_en": "The captain was always fond of this brandewine. I would be grrrateful if you could deliver it on my behalf.",
+      "text_th": "ท่านกัปตันชอบเครื่องดื่มแบรนดีไวน์ยี่ห้อนี้มาตลอด ข้าจะขอบคุณมากถ้าเจ้าช่วยเอาไปส่งให้เขาแทนข้า",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "I was a rrreckless, angry youth when I first joined the Company, and he would have been well within his rights to cast me out. Everything I have I owe to his wisdom and generrrosity.",
+      "text_th": "ตอนที่ข้าเพิ่งเข้าร่วม Company ใหม่ๆ ข้ายังเป็นวัยรุ่นที่ทั้งบ้าบิ่นและขี้โมโห เขาจะไล่ข้าออกก็ได้ ซึ่งก็เป็นสิทธิ์ของเขาเลยแหละ แต่ที่ข้ามีทุกวันนี้ได้ ก็เป็นเพราะสติปัญญาและความใจกว้างของเขาทั้งนั้น",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Aye, Wheiskaet was a firm-yet-fair teacher, an expert molder of men. And I suspect that is still the case now.",
+      "text_th": "ใช่แล้วล่ะ Wheiskaet เป็นครูที่เข้มงวดแต่ก็ยุติธรรม เป็นคนที่คอยหล่อหลอมคนได้อย่างเชี่ยวชาญ และข้าก็เดาว่าตอนนี้เขาก็คงยังเป็นแบบนั้นอยู่",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Please give him my rrregards, Forename .",
+      "text_th": "ฝากทักทายเขาด้วยนะ Forename",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "You are a skilled hunterrr, Forename . This I know. But your quarry is a god; this I also know.",
+      "text_th": "เจ้าเป็นนักล่าที่เก่งกาจนะ Forename เรื่องนี้ข้ารู้ดี แต่เหยื่อของเจ้าในคราวนี้คือเทพเจ้า... เรื่องนี้ข้าก็รู้ดีเช่นกัน",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Blind rrrecklessness will avail you naught against such foes, regardless of what Landenel may claim.",
+      "text_th": "ความบ้าบิ่นที่มืดบอดจะไม่มีประโยชน์อะไรเลยเมื่อต้องเผชิญหน้ากับศัตรูระดับนั้น ไม่ว่า Landenel จะพูดอ้างอะไรก็ตามเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Well met, Forename . Landenel and U'odh Nunh both spoke highly of you. What brings you here today?",
+      "text_th": "ดีใจที่ได้เจอกันนะ Forename ทั้ง Landenel และ U'odh Nunh ต่างก็พูดถึงเธอในแง่ดีทั้งนั้น วันนี้มีธุระอะไรถึงมาที่นี่ล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Ahhh, my favorite. I shall have to thank the nunh personally.",
+      "text_th": "อ้าา ของโปรดของฉันเลยนี่นา คงต้องไปขอบคุณ nunh ด้วยตัวเองซะแล้วสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Now, you have but one ingredient left. Fortunately, you will not have to travel to Aldenard this time to obtain it.",
+      "text_th": "ตอนนี้ก็เหลือส่วนผสมอีกแค่ชิ้นเดียวแล้ว โชคดีหน่อยที่คราวนี้เธอไม่ต้องเดินทางไปถึง Aldenard เพื่อหามันหรอกนะ",
+      "status": "AI"
+    }
+  ]
+}

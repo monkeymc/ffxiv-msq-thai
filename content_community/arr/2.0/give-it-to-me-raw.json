@@ -1,0 +1,50 @@
+{
+  "id": "give-it-to-me-raw",
+  "wiki_path": "/wiki/Give_It_to_Me_Raw",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Give It to Me Raw",
+  "title_th": "เอาของดิบๆ มาให้ข้าที",
+  "title_status": "AI",
+  "level": "10",
+  "location": "Western Thanalan(X:26.2,Y:18.2)",
+  "npc_start": "Drunken Stag",
+  "dialogues": [
+    {
+      "character": "Drunken Stag",
+      "text_en": "The “product” you heard Dadanen going on about is a valuable gemstone known as raw Nashachite. I managed to dig up a goodly amount just before the mines were closed off, actually.",
+      "text_th": "“สินค้า” ที่เจ้าได้ยิน Dadanen บ่นถึงนั่นน่ะ มันคืออัญมณีล้ำค่าที่ชื่อว่า Nashachite ดิบ ข้าอุตส่าห์ขุดมาได้ตั้งเยอะแยะก่อนที่เหมืองจะถูกปิดเชียวนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "Packed it up and hauled it out, even. But then them Twelve-damned coblyns came along. Not like any coblyns I'd seen before, and hungry only for the good rocks. They had eyes for my gemstones, so I had no choice but to oblige.",
+      "text_th": "ข้าแพ็คใส่หีบห่อเตรียมขนออกมาแล้วด้วยซ้ำ แต่แล้วไอ้พวก coblyns บ้าบอนั่นก็โผล่มา ไม่เหมือนพวก coblyns ที่ข้าเคยเห็นมาก่อนเลย พวกมันหิวโซแต่ก้อนหินดีๆ เท่านั้น พวกมันจ้องจะเอาอัญมณีของข้า ข้าก็เลยไม่มีทางเลือกอื่นนอกจากต้องยอมยกให้",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "The Stone Torches had their hands full evacuating the mines, so they ignored the beasts. Even now, they're only concerned with keeping people out. Please, friend, if you're willing to face the coblyns, would you bring me my Nashachite?",
+      "text_th": "พวก Stone Torches มัวแต่ยุ่งกับการอพยพคนออกจากเหมือง ก็เลยไม่ได้สนใจพวกสัตว์ประหลาดนั่น แม้แต่ตอนนี้ พวกเขาก็สนแค่กันไม่ให้คนเข้าไปข้างในเท่านั้นแหละ สหายเอ๋ย ถ้าเจ้ายินดีที่จะไปเผชิญหน้ากับพวก coblyns รบกวนเอา Nashachite ของข้ากลับมาให้หน่อยได้ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "How did you fare, friend? Did you find the raw Nashachite?",
+      "text_th": "เป็นยังไงบ้างสหาย? หา Nashachite ดิบเจอไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "Beautiful, isn't it? Rarer than many stones, and more expensive than most. They say the green is the same as the eyes of Nanasha Ul Nasha, who once ruled as the sultana.",
+      "text_th": "สวยใช่ไหมล่ะ? หายากกว่าหินหลายๆ ชนิดเลยนะ แล้วก็แพงกว่ามากด้วย ว่ากันว่าสีเขียวของมันเหมือนกับสีพระเนตรของ Nanasha Ul Nasha อดีตสุลต่าน่าเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "This should save Dadanen from his troubles...if there's enough left. There's far less here than what I found. I reckon those coblyns made a meal of the stuff. Bloody waste...",
+      "text_th": "แค่นี้น่าจะช่วย Dadanen จากปัญหาได้นะ... ถ้ามันยังเหลือพออ่ะนะ มันเหลืออยู่น้อยกว่าที่ข้าขุดมาได้ตั้งเยอะ ข้าเดาว่าพวก coblyns คงจะกินมันเข้าไปหมดแล้วแน่ๆ เสียดายของชะมัด...",
+      "status": "AI"
+    }
+  ]
+}

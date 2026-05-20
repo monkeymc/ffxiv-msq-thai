@@ -1,0 +1,386 @@
+{
+  "id": "the-company-you-keep-immortal-flames",
+  "wiki_path": "/wiki/The_Company_You_Keep_(Immortal_Flames)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/6/65/The_Company_You_Keep_%28Immortal_Flames%29_Image.png",
+  "patch": "2.0",
+  "title_en": "The Company You Keep (Immortal Flames)",
+  "title_th": "สหายที่ท่านเลือก (Immortal Flames)",
+  "title_status": "AI",
+  "level": "20",
+  "location": "The Waking Sands(X:6.8,Y:6.2)",
+  "npc_start": "Flame Officer",
+  "dialogues": [
+    {
+      "character": "Flame Officer",
+      "text_en": "Welcome back, adventurer! I take it General Raubahn's words kindled a fire within you?",
+      "text_th": "ยินดีต้อนรับกลับ นักผจญภัย! ข้าเดาว่าคำพูดของท่านนายพล Raubahn คงจะจุดประกายไฟในใจท่านแล้วสินะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "What? You cannot seriously be considering joining another Grand Company! Why, they are not nearly as grand as ours!",
+      "text_th": "อะไรนะ? ท่านไม่ได้กำลังคิดจะไปเข้าร่วมกับ Grand Company อื่นใช่มั้ย! แหม พวกนั้นไม่ได้ยิ่งใหญ่เท่าพวกเราเลยนะจะบอกให้!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Excellent! I feared that the incident with the traitor may have soured your opinion of us. It gladdens me to see that isn't the case.",
+      "text_th": "ยอดเยี่ยมไปเลย! ข้าล่ะกลัวว่าเหตุการณ์ที่มีคนทรยศนั่นจะทำให้ท่านมองพวกเราในแง่ร้ายไปแล้ว ข้าดีใจจริงๆ ที่มันไม่ได้เป็นแบบนั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "But before we can count you as one of our own, you must be formally inducted into our ranks.",
+      "text_th": "แต่ก่อนที่เราจะนับท่านเป็นหนึ่งในพวกเราได้ ท่านต้องผ่านการบรรจุเข้าเป็นสมาชิกของเราอย่างเป็นทางการซะก่อน",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Please proceed to the Hall of Flames and identify yourself to the personnel officer. I will notify him of your coming.",
+      "text_th": "โปรดเดินทางไปที่ Hall of Flames และแสดงตัวกับเจ้าหน้าที่ฝ่ายบุคคล ข้าจะแจ้งให้เขาทราบล่วงหน้าว่าท่านกำลังไป",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Excellent! I feared that the incident with the traitor may have soured your opinion of us. It gladdens me to see that isn't the case.",
+      "text_th": "ยอดเยี่ยมไปเลย! ข้าล่ะกลัวว่าเหตุการณ์ที่มีคนทรยศนั่นจะทำให้ท่านมองพวกเราในแง่ร้ายไปแล้ว ข้าดีใจจริงๆ ที่มันไม่ได้เป็นแบบนั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "But before we can count you as one of our own, you must be formally inducted into our ranks.",
+      "text_th": "แต่ก่อนที่เราจะนับท่านเป็นหนึ่งในพวกเราได้ ท่านต้องผ่านการบรรจุเข้าเป็นสมาชิกของเราอย่างเป็นทางการซะก่อน",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Please proceed to the Hall of Flames on Ul'dah's Merchant Strip and identify yourself to the personnel officer. I will notify him of your coming.",
+      "text_th": "โปรดเดินทางไปที่ Hall of Flames ที่เขต Merchant Strip ใน Ul'dah และแสดงตัวกับเจ้าหน้าที่ฝ่ายบุคคล ข้าจะแจ้งให้เขาทราบล่วงหน้าว่าท่านกำลังไป",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "With your strength joined to ours, we shall surely prevail over our enemies, be they beastmen or imperials.",
+      "text_th": "เมื่อพลังของท่านผสานกับพวกเราแล้ว เราจะสามารถเอาชนะศัตรูของเราได้อย่างแน่นอน ไม่ว่าจะเป็นพวกมนุษย์สัตว์หรือพวกจักรวรรดิก็ตาม",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "I will not deny that I am disappointed, but I take comfort in the knowledge that individuals are permitted to transfer between Grand Companies. Know that the Order of the Twin Adder would be proud to have you should you undergo a change of heart.",
+      "text_th": "ข้าคงปฏิเสธไม่ได้หรอกนะว่าข้าผิดหวัง แต่ข้าก็สบายใจได้บ้างที่รู้ว่าทุกคนมีสิทธิ์ย้ายข้าม Grand Company ได้ จงรู้ไว้นะว่า Order of the Twin Adder จะภูมิใจมากเลยล่ะหากท่านจะเปลี่ยนใจมาร่วมกับเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "So you have decided to cast your lot with the Flames. Well, there is no help for it. Just remember that it's never too late to sign on with a different crew.",
+      "text_th": "งั้นท่านก็ตัดสินใจจะฝากอนาคตไว้กับกลุ่ม Flames แล้วสินะ ก็ช่วยไม่ได้ล่ะนะ แค่จำไว้ก็พอว่ามันไม่มีคำว่าสายเกินไปหรอกนะถ้าคิดจะย้ายมาอยู่กับกลุ่มลูกเรือกลุ่มใหม่น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Before you may take your place within our ranks, you must speak with the personnel officer at the Hall of Flames in Ul'dah. Pray do so at your earliest convenience. I, meanwhile, will bear word of your excellent decision to General Raubahn.",
+      "text_th": "ก่อนที่ท่านจะก้าวเข้ามาอยู่ในกองกำลังของเรา ท่านจะต้องไปคุยกับเจ้าหน้าที่ฝ่ายบุคคลที่ Hall of Flames ใน Ul'dah ซะก่อน โปรดไปจัดการให้เรียบร้อยโดยเร็วที่สุดนะ ส่วนข้าจะนำข่าวเรื่องการตัดสินใจอันยอดเยี่ยมของท่านไปแจ้งให้ท่านนายพล Raubahn ทราบเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "What brings you to the Hall of Flames this morning / day / evening , adventurer?",
+      "text_th": "อะไรนำพาท่านมาที่ Hall of Flames ในเช้านี้ / วันนี้ / เย็นนี้ รึ นักผจญภัย?",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Ah, I thought as much! You are just as our man at the Waking Sands described! It is an honor to meet you, sir / madam !",
+      "text_th": "อา ข้ากะไว้แล้วเชียว! ท่านก็เหมือนที่คนของเราที่ Waking Sands อธิบายไว้เป๊ะเลย! เป็นเกียรติอย่างยิ่งที่ได้พบท่าน ท่านชาย / ท่านหญิง !",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Is that so? Well then, I must ask you for your name. Ah, but let me guess. It is Forename Surname , is it not? Yes, you are just as our man at the Waking Sands described. Thank you for electing to join us.",
+      "text_th": "อย่างนั้นรึ? ถ้าอย่างนั้น ข้าคงต้องขอชื่อท่านแล้วล่ะ อา แต่ให้ข้าเดานะ ท่านคือ [ชื่อ] [นามสกุล] ใช่ไหมล่ะ? ใช่แล้ว ท่านก็เหมือนที่คนของเราที่ Waking Sands อธิบายไว้เป๊ะเลย ขอบคุณที่เลือกเข้าร่วมกับพวกเรานะ",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Now, in order to formalize your——",
+      "text_th": "เอาล่ะ เพื่อให้การเข้าร่วมของท่านเป็นไปอย่างเป็นทาง─",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Private",
+      "text_en": "Sir!",
+      "text_th": "ท่านครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Speak, Private.",
+      "text_th": "พูดมาสิ ทหาร",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Private",
+      "text_en": "Imperials, sir! They've fired on a Highwind Skyways airship!",
+      "text_th": "พวกจักรวรรดิครับท่าน! พวกมันยิงถล่มเรือเหาะของ Highwind Skyways ครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Private",
+      "text_en": "Scouts say she's coming down to the west, near Horizon's Edge!",
+      "text_th": "หน่วยลาดตระเวนรายงานมาว่า เรือกำลังจะตกทางฝั่งตะวันตก ใกล้ๆ กับ Horizon's Edge ครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Bloody hells! Of all the times for this to happen!",
+      "text_th": "ให้ตายเถอะ! ดันมาเกิดเรื่องเอาตอนนี้นะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Forename , there's no time for formalities! The Immortal Flames need your help now !",
+      "text_th": "[ชื่อ] ไม่มีเวลามาทำตามพิธีแล้วล่ะ! Immortal Flames ต้องการความช่วยเหลือจากท่าน ด่วนเลย !",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "We're in the midst of a large-scale operation against the Amalj'aa, and we have no one to spare in western Thanalan. You must get to that ship before the Garleans do!",
+      "text_th": "ตอนนี้เรากำลังอยู่ในระหว่างปฏิบัติการขนาดใหญ่เพื่อจัดการกับพวก Amalj'aa และเราก็ไม่มีกำลังคนเหลือพอจะส่งไปที่ฝั่งตะวันตกของ Thanalan เลย ท่านต้องไปให้ถึงเรือนั่นก่อนพวก Garlean นะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "If there are any survivors, see that they do not come to further harm. Now go!",
+      "text_th": "ถ้ามีใครรอดชีวิต ท่านต้องดูแลอย่าให้พวกเขาได้รับอันตรายไปมากกว่านี้นะ รีบไปเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "An adventurer!? What're you doing out here? No, wait——let's find some cover first...",
+      "text_th": "นักผจญภัยงั้นเหรอ!? คุณมาทำอะไรที่นี่เนี่ย? ไม่สิ เดี๋ยวก่อน─เราไปหาที่หลบกันก่อนเถอะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "The Immortal Flames sent you? How do I know you're not an imperial spy? You don't even have a uniform!",
+      "text_th": "Immortal Flames ส่งคุณมางั้นเหรอ? แล้วฉันจะรู้ได้ไงว่าคุณไม่ใช่สายลับจักรวรรดิ? คุณยังไม่ได้ใส่เครื่องแบบเลยด้วยซ้ำ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "Are you all right, sir? Our scouts reported the attack on your craft. We've come to rescue you.",
+      "text_th": "คุณไม่เป็นไรใช่ไหมครับ? หน่วยลาดตระเวนของเรารายงานเรื่องที่เรือของคุณถูกโจมตี เราก็เลยมาช่วยน่ะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "Forename Surname , yes? Glad to have you with us.",
+      "text_th": "[ชื่อ] [นามสกุล] ใช่ไหมครับ? ดีใจที่มีคุณมาร่วมสู้ด้วยกันนะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "I have not seen a craft of this design before... That traitor Garlond has been busy.",
+      "text_th": "ข้าไม่เคยเห็นเรือเหาะรูปแบบนี้มาก่อนเลย... ไอ้คนทรยศ Garlond คงจะงานยุ่งน่าดูสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "The secrets of magitek are ours by right. They are not to be squandered upon the savages of this land.",
+      "text_th": "ความลับของเทคโนโลยี magitek เป็นสิทธิ์ของเราโดยชอบธรรม ไม่ใช่เอามาโยนทิ้งขว้างให้กับพวกป่าเถื่อนในดินแดนนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "We are taking this craft back to the fortress! Dismantle it if you must! And bring the engineer! Someone must pay for Garlond's crimes.",
+      "text_th": "เราจะเอาเรือลำนี้กลับไปที่ป้อม! ถอดชิ้นส่วนมันออกมาให้หมดถ้าจำเป็น! แล้วเอาตัววิศวกรนั่นมาด้วย! ต้องมีใครสักคนชดใช้ให้กับอาชญากรรมของ Garlond",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "They mean to take the ship back to Castrum Meridianum, along with your friend.",
+      "text_th": "พวกมันตั้งใจจะเอาเรือกลับไปที่ Castrum Meridianum พร้อมกับเพื่อนของคุณน่ะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "Wedge! You have to help him! That fool of a Lalafell was hiding inside the Tiny Bronco !",
+      "text_th": "Wedge! คุณต้องช่วยเขานะ! เจ้า Lalafell โง่นั่นยังซ่อนตัวอยู่ใน Tiny Bronco !",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "Nice-looking ship——though not the best place to have taken shelter, I agree.",
+      "text_th": "เรือสวยดีนี่ครับ─ถึงแม้จะไม่ใช่ที่หลบภัยที่ดีที่สุดก็เถอะ ข้าเห็นด้วยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "It's the first airship we've built since the Calamity——the first since Master Garlond...well, since he went missing.",
+      "text_th": "มันเป็นเรือเหาะลำแรกที่เราสร้างขึ้นตั้งแต่เกิดภัยพิบัติ Calamity ─ลำแรกตั้งแต่ท่าน Garlond...เอ่อ ตั้งแต่ท่านหายตัวไปน่ะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "After years of work, she was finally ready for her first test flight. And she was soaring , she really was——till those bastards blasted her out of the sky!",
+      "text_th": "หลังจากลงแรงไปหลายปี ในที่สุดเธอก็พร้อมสำหรับการบินทดสอบครั้งแรก แล้วเธอก็บิน ได้สวยงามจริงๆ นะ─จนกระทั่งไอ้พวกสารเลวนั่นยิงเธอตกจากฟ้านี่แหละ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "We attack on my command. Kill them quickly, and save the Lalafell if possible.",
+      "text_th": "เราจะบุกโจมตีตามสัญญาณของข้า ฆ่าพวกมันให้เร็วที่สุด และช่วยชาว Lalafell ออกมาให้ได้ถ้าเป็นไปได้",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "Is that clear, Forename ?",
+      "text_th": "เข้าใจตรงกันนะ [ชื่อ] ?",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "Show them what becomes of those who play with fire! Charge!",
+      "text_th": "แสดงให้พวกมันเห็นว่าคนที่เล่นกับไฟจะต้องเจอกับอะไร! บุกเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "We're under attack! To arms!",
+      "text_th": "เราถูกซุ่มโจมตี! จับอาวุธ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Gladiator",
+      "text_en": "Give them no quarter, Flames!",
+      "text_th": "อย่าไปปรานีพวกมัน ลุยเลย Flames!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Defend the airship! Kill the savages!",
+      "text_th": "ปกป้องเรือเหาะไว้! ฆ่าไอ้พวกป่าเถื่อนนี่ให้หมด!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "What are you doing!? Kill them, I said!",
+      "text_th": "ทำอะไรกันอยู่ฟะ!? ข้าบอกให้ฆ่าพวกมันไง!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Where's that bloody vanguard!? We need it NOW!",
+      "text_th": "กองกำลังล่วงหน้าหายหัวไปไหนหมดวะ!? เราต้องการพวกมัน เดี๋ยวนี้!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Hahaha! Show them no mercy!",
+      "text_th": "ฮ่าๆๆ! ไม่ต้องไปปรานีพวกมันหรอกน่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Biggs!",
+      "text_th": "Biggs!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Wedge! You shouldn't have stayed with the ship!",
+      "text_th": "Wedge! นายไม่ควรจะอยู่เฝ้าเรือเลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Th-That was a close one!",
+      "text_th": "ก-เกือบไปแล้วเชียว!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Too damn close. So...how's she look, anyway?",
+      "text_th": "เฉียดฉิวสุดๆ ไปเลย แล้ว...สภาพเรือตอนนี้เป็นไงบ้างล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "The auxiliary propeller is a dead loss, but I think we can wring enough thrust from the main propeller to get us airborne.",
+      "text_th": "ใบพัดเสริมพังยับเยินไปแล้วล่ะ แต่ฉันคิดว่าเราน่าจะยังดึงแรงขับเคลื่อนจากใบพัดหลักมาใช้พยุงเครื่องให้ลอยขึ้นได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "A few minor modifications and we should be able to fly the Tiny Bronco home.",
+      "text_th": "ซ่อมนิดๆ หน่อยๆ ก็น่าจะพอขับ Tiny Bronco กลับบ้านได้แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "The imperials will come looking for their scouts, but we can defend this position until the engineers leave.",
+      "text_th": "พวกจักรวรรดิต้องตามหาหน่วยสอดแนมของพวกมันแน่ๆ แต่เราสามารถป้องกันพื้นที่ตรงนี้ไว้ได้จนกว่าพวกวิศวกรจะหนีไปได้",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "You should go, Forename . You still have unfinished business to attend to at the Hall of Flames.",
+      "text_th": "คุณควรไปได้แล้วล่ะ [ชื่อ] คุณยังมีธุระที่ต้องจัดการที่ Hall of Flames อยู่นี่นา",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Lieutenant",
+      "text_en": "You're not quite one of us yet, though anyone who'd seen you in action today would be forgiven for thinking otherwise.",
+      "text_th": "ถึงคุณจะยังไม่ได้เป็นคนของเราเต็มตัวก็เถอะ แต่ถ้าใครมาเห็นผลงานของคุณในวันนี้ ก็คงคิดว่าคุณเป็นทหารเต็มตัวไปแล้วล่ะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "I, um...just wanted to say sorry...you know, for calling you an imperial spy and all that... Got that one wrong, didn't I!? Ha ha! Seriously, though——if it hadn't been for you and the Immortal Flames lads there, we'd be chained up in a dungeon by now. I'm in your debt, friend——we both are.",
+      "text_th": "ฉัน เอ่อ...แค่อยากจะขอโทษน่ะ...ที่หาว่าคุณเป็นสายลับจักรวรรดิอะไรนั่น... ฉันเดาผิดถนัดเลยใช่ไหมล่ะ!? ฮ่าๆ! แต่เอาจริงๆ นะ——ถ้าไม่ได้คุณกับทหาร Immortal Flames พวกนั้นช่วยไว้ ป่านนี้เราคงโดนจับล่ามโซ่อยู่ในคุกใต้ดินไปแล้ว ฉันติดหนี้คุณแล้วล่ะเพื่อน——เราทั้งคู่เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Wedge!",
+      "text_th": "ใช่แล้ว Wedge!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Thank you! We're very grateful!",
+      "text_th": "ขอบคุณครับ! พวกเราซาบซึ้งใจจริงๆ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Welcome back, Forename . Word of your deeds in the field reached me not long ago. Exemplary service!",
+      "text_th": "ยินดีต้อนรับกลับ [ชื่อ] ข่าวเรื่องวีรกรรมของท่านเพิ่งจะมาถึงหูข้าเมื่อครู่นี้เอง ยอดเยี่ยมมาก!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Rest assured that the Garlond Ironworks engineers are fine. They were able to get their vessel back in the air before imperial reinforcements arrived.",
+      "text_th": "สบายใจได้เลยนะ พวกวิศวกรของ Garlond Ironworks ปลอดภัยดี พวกเขาสามารถเอาเรือเหาะขึ้นบินได้สำเร็จก่อนที่กำลังเสริมของพวกจักรวรรดิจะมาถึงน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Your willingness to assist us on such short notice is to be commended. Clearly, your reputation is well deserved.",
+      "text_th": "ความเต็มใจที่จะช่วยเหลือพวกเราอย่างกะทันหันของท่านนับว่าน่ายกย่องมาก ชัดเจนเลยว่าชื่อเสียงของท่านนั้นไม่ได้เกินจริงเลยสักนิด",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Now then, I believe we have some unfinished business.",
+      "text_th": "เอาล่ะ ข้าเชื่อว่าเรายังมีธุระที่ยังจัดการไม่เสร็จอยู่นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text_en": "Shall we continue from where we left off and induct you into the Immortal Flames?",
+      "text_th": "มาต่อกันตรงที่เราค้างไว้ แล้วทำพิธีบรรจุท่านเข้าสู่ Immortal Flames เลยดีไหมล่ะ?",
+      "status": "AI"
+    }
+  ]
+}

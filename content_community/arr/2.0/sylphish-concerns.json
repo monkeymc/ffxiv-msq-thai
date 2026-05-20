@@ -1,0 +1,56 @@
+{
+  "id": "sylphish-concerns",
+  "wiki_path": "/wiki/Sylphish_Concerns",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Sylphish Concerns",
+  "title_th": "ความกังวลใจของ Sylph",
+  "title_status": "AI",
+  "level": "23",
+  "location": "South Shroud(X:18.1,Y:19.8)",
+  "npc_start": "Buscarron",
+  "dialogues": [
+    {
+      "character": "Buscarron",
+      "text_en": "There was word while you were away. Sylphs were seen in the wood, but near no lands of their own. No, this was a place near to here ─a place we've never known a sylph to come.",
+      "text_th": "มีข่าวเข้ามาตอนที่เจ้าไม่อยู่น่ะ มีคนเห็นพวก sylph อยู่ในป่า แต่ไม่ได้อยู่ใกล้เขตของพวกมันเลยนะ ไม่สิ พวกมันมาอยู่ในที่ใกล้ๆ กับที่นี่ ต่างหากล่ะ─ที่ๆ ไม่เคยมีใครเห็น sylph มาก่อนเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Something must have given them cause to venture this far. More than like, the missing sylph elder's among them. Here, I've marked the tract where they were sighted on your map. Go see if there's anything to be seen.",
+      "text_th": "ต้องมีอะไรบางอย่างทำให้พวกมันต้องดั้นด้นมาไกลขนาดนี้แน่ๆ เป็นไปได้มากเลยว่าผู้อาวุโส sylph ที่หายตัวไปอาจจะอยู่กับพวกมันด้วย เอ้านี่ ข้าทำเครื่องหมายบนแผนที่ของเจ้าตรงจุดที่มีคนเห็นพวกมันไว้ให้แล้ว ลองไปดูสิว่ามีอะไรให้เห็นบ้าง",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "So, was there aught to be found in the wood? What did you come to─",
+      "text_th": "เป็นไงบ้างล่ะ เจออะไรในป่าบ้างไหม? เจ้าไปเจออะไรมา─",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "...Garleans!? In this part of the Twelveswood!?",
+      "text_th": "...พวก Garlean งั้นรึ!? ในเขต Twelveswood นี่น่ะรึ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Hmmm... First sylphs and now Garleans, and all in the same place. It cannot be mere coincidence. Might the Garleans be following the sylphs? Tracking them or giving chase, mayhap?",
+      "text_th": "อืมมม... ตอนแรกก็ sylph แล้วตอนนี้ก็พวก Garlean แถมยังมาอยู่ในที่เดียวกันอีก มันไม่ใช่เรื่องบังเอิญแน่ๆ เป็นไปได้ไหมว่าพวก Garlean อาจจะสะกดรอยตามพวก sylph มา? แกะรอยตามมา หรือไม่ก็ไล่ตามมาล่ะมั้ง?",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "But no, not this far into the forest. The Wailers' spires are everywhere. Imperials could never have stolen past them all. How in the bloody hells could they─ Unless...",
+      "text_th": "แต่ก็ไม่น่าจะเข้ามาลึกขนาดนี้นะ หอคอยของพวก Wailer มีอยู่ทุกที่ พวกจักรวรรดิไม่มีทางที่จะลอบเข้ามาโดยไม่ให้ใครเห็นได้หรอก พวกมันเข้ามาได้ยังไงกันล่ะเนี่ย─เว้นเสียแต่ว่า...",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Unless someone guided them through. Someone who knew where the spires stand, and when the Wailers watch. A Gridanian traitor.",
+      "text_th": "เว้นเสียแต่ว่าจะมีใครบางคนนำทางพวกมันเข้ามา คนที่รู้ว่าหอคอยตั้งอยู่ตรงไหนบ้าง และรู้ว่าพวก Wailer เฝ้ายามตอนไหน คนทรยศชาว Gridania ยังไงล่ะ",
+      "status": "AI"
+    }
+  ]
+}

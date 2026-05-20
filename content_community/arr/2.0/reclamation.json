@@ -1,0 +1,320 @@
+{
+  "id": "reclamation",
+  "wiki_path": "/wiki/Reclamation",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/bf/Reclamation_Image.png",
+  "patch": "2.0",
+  "title_en": "Reclamation",
+  "title_th": "ทวงคืน",
+  "title_status": "AI",
+  "level": "44",
+  "location": "Ul'dah - Steps of Nald(X:10.3,Y:11.1)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "It is past time that we return to the Waking Sands.",
+      "text_th": "มันเลยเวลาที่เราควรจะกลับไปที่ Waking Sands แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To leave our headquarters in disrepair any longer would be to dishonor the memory of those who fell there.",
+      "text_th": "การปล่อยให้กองบัญชาการของเราทรุดโทรมไปมากกว่านี้ ก็เหมือนเป็นการไม่ให้เกียรติแก่ความทรงจำของผู้ที่ล่วงลับไปที่นั่น",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We have been brought to our knees, but we will rest, rebuild, and rise once more.",
+      "text_th": "เราอาจจะถูกทำให้คุกเข่าลง แต่เราจะพักผ่อน ฟื้นฟู และลุกขึ้นยืนอีกครั้ง",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I...I had no idea, Forename . I can only imagine how you felt when you returned that day...",
+      "text_th": "ฉัน... ฉันไม่เคยรู้เลย [ชื่อ] ฉันจินตนาการไม่ออกเลยว่าคุณจะรู้สึกยังไงตอนที่คุณกลับมาถึงในวันนั้น...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Tell me, Forename ...does aught here strike you as odd? I see signs of recent habitation. Could it be that we have trespassers?",
+      "text_th": "บอกฉันทีสิ [ชื่อ] ...มีอะไรตรงนี้ที่ทำให้คุณรู้สึกแปลกๆ ไหม? ฉันเห็นร่องรอยว่ามีคนเพิ่งมาอยู่ที่นี่นะ เป็นไปได้ไหมว่าเรามีผู้บุกรุก?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hm. Mayhap it is just my imagination. Come, let us proceed into the solar.",
+      "text_th": "อืม บางทีฉันอาจจะคิดไปเองก็ได้ มาเถอะ เข้าไปข้างใน Solar กันเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Wait.",
+      "text_th": "เดี๋ยวก่อน",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Who goes there!?",
+      "text_th": "ใครน่ะ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Now, now, Yda─is that any way to greet a friend?",
+      "text_th": "แหมๆ Yda─นั่นเป็นวิธีทักทายเพื่อนงั้นเรอะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Alphinaud! Forename !",
+      "text_th": "Alphinaud! [ชื่อ] !",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Cid !? Wait, is this a dream?",
+      "text_th": "Cid !? เดี๋ยวนะ นี่ฉันฝันไปรึเปล่า?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Not that I'm aware of! It's been a while, Yda.",
+      "text_th": "เท่าที่ฉันรู้ ก็ไม่ได้ฝันนะ! ไม่ได้เจอกันนานเลยนะ Yda",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "I...I don't believe it... I was sure you'd been─",
+      "text_th": "ฉัน... ฉันไม่อยากจะเชื่อเลย... ฉันมั่นใจเลยว่านายคงจะ─",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "This place has seen better days.",
+      "text_th": "ที่นี่เคยมีสภาพที่ดีกว่านี้เยอะเลยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Uh...you know, I wasn't actually here when... I-I was still in talks at the Adders' Nest...",
+      "text_th": "เอ่อ... รู้ไหม ฉันไม่ได้อยู่ที่นี่ตอนที่... ฉ-ฉันยังคุยธุระอยู่ที่ Adders' Nest น่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "The first I knew about it was when I came back, and...and I saw...",
+      "text_th": "สิ่งแรกที่ฉันรู้เรื่องนี้ก็คือตอนที่ฉันกลับมา แล้ว... แล้วฉันก็เห็น...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Yda...",
+      "text_th": "Yda...",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "The church had taken care of the bodies, but that still left...the stains... I-It was hard to know where to start... If Y'shtola hadn't been here to help me─",
+      "text_th": "ทางโบสถ์จัดการเรื่องศพไปแล้ว แต่ก็ยังเหลือ... คราบเลือด... ฉ-ฉันไม่รู้จะเริ่มจากตรงไหนดีเลย... ถ้าไม่ได้ Y'shtola มาช่วยล่ะก็─",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Y'shtola is here too?",
+      "text_th": "Y'shtola ก็อยู่ที่นี่ด้วยงั้นเรอะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Yes. But she's not here right now. She's gone to Ul'dah to meet a man who might know what happened to the others.",
+      "text_th": "ใช่ แต่ตอนนี้เธอไม่อยู่หรอก เธอไปที่ Ul'dah เพื่อไปพบคนๆ นึงที่อาจจะรู้ว่าเกิดอะไรขึ้นกับคนอื่นๆ น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Papalymo and Minfilia weren't among the dead, according to the church. Y'shtola thinks they were taken somewhere.",
+      "text_th": "ทางโบสถ์บอกว่าไม่พบศพของ Papalymo กับ Minfilia รวมอยู่ในกลุ่มผู้เสียชีวิตด้วย Y'shtola คิดว่าพวกเขาน่าจะถูกพาตัวไปที่ไหนสักแห่ง",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Upon the orders of the Black Wolf, no doubt.",
+      "text_th": "ไม่ต้องสงสัยเลยว่าคงเป็นคำสั่งของหมาป่าทมิฬแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "...Why would he want them?",
+      "text_th": "...เขาจะอยากได้ตัวสองคนนั้นไปทำไม?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Because they possess something he desires: knowledge of another power that can be brought to bear against the primals─one that Gaius has yet to harness...",
+      "text_th": "เพราะพวกเขาครอบครองสิ่งที่เขาต้องการน่ะสิ: ความรู้เกี่ยวกับพลังอีกรูปแบบหนึ่งที่สามารถนำมาใช้ต่อกรกับพวก primal ได้─ซึ่งเป็นพลังที่ Gaius ยังไม่สามารถควบคุมได้...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Echo.",
+      "text_th": "พลัง Echo ไงล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Gaius will be aware of its existence, as well as the immunity it grants the gifted to the primals' influence.",
+      "text_th": "Gaius คงจะรู้ถึงการมีอยู่ของมัน รวมถึงภูมิคุ้มกันที่มันมอบให้ผู้มีพลังพิเศษนี้ ทำให้รอดพ้นจากอิทธิพลของพวก primal ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Powerful though his Allagan weapon may be, he would doubtless desire such protection.",
+      "text_th": "แม้ว่าอาวุธของชาว Allagan ที่เขามีจะทรงพลังแค่ไหน เขาก็คงต้องการการปกป้องแบบนี้แน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He means to use Minfilia to gain an understanding of the Echo.",
+      "text_th": "เขาตั้งใจจะใช้ Minfilia เพื่อทำความเข้าใจกับพลัง Echo น่ะสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...None of which explains how the Empire came to know the location of the Waking Sands in the first place...",
+      "text_th": "...แต่ก็ไม่มีอะไรอธิบายได้เลยว่าจักรวรรดิรู้ที่ตั้งของ Waking Sands ตั้งแต่แรกได้ยังไง...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "No matter. The Empire has shown its hand, and now we must act. It is up to us to rebuild the Scions and save Eorzea.",
+      "text_th": "ช่างเถอะ จักรวรรดิหงายไพ่มาแล้ว ตอนนี้เราต้องลงมือบ้าง มันขึ้นอยู่กับพวกเราแล้วล่ะที่จะฟื้นฟูกลุ่ม Scions และปกป้อง Eorzea",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Can I count on you, Yda?",
+      "text_th": "ฉันไว้ใจเธอได้ใช่ไหม Yda?",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "What? Oh, yes─yes, of course! Whatever you need!",
+      "text_th": "หืม? โอ้ ได้สิ─ได้แน่นอน! ไม่ว่านายต้องการอะไร!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We can discuss our next move upon Y'shtola's return.",
+      "text_th": "เราค่อยคุยเรื่องแผนต่อไปตอนที่ Y'shtola กลับมาก็แล้วกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "For now, I say we rest.",
+      "text_th": "ตอนนี้ ฉันว่าเราควรพักผ่อนก่อนนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Hear... Feel... Think...",
+      "text_th": "จงฟัง... จงรู้สึก... จงคิด...",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Bringer of Light...",
+      "text_th": "ผู้นำพาแสงสว่าง...",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Brave gatherer of the Crystals...thy soul burneth bright!",
+      "text_th": "ผู้รวบรวมคริสตัลผู้กล้าหาญ... จิตวิญญาณของเจ้าช่างส่องสว่างเจิดจ้ายิ่งนัก!",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "I am Hydaelyn. All made one.",
+      "text_th": "เราคือ Hydaelyn ผู้หลอมรวมทุกสรรพสิ่ง",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Hearken unto me now, for the Darkness doth begin to spread.",
+      "text_th": "จงฟังเราให้ดี เพราะความมืดมิดกำลังเริ่มแผ่ขยายแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Ware thee the bearer of the Crimson Brand, for he is the Avatar of Shadow, whom death attendeth always.",
+      "text_th": "ระวังผู้ที่ถือตราประทับสีชาดให้ดี เพราะเขาคือร่างอวตารแห่งเงามืด ผู้ซึ่งความตายจะคอยติดตามเขาไปทุกหนแห่ง",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "The Crystals shall be thy salvation─thy blade and shield both.",
+      "text_th": "คริสตัลจะเป็นทางรอดของเจ้า─เป็นทั้งดาบและโล่ของเจ้า",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Steel thyself, for at the appointed hour...",
+      "text_th": "เตรียมใจไว้ให้ดี เพราะเมื่อถึงเวลาที่กำหนด...",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Thou shalt stare into the Heart of Darkness.",
+      "text_th": "เจ้าจะต้องจ้องมองเข้าไปในหัวใจแห่งความมืดมิด",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Go with caution, my child, but fear not─for I am ever with thee.",
+      "text_th": "จงระวังตัวให้ดี ลูกของข้า แต่อย่าได้หวาดกลัวไปเลย─เพราะข้าจะอยู่เคียงข้างเจ้าเสมอ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Y'shtola!",
+      "text_th": "Y'shtola!",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Forename . I see you and Alphinaud are safe. And...and Cid.",
+      "text_th": "[ชื่อ] ฉันเห็นว่าคุณกับ Alphinaud ปลอดภัยดี และ... แล้วก็ Cid ด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That we five should meet each other thus defies simple explanation. It is as if the benevolent hand of Master Louisoix guides us still.",
+      "text_th": "การที่เราทั้งห้าคนได้มาเจอกันแบบนี้ มันอธิบายง่ายๆ ไม่ได้หรอกนะ ราวกับว่ามืออันเปี่ยมเมตตาของท่านอาจารย์ Louisoix ยังคงนำทางพวกเราอยู่อย่างนั้นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He would not see us undone so easily. Not now, when the need is so great.",
+      "text_th": "ท่านคงไม่ยอมปล่อยให้เราพ่ายแพ้ง่ายๆ หรอก ไม่ใช่ตอนนี้ ตอนที่เรากำลังลำบากที่สุดนี่แหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I know where Minfilia and the others are being held.",
+      "text_th": "ฉันรู้แล้วว่า Minfilia และคนอื่นๆ ถูกจับตัวไปไว้ที่ไหน",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Where?",
+      "text_th": "ที่ไหนล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "An imperial stronghold in the heart of Mor Dhona─Castrum Centri.",
+      "text_th": "ป้อมปราการของจักรวรรดิใจกลาง Mor Dhona─Castrum Centri น่ะ",
+      "status": "AI"
+    }
+  ]
+}

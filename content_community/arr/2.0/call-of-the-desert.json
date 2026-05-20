@@ -1,0 +1,62 @@
+{
+  "id": "call-of-the-desert",
+  "wiki_path": "/wiki/Call_of_the_Desert",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Call of the Desert",
+  "title_th": "เสียงเพรียกจากทะเลทราย",
+  "title_status": "AI",
+  "level": "16",
+  "location": "New Gridania(X:11.7,Y:13.5)",
+  "npc_start": "Mother Miounne",
+  "dialogues": [
+    {
+      "character": "Mother Miounne",
+      "text_en": "So, you're not averse to taking a little trip? Wonderful!",
+      "text_th": "งั้นแสดงว่าเธอไม่รังเกียจที่จะเดินทางไปไหนมาไหนนิดหน่อยสินะ? ยอดเยี่ยมไปเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "As I mentioned earlier, the request comes to us from the Adventurers' Guild in Ul'dah. Once you arrive, seek out Momodi, the proprietress of the Quicksand. Think of her as the sultanate's version of myself.",
+      "text_th": "อย่างที่ฉันบอกไปก่อนหน้านี้ คำขอร้องส่งมาจากกิลด์นักผจญภัยที่ Ul'dah น่ะ พอไปถึงแล้ว ให้ไปหา Momodi เจ้าของร้าน Quicksand นะ ถือซะว่าเธอเป็นตัวแทนของฉันในสุลต่านก็แล้วกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Chances are she'll send you into the midst of danger, but I have every confidence that you will pull through unscathed. Now, off you go, Forename , and good luck!",
+      "text_th": "มีโอกาสสูงที่เธอจะส่งเธอไปอยู่ในดงอันตราย แต่ฉันมั่นใจว่าเธอจะเอาตัวรอดกลับมาได้แบบไร้รอยขีดข่วนแน่นอน เอาล่ะ ไปได้แล้ว [ชื่อ] ขอให้โชคดีนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Welcome to the Quicksand, friend. I'm a tad busy right now, if you wouldn't mind showin' yourself to—",
+      "text_th": "ยินดีต้อนรับสู่ Quicksand นะเพื่อน ตอนนี้ฉันยุ่งอยู่หน่อยนึง ถ้าคุณไม่รังเกียจช่วยพาตัวเองไป—",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Oh, it's you, Forename ! And there I was, spoutin' the same tired line!",
+      "text_th": "อ้าว เธอนี่เอง [ชื่อ]! แล้วฉันก็มัวแต่พล่ามประโยคเดิมๆ ซ้ำซากอยู่ได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Judgin' by your determined expression, I take it you ain't here for ale. Are you called Forename Surname , by any chance?",
+      "text_th": "ดูจากสีหน้ามุ่งมั่นของเธอแล้ว ฉันเดาว่าเธอไม่ได้มาหาเบียร์ดื่มสินะ เธอใช่ [ชื่อ] [นามสกุล] หรือเปล่าเอ่ย?",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Miounne sent word that you'd be reportin' for duty. She also made a point of callin' you the adventurer of the moment. That ain't no small praise, comin' from her.",
+      "text_th": "Miounne ส่งข่าวมาบอกว่าเธอจะมารายงานตัวน่ะ เธอยังเน้นย้ำด้วยนะว่าเธอคือนักผจญภัยแห่งยุคเลย คำชมระดับนี้ออกมาจากปากเธอ ไม่ใช่เรื่องเล็กๆ เลยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "But you didn't come all the way here to listen to my prattle. Doubtless you're eager to get started, so let's talk business, shall we?",
+      "text_th": "แต่เธอคงไม่ได้มาไกลถึงนี่เพื่อมาฟังฉันพูดพล่ามหรอกมั้ง แน่นอนว่าเธอคงอยากจะเริ่มงานใจจะขาดแล้ว ถ้าอย่างนั้นเรามาคุยเรื่องงานกันเลยดีกว่า เนอะ?",
+      "status": "AI"
+    }
+  ]
+}

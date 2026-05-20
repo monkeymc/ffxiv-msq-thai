@@ -1,0 +1,80 @@
+{
+  "id": "give-a-man-a-drink",
+  "wiki_path": "/wiki/Give_a_Man_a_Drink",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Give a Man a Drink",
+  "title_th": "ให้ชายคนหนึ่งดื่มด่ำ",
+  "title_status": "AI",
+  "level": "33",
+  "location": "Eastern La Noscea(X:21.6,Y:21.1)",
+  "npc_start": "Shamani Lohmani",
+  "dialogues": [
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "I must say, this talk of Bacchus wine has made me rather nostalgic. Indeed, there is much I miss about my life with the Company of Heroes.",
+      "text_th": "ข้าต้องบอกเลยนะว่าการพูดถึงไวน์ Bacchus นี่ทำให้ข้าคิดถึงอดีตจริงๆ มีหลายอย่างที่ข้าคิดถึงเกี่ยวกับชีวิตตอนที่ยังอยู่กับกลุ่ม Company of Heroes",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "After everything the captain has done for me, I could not bear to disappoint him...",
+      "text_th": "หลังจากทุกสิ่งทุกอย่างที่กัปตันทำให้ข้า ข้าทนไม่ได้หรอกที่จะทำให้เขาผิดหวัง...",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "Aye, have no fear. I swear that I shall find a suitable wine for the banquet─though I may need some time to think of a solution.",
+      "text_th": "อา ไม่ต้องเป็นห่วงหรอก ข้าสาบานเลยว่าจะต้องหาไวน์ที่คู่ควรสำหรับงานเลี้ยงมาให้ได้─ถึงข้าอาจจะต้องใช้เวลาคิดหาวิธีสักหน่อยก็เถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "In the meantime, there is a favor I would ask of you.",
+      "text_th": "ในระหว่างนี้ ข้ามีเรื่องอยากจะขอร้องเจ้าสักอย่าง",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "Two years ago, in the deepest depths of my despair, I stumbled across Vylbrand as a vagabond drunk. I suspect I was looking for a place to die, because I very nearly found one not far from here.",
+      "text_th": "เมื่อสองปีก่อน ในช่วงเวลาที่ข้าตกต่ำและสิ้นหวังที่สุด ข้าโซซัดโซเซมาถึง Vylbrand ในสภาพคนขี้เมาเร่ร่อน ข้าเดาว่าตอนนั้นข้าคงกำลังหาที่ตายอยู่แน่ๆ เพราะข้าเกือบจะได้ตายสมใจอยากอยู่ไม่ไกลจากที่นี่เท่าไหร่",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "It was there that a man named Drest took me in and nursed me back to health. And it was he who gave me my first taste of Bacchus wine, which helped me to find my new calling. Though I am still a novice in the arts of winemaking, I would like him to know that I am pursuing my dream.",
+      "text_th": "ที่นั่นเอง ชายชื่อ Drest ได้ช่วยชีวิตและดูแลข้าจนหายดี และเขานี่แหละที่ให้ข้าได้ลิ้มรสไวน์ Bacchus เป็นครั้งแรก ซึ่งนั่นช่วยให้ข้าค้นพบเส้นทางชีวิตใหม่ ถึงข้าจะยังเป็นแค่มือใหม่ในเรื่องการทำไวน์ แต่ข้าก็อยากให้เขารู้ว่าข้ากำลังเดินตามความฝันอยู่",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "This wine is my own original creation, and I would be most grateful if you delivered it to him in my stead. Drest sometimes works at the Raincatcher Gully docks, so perhaps Rhitskylt can tell you where to find him.",
+      "text_th": "ไวน์ขวดนี้เป็นผลงานชิ้นแรกของข้าเลย และข้าจะขอบคุณมากถ้าเจ้าช่วยเอาไปส่งให้เขาแทนข้าที Drest มักจะทำงานอยู่ที่ท่าเรือ Raincatcher Gully บางที Rhitskylt อาจจะบอกเจ้าได้นะว่าเขาอยู่ที่ไหน",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitskylt",
+      "text_en": "Drest? Oh, you mean the hermit. Aye, I toss him a few gil when we need an extra pair of hands. He doesn't talk about himself, and I sure as hells don't ask.",
+      "text_th": "Drest งั้นรึ? อ้อ หมายถึงตาแก่สันโดษนั่นสินะ ใช่ ข้าจ่ายเงินให้เขานิดหน่อยเวลาที่เราต้องการคนช่วยงาน เขาไม่ค่อยพูดเรื่องตัวเองหรอก และข้าก็ไม่บ้าพอที่จะไปถามด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitskylt",
+      "text_en": "When a man's got a face with scars like that, you best leave well enough alone, I say. If you've a mind to find him, though, then head southwest to the Severed String.",
+      "text_th": "ถ้าคนเรามีรอยแผลเป็นเต็มหน้าขนาดนั้น ข้าว่าอย่าไปยุ่งกับเขาดีกว่านะ แต่ถ้าเจ้าตั้งใจจะตามหาเขาล่ะก็ มุ่งหน้าไปทางตะวันตกเฉียงใต้ที่ Severed String เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Drest",
+      "text_en": "What...what do you want?",
+      "text_th": "ต-ต้องการอะไร?",
+      "status": "AI"
+    },
+    {
+      "character": "Drest",
+      "text_en": "W-Wine? I...I didn't ask for this! Who sent you!? I...I... <groan>",
+      "text_th": "ว-ไวน์เหรอ? ข-ข้าไม่ได้ขอนี่! ใครส่งเจ้ามา!? ข้า... ข้า... <คราง>",
+      "status": "AI"
+    }
+  ]
+}

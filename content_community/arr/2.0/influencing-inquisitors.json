@@ -1,0 +1,116 @@
+{
+  "id": "influencing-inquisitors",
+  "wiki_path": "/wiki/Influencing_Inquisitors",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/11/Influencing_Inquisitors_Image.png",
+  "patch": "2.0",
+  "title_en": "Influencing Inquisitors",
+  "title_th": "โน้มน้าวนักไต่สวน",
+  "title_status": "AI",
+  "level": "40",
+  "location": "Coerthas Central Highlands(X:13.1,Y:15.4)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text_en": "Before we can persuade Lord Drillemont to help us, it seems we must convince Inquisitor Guillaime that we are not his enemy. But just how might we go about doing that...?",
+      "text_th": "ก่อนที่เราจะเกลี้ยกล่อมท่านลอร์ด Drillemont ให้ช่วยเราได้ ดูเหมือนเราต้องทำให้นักไต่สวน Guillaime เชื่อใจก่อนนะว่าเราไม่ใช่ศัตรูของเขา แต่เราจะไปทำแบบนั้นได้ยังไงล่ะ...?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "We know little and less about the good inquisitor, despite him being such a prominent figure in Coerthas. Perhaps we should learn more by speaking with the people of Whitebrim Front.",
+      "text_th": "เรารู้เรื่องเกี่ยวกับท่านนักไต่สวนคนนี้น้อยมากเลยนะ ทั้งๆ ที่เขาเป็นบุคคลสำคัญใน Coerthas ขนาดนี้ บางทีเราอาจจะรู้เรื่องมากขึ้นจากการไปคุยกับชาวเมือง Whitebrim Front ก็ได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Share your findings with Alphinaud in the square. I'm sure he can formulate a strategy from there.",
+      "text_th": "ไปบอกข้อมูลที่คุณหามาได้กับ Alphinaud ที่จัตุรัสนะ ฉันแน่ใจว่าเขาต้องวางแผนจากเรื่องนั้นได้แน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Joellaut",
+      "text_en": "Inquisitor Guillaime? Yes, of course, I know of him. Alas, I have not seen him since the day he came to Whitebrim Front, several moons ago.",
+      "text_th": "นักไต่สวน Guillaime งั้นเหรอ? อ้อ รู้จักสิ น่าเสียดายนะ ฉันไม่ได้เจอเขาเลยตั้งแต่วันที่เขามาถึง Whitebrim Front เมื่อหลายเดือนก่อนแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Joellaut",
+      "text_en": "My memory is somewhat muddled, but I recall that a blizzard nearly buried us in snow that day, and I had the ill fortune of being assigned to the night's watch. While the stronghold slept, we walked the walls and patrolled the exterior in a darkness black as pitch.",
+      "text_th": "ความจำฉันอาจจะสับสนไปบ้าง แต่ฉันจำได้ว่าวันนั้นพายุหิมะเกือบจะฝังพวกเรามิดเลย และฉันก็โชคร้ายที่โดนจัดเวรยามกลางคืน ในขณะที่ฐานที่มั่นหลับใหล เราก็ต้องเดินลาดตระเวนตามกำแพงและรอบนอกในความมืดที่มืดสนิท",
+      "status": "AI"
+    },
+    {
+      "character": "Joellaut",
+      "text_en": "My route took me outside the eastern gate at one point, where I caught sight of a silhouette illuminated by the light of the city. Thinking it was a wayward traveler, I cried out and gave chase, but slipped and took a terrible fall. When I woke, it was days later in this very bed, where I have lain recuperating from my injuries ever since.",
+      "text_th": "เส้นทางของฉันพาฉันออกไปนอกประตูด้านตะวันออกตอนหนึ่ง ซึ่งฉันเห็นเงาตะคุ่มๆ อาบด้วยแสงจากตัวเมือง ฉันนึกว่าเป็นนักเดินทางที่หลงทาง ก็เลยตะโกนเรียกแล้ววิ่งตามไป แต่ดันลื่นล้มบาดเจ็บสาหัส พอฉันตื่นขึ้นมา ก็ผ่านไปหลายวันแล้วที่เตียงนี่แหละ และฉันก็นอนพักฟื้นจากอาการบาดเจ็บมาตลอด",
+      "status": "AI"
+    },
+    {
+      "character": "Joellaut",
+      "text_en": "I had tried to rescue him, but in the end Inquisitor Guillaime rescued me , carrying my unconscious body to the gates. I owe him my life, sir / madam , and I hope to one day repay his kindness.",
+      "text_th": "ฉันพยายามจะช่วยเขา แต่สุดท้ายแล้ว นักไต่สวน Guillaime ต่างหากที่ช่วยฉันไว้ เขาแบกร่างที่ไม่ได้สติของฉันมาจนถึงประตูเมือง ฉันติดหนี้ชีวิตเขาอยู่นะ คุณผู้ชาย / คุณผู้หญิง และฉันก็หวังว่าสักวันจะได้ตอบแทนน้ำใจเขาบ้าง",
+      "status": "AI"
+    },
+    {
+      "character": "Alboise",
+      "text_en": "Inquisitor Guillaime? I haven't the foggiest of whom you speak... unbeliever . Aye, we have learned of your deeds at Witchdrop. I will not be party to whatever dastardly schemes you've hatched against the inquisitor! Away with you!",
+      "text_th": "นักไต่สวน Guillaime งั้นเหรอ? ฉันไม่รู้เรื่องเลยว่าคุณพูดถึงใคร... ไร้ศรัทธา ใช่ เราได้ยินเรื่องวีรกรรมของพวกคุณที่ Witchdrop แล้ว ฉันจะไม่ไปมีส่วนร่วมกับแผนการชั่วร้ายอะไรก็ตามที่คุณวางแผนจะทำร้ายท่านนักไต่สวนเด็ดขาด! ไปให้พ้นเลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Haustefort",
+      "text_en": "The Holy See has decreed that the inquisitors are the arbiters of Halone's will. They are to be afforded every courtesy and the utmost respect.",
+      "text_th": "Holy See ได้ประกาศว่าเหล่านักไต่สวนคือผู้ชี้ขาดเจตนารมณ์ของ Halone พวกเขาควรจะได้รับการปฏิบัติอย่างให้เกียรติและเคารพอย่างสูงสุด",
+      "status": "AI"
+    },
+    {
+      "character": "Patrick",
+      "text_en": "Under Inquisitor Guillaime's watchful gaze, unprecedented numbers of heretics have been unmasked and brought to justice.",
+      "text_th": "ภายใต้การจับตาดูอย่างเข้มงวดของนักไต่สวน Guillaime พวกนอกรีตจำนวนมากก็ถูกกระชากหน้ากากและถูกนำตัวมาลงโทษตามกฎหมาย",
+      "status": "AI"
+    },
+    {
+      "character": "Patrick",
+      "text_en": "They say he goes days without sleep, so great is his devotion. Blessed are we to have such a goodly, righteous man to protect us.",
+      "text_th": "เขาว่ากันว่าเขาอดหลับอดนอนเป็นวันๆ เลยนะ ศรัทธาเขาแรงกล้ามากจริงๆ โชคดีจังที่เรามีคนดีๆ มีคุณธรรมแบบนี้มาคอยปกป้องพวกเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "... <shiver>",
+      "text_th": "... <ตัวสั่น>",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In case you have yet to notice, my attire is ill-suited to this climate.",
+      "text_th": "เผื่อคุณยังไม่สังเกตนะ ชุดของผมมันไม่เหมาะกับอากาศแบบนี้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I realized it soon after our arrival, but paid it no mind as I had hoped we might find the Enterprise far faster. Instead, we've wasted far too much time meddling in local affairs. <sigh>",
+      "text_th": "ผมรู้ตัวตั้งแต่ตอนที่เรามาถึงใหม่ๆ แล้วล่ะ แต่ก็ไม่ได้ใส่ใจอะไร เพราะผมหวังว่าเราจะเจอ Enterprise เร็วกว่านี้ แต่กลายเป็นว่าเราเสียเวลาไปตั้งเยอะกับการเข้ามายุ่งเรื่องในพื้นที่เนี่ยนะ <เฮ้อ>",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Never mind. Our journey is almost at an end. All that remains is to deal with this irksome inquisitor. Cid tells me you have been busy making inquiries, yes?",
+      "text_th": "ช่างมันเถอะ การเดินทางของเราใกล้จะจบลงแล้วล่ะ สิ่งที่เหลืออยู่ก็แค่ต้องจัดการกับนักไต่สวนจอมจุ้นนี่เท่านั้น Cid บอกผมว่าคุณยุ่งอยู่กับการไปสืบเรื่องเขาใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Hm. It should come as no surprise that he is held in high regard. Even so, I am beginning to suspect he has other reasons for hindering us now.",
+      "text_th": "...อืม ก็ไม่น่าแปลกใจหรอกนะที่เขาจะได้รับการยกย่องขนาดนั้น ถึงอย่างนั้น ผมก็เริ่มจะสงสัยแล้วล่ะว่าเขาอาจจะมีเหตุผลอื่นที่มาขัดขวางเราในตอนนี้ก็ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let us more closely review the testimonials you obtained, Forename . Mayhap they will provide insight into Inquisitor Guillaime's motivations.",
+      "text_th": "มาทบทวนคำให้การที่คุณได้มากันให้ละเอียดอีกทีดีกว่า [ชื่อ] บางทีมันอาจจะช่วยให้เราเข้าใจแรงจูงใจของ Inquisitor Guillaime มากขึ้นก็ได้",
+      "status": "AI"
+    }
+  ]
+}

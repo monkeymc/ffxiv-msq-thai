@@ -1,0 +1,1004 @@
+{
+  "id": "operation-archon",
+  "wiki_path": "/wiki/Operation_Archon",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/6/60/Operation_Archon_Image.png",
+  "patch": "2.0",
+  "title_en": "Operation Archon",
+  "title_th": "ปฏิบัติการอาร์คอน",
+  "title_status": "AI",
+  "level": "49",
+  "location": "The Waking Sands(X:6.9,Y:6.1)",
+  "npc_start": "Minfilia",
+  "dialogues": [
+    {
+      "character": "Minfilia",
+      "text_en": "All present? Then let us begin.",
+      "text_th": "มากันครบแล้วนะ? งั้นก็เริ่มกันเลยเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We have received the details of the impending operation.",
+      "text_th": "เราได้รับรายละเอียดของปฏิบัติการที่กำลังจะมาถึงแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In what promises to be the largest single counteroffensive in the realm's troubled history, the Alliance will strike at every imperial stronghold standing upon Eorzean soil.",
+      "text_th": "ซึ่งน่าจะเป็นปฏิบัติการตอบโต้ครั้งใหญ่ที่สุดในประวัติศาสตร์อันวุ่นวายของดินแดนนี้เลย กองกำลังพันธมิตรจะโจมตีฐานทัพทุกแห่งของจักรวรรดิที่ตั้งอยู่บนผืนแผ่นดิน Eorzea นี้",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As might be expected, the operation will be complex, but you need not commit its intricacies to memory.",
+      "text_th": "อย่างที่คาดไว้แหละ ปฏิบัติการครั้งนี้จะมีความซับซ้อนมาก แต่พวกคุณไม่จำเป็นต้องจำรายละเอียดเล็กๆ น้อยๆ พวกนั้นหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It is enough that each man understands his part and plays it to the best of his ability.",
+      "text_th": "แค่ทุกคนเข้าใจบทบาทของตัวเองแล้วก็ทำหน้าที่ให้ดีที่สุดก็พอแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The finer instructions, you will receive at each staging point.",
+      "text_th": "ส่วนรายละเอียดปลีกย่อย คุณจะได้รับแจ้งที่จุดรวมพลแต่ละแห่งเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To begin, let us review the distribution of our forces.",
+      "text_th": "ก่อนอื่น เรามาทบทวนการกระจายกำลังรบกันก่อน",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "From west to east─the Maelstrom of Limsa Lominsa, the Immortal Flames of Ul'dah, and the Order of the Twin Adder of Gridania.",
+      "text_th": "จากทิศตะวันตกไปทิศตะวันออก─Maelstrom แห่ง Limsa Lominsa, Immortal Flames แห่ง Ul'dah และ Order of the Twin Adder แห่ง Gridania",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Next, let us examine the locations of the imperial strongholds.",
+      "text_th": "ต่อไป เรามาดูที่ตั้งของฐานทัพจักรวรรดิกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Near Limsa Lominsa, we have Castrum Occidens, situated in eastern Vylbrand, and Castrum Marinum, which lies to the south and east, in the midst of the Rhotano Sea.",
+      "text_th": "ใกล้กับ Limsa Lominsa มี Castrum Occidens ตั้งอยู่ทางตะวันออกของ Vylbrand และ Castrum Marinum ซึ่งตั้งอยู่ทางทิศตะวันออกเฉียงใต้ กลางทะเล Rhotano",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Near Ul'dah, we have Castrum Meridianum to the north, and the coastal outpost at Cape Westwind which connects Castrum Marinum to the mainland by means of a magitek transporter.",
+      "text_th": "ใกล้กับ Ul'dah มี Castrum Meridianum ทางทิศเหนือ และป้อมปราการชายฝั่งที่ Cape Westwind ซึ่งเชื่อมต่อ Castrum Marinum เข้ากับแผ่นดินใหญ่ด้วยเครื่องเคลื่อนย้ายมวลสาร magitek",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Near Gridania, we have Castrum Oriens, which lies upon the eastern edge of the Twelveswood.",
+      "text_th": "ใกล้กับ Gridania มี Castrum Oriens ซึ่งตั้งอยู่บริเวณชายขอบด้านตะวันออกของ Twelveswood",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "And finally, in Mor Dhona...stands Castrum Centri. A thorn in the heart of Eorzea.",
+      "text_th": "และสุดท้าย ใน Mor Dhona... คือที่ตั้งของ Castrum Centri หนามยอกอกของ Eorzea",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The forthcoming operation will see Allied forces assault each of the aforementioned locations, with the ultimate objective of destroying the Empire's new weapon, housed within Castrum Meridianum.",
+      "text_th": "ปฏิบัติการที่กำลังจะเกิดขึ้นนี้ กองกำลังพันธมิตรจะบุกโจมตีทุกจุดที่กล่าวมา โดยมีเป้าหมายสูงสุดคือการทำลายอาวุธชิ้นใหม่ของจักรวรรดิที่ถูกเก็บไว้ใน Castrum Meridianum",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As one might expect of the Black Wolf's seat of power, Castrum Meridianum boasts all but impenetrable defenses. If we are to breach it, we must needs isolate it from its sister strongholds.",
+      "text_th": "สมกับที่เป็นฐานบัญชาการของหมาป่าทมิฬล่ะนะ การป้องกันของ Castrum Meridianum นั้นแทบจะเจาะไม่เข้าเลย ถ้าเราอยากจะเจาะเข้าไปล่ะก็ เราจำเป็นต้องโดดเดี่ยวมันออกจากฐานทัพอื่นๆ ซะก่อน",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To do otherwise would be to risk being caught 'twixt hammer and anvil.",
+      "text_th": "ถ้าทำวิธีอื่นก็คงเสี่ยงที่จะโดนตีกระหนาบเอาได้ล่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The operation will comprise four distinct phases, all told.",
+      "text_th": "ทั้งหมดนี้ ปฏิบัติการจะแบ่งออกเป็น 4 ระยะอย่างชัดเจนเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The first shall see us eliminate one of the Black Wolf's most trusted lieutenants─Rhitahtyn sas Arvina.",
+      "text_th": "ระยะแรก เราจะกำจัดคนสนิทที่หมาป่าทมิฬไว้ใจที่สุดคนนึงก่อน─Rhitahtyn sas Arvina ไงล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "According to our intelligence, the praefectus is due to visit the imperial outpost at Cape Westwind for an inspection.",
+      "text_th": "ตามข้อมูลข่าวกรองของเรา praefectus คนนี้มีกำหนดจะไปตรวจการที่ป้อมปราการของจักรวรรดิที่ Cape Westwind",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "When he arrives, we shall dispatch an elite adventurer unit to eliminate him. Forename , we would have you lead this assault.",
+      "text_th": "เมื่อเขามาถึง เราจะส่งหน่วยนักผจญภัยฝีมือดีไปกำจัดเขาทันที [ชื่อ] เราอยากให้คุณเป็นผู้นำการโจมตีครั้งนี้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Rhitahtyn is a peerless field tactician. Shorn of his leadership, the garrison at Castrum Occidens will be as a snake without its head.",
+      "text_th": "Rhitahtyn เป็นนักยุทธวิธีภาคสนามที่เก่งกาจหาตัวจับยากเลยล่ะ ถ้าขาดการนำของเขาไป กองกำลังที่ Castrum Occidens ก็จะเป็นเหมือนงูไม่มีหัวเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Phase two will see us sever Castrum Meridianum's primary lines of supply.",
+      "text_th": "ระยะที่สอง เราจะตัดเส้นทางเสบียงหลักของ Castrum Meridianum ทิ้งซะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As soon as Rhitahtyn's presence is confirmed at the coastal outpost, the Maelstrom will lay siege to Castrum Occidens.",
+      "text_th": "ทันทีที่ยืนยันได้ว่า Rhitahtyn อยู่ที่ป้อมปราการชายฝั่ง Maelstrom ก็จะเข้าปิดล้อม Castrum Occidens ทันที",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "At that very hour, the Lominsan Armada, helmed by the Admiral herself, shall move to blockade Castrum Marinum.",
+      "text_th": "และในเวลาเดียวกันนั้นเอง กองเรือรบของ Lominsa ซึ่งนำโดยท่านนายพลหญิงเอง ก็จะเข้าปิดล้อม Castrum Marinum ด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Meanwhile, in the Twelveswood, the Order of the Twin Adder will surround Castrum Oriens.",
+      "text_th": "ในขณะเดียวกัน ที่ Twelveswood กองทัพ Order of the Twin Adder ก็จะเข้าปิดล้อม Castrum Oriens",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "And they'll have the sylphs to help them! Frixio's been waiting for a chance to avenge these ones!",
+      "text_th": "แล้วพวกเขาก็จะได้เผ่าซิลฟ์มาช่วยด้วย! Frixio รอโอกาสที่จะล้างแค้นแทนพวกพ้องมานานแล้วล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Phase three shall see us neutralize Castrum Meridianum's defenses.",
+      "text_th": "ระยะที่สาม เราจะทำลายการป้องกันของ Castrum Meridianum",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forming our main thrust, the Immortal Flames will march against the stronghold with all their strength. While the enemy's eyes are thus drawn outwards, another elite adventurer unit shall infiltrate the castrum.",
+      "text_th": "เพื่อเป็นกำลังหลักในการบุก Immortal Flames จะเคลื่อนทัพเข้าโจมตีฐานทัพแห่งนี้ด้วยกำลังทั้งหมดที่มี ในขณะที่ความสนใจของศัตรูพุ่งเป้าไปที่ภายนอก หน่วยนักผจญภัยฝีมือดีอีกหน่วยก็จะแทรกซึมเข้าไปใน castrum",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Its mission: to disable the magitek field generator which protects the Praetorium , a fortress within a fortress wherein the Ultima Weapon is believed to be housed. Forename , we would have you take command once more.",
+      "text_th": "ภารกิจก็คือ ปิดการทำงานของเครื่องกำเนิดสนามพลัง magitek ที่ปกป้อง Praetorium ซึ่งเป็นป้อมปราการที่ซ้อนอยู่ในป้อมปราการอีกที และเชื่อกันว่าเป็นที่เก็บ Ultima Weapon น่ะ [ชื่อ] เราอยากให้คุณเป็นผู้นำอีกครั้งนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Meanwhile, the Order of the Twin Adder will blockade the railway which connects Centri and Meridianum, preventing the timely arrival of reinforcements from Mor Dhona.",
+      "text_th": "ในขณะเดียวกัน Order of the Twin Adder ก็จะปิดกั้นทางรถไฟที่เชื่อมระหว่าง Centri กับ Meridianum ไว้ เพื่อป้องกันไม่ให้กำลังเสริมจาก Mor Dhona มาถึงได้ทันเวลา",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "A wise precaution. The monstrous locomotive which runs back and forth between the two castra is capacious enough to transport a small army, by all accounts.",
+      "text_th": "เป็นมาตรการป้องกันที่ฉลาดมาก รถไฟขบวนยักษ์ที่วิ่งไปมาระหว่างสองฐานทัพนั้น กว้างขวางพอที่จะขนส่งกองทัพขนาดย่อมๆ ได้เลยล่ะ ว่ากันตามตรงนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It is well the Garleans did not think to give it wings.",
+      "text_th": "โชคดีนะเนี่ยที่พวก Garlean ไม่คิดจะติดปีกให้มันน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Once Meridianum's defenses have been compromised, the operation will enter its fourth and final phase.",
+      "text_th": "เมื่อเจาะระบบป้องกันของ Meridianum ได้แล้ว ปฏิบัติการก็จะเข้าสู่ระยะที่สี่และระยะสุดท้าย",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This will see the Immortal Flames enter the stronghold and suppress the remnants of the enemy garrison.",
+      "text_th": "ระยะนี้ Immortal Flames จะบุกเข้าไปในฐานทัพและปราบปรามกองทหารที่เหลือของศัตรูให้ราบคาบ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Allowing Forename 's unit to pass unopposed into the Praetorium, where they will locate and destroy the Ultima Weapon.",
+      "text_th": "...เปิดทางให้หน่วยของ [ชื่อ] สามารถผ่านเข้าไปใน Praetorium ได้อย่างสะดวกโยธิน เพื่อค้นหาและทำลาย Ultima Weapon ซะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "By this feat shall the operation be deemed a success.",
+      "text_th": "ความสำเร็จในจุดนี้จะเป็นตัวตัดสินว่าปฏิบัติการนี้ประสบความสำเร็จ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In addition to the Grand Companies, we can count upon the support of a variety of other parties, from the pirates of Limsa Lominsa to the Monetarists of Ul'dah. In all, the operation will involve no fewer than twelve major factions.",
+      "text_th": "นอกเหนือจาก Grand Companies แล้ว เรายังได้รับการสนับสนุนจากอีกหลายฝ่ายเลยนะ ตั้งแต่พวกโจรสลัดแห่ง Limsa Lominsa ไปจนถึงกลุ่มนักการเงินแห่ง Ul'dah รวมแล้ว ปฏิบัติการครั้งนี้มีฝ่ายหลักๆ เข้าร่วมไม่ต่ำกว่า 12 ฝ่ายเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Legend holds that the Archons were twelve in one, and one in twelve...",
+      "text_th": "ตำนานเล่าว่าเหล่า Archon มีสิบสองคนในหนึ่งเดียว และหนึ่งเดียวในสิบสองคน...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It is for this reason that our grand endeavor has been dubbed “Operation Archon.”",
+      "text_th": "ด้วยเหตุนี้ ความพยายามอันยิ่งใหญ่ของเราจึงถูกขนานนามว่า “Operation Archon” (ปฏิบัติการอาร์คอน) ไงล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Countless free companies have also pledged their swords, and more join us by the day. At long last, all of Eorzea is rising as one.",
+      "text_th": "มีบริษัทอิสระนับไม่ถ้วนที่พร้อมจะมอบดาบของพวกเขาให้ และก็ยังมีมาร่วมสมทบเพิ่มขึ้นทุกวันเลย ในที่สุด Eorzea ทั้งหมดก็รวมเป็นหนึ่งเดียวสักที",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As before, we Scions shall work in concert with the Grand Companies. Yda, Papalymo, Y'shtola─pray accompany your respective organizations on their missions.",
+      "text_th": "เหมือนเดิมนะ พวก Scions ของเราจะทำงานร่วมกับ Grand Companies Yda, Papalymo, Y'shtola─โปรดร่วมทางไปกับองค์กรของพวกคุณเพื่อทำภารกิจด้วยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Urianger, I would have you represent us in Ul'dah. Reassure the financiers that they have made a sound investment. When that is done, pray return here and aid in the coordination of our forces.",
+      "text_th": "Urianger ฉันอยากให้คุณเป็นตัวแทนของเราที่ Ul'dah นะ ช่วยไปสร้างความมั่นใจให้พวกนักการเงินหน่อยว่าพวกเขาลงทุนไม่ผิดพลาดหรอก เสร็จแล้วก็กลับมาที่นี่เพื่อช่วยประสานงานกองกำลังของเราต่อด้วยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Tataru, please assist Urianger in any way you are able, and ensure that everyone is kept abreast of the latest developments.",
+      "text_th": "Tataru ฝากช่วย Urianger ทุกทางเท่าที่จะทำได้นะ แล้วก็คอยอัพเดทสถานการณ์ล่าสุดให้ทุกคนรู้ด้วยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Minfilia, Cid, and I shall accompany the main host in an advisory capacity. It will be our task to analyze intelligence as it comes into our possession, and make the necessary recommendations to command.",
+      "text_th": "Minfilia, Cid แล้วก็ฉันจะไปกับทัพหลักในฐานะที่ปรึกษานะ หน้าที่ของเราคือวิเคราะห์ข้อมูลข่าวกรองที่ได้รับมา แล้วก็ให้คำแนะนำที่จำเป็นแก่ผู้บังคับบัญชา",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "As Alphinaud mentioned, you are to lead the elite unit of adventurers whose task it will be to see each of Operation Archon's main objectives fulfilled. Yours is the most important role of all, and like to be the most dangerous. Pray choose your party well, and stint not in your preparation.",
+      "text_th": "อย่างที่ Alphinaud บอกไป คุณจะต้องนำหน่วยนักผจญภัยฝีมือดีไปปฏิบัติภารกิจเพื่อบรรลุเป้าหมายหลักแต่ละข้อของ Operation Archon ให้สำเร็จนะ บทบาทของคุณสำคัญที่สุด และก็คงจะอันตรายที่สุดด้วย เลือกลูกทีมให้ดีล่ะ แล้วก็เตรียมตัวให้พร้อมที่สุดเลยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The battle for the future of the realm is about to begin. Together, let us show the Black Wolf the power of a united Eorzea!",
+      "text_th": "การต่อสู้เพื่ออนาคตของดินแดนแห่งนี้กำลังจะเริ่มต้นขึ้นแล้ว มาแสดงให้หมาป่าทมิฬเห็นถึงพลังของ Eorzea ที่รวมเป็นหนึ่งเดียวกันเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Pray report to the Immortal Flames encampment situated to the north of here when you are ready to be briefed on your first mission.",
+      "text_th": "ไปรายงานตัวที่ค่ายของ Immortal Flames ทางเหนือของที่นี่ได้เลยนะ ถ้าคุณพร้อมจะรับฟังรายละเอียดภารกิจแรกแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I cannot stress this enough, but please be careful. May you walk in the light of the Crystal.",
+      "text_th": "ฉันคงย้ำเรื่องนี้ไม่ได้มากพอหรอกนะ แต่ระวังตัวด้วยล่ะ ขอให้เดินไปในแสงแห่งคริสตัลนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "As briefed, you are to lead a squad of elite adventurers on infiltration missions. You will receive detailed orders at each staging point.",
+      "text_th": "อย่างที่บอกไป คุณจะต้องนำหน่วยนักผจญภัยฝีมือดีไปปฏิบัติภารกิจแทรกซึม คุณจะได้รับคำสั่งอย่างละเอียดที่จุดรวมพลแต่ละแห่งนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The future of Eorzea hinges upon the success of Operation Archon, and casualties are inevitable. May the Crystal watch over us all.",
+      "text_th": "อนาคตของ Eorzea ขึ้นอยู่กับความสำเร็จของ Operation Archon แล้วล่ะ และการสูญเสียมันก็หลีกเลี่ยงไม่ได้หรอก ขอให้คริสตัลคุ้มครองพวกเราทุกคนนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "<sigh> Our numbers have swelled so much of late, it takes an age to keep records up to date. ...Hee hee, that rhymes!",
+      "text_th": "<ถอนหายใจ> ช่วงนี้คนของเราเพิ่มขึ้นเยอะมากเลย กว่าจะอัพเดตบันทึกให้เป็นปัจจุบันได้ก็กินเวลาไปโขเลยล่ะ... อิอิ คล้องจองกันซะด้วย!",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Oh, and I hope you don't mind, but I took the liberty of drawing a pretty little flower next to your name. This way I can find you quickly!",
+      "text_th": "อ้อ หวังว่าคุณคงไม่ว่าอะไรนะ แต่ฉันถือวิสาสะวาดดอกไม้เล็กๆ น่ารักๆ ไว้ข้างชื่อคุณด้วยล่ะ ทีนี้ฉันก็หาคุณเจอได้เร็วขึ้นแล้วล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Dariustel",
+      "text_en": "This was all his idea. Yet, in the end, he was the one who had to go and... <sigh> Godsdamned fool.",
+      "text_th": "ทั้งหมดนี้เป็นความคิดของเขาเอง แต่สุดท้ายแล้ว เขากลับเป็นคนที่ต้องไปแล้วก็... <ถอนหายใจ> ไอ้โง่เอ๊ย",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "...Sixty-two, sixty-three, sixty—",
+      "text_th": "...หกสิบสอง หกสิบสาม หกสิบ—",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Oh, Forename ! Just warming up...<pant>...for the operation. We're going to accompany...<pant>...the Gridanians. Um...<pant>...how many times was that...?",
+      "text_th": "อ้อ [ชื่อ] ! แค่มาวอร์มอัพร่างกาย... <หอบ>...เตรียมพร้อมสำหรับปฏิบัติการน่ะ เราจะไปพร้อมกับ... <หอบ>...พวก Gridanian ล่ะ เอ่อ... <หอบ>...นี่นับถึงครั้งที่เท่าไหร่แล้วเนี่ย...?",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Gods' sake, Yda! We have the operation to think about, and you're wearing yourself down by exercising!? Your form isn't even correct! It's cheating to swing your arms!",
+      "text_th": "ให้ตายเถอะ Yda! เราต้องคิดเรื่องปฏิบัติการอยู่นะ แล้วเธอก็ดันมาออกกำลังกายจนหมดแรงเนี่ยนะ!? แถมท่ายังผิดอีกต่างหาก! การแกว่งแขนไปด้วยแบบนั้นมันขี้โกงชัดๆ !",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "I appreciate that you have nervous energy, but there will be no shortage of opportunities to expend it when we go toe-to-toe against the Garleans!",
+      "text_th": "ฉันเข้าใจนะว่าเธอมีพลังงานเหลือล้นจากความตื่นเต้นน่ะ แต่เดี๋ยวก็มีโอกาสให้เธอได้ระเบิดพลังตอนที่เราไปลุยกับพวก Garlean แบบตาต่อตาฟันต่อฟันอีกเยอะแยะแหละน่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Bremondt",
+      "text_en": "Listen to these two, swappin' their stories. Life ain't always got to be an adventure, I say. Me, I'm the sort who enjoys a nice, relaxin' carriage ride, paired with a bottle of Bacchus—like that time I met you, come to think of it.",
+      "text_th": "ฟังสองคนนั้นสิ ผลัดกันเล่าเรื่องของตัวเอง ชีวิตคนเรามันไม่ได้มีแค่การผจญภัยเสมอไปหรอก ข้าว่านะ อย่างข้าเนี่ย ข้าเป็นพวกชอบนั่งรถม้าชิลๆ จิบ Bacchus ไปด้วย─เหมือนตอนที่เจอเจ้านั่นแหละ พอคิดดูแล้วน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Brennan",
+      "text_en": "Bah, Brendt thinks he had it bad. Try bribin' a pirate an' see where that gets you!",
+      "text_th": "เฮอะ Brendt คิดว่าตัวเองเจอเรื่องซวยมาเยอะแล้วงั้นเรอะ ลองไปติดสินบนพวกโจรสลัดดูสิ แล้วจะรู้ว่ามันจะพาไปเจออะไรบ้าง!",
+      "status": "AI"
+    },
+    {
+      "character": "Brendt",
+      "text_en": "Have a seat, lad / lass ! I was just tellin' me brothers about the time these Amalj'aa saved me from the Brass Blades. Hard to believe, I know, but it's true!",
+      "text_th": "นั่งลงสิ ไอ้หนุ่ม / แม่หนู ! ข้ากำลังเล่าให้พวกพี่ๆ ฟังอยู่พอดีว่าพวก Amalj'aa เคยช่วยข้าจากเงื้อมมือพวก Brass Blades ได้ยังไง ฟังดูเหลือเชื่อใช่ไหมล่ะ แต่มันคือเรื่องจริงนะจะบอกให้!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "<sigh> Tataru... I suppose it wasn't meant to be...",
+      "text_th": "<ถอนหายใจ> Tataru... ผมเดาว่ามันคงไม่ใช่พรหมลิขิตสินะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "The chief? To be honest, I don't know where he is or what he's up to at the moment. Probably busy doing something only he can do.",
+      "text_th": "ลูกพี่งั้นเรอะ? พูดตามตรงนะ ผมก็ไม่รู้เหมือนกันว่าตอนนี้เขาอยู่ที่ไหนหรือกำลังทำอะไรอยู่ คงจะกำลังยุ่งกับการทำอะไรที่เขาสามารถทำได้คนเดียวล่ะมั้ง",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The Maelstrom has committed its forces to the operation. In fact, the pirates look forward to their part in this naval warfare with something approaching unholy glee.",
+      "text_th": "Maelstrom ส่งกองกำลังเข้าร่วมปฏิบัติการแล้วล่ะ อันที่จริง พวกโจรสลัดดูจะตั้งตารอคอยบทบาทของตัวเองในการทำสงครามทางเรือครั้งนี้อย่างใจจดใจจ่อ ชนิดที่เรียกได้ว่าใกล้เคียงกับความปิติยินดีอันชั่วร้ายเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You need only concentrate on the task that lies before you. We stand vigilant at your back.",
+      "text_th": "เจ้าจดจ่ออยู่กับงานที่อยู่ตรงหน้าเจ้าก็พอ เราจะคอยระวังหลังให้เจ้าเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Each phase of Operation Archon must be executed to perfection, Forename . The fate of Eorzea hangs in the balance!",
+      "text_th": "แต่ละระยะของ Operation Archon จะต้องดำเนินการอย่างสมบูรณ์แบบไร้ที่ติเลยนะ [ชื่อ] ชะตากรรมของ Eorzea แขวนอยู่บนเส้นด้ายแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "You are well come, Forename Surname of the Scions. As communications officer, it falls to me to issue you your orders, and provide guidance on forthcoming missions.",
+      "text_th": "ยินดีต้อนรับ [นามสกุล] จากกลุ่ม Scion ในฐานะเจ้าหน้าที่สื่อสาร เป็นหน้าที่ของผมที่จะต้องมอบหมายคำสั่ง และให้คำแนะนำสำหรับภารกิจที่จะมาถึงให้คุณครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "Your first mission is to infiltrate the imperial outpost at Cape Westwind and eliminate Praefectus Rhitahtyn sas Arvina.",
+      "text_th": "ภารกิจแรกของคุณคือการแทรกซึมเข้าไปในฐานทัพของจักรวรรดิที่ Cape Westwind และกำจัด Praefectus Rhitahtyn sas Arvina ครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "All participating units are now in position and awaiting your arrival. Please proceed to the staging point and report to Lieutenant Adalbert.",
+      "text_th": "หน่วยที่เข้าร่วมปฏิบัติการทั้งหมดเข้าประจำที่และรอคุณมาถึงแล้วครับ กรุณาเดินทางไปที่จุดรวมพลแล้วรายงานตัวต่อผู้หมวด Adalbert ด้วยครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "This is but the first step in our bid to purge the realm of the Garlean menace. I shall pray for your success!",
+      "text_th": "นี่เป็นเพียงก้าวแรกในการพยายามกวาดล้างภัยคุกคามจาก Garlean ให้หมดไปจากดินแดนนี้เท่านั้น ผมจะสวดภาวนาขอให้คุณทำสำเร็จนะครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "The assault on Cape Westwind is but the first step in our bid to purge the realm of the Garlean menace. I shall pray for your success!",
+      "text_th": "การบุกโจมตี Cape Westwind เป็นเพียงก้าวแรกในการพยายามกวาดล้างภัยคุกคามจาก Garlean ให้หมดไปจากดินแดนนี้เท่านั้น ผมจะสวดภาวนาขอให้คุณทำสำเร็จนะครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "So you're Forename Surname , the fearless leader of the elite adventurer unit. We've been expecting you.",
+      "text_th": "งั้นคุณก็คือ [ชื่อ-นามสกุล] ผู้นำหน่วยนักผจญภัยฝีมือดีผู้ไร้ความกลัวสินะ เรารอคุณอยู่เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "Our Maelstrom friends report that Rhitahtyn sas Arvina departed Castrum Occidens a bell ago.",
+      "text_th": "เพื่อนจาก Maelstrom ของเรารายงานว่า Rhitahtyn sas Arvina เพิ่งจะออกจาก Castrum Occidens ไปเมื่อหนึ่งระฆังก่อนนี่เอง",
+      "status": "AI"
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "And sure enough, a convoy of imperial airships landed here just now.",
+      "text_th": "และก็เป็นไปตามคาด ขบวนเรือเหาะของจักรวรรดิเพิ่งจะร่อนลงจอดที่นี่เมื่อกี้นี้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "The likelihood is high that our target was aboard one of the vessels. I've dispatched scouts to verify his presence before we strike.",
+      "text_th": "มีความเป็นไปได้สูงมากที่เป้าหมายของเราจะอยู่บนเรือลำใดลำหนึ่ง ผมส่งหน่วยสอดแนมไปตรวจสอบให้แน่ใจแล้วว่าเขาอยู่ที่นี่จริงๆ ก่อนที่เราจะลงมือโจมตี",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Runner",
+      "text_en": "Command to all units. Requesting status report.",
+      "text_th": "ศูนย์บัญชาการเรียกทุกหน่วย ขอทราบรายงานสถานการณ์",
+      "status": "AI"
+    },
+    {
+      "character": "1st Platoon Soldier",
+      "text_en": "This is Antlion I. Target has not been sighted.",
+      "text_th": "นี่คือ Antlion I ยังไม่พบเป้าหมาย",
+      "status": "AI"
+    },
+    {
+      "character": "2nd Platoon Soldier",
+      "text_en": "This is Antlion II. Likewise, target has not been sighted.",
+      "text_th": "นี่คือ Antlion II เช่นกัน ยังไม่พบเป้าหมาย",
+      "status": "AI"
+    },
+    {
+      "character": "3rd Platoon Soldier",
+      "text_en": "Antlion III here. We've got nothin' for ye neither.",
+      "text_th": "Antlion III พูด เราก็ยังไม่เจออะไรเลยเหมือนกัน",
+      "status": "AI"
+    },
+    {
+      "character": "4th Platoon Soldier",
+      "text_en": "This is Antlion IV. Nothing to report as of─",
+      "text_th": "นี่คือ Antlion IV ยังไม่มีอะไรรายง─",
+      "status": "AI"
+    },
+    {
+      "character": "4th Platoon Soldier",
+      "text_en": "Wait! Disregard previous message! Target sighted. I say again: target sighted.",
+      "text_th": "เดี๋ยวก่อน! ยกเลิกข้อความเมื่อกี้! พบเป้าหมายแล้ว ขอย้ำอีกครั้ง: พบเป้าหมายแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Runner",
+      "text_en": "Understood. Hold your position.",
+      "text_th": "รับทราบ รักษาตำแหน่งไว้",
+      "status": "AI"
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "Attention, all units. This is Lieutenant Adalbert Cotter.",
+      "text_th": "โปรดฟัง ทุกหน่วย นี่คือผู้หมวด Adalbert Cotter",
+      "status": "AI"
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "The first step of Operation Archon begins with us. Should we falter here, all hope of victory will be lost.",
+      "text_th": "ก้าวแรกของ Operation Archon เริ่มต้นที่เรา หากเราพลาดพลั้งที่นี่ ความหวังในการคว้าชัยชนะก็จะสูญสิ้นไปทั้งหมด",
+      "status": "AI"
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "'Tis no small burden, but know that I believe in all of you. So believe in yourselves, and together we will blaze a path for our brothers and sisters of the Alliance to follow.",
+      "text_th": "มันไม่ใช่ภาระที่เบาเลย แต่ขอให้รู้ไว้ว่าผมเชื่อมั่นในตัวพวกคุณทุกคน ดังนั้นจงเชื่อมั่นในตัวเอง แล้วเราจะร่วมกันเบิกทางให้พี่น้องร่วมพันธมิตรของเราได้ก้าวเดินต่อไป",
+      "status": "AI"
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "We will create multiple diversions and disperse the enemy garrison. That should give you a chance to breach their defenses.",
+      "text_th": "เราจะสร้างการเบี่ยงเบนความสนใจหลายจุดเพื่อกระจายกำลังทหารของศัตรูออกไป นั่นน่าจะเปิดโอกาสให้คุณเจาะระบบป้องกันของพวกมันได้",
+      "status": "AI"
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "Go now, Forename , and bring us Rhitahtyn's head! May Rhalgr grant you strength!",
+      "text_th": "ไปเลย [ชื่อ] เอาหัวของ Rhitahtyn กลับมาให้ได้! ขอให้ท่าน Rhalgr มอบความแข็งแกร่งให้คุณนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Adalbert",
+      "text_en": "Commence diversionary maneuvers!",
+      "text_th": "เริ่มปฏิบัติการเบี่ยงเบนความสนใจได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "It would appear we have unexpected guests.",
+      "text_th": "ดูเหมือนว่าเราจะมีแขกไม่ได้รับเชิญนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Now, where have I seen you before? Ah, but of course─the man / woman who felled the mighty Titan.",
+      "text_th": "ไหนดูซิ ข้าเคยเห็นหน้าเจ้าที่ไหนมาก่อนนะ? อ้อ แน่นอนสิ─คน / คน ที่โค่น Titan ผู้เกรียงไกรลงได้นี่เอง",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "This is the eikon-slayer!?",
+      "text_th": "นี่คือผู้สังหาร eikon งั้นรึ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "I see. The commotion without is naught but a diversion.",
+      "text_th": "เข้าใจล่ะ ความวุ่นวายข้างนอกนั่นเป็นแค่ตัวเบี่ยงเบนความสนใจสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Allow me to hazard a guess: by eliminating me, you hope to undermine the garrison at Occidens.",
+      "text_th": "ขอข้าเดาหน่อยนะ การที่เจ้ามากำจัดข้า ก็เพื่อหวังจะบั่นทอนกำลังใจของกองทหารที่ Occidens สินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "A bold strategy, to be sure, but have you the strength to see it to fruition?",
+      "text_th": "เป็นกลยุทธ์ที่กล้าหาญมาก แต่เจ้ามีความแข็งแกร่งพอที่จะทำให้มันสำเร็จหรือเปล่าล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Leave us. None of you are a match for him / her .",
+      "text_th": "ออกไปซะ พวกเจ้าไม่ใช่คู่มือของ เขา / เธอ หรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Send word to Castrum Occidens. Tell them the Lominsans are coming.",
+      "text_th": "ส่งข่าวไปที่ Castrum Occidens บอกพวกมันว่าพวก Lominsan กำลังมา",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "At once, my lord!",
+      "text_th": "รับทราบขอรับ นายท่าน!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Fifteen years have come and gone since Lord van Baelsar first set foot in Eorzea, yet his ambition for the realm burns as strong as ever it did. Know you what fuels it, adventurer? The desire to deliver the people from their suffering.",
+      "text_th": "สิบห้าปีผ่านไปแล้วนับตั้งแต่ที่ท่านลอร์ด van Baelsar เหยียบย่างเข้าสู่ Eorzea เป็นครั้งแรก แต่ความทะเยอทะยานที่เขามีต่อดินแดนนี้ยังคงลุกโชนอย่างไม่เคยเสื่อมคลาย เจ้ารู้ไหมว่าอะไรคือแรงผลักดันให้เขากันล่ะ นักผจญภัย? ความปรารถนาที่จะปลดปล่อยผู้คนจากความทุกข์ทรมานยังไงล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "The lands he has conquered were all beset with problems─poverty, starvation, lawlessness, and strife. My homeland was no exception. Had my lord not reached out and claimed it for the Empire, it would eventually have destroyed itself.",
+      "text_th": "ดินแดนที่เขาพิชิตมาได้ ล้วนแล้วแต่เต็มไปด้วยปัญหา─ความยากจน ความอดอยาก การไร้ซึ่งกฎหมาย และความขัดแย้ง บ้านเกิดของข้าก็ไม่เว้น หากท่านลอร์ดไม่ยื่นมือเข้ามาและอ้างสิทธิ์ครอบครองเพื่อจักรวรรดิล่ะก็ ในที่สุดมันก็จะทำลายตัวเองลงไปเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "But under his sage leadership, my people enjoyed such peace and stability as we had never known. And he only desires the selfsame for the people of this realm. Under his rule, Eorzea would be free from the shackles which bind it─the shackles of false faith.",
+      "text_th": "แต่ภายใต้การนำอันชาญฉลาดของเขา ผู้คนของข้าก็ได้สัมผัสกับความสงบสุขและความมั่นคงอย่างที่ไม่เคยมีมาก่อน และเขาก็เพียงแค่ปรารถนาสิ่งเดียวกันนี้ให้กับผู้คนในดินแดนนี้เท่านั้น ภายใต้การปกครองของเขา Eorzea จะเป็นอิสระจากพันธนาการที่ผูกมัดมันไว้─พันธนาการแห่งความเชื่อจอมปลอมไงล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "There would be no feeble leaders to misguide the masses, no eikons to bleed the realm dry. True peace would reign, and the people would be free to live their lives without fear of persecution or oppression.",
+      "text_th": "จะไม่มีผู้นำอ่อนแอมาคอยชักจูงฝูงชนไปในทางที่ผิด ไม่มี eikon มาสูบเลือดสูบเนื้อดินแดนนี้จนแห้งเหือด ความสงบสุขที่แท้จริงจะครอบงำ และผู้คนก็จะมีอิสระในการใช้ชีวิตอย่างปราศจากความหวาดกลัวต่อการถูกข่มเหงหรือกดขี่",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Should you doubt the truth of my words, I bid you look upon me. I am no son of Garlemald, yet Lord van Baelsar saw fit to raise me to a station of great honor.",
+      "text_th": "หากเจ้ายังกังขาในคำพูดของข้า ข้าก็ขอให้เจ้ามองมาที่ตัวข้าสิ ข้าไม่ใช่คนของ Garlemald โดยกำเนิด แต่ท่านลอร์ด van Baelsar ก็ยังเห็นสมควรที่จะยกย่องข้าให้มีตำแหน่งอันทรงเกียรติถึงเพียงนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "He measures a man not by his birth, but by his worth. Such is his sense of justice. By the grace of His Excellency, I am where I was born to be─upon the field of battle.",
+      "text_th": "เขาวัดคุณค่าของคนไม่ใช่ที่ชาติกำเนิด แต่เป็นที่ผลงาน นั่นคือความยุติธรรมในแบบของเขา ด้วยความเมตตาของท่านลอร์ด ข้าถึงได้มาอยู่ในจุดที่ข้าเกิดมาเพื่อจะอยู่─ณ สมรภูมิรบ",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "He has given me a noble cause to fight for, and worthy adversaries to smite.",
+      "text_th": "เขามอบอุดมการณ์อันสูงส่งให้ข้าต่อสู้เพื่อมัน และมอบศัตรูที่คู่ควรให้ข้าได้ฟาดฟัน",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "I am not wont to bare my steel needlessly. But if you are deaf to reason...",
+      "text_th": "ข้าไม่ได้ชักดาบพร่ำเพรื่อหรอกนะ แต่ถ้าเจ้าไม่ยอมฟังเหตุผล...",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "In the name of Lord van Baelsar, I, Rhitahtyn sas Arvina, do swear to strike you down!",
+      "text_th": "ในนามของท่านลอร์ด van Baelsar ข้า Rhitahtyn sas Arvina ขอสาบานว่าจะโค่นเจ้าลงให้ได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "I will suffer none to oppose Lord van Baelsar!",
+      "text_th": "ข้าจะไม่ยอมให้ใครหน้าไหนมาต่อต้านท่านลอร์ด van Baelsar เด็ดขาด!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Your defeat will bring Lord van Baelsar's noble conquest one step closer to fruition!",
+      "text_th": "ความพ่ายแพ้ของเจ้าจะทำให้การพิชิตอันสูงส่งของท่านลอร์ด van Baelsar เข้าใกล้ความจริงไปอีกก้าว!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "My shields are impregnable!",
+      "text_th": "โล่ของข้าไม่มีวันถูกเจาะทะลุได้หรอก!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Let me show you a technique passed down in my homeland! [He casts Tartarean Tomb.]",
+      "text_th": "ให้ข้าแสดงให้เจ้าเห็นถึงวิชาที่สืบทอดกันมาในบ้านเกิดของข้าหน่อยก็แล้วกัน! [เขาร่ายเวท Tartarean Tomb]",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "You do not hold back! Very well, neither shall I!",
+      "text_th": "เจ้าไม่ได้ออมมือเลยนี่! เอาล่ะ งั้นข้าก็ไม่ออมมือให้เหมือนกัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Ugh... So this is the strength of he / she who vanquished Titan...",
+      "text_th": "อึก... นี่สินะ ความแข็งแกร่งของ ผู้ / ผู้ ที่โค่น Titan ลงได้...",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Pilus Prior",
+      "text_en": "Let us aid you, my lord!",
+      "text_th": "ให้พวกเราช่วยท่านเถอะขอรับ นายท่าน!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "What? I thought I ordered you to leave!",
+      "text_th": "อะไรนะ? ข้าสั่งให้พวกเจ้าออกไปแล้วไม่ใช่รึ!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Pilus Prior",
+      "text_en": "Forgive us, my lord, but we couldn't let you face the enemy alone!",
+      "text_th": "ขอประทานอภัยขอรับนายท่าน แต่พวกเราทนดูท่านเผชิญหน้ากับศัตรูเพียงลำพังไม่ได้จริงๆ !",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Pilus Prior",
+      "text_en": "We've raised the alarm as you bade...and now we would fight with you!",
+      "text_th": "เราส่งสัญญาณเตือนตามที่ท่านสั่งแล้ว... และตอนนี้พวกเราอยากจะร่วมต่อสู้ไปกับท่าน!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina (bubble text)",
+      "text_en": "Don't be fools, get away from here!",
+      "text_th": "อย่าโง่ไปหน่อยเลย รีบหนีไปจากที่นี่ซะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Pilus Prior (bubble text)",
+      "text_en": "Pardon, my lord.",
+      "text_th": "ขอประทานอภัยด้วยขอรับ นายท่าน",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina (bubble text)",
+      "text_en": "Nooo! You... You bastard.",
+      "text_th": "ไม่นะ! แก... ไอ้สารเลวเอ๊ย",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina (bubble text)",
+      "text_en": "Yaaaaargh!",
+      "text_th": "ย๊ากกกก!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Your conviction and courage will not be for naught! This I swear!",
+      "text_th": "ความเชื่อมั่นและความกล้าหาญของพวกเจ้าจะไม่สูญเปล่า! ข้าขอสาบาน!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "For victory and vengeance, I will strike you down!",
+      "text_th": "เพื่อชัยชนะและการล้างแค้น ข้าจะจัดการเจ้าให้จงได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Ignore pain... Ignite rage... And fight with the fury of wildfire!",
+      "text_th": "ลืมความเจ็บปวดไปซะ... จุดประกายความโกรธแค้นขึ้นมา... แล้วต่อสู้ด้วยความเกรี้ยวกราดราวกับไฟป่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "You will have no mercy from me!",
+      "text_th": "ข้าจะไม่มีวันปรานีเจ้าหรอกนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Ignore pain... Ignite rage... And fight with the fury of wildfire!",
+      "text_th": "ลืมความเจ็บปวดไปซะ... จุดประกายความโกรธแค้นขึ้นมา... แล้วต่อสู้ด้วยความเกรี้ยวกราดราวกับไฟป่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina (bubble text)",
+      "text_en": "Aaarrrgh!",
+      "text_th": "อ๊ากกกก!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "<pant> <pant> You are stronger than I had expected...",
+      "text_th": "<หอบ> <หอบ> เจ้าแข็งแกร่งกว่าที่ข้าคิดไว้ซะอีก...",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "But I have my honor! I cannot─I will not yield!",
+      "text_th": "แต่ข้ามีเกียรติของข้าอยู่! ข้าไม่อาจ─ข้าจะไม่มีวันยอมแพ้เด็ดขาด!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Hah, I have you now!",
+      "text_th": "ฮ่า ข้าจับตัวเจ้าได้แล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "We shall go together, amidst a raging inferno!",
+      "text_th": "เราจะไปสู่ปรโลกด้วยกัน ท่ามกลางกองเพลิงที่ลุกโชนนี่แหละ!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "No amount of pain can loosen my grip!",
+      "text_th": "ไม่ว่าจะเจ็บปวดแค่ไหน ข้าก็จะไม่ยอมปล่อยมือเด็ดขาด!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Ungh... You will not escape...",
+      "text_th": "อึก... เจ้าหนีไม่รอดหรอก...",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Rest in peace, men... I shall join you soon...",
+      "text_th": "หลับให้สบายเถอะพวกพ้อง... ข้ากำลังจะตามพวกเจ้าไปแล้ว...",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "<pant> <pant> It's over... Strong as you are, you cannot survive this!",
+      "text_th": "<หอบ> <หอบ> มันจบแล้ว... ต่อให้เจ้าแข็งแกร่งแค่ไหน เจ้าก็เอาชีวิตรอดจากพลังนี้ไปไม่ได้หรอก!",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "<gasp> <pant>",
+      "text_th": "<หายใจหอบ> <หอบ>",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Forgive me... I have failed you...",
+      "text_th": "ยกโทษให้ข้าด้วยเถอะ... ข้าทำให้ท่านผิดหวังแล้ว...",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "Lord van Baelsar!!!",
+      "text_th": "ท่านลอร์ด van Baelsar!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "That light─ <gasp> The magitek transporter!",
+      "text_th": "แสงนั่น─ <หอบ> เครื่องเคลื่อนย้ายมวลสาร magitek นี่นา!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forename , are you there? What news of Rhitahtyn? ... Fallen ?",
+      "text_th": "[ชื่อ] อยู่ที่นั่นไหม? Rhitahtyn เป็นยังไงบ้าง? ...ตายแล้ว งั้นรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "With this deed, you have sown the seeds of our ultimate victory.",
+      "text_th": "ด้วยความสำเร็จครั้งนี้ เจ้าได้หว่านเมล็ดพันธุ์แห่งชัยชนะอันยิ่งใหญ่ของเราแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The fading of that light presages an end to the Empire's tyranny!",
+      "text_th": "แสงที่ค่อยๆ จางหายไปนั่นคือลางบอกเหตุถึงจุดจบของความโหดร้ายทารุณของจักรวรรดิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Rhitahtyn sas Arvina is no more!",
+      "text_th": "Rhitahtyn sas Arvina สิ้นชื่อแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let the next phase of Operation Archon commence!",
+      "text_th": "ให้ Operation Archon ระยะต่อไปเริ่มต้นขึ้นได้เลย!",
+      "status": "AI"
+    },
+    {
+      "character": "All",
+      "text_en": "HURRAH!",
+      "text_th": "ไชโย!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "'Tis I! It seems you've done it again, Forename !",
+      "text_th": "ฉันเอง! ดูเหมือนนาย / เธอ จะทำสำเร็จอีกแล้วสินะ [ชื่อ] !",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I'd raise a tankard to you, but I'm afraid we've no time to savor the victory. There's still the small matter of infiltrating Castrum Meridianum and destroying the Ultima Weapon!",
+      "text_th": "ฉันอยากจะชูแก้วฉลองให้นาย / เธอ นะ แต่เกรงว่าเราคงไม่มีเวลามาดื่มด่ำกับชัยชนะหรอก ยังมีเรื่องเล็กๆ น้อยๆ อย่างการแทรกซึมเข้าไปใน Castrum Meridianum และทำลาย Ultima Weapon รออยู่อีกนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I know, I know...no rest for the preternaturally gifted. Now stop feeling sorry for yourself, and make your way back to the Immortal Flames' encampment. The communications officer will issue you your orders. I'll be waiting for you with the main host.",
+      "text_th": "รู้แล้ว รู้แล้วน่า... ไม่มีเวลาพักผ่อนสำหรับผู้ที่มีพรสวรรค์เหนือธรรมชาติหรอกนะ เลิกสงสารตัวเองได้แล้ว แล้วรีบกลับไปที่ค่ายของ Immortal Flames ได้แล้วล่ะ เจ้าหน้าที่สื่อสารจะรอแจ้งคำสั่งให้รับทราบอยู่ ฉันจะรอนาย / เธอ อยู่กับกองทัพหลักนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Look, Hydaelyn─Your minion comes... bringing the Light .",
+      "text_th": "ดูสิ Hydaelyn─ลูกสมุนของท่านมาแล้วล่ะ... พร้อมกับ แสงสว่าง เชียวนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Alas, the gate to the void already stands open. Soon, Darkness shall consume all, and you shall bow down before the one true god.",
+      "text_th": "น่าเสียดายที่ประตูสู่ความว่างเปล่ามันเปิดอ้าซ่าอยู่แล้วล่ะ อีกไม่นาน ความมืดมิดก็จะกลืนกินทุกสิ่ง แล้วเจ้าก็จะต้องก้มหัวให้กับพระเจ้าที่แท้จริงเพียงองค์เดียว",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Ahahahahaha!",
+      "text_th": "ฮ่าฮ่าฮ่าฮ่าฮ่าฮ่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "The praefectus...slain?",
+      "text_th": "ท่าน praefectus... ถูกสังหารแล้วงั้นรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Officer",
+      "text_en": "Regrettably so, my lord. And at the hand of the eikon-slayer, if the centurion who survived the attack is to be believed.",
+      "text_th": "น่าเสียดายที่มันเป็นความจริงครับนายท่าน และก็เป็นฝีมือของผู้สังหาร eikon ซะด้วย หากเราจะเชื่อคำบอกเล่าของนายกองที่รอดชีวิตจากการโจมตีมาได้ล่ะก็นะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text_en": "Rhitahtyn...",
+      "text_th": "Rhitahtyn...",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "Where were his men when he faced the enemy!? Fleeing, even as their commander yielded up his last breath!? If it should prove they questioned his right...",
+      "text_th": "แล้วลูกน้องของเขาไปมุดหัวอยู่ที่ไหนตอนที่เขาเผชิญหน้ากับศัตรูเรอะ!? หนีเอาตัวรอด ในขณะที่ผู้บัญชาการกำลังจะสิ้นใจงั้นเรอะ!? ถ้ามันเป็นเพราะว่าพวกมันกังขาในสิทธิของเขา...",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Officer",
+      "text_en": "I-I cannot speak for them, my lord.",
+      "text_th": "ข-ข้าตอบแทนพวกเขาไม่ได้หรอกครับนายท่าน",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Officer",
+      "text_en": "...Beg pardons, my lord, but there is more. The Maelstrom has laid siege to Castrum Occidens.",
+      "text_th": "...ขอประทานอภัยด้วยครับนายท่าน แต่ยังมีเรื่องอื่นอีกครับ Maelstrom ได้เข้าปิดล้อม Castrum Occidens แล้วครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Officer",
+      "text_en": "Likewise, the Crimson Fleet moves to blockade Castrum Marinum.",
+      "text_th": "เช่นเดียวกัน Crimson Fleet ก็กำลังเคลื่อนพลไปปิดล้อม Castrum Marinum ด้วยครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "So this is their answer...",
+      "text_th": "นี่คือคำตอบของพวกมันสินะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "Very well! We shall crush them as we crushed the eikons!",
+      "text_th": "ดีมาก! เราจะบดขยี้พวกมันเหมือนที่เราเคยบดขยี้พวก eikon นั่นแหละ!",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text_en": "Go forth and show them the futility of their resistance!",
+      "text_th": "จงเดินหน้าไป แล้วแสดงให้พวกมันเห็นถึงความไร้ประโยชน์ของการต่อต้านซะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Tribuni",
+      "text_en": "Yes, my lord!",
+      "text_th": "รับทราบขอรับ นายท่าน!",
+      "status": "AI"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "Scion Surname ! Your deeds this day are an inspiration to us all!",
+      "text_th": "Scion [นามสกุล] ! วีรกรรมของคุณในวันนี้เป็นแรงบันดาลใจให้พวกเราทุกคนเลยล่ะครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "With the death of the praefectus, Operation Archon has entered its second phase. Even as we speak, the Maelstrom moves to blockade Castrum Occidens and Castrum Marinum.",
+      "text_th": "เมื่อท่าน praefectus สิ้นชีพลง Operation Archon ก็เข้าสู่ระยะที่สองแล้ว ในขณะที่เรากำลังพูดอยู่นี้ Maelstrom ก็กำลังเคลื่อนพลไปปิดล้อม Castrum Occidens และ Castrum Marinum อยู่ครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "And far to the east, in the Black Shroud, the Order of the Twin Adder advances upon Castrum Oriens.",
+      "text_th": "และไกลออกไปทางตะวันออก ใน Black Shroud กองกำลัง Order of the Twin Adder ก็กำลังรุกคืบเข้าสู่ Castrum Oriens แล้วเช่นกันครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "Already, you have done much to advance our cause, performing such feats as are worthy of song─but if our plan is to succeed, more is required of you.",
+      "text_th": "คุณได้ทำประโยชน์มากมายเพื่อผลักดันภารกิจของเราให้ก้าวหน้าไปมากแล้ว สร้างวีรกรรมที่ควรค่าแก่การยกย่องสรรเสริญมากมาย─แต่ถ้าเราต้องการให้แผนการนี้สำเร็จลุล่วง เราก็ยังต้องการความช่วยเหลือจากคุณอีกครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Allied Communications Officer",
+      "text_en": "Let me know when your preparations are in order, and I shall relay to you the particulars of your next mission.",
+      "text_th": "บอกผมเมื่อคุณเตรียมตัวพร้อมแล้วนะครับ แล้วผมจะถ่ายทอดรายละเอียดของภารกิจต่อไปให้คุณฟังเองครับ",
+      "status": "AI"
+    }
+  ]
+}

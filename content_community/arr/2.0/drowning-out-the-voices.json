@@ -1,0 +1,68 @@
+{
+  "id": "drowning-out-the-voices",
+  "wiki_path": "/wiki/Drowning_Out_the_Voices",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Drowning Out the Voices",
+  "title_th": "กลบเสียงด้วยคลื่นรบกวน",
+  "title_status": "AI",
+  "level": "46",
+  "location": "Mor Dhona(X:22.0,Y:7.7)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text_en": "While Glaumunt goes about devising his plan, we need to see to some preparation of our own.",
+      "text_th": "ในระหว่างที่ Glaumunt กำลังวางแผน เราก็ต้องเตรียมตัวในส่วนของเราให้พร้อมเหมือนกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "It wouldn't do if the imperials were to discover that they're short an armor.",
+      "text_th": "มันคงไม่ดีแน่ถ้าพวกอิมพีเรียลรู้ตัวว่าหุ่นเกราะพวกมันหายไปตัวนึง",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "To prevent this from happening, I'm going to put together a makeshift communications-jamming device. The explanation is like to get a bit technical, so bear with me.",
+      "text_th": "เพื่อป้องกันไม่ให้เรื่องนี้เกิดขึ้น ฉันจะประกอบอุปกรณ์รบกวนสัญญาณสื่อสารชั่วคราวขึ้นมา คำอธิบายอาจจะเข้าใจยากนิดนึง ทนฟังหน่อยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Imperial forces communicate at a distance via electromagnetic waves. Simply put, voices are borne upon aetheric lightning energy that permeates the air.",
+      "text_th": "กองทัพอิมพีเรียลสื่อสารระยะไกลผ่านคลื่นแม่เหล็กไฟฟ้า พูดง่ายๆ ก็คือ เสียงจะถูกส่งผ่านพลังงานสายฟ้าอีเทอร์ที่ลอยอยู่ในอากาศ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Now, the hill-sized cluster of corrupted crystals to the west has been observed to amplify the selfsame energy. By making use of this property, we should be able to drown out imperial voices.",
+      "text_th": "ทีนี้ กลุ่มคริสตัลเสื่อมสภาพที่ใหญ่เท่าภูเขาทางตะวันตกนั่นน่ะ มีคุณสมบัติในการขยายพลังงานแบบเดียวกันนี้เลย ถ้าเราใช้ประโยชน์จากคุณสมบัตินี้ เราก็น่าจะกลบเสียงของพวกอิมพีเรียลได้",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "To ensure that we have enough amplification, we must identify the most potent crystals among the cluster. For this, I need you to go there and use this device to take readings. I'll mark the likely places on your map.",
+      "text_th": "เพื่อให้แน่ใจว่าเรามีการขยายสัญญาณที่เพียงพอ เราต้องหาคริสตัลที่มีพลังมากที่สุดในกลุ่มนั้นให้ได้ ฉันเลยอยากให้เธอไปที่นั่นแล้วใช้อุปกรณ์นี้วัดค่าดู ฉันจะทำเครื่องหมายจุดที่เป็นไปได้ไว้บนแผนที่ให้",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Oh, and just so you know, plasmoids are drawn to lightning energy. Don't be surprised if you run into a few.",
+      "text_th": "อ้อ แล้วก็รู้ไว้ด้วยนะ พวก plasmoid มักจะถูกดึงดูดด้วยพลังงานสายฟ้า อย่าแปลกใจถ้าจะเจอพวกมันบ้างล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "You have the readings? Excellent. Here, let me see the numbers.",
+      "text_th": "ได้ค่าที่วัดได้มาแล้วเหรอ? เยี่ยมมาก ไหนขอดูตัวเลขหน่อยซิ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "...Yes, four of these crystals should suit our purpose, though I pray that we won't have need of their power. My thanks, Forename .",
+      "text_th": "...อืม ใช่แล้ว คริสตัลพวกนี้สักสี่ก้อนน่าจะพอสำหรับจุดประสงค์ของเรา ถึงฉันจะภาวนาว่าเราจะไม่ต้องใช้พลังของพวกมันก็เถอะ ขอบใจนะ [ชื่อ]",
+      "status": "AI"
+    }
+  ]
+}

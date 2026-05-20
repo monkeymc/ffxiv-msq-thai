@@ -1,0 +1,62 @@
+{
+  "id": "thanks-a-million",
+  "wiki_path": "/wiki/Thanks_a_Million",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Thanks a Million",
+  "title_th": "ขอบคุณล้านครั้ง",
+  "title_status": "AI",
+  "level": "11",
+  "location": "Middle La Noscea(X:15.8,Y:16.4)",
+  "npc_start": "Wyrkrhit",
+  "dialogues": [
+    {
+      "character": "Wyrkrhit",
+      "text_en": "Glad I am to see ye again, lass. A wagon driver just returned in a great bloody hurry, screamin' about some monstrosity what sprang out from a millioncorn seedling in his cargo.",
+      "text_th": "ดีใจที่ได้เจอกันอีกนะแม่หนู มีคนขับเกวียนคนนึงเพิ่งวิ่งหน้าตั้งกลับมา แล้วก็โวยวายเรื่องสัตว์ประหลาดบ้าอะไรสักอย่างที่กระโดดออกมาจากต้นอ่อน millioncorn ในเกวียนสินค้าของเขาน่ะสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Wyrkrhit",
+      "text_en": "Seems the gutless bastard tossed it over the side afore turnin' tail an' runnin' for his life. I need ye to head down the road, recover that seedling, an' deliver it to Lyulf over at Swiftperch in western La Noscea.",
+      "text_th": "ดูเหมือนว่าไอ้หน้าตัวเมียนั่นจะจับมันโยนทิ้งข้างทางแล้วก็วิ่งหางจุกตูดหนีเอาตัวรอดไปแล้ว ข้าอยากให้เจ้าลงไปตามถนนนั่น ไปเอาต้นอ่อนนั่นกลับมา แล้วก็เอาไปส่งให้ Lyulf ที่ Swiftperch ทางฝั่งตะวันตกของ La Noscea ให้ที",
+      "status": "AI"
+    },
+    {
+      "character": "Wyrkrhit",
+      "text_en": "Whatever he pays ye for the cargo is yers to keep. After all, I don't rightly know what else is lurkin' inside that plant, an' ye deserve to be rewarded for yer troubles.",
+      "text_th": "ไม่ว่าเขาจะจ่ายค่าสินค้าให้เจ้าเท่าไหร่ เจ้าก็เก็บไว้ได้เลย เพราะยังไงข้าก็ไม่รู้หรอกนะว่ามีอะไรซ่อนอยู่ในต้นไม้นั่นอีก แล้วเจ้าก็สมควรได้รับรางวัลจากความลำบากของเจ้าด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Wyrkrhit",
+      "text_en": "Oh, an' ye'll also find an aetheryte in Swiftperch, so the journey should be worth yer while.",
+      "text_th": "อ้อ แล้วที่ Swiftperch ก็มี aetheryte ด้วยนะ การเดินทางครั้งนี้น่าจะคุ้มค่าเหนื่อยของเจ้าอยู่นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Lyulf",
+      "text_en": "Has Nymeia Herself forsaken this desolate land? Though I understood there were risks in gambling my entire fortune on a crop of millioncorn, I at least expected the seedling to be delivered before disaster struck!",
+      "text_th": "นี่เทพธิดา Nymeia ทอดทิ้งดินแดนอันรกร้างนี้ไปแล้วจริงๆ หรือเนี่ย? ถึงข้าจะรู้ว่ามันมีความเสี่ยงที่จะเอาเงินเก็บทั้งหมดไปทุ่มให้กับพืชผล millioncorn ก็เถอะ แต่อย่างน้อยข้าก็หวังว่าต้นอ่อนนั่นจะมาส่งถึงมือก่อนที่จะเกิดหายนะขึ้นนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Lyulf",
+      "text_en": "Is...is that my millioncorn seedling!? O joyous day! It may seem a paltry beginning, but the yield of this particular variety of crop plant is nothing short of astonishing.",
+      "text_th": "น...นั่นต้นอ่อน millioncorn ของข้าใช่ไหม!? โอ้ วันอันแสนสุข! ถึงมันจะดูเป็นแค่จุดเริ่มต้นเล็กๆ แต่ผลผลิตจากพืชพันธุ์สายพันธุ์นี้น่ะ มันน่าทึ่งมากเลยล่ะจะบอกให้",
+      "status": "AI"
+    },
+    {
+      "character": "Lyulf",
+      "text_en": "As you have undoubtedly noticed, Swiftperch lacks a certain, shall we say, vital energy? Thus I mean to restore a modicum of hope to its residents by growing a veritable ocean of corn!",
+      "text_th": "อย่างที่เจ้าคงจะสังเกตเห็นนะว่า Swiftperch ขาดสิ่งที่เราเรียกว่า พลังชีวิต ไป ข้าก็เลยตั้งใจจะฟื้นฟูความหวังเล็กๆ น้อยๆ ให้กับชาวเมืองที่นี่ ด้วยการปลูกข้าวโพดให้เป็นทุ่งกว้างเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Lyulf",
+      "text_en": "You, madam, seem fit to burst with vim and vigor! Might I persuade you to abide a while and help nurture this ailing settlement?",
+      "text_th": "ท่านหญิง ท่านดูท่าทางแข็งแรงและเต็มเปี่ยมไปด้วยพลังจังเลยนะ! ข้าจะพอโน้มน้าวให้ท่านอยู่ต่ออีกสักพักเพื่อช่วยฟื้นฟูชุมชนที่กำลังย่ำแย่นี้ได้ไหม?",
+      "status": "AI"
+    }
+  ]
+}

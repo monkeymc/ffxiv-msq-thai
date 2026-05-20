@@ -1,0 +1,980 @@
+{
+  "id": "the-gridanian-envoy",
+  "wiki_path": "/wiki/The_Gridanian_Envoy",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/e/ee/The_Gridanian_Envoy_Image.png",
+  "patch": "2.0",
+  "title_en": "The Gridanian Envoy",
+  "title_th": "ทูตแห่ง Gridania",
+  "title_status": "AI",
+  "level": "15",
+  "location": "The Lotus Stand(X:6.2,Y:6.1)",
+  "npc_start": "Kan-E-Senna",
+  "dialogues": [
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Thank you for hearing me out.",
+      "text_th": "ขอบคุณนะที่ยอมรับฟังฉัน",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I have written a letter to my counterparts in the Eorzean Alliance.",
+      "text_th": "ฉันได้เขียนจดหมายไปถึงผู้นำท่านอื่นๆ ในกลุ่มพันธมิตร Eorzean Alliance แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The Battle of Cartenaeu and the Calamity that followed claimed countless souls, and left countless more bereft and alone. In the dark days that followed, many were the survivors who thought themselves less fortunate than the dead.",
+      "text_th": "การต่อสู้ที่ Carteneau และภัยพิบัติ Calamity ที่ตามมา ได้คร่าชีวิตผู้คนไปนับไม่ถ้วน และทิ้งให้คนอีกมากมายต้องสูญเสียและอยู่อย่างโดดเดี่ยว ในช่วงเวลาอันมืดมนหลังจากนั้น ผู้รอดชีวิตหลายคนต่างก็คิดว่าตัวเองโชคร้ายยิ่งกว่าคนที่ตายไปแล้วเสียอีก",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Five years have come and gone, but the land and the people still bear the wounds of the devastation.",
+      "text_th": "เวลาผ่านไปห้าปีแล้ว แต่ทั้งผืนดินและผู้คนต่างก็ยังคงแบกรับบาดแผลจากความสูญเสียครั้งนั้นอยู่เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Nor are we any closer to learning the fate of the Warriors of Light.",
+      "text_th": "และเราก็ยังไม่รู้ชะตากรรมของเหล่านักรบแห่งแสงสว่างเลยแม้แต่น้อย",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Yet so long as we live, never must we give up hope. We owe this to those who laid down their lives that we might behold another dawn.",
+      "text_th": "แต่ตราบใดที่เรายังมีลมหายใจ เราก็ต้องไม่หมดหวัง เราเป็นหนี้ชีวิตคนเหล่านั้นที่ยอมสละชีพเพื่อให้เราได้เห็นรุ่งอรุณวันใหม่",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "In remembrance of them, a memorial service will soon be held upon the anniversary of the Battle of Cartenau. This missive bears the details of that service.",
+      "text_th": "เพื่อเป็นการรำลึกถึงพวกเขา เร็วๆ นี้จะมีการจัดพิธีรำลึกในวันครบรอบการต่อสู้ที่ Cartenau จดหมายฉบับนี้มีรายละเอียดของงานพิธีอยู่",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "You graciously accepted the part of Emissary in the recent ceremony.",
+      "text_th": "คุณอุตส่าห์กรุณารับหน้าที่เป็นทูตในงานพิธีครั้งก่อน...",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Should you be so willing, I would now make you my envoy, and have you bear my message to our allies.",
+      "text_th": "ถ้าคุณไม่รังเกียจ ฉันอยากจะขอให้คุณรับหน้าที่เป็นทูตส่วนตัวของฉัน และช่วยนำข้อความนี้ไปส่งให้กับพันธมิตรของเราที",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Your dedication to the people of Gridania rouses fond memories in me, and I would choose no other for the role. Will you do me this favor?",
+      "text_th": "ความทุ่มเทของคุณที่มีต่อชาว Gridania ทำให้ฉันนึกถึงความทรงจำดีๆ และฉันก็ไม่อยากจะเลือกใครอื่นมารับหน้าที่นี้นอกจากคุณ คุณจะช่วยทำเพื่อฉันหน่อยได้ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Humbly, I thank you.",
+      "text_th": "ขอบคุณนะ ขอบคุณจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "As you are no doubt aware, our partners in the Eorzean Alliance lie some considerable distance away. Nor are Ul'dah and Limsa Lominsa close to one another.",
+      "text_th": "อย่างที่คุณคงจะรู้ดี พันธมิตรของเราในกลุ่ม Eorzean Alliance นั้นอยู่ห่างไกลออกไปพอสมควร แถม Ul'dah กับ Limsa Lominsa ก็ไม่ได้อยู่ใกล้กันเลยด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Yet fear not, for I have no intention of subjecting you, mine own newly anointed envoy, to a journey which would take weeks by land.",
+      "text_th": "แต่ไม่ต้องห่วงไปหรอก ฉันไม่คิดจะให้ทูตคนใหม่ของฉันต้องมาทนทรมานกับการเดินทางทางบกที่ต้องกินเวลาเป็นอาทิตย์ๆ หรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "No, I mean for you to travel by air. Receive of me this airship pass. With it, you may make use of the skyways that connect the three city-states of the Alliance.",
+      "text_th": "เปล่าเลย ฉันตั้งใจจะให้คุณเดินทางทางอากาศต่างหากล่ะ รับใบผ่านทางขึ้นเรือเหาะนี้ไปสิ ด้วยใบผ่านนี้ คุณก็จะสามารถใช้เส้นทางบินที่เชื่อมต่อทั้งสามประเทศในกลุ่มพันธมิตรได้แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The airship landing is situated upon the lower floor of the Carline Canopy. Simply show your pass, and you will be admitted to the departure area. Before you embark upon this journey, however, you would do well to seek the worldly wisdom of Miounne. Few forestborn Gridanians know more of the lands beyond the Twelveswood than she.",
+      "text_th": "ลานจอดเรือเหาะอยู่ชั้นล่างของ Carline Canopy นี่เอง แค่แสดงใบผ่านทาง คุณก็จะได้เข้าไปในจุดผู้โดยสารขาออกแล้วล่ะ แต่ก่อนที่คุณจะออกเดินทาง คุณน่าจะไปขอคำแนะนำเรื่องโลกภายนอกเผื่อไว้จาก Miounne หน่อยก็ดีนะ เพราะชาว Gridania ที่เกิดในป่าแห่งนี้ คงมีน้อยคนนักที่จะรู้จักดินแดนนอก Twelveswood ดีไปกว่าเธอ",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "In better times, airships were available for the convenience of one and all. Alas, the risk that our crafts may fall to imperial attack has forced a reduction in the number of flights.",
+      "text_th": "ในยุคที่บ้านเมืองสงบสุขกว่านี้ ใครๆ ก็สามารถใช้บริการเรือเหาะได้ตามสะดวกเลยล่ะ แต่น่าเศร้าที่ความเสี่ยงที่เรือเหาะของเราจะถูกโจมตีโดยพวกจักรวรรดินั้น ทำให้เราต้องจำใจลดเที่ยวบินลง",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Consequently, it has become necessary to restrict air travel only to those whose need is great. Such individuals may petition the relevant parties to be issued an airship pass. As you may have deduced, I myself am one such party.",
+      "text_th": "ด้วยเหตุนี้ เราจึงจำเป็นต้องจำกัดการเดินทางทางอากาศไว้เฉพาะผู้ที่มีความจำเป็นจริงๆ เท่านั้น ผู้ที่มีความประสงค์จะเดินทางต้องไปยื่นเรื่องขอใบผ่านทางจากผู้ที่มีอำนาจพิจารณา ซึ่งคุณก็คงจะเดาออกแล้วใช่ไหมล่ะว่า ฉันเองก็เป็นหนึ่งในนั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "...Yet I was not alone in desiring that you be granted the privilege of air travel.",
+      "text_th": "...แต่ฉันก็ไม่ได้เป็นคนเดียวหรอกนะที่อยากจะมอบสิทธิพิเศษในการเดินทางทางอากาศให้กับคุณ",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Such is the potential you show.",
+      "text_th": "นี่แหละคือศักยภาพที่คุณได้แสดงให้เราเห็น",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "We have no doubt but that you will reward our faith in you, Forename .",
+      "text_th": "พวกเราไม่สงสัยเลยว่าคุณจะต้องตอบแทนความเชื่อมั่นที่เรามีให้คุณได้อย่างแน่นอน [ชื่อ]",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "By the power vested in me, I bid you journey forth as my envoy into the great realm of Eorzea.",
+      "text_th": "ด้วยอำนาจที่ฉันมี ฉันขอให้คุณออกเดินทางในฐานะทูตของฉัน เพื่อมุ่งหน้าสู่ดินแดนอันยิ่งใหญ่แห่ง Eorzea",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Walk her fields, brave her seas, and strive to know her better.",
+      "text_th": "จงท่องไปตามทุ่งหญ้า ฝ่าฟันเกลียวคลื่น และทำความรู้จักกับดินแดนแห่งนี้ให้ดียิ่งขึ้นเถิด",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "And wheresoever you go, go without fear, for the path shall ever be revealed to those who are true of heart.",
+      "text_th": "และไม่ว่าคุณจะไปที่ใด จงไปโดยปราศจากความหวาดกลัว เพราะหนทางจะเปิดเผยต่อผู้ที่มีจิตใจอันดีงามเสมอ",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Guided by the Crystal's light, set forth, and discover your destiny.",
+      "text_th": "ขอให้แสงแห่งคริสตัลนำทางคุณ ออกเดินทางเถิด และไปค้นหาชะตากรรมของคุณ",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "'Tis good to see you up and about again, Forename . Tell me, did you pay the Elder Seedseer a visit as I bade?",
+      "text_th": "ดีใจที่ได้เห็นเธอเดินเหินได้เป็นปกติอีกครั้งนะ [ชื่อ] ว่าแต่ เธอได้ไปพบกับท่าน Elder Seedseer ตามที่ฉันบอกหรือเปล่า?",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Appointed personal envoy!?",
+      "text_th": "ได้รับแต่งตั้งให้เป็นทูตส่วนตัวเลยงั้นเหรอ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "And now you are to bear the Elder Seedseer's missive to our allies...",
+      "text_th": "แล้วตอนนี้เธอก็กำลังจะนำจดหมายของท่าน Elder Seedseer ไปส่งให้กับพันธมิตรของเรา...",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Well! It seems you've made an impression on the great woman! I can't argue with her judgment, though. You've earned this honor with tireless hard work, and anyone who says you don't deserve it had better not do so in my hearing!",
+      "text_th": "แหม! ดูเหมือนเธอจะทำให้ท่านหญิงประทับใจเข้าอย่างจังเลยนะเนี่ย! แต่ฉันก็คงเถียงการตัดสินใจของท่านไม่ได้หรอกนะ เธอคู่ควรกับเกียรตินี้ด้วยความขยันขันแข็งของเธอเองนี่นา และถ้าใครกล้าพูดว่าเธอไม่คู่ควรล่ะก็ ระวังอย่าให้ฉันได้ยินก็แล้วกัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "I find myself praising you often of late, but Mother is truly proud of you.",
+      "text_th": "ช่วงนี้ฉันชมเธอไปเยอะเลยแฮะ แต่แม่ภูมิใจในตัวเธอจริงๆ นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Short of a Warrior of Light, I can imagine no better adventurer to represent us—and that, my lad / girl , is some compliment!",
+      "text_th": "นอกจากพวกนักรบแห่งแสงสว่างแล้ว ฉันก็นึกไม่ออกเลยว่าจะมีนักผจญภัยคนไหนเหมาะจะมาเป็นตัวแทนของเราได้มากไปกว่าเธออีกแล้ว—และนั่นน่ะ เป็นคำชมก้อนโตเลยนะ พ่อหนุ่ม / แม่หนู !",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "But I've flattered you enough for one day. And I don't want your head to get too big, or you'll struggle to lug it around the realm. Speaking of which, Eorzea is a big old place.",
+      "text_th": "แต่วันนี้ฉันก็ชมเธอมามากพอแล้วล่ะ เดี๋ยวจะเหลิงจนหัวโตเดินแบกไปทั่ว Eorzea ไม่ไหวซะก่อน พูดถึงเรื่องนี้ Eorzea เนี่ย มันกว้างใหญ่ไพศาลเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Now that you have an airship pass, you can really start to broaden your horizons. The sky's quite literally the limit.",
+      "text_th": "ในเมื่อเธอมีใบผ่านทางเรือเหาะแล้ว คราวนี้เธอก็จะได้เปิดหูเปิดตาสักทีล่ะนะ ท้องฟ้าก็คือขีดจำกัดของเธอแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Even if your errand didn't call for it, I would strongly suggest visiting the two other city-states of the Alliance before you go anywhere else. They are, of course, Limsa Lominsa, city of pirates, and Ul'dah, jewel of the desert.",
+      "text_th": "ถึงภารกิจของเธอจะไม่ได้บังคับก็เถอะ แต่ฉันขอแนะนำอย่างยิ่งเลยนะให้เธอไปเยือนอีกสองประเทศในกลุ่มพันธมิตรก่อนที่จะไปที่อื่น นั่นก็คือ Limsa Lominsa เมืองแห่งโจรสลัด และ Ul'dah อัญมณีแห่งทะเลทราย",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Once you've acquainted yourself with them, you can turn your sights on whichever lesser-trodden region takes your fancy.",
+      "text_th": "พอเธอคุ้นเคยกับสองเมืองนั้นแล้ว เธอก็ค่อยไปสำรวจพื้นที่ที่คนไม่ค่อยไปกันตามใจชอบได้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "The Calamity changed the face of Eorzea, and much of her now lies in shadow, beyond man's ken. It's a veritable playground for a wide-eyed adventurer like your good self.",
+      "text_th": "ภัยพิบัติ Calamity ได้เปลี่ยนโฉมหน้าของ Eorzea ไปเยอะเลยล่ะ และพื้นที่ส่วนใหญ่ก็ยังคงถูกปกคลุมไปด้วยความมืดมิด เกินกว่าที่มนุษย์จะล่วงรู้ได้ มันคือสนามเด็กเล่นชั้นดีสำหรับนักผจญภัยที่กระหายการสำรวจอย่างเธอเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Mind you, it won't all be fun and games.",
+      "text_th": "แต่จำไว้นะ ว่ามันไม่ได้มีแต่เรื่องสนุกๆ หรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Each nation faces its fair share of problems, from internal strife to conflict with the beast tribes and their primals. So don't be too surprised if you find yourself embroiled in the odd unsavory situation on your travels.",
+      "text_th": "แต่ละประเทศก็มีปัญหาของตัวเองกันทั้งนั้นแหละ ตั้งแต่ความขัดแย้งภายใน ไปจนถึงการสู้รบกับพวกเผ่ามนุษย์สัตว์และพวก primal ของพวกมัน เพราะงั้นอย่าแปลกใจไปล่ะถ้าเธอจะเข้าไปพัวพันกับสถานการณ์ที่ไม่ค่อยสู้ดีนักระหว่างการเดินทางน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "But no matter what difficulties you encounter, I am confident that you will pull through, and emerge the stronger for the experience.",
+      "text_th": "แต่ไม่ว่าเธอจะต้องเจอกับความยากลำบากแค่ไหน ฉันก็มั่นใจว่าเธอจะผ่านมันไปได้ และประสบการณ์เหล่านั้นก็จะทำให้เธอแข็งแกร่งขึ้นอย่างแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "These are interesting times for Eorzea, Forename . It's been five years now since the Calamity, but folk are finally beginning to look to the future.",
+      "text_th": "นี่เป็นช่วงเวลาที่น่าจับตามองสำหรับ Eorzea เลยล่ะ [ชื่อ] ห้าปีแล้วนะตั้งแต่เกิดภัยพิบัติ Calamity แต่ในที่สุดผู้คนก็เริ่มจะมองไปสู่อนาคตกันสักที",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "A period of great change is upon us, and you have a part to play in it. And if that prospect doesn't excite you, I don't know what will!",
+      "text_th": "ยุคแห่งการเปลี่ยนแปลงครั้งใหญ่กำลังจะมาถึง และเธอก็เป็นส่วนหนึ่งในนั้นด้วยล่ะ และถ้าเรื่องนี้ยังไม่ทำให้เธอตื่นเต้นล่ะก็ ฉันก็ไม่รู้จะพูดยังไงแล้วล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Lionnellais",
+      "text_en": "Greetings, good sir / madam . This is the reservation counter for Limsa Lominsa-bound flights.",
+      "text_th": "สวัสดีครับ/ค่ะ คุณผู้ชาย/คุณผู้หญิง ที่นี่คือเคาน์เตอร์สำหรับจองเที่ยวบินไป Limsa Lominsa ครับ/ค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Lionnellais",
+      "text_en": "Oh, are you not Forename Surname , the Elder Seedseer's personal envoy? We at Highwind Skyways are honored to serve you! Will you be flying with us today?",
+      "text_th": "อ๊ะ ท่านคือ [ชื่อ] [นามสกุล] ทูตส่วนตัวของท่าน Elder Seedseer ใช่ไหมครับ/คะ? ทาง Highwind Skyways รู้สึกเป็นเกียรติอย่างยิ่งที่ได้ให้บริการท่านครับ/ค่ะ! วันนี้ท่านจะเดินทางไปกับเราไหมครับ/คะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Lionnellais",
+      "text_en": "Very well. When you are ready to board, please let me know.",
+      "text_th": "ได้เลยครับ/ค่ะ เมื่อท่านพร้อมจะขึ้นเครื่องเมื่อไหร่ ก็แจ้งให้ข้าทราบได้เลยนะครับ/คะ",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Attendant",
+      "text_en": "Attention, all passengers: the airship bound for Limsa Lominsa is about to depart. Please make your way to the boarding gate.",
+      "text_th": "เรียนผู้โดยสารทุกท่าน: เรือเหาะเที่ยวบินสู่ Limsa Lominsa กำลังจะออกเดินทางแล้วค่ะ โปรดดำเนินการไปยังประตูขึ้นเครื่องด้วยค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Farewell, Forename .",
+      "text_th": "ลาก่อนนะ [ชื่อ]",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "One day, minstrels will sing of your deeds.",
+      "text_th": "สักวันหนึ่ง เหล่านักกวีจะต้องนำวีรกรรมของเธอไปแต่งเป็นบทเพลงอย่างแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "May you ever walk in the light of the Crystal.",
+      "text_th": "ขอให้เธอเดินอยู่ในแสงแห่งคริสตัลตลอดไปนะ",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "It has been fifteen years, but the bitter taste of defeat lingers still...",
+      "text_th": "สิบห้าปีแล้วสินะ แต่รสชาติอันขมขื่นของความพ่ายแพ้ก็ยังคงติดตรึงอยู่เลย...",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Fifteen years since the imperial fleet set course for Mor Dhona, led by the Agrius, mightiest of all vessels.",
+      "text_th": "สิบห้าปีแล้วตั้งแต่ที่กองเรือจักรวรรดิมุ่งหน้าสู่ Mor Dhona โดยมี Agrius เรือรบที่ทรงพลานุภาพที่สุดเป็นผู้นำ",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Silvertear Lake lay ripe for the taking, and all of Eorzea would soon be ours...",
+      "text_th": "ทะเลสาบ Silvertear Lake อยู่แค่เอื้อมแล้ว และทั้ง Eorzea ก็จะตกเป็นของเราในไม่ช้า...",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "...or so we believed.",
+      "text_th": "...นั่นคือสิ่งที่เราเชื่อ",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "But an innumerable host of dragons met us that day, at the heart of which flew the great Midgardsormr.",
+      "text_th": "แต่ฝูงมังกรจำนวนมหาศาลกลับมาขวางทางเราไว้ในวันนั้น โดยมีมังกรผู้ยิ่งใหญ่ Midgardsormr บินนำอยู่ใจกลางฝูง",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Though we succeeded in slaying that lord among wyrms, the dread serpent's defeat was bought at too high a price.",
+      "text_th": "ถึงแม้เราจะสามารถสังหารราชามังกรตัวนั้นลงได้ก็เถอะ แต่ความพ่ายแพ้ของเจ้างูยักษ์นั่นก็ต้องแลกมาด้วยราคาที่แพงลิบลิ่ว",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Our invincible flagship was lost, and all hope of victory with her.",
+      "text_th": "เรือธงไร้พ่ายของเราสูญหายไป และความหวังแห่งชัยชนะทั้งหมดก็จมหายไปพร้อมกับมันด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "So ended our glorious conquest.",
+      "text_th": "การยึดครองอันรุ่งโรจน์ของเราจึงต้องจบลงด้วยประการฉะนี้",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Eorzea... A blighted realm, riddled with false gods.",
+      "text_th": "Eorzea... ดินแดนที่เน่าเฟะ เต็มไปด้วยพระเจ้าจอมปลอม",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Twice now it has eluded the Empire's grasp.",
+      "text_th": "มันรอดพ้นจากเงื้อมมือของจักรวรรดิมาได้ถึงสองครั้งสองคราแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "For all the destruction it wrought, even Meteor, the Great Sin, failed to yield us control over it.",
+      "text_th": "ต่อให้เราจะสร้างความพินาศย่อยยับไปมากแค่ไหน แต่แม้แต่พลังแห่ง Meteor ซึ่งเป็นบาปมหันต์ ก็ยังไม่สามารถทำให้เรายึดครองมันได้อยู่ดี",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "And for this failure, the realm has sunk deeper into depravity.",
+      "text_th": "และด้วยความล้มเหลวครั้งนี้ ดินแดนแห่งนี้ก็ยิ่งจมดิ่งลงสู่ความเสื่อมทราม",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "It is twisted beyond all reckoning—rotten night to the core.",
+      "text_th": "มันบิดเบี้ยวเกินกว่าจะประเมินได้—เน่าเฟะไปจนถึงแก่นแท้เลยทีเดียว",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Yet it must be saved.",
+      "text_th": "แต่มันก็ยังต้องได้รับการกอบกู้อยู่ดี",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Only Garlean rule can bring order to Eorzea. It falls to us to deliver the misguided masses from their ignorance.",
+      "text_th": "มีเพียงการปกครองของ Garlean เท่านั้นที่จะนำความสงบเรียบร้อยมาสู่ Eorzea ได้ มันเป็นหน้าที่ของเราที่จะต้องปลดปล่อยฝูงชนที่หลงผิดเหล่านี้ให้พ้นจากความโง่เขลา",
+      "status": "AI"
+    },
+    {
+      "character": "All",
+      "text_en": "We are of one mind, Lord van Baelsar.",
+      "text_th": "พวกเราเป็นน้ำหนึ่งใจเดียวกันครับ ท่านลอร์ด van Baelsar",
+      "status": "AI"
+    },
+    {
+      "character": "Announcement",
+      "text_en": "Senior engineers, please report to Magitek Research following scheduled inspections.",
+      "text_th": "ประกาศ: ขอให้วิศวกรอาวุโสทุกท่านไปรายงานตัวที่ศูนย์วิจัย Magitek Research หลังจากการตรวจสอบตามกำหนดการด้วยค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Midlander Engineer",
+      "text_en": "Hey. Is the legatus really planning to take another tilt at Eorzea?",
+      "text_th": "นี่ ท่าน legatus คิดจะบุก Eorzea อีกรอบจริงๆ เหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Highlander Engineer",
+      "text_en": "Eh!? What hole have you been hiding in? We're in the midst of preparing for a new campaign, and a huge one at that!",
+      "text_th": "หา!? นายไปมุดหัวอยู่ที่ไหนมาเนี่ย? ตอนนี้เรากำลังเตรียมตัวสำหรับแคมเปญใหม่กันอยู่ แถมยังเป็นแคมเปญใหญ่ซะด้วยสิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Midlander Engineer",
+      "text_en": "But...I thought the Emperor had given up the western lands for lost after Carteneau. What could the legatus possibly hope to gain by acting alone?",
+      "text_th": "แต่...ฉันนึกว่าองค์จักรพรรดิจะถอดใจจากดินแดนฝั่งตะวันตกไปแล้วตั้งแต่ตอน Carteneau ซะอีก แล้วท่าน legatus หวังจะได้อะไรจากการที่แอบลงมือเองแบบนี้ล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "I sense you harbor certain doubts over the wisdom of the legatus's plan.",
+      "text_th": "ข้าสัมผัสได้นะว่าพวกเจ้ามีข้อสงสัยบางอย่างเกี่ยวกับแผนการอันชาญฉลาดของท่าน legatus",
+      "status": "AI"
+    },
+    {
+      "character": "Midlander Engineer",
+      "text_en": "M-My lord!",
+      "text_th": "ท-ท่านลอร์ด!",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Please, call me Nero. Tell me, where were you born?",
+      "text_th": "ไม่ต้องเกรงใจหรอก เรียกข้าว่า Nero เถอะ ว่าแต่ เจ้าเกิดที่ไหนงั้นรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Highlander Engineer",
+      "text_en": "Othard, milord!",
+      "text_th": "Othard ครับท่าน!",
+      "status": "AI"
+    },
+    {
+      "character": "Midlander Engineer",
+      "text_en": "Ala Mhigo, my lord!",
+      "text_th": "Ala Mhigo ครับท่าน!",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Ah, Codename Hummingway, I presume?",
+      "text_th": "อา โค้ดเนม Hummingway สินะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Midlander Engineer",
+      "text_en": "I-I don't know what you—",
+      "text_th": "ข-ข้าไม่รู้เรื่องที่ท่าน—",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Silence. Your denials will not change your fate.",
+      "text_th": "เงียบซะ คำปฏิเสธของเจ้ามันเปลี่ยนชะตากรรมของเจ้าไม่ได้หรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "I assure you—Frumentarium sees all.",
+      "text_th": "ข้าขอรับรองเลยว่า—Frumentarium มองเห็นทุกอย่างนั่นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Midlander Engineer",
+      "text_en": "Argh...",
+      "text_th": "อ๊าก...",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Clean up this mess. And do not miss any, or I shall be most displeased.",
+      "text_th": "เก็บกวาดให้เรียบร้อยด้วยล่ะ แล้วอย่าให้พลาดแม้แต่หยดเดียว ไม่งั้นข้าคงไม่สบอารมณ์แน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Highlander Engineer",
+      "text_en": "A-At once, milord!",
+      "text_th": "ด-ได้เลยครับท่าน!",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Garlond... Soon you will be made to know the true power of magitek.",
+      "text_th": "Garlond... อีกไม่นาน เจ้าก็จะได้รู้ซึ้งถึงพลังที่แท้จริงของ magitek ซะที",
+      "status": "AI"
+    },
+    {
+      "character": "Arrivals Attendant",
+      "text_en": "Ah, you must be the envoy from Gridania! Welcome to Limsa Lominsa, my lord / lady . Admiral Bloefhiswyn awaits your arrival.",
+      "text_th": "อา ท่านต้องเป็นทูตจาก Gridania แน่ๆ เลย! ยินดีต้อนรับสู่ Limsa Lominsa ครับ/ค่ะ ท่านลอร์ด / ท่านหญิง ท่านนายพลเรือ Bloefhiswyn กำลังรอท่านอยู่เลยครับ/ค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Arrivals Attendant",
+      "text_en": "Please let me know if you require any assistance.",
+      "text_th": "หากท่านต้องการความช่วยเหลืออะไร ก็แจ้งให้ข้าทราบได้เลยนะครับ/คะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Honor Guard",
+      "text_en": "You are the Gridanian envoy? Welcome to Limsa Lominsa.",
+      "text_th": "ท่านคือทูตจาก Gridania ใช่ไหม? ยินดีต้อนรับสู่ Limsa Lominsa",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Honor Guard",
+      "text_en": "The Admiral has been looking forward to your arrival.",
+      "text_th": "ท่านนายพลเรือรอคอยการมาถึงของท่านอยู่เลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Honor Guard",
+      "text_en": "Please proceed to the Crow's Lift at your earliest convenience. It will take you to Bulwark Hall.",
+      "text_th": "เชิญท่านไปที่ Crow's Lift เมื่อท่านพร้อมได้เลยนะ มันจะพาท่านไปยัง Bulwark Hall",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Honor Guard",
+      "text_en": "Once there, pray speak with Zanthael. He will be pleased to show you in to the Admiral's command room on the Bridge.",
+      "text_th": "เมื่อไปถึงที่นั่นแล้ว รบกวนไปคุยกับ Zanthael ด้วยนะ เขาจะพาไปที่ห้องบัญชาการของท่านนายพลเรือบนสะพานเรือเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Zanthael",
+      "text_en": "Greetings, sir / madam , and welcome to our fair city. If you would permit me to examine the seal on the missive you carry...",
+      "text_th": "สวัสดีครับ/ค่ะ ท่าน และยินดีต้อนรับสู่เมืองที่สวยงามของเรา ข้าขออนุญาตตรวจสอบตราประทับบนจดหมายที่ท่านถือมาหน่อยจะได้ไหมครับ/คะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Zanthael",
+      "text_en": "Yes, everything seems to be in order. My apologies. We cannot afford to be complacent, you understand. Please, step this way.",
+      "text_th": "โอเค ทุกอย่างเรียบร้อยดีครับ/ค่ะ ต้องขออภัยด้วยนะครับ/คะ หวังว่าท่านจะเข้าใจนะว่าเราจะนิ่งนอนใจไม่ได้เลยน่ะ เชิญทางนี้เลยครับ/ค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Enter.",
+      "text_th": "เข้ามาสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "I did not expect the Gridanian envoy to be an adventurer. It speaks highly of your character that the Elder Seedseer would choose an outsider to represent her nation's interests.",
+      "text_th": "ฉันไม่ได้คาดคิดเลยนะว่าทูตของ Gridania จะเป็นนักผจญภัย การที่ท่าน Elder Seedseer เลือกคนนอกมาเป็นตัวแทนผลประโยชน์ของประเทศตัวเองแบบนี้ ก็เป็นเครื่องพิสูจน์ถึงความน่าเชื่อถือของคุณได้เป็นอย่างดีเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "This way.",
+      "text_th": "ทางนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "I bid you welcome.",
+      "text_th": "ฉันขอต้อนรับคุณนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "I am Merlwyb Bloefhiswyn, Admiral of Limsa Lominsa, and commander of the Maelstrom.",
+      "text_th": "ฉันชื่อ Merlwyb Bloefhiswyn นายพลเรือแห่ง Limsa Lominsa และผู้บัญชาการแห่ง Maelstrom",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Now, what news from the Black Shroud?",
+      "text_th": "ว่าแต่ มีข่าวอะไรจาก Black Shroud งั้นเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Before you begin, I would know your name.",
+      "text_th": "ก่อนที่คุณจะเริ่ม ฉันอยากรู้ชื่อของคุณก่อนน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Strange. I would readily have sworn that I knew you, but it seems I was mistaken.",
+      "text_th": "แปลกจัง ฉันมั่นใจเลยนะว่าฉันรู้จักคุณ แต่ดูเหมือนฉันจะจำผิดไปแฮะ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "I may not recall old friends' faces, but I surely remember my enemies'. Woe betide the Admiral who fails in that!",
+      "text_th": "ฉันอาจจะจำหน้าเพื่อนเก่าไม่ได้ แต่ฉันไม่มีทางลืมหน้าศัตรูของฉันหรอกนะ ความซวยจะมาเยือนนายพลเรือที่ลืมเรื่องแบบนั้นเอาง่ายๆ น่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Hm. A memorial service to honor the fallen.",
+      "text_th": "หืม พิธีรำลึกเพื่อเป็นเกียรติแก่ผู้ที่ล่วงลับงั้นเหรอ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Seven hells... Has it been five years?",
+      "text_th": "ให้ตายเถอะ... นี่มันผ่านไปห้าปีแล้วงั้นเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Five years since the Garlean Empire sought to wrest Eorzea from our grasp...",
+      "text_th": "ห้าปีแล้วตั้งแต่ที่จักรวรรดิ Garlean พยายามจะแย่งชิง Eorzea ไปจากมือของเรา...",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "It was in answer to the imperial threat that the city-states formed the Grand Companies, and forged the Eorzean Alliance anew. But Garlemald was not content to wager all on a simple contest of martial might. They had other plans—the Meteor project.",
+      "text_th": "เพื่อรับมือกับภัยคุกคามจากจักรวรรดิ บรรดาประเทศต่างๆ ก็เลยก่อตั้ง Grand Company ขึ้นมา และรื้อฟื้นกลุ่มพันธมิตร Eorzean Alliance ขึ้นมาอีกครั้ง แต่ Garlemald ก็ไม่ได้พอใจแค่การเดิมพันทุกอย่างด้วยการสู้รบหรอกนะ พวกมันมีแผนอื่นซ่อนอยู่—โปรเจกต์ Meteor น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Legatus Nael van Darnus—hells take him—intended to \"cleanse\" our realm by snatching the lesser moon, Dalamud, from the heavens and casting it down upon our heads. Desperate to prevent this lunatic scheme, we marched our forces to the Carteneau Flats and there met the VIIth Imperial Legion in battle.",
+      "text_th": "ท่าน legatus Nael van Darnus—ขอให้ตกนรกไปซะ—ตั้งใจจะ \"ชำระล้าง\" ดินแดนของเรา ด้วยการดึงเอาดวงจันทร์บริวาร Dalamud ลงมาจากฟากฟ้า แล้วทุ่มใส่หัวพวกเรา เพื่อจะหยุดยั้งแผนการบ้าบอคอแตกนี้ เราก็เลยยกทัพไปที่ทุ่ง Carteneau Flats และปะทะกับกองทหาร Imperial Legion ที่ 7 ที่นั่น",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Never have I seen a fight like the Battle of Carteneau—and I have seen full many.",
+      "text_th": "ฉันไม่เคยเห็นการต่อสู้ไหนที่ดุเดือดเท่าสมรภูมิ Carteneau มาก่อนเลย—ทั้งๆ ที่ฉันก็ผ่านสมรภูมิมานับไม่ถ้วนแล้วนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "But though we gave no quarter, spared not one onze of effort...we could not prevent what followed.",
+      "text_th": "แต่ถึงแม้เราจะสู้ยิบตา ทุ่มเทหมดหน้าตัก...เราก็ไม่อาจหยุดยั้งสิ่งที่เกิดขึ้นตามมาได้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "From inside the shell of Dalamud came a winged nightmare—a dragon the size of a bloody city. 'Twas the elder primal Bahamut, bent on making an eighth hell of Eorzea.",
+      "text_th": "จากข้างในเปลือกของ Dalamud มีฝันร้ายติดปีกโผล่ออกมา—มังกรขนาดมหึมาเท่าเมืองๆ นึงเลยล่ะ มันคือ elder primal ที่ชื่อ Bahamut ที่ตั้งใจจะเปลี่ยน Eorzea ให้กลายเป็นนรกขุมที่แปด",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "In the space of a breath, the legions of the Empire were set aflame, while our own armies fared little better. 'Twas as if the whole world was burning... Words cannot well describe the scene.",
+      "text_th": "เพียงแค่ชั่วพริบตา กองทัพของจักรวรรดิก็ถูกเปลวเพลิงกลืนกิน ในขณะที่กองทัพของเราก็ไม่ได้มีสภาพดีไปกว่ากันสักเท่าไหร่... มันเหมือนกับว่าทั้งโลกกำลังถูกเผาไหม้เลยล่ะ... คำพูดคงอธิบายภาพนั้นได้ไม่หมดหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "And yes...by some miracle, a few among us were spared.",
+      "text_th": "และใช่...ด้วยปาฏิหาริย์อะไรสักอย่าง มีพวกเราบางคนที่รอดชีวิตมาได้",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Even as I steeled myself for death, a blinding white light enveloped me, robbing me of my senses.",
+      "text_th": "ตอนที่ฉันทำใจยอมรับความตายแล้ว จู่ๆ ก็มีแสงสีขาวสว่างจ้ามาโอบล้อมฉันไว้ ทำให้ฉันหมดสติไป",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "When I regained them, the dragon was gone, and the still smoldering land was warped beyond all knowing.",
+      "text_th": "พอฉันได้สติกลับมา มังกรตัวนั้นก็หายไปแล้ว และผืนดินที่ยังคงคุกรุ่นไปด้วยควันไฟก็บิดเบี้ยวจนแทบจะจำไม่ได้เลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Were Archon Louisoix still with us, he would doubtless shed some light on these unfathomable happenings. Alas, he is not, and I fear we will want for his wisdom in the days to come.",
+      "text_th": "ถ้าท่าน Archon Louisoix ยังอยู่กับเรา เขาคงพอจะอธิบายเรื่องเหนือธรรมชาติพวกนี้ให้เราฟังได้บ้าง แต่น่าเสียดายที่เขาจากไปแล้ว และฉันก็เกรงว่าเราคงจะต้องการสติปัญญาของเขาอย่างมากในอนาคตอันใกล้นี้เลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "For while our nations struggle to recover from the devastation, the beastmen call forth their damned primals to torment us anew.",
+      "text_th": "เพราะในขณะที่ประเทศต่างๆ ของเรากำลังดิ้นรนเพื่อฟื้นฟูบ้านเมืองจากความเสียหาย พวกมนุษย์สัตว์กลับอัญเชิญ primal บ้าๆ พวกนั้นมาทรมานพวกเราซ้ำอีก",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Unless we put aside our differences and rebuild now , our foes will catch us unprepared.",
+      "text_th": "ถ้าเราไม่ยอมละทิ้งความบาดหมางแล้วมาช่วยกันสร้างบ้านเมืองขึ้นมาใหม่ ตอนนี้ เลยล่ะก็ ศัตรูของเราก็จะฉวยโอกาสโจมตีเราตอนที่เราไม่ทันตั้งตัวแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "And I speak not only of the beastmen. Do not imagine that the Empire has forsaken its claim on Eorzea. The imperials crowd our borders, waiting to strike.",
+      "text_th": "และฉันไม่ได้พูดถึงแค่พวกมนุษย์สัตว์หรอกนะ อย่าคิดนะว่าจักรวรรดิจะล้มเลิกความตั้งใจที่จะยึดครอง Eorzea ไปแล้ว พวกทหารจักรวรรดิยังคอยป้วนเปี้ยนอยู่ตามชายแดน รอจังหวะที่จะโจมตีพวกเราอยู่เสมอ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Damn it all, we need champions to replace those we lost...",
+      "text_th": "พับผ่าสิ เราต้องการวีรบุรุษมาแทนที่คนที่สูญเสียไปจริงๆ นะเนี่ย...",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "But such thoughts are worse than worthless. Time is short, and none will save us, save ourselves. It is the duty of every soul who survived the Calamity to work together for the good of Eorzea...and this memorial service may be the very thing to unite us.",
+      "text_th": "แต่คิดเรื่องพวกนั้นไปก็ไร้ประโยชน์ เวลาเหลือน้อยแล้ว และคงจะไม่มีใครมากอบกู้เราหรอก นอกจากพวกเรากันเอง มันเป็นหน้าที่ของผู้รอดชีวิตจากภัยพิบัติ Calamity ทุกคนที่ต้องร่วมมือกันเพื่อประโยชน์ของ Eorzea...และงานรำลึกนี้ก็อาจจะเป็นสิ่งที่เชื่อมโยงพวกเราให้เป็นหนึ่งเดียวกันได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Aye, Kan-E-Senna has the right of it. I accept her proposal.",
+      "text_th": "ใช่แล้วล่ะ Kan-E-Senna พูดถูก ฉันยอมรับข้อเสนอของเธอ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Your duty is done here, adventurer—I will see to it that the Elder Seedseer receives my reply.",
+      "text_th": "หน้าที่ของคุณที่นี่จบลงแล้วล่ะ นักผจญภัย—ฉันจะจัดการให้ท่าน Elder Seedseer ได้รับคำตอบจากฉันเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "You travel next to Ul'dah, yes?",
+      "text_th": "เป้าหมายต่อไปของคุณคือ Ul'dah ใช่ไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Pray give my regards to General Raubahn. Oh, and tell him the wolf has been sniffing around the stables. A private jest—and one in poor taste—but I would have you tell it all the same.",
+      "text_th": "ฝากทักทายท่านนายพล Raubahn ให้ฉันด้วยนะ อ้อ แล้วก็บอกเขาด้วยล่ะว่าหมาป่ามันเริ่มมาป้วนเปี้ยนแถวๆ คอกม้าแล้วน่ะ เป็นมุกตลกส่วนตัวน่ะ—แถมยังเป็นมุกที่แป้กซะด้วย—แต่ฉันก็อยากให้คุณไปบอกเขาตามนี้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Fare you well, Forename . May the Navigator guide you on your journey.",
+      "text_th": "ลาก่อนนะ [ชื่อ] ขอให้เทพีแห่งท้องทะเลคุ้มครองการเดินทางของคุณนะ",
+      "status": "AI"
+    },
+    {
+      "character": "L'nophlo",
+      "text_en": "Greetings, sir / madam . This is the counter for passengers traveling to Ul'dah.",
+      "text_th": "สวัสดีครับ/ค่ะ คุณผู้ชาย/คุณผู้หญิง ที่นี่คือเคาน์เตอร์สำหรับผู้โดยสารที่จะเดินทางไป Ul'dah ครับ/ค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "L'nophlo",
+      "text_en": "A pleasure to serve you again, sir / madam . Are you ready to board the airship to Ul'dah?",
+      "text_th": "ยินดีที่ได้ให้บริการท่านอีกครั้งครับ/ค่ะ ท่าน พร้อมที่จะขึ้นเรือเหาะไป Ul'dah หรือยังครับ/คะ?",
+      "status": "AI"
+    },
+    {
+      "character": "L'nophlo",
+      "text_en": "Very well, sir / madam . I'll be glad to assist you when you are.",
+      "text_th": "ได้เลยครับ/ค่ะ ท่าน เมื่อท่านพร้อม ข้าก็ยินดีที่จะให้บริการเสมอครับ/ค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Arrivals Attendant",
+      "text_en": "Ah, you must be the envoy from Gridania! Welcome to Ul'dah, sir / madam . The Flame General awaits your arrival.",
+      "text_th": "อา ท่านต้องเป็นทูตจาก Gridania แน่ๆ เลย! ยินดีต้อนรับสู่ Ul'dah ครับ/ค่ะ ท่านลอร์ด/ท่านหญิง ท่าน Flame General กำลังรอท่านอยู่เลยครับ/ค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Arrivals Attendant",
+      "text_en": "Please let me know if you require any assistance.",
+      "text_th": "หากท่านต้องการความช่วยเหลืออะไร ก็แจ้งให้ข้าทราบได้เลยนะครับ/คะ",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Honor Guard",
+      "text_en": "Welcome to Ul'dah, sir / madam . We have been expecting you.",
+      "text_th": "ยินดีต้อนรับสู่ Ul'dah ครับ/ค่ะ ท่าน พวกเรากำลังรอท่านอยู่เลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Honor Guard",
+      "text_en": "Flame General Raubahn will receive you in the Fragrant Chamber. Please take the lift down to the Hustings Strip and speak with Bartholomew at the Royal Promenade.",
+      "text_th": "ท่าน Flame General Raubahn จะคอยต้อนรับท่านที่ Fragrant Chamber น่ะ รบกวนท่านลงลิฟต์ไปที่ Hustings Strip แล้วไปคุยกับ Bartholomew ที่ Royal Promenade ด้วยนะครับ/คะ",
+      "status": "AI"
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "The Gridanian envoy, I presume? Would you be so good as to allow me to inspect the missive you bear, sir / madam ? My thanks.",
+      "text_th": "ทูตจาก Gridania ใช่ไหมครับ/คะ? ข้าขออนุญาตตรวจสอบจดหมายที่ท่านถือมาหน่อยจะได้ไหมครับ/คะ ท่าน? ขอบคุณมากครับ/ค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "Ah yes, the seal of the Elder Seedseer. Please proceed.",
+      "text_th": "อา ใช่แล้ว ตราประทับของท่าน Elder Seedseer เชิญท่านเข้าไปได้เลยครับ/ค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Ah, a guest from Gridania. I thought I smelled leaf mold.",
+      "text_th": "อา แขกจาก Gridania สินะ ข้าว่าแล้วเชียวว่าได้กลิ่นใบไม้เน่า",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I won't hold it against you. If you're half the warrior Kan-E says, 'tis a wonder you don't reek of dead Ixal.",
+      "text_th": "ข้าไม่ได้ว่าเจ้านะ ถ้าเจ้ามีฝีมือสักครึ่งนึงที่ Kan-E โม้ไว้ล่ะก็ ก็ไม่แปลกหรอกที่เจ้าจะไม่มีกลิ่นเหม็นเน่าของศพ Ixal ติดตัวมาน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Welcome to the sultanate of Ul'dah. I am Raubahn Aldynn, General of the Immortal Flames.",
+      "text_th": "ยินดีต้อนรับสู่รัฐสุลต่านแห่ง Ul'dah ข้าคือ Raubahn Aldynn นายพลแห่ง Immortal Flames",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "But you did not come all this way to trade formalities.",
+      "text_th": "แต่เจ้าคงไม่ได้มาไกลขนาดนี้เพื่อมาทำตามพิธีการหรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "There's something familiar about you... For a moment, I mistook you for an old brother-in-arms / sister-in-arms .",
+      "text_th": "เจ้าดูคุ้นๆ นะ... แวบแรกข้าเกือบจะนึกว่าเจ้าเป็นสหายร่วมรบเก่าของข้าซะอีก",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Like him / her , you have the eyes of a hero. Eyes that have looked upon the horrors of battle, unblinking.",
+      "text_th": "เจ้ามีแววตาของวีรบุรุษเหมือนกับเขา / เธอ เลย แววตาที่เคยจ้องมองความโหดร้ายของสงครามโดยไม่กะพริบตา",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I've no doubt Kan-E saw them, too. Mayhap there is hope for Gridania yet! Come, let us talk.",
+      "text_th": "ข้ามั่นใจเลยล่ะว่า Kan-E ก็คงจะเห็นมันเหมือนกัน บางที Gridania อาจจะยังมีความหวังอยู่ก็ได้! มาเถอะ มาคุยกันดีกว่า",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "...Carteneau. Aye, I remember bloody Carteneau.",
+      "text_th": "...Carteneau ใช่แล้ว ข้าจำสมรภูมิเลือด Carteneau ได้ดีเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Do you know what happened that day, adventurer? When we took the field against the Garleans?",
+      "text_th": "เจ้ารู้ไหมว่าเกิดอะไรขึ้นในวันนั้น นักผจญภัย? ตอนที่เรายกทัพไปสู้กับพวก Garlean น่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "So my counterparts have educated you.",
+      "text_th": "งั้นเพื่อนร่วมงานของข้าก็คงจะเล่าให้เจ้าฟังหมดแล้วสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Hm? Oh. Trust Merlwyb to make light of our wolf problem. Woman always did have a black sense of humor.",
+      "text_th": "หืม? อ้อ เชื่อ Merlwyb เลยที่เอาปัญหาเรื่องหมาป่าของเราไปล้อเล่น ยัยนั่นมักจะมีอารมณ์ขันแบบตลกร้ายอยู่เสมอแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Wolves are bloodthirsty beasts upon which one cannot turn one's back. 'Tis only a matter of time before they bite.",
+      "text_th": "พวกหมาป่ามันเป็นสัตว์กระหายเลือดที่เราไว้ใจไม่ได้เลยล่ะ มันแค่รอเวลาที่จะแว้งกัดเราเท่านั้นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "So it was with the Garleans, fifty years ago.",
+      "text_th": "มันก็เหมือนกับพวก Garlean เมื่อห้าสิบปีก่อนนั่นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "No sooner had they learned how to use magitek than they began seizing territory from their neighbors.",
+      "text_th": "พอพวกมันรู้วิธีใช้ magitek ปุ๊บ พวกมันก็เริ่มเข้ายึดดินแดนของประเทศเพื่อนบ้านปั๊บเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Led by then legatus Solus zos Galvus, they swiftly brought the other nations of Ilsabard to heel. And so the legatus became an emperor, and his republic an empire...",
+      "text_th": "ภายใต้การนำของท่าน legatus Solus zos Galvus ในตอนนั้น พวกเขาก็ปราบปรามประเทศอื่นๆ ใน Ilsabard จนราบคาบได้อย่างรวดเร็ว แล้วท่าน legatus ก็สถาปนาตัวเองเป็นจักรพรรดิ และเปลี่ยนสาธารณรัฐของตนให้กลายเป็นจักรวรรดิ...",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "An empire which then set its sights upon Eorzea.",
+      "text_th": "และจักรวรรดินั้นก็หันมาหมายตา Eorzea",
+      "status": "AI"
+    },
+    {
+      "character": "Eline Roaille",
+      "text_en": "But the conquering emperor is now an old man of four score winters. His health is failing, and he has no clear successor. Like as not, this is why the Garleans have been quiet of late.",
+      "text_th": "แต่องค์จักรพรรดิผู้พิชิตดินแดนในตอนนั้น ตอนนี้ก็กลายเป็นชายชราวัยแปดสิบปีแล้ว สุขภาพของพระองค์ก็ย่ำแย่ลงเรื่อยๆ แถมยังไม่มีผู้สืบทอดที่ชัดเจนอีกต่างหาก นี่คงจะเป็นเหตุผลที่พวก Garlean เงียบหายไปในช่วงนี้แหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "But the XIVth Imperial Legion is still entrenched within our borders.",
+      "text_th": "แต่กองทหาร Imperial Legion ที่ 14 ก็ยังคงตั้งฐานทัพอยู่ในดินแดนของเรานะ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "And their commander, Legatus Gaius van Baelsar, has long harbored ambitions of conquest.",
+      "text_th": "และท่าน Legatus Gaius van Baelsar ผู้บัญชาการของพวกเขาก็มีความทะเยอทะยานที่จะยึดครองดินแดนมาอย่างยาวนานแล้วด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Were he to strike now, I fear we would fall like so many others before us. And not only Ul'dah, but Gridania and Limsa Lominsa as well.",
+      "text_th": "ถ้าเขาบุกโจมตีตอนนี้ล่ะก็ ข้าเกรงว่าเราคงจะล่มสลายเหมือนกับประเทศอื่นๆ ที่โดนบุกก่อนหน้านี้แน่ๆ และไม่ใช่แค่ Ul'dah นะ แต่รวมถึง Gridania กับ Limsa Lominsa ด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "For the Calamity brought the lot of us to our knees, and we've yet to get up. We barely have the strength to stand against the beast tribes, never mind the primals they mean to summon.",
+      "text_th": "เพราะภัยพิบัติ Calamity ทำให้พวกเราทั้งหมดต้องคุกเข่าลง และเราก็ยังลุกขึ้นยืนไม่ได้เลยด้วยซ้ำ ลำพังแค่เรี่ยวแรงจะไปต่อกรกับพวกมนุษย์สัตว์ เราก็แทบจะไม่มีแล้ว ไม่ต้องพูดถึงพวก primal ที่พวกมันตั้งใจจะอัญเชิญมาเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "We are a realm divided, adventurer. An alliance in name only.",
+      "text_th": "พวกเราแตกแยกกันแล้วล่ะ นักผจญภัย เป็นแค่พันธมิตรแต่เพียงในนามเท่านั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "But the wolf cares not for the plight of its prey.",
+      "text_th": "แต่หมาป่ามันไม่สนหรอกนะว่าเหยื่อของมันจะตกที่นั่งลำบากแค่ไหน",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "The Garleans stir, and the Admiral would not let it go unnoticed.",
+      "text_th": "พวก Garlean เริ่มเคลื่อนไหวแล้ว และท่านนายพลเรือก็คงจะไม่ยอมให้เรื่องนี้ผ่านไปเฉยๆ แน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "All other concerns pale in comparison to the Empire—even the beast tribes and their bloody primals.",
+      "text_th": "เรื่องกังวลอื่นๆ ดูเล็กน้อยไปเลยล่ะเมื่อเทียบกับจักรวรรดิ─แม้แต่พวกมนุษย์สัตว์และพวก primal บ้าๆ ของพวกมันก็เถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "We must stand united once more, that much is clear. And if we're to do so, we must remember the cause which last brought us together. Kan-E will have her memorial.",
+      "text_th": "เราต้องกลับมารวมเป็นหนึ่งเดียวกันอีกครั้ง เรื่องนั้นชัดเจนที่สุดแล้ว และถ้าเราจะทำแบบนั้น เราก็ต้องหวนนึกถึงอุดมการณ์ที่เคยทำให้เรามารวมตัวกันได้สำเร็จในครั้งนั้น Kan-E จะได้จัดงานรำลึกของเธอแน่",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "We will honor the memory of the fallen. We will remind the people what their brothers and sisters fought and died for.",
+      "text_th": "เราจะรำลึกถึงผู้ที่จากไป เราจะเตือนสติผู้คนว่าพี่น้องของพวกเขาเคยต่อสู้และสละชีวิตเพื่ออะไร",
+      "status": "AI"
+    },
+    {
+      "character": "Eline Roaille",
+      "text_en": "Shall I inform the sultana and the Syndicate?",
+      "text_th": "ให้ข้าแจ้งท่านสุลต่านกับทางสภา Syndicate เลยไหมคะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I will speak with Her Grace myself.",
+      "text_th": "ข้าจะไปคุยกับพระองค์ด้วยตัวเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Eline Roaille",
+      "text_en": "Very good, sir.",
+      "text_th": "รับทราบค่ะท่าน",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "The Elder Seedseer will have my reply anon.",
+      "text_th": "ท่าน Elder Seedseer จะได้รับคำตอบจากข้าในไม่ช้านี้",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "My thanks to you, adventurer.",
+      "text_th": "ขอบใจเจ้ามากนะ นักผจญภัย",
+      "status": "AI"
+    }
+  ]
+}

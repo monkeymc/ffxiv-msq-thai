@@ -1,0 +1,938 @@
+{
+  "id": "lady-of-the-vortex",
+  "wiki_path": "/wiki/Lady_of_the_Vortex",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/6/67/Lady_of_the_Vortex_Image.png",
+  "patch": "2.0",
+  "title_en": "Lady of the Vortex",
+  "title_th": "สตรีแห่งพายุหมุน",
+  "title_status": "AI",
+  "level": "44",
+  "location": "New Gridania(X:11.3,Y:13.6)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text_en": "According to my tests, the device is now functioning in perfect harmony with the crystal─meaning we can leave whenever you're ready.",
+      "text_th": "จากการทดสอบของผม อุปกรณ์นี้ทำงานประสานกับคริสตัลได้อย่างสมบูรณ์แบบแล้วล่ะ─แปลว่าเราพร้อมจะออกเดินทางได้ทุกเมื่อที่คุณพร้อม",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "But you must understand: tests can only tell one so much.",
+      "text_th": "แต่คุณต้องเข้าใจอย่างนึงนะ: การทดสอบมันก็บอกเราได้แค่นิดหน่อยเท่านั้นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Until we approach the Howling Eye─until we attempt to breach the barrier itself...I cannot be sure that this will work.",
+      "text_th": "จนกว่าเราจะเข้าใกล้ Howling Eye─จนกว่าเราจะพยายามเจาะทะลุเกราะเข้าไป... ผมก็ยังไม่มั่นใจเต็มร้อยหรอกนะว่ามันจะได้ผลไหม",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I think it only fair to tell you that there is a small but statistically significant chance that the crystal could trigger a massive...",
+      "text_th": "ผมคิดว่ามันยุติธรรมดีนะที่จะบอกคุณว่ามันมีโอกาส─ถึงจะน้อยแต่ก็มีความสำคัญในทางสถิติ─ที่คริสตัลอาจจะทำให้เกิดการระเบิดครั้งใหญ่...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Hmmm... Mayhap it is better that we remain positive.",
+      "text_th": "อืม... บางทีเราน่าจะมองโลกในแง่ดีเข้าไว้ดีกว่านะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Forename , I want to thank you. For reuniting me with my ship, for trusting in me to develop this plan...for everything. You've helped me to rediscover a part of myself I'd forgotten. I am not the man I once was, and I do not know if I ever shall be...but I do know one thing: this feels right.",
+      "text_th": "[ชื่อ] ผมอยากจะขอบคุณคุณนะ สำหรับการพาผมกลับมาพบกับเรือของผมอีกครั้ง สำหรับความเชื่อมั่นที่คุณมีต่อผมในการพัฒนาแผนการนี้... สำหรับทุกอย่าง คุณช่วยให้ผมค้นพบส่วนหนึ่งของตัวเองที่ผมลืมมันไปแล้ว ข้าไม่ใช่คนเดิมอีกต่อไปแล้ว และข้าก็ไม่รู้ด้วยซ้ำว่าข้าจะได้กลับไปเป็นคนเดิมไหม... แต่มีสิ่งหนึ่งที่ข้ารู้สึกได้: นี่แหละคือสิ่งที่ถูกต้อง",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "...My apologies for the sudden outpouring of sentiment. I would have waited until after the mission, but...well, you understand.",
+      "text_th": "...ขอโทษทีนะที่จู่ๆ ก็พรั่งพรูความรู้สึกออกมาแบบนี้ ผมน่าจะรอให้จบภารกิจก่อน แต่... ก็นะ คุณคงเข้าใจแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "There...she's ready...",
+      "text_th": "เอาล่ะ... เธอพร้อมแล้ว...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, she stirs...",
+      "text_th": "อา นางกำลังขยับแล้ว...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To Coerthas! And an audience with the harpy queen Garuda!",
+      "text_th": "สู่ Coerthas! ไปเข้าเฝ้าราชินีฮาร์ปี Garuda กันเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Enterprise ...engage!",
+      "text_th": "Enterprise ...ออกเดินทางได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Phew...",
+      "text_th": "ฟู่...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Damn it!",
+      "text_th": "ให้ตายสิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I...I once flew in this airship. And I was not alone.",
+      "text_th": "ผม... ผมเคยบินบนเรือเหาะลำนี้มาก่อน และผมก็ไม่ได้อยู่คนเดียวด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "There were adventurers on board...adventurers like you.",
+      "text_th": "มีนักผจญภัยอยู่บนเรือด้วย... นักผจญภัยอย่างคุณนี่แหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Just how long have I worn these damn goggles?",
+      "text_th": "ผมใส่แว่นตาบ้านี่มานานแค่ไหนแล้วเนี่ย?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Ah, yes. I fancied myself a trendsetter in my younger days.",
+      "text_th": "อา ใช่แล้ว สมัยหนุ่มๆ ข้าเคยคิดว่าตัวเองเป็นผู้นำแฟชั่นล่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "The young prodigy, admired by all...exactly like his father.",
+      "text_th": "เด็กอัจฉริยะผู้เป็นที่ชื่นชมของทุกคน... เหมือนพ่อของเขาไม่มีผิด",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Born and raised in Garlemald...",
+      "text_th": "เกิดและโตที่ Garlemald...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "It was only natural that the precocious young student should become an engineer. Had his father not done the same?",
+      "text_th": "มันเป็นเรื่องธรรมดาอยู่แล้วที่นักเรียนผู้ปราดเปรื่องจะกลายเป็นวิศวกร พ่อของเขาก็ไม่ได้ทำแบบเดียวกันหรอกเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Father... When did we stop seeing eye to eye?",
+      "text_th": "ท่านพ่อ... ตั้งแต่เมื่อไหร่กันที่เราเริ่มมองไม่ตรงกัน?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "When did Meteor become your everything, and your loved ones cease to matter?",
+      "text_th": "ตั้งแต่เมื่อไหร่ที่ Meteor กลายเป็นทุกสิ่งทุกอย่างของท่าน และคนที่ท่านรักกลับไร้ความหมาย?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "You abandoned us all. But he was there for me, Father─there for me when you were not.",
+      "text_th": "ท่านทิ้งพวกเราไปทุกคน แต่ เขากลับ อยู่เคียงข้างข้า ท่านพ่อ─อยู่เคียงข้างข้าในตอนที่ท่านไม่อยู่",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Though he proved no better in the end. Gaius was just another man with an all-consuming obsession.",
+      "text_th": "ถึงแม้สุดท้ายแล้วเขาจะไม่ได้ดีไปกว่ากันเลยก็เถอะ Gaius ก็เป็นแค่ผู้ชายอีกคนที่มีความหมกมุ่นจนหน้ามืดตามัว",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "And so I ran─left the Empire behind and came to Eorzea, where I built the Ironworks.",
+      "text_th": "ข้าก็เลยหนีมา─ทิ้งจักรวรรดิไว้เบื้องหลังแล้วมาที่ Eorzea ที่ที่ข้าก่อตั้ง Ironworks ขึ้นมา",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Ah, yes! It was then that I first donned these goggles.",
+      "text_th": "อา ใช่! ตอนนั้นแหละที่ข้าสวมแว่นตานี่เป็นครั้งแรก",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Eorzea opened my eyes. It was home to so many manner of people, each with their own hopes and dreams. People worth saving. And so I fought beside them.",
+      "text_th": "Eorzea เปิดโลกให้ข้า มันเป็นบ้านของผู้คนหลากหลายรูปแบบ ที่แต่ละคนต่างก็มีความหวังและความฝันของตัวเอง ผู้คนที่คู่ควรแก่การปกป้อง ข้าก็เลยต่อสู้เคียงข้างพวกเขา",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I wanted to prove that my knowledge could serve a nobler purpose.",
+      "text_th": "ข้าอยากจะพิสูจน์ว่าความรู้ของข้าสามารถนำไปใช้เพื่อจุดประสงค์ที่สูงส่งกว่าได้",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I wanted to prove that there was another way...",
+      "text_th": "ข้าอยากจะพิสูจน์ว่ามันมีทางเลือกอื่น...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "And it all began that day, when I found my new home...",
+      "text_th": "และทุกอย่างมันเริ่มต้นขึ้นในวันนั้น วันที่ข้าได้พบกับบ้านหลังใหม่...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I had forgotten how wonderful it was. The wind in your hair, the endless sky...",
+      "text_th": "ข้าลืมไปแล้วว่ามันวิเศษแค่ไหน สายลมที่พัดผ่านเส้นผม ท้องฟ้าที่กว้างใหญ่ไพศาล...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "That light─it was you, wasn't it?",
+      "text_th": "แสงสว่างนั่น─คือคุณใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "It's surprising how few people know this, but all pureblood Garleans have a third eye.",
+      "text_th": "น่าแปลกใจนะที่มีคนรู้เรื่องนี้น้อยมาก แต่ชาว Garlean สายเลือดแท้ทุกคนมีดวงตาที่สามนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Perhaps mine helped me recognize you─or perhaps it was just a lucky guess.",
+      "text_th": "บางทีตาของข้าอาจจะช่วยให้ข้าจำเจ้าได้─หรือบางทีข้าอาจจะแค่เดาถูกก็ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "The Enterprise was made for this! To carry Eorzea's protectors into battle!",
+      "text_th": "Enterprise ถูกสร้างมาเพื่องานนี้แหละ! เพื่อพาผู้ปกป้องแห่ง Eorzea เข้าสู่สมรภูมิรบ!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I am proud to be able to call her my own.",
+      "text_th": "ข้าภูมิใจจริงๆ ที่สามารถเรียกเธอว่าเป็นเรือของข้าได้",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Cid─what exactly do you remember?",
+      "text_th": "Cid─คุณจำอะไรได้บ้างกันแน่?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Alphinaud, my boy─sorry to have been such a burden.",
+      "text_th": "Alphinaud ลูกรัก─ขอโทษทีนะที่ต้องกลายเป็นภาระให้",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I remember everything...",
+      "text_th": "ข้าจำได้หมดทุกอย่างแล้ว...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "My name, my people, and my purpose. Everything.",
+      "text_th": "ชื่อของข้า ชนชาติของข้า และจุดประสงค์ของข้า ทุกอย่างเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Come! It would be rude to keep Garuda waiting!",
+      "text_th": "ไปกันเถอะ! มันคงเสียมารยาทนะถ้าปล่อยให้ Garuda รอนาน!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "It took a while for the memory to return, but I remember you.",
+      "text_th": "ต้องใช้เวลาสักพักกว่าความทรงจำจะกลับมา แต่ข้าจำเจ้าได้แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "The floating isle, van Darnus... We ended it, that day─or so we thought.",
+      "text_th": "เกาะลอยฟ้านั่น van Darnus... เราจบเรื่องมันไปแล้วในวันนั้น─หรืออย่างน้อยเราก็คิดแบบนั้นล่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Listen─let's keep this between the two of us, for the time being.",
+      "text_th": "ฟังนะ─ขอให้เรื่องนี้รู้กันแค่เราสองคนไปก่อนนะ ในตอนนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "If word got out that one of the Warriors of Light had returned, the eyes of the world would soon be upon us─our enemies' included. And that's the kind of attention we could well do without.",
+      "text_th": "ถ้าข่าวลือแพร่ออกไปว่าหนึ่งในนักรบแห่งแสงกลับมาแล้ว สายตาทั่วโลกก็จะจับจ้องมาที่เราในไม่ช้า─รวมถึงศัตรูของเราด้วย และนั่นแหละคือความสนใจที่เราไม่ต้องการเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "What, isn't it enough that I know the truth?",
+      "text_th": "ทำไม แค่ข้ารู้ความจริงมันยังไม่พออีกรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Don't worry. A man / woman of your talents won't go unnoticed for long. Someday, they will remember you─and you'll never know another moment's peace!",
+      "text_th": "ไม่ต้องห่วงหรอก คนเก่งๆ อย่างเจ้าน่ะไม่มีทางรอดพ้นสายตาคนอื่นไปได้นานหรอก สักวันหนึ่งพวกเขาจะจำเจ้าได้─แล้วเจ้าก็จะไม่มีเวลาสงบสุขอีกต่อไปเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "There, up ahead! Ready, old friend?",
+      "text_th": "นั่นไง ข้างหน้านั่น! พร้อมไหม เพื่อนเก่า?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Hah! Some things never change! We're going in!",
+      "text_th": "ฮ่า! บางอย่างก็ไม่เคยเปลี่ยนไปเลยนะ! เราจะเข้าไปล่ะนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "All our efforts...all our travails...all of it was for this.",
+      "text_th": "ความพยายามทั้งหมดของเรา... ความยากลำบากทั้งหมดของเรา... ทั้งหมดนี้ก็เพื่อสิ่งนี้แหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Make ready, Forename , for the end is nigh─be it hers or our own.",
+      "text_th": "เตรียมตัวให้พร้อมนะ [ชื่อ] เพราะจุดจบใกล้เข้ามาแล้ว─ไม่ว่าจะเป็นของนางหรือของเราก็ตาม",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Beyond those gates awaits our foe. Are you prepared to meet with her?",
+      "text_th": "ศัตรูของเรารออยู่เบื้องหลังประตูนั่นแล้ว คุณพร้อมที่จะเผชิญหน้ากับนางหรือยัง?",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Who dares intrude upon my sanctuary!?",
+      "text_th": "ใครบังอาจมาบุกรุกสถานที่ศักดิ์สิทธิ์ของข้า!?",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Your insolence shall not go unpunished, landwalkers!",
+      "text_th": "ความอวดดีของพวกแกจะต้องไม่ลอยนวลไปได้หรอกนะ ไอ้พวกเดินดิน!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Twelve preserve...she's...she's huge !",
+      "text_th": "พระเจ้าทั้งสิบสองช่วย... นาง... นางตัวใหญ่มาก !",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "As I live and breathe...",
+      "text_th": "ให้ตายสิ...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Over there─look.",
+      "text_th": "ตรงนั้น─ดูสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Amalj'aa and kobold prisoners. But why would the Ixal bring them here...?",
+      "text_th": "เชลยชาว Amalj'aa และ kobold แต่ทำไมพวก Ixal ถึงพาพวกมันมาที่นี่ล่ะ...?",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Heehee HAHA hahaha HEEHEE haha HEEEEEE!!!",
+      "text_th": "ฮี่ฮี่ ฮ่าฮ่า ฮ่าฮ่าฮ่า ฮี่ฮี่ ฮ่าฮ่า ฮี่ฮี่ฮี่ฮี่ฮี่!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Wherefore come you hither, foolish mortals!?",
+      "text_th": "พวกเจ้ามาที่นี่ทำไมกัน ไอ้พวกมนุษย์หน้าโง่!?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Garuda! We are come to put an end to your reign of terror!",
+      "text_th": "Garuda! เรามาที่นี่เพื่อหยุดยั้งยุคแห่งความหวาดกลัวของเจ้าน่ะสิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Hear you this blasphemy, my children? These landwalkers would bring me low!",
+      "text_th": "ได้ยินคำลบหลู่พวกนี้ไหม ลูกๆ ของข้า? ไอ้พวกเดินดินพวกนี้คิดจะโค่นข้าลงรึ!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "You who are bound to crawl upon the earth should revere me─FOR I AM THE WIND!",
+      "text_th": "พวกเจ้าที่เกิดมาเพื่อคลานอยู่บนพื้นดินควรจะเคารพเทิดทูนข้า─เพราะข้าคือสายลม!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Did we not take to the skies, and slip your defenses!? We are bound by nothing , Garuda!",
+      "text_th": "เราไม่ได้เหินฟ้ามาแล้วรึไง แถมยังทะลวงฝ่าด่านป้องกันของเจ้ามาได้ด้วย!? เราไม่ผูกมัดกับอะไรทั้งนั้น แหละ Garuda!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "You think your playthings give you strength?",
+      "text_th": "พวกแกคิดว่าของเล่นพวกนั้นจะมอบความแข็งแกร่งให้พวกแกได้รึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "They will not help you here, landwalker. This is my realm, where none can challenge my supremacy! Struggle though you may─I shall slake the roots with your blood, and festoon the canopy with your ENTRAILS! HAHAHAHAHAAA!",
+      "text_th": "มันช่วยอะไรแกที่นี่ไม่ได้หรอก ไอ้พวกเดินดิน ที่นี่คืออาณาจักรของข้า ที่ที่ไม่มีใครสามารถท้าทายความยิ่งใหญ่ของข้าได้! ดิ้นรนไปเถอะ─ข้าจะใช้เลือดของพวกแกหล่อเลี้ยงรากไม้ และประดับประดายอดไม้ด้วยเครื่องในของพวกแก! ฮ่าฮ่าฮ่าฮ่าฮ่าาา!",
+      "status": "AI"
+    },
+    {
+      "character": "Ixali Chieftain",
+      "text_en": "Squaaawk! Slay the unfeathered ones, we shall! As an offering to Garuda, they will serve!",
+      "text_th": "กว้าก! ฆ่าพวกมันให้หมดเลย ไอ้พวกไม่มีขน! พวกมันจะเป็นเครื่องสังเวยชั้นดีให้ท่าน Garuda!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Leave the Ixal to us, Forename ! We will keep them distracted while you deal with her!",
+      "text_th": "ปล่อยพวก Ixal ให้เป็นหน้าที่ของเราเอง [ชื่อ] ! เราจะดึงความสนใจพวกมันไว้ระหว่างที่คุณจัดการกับนาง!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Do not fail, Forename ! Remember: you fight for the Scions! For Eorzea!",
+      "text_th": "อย่าพลาดนะ [ชื่อ] ! จำไว้: คุณสู้เพื่อพวก Scions! เพื่อ Eorzea!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "This worm would die by mine own hand! Come, then...I shall grant you that which you seek!",
+      "text_th": "หนอนแมลงตัวนี้จะต้องตายด้วยน้ำมือของข้าเอง! เข้ามาเลย... ข้าจะมอบสิ่งที่เจ้าปรารถนาให้เอง!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Heehee HAHA hahaha HEEHEE haha HEEEEEE!!!",
+      "text_th": "ฮี่ฮี่ ฮ่าฮ่า ฮ่าฮ่าฮ่า ฮี่ฮี่ ฮ่าฮ่า ฮี่ฮี่ฮี่ฮี่ฮี่!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "Together, we can weather this storm!",
+      "text_th": "ด้วยความร่วมมือของเรา เราจะฝ่าพายุนี้ไปได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Thaumaturge",
+      "text_en": "Quickly─take cover!",
+      "text_th": "เร็วเข้า─หาที่หลบเร็ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Soon you will see the depths of your folly, mortals!",
+      "text_th": "เดี๋ยวพวกแกก็จะได้เห็นความโง่เขลาของตัวเองแล้ว ไอ้พวกมนุษย์!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "THE RECKONING COMES!!!",
+      "text_th": "การชำระแค้นมาถึงแล้ว!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "There is no escape! No hope! NONE!!!",
+      "text_th": "ไม่มีทางหนีรอด! ไม่มีความหวัง! ไม่มีเลย!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "My power... No...",
+      "text_th": "พลังของข้า... ไม่...",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "No... Nooo! NO! NO!!!",
+      "text_th": "ไม่... ไม่นะ! ไม่! ไม่!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "What!? How in the hells─!?",
+      "text_th": "อะไรนะ!? นรกทั้งเจ็ดเถอะ นางรอดมาได้ไง─!?",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "HAHAHAHAHAAA! This...is...MY REALM! You have no hope here! None! NONNNE!!!",
+      "text_th": "ฮ่าฮ่าฮ่าฮ่าฮ่าาา! นี่... คือ... อาณาจักรของข้า! พวกแกไม่มีความหวังที่นี่หรอก! ไม่มีเลย! ไม่มีทางงง!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Did you truly believe you could defy a god, landwalkers!?",
+      "text_th": "พวกแกคิดจริงๆ หรือว่าพวกแกจะท้าทายพระเจ้าได้ ไอ้พวกเดินดิน!?",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "My power is limitless! My children legion!",
+      "text_th": "พลังของข้านั้นไร้ขีดจำกัด! ลูกๆ ของข้ามีมากมายดั่งกองทัพ!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "And they have rendered unto me a wealth of crystals.",
+      "text_th": "และพวกเขาก็มอบคริสตัลมากมายมหาศาลให้กับข้า",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Their gifts sustain me, their faith empowers me!",
+      "text_th": "ของขวัญของพวกเขาหล่อเลี้ยงข้า ความศรัทธาของพวกเขามอบพลังให้ข้า!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "None save my children will escape the reckoning, mortals! And those who would use my crystals to waken the rest shall realize the folly of their faith!",
+      "text_th": "ไม่มีใครนอกจากลูกๆ ของข้าที่จะรอดพ้นจากการชำระแค้นไปได้ ไอ้พวกมนุษย์! และใครก็ตามที่คิดจะใช้คริสตัลของข้าเพื่อปลุกเทพอสูรตัวอื่นๆ จะต้องได้รู้ซึ้งถึงความโง่เขลาในความศรัทธาของพวกมัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Then all shall worship none but me! The one true god! HEE HEE HEE HEE HEEEEEE!!!",
+      "text_th": "แล้วทุกคนจะต้องเคารพเทิดทูนเพียงแต่ข้าผู้เดียว! พระเจ้าที่แท้จริงเพียงพระองค์เดียว! ฮี่ ฮี่ ฮี่ ฮี่ ฮี่ฮี่ฮี่ฮี่ฮี่!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Of course! Worship ! So long as the Ixal keep praying, she will never fall!",
+      "text_th": "...เข้าใจล่ะ! การเคารพเทิดทูน ! ตราบใดที่พวก Ixal ยังสวดมนต์อ้อนวอนอยู่ นางก็ไม่มีวันล้มลงหรอก!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Then let's stop them!",
+      "text_th": "งั้นก็ไปหยุดพวกมันกันเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ugh!",
+      "text_th": "อั่ก!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "HAHA hahaha HEEHEE heehee HAHAHA!!! No harm will come to you, my children!",
+      "text_th": "ฮ่าฮ่า ฮ่าฮ่าฮ่า ฮี่ฮี่ ฮี่ฮี่ ฮ่าฮ่าฮ่า!!! จะไม่มีใครทำอันตรายพวกเจ้าได้หรอก ลูกๆ ของข้า!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "This is only the beginning, landwalkers! All who oppose me shall suffer for their defiance!",
+      "text_th": "นี่มันเป็นแค่จุดเริ่มต้นเท่านั้น ไอ้พวกเดินดิน! ใครก็ตามที่ขัดขวางข้าจะต้องทนทุกข์ทรมานกับความอวดดีของพวกมัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Soon, the worms of the forest shall receive my judgment! The desert vermin next─their walls of stone will not shield them from the tempest!",
+      "text_th": "ในไม่ช้า หนอนแมลงแห่งผืนป่าจะได้รับการพิพากษาจากข้า! ถัดไปก็พวกหนูสกปรกในทะเลทราย─กำแพงหินของพวกมันไม่สามารถปกป้องพวกมันจากพายุหมุนได้หรอก!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "And then will I take vengeance on the sea lice! Their wooden boats cannot outrun the wind!",
+      "text_th": "และหลังจากนั้น ข้าก็จะไปชำระแค้นพวกเห็บทะเล! เรือไม้โง่ๆ ของพวกมันวิ่งหนีสายลมไม่พ้นหรอก!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Tremble, mortals, for I shall visit you all in time! And all shall be mine! ALL MIIINE!!!",
+      "text_th": "ตัวสั่นด้วยความกลัวซะเถอะ ไอ้พวกมนุษย์ เพราะข้าจะไปเยือนพวกแกทุกคนในไม่ช้านี้! และทุกอย่างจะต้องตกเป็นของข้า! เป็นของข้าทั้งหมด!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "You, landwalker─you who dared to raise your hand against me─you shall be the first to pay for your sins! Not with your death─but with your LIFE!",
+      "text_th": "เจ้า ไอ้พวกเดินดิน─เจ้าที่บังอาจยกมือขึ้นต่อต้านข้า─เจ้าจะเป็นคนแรกที่ต้องชดใช้บาปกรรมของเจ้า! ไม่ใช่ด้วยความตาย─แต่ด้วย ชีวิต ของเจ้า!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "You will serve me, landwalker...to your last breath!",
+      "text_th": "เจ้าจะต้องรับใช้ข้า ไอ้พวกเดินดิน... จนกว่าจะสิ้นลมหายใจ!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "No, NO!!! I claimed you! You should be MINE!",
+      "text_th": "ไม่ ไม่นะ!!! ข้าเลือกเจ้าแล้วนะ! เจ้าควรจะเป็นของข้าสิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "What...what are you? What have you done to me!?",
+      "text_th": "อะไร... เจ้าเป็นตัวอะไรกันเนี่ย? เจ้าทำอะไรกับข้า!?",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "No mortal should possess such power! This...this is impossible!",
+      "text_th": "มนุษย์หน้าไหนก็ไม่ควรจะมีพลังมากมายขนาดนี้! นี่... นี่มันเป็นไปไม่ได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Why do you not tremble at my might? Why do you not beg for mercy!? Why do you not DIE!?",
+      "text_th": "ทำไมเจ้าถึงไม่ตัวสั่นด้วยความกลัวต่อพลังของข้าล่ะ? ทำไมเจ้าถึงไม่ร้องขอความเมตตา!? ทำไมเจ้าถึงไม่ตายซะ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We've done it!",
+      "text_th": "เราทำสำเร็จแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Ixal A",
+      "text_en": "Squaaak! Impossible, it is!",
+      "text_th": "กว้าก! เป็นไปไม่ได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Ixal B",
+      "text_en": "Garuda, kill you all!",
+      "text_th": "Garuda ฆ่าพวกแกให้หมดเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Is that all!?",
+      "text_th": "แค่นี้เองรึ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "O Lady of the Vortex! O mighty Garuda!",
+      "text_th": "โอ้ สตรีแห่งพายุหมุน! โอ้ Garuda ผู้เกรียงไกร!",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Of all primals, the most terrible. I say again...IS─THAT─ALL!?",
+      "text_th": "ในบรรดาเทพอสูรทั้งหมด เจ้าคือผู้ที่น่าสะพรึงกลัวที่สุด ข้าขอถามอีกครั้ง... แค่─นี้─เอง─รึ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Gaius!?",
+      "text_th": "Gaius!?",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Ah, Cid, my boy. You look well─for one who has forsaken kin and country. I wonder, what else you will forsake before the day is done.",
+      "text_th": "อา Cid ลูกรักของข้า เจ้าดูสบายดีนะ─สำหรับคนที่ทอดทิ้งทั้งญาติพี่น้องและประเทศชาติ ข้าสงสัยจริงๆ ว่าเจ้าจะทอดทิ้งอะไรอีกบ้างก่อนที่วันนี้จะจบลง",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "What!?",
+      "text_th": "อะไรนะ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "What exactly did you hope to accomplish here this day?",
+      "text_th": "เจ้าหวังจะทำอะไรให้สำเร็จที่นี่ในวันนี้งั้นรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I...",
+      "text_th": "ข้า...",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Well, I shall accomplish far more!",
+      "text_th": "แหม ข้าจะทำให้สำเร็จมากกว่าเจ้าเยอะเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "...Is that all? IS THAT ALL!?",
+      "text_th": "...แค่นี้เองรึ? แค่นี้เองรึ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Insolent mortal! I shall make you suffer!",
+      "text_th": "ไอ้มนุษย์อวดดี! ข้าจะทำให้เจ้าทนทรมาน!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "That foul stench... I see now... She has touched you!",
+      "text_th": "กลิ่นเหม็นเน่านั่น... ข้าเข้าใจแล้ว... นางแตะต้องตัวเจ้าแล้วสินะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Very well...",
+      "text_th": "เอาล่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Seven hells, does she still mean to fight!?",
+      "text_th": "นรกทั้งเจ็ดเถอะ นางยังคิดจะสู้อีกรึ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Amalj'aa",
+      "text_en": "Lord of the Inferno! Almighty Ifrit! Grant us succor in our hour of need!",
+      "text_th": "ลอร์ดแห่งเพลิงนรก! ท่าน Ifrit ผู้เกรียงไกร! โปรดประทานความช่วยเหลือแก่พวกเราในยามคับขันนี้ด้วยเถิด!",
+      "status": "AI"
+    },
+    {
+      "character": "Kobolds",
+      "text_en": "Save us, Titan, Lord of Crags! Ah, it hurts us so, the pain, the pain...",
+      "text_th": "ช่วยพวกเราด้วยเถิด Titan ลอร์ดแห่งผืนหิน! อา มันเจ็บปวดเหลือเกิน ความเจ็บปวดนี้ ความเจ็บปวดนี้...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What is she─ Twelve preserve, she cannot mean to─",
+      "text_th": "นางกำลังจะทำอะไร─ พระเจ้าทั้งสิบสองช่วย นางคงไม่ได้ตั้งใจจะ─",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "No... No, this is all wrong...",
+      "text_th": "ไม่... ไม่นะ นี่มันผิดปกติไปหมดแล้ว...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Stop gawping, boy! We must run !",
+      "text_th": "เลิกยืนอ้าปากค้างได้แล้ว ไอ้หนู! เราต้องหนี แล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "Surrender yourselves unto me... I would feast upon your aether. NONE SHALL STAND AGAINST THE WIND!",
+      "text_th": "ยอมจำนนซะเถอะ... ข้าอยากจะลิ้มรสพลังเวทของพวกเจ้า ไม่มีใครกล้ายืนหยัดต่อต้านสายลมได้หรอก!",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "BEAR WITNESS TO THE GLORY OF THE EMPIRE!",
+      "text_th": "จงเป็นพยานถึงความรุ่งโรจน์ของจักรวรรดิซะเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "It is you who will suffer, Garuda!",
+      "text_th": "เจ้าต่างหากที่จะต้องทนทรมาน Garuda!",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Ancient Allag had ways of dealing with your kind. Now, look on their ultimate weapon, eikon, and despair!",
+      "text_th": "Allag ในอดีตกาลมีวิธีจัดการกับเผ่าพันธุ์ของเจ้า จงดูสุดยอดอาวุธของพวกเขาซะ ไอ้พวก eikon แล้วก็จงสิ้นหวังซะเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Garuda",
+      "text_en": "No... Nooo! NOOO!",
+      "text_th": "ไม่... ไม่นะ! ไม่นะะะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Magnificent! It exceeds all expectation!",
+      "text_th": "ยอดเยี่ยมมาก! เหนือความคาดหมายจริงๆ !",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "With each primal it consumes, it grows more powerful. A marvel, is it not?",
+      "text_th": "ยิ่งมันกลืนกินเทพอสูรเข้าไปมากเท่าไหร่ มันก็จะยิ่งแข็งแกร่งขึ้นเท่านั้น น่าอัศจรรย์ใจไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Such is the fate of those who oppose the Empire!",
+      "text_th": "นี่แหละคือชะตากรรมของคนที่ต่อต้านจักรวรรดิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "There will be no Warriors of Light to save you this time.",
+      "text_th": "คราวนี้จะไม่มีนักรบแห่งแสงมาช่วยพวกเจ้าหรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "If your leaders are as wise as they are reported, they will surrender.",
+      "text_th": "ถ้าผู้นำของพวกเจ้าฉลาดอย่างที่เขาลือกัน พวกเขาก็ควรจะยอมแพ้ซะ",
+      "status": "AI"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Your skills are impressive, but they will not be enough.",
+      "text_th": "ทักษะของเจ้าน่าประทับใจมากนะ แต่มันก็ยังไม่พอหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Twelve have mercy! What chance have we against such an ungodly creation!?",
+      "text_th": "พระเจ้าทั้งสิบสองโปรดเมตตาเถิด! เราจะเอาชนะสิ่งมีชีวิตประหลาดนั่นได้ยังไงกัน!?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And who was that armored devil!?",
+      "text_th": "แล้วไอ้ปีศาจสวมเกราะนั่นมันเป็นใครกัน!?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "That was Gaius van Baelsar, legatus of the XIVth Imperial Legion, and supreme commander of the Garlean invasion force in Eorzea.",
+      "text_th": "นั่นคือ Gaius van Baelsar แม่ทัพของกองพลที่สิบสี่แห่งจักรวรรดิ และผู้บัญชาการสูงสุดของกองกำลังบุกเบิก Garlean ใน Eorzea",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Of course, the Black Wolf─how could I not realize? Grandfather mentions him in his journal!",
+      "text_th": "ใช่แล้ว Black Wolf─ทำไมข้าถึงนึกไม่ออกนะ? ท่านปู่เคยพูดถึงเขาไว้ในบันทึกนี่นา!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "I was never so naive as to think the man would abandon his ambitions, but these developments are beyond my worst expectations...",
+      "text_th": "ข้าไม่เคยไร้เดียงสาขนาดจะคิดว่าหมอนั่นจะละทิ้งความทะเยอทะยานของตัวเองไปหรอกนะ แต่พัฒนาการของเรื่องราวมันเลวร้ายเกินกว่าที่ข้าจะคาดคิดไว้ซะอีก...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "What have you been doing these past five years? How could something of this magnitude have escaped the Alliance's attention?",
+      "text_th": "ตลอดห้าปีที่ผ่านมาพวกเจ้ามัวทำอะไรกันอยู่เนี่ย? เรื่องใหญ่ขนาดนี้มันรอดพ้นสายตาของฝ่ายพันธมิตรไปได้ยังไง?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We heard no whispers, saw no signs. In the wake of the Calamity, the Empire seized land and built outposts, but that was the extent of their aggression",
+      "text_th": "เราไม่ได้ยินข่าวลือ ไม่เห็นสัญญาณเตือนอะไรเลย ภายหลังจาก Calamity จักรวรรดิก็แค่เข้ายึดครองดินแดนและสร้างด่านหน้าที่มั่น แต่นั่นก็เป็นเพียงความพยายามในการรุกรานทั้งหมดของพวกเขาแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Damn it, Gaius, where in the seven hells did you find that thing?",
+      "text_th": "บ้าเอ๊ย Gaius เจ้าไปเอาไอ้ตัวประหลาดนั่นมาจากไหนกันนะในนรกทั้งเจ็ดเนี่ย?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It has been a day of unexpected developments, but the fact remains: Garuda is no longer a threat.",
+      "text_th": "วันนี้มีเรื่องที่ไม่คาดคิดเกิดขึ้นมากมายเลยล่ะ แต่ความจริงก็คือ: Garuda ไม่ใช่ภัยคุกคามอีกต่อไปแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While I take no comfort in the manner of her downfall, it does mean that we may safely put the matter of the primals to one side─for the time being, at least.",
+      "text_th": "ถึงแม้ข้าจะไม่ค่อยสบายใจกับจุดจบของนางก็เถอะ แต่มันก็หมายความว่าเราสามารถพักเรื่องเทพอสูรไว้ก่อนได้─อย่างน้อยก็ในตอนนี้น่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Which just leaves the matter of Gaius's new toy.",
+      "text_th": "ซึ่งก็แปลว่าเราต้องมาจัดการกับของเล่นชิ้นใหม่ของ Gaius สินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. That weapon poses the greatest threat to Eorzea. It must be destroyed.",
+      "text_th": "ใช่แล้ว อาวุธนั่นคือภัยคุกคามที่ยิ่งใหญ่ที่สุดต่อ Eorzea เราต้องทำลายมันทิ้งซะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But first, we must needs find out all we can.",
+      "text_th": "แต่ก่อนอื่น เราจำเป็นต้องหาข้อมูลให้ได้มากที่สุด",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let us make for Vesper Bay. We shall rebuild the Scions.",
+      "text_th": "ไปที่ Vesper Bay กันเถอะ เราจะฟื้นฟูกลุ่ม Scions ขึ้นมาใหม่",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "All is not yet lost, my friend─for we bear the light, and shall surely lead our people from the darkness.",
+      "text_th": "ทุกอย่างยังไม่สูญเปล่าหรอกนะ สหายเอ๋ย─เพราะเราคือผู้นำพาแสงสว่าง และเราจะต้องนำพาผู้คนของเราออกจากความมืดมิดให้ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, that was an experience I would rather not have again.",
+      "text_th": "แหม นั่นเป็นประสบการณ์ที่ข้าไม่อยากจะเจออีกเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Something has been troubling me, Forename . Shortly before the Black Wolf took center stage, when Garuda attempted to claim you as her own, I could have sworn I saw...",
+      "text_th": "มีเรื่องนึงที่กวนใจข้าอยู่นะ [ชื่อ] ก่อนที่ไอ้ Black Wolf จะมาแย่งซีน ตอนที่ Garuda พยายามจะครอบงำเจ้าน่ะ ข้าสาบานได้เลยว่าข้าเห็น...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, but I'm sure I was mistaken. In times of great stress, the evidence of the eye is apt to be misread by even the most inquiring mind. Forget I mentioned it.",
+      "text_th": "อา แต่ข้าคงตาฝาดไปเองล่ะ ในช่วงเวลาที่ตึงเครียดแบบนี้ สายตาก็อาจจะหลอกเราได้ แม้แต่กับคนที่ช่างสังเกตที่สุดก็เถอะ ลืมเรื่องที่ข้าพูดไปซะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Returning to the subject of our earlier discussion, we may consider the matter of the primals closed until further notice. No beast tribe will dare summon their god so long as that weapon exists.",
+      "text_th": "กลับมาที่เรื่องที่เราคุยกันก่อนหน้านี้นะ เราสามารถถือว่าปัญหาเรื่องเทพอสูรจบลงแล้วจนกว่าจะมีเรื่องใหม่เข้ามา ไม่มีชนเผ่าครึ่งสัตว์หน้าไหนกล้าอัญเชิญพระเจ้าของพวกเขาออกมาหรอก ตราบใดที่อาวุธนั่นยังอยู่",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Truly, a more effective deterrent I could not imagine. It almost seems a shame to plot its destruction...",
+      "text_th": "พูดจริงๆ นะ ข้าคิดหาวิธีข่มขวัญที่ดีกว่านี้ไม่ออกเลยล่ะ มันเกือบจะน่าเสียดายเลยนะที่เราต้องมาวางแผนทำลายมันทิ้ง...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "That weapon didn't destroy those primals—it devoured them. Gods only know what else it can do.",
+      "text_th": "อาวุธนั่นไม่ได้ทำลายเทพอสูรพวกนั้นนะ—มันกลืนกินพวกมันต่างหาก พระเจ้ารู้ว่ามันทำอะไรได้อีกบ้าง",
+      "status": "AI"
+    }
+  ]
+}

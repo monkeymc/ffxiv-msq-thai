@@ -1,0 +1,74 @@
+{
+  "id": "eggs-over-queasy",
+  "wiki_path": "/wiki/Eggs_over_Queasy",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Eggs over Queasy",
+  "title_th": "ภารกิจไข่ชิโก้",
+  "title_status": "AI",
+  "level": "7",
+  "location": "Central Shroud(X:23.4,Y:19.9)",
+  "npc_start": "Galfrid",
+  "dialogues": [
+    {
+      "character": "Galfrid",
+      "text_en": "Forename , injuries to several of my men have left me shorthanded, and I require a capable sort to complete their unfinished duty.",
+      "text_th": "[ชื่อ] ทหารของฉันบาดเจ็บไปหลายคนจนตอนนี้คนไม่พอแล้ว ฉันต้องการคนเก่งๆ มาช่วยทำงานที่ค้างอยู่ให้เสร็จหน่อย",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "The task is simple: put down as many of the local chigoe population as necessary to acquire eight of their egg sacs.",
+      "text_th": "งานง่ายๆ เอง: ไปจัดการพวก chigoe แถวนี้ให้มากพอที่จะเอาถุงไข่ของพวกมันมาได้สัก 8 ถุง",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Having done so, you are to deliver them to Monranguin at Gilbert's Spire . He will answer any queries you might have. Now, I have other business to attend to.",
+      "text_th": "พอได้มาแล้ว ให้เอาไปส่งให้ Monranguin ที่ Gilbert's Spire นะ เขาน่าจะตอบคำถามทุกอย่างที่เธอสงสัยได้ ตอนนี้ฉันมีธุระอื่นต้องไปจัดการแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "The Order of the Twin Adder makes no distinction between newcome adventurers and forestborn Gridanians. Your worth as a soldier is measured by your dedication to the cause.",
+      "text_th": "กองพล Order of the Twin Adder ไม่แบ่งแยกหรอกนะว่าเป็นนักผจญภัยหน้าใหม่หรือคนที่เกิดในป่ากริดาเนีย คุณค่าในฐานะทหารของเธอมันวัดกันที่ความทุ่มเทต่างหาก",
+      "status": "AI"
+    },
+    {
+      "character": "Monranguin",
+      "text_en": "Ah, you must be the adventurer standing in for our injured companions. Terribly unfortunate business, that.",
+      "text_th": "อ้อ เธอคงเป็นนักผจญภัยที่มาทำงานแทนพวกเพื่อนๆ ที่บาดเจ็บของเราสินะ เรื่องนั้นมันน่าเศร้าจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Monranguin",
+      "text_en": "It seems, however, that you had little trouble gathering the egg sacs in their stead. Excellent work. I shall have them sent over to the Trappers' League immediately.",
+      "text_th": "แต่ดูเหมือนเธอจะหาถุงไข่มาให้พวกเขาได้แบบสบายๆ เลยนี่ ทำได้เยี่ยมมาก เดี๋ยวฉันจะรีบส่งพวกมันไปให้ Trappers' League ทันทีเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Monranguin",
+      "text_en": "Lest you wonder, these egg sacs are not destined for the dinner table! Members of the Twin Adder and the Wood Wailers are assisting the league by collecting the samples they need to check for signs of sickness.",
+      "text_th": "เผื่อเธอสงสัย ถุงไข่พวกนี้ไม่ได้เอาไปทำอาหารหรอกนะ! คนของ Twin Adder กับ Wood Wailers กำลังช่วย Trappers' League รวบรวมตัวอย่างไปตรวจหาเชื้อโรคน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Monranguin",
+      "text_en": "The chigoe, you see, is one of the few creatures capable of transmitting the disease known as the Creeping Death. Until relatively recently, any Hyur who contracted this ghastly illness would almost invariably perish.",
+      "text_th": "รู้ไหมว่า chigoe เป็นสิ่งมีชีวิตไม่กี่ชนิดที่เป็นพาหะนำโรคที่เรียกว่า Creeping Death เมื่อก่อนนี้ เผ่า Hyur คนไหนที่ติดโรคบ้านี่เข้าไปก็แทบจะตายกันหมด",
+      "status": "AI"
+    },
+    {
+      "character": "Monranguin",
+      "text_en": "Indeed, a single outbreak once claimed the lives of a third of the Hyuran population here in Gridania . That was a long time ago, of course. With the medicines available to us now, the Creeping Death is not the killer it once was.",
+      "text_th": "จริงๆ แล้ว การระบาดแค่ครั้งเดียวก็เคยคร่าชีวิตชาว Hyur ในกริดาเนียไปตั้งหนึ่งในสามเลยนะ แน่นอนว่ามันก็นานมาแล้ว ด้วยยารักษาที่เรามีตอนนี้ โรคนี้มันไม่ได้น่ากลัวเหมือนเมื่อก่อนแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Monranguin",
+      "text_en": "Even so, it is best to halt any new outbreaks before they occur. Thus we gather chigoe eggs on a regular basis in order to assist the Trappers' League with their ongoing research. Your timely assistance is most appreciated.",
+      "text_th": "ถึงอย่างนั้น การป้องกันไม่ให้มันระบาดรอบใหม่ก็ดีกว่าแก้จริงไหมล่ะ พวกเราก็เลยต้องคอยเก็บไข่ chigoe อยู่เรื่อยๆ เพื่อช่วย Trappers' League วิจัยน่ะ ขอบใจมากนะที่มาช่วยได้ทันเวลาพอดี",
+      "status": "AI"
+    }
+  ]
+}

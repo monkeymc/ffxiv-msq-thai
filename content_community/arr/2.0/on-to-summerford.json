@@ -1,0 +1,98 @@
+{
+  "id": "on-to-summerford",
+  "wiki_path": "/wiki/On_to_Summerford",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "On to Summerford",
+  "title_th": "สู่ซัมเมอร์ฟอร์ด",
+  "title_status": "AI",
+  "level": "4",
+  "location": "Limsa Lominsa Upper Decks(X:11.6,Y:11.1)",
+  "npc_start": "Baderon",
+  "dialogues": [
+    {
+      "character": "Baderon",
+      "text_en": "Still in Limsa, are ye, Forename ? 'Ow'd ye fancy a trip outside the city walls?",
+      "text_th": "ยังอยู่ที่ลิมซาอยู่นะ [ชื่อ]? สนใจออกไปนอกกำแพงเมืองบ้างไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "I'd like ye to visit an orchard by the name o' Summerford Farms. Ever 'eard o' the place? The owner, Staelwyrn, is an old mate o' mine.",
+      "text_th": "อยากให้ไปเยี่ยมไร่ผลไม้ที่ชื่อว่า ซัมเมอร์ฟอร์ด ฟาร์มส์ เคยได้ยินชื่อไหม? เจ้าของชื่อ Staelwyrn เป็นเพื่อนเก่าของฉัน",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "'E's got 'imself a crew o' mostly reformed pirate types, if ye can believe that, and 'as been tryin' to bring a bit o' life back to the fields after the Calamity ruined the soil. 'E mentioned needin' another 'and or two, and yer name sprang to mind.",
+      "text_th": "เขามีลูกน้องที่ส่วนใหญ่เป็นโจรสลัดที่กลับตัวใหม่ — จะเชื่อหรือไม่ก็ตาม — และพยายามฟื้นฟูผืนดินหลังจากมหาวิบัติทำลายดินเสียหาย เขาบอกว่าต้องการคนช่วยอีกสักคน และชื่อเจ้าก็ผุดขึ้นมาในใจ",
+      "status": "AI"
+    },
+    {
+      "character": "Baderon",
+      "text_en": "I gave ye a glowin' recommendation, so make sure ye work 'ard and impress the old bastard. Ye need directions? The place ain't 'ard to find: just take the Zephyr Gate out o' the city, and follow the road northeast.",
+      "text_th": "ฉันแนะนำเจ้าไปอย่างยอดเยี่ยมแล้ว ดังนั้นต้องทำงานหนักๆ ให้ไอ้แก่ประทับใจด้วยนะ ต้องการเส้นทางไหม? ไม่ยากหรอก แค่ออกทาง เซฟเฟอร์ เกต แล้วเดินตามถนนไปทิศตะวันออกเฉียงเหนือ",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Ah, you must be the adventurer Baderon promised to send along. Forename Surname , wasn't it?",
+      "text_th": "อ๋อ เจ้าต้องเป็นนักผจญภัยที่ Baderon สัญญาว่าจะส่งมา [ชื่อ] [นามสกุล] ใช่ไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "You honored his word, so that's a good start. I'm Staelwyrn, the “old bastard,” as Baderon likely described me, and this here is my humble orchard.",
+      "text_th": "เจ้ารักษาคำพูด นั่นเป็นจุดเริ่มต้นที่ดี ฉันชื่อ Staelwyrn 'ไอ้แก่' ตามที่ Baderon คงบรรยายไว้ และนี่คือไร่เล็กๆ น้อยๆ ของฉัน",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "A good number of the lads and lasses workin' here once terrorized the high seas. And if you're wonderin' why I employ these scrags, well, they used to crew my pirate ship.",
+      "text_th": "คนงานส่วนใหญ่ที่นี่เคยสร้างความน่าสะพรึงกลัวในท้องทะเล ถ้าสงสัยว่าทำไมถึงจ้างพวกนั้น... ก็เพราะพวกเขาเคยเป็นลูกเรือโจรสลัดของฉัน",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "But the Calamity did for our ship, like it did so many others, and I was sore wounded into the bargain.",
+      "text_th": "แต่มหาวิบัติทำลายเรือของเรา เหมือนกับเรืออีกหลายลำ และฉันเองก็ได้รับบาดเจ็บหนักด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "I had to feed myself and my crew somehow, and Admiral Merlwyb's initiative to get us landlocked buccaneers workin' the fields seemed too fine an offer to refuse.",
+      "text_th": "ต้องหาเลี้ยงตัวเองและลูกน้องอย่างไรก็ได้ และโครงการของพลเรือเอก Merlwyb ที่จะให้พวกโจรสลัดผู้ไม่มีทะเลมาทำเกษตรนั้น ฟังดูน่าสนใจเกินกว่าจะปฏิเสธ",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Well, it turns out you can take the pirate away from the sea, but you can't take the sea away from the pirate. A lot of my blokes just never took to tendin' the soil, you see.",
+      "text_th": "แต่ปรากฏว่าเอาโจรสลัดออกจากทะเลได้ แต่เอาทะเลออกจากโจรสลัดไม่ได้ ลูกน้องหลายคนไม่ยอมทำไร่ไถนาเสียที",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "And unfortunately, the botanists I called in to train 'em have been wringin' their hands in black despair. With so much work pilin' up, I need a tougher soul like you to step in and help where it's needed.",
+      "text_th": "และน่าเสียดายที่ผู้เชี่ยวชาญพฤกษศาสตร์ที่เรียกมาฝึกพวกเขากำลังสิ้นหวัง งานกองท่วมหัว ฉันจึงต้องการคนแข็งแกร่งอย่างเจ้ามาช่วยในจุดที่จำเป็น",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "I've a mind to set you a task, Forename , but before I do, I need to be sure you're properly kitted out.",
+      "text_th": "ฉันมีงานจะมอบให้เจ้า [ชื่อ] แต่ก่อนนั้นต้องแน่ใจว่าเจ้าสวมอุปกรณ์ที่เหมาะสม",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Pirates don't care to parley with dandies, you understand. It might well be that the ones here have traded in their cutlasses for coulters, but they're still rogues at heart.",
+      "text_th": "โจรสลัดไม่ชอบคุยกับคนที่ดูอ่อนแอ เข้าใจไหม? แม้พวกที่นี่จะเปลี่ยนดาบคัตลาสเป็นคันไถแล้ว แต่จิตใจยังเป็นโจรอยู่",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "I know a solid set of gear when I see it. Come back when you think you're more suitably equipped.",
+      "text_th": "ฉันรู้จักอุปกรณ์ที่ดีเมื่อมองเห็น กลับมาเมื่อเจ้าพร้อมมากกว่านี้",
+      "status": "AI"
+    }
+  ]
+}

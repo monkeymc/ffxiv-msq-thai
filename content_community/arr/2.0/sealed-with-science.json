@@ -1,0 +1,80 @@
+{
+  "id": "sealed-with-science",
+  "wiki_path": "/wiki/Sealed_with_Science",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Sealed with Science",
+  "title_th": "ปิดผนึกด้วยวิทยาศาสตร์",
+  "title_status": "AI",
+  "level": "41",
+  "location": "Eastern Thanalan(X:12.7,Y:23.4)",
+  "npc_start": "Lamberteint",
+  "dialogues": [
+    {
+      "character": "Lamberteint",
+      "text_en": "Ahhh, so rare it is to find fellow intellectuals in this region. 'Tis even rarer to find one capable of comprehending the nature of corrupted crystals.",
+      "text_th": "อาาา ช่างหาได้ยากยิ่งนักที่จะได้พบกับปัญญาชนด้วยกันในภูมิภาคนี้ และก็ยิ่งหาได้ยากยิ่งกว่า ที่จะพบคนที่มีความสามารถในการทำความเข้าใจถึงธรรมชาติของ corrupted crystal (คริสตัลที่เสื่อมสภาพ)",
+      "status": "AI"
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Come to think of it, there was another─a hermit to whom the church had given sanctuary. Curious fellow. Unsociable, rather daft at first impression, yet possessed of an amazing affinity towards the scientific pursuits...",
+      "text_th": "จะว่าไปแล้ว ก็มีอีกคนนึงนะ─ฤษีที่ทางโบสถ์ให้ที่พักพิงน่ะ ชายผู้น่าสงสัย ไม่ชอบเข้าสังคม แถมตอนแรกที่เจอก็ดูบ้าๆ บอๆ ด้วย แต่เขากลับมีความสนใจในเรื่องวิทยาศาสตร์อย่างน่าทึ่งเลยทีเดียว...",
+      "status": "AI"
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "But to the matter at hand─did you say you wish not to conduct field observations, but to harvest a corrupted crystal?",
+      "text_th": "แต่มาเข้าเรื่องของเราดีกว่า─เมื่อกี้เจ้าบอกว่าไม่ได้อยากจะมาสังเกตการณ์ภาคสนาม แต่ตั้งใจจะมาเก็บ corrupted crystal งั้นรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Egads, man / woman ! At least take the necessary precautions so that you do not suffer from exposure to its harmful energies! I'm beginning to wonder if you've sufficient qualifications to handle such hazardous materials...",
+      "text_th": "ให้ตายเถอะ พ่อหนุ่ม / แม่หนู ! อย่างน้อยก็ควรเตรียมการป้องกันไว้บ้างสิ จะได้ไม่ต้องรับผลกระทบจากพลังงานที่เป็นอันตรายของมัน! ข้าชักจะสงสัยแล้วสิว่าเจ้ามีคุณสมบัติพอที่จะจัดการกับวัตถุอันตรายแบบนี้ได้รึเปล่า...",
+      "status": "AI"
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Still, your ignorance is somehow endearing. Luckily for you, I have precisely the means by which these inherent dangers may be averted. Simply store the crystal you seek within this warded pot to protect yourself from its deleterious effects. Though I suppose you will be bombarded with its energies until you place it within the vessel...",
+      "text_th": "แต่ก็นะ ความไม่รู้ของเจ้ามันก็น่ารักไปอีกแบบ โชคดีของเจ้านะ ที่ข้ามีวิธีป้องกันอันตรายพวกนี้อยู่พอดี แค่เอาคริสตัลที่เจ้าตามหาใส่ลงไปในหม้อผนึกมนตราใบนี้ มันก็จะช่วยปกป้องเจ้าจากผลกระทบที่เป็นอันตรายได้ ถึงข้าจะเดาว่าเจ้าคงจะโดนพลังงานของมันอัดใส่เต็มๆ จนกว่าเจ้าจะเอามันใส่ลงไปในหม้อนั่นก็เถอะนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Well, perhaps it shall motivate you to work quickly. In any case, take the pot to Hahasako, a student of mine monitoring the flow of aether at Highbridge. Explain to him your quest, and he shall instruct you in the finer points of crystal harvesting.",
+      "text_th": "ก็นะ บางทีเรื่องนี้อาจจะช่วยเป็นแรงผลักดันให้เจ้ารีบๆ ลงมือทำก็เป็นได้ อย่างไรก็ตาม เอาหม้อใบนี้ไปให้ Hahasako นักเรียนของข้าที่กำลังเฝ้าสังเกตการไหลเวียนของ aether อยู่ที่ Highbridge นู่น อธิบายภารกิจของเจ้าให้เขาฟัง แล้วเขาจะช่วยแนะนำเคล็ดลับในการเก็บคริสตัลให้เจ้าเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Come, listen closely...Can you hear that beating? 'Tis the flow of aether, the very pulse of the land.",
+      "text_th": "มานี่สิ ลองตั้งใจฟังให้ดีนะ...เจ้าได้ยินเสียงเต้นนั่นไหม? นั่นคือการไหลเวียนของ aether ชีพจรของแผ่นดินนี้ยังไงล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Truly, Eorzea is a realm of endless wonders. Every day, my heart is set aflutter with a new discovery!",
+      "text_th": "Eorzea ช่างเป็นดินแดนแห่งความมหัศจรรย์ที่ไม่สิ้นสุดจริงๆ ทุกๆ วัน หัวใจของข้าเต้นรัวด้วยความตื่นเต้นกับสิ่งใหม่ๆ ที่ได้ค้นพบ!",
+      "status": "AI"
+    },
+    {
+      "character": "Hahasako",
+      "text_en": "How many times must I be made to explain myself!? I am not contemplating suicide, you imbecile─I have chosen this precise position to perform scientific measurements!",
+      "text_th": "นี่ข้าจะต้องอธิบายตัวเองอีกกี่ครั้งเนี่ย!? ข้าไม่ได้กำลังคิดจะฆ่าตัวตายนะไอ้หน้าโง่─ข้าเลือกจุดนี้อย่างตั้งใจเพื่อมาทำการวัดค่าทางวิทยาศาสตร์ต่างหากล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Hahasako",
+      "text_en": "What have we here...a containment vessel!? Why, this is the handiwork of Professor Lamberteint! You thieving knave, I shall call for the─ Oh, you say the man himself lent it to you...",
+      "text_th": "แล้วเรามีอะไรมาให้ดูล่ะเนี่ย...ภาชนะกักเก็บงั้นรึ!? นี่มันฝีมือของศาสตราจารย์ Lamberteint นี่นา! ไอ้หัวขโมย ข้าจะเรียกหา─ โอ้ เจ้าบอกว่าท่านเป็นคนให้เจ้ายืมมาเองงั้นรึ...",
+      "status": "AI"
+    },
+    {
+      "character": "Hahasako",
+      "text_en": "Then you must have sought me out per his instruction...which means he believes me experienced enough to expound upon his explanations! At last, the recognition I so rightfully deserve!",
+      "text_th": "ถ้าอย่างนั้น เจ้าก็คงจะมาหาข้าตามคำสั่งของท่านสินะ...ซึ่งนั่นก็หมายความว่า ท่านเชื่อว่าข้ามีประสบการณ์มากพอที่จะมาอธิบายเพิ่มเติมในสิ่งที่ท่านอธิบายไปแล้วน่ะสิ! ในที่สุด การยอมรับที่ข้าสมควรได้รับก็มาถึงเสียที!",
+      "status": "AI"
+    }
+  ]
+}

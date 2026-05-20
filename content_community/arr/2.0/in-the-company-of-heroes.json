@@ -1,0 +1,260 @@
+{
+  "id": "in-the-company-of-heroes",
+  "wiki_path": "/wiki/In_the_Company_of_Heroes",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/db/In_the_Company_of_Heroes_Image.png",
+  "patch": "2.0",
+  "title_en": "In the Company of Heroes",
+  "title_th": "ในหมู่ฮีโร่",
+  "title_status": "AI",
+  "level": "33",
+  "location": "Eastern La Noscea(X:32.6,Y:30.5)",
+  "npc_start": "Y'shtola",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "...You have the look of a man / woman who has been to the seventh hell and back.",
+      "text_th": "...คุณดูเหมือนคนที่เพิ่งไปนรกขุมที่เจ็ดแล้วรอดกลับมาได้เลยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That a guest should be expected to supply the victuals for a banquet held in his / her own honor... And this while the shadow of Titan looms over us all! It beggars belief.",
+      "text_th": "แขกรับเชิญดันต้องมาเป็นคนจัดหาเสบียงสำหรับงานเลี้ยงที่จัดขึ้นเพื่อเป็นเกียรติแก่ตัวเองซะงั้น... ทั้งที่เงาของ Titan ยังคงปกคลุมพวกเราอยู่เนี่ยนะ! มันเหลือเชื่อจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I can only applaud your stoicism. Had I been asked to endure such ignominy, I fear I should have accepted my lot with less grace.",
+      "text_th": "ฉันได้แต่ปรบมือให้กับความอดทนของคุณเลยล่ะ ถ้าเป็นฉันถูกขอให้ต้องมาทนกับเรื่องน่าอับอายแบบนี้ ฉันเกรงว่าฉันคงจะยอมรับชะตากรรมด้วยความสง่างามน้อยกว่านี้แน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Gegeruju",
+      "text_en": "Lady Y'shtola! Sir / Lady Surname !",
+      "text_th": "ท่านหญิง Y'shtola! ท่าน [ชื่อ] !",
+      "status": "AI"
+    },
+    {
+      "character": "Gegeruju",
+      "text_en": "A thousand pardons for this extreme discourtesy! I was wholly unaware of your true identity, sir / madam ! Had I known, I would never have permitted my man to subject you to such unspeakable ordeals!",
+      "text_th": "ข้าต้องขออภัยเป็นอย่างสูงสำหรับความไร้มารยาทอย่างร้ายแรงนี้! ข้าไม่รู้เลยจริงๆ ว่าท่านเป็นใคร! ถ้าข้ารู้ ข้าคงไม่ยอมให้คนของข้าไปทำให้ท่านต้องลำบากยากเข็ญแบบนั้นหรอก!",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Come now, he / she must have sensed something was amiss.",
+      "text_th": "เอาน่า เขา / เธอ คงจะรู้สึกได้อยู่แล้วล่ะว่ามันมีอะไรผิดปกติ",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "You didn't seriously think I would send you running the length and breadth of Eorzea for a banquet , did you?",
+      "text_th": "คุณคงไม่ได้คิดจริงๆ หรอกนะว่าฉันจะสั่งให้คุณวิ่งวุ่นไปทั่ว Eorzea แค่เพื่อ งานเลี้ยง น่ะ หืม?",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Spare him / her your mockery, Captain. Your intent was unclear to me until this moment. And unlike me, Forename has no knowledge of your traditions. Mayhap you would be so good as to enlighten him / her .",
+      "text_th": "เก็บคำเยาะเย้ยของคุณไว้เถอะ กัปตัน เจตนาของคุณมันไม่ชัดเจนสำหรับฉันเลยจนกระทั่งเมื่อกี้นี้นี่แหละ และไม่เหมือนกับฉัน [ชื่อ] ไม่ได้รู้เรื่องประเพณีของคุณเลย บางทีคุณน่าจะกรุณาอธิบายให้ เขา / เธอ ฟังหน่อยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Aye, aye...fair's fair. There's no sense hiding it any longer.",
+      "text_th": "ใช่ๆ ...แฟร์ๆ ก็ไม่มีเหตุผลอะไรที่จะต้องปิดบังอีกต่อไปแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "We five were chosen by our brothers and sisters, and before the Company of Heroes disbanded, we each swore a solemn oath...",
+      "text_th": "เราห้าคนได้รับเลือกจากพี่น้องของเรา และก่อนที่ Company of Heroes จะยุบวงไป เราแต่ละคนได้สาบานเอาไว้อย่างหนักแน่น...",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "That any who would follow in our footsteps must be weighed and measured─not by their reputation, but by their deeds.",
+      "text_th": "ว่าใครก็ตามที่จะเดินตามรอยพวกเรา จะต้องถูกชั่งน้ำหนักและวัดคุณค่า─ไม่ใช่จากชื่อเสียง แต่จากผลงานของพวกเขา",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Each man would judge these would-be god-slayers by his own criteria. If even one found him / her wanting, he / she would be rejected without a second thought.",
+      "text_th": "แต่ละคนจะเป็นคนตัดสินผู้ท้าชิงที่อยากจะเป็นผู้สังหารเทพเหล่านี้ด้วยเกณฑ์ของตัวเอง ถ้าแม้แต่คนเดียวพบว่า เขา / เธอ ไม่คู่ควร เขา / เธอ ก็จะถูกปฏิเสธโดยไม่ต้องคิดทบทวนซ้ำสอง",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "But if he / she proved himself / herself worthy, we swore that we would do our utmost to support his / her cause.",
+      "text_th": "แต่ถ้า เขา / เธอ พิสูจน์ตัวเองได้ว่าคู่ควร เราก็สาบานว่าจะทำทุกวิถีทางเพื่อสนับสนุนอุดมการณ์ของ เขา / เธอ",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "The world has ever been full of brave souls eager to give their lives for a righteous cause, but all too few capable of making a difference with their sacrifice. To send wave after wave of hapless adventurers into the jaws of a foe against whom they have no hope of victory is worse than futile. Titan is not one to be challenged lightly, and we will not be complicit in the deaths of the unworthy.",
+      "text_th": "โลกใบนี้เต็มไปด้วยจิตวิญญาณผู้กล้าที่พร้อมจะพลีชีพเพื่อสิ่งที่ถูกต้อง แต่ก็มีน้อยคนนักที่จะสามารถสร้างความเปลี่ยนแปลงได้ด้วยการเสียสละของพวกเขา การส่งนักผจญภัยผู้เคราะห์ร้ายให้ไปตายต่อหน้าศัตรูที่พวกเขาไม่มีทางชนะได้นั้น มันเลวร้ายยิ่งกว่าความสูญเปล่าเสียอีก Titan ไม่ใช่คู่ต่อสู้ที่ใครจะกล้าท้าทายได้ง่ายๆ และเราจะไม่ขอมีส่วนร่วมในความตายของผู้ที่ไม่คู่ควรหรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Which is why the five of you deigned to test Forename with such commendable thoroughness. Time well spent, I am sure. But tell us, Captain: what is the assessment of you and your fellows?",
+      "text_th": "นั่นคือเหตุผลที่พวกคุณทั้งห้าลดตัวลงมาทดสอบ [ชื่อ] อย่างละเอียดถี่ถ้วนซะขนาดนี้สินะ เป็นเวลาที่คุ้มค่าจริงๆ ฉันมั่นใจเลยล่ะ แต่บอกเราหน่อยสิ กัปตัน: คุณกับพวกพ้องของคุณประเมินออกมาว่ายังไงบ้างล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Landenel",
+      "text_en": "He / She 's a brave one, that much is certain. He / She willingly walked into the midst of danger, despite my repeated warnings that it could cost him / her his / her life.",
+      "text_th": "เขา / เธอ เป็นคนกล้าหาญ นั่นคือสิ่งที่แน่นอน เขา / เธอ ยินดีที่จะเดินเข้าไปท่ามกลางอันตราย ทั้งๆ ที่ข้าเตือนซ้ำแล้วซ้ำเล่าว่ามันอาจจะทำให้ เขา / เธอ ถึงตายได้",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "His / Her skill is undeniable. He / She stalked his / her prrrey as relentlessly as any child of the sands, and struck with precision when an opportunity presented itself.",
+      "text_th": "ฝีมือของ เขา / เธอ ก็ไม่มีข้อกังขา เขา / เธอ สะกดรอยตามเหยื่อได้อย่างไม่ลดละเหมือนกับลูกหลานแห่งผืนทราย และจู่โจมได้อย่างแม่นยำเมื่อมีโอกาส",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "Too many adventurers these days care only for fortune and glory. Forename , however, is a kind and generous soul. I am certain he / she has no shortage of loyal allies who will gladly fight at his / her side.",
+      "text_th": "นักผจญภัยสมัยนี้ส่วนใหญ่สนแต่เรื่องเงินทองและชื่อเสียง แต่ [ชื่อ] เป็นคนจิตใจดีและเอื้อเฟื้อเผื่อแผ่ ข้ามั่นใจเลยว่า เขา / เธอ จะต้องมีพันธมิตรผู้ภักดีพร้อมที่จะสู้เคียงข้าง เขา / เธอ อีกมากมายแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text_en": "Pshhh... Shkohhh... Wily uplander is talentful plansmaker. Tricksy foe for mighty rockman!",
+      "text_th": "ซี่... ชู่ว... คนบนดินเจ้าเล่ห์เป็นนักวางแผนที่เก่งกาจ เป็นศัตรูตัวฉกาจสำหรับมนุษย์หินผู้ทรงพลังเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "I can only concur with my colleagues' assessments.",
+      "text_th": "ฉันก็เห็นด้วยกับการประเมินของเพื่อนร่วมงานของฉันเหมือนกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "We five of the Company of Heroes hereby judge you a worthy challenger. Cast down the Lord of Crags, Forename Surname , and write a new chapter in the history of Eorzea.",
+      "text_th": "พวกเราทั้งห้าแห่ง Company of Heroes ขอตัดสินให้คุณเป็นผู้ท้าชิงที่คู่ควร ไปโค่น Lord of Crags ลงซะ [ชื่อ] [นามสกุล] แล้วเขียนประวัติศาสตร์หน้าใหม่ให้กับ Eorzea ซะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "With the formalities out of the way, let the festivities begin! Summon the dancers, pour the wine!",
+      "text_th": "เอาล่ะ หมดเรื่องพิธีการแล้ว ให้งานฉลองเริ่มขึ้นได้! เรียกนางรำมา รินไวน์มาเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "Eat, drink, and be merry, my friends, for today we celebrate the birth of a new legend─ Forename Surname , Titan's Bane!",
+      "text_th": "กินดื่มและสนุกกันให้เต็มที่เถอะเพื่อนพ้อง เพราะวันนี้เราจะมาฉลองให้กับการถือกำเนิดของตำนานบทใหม่─[ชื่อ] [นามสกุล] ผู้พิชิต Titan!",
+      "status": "AI"
+    },
+    {
+      "character": "Company of Heroes",
+      "text_en": "Forename Surname , Titan's Bane!",
+      "text_th": "[ชื่อ] [นามสกุล] ผู้พิชิต Titan!",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Greetings, Forename . I thought it fitting that I seek you out and offer my gratitude for all that you have accomplished.",
+      "text_th": "สวัสดี [ชื่อ] ฉันคิดว่าฉันน่าจะมาหาคุณและกล่าวขอบคุณสำหรับทุกสิ่งที่คุณทำสำเร็จมาได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "It has been too long since I last set foot outside Forgotten Springs. Passing the time with old frrriends and old wine... Aye, today is a good day indeed.",
+      "text_th": "มันนานมากแล้วนะที่ข้าไม่ได้ก้าวเท้าออกมานอก Forgotten Springs แบบนี้ การได้ใช้เวลาอยู่กับเพื่อนเก่าและจิบไวน์เก่าๆ ... ใช่แล้ว วันนี้เป็นวันที่ดีจริงๆ เลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Landenel",
+      "text_en": "Seeing everyone again like this brings back such fond memories. Hmmm...I wonder if any of them would be interested in reforming the Company?",
+      "text_th": "การได้เจอทุกคนอีกครั้งแบบนี้มันทำให้คิดถึงความทรงจำดีๆ จังเลยน้า... หืม... ฉันสงสัยจังว่าจะมีใครในพวกเราอยากรวมกลุ่ม Company ขึ้นมาใหม่บ้างไหมนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text_en": "Pshhh... Shkohhh... Tastyfresh treats are plentiful in belly of Brayflox!",
+      "text_th": "ซี่... ชู่ว... ของอร่อยๆ มีเต็มท้อง Brayflox เลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "It feels wonderful to be with the others again. I wish this day would never end...",
+      "text_th": "รู้สึกวิเศษจริงๆ ที่ได้กลับมาอยู่ร่วมกับคนอื่นๆ อีกครั้ง ข้าอยากให้วันนี้ไม่มีวันจบลงเลย...",
+      "status": "AI"
+    },
+    {
+      "character": "Bronze-skinned Beauty",
+      "text_en": "Congratulations, sweetling! Now relax and enjoy the show─it's only just begun!",
+      "text_th": "ยินดีด้วยนะที่รัก! ทีนี้ก็พักผ่อนให้สบายแล้วสนุกกับโชว์ไปเลย─มันเพิ่งจะเริ่มเองนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Bronze-skinned Beauty",
+      "text_en": "(Your Elezen friend is quite the dashing rogue. Any chance you could introduce me?)",
+      "text_th": "(เพื่อน Elezen ของเจ้านี่เป็นหนุ่มเจ้าชู้ทรงเสน่ห์ดีนะ มีโอกาสแนะนำข้าให้รู้จักเขาบ้างไหมล่ะ?)",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "When you face the Lord of Crags, think not of Limsa Lominsa, Eorzea, or anything beyond his chamber. Think only of the men and women by your side.",
+      "text_th": "เมื่อเจ้าเผชิญหน้ากับ Lord of Crags อย่าไปนึกถึง Limsa Lominsa, Eorzea หรืออะไรก็ตามที่อยู่นอกเหนือห้องของมัน ให้นึกถึงแค่คนที่สู้เคียงข้างเจ้าเท่านั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "Fight for them, and they will fight for you. Remember that no great victory was ever achieved alone.",
+      "text_th": "สู้เพื่อพวกเขา แล้วพวกเขาจะสู้เพื่อเจ้า จำไว้ว่าไม่มีชัยชนะที่ยิ่งใหญ่ใดได้มาเพียงลำพังหรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text_en": "Pshhh... Shkohhh... Goodly uplander must be facing mighty rockman with clever fighty-think. Gobbieflock cannot be coming to rescue this time!",
+      "text_th": "ซี่... ชู่ว... คนบนดินคนดีจะต้องไปสู้กับมนุษย์หินผู้ทรงพลังด้วยความคิดอันชาญฉลาด ฝูงก็อบลินคงไปช่วยคราวนี้ไม่ได้หรอกนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Landenel",
+      "text_en": "Ah, Forename , you brave fool! Promise me that when you meet Titan, you'll look him in the eye and tell him Landenel sends his regards!",
+      "text_th": "อา [ชื่อ] ไอ้คนกล้าบ้าบิ่น! สัญญาฉันสิว่าตอนนายเจอ Titan นายจะมองหน้ามันแล้วบอกมันว่า Landenel ฝากความคิดถึงมาให้!",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "You are blessed with a fortitude to rival the earth itself. Titan will struggle to break you, I think.",
+      "text_th": "คุณโชคดีที่เกิดมามีความทรหดอดทนเทียบเท่ากับพื้นดินเลยล่ะ ฉันว่า Titan คงจะต้องเหนื่อยหน่อยล่ะถ้าจะทำลายคุณ",
+      "status": "AI"
+    },
+    {
+      "character": "Landenel",
+      "text_en": "Ah, Forename , you brave fool! Promise me that when you meet Titan, you'll look him in the eye and tell him Landenel sends his regards!",
+      "text_th": "อา [ชื่อ] ไอ้คนกล้าบ้าบิ่น! สัญญาฉันสิว่าตอนนายเจอ Titan นายจะมองหน้ามันแล้วบอกมันว่า Landenel ฝากความคิดถึงมาให้!",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "You are a veteran of countless battles, Forename . This is but one more. Trrrust in your experience, and you will prevail.",
+      "text_th": "เจ้าเป็นนักรบที่ผ่านสมรภูมิมานับไม่ถ้วน [ชื่อ] ครั้งนี้ก็แค่อีกครั้งนึง เชื่อมั่นในประสบการณ์ของเจ้าสิ แล้วเจ้าจะคว้าชัยมาได้",
+      "status": "AI"
+    },
+    {
+      "character": "Wheiskaet",
+      "text_en": "You are blessed with a fortitude to rival the earth itself. Titan will struggle to break you, I think.",
+      "text_th": "คุณโชคดีที่เกิดมามีความทรหดอดทนเทียบเท่ากับพื้นดินเลยล่ะ ฉันว่า Titan คงจะต้องเหนื่อยหน่อยล่ะถ้าจะทำลายคุณ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...You are kind to indulge them, Forename . This banquet is as much for the Company as it is for you, whatever they may claim.",
+      "text_th": "...คุณนี่ใจดีจังเลยนะที่ยอมตามใจพวกนั้น [ชื่อ] งานเลี้ยงนี่มันจัดให้ Company มากพอๆ กับที่จัดให้คุณนั่นแหละ ไม่ว่าพวกนั้นจะอ้างยังไงก็เถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I do not deny that they mean well, but now is scarcely the time for celebration. Though they have all but pronounced you the victor, the battle with Titan has yet to begin. The hour has come for the good captain to make good on his promise. We must speak with him again.",
+      "text_th": "ฉันไม่ปฏิเสธหรอกนะว่าพวกเขามีเจตนาดี แต่ตอนนี้มันไม่ใช่เวลามาฉลองกันหรอกนะ ถึงพวกเขาจะเกือบๆ ประกาศให้คุณเป็นผู้ชนะไปแล้วก็เถอะ แต่การต่อสู้กับ Titan ยังไม่เริ่มเลยด้วยซ้ำ ถึงเวลาแล้วที่กัปตันคนดีจะต้องทำตามสัญญาที่ให้ไว้ เราต้องไปคุยกับเขาอีกครั้งแล้วล่ะ",
+      "status": "AI"
+    }
+  ]
+}

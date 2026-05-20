@@ -1,0 +1,1586 @@
+{
+  "id": "a-hero-in-the-making",
+  "wiki_path": "/wiki/A_Hero_in_the_Making",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/bc/A_Hero_in_the_Making_Image.png",
+  "patch": "2.0",
+  "title_en": "A Hero in the Making",
+  "title_th": "เส้นทางสู่วีรบุรุษ",
+  "title_status": "AI",
+  "level": "20",
+  "location": "The Waking Sands(X:6.9,Y:6.1)",
+  "npc_start": "Minfilia",
+  "dialogues": [
+    {
+      "character": "Minfilia",
+      "text_en": "Until not so very long ago, you were but one of the many adventurers seeking to make their way in Eorzea.",
+      "text_th": "เมื่อไม่นานมานี้ เธอเพิ่งจะเป็นเพียงหนึ่งในนักผจญภัยมากมายที่พยายามตั้งตัวในอีออร์เซียเองนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "But for your character and courage, you were raised to the esteemed post of envoy. Thereafter, you traveled the realm, aiding those in need without thought of reward, confirming to Yda and Papalymo / Y'shtola / Thancred that the Scions would benefit from your aid. And no sooner had you joined us than you personally bested the primal Ifrit.",
+      "text_th": "แต่ด้วยคุณลักษณะและความกล้าหาญของเธอ ทำให้เธอได้รับเกียรติแต่งตั้งเป็นทูตส่งสาร จากนั้นเธอก็เดินทางไปทั่วดินแดน คอยช่วยเหลือผู้คนโดยไม่หวังผลตอบแทน ซึ่งช่วยพิสูจน์ให้พวกอีดา ปาปาลิโม ยาสโตร่า และแซงเครดเห็นว่ากลุ่ม Scions จะได้รับประโยชน์อย่างมากหากได้เธอมาช่วยงาน และหลังจากเข้าร่วมกับพวกเราได้ไม่ทันไร เธอก็สามารถปราบไพรมอลอิฟรีตลงได้ด้วยตัวคนเดียวเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "You have achieved a great deal in a short time, and won fame in so doing. Alas, fame does not come without a price, as you will soon discover.",
+      "text_th": "เธอทำสำเร็จตั้งหลายอย่างในเวลาสั้นๆ และมีชื่อเสียงขึ้นมามาก แต่ก็นะ... ชื่อเสียงมักจะมีราคาที่ต้องจ่ายเสมอ เดี๋ยวเธอคงจะได้รู้ในไม่ช้านี้แหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We have guests, Forename ─or rather... you have guests.",
+      "text_th": "พวกเรามีแขกมาหาน่ะ [ชื่อ]... หรือจะพูดให้ถูกก็คือ เธอมีแขกมาหาต่างหากล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Beg pardons!",
+      "text_th": "ขอเสียมารยาทด้วยครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Ahhh, Lady Minfilia. Radiant as always!",
+      "text_th": "โอ้ คุณผู้หญิงมินฟิเลีย ยังดูงดงามเปล่งประกายเหมือนเคยเลยนะครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "I am given to understand that the Scions of the Seventh Dawn have but recently welcomed a new hero into their midst!",
+      "text_th": "ผมได้ยินมาว่าทาง Scions of the Seventh Dawn เพิ่งจะต้อนรับวีรบุรุษคนใหม่เข้ากลุ่มเมื่อไม่นานมานี้ใช่ไหมครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "I am here on behalf of the Maelstrom, Grand Company of Limsa Lominsa, to offer said hero a place of honor within our ranks!",
+      "text_th": "ฉันมาในนามของ Maelstrom กองกำลัง Grand Company แห่งลิมซา โลมินซา เพื่อจะมาเสนอตำแหน่งอันทรงเกียรติในกองทัพของเราให้แก่วีรบุรุษคนนั้นค่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "As you can see, Forename , your recent exploits have garnered you the attentions of the Grand Companies of Eorzea.",
+      "text_th": "อย่างที่เห็นนั่นแหละ [ชื่อ] ผลงานล่าสุดของเธอทำให้กองทัพ Grand Company ทั้งสามแห่งอีออร์เซียหันมาสนใจเธอเข้าแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Each organization would have Ifrit's bane for its own. To this end, all three have sent officers to court you.",
+      "text_th": "ทุกกองทัพต่างก็อยากได้ตัวผู้ปราบอิฟรีตมาร่วมงานด้วยกันทั้งนั้นแหละ ด้วยเหตุนี้ พวกเขาเลยส่งเจ้าหน้าที่ของตัวเองมาทาบทามเธอถึงที่นี่",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "They would not ordinarily go to such lengths to enlist a new recruit. That they have is evidence of their high regard for you.",
+      "text_th": "ปกติพวกเขาไม่ลงทุนเดินทางมาทาบทามทหารใหม่ด้วยตัวเองขนาดนี้หรอกนะ การที่พวกเขามาในวันนี้เป็นข้อพิสูจน์เลยว่าพวกเขาให้เกียรติเธอมากแค่ไหน",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I find myself wondering how word of Forename 's deeds spread so quickly. That the Immortal Flames should know of his / her triumph is to be expected...but what of the other Grand Companies?",
+      "text_th": "ฉันยังนึกสงสัยอยู่เลยว่าเรื่องราวของ [ชื่อ] แพร่กระจายไปเร็วขนาดนี้ได้ยังไง กองพล Immortal Flames รู้เรื่องชัยชนะของเธอคงไม่ใช่เรื่องแปลก... แต่กองกำลังอื่นรู้ได้ยังไงกันนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Eep!",
+      "text_th": "อุ๊ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "Your reputation precedes you, Master / Mistress Surname ! 'Tis no ordinary man / woman who can face a primal and emerge the victor!",
+      "text_th": "ชื่อเสียงของคุณเลื่องลือมากเลยครับท่าน [นามสกุล]! คนธรรมดาที่ไหนจะเผชิญหน้ากับไพรมอลแล้วรอดกลับมาเป็นผู้ชนะได้กัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "And imagine our pride when we learned that you began your journey as an adventurer in our own Gridania! Know that the people hold you in high esteem, and that you will always be welcome among us.",
+      "text_th": "และยิ่งน่าภูมิใจเข้าไปใหญ่เมื่อพวกเราได้รู้ว่าคุณเริ่มต้นเส้นทางนักผจญภัยที่กริดาเนียของเรา! ขอให้รู้ไว้เลยนะครับว่าประชาชนที่นั่นชื่นชมคุณมาก และที่กริดาเนียจะคอยต้อนรับคุณเสมอครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "The Order of the Twin Adder has need of valiant women such as you. Join your strength to ours, friend, and together let us ensure that peace ever reigns over the Twelveswood!",
+      "text_th": "กองพล Order of the Twin Adder ต้องการคนกล้าหาญอย่างคุณมาร่วมงาน มาร่วมมือกับพวกเราเถอะครับ แล้วมาร่วมกันรักษาความสงบสุขให้คงอยู่คู่ผืนป่าทเวลฟ์สวูดตลอดไป!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "What a pleasure it is to finally meet you, Master / Mistress Surname ! My comrades speak of you in the most glowing terms!",
+      "text_th": "ยินดีอย่างยิ่งที่ได้พบคุณครับท่าน [นามสกุล]! เพื่อนๆ ของผมต่างพากันชื่นชมคุณไม่ขาดปากเลยล่ะครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Why, even before you aided us against the Amalj'aa and their dread primal, yours was already a respected name in Ul'dah. Our people know you and love you well.",
+      "text_th": "เพราะขนาดก่อนที่คุณจะมาช่วยพวกเราสู้กับพวกอะมาลจาและไพรมอลที่น่ากลัวนั่น ชื่อของคุณก็ดังเป็นที่นับถือในอุลดาห์อยู่แล้ว ประชาชนของเราต่างรู้จักและรักคุณกันทุกคนครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "A man / woman of your talent belongs with the Immortal Flames. Join your strength to ours, friend, and together let us secure a prosperous future for Ul'dah!",
+      "text_th": "คนที่มีความสามารถระดับคุณต้องมาอยู่กับ Immortal Flames ครับ มาร่วมมือกับพวกเราเถอะ แล้วเราจะสร้างอนาคตที่รุ่งเรืองให้แก่อุลดาห์ไปด้วยกัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "The Admiral was not exaggerating when she said you have the look of a hero! Full often does she speak of you, friend.",
+      "text_th": "ท่านผู้บัญชาการไม่ได้พูดเกินจริงเลยสักนิดที่ว่าคุณมีหน่วยก้านของวีรบุรุษ! ท่านพูดถึงคุณบ่อยมากเลยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "As do many others in Limsa. Long before the rest of Eorzea took note, your name was well known to us, owing to your valorous deeds on behalf of our citizens.",
+      "text_th": "คนอื่นๆ ในลิมซาก็พูดถึงเหมือนกัน ก่อนที่คนทั่วทั้งอีออร์เซียจะหันมาสนใจเสียอีก ชื่อของคุณก็เป็นที่รู้จักกันดีในเมืองของเราแล้ว เพราะวีรกรรมความกล้าหาญที่คุณเคยช่วยประชาชนของเราไว้ยังไงล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "It is only natural that we should want you for the Maelstrom. Join your strength to ours, and together let us see the grand vessel of Limsa Lominsa to the shores of glory!",
+      "text_th": "จึงเป็นเรื่องธรรมดามากที่พวกเราอยากชวนคุณมาร่วมกองกำลัง Maelstrom มาร่วมมือกับพวกเราเถอะค่ะ แล้วเราจะพาเรือยักษ์แห่งลิมซา โลมินซาลำนี้แล่นไปสู่ฝั่งแห่งเกียรติยศด้วยกัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Grand Company Officers",
+      "text_en": "Lady Minfilia!",
+      "text_th": "ท่านมินฟิเลียครับ/ค่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "<sigh> Very well...",
+      "text_th": "<ถอนหายใจ> เอาล่ะๆ เข้าใจแล้ว...",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Though I am quite sure you need no reminding, mayhap a brief summary of the situation would help to clarify your thoughts on this matter. As you know, the Grand Companies are all-encompassing organizations empowered to call upon the martial, economic, and technological resources of their respective city-states in times of strife.",
+      "text_th": "ถึงฉันจะค่อนข้างมั่นใจว่าเธอรู้เรื่องนี้ดีอยู่แล้ว แต่การฟังสรุปสถานการณ์สั้นๆ ก็น่าจะช่วยให้เธอตัดสินใจได้ง่ายขึ้นนะ อย่างที่รู้กันดีว่ากองกำลัง Grand Company เป็นองค์กรขนาดใหญ่ที่มีอำนาจในการระดมกำลังทหาร ทรัพยากรทางเศรษฐกิจ และเทคโนโลยีของแต่ละนครรัฐมาใช้ร่วมกันในยามศึกสงคราม",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "There are presently three such organizations in Eorzea: the Maelstrom of Limsa Lominsa, the Order of the Twin Adder of Gridania, and the Immortal Flames of Ul'dah.",
+      "text_th": "ซึ่งตอนนี้ในอีออร์เซียมีกองกำลังแบบนี้อยู่สามกลุ่มด้วยกัน คือ Maelstrom ของลิมซา โลมินซา, Order of the Twin Adder ของกริดาเนีย และ Immortal Flames ของอุลดาห์",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Serving a Grand Company means serving the nation to which it belongs. You will be charged with its defense, and tasked with advancing its cause.",
+      "text_th": "การรับใช้กองทัพเหล่านี้ก็หมายถึงการรับใช้ประเทศที่เป็นเจ้าของด้วย เธอจะได้รับหน้าที่ในการปกป้องดินแดนนั้น และทำภารกิจเพื่อผลประโยชน์ของเมืองนั้นๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "In return for your faithful service, you will be furnished with various rewards, some of which may well prove useful to you in your other endeavors.",
+      "text_th": "และเพื่อเป็นการตอบแทนความทุ่มเทในการทำงาน เธอจะได้รับรางวัลต่างๆ มากมาย ซึ่งบางอย่างก็น่าจะมีประโยชน์กับการเดินทางและภารกิจด้านอื่นๆ ของเธอด้วยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "If you are agonizing over which of the Grand Companies best deserves your loyalty, be at ease─the commitment you make this day need not be permanent. Should you wish to shift your allegiance at a later date, you are entitled to do so. And yet...I concede that it is no small choice you face...",
+      "text_th": "ถ้าเธอกำลังกังวลใจว่าจะเลือกจงรักภักดีกับกองทัพไหนดี ก็ทำตัวตามสบายเถอะจ้ะ เพราะการตัดสินใจเลือกในวันนี้ไม่ได้แปลว่าจะต้องอยู่ตลอดไปหรอกนะ ถ้าวันหลังเธออยากย้ายไปอยู่กองกำลังอื่นก็สามารถทำได้เสมอ แต่ก็นั่นแหละ... ฉันเข้าใจว่ามันก็ไม่ใช่เรื่องเล็กๆ เลยที่ต้องเลือกแบบนี้...",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Ah! A thought occurs to me! You will, of course, recall that the three city-states are planning to hold remembrance services.",
+      "text_th": "อ๊ะ! ฉันคิดอะไรดีๆ ออกแล้ว! เธอคงจำได้ใช่ไหมว่าตอนนี้นครรัฐทั้งสามแห่งกำลังเตรียมจัดพิธีรำลึกอยู่น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Well, as part of the proceedings, I am given to understand that the leader of each Grand Company will deliver an address.",
+      "text_th": "ในงานพิธีนั้น ผู้นำของแต่ละกองกำลังจะขึ้นกล่าวสุนทรพจน์ด้วยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Hearing these addresses ought to help you make an informed decision. What say you, my dear officers?",
+      "text_th": "การได้ฟังคำกล่าวเหล่านั้นด้วยตัวเองน่าจะช่วยให้ตัดสินใจได้ง่ายขึ้นนะ พวกท่านคิดเห็นอย่างไรกันบ้างล่ะคะ เจ้าหน้าที่ทุกท่าน?",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "A fine suggestion!",
+      "text_th": "เป็นข้อเสนอที่ยอดเยี่ยมมากครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "You are as wise as you are beautiful, my lady!",
+      "text_th": "คุณช่างชาญฉลาดและงดงามจริงๆ ครับคุณผู้หญิง!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "Very well! Let Forename hear our leaders speak, then return here with his / her decision.",
+      "text_th": "ตกลงค่ะ! ให้ [ชื่อ] ไปฟังผู้นำของเรากล่าวสุนทรพจน์ก่อน แล้วค่อยกลับมาตัดสินใจที่นี่",
+      "status": "AI"
+    },
+    {
+      "character": "Grand Company Officers",
+      "text_en": "We eagerly await your answer!",
+      "text_th": "พวกเราจะรอฟังคำตอบของคุณนะครับ/ค่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I know full well that adventurers are by their nature a liberty-loving breed, and not best suited to the discipline of military service, but I strongly urge you to join a Grand Company nonetheless. While the promise of reward is enticing in itself, it is not the only benefit.",
+      "text_th": "ฉันรู้ดีว่าโดยธรรมชาติแล้วนักผจญภัยรักอิสระและอาจจะไม่ค่อยชินกับระเบียบวินัยทหารเท่าไหร่ แต่ถึงอย่างนั้นฉันก็ยังอยากแนะนำให้เธอเข้าร่วม Grand Company สักแห่งนะ ถึงรางวัลที่ล่อใจจะเป็นเรื่องดี แต่มันไม่ใช่ประโยชน์เพียงอย่างเดียวหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "You are possessed of great power, Forename , and with it you are capable of doing untold good. Yet know that great power is wont to attract attention─not all of it friendly.",
+      "text_th": "เธอมีพลังที่ยิ่งใหญ่ซ่อนอยู่ [ชื่อ] และเธอสามารถใช้มันทำความดีได้มากมาย แต่ก็ต้องรู้ไว้นะว่าพลังที่ยิ่งใหญ่มักจะดึงดูดสายตาของผู้คนเสมอ... และไม่ใช่ว่าทุกคนจะหวังดีกับเธอ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "There will be those who wish you ill, and you must needs be on the lookout for them. Yet however vigilant you are, you are but one man / woman . In the midst of a Grand Company, however, you will be one man / woman amongst many─a friend amongst friends. Your achievements will be shared, and so will the danger. I can think of no better arrangement.",
+      "text_th": "มันต้องมีพวกที่คิดร้ายกับเธอแน่ๆ และเธอต้องคอยระวังตัวเอาไว้ แต่ต่อให้เธอระวังแค่ไหน เธอก็เป็นแค่ตัวคนเดียวอยู่ดี แต่หากเธออยู่ในกองทัพ Grand Company เธอจะมีเพื่อนพ้องอยู่เคียงข้างคอยสนับสนุน ความสำเร็จของเธอก็จะมีคนร่วมยินดี และความอันตรายต่างๆ ก็จะมีคนคอยร่วมแบ่งเบา ฉันคิดว่าไม่มีทางเลือกไหนจะดีไปกว่านี้แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Of course, joining one organization need not mean leaving another. I hope that we can continue to rely upon your aid─the Twelve know that we will have need of it in the days ahead.",
+      "text_th": "และแน่นอนว่าการเข้าร่วมกองกำลังไม่ได้แปลว่าต้องทิ้งพวกเราหรอกนะ ฉันหวังว่าพวกเราจะยังคงพึ่งพาความช่วยเหลือจากเธอได้อยู่... ทวยเทพเบื้องบนรู้ดีว่าพวกเรายังต้องขอแรงเธออีกมากในวันข้างหน้า",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The Grand Companies seek to protect their own nations. We Scions, on the other hand, seek to preserve the future of Eorzea as a whole. Similar, yet not quite the same.",
+      "text_th": "กองทัพ Grand Company มุ่งปกป้องประเทศของตัวเอง ส่วนพวกเรากลุ่ม Scions มุ่งรักษาอนาคตของอีออร์เซียในภาพรวมเอาไว้ คล้ายกันนะ แต่ก็ไม่เหมือนกันซะทีเดียวหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Now then, I expect that you will be afield more often in the future.",
+      "text_th": "เอาล่ะ ต่อจากนี้ไปฉันคิดว่าเธอคงต้องลงสนามและเดินทางบ่อยขึ้นแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "As such, I would have you carry this linkpearl with you at all times. It will allow us to stay in touch regardless of location.",
+      "text_th": "เพราะงั้น ฉันอยากให้เธอพกลิงก์เพิร์ลชิ้นนี้ติดตัวเอาไว้ตลอดเวลานะ มันจะช่วยให้พวกเราติดต่อกันได้ไม่ว่าเธอจะอยู่ที่ไหนก็ตาม",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Eorzea is changing, Forename , and you have the power to help shape it anew.",
+      "text_th": "อีออร์เซียกำลังจะเปลี่ยนไปแล้วนะ [ชื่อ] และเธอเองก็มีพลังที่จะช่วยชี้นำการเปลี่ยนแปลงนั้นได้",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "None can say what the morrow will bring, but so long as we believe in ourselves, there is naught we cannot achieve.",
+      "text_th": "ไม่มีใครบอกได้หรอกว่าพรุ่งนี้จะเกิดอะไรขึ้น แต่ตราบใดที่เรายังเชื่อมั่นในตัวเอง ก็ไม่มีอะไรที่เราทำไม่ได้หรอกจ้ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Now, it is time you made ready for your journey. Before you depart, be sure to speak to Tataru. She will apprise you as to where and when the remembrance services are due to take place.",
+      "text_th": "เอาล่ะ ได้เวลาเตรียมตัวออกเดินทางแล้ว ก่อนจะไปอย่าลืมแวะคุยกับทาทารุก่อนนะ เธอจะบอกข้อมูลให้รู้เองว่าพิธีรำลึกจะจัดขึ้นที่ไหนและเมื่อไหร่",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "The Elder Seedseer speaks only truth, and her words have the power to touch the soul. At the sound of her voice, all fall silent and attend her.",
+      "text_th": "ผู้นำสูงสุดของพวกเราพูดแต่ความจริงเสมอ และถ้อยคำของท่านก็สามารถจับใจผู้คนได้ เมื่อใดที่ท่านกล่าว ทุกคนต่างจะนิ่งเงียบและรับฟังด้วยความเคารพครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "The Flame General is a passionate man, and his words never fail to light a fire in the belly of those who listen. I am sure you will be no exception!",
+      "text_th": "ท่านแม่ทัพใหญ่เป็นคนที่มีความมุ่งมั่นแรงกล้า คำพูดของท่านไม่เคยพลาดที่จะปลุกไฟในใจของผู้ฟังเลยครับ และผมมั่นใจว่าคุณก็คงจะไม่ใช่ข้อยกเว้นแน่นอน!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "When the Admiral speaks, even pirates listen, and that is no small thing. She is a born leader─the kind one would gladly follow to the seventh hell!",
+      "text_th": "เวลาท่านผู้บัญชาการพูด แม้แต่พวกโจรสลัดยังต้องรับฟังเลยค่ะ ซึ่งมันไม่ใช่เรื่องง่ายๆ เลยนะ ท่านเป็นผู้นำโดยสายเลือดเลยล่ะ เป็นคนที่ใครๆ ก็พร้อมจะติดตามไปถึงขุมนรกทั้งเจ็ดเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Speeches? Oh, yes, I love them. There's nothing like a good exposition when you're having trouble sleeping!",
+      "text_th": "สุนทรพจน์งั้นเหรอ? โอย ชอบมากเลยล่ะ ไม่มีอะไรจะกล่อมให้หลับปุ๋ยได้ดีไปกว่าการฟังบรรยายยาวๆ อีกแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Five years ago, the three Grand Companies joined as one and fought the Garlean Empire at the Carteneau Flats.",
+      "text_th": "เมื่อห้าปีก่อน กองกำลัง Grand Company ทั้งสามเมืองได้ร่วมมือกันเป็นหนึ่งเดียว และเข้าต่อสู้กับจักรวรรดิการ์ลีนที่สมรภูมิคาร์เตอโน",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "And now, for the first time, the people will gather to remember those who fell in the battle.",
+      "text_th": "และนี่จะเป็นครั้งแรกที่ผู้คนจะมารวมตัวกันเพื่อรำลึกถึงผู้ที่ล่วงลับไปในการต่อสู้ครั้งนั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "That being said, no one has any clear memory of what transpired that fateful day—not even the leaders of each nation.",
+      "text_th": "แต่ถึงอย่างนั้นก็ตาม ไม่มีใครจำเหตุการณ์ในวันประวัติศาสตร์นั้นได้อย่างชัดเจนเลย... แม้แต่ผู้นำของแต่ละประเทศเองก็เถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Una Tayuun",
+      "text_en": "<crunch> <crunch> ... <crunch> <crunch> ...Oh, hello again, laddie / lassie ! Meet Percevains—we was thick as thieves in the old days. Least, I think we was.",
+      "text_th": "*เคี้ยวกรวบๆ*... *เคี้ยวกรวบๆ*... อ้าว เจอกันอีกแล้วนะแม่หนู/เจ้าหนุ่ม! นี่คือเปอร์เซแวงส์—พวกเราเคยสนิทกันปานจะแหกตูดดมในสมัยก่อนเลยล่ะ... อย่างน้อยฉันก็คิดว่างั้นนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Una Tayuun",
+      "text_en": "...Or it might've been that he was a right creepy bastard, an' I did me best t' avoid him. Still, we was both members o' the old order, so either way we're in this together, eh?",
+      "text_th": "...หรือไม่เขาก็อาจจะเป็นไอ้คนเพี้ยนๆ สุดหลอนที่ฉันพยายามจะหนีหน้ามาตลอดนั่นแหละ แต่ก็นะ พวกเราต่างก็เคยเป็นสมาชิกของสมาคมเก่าเหมือนกัน เพราะงั้นไม่ว่าจะยังไง ตอนนี้เราก็ตกที่นั่งเดียวกันแล้วล่ะ จริงไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You've put us all to shame with your recent performance in the field. If I'm to keep up, I daresay I'll need bigger knives!",
+      "text_th": "ผลงานในสนามรบของเธอทำเอาพวกเราอายม้วนไปเลยนะเนี่ย ถ้าฉันอยากจะตามเธอให้ทัน สงสัยต้องหาซื้อมีดเล่มใหญ่กว่านี้ซะแล้วสิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Brendt",
+      "text_en": "Everythin' looks to be in order. Right—on to the next customer...",
+      "text_th": "ทุกอย่างดูเรียบร้อยดี เอาละ... ไปบริการลูกค้ารายต่อไปเลยแล้วกัน...",
+      "status": "AI"
+    },
+    {
+      "character": "Aulie",
+      "text_en": "I must confess, I do rather miss that obnoxious Miqo'te's company.",
+      "text_th": "ยอมรับเลยว่า ฉันค่อนข้างจะคิดถึงเจ้ามิด็อตเต้จอมกวนประสาทคนนั้นอยู่เหมือนกันนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Aulie",
+      "text_en": "A'aba is taking part in a joint operation with the Immortal Flames. I imagine he's having the time of his life right now.",
+      "text_th": "อาบาเขากำลังไปเข้าร่วมปฏิบัติการร่วมกับกลุ่ม Immortal Flames น่ะ ป่านนี้คงจะกำลังสนุกสุดเหวี่ยงอยู่เลยล่ะมั้ง",
+      "status": "AI"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "An experienced warrior like A'aba won't die so easily. He's strong, fast, cunning... Aye, he'll come back safe.",
+      "text_th": "นักรบที่เจนสนามอย่างอาบาไม่ตายง่ายๆ หรอกน่า ทั้งแข็งแกร่ง รวดเร็ว แล้วก็เจ้าเล่ห์จะตายไป... ใช่แล้ว เขาต้องกลับมาอย่างปลอดภัยแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I have heard word of your deeds. I am sparing in my praise, so know that you have truly impressed me.",
+      "text_th": "ฉันได้ยินเรื่องราวเกี่ยวกับผลงานของเธอแล้วล่ะ ปกติฉันไม่ค่อยเอ่ยปากชมใครหรอกนะ เพราะงั้นขอให้รู้ไว้เถอะว่าเธอทำให้ฉันประทับใจได้จริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Be that as it may, it is fortunate that Thancred arrived when he did. Had he been but a moment later, I shudder to think what may have transpired.",
+      "text_th": "ถึงอย่างนั้นก็ถือว่าโชคดีมากที่แซงเครดไปช่วยได้ทันเวลาพอดี ถ้าเขาช้าไปกว่านั้นแค่นิดเดียว ฉันนึกไม่ออกเลยว่าจะเกิดเรื่องร้ายแรงขนาดไหนขึ้น",
+      "status": "AI"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The destruction that visitied this land cannot be attributed to the forces of the Empire alone.",
+      "text_th": "ความพินาศย่อยยับที่มาเยือนดินแดนแห่งนี้ หาใช่เป็นผลจากแสนยานุภาพแห่งจักรวรรดิเพียงฝ่ายเดียวไม่...",
+      "status": "AI"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Wyrm of midnight, of breath infernal. For some, a legend made flesh; for others, an insidious symbol of memory lost.",
+      "text_th": "มังกรดำแห่งรัตติกาล ผู้มีลมหายใจเป็นอัคคีโลกันตร์... สำหรับบางคน มันคือตำนานที่มีตัวตนจริง แต่สำหรับบางคน มันคือสัญลักษณ์อันตรายแห่งความทรงจำที่สาบสูญ...",
+      "status": "AI"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "We grasp but a piece of this puzzle. Much and more must we question and contemplate ere the fallen moon revealeth its myriad secrets.",
+      "text_th": "พวกเราเพิ่งจะเข้าใจเพียงเศษเสี้ยวหนึ่งของปริศนาทั้งหมดเท่านั้น ยังมีสิ่งต่างๆ อีกมากมายที่พวกเราต้องสืบหาและใคร่ครวญ ก่อนที่จันทราสีครามดวงนั้นจะเปิดเผยความลับทั้งมวลออกมา...",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I, um... I'm sorry about all the attention you're getting, Forename ... I might have sung your praises a little too loudly...and often...to a few too many people. Ahem. Next time, I'll be sure to hold my tongue─literally, if necessary.",
+      "text_th": "คือ... หนูขอโทษด้วยนะคะที่ทำให้พี่ [ชื่อ] ต้องกลายเป็นจุดสนใจขนาดนี้... หนูอาจจะเผลอเอาเรื่องพี่ไปโม้เสียงดังไปหน่อย... แถมบ่อยด้วย... กับคนเยอะแยะไปหมดเลย แหะๆ คราวหน้าหนูจะระวังปากตัวเองให้มากกว่านี้ค่ะ สัญญาเลยว่าจะเงียบปากไว้แน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Anyway, I expect you want to know where and when the remembrance services are taking place?",
+      "text_th": "ว่าแต่ พี่คงอยากรู้แล้วใช่ไหมคะว่าพิธีรำลึกจะจัดขึ้นที่ไหนและเมื่อไหร่บ้าง?",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "If all goes to plan, Gridania's Grand Company, the Order of the Twin Adder, will hold the first of the three services, and Elder Seedseer Kan-E-Senna will deliver her address at Mih Khetto's Amphitheatre.",
+      "text_th": "ถ้าเป็นไปตามกำหนดการ กองทัพ Order of the Twin Adder ของกริดาเนียจะจัดพิธีเป็นที่แรกในบรรดาสามเมืองค่ะ โดยท่านผู้นำ Kan-E-Senna จะขึ้นกล่าวสุนทรพจน์ที่ลานแสดงกลางแจ้ง Mih Khetto's Amphitheatre",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I should probably mention at this point that due to the organizational challenges involved in assembling all of the involved parties, it's possible that the order of the services might change... Still, there's not much we can do about that, so make Gridania your first port of call.",
+      "text_th": "อ้อ หนูควรบอกไว้ก่อนว่าเนื่องจากการเตรียมงานและประสานงานกับหลายฝ่ายมันค่อนข้างวุ่นวาย ลำดับของพิธีในแต่ละเมืองก็เลยอาจจะมีการเลื่อนขยับได้ค่ะ... แต่ถึงอย่างนั้นเราก็คงทำอะไรไม่ได้มาก งั้นพี่เริ่มเดินทางไปที่กริดาเนียเป็นเมืองแรกก่อนเลยนะคะ",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Next, you'll need to go to Ul'dah, where Flame General Raubahn Aldynn will be addressing the masses at the Royal Promenade. Oh, and it's rumored there's to be a special guest! How exciting.",
+      "text_th": "หลังจากนั้นก็ไปต่อที่อุลดาห์ค่ะ ท่านแม่ทัพใหญ่ Raubahn จะกล่าวสุนทรพจน์ต่อประชาชนที่บริเวณ Royal Promenade และแว่วๆ มาว่าจะมีแขกรับเชิญพิเศษมาร่วมงานด้วยนะ! น่าตื่นเต้นสุดๆ ไปเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Last but not least, you must make your way to the Stateroom in Limsa Lominsa, where Maelstrom Chief Admiral Merlwyb Bloefhiswyn will be giving her address.",
+      "text_th": "และที่สุดท้ายก็คือที่ห้องบัญชาการ Stateroom ในลิมซา โลมินซาค่ะ ท่านผู้บัญชาการสูงสุด Merlwyb จะขึ้นกล่าวที่นั่น",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "The room is accessible via the Admiral's Lift. Identify yourself to the sentry, Zanthael, and he will admit you. Got all that?",
+      "text_th": "ห้องนั้นสามารถขึ้นลิฟต์ Admiral's Lift ไปได้ค่ะ พี่แค่ไปรายงานตัวกับยามที่ชื่อแซนแธล แล้วเขาจะเปิดทางให้เข้าไปเองค่ะ จำข้อมูลทั้งหมดได้ใช่ไหมคะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Well, off you go, then. I hope you find the remembrance services suitably educational! I suggest visiting the city-states in my prescribed order, though with your record of impeccable timing and luck, the schedule may well change in favor of your preferred travel plans. Farewell!",
+      "text_th": "งั้นก็ขอให้เดินทางปลอดภัยนะคะ! หวังว่าพี่จะได้รับความรู้และข้อคิดดีๆ จากพิธีรำลึกในครั้งนี้ค่ะ หนูแนะนำให้เดินทางตามลำดับเมืองที่หนูบอกนะ แต่ถ้าดวงของพี่และจังหวะเวลาเกิดเข้าข้างขึ้นมา ตารางเวลาอาจจะเปลี่ยนไปตามเส้นทางที่พี่ชอบเดินทัวร์เองก็ได้ค่ะ บ๊ายบาย!",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Some people let fame swell their heads, but I believe that your will remain in proportion and firmly attached to your body!",
+      "text_th": "คนบางคนพอมีชื่อเสียงแล้วก็ชอบหลงระเริงจนลืมตัวลืมหัว แต่หนูเชื่อว่าหัวของพี่จะยังคงน่ารักเท่าเดิมและตั้งอยู่บนบ่าอย่างมั่นคงแน่นอนค่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 1 in the Crowd (no text)",
+      "text_en": "I lost my son to the Calamity.",
+      "text_th": "ฉันสูญเสียลูกชายไปในตอนที่เกิดภัยพิบัติใหญ่",
+      "status": "AI"
+    },
+    {
+      "character": "Person 2 in the Crowd (no text)",
+      "text_en": "The three Seedseers are all together!",
+      "text_th": "ท่านผู้นำทั้งสามท่านมารวมตัวกันหมดเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 3 in the Crowd (no text)",
+      "text_en": "Some say you couldn't take a step without stumbling over a body.",
+      "text_th": "บางคนบอกว่าแทบจะเดินก้าวผ่านศพคนไม่ได้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Our forebears were once strangers in the Twelveswood.",
+      "text_th": "บรรพบุรุษของพวกเราครั้งหนึ่งเคยเป็นผู้มาเยือนที่แปลกหน้าในป่าทเวลฟ์สวูดแห่งนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Fearful of the greenwrath, they hid themselves in the dark recesses of the earth. Yet they dreamed of basking in the dappled sunlight of the forest.",
+      "text_th": "ด้วยความหวาดกลัวต่อพิโรธแห่งผืนป่า พวกเขาจึงซ่อนตัวอยู่ในส่วนลึกอันมืดมิดใต้พิภพ ทว่าในใจก็ยังคงเฝ้าฝันถึงการได้ก้าวออกมาสัมผัสแสงแดดอันอบอุ่นที่ลอดผ่านทิวไม้ในป่ากว้าง",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Through great effort, they proved their worth to the elementals, and were granted a place beneath the boughs. So it was that Gridania was born, some five centuries ago.",
+      "text_th": "ด้วยความพากเพียรพยายามอันยิ่งใหญ่ ในที่สุดพวกเขาก็สามารถพิสูจน์ตนเองต่อเหล่าภูตธรรมชาติ จนได้รับอนุญาตให้อาศัยอยู่ใต้ร่มเงาไม้ใหญ่แห่งนี้ และนั่นคือจุดเริ่มต้นที่กริดาเนียถือกำเนิดขึ้นเมื่อราวห้าศตวรรษก่อน",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Working hand in hand, the Hyur and the Elezen settlers sowed the seeds of our civilization. And soon they were joined by folk of all races.",
+      "text_th": "ผู้ตั้งถิ่นฐานชาวฮิวม์และเอลเซนต่างร่วมแรงร่วมใจกันหว่านเมล็ดพันธุ์แห่งอารยธรรม และในไม่ช้า ผู้คนจากหลากหลายเผ่าพันธุ์ก็พากันเข้ามาร่วมมือกันรดน้ำพรวนดิน",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "So nourished by the waters of unity and blessed by the light of the Matron, Gridania flourished into the great nation it is today.",
+      "text_th": "จากการหล่อเลี้ยงด้วยน้ำใจอันเป็นหนึ่งเดียวและได้รับพรจากแสงสว่างแห่งพระแม่ผู้อุปถัมภ์ กริดาเนียจึงได้เติบโตและรุ่งเรืองจนเป็นนครรัฐที่ยิ่งใหญ่ดังเช่นทุกวันนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Self-assured Youth",
+      "text_en": "Do you see the Gridanian standard? There, hanging behind the Elder Seedseer.",
+      "text_th": "เธอเห็นธงสัญลักษณ์ของกริดาเนียไหม? ตรงนั้นน่ะ ที่แขวนอยู่ด้านหลังของท่านผู้นำ Kan-E-Senna",
+      "status": "AI"
+    },
+    {
+      "character": "Self-assured Youth",
+      "text_en": "The entwined serpents represent the unity between Hyur and Elezen. An elegant symbol, do you not agree?",
+      "text_th": "งูสองตัวที่พันเกี่ยวกันอยู่นั้นสื่อถึงความเป็นน้ำหนึ่งใจเดียวกันระหว่างชาวฮิวม์และชาวเอลเซน เป็นสัญลักษณ์ที่งดงามมากเลยว่าไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "In accordance with the will of the elementals, we have embraced a life of peace. Alas, our neighbors have not always sought the same for themselves─nor for us.",
+      "text_th": "เพื่อให้สอดคล้องกับเจตจำนงของภูตธรรมชาติ พวกเราจึงได้ดำเนินวิถีชีวิตอย่างสงบสุข ทว่าเพื่อนบ้านรอบข้างของเราไม่ได้มองหาความสงบสุขเช่นนั้นเสมอไป... ทั้งเพื่อตนเองและเพื่อพวกเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Though we Gridanians have no love for war, we have still less for those who would threaten our way of life. Ever have we fought to protect the sanctity of the Twelveswood.",
+      "text_th": "ถึงแม้ชาวกริดาเนียจะไม่เคยฝักใฝ่ในการทำสงคราม แต่พวกเราก็ไม่อาจยอมจำนนต่อผู้ที่มารุกรานวิถีชีวิตของพวกเราได้ พวกเราจึงต้องต่อสู้มาโดยตลอดเพื่อปกป้องความศักดิ์สิทธิ์ของผืนป่าทเวลฟ์สวูด",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "When the Garlean Empire brought its war of conquest to Eorzea, we rallied under the noble standard of the Twin Adder, that we might push back the encroaching darkness.",
+      "text_th": "เมื่อจักรวรรดิการ์ลีนแผ่ขยายสงครามรุกรานเข้ามายังอีออร์เซีย พวกเราจึงได้มารวมตัวกันภายใต้ธง Twin Adder อันทรงเกียรติ เพื่อต้านทานความมืดมิดที่ย่างกรายเข้ามา",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "And it was we who prepared the ground for the reformation of the Eorzean Alliance, that all the peoples of this realm might stand united against the common threat.",
+      "text_th": "และเป็นพวกเราเองที่เป็นผู้ปูทางในการก่อตั้งพันธมิตร Eorzean Alliance ขึ้นมาใหม่อีกครั้ง เพื่อให้ผู้คนในดินแดนแห่งนี้สามารถยืนหยัดต่อสู้กับภัยคุกคามร่วมกันได้",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Five years ago, the Alliance met the armies of the Empire upon the fields of Carteneau.",
+      "text_th": "และเมื่อห้าปีก่อน กองทัพพันธมิตรของเราได้เผชิญหน้ากับกองทัพแห่งจักรวรรดิ ณ สมรภูมิคาร์เตอโน",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "It would prove the bloodiest battle in recent memory. Countless Gridanian lives were lost.",
+      "text_th": "นั่นเป็นการต่อสู้ที่นองเลือดที่สุดเท่าที่เคยบันทึกไว้ในความทรงจำยุคนี้ และเราต้องสูญเสียชีวิตของพี่น้องชาวกริดาเนียไปมากมายเหลือคณานับ",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "As supreme commander of the Order of the Twin Adder, ever shall I bear the weight of our people's sacrifice.",
+      "text_th": "ในฐานะผู้บัญชาการสูงสุดของกองพล Order of the Twin Adder ฉันจะขอแบกรับความเศร้าโศกจากการเสียสละของประชาชนไว้ในใจตลอดไป",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Alas, their loss was not the only tragedy to befall us that day, for soon came the Calamity.",
+      "text_th": "แต่ทว่า ความสูญเสียในวันนั้นเป็นเพียงจุดเริ่มต้นของโศกนาฏกรรมเท่านั้น เพราะในไม่ช้ามหาวิบัติภัยก็มาเยือน",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The scars borne by our forest are a constant reminder of its violence. Our lives have been irrevocably changed, each waking hour a struggle to survive.",
+      "text_th": "บาดแผลที่ผืนป่าแห่งนี้ได้รับเป็นสิ่งคอยเตือนใจเราถึงความรุนแรงในครั้งนั้น วิถีชีวิตของเราต้องเปลี่ยนไปอย่างสิ้นเชิง ทุกๆ วันที่ลืมตาตื่นขึ้นมาล้วนเป็นการดิ้นรนเพื่อเอาชีวิตรอด",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Driven to desperation, some among us have strayed from the path of righteousness, resorting to banditry, poaching, and other unconscionable deeds.",
+      "text_th": "ด้วยความยากแค้นแสนสาหัส เพื่อนร่วมชาติบางส่วนจึงหลงผิดออกนอกเส้นทางแห่งคุณธรรม หันไปเป็นโจรป่า ลักลอบล่าสัตว์ และทำเรื่องเสื่อมเสียอื่นๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "To compound our woes, the Ixal have returned in force, emboldened by our suffering. They test our defenses nigh without cease, and prey upon the vulnerable.",
+      "text_th": "เมื่อต้องเผชิญศึกหนักทั้งจากภายในและภายนอกเช่นนี้ จึงไม่ใช่เรื่องแปลกเลยที่ความเป็นน้ำหนึ่งใจเดียวกันของเราเริ่มจะสั่นคลอน ยุคมืดกำลังครอบงำพวกเราอยู่",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "So beleaguered from within and without, it is of little wonder that our unity now falters. Dark times are upon us.",
+      "text_th": "ยามที่เดินอยู่บนทางหลวงแผ่นดินก็คอยระวังตัวไว้เถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Person 1 in the Crowd (no text)",
+      "text_en": "Time was, a man could walk the highroads without fear.",
+      "text_th": "ขอแช่งไอ้พวกอิกซาลบ้านั่น!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 2 in the Crowd (no text)",
+      "text_en": "A pox on the bloody Ixal!",
+      "text_th": "ในวันนี้เมื่อห้าปีก่อน ชาวอีออร์เซียจำนวนมากได้สละชีวิตเพื่อให้พวกเราได้มีโอกาสลืมตาตื่นขึ้นมาพบรุ่งอรุณใหม่ของวันข้างหน้า ขอให้ทุกท่านร่วมรำลึกถึงและให้เกียรติแก่ความเสียสละของพวกเขาไปพร้อมกับฉันด้วยค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "On this day, five years ago, countless Eorzeans laid down their lives that we might behold another dawn. Please join with me in honoring their memory.",
+      "text_th": "แล้วท่านมีวิธีให้เกียรติคนที่เราจำชื่อจำหน้าไม่ได้ยังไงล่ะคะ ช่วยบอกหน่อยสิ?",
+      "status": "AI"
+    },
+    {
+      "character": "Cynical Girl",
+      "text_en": "And how do you propose to honor the memory of those you cannot remember, pray tell?",
+      "text_th": "ความพินาศย่อยยับจากภัยพิบัติครั้งนั้นเกิดขึ้่นโดยไม่เลือกปฏิบัติ มันพรากชีวิตของผู้คนไปทั้งฝ่ายอีออร์เซียและฝ่ายจักรวรรดิอย่างเท่าเทียมกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The destruction wrought by the Calamity was indiscriminate─it dealt death to Eorzean and Garlean alike.",
+      "text_th": "ทว่าในขณะที่เราพยายามก้มหน้าก้มตาฟื้นฟูบ้านเรือนและชีวิตใหม่ของพวกเรา จักรวรรดิกลับเริ่มต้นก่อสร้างป้อมปราการเหล็กกล้าขึ้นมากลางป่าทเวลฟ์สวูดแห่งนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Yet while we have labored to rebuild our homes─to rebuild our lives─the Empire has set about raising steel fortresses here in the Twelveswood.",
+      "text_th": "ขออย่าให้ใครเข้าใจผิดไปเด็ดขาด พวกการ์เลียนยังคงเป็นภัยคุกคามที่ใหญ่ที่สุดต่อความอยู่รอดของเรา หากพวกเราต้องการจะยืนหยัดต่อสู้กับพวกเขา เราต้องจดจำให้ได้ว่าหัวใจสำคัญของการรวมพลังกันคืออะไร",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Let none be mistaken─the Garleans remain the greatest threat to our survival. If we are to stand against them, we must remember what it is to be united.",
+      "text_th": "ปัญหาต่างๆ ที่รุมเร้าทำเอาพวกเรามองข้ามความทุกข์ยากของคนรอบข้าง จนทำให้ความสมานฉันท์ต้องสูญเสียไป ทว่าความสมานฉันท์นั้นคือรากฐานสำคัญในการก่อตั้งกริดาเนียขึ้นมา",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Our many troubles blind us to the woes of our fellow man. Thence is harmony lost. Yet harmony is the founding principle of Gridania.",
+      "text_th": "ที่พวกเรามารวมตัวกันที่นี่ก็เพื่อรำลึกถึงผู้ที่ล่วงลับไป",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "We are gathered here to honor the fallen.",
+      "text_th": "ขอให้พวกเราช่วยกันให้เกียรติพวกเขา ไม่ใช่เพียงแค่คำพูดหรือความรู้สึก แต่เป็นการร่วมมือกันลงมือทำ!",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Let them be honored not only in word and thought, but through concerted action!",
+      "text_th": "ฉันขอเชิญชวนทุกท่านให้มาร่วมมือจับมือกันอีกครั้ง ภายใต้ธง Twin Adder ผืนนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I bid you join hands with me once more beneath the Twin Adder standard!",
+      "text_th": "และพวกเรามาร่วมใจกันเยียวยาบาดแผลของผืนป่าแห่งนี้ เพื่อให้ลูกหลานของเราสามารถอยู่อาศัยร่วมกันอย่างสงบสุขใต้ร่มไม้ใหญ่อันเก่าแก่สืบไป เพื่อความสงบเย็น ความบริสุทธิ์ และความศักดิ์สิทธิ์!",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "And together, let us heal the forest's wounds, that our progeny might live in harmony beneath these ancient boughs. For serenity, purity, and sanctity!",
+      "text_th": "คนรอบข้างเรารับฟังได้เยอะเลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 1 in the Crowd (no text)",
+      "text_en": "We must think of the children!",
+      "text_th": "ขอให้เป็นไปตามประสงค์ของผืนป่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 2 in the Crowd (no text)",
+      "text_en": "Wood's will be done!",
+      "text_th": "หน้าที่ของเราคือต้องคอยช่วยเหลือผู้คนในผืนป่า",
+      "status": "AI"
+    },
+    {
+      "character": "Person 3 in the Crowd (no text)",
+      "text_en": "It's up to us to protect the forest.",
+      "text_th": "เพื่อปกป้องพวกเราทั้งหมด!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 4 in the Crowd (no text)",
+      "text_en": "For the elementals!",
+      "text_th": "ขออนุญาตแนะนำตัวนะครับ ผมชื่ออัลฟิโน่ครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If you'll permit me. Alphinaud.",
+      "text_th": "...และนี่อลิเซ่น้องสาวของผม ยินดีที่ได้รู้จักครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...And my sister, Alisaie, at your service.",
+      "text_th": "ผมมองปราดเดียวก็รู้เลยว่าคุณเองก็เป็นเพื่อนร่วมเดินทางเหมือนกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I saw at a glance that you were a fellow traveler.",
+      "text_th": "คุณอาจจะเรียกพวกเราว่าเป็นผู้ศึกษาประวัติศาสตร์ ที่เดินทางมาร่วมงานรำลึกต่างๆ ทั่วดินแดนแห่งนี้เพื่อแสวงหา... ความเข้าใจที่แท้จริงน่ะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You might call us students of history, sampling the realm's remembrances in pursuit of...enlightenment.",
+      "text_th": "ชาวกริดาเนียโชคร้ายหน่อยตรงที่พวกเขาต้องเผชิญหน้ากับชนเผ่าอสูรถึงสองกลุ่ม",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Gridanians are unfortunate enough to have to contend with two beast tribes.",
+      "text_th": "พวกอิกซาลสร้างปัญหาให้หนักหนาที่สุดอย่างไม่ต้องสงสัยเลยล่ะครับ เพราะตามธรรมชาติแล้วพวกมันชื่นชอบการทำศึกสงคราม และมักจะอัญเชิญ Garuda ไพรมอลจอมกระหายเลือดออกมาบ่อยๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Ixal are unquestionably the more troublesome, being of a naturally warlike disposition, and wont to summon their bloodthirsty primal, Garuda.",
+      "text_th": "ในทางกลับกัน พวกซิลฟ์รักสงบและขี้เล่นมากกว่าจะคิดร้าย พวกเขามีความสัมพันธ์ที่ดีกับชาวกริดาเนียมาอย่างยาวนาน... อย่างน้อยก็จนกระทั่งเมื่อเร็วๆ นี้ล่ะนะครับ น่าเสียดายที่ช่วงหลังมานี้พวกเขาห่างเหินไปมาก ซึ่งเป็นความเปลี่ยนแปลงที่เริ่มสังเกตเห็นได้ในช่วงเวลาไล่เลี่ยกับที่พวกเขาอัญเชิญ Ramuh ออกมานั่นแหละครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The sylphs, by contrast, are peaceful in nature, being mischievous rather than malevolent, and have long been on friendly terms with the Gridanians─until recently, at least. Alas, they have grown aloof, a change observed at roughly the time they summoned the primal Ramuh.",
+      "text_th": "ชาวกริดาเนียเกลียดชังสงคราม และพวกเขาจะถือว่าการปะทะกันตรงๆ เป็นทางเลือกสุดท้ายเสมอ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Gridanians have no love for war, and they consider open conflict a last resort.",
+      "text_th": "แม้ว่าพวกเขาจะต้องปะทะกับพวกอิกซาลบ่อยครั้งขึ้นเรื่อยๆ แต่เชื่อมั่นได้เลยครับว่าพวกเขาทำไปเพื่อป้องกันตัวเท่านั้น ส่วนพวกซิลฟ์... ตอนนี้ก็ยังมีสนธิสัญญาพันธมิตรผูกพันกันอยู่ แต่ก็ไม่รู้ว่าจะสามารถรักษาสัญญาได้นานแค่ไหนน่ะนะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though they clash with the Ixal ever more regularly, you may be assured that they do so in self-defense. As for the sylphs...they are as yet bound by a peace treaty, though one wonders how long it will be before it is broken.",
+      "text_th": "ผืนป่าทเวลฟ์สวูดได้รับความเสียหายอย่างหนักในตอนที่เกิดภัยพิบัติครั้งใหญ่ ทำให้กริดาเนียตกเป็นเป้าโจมตีได้ง่าย ผู้คนคาดหวังว่าการฟื้นฟูผืนป่าและฟื้นพลังของภูตธรรมชาติจะช่วยยุติความทุกข์ร้อนทั้งหมดลงได้ แต่ว่ามันต้องใช้เวลานานแค่ไหนกันล่ะ? ผมกล้าพนันเลยว่าน่าจะอีกหลายร้อยปีเลยทีเดียว",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Twelveswood was grievously wounded during the Calamity, leaving Gridania vulnerable to attack. The people are hopeful that restoring the wood─and thereby the power of the elementals─will put an end to their woes. Yet how long will that take? Centuries , I'd wager.",
+      "text_th": "ระหว่างนี้ พวกอิกซาลก็จะยังคงรุกรานเข้ามาอย่างต่อเนื่อง โดยมีแรงสนับสนุนจาก Garuda ที่ต้องการทำลายล้างทุกสิ่งทุกอย่างอย่างไม่มีวันสิ้นสุด",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Meanwhile, the Ixal will continue their incursions, spurred on by Garuda and her insatiable appetite for destruction.",
+      "text_th": "ไม่ว่าชาวกริดาเนียจะต้องการหรือไม่ ในที่สุดสงครามเต็มรูปแบบก็ต้องเกิดขึ้น และเมื่อเวลานั้นมาถึง กองทัพ Order of the Twin Adder ย่อมต้องการความช่วยเหลือจากทุกฝ่ายเท่าที่จะหาได้แน่นอนครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Whether the Gridanians like it or not, sooner or later it will come to all-out war. And when it does, the Order of the Twin Adder will need all the help it can muster.",
+      "text_th": "...เมื่อถึงเวลานั้น ความช่วยเหลือจากนักผจญภัยที่มีฝีมืออย่างคุณจะส่งผลลัพธ์ที่มีค่าขนาดไหนกันนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...How valuable might the aid of a capable adventurer prove to them then?",
+      "text_th": "เอาล่ะ บางทีพวกเราอาจจะได้รู้กันเร็วๆ นี้... หากถ้อยคำของท่านผู้นำหยั่งรากลึกเข้าไปในใจของทุกคนได้ล่ะก็...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, perhaps we will find out─if the Elder Seedseer's words fell on fertile ground...",
+      "text_th": "ดูนั่นสิ องค์ราชินีนานาโมเสด็จมาด้วยตัวเองเลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 1 in the Crowd (no text)",
+      "text_en": "Behold, 'tis the sultana Nanamo herself!",
+      "text_th": "และยังมีท่านแม่ทัพใหญ่ราอูบาห์นด้วย!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 2 in the Crowd (no text)",
+      "text_en": "And General Raubahn as well!",
+      "text_th": "ฟังให้ดี เหล่าจิตวิญญาณแห่งเปลวเพลิงผู้อาศัยอยู่ในดินแดนทะเลทรายอันกว้างใหญ่ ที่ซึ่งกองไฟคุโชนโชติช่วงที่สุดและไม่มีวันดับมอด!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Hark you, souls of flame, drawn to the bosom of the desert, where the fire burns brightest and shall rage forevermore!",
+      "text_th": "เฮ้! ราอูบาห์น!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 1 in the Crowd (no text)",
+      "text_en": "Hoorah! Raubahn!",
+      "text_th": "ที่ซึ่งพวกเราได้แปรเปลี่ยนผืนทรายให้กลายเป็นทองคำ ภายใต้การปกครองอันปรีชาสามารถของราชวงศ์อุลมาตั้งแต่สมัยโบราณ!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Where since antiquity, under the sage and judicious rule of the Ul Dynasty, we have wrought sand into gold!",
+      "text_th": "ที่ซึ่งบุตรและธิดาผู้กล้าหาญของพวกเราได้เติบโตและรุ่งเรืองด้วยพระคุณและบารมีแห่งเทพ Nald'thal... ดินแดนที่ฉันกำลังพูดถึงอยู่นี้คือ อุลดาห์!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Where by the Grace and Glory of Nald'thal have our brave sons and daughters flourished and prospered─I speak of Ul'dah!",
+      "text_th": "ด้านหลังของท่านแม่ทัพใหญ่นั่นคือธงศึกประจำกองกำลัง Grand Company ของอุลดาห์ครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There, at the Flame General's back flies the Grand Company's standard.",
+      "text_th": "ลองสังเกตสัญลักษณ์บนธงดูสิครับ ตราชั่งสีทองแห่งความสงบสุขกำลังปรับสมดุลระหว่างอัญมณีแห่งความรุ่งเรืองและเปลวเพลิงแห่งพลังอำนาจเข้าด้วยกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Note the sigil. The golden scales of order balance the jewel of prosperity with the flame of might.",
+      "text_th": "ประเทศของพวกเราได้มอบคุณประโยชน์ให้แก่แผ่นดินนี้มากมายเหลือคณานับ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Great and many are the gifts our nation has given the realm.",
+      "text_th": "ในห้วงเวลาที่มืดมนที่สุดของอีออร์เซีย ณ สมรภูมิเลือดคาร์เตอโน ไม่มีใครยอมเสียเลือดเนื้อและทองคำไปมากเท่ากับพวกเราอีกแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "In Eorzea's darkest hour, on the killing fields of Carteneau, none spent more in blood and gold than we.",
+      "text_th": "และนั่นคือวิธีที่พวกเราใช้สยบกองทัพที่เจ็ดของพวกจักรวรรดิลงได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Thus was the VIIth Imperial Legion laid low!",
+      "text_th": "ที่แท้เรื่องราวก็เป็นแบบนี้นี่เอง! ประวัติศาสตร์ช่างถูกลืมเลือนได้รวดเร็วเสียจริง",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So that's how it happened! How soon history forgets.",
+      "text_th": "ทว่า... ผู้คนจำนวนมากที่เดินออกจากประตูเมืองของเราในวันนั้น ไม่มีโอกาสได้กลับมาอีกเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Yet many left our gates, never to return.",
+      "text_th": "ขอให้พวกเราร่วมกันอธิษฐานส่งใจให้แก่พี่น้องผู้ล่วงลับเหล่านั้น ให้พวกเขาได้ประสบความสุขในภพภูมิเบื้องหน้า ในฐานะแขกผู้มีเกียรติขององค์เทพ Thal",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Let us pray for our absent brothers and sisters, that they might know happiness in the great beyond, as Thal's honored guests.",
+      "text_th": "หากโชคชะตาจะมีความยุติธรรมอยู่บ้าง ราคาอันยิ่งใหญ่ที่พวกเราจ่ายไปในวันนั้นคงจะแลกมาด้วยชัยชนะอย่างแท้จริงแล้ว... แต่มันไม่ใช่อย่างนั้นเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "' If the fates were fair, the price we paid that day would have bought us victory. Alas, they are not.",
+      "text_th": "และตอนนี้ หลังผ่านมาได้ห้าปีในยุค Seventh Umbral Era จิตวิญญาณแห่งการเสียสละที่เคยสร้างความแข็งแกร่งให้แก่พวกเรามันได้ล้มตายไปเกือบหมดแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "And now, but five years into this Seventh Umbral Era, the spirit of sacrifice which granted us our strength is all but dead.",
+      "text_th": "ลองมองไปรอบตัวพวกเจ้าสิ เห็นอะไรบ้าง? ผู้คนแตกแยก ถูกกดขี่ข่มเหง และตกเป็นทาส!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Look around you. What do you see? A people divided, downtrodden and enthralled!",
+      "text_th": "ทานบารมีอันเปี่ยมด้วยความเมตตาของคนรวยอยู่ที่ไหนกัน? คมดาบอันเที่ยงธรรมของผู้ผดุงศีลธรรมหายไปไหนหมด?",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Where are the merciful alms of the rich? Where is the just steel of the righteous?",
+      "text_th": "ฉันขอถามพวกเจ้าหน่อย: นี่คือประเทศอันยิ่งใหญ่ที่พี่น้องของเรายอมแลกด้วยชีวิตเพื่อปกป้องไว้ใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I ask you: is this the great nation our brothers and sisters gave their lives to save?",
+      "text_th": "พวกเจ้าที่เรียกสิ่งนี้ว่า 'การมีชีวิตรอด' กำลังทำให้ชื่อของ Immortal Flames ต้องมัวหมอง... แท้จริงแล้วมันเป็นแค่การรอความตายอย่างช้าๆ เท่านั้นแหละ!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "You who call this “living” dishonor the name of the Immortal Flames─it is but a slow death!",
+      "text_th": "ศัตรูของเรากำลังล้อมกรอบเข้ามา พวกป่าเถื่อน Amalj'aa คอยดักซุ่มอยู่ข้างถนนสายหลักเพื่อตัดเส้นทางค้าขายของเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Our enemies surround us. The savage hordes of the Amalj'aa wait beside our roads, strangling the lifelines of trade.",
+      "text_th": "ในขณะเดียวกัน พวกการ์เลียนก็เหยียบย่ำเขตแดนของเราและสูบเอาทรัพยากรธรรมชาติไปหน้าตาเฉย",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Meanwhile, the Garleans make mock of our borders, and despoil our land of its natural wealth.",
+      "text_th": "พวกเรากำลังยืนอยู่บนปากเหว... ทว่าเรากลับไม่ยอมทำอะไรเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "We stand on a precipice...yet we do not act.",
+      "text_th": "ไม่ว่าจะเป็นพ่อค้า ทหาร ฝ่ายการค้า หรือฝ่ายราชวงศ์ ทุกคนต้องตระหนักได้แล้วว่า หากอุลดาห์ยังแตกแยกกันอยู่ เมืองของเราก็ต้องพินาศอย่างแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Whether trader or soldier, Monetarist or Royalist, all must recognize that a divided Ul'dah stands to fall.",
+      "text_th": "ชัยชนะและความมั่งคั่งมักจะมาคู่กันเสมอ!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Victory and Fortune walk hand in hand!",
+      "text_th": "พวกเจ้าที่แสวงหาเกียรติยศและความมั่งคั่งเอ๋ย! อย่ามัวแต่มองหาเศษเงินเล็กๆ น้อยๆ ที่จะแย่งชิงมาจากเพื่อนบ้านของตัวเองเลย แต่จงมองออกไปหาความมั่งคั่งอันไร้ขอบเขตในโลกกว้างภายนอกนู่น!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Ye who seek glory and wealth! Look not to what little you can snatch from your neighbor, but to the boundless wealth of the world beyond!",
+      "text_th": "ตอนนี้ได้เวลารวมพลังกันแล้ว! ได้เวลาเคลื่อนทัพออกไปแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Now is the time to unite! Now is the time to ride forth!",
+      "text_th": "ในนามขององค์ราชินี ฉันขอวิงวอนต่อพวกเจ้าทุกคน!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "In the name of the sultana, I beseech you!",
+      "text_th": "อย่ามุ่งกักตุนเงินทองใส่กระเป๋าตัวเอง แต่จงหันมาหนุนกองพล Immortal Flames! อย่าหวังแต่จะกอบโกยประโยชน์จากอุลดาห์ แต่จงหันมาช่วยกันฟื้นฟูความเจริญรุ่งเรืองให้แก่อุลดาห์เถิด!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Line not your own coffers, but those of the Immortal Flames! Seek not to prosper from Ul'dah, but to restore her to prosperity!",
+      "text_th": "เมื่อแผ่นดินก้าวหน้า อุลดาห์ก็จะก้าวหน้าตามไปด้วย และเมื่ออุลดาห์รุ่งเรือง ประชาชนทุกคนก็จะรุ่งเรืองตามไปเช่นกัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "As the realm prospers, so shall Ul'dah. As Ul'dah prospers, so shall her people!",
+      "text_th": "สู้เพื่ออุลดาห์!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 1 in the Crowd (no text)",
+      "text_en": "Yaah, for Ul'dah!",
+      "text_th": "พวกเราทุกคนรวมกันเป็นหนึ่งเดียว",
+      "status": "AI"
+    },
+    {
+      "character": "Person 2 in the Crowd (no text)",
+      "text_en": "Together, we are one.",
+      "text_th": "ฝ่าบาทเสด็จ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Your Grace.",
+      "text_th": "ราอูบาห์น",
+      "status": "AI"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Raubahn.",
+      "text_th": "ประชาชนแห่งอุลดาห์เอ๋ย! เรา นานาโม ผู้สืบทอดสายโลหิตแห่งราชวงศ์อุลลำดับที่สิบเจ็ด กำลังพูดกับพวกท่านอยู่",
+      "status": "AI"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "People of Ul'dah! I, Nanamo, seventeenth in the line of Ul, address you.",
+      "text_th": "มีผู้คนพูดถึงความร่ำรวยมหาศาลของอุลดาห์กันมากมาย",
+      "status": "AI"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Much has been made of the wealth of Ul'dah.",
+      "text_th": "ทว่า... ผู้ที่ประเมินความมั่งคั่งเหล่านั้นด้วยหน่วยเหรียญเงินทองหรือกะรัตเพชรพลอย กำลังเข้าใจผิดอย่างมหันต์",
+      "status": "AI"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Yet those who measure that wealth in coins and carats are gravely deceived.",
+      "text_th": "เพราะความร่ำรวยที่แท้จริงของอุลดาห์นั้น ตั้งอยู่บนพื้นฐานสุขภาพ ความสุข และความหวังของประชาชนต่างหากเล่า",
+      "status": "AI"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "For the true wealth of Ul'dah lies in the health, happiness, and hopes of her people.",
+      "text_th": "ประชาชนที่รักของเรา เราขอให้พวกท่านร่วมกันชูคบเพลิงแห่งอุลดาห์ขึ้นมาให้สูง เพื่อให้เปลวเพลิงนี้กลายเป็นแสงสว่างนำทางให้คนทั่วทั้งอีออร์เซียได้ประจักษ์!",
+      "status": "AI"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Beloved subjects, I bid you raise aloft the torch of Ul'dah, that her Flames might serve as a beacon for all Eorzea to see!",
+      "text_th": "องค์ราชินีทรงพระเจริญ!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 1 in the Crowd (no text)",
+      "text_en": "Long live Nanamo!",
+      "text_th": "ขอพระเกียรติยศจงมีแด่องค์ราชินี!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 2 in the Crowd (no text)",
+      "text_en": "Glory to the Sultana!",
+      "text_th": "เพื่อชัยชนะและความมั่งคั่ง จงก้าวเดินเข้าหากองไฟอย่างกล้าหาญ เพราะพวกเราจะถือกำเนิดขึ้นใหม่จากเปลวเพลิงนี้!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "For Victory and Fortune, stride fearless into the inferno, for we are by fire reborn!",
+      "text_th": "ถูกต้องแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 1 in the Crowd (no text)",
+      "text_en": "Forsooth!",
+      "text_th": "เวลาของเรามาถึงแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 2 in the Crowd (no text)",
+      "text_en": "The time is nigh!",
+      "text_th": "ฉันเชื่อมั่น!",
+      "status": "AI"
+    },
+    {
+      "character": "Person 3 in the Crowd (no text)",
+      "text_en": "I BELIEVE!",
+      "text_th": "บังเอิญได้พบกันอีกแล้วนะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Fancy meeting you again.",
+      "text_th": "ชาวอุลดาห์มีประวัติศาสตร์การต่อสู้กับพวกอะมาลจายาวนานมากครับ ซึ่งก็คือชนเผ่าอสูรที่เคารพบูชาไพรมอลอิฟรีตนั่นเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Ul'dahns have a long history of conflict with the Amalj'aa, the beast tribe that worships the primal Ifrit.",
+      "text_th": "ดูจากสีหน้าไม่ค่อยสบอารมณ์ของคุณแล้ว ผมเดาว่าคุณคงเคยเผชิญหน้ากับพวกมันมาแล้วสินะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Judging by your look of distaste, I take it you have encountered them.",
+      "text_th": "ชาวอุลดาห์ไม่เคยหวาดหวั่นต่อการเผชิญหน้า หากมีสิ่งใดมาคุกคามความรุ่งเรืองอันเป็นที่รักของพวกเขา พวกเขาก็จะมุ่งบดขยี้มันทันทีครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Ul'dahns do not shy from confrontation. If aught threatens their precious prosperity, they will seek to crush it.",
+      "text_th": "ซึ่งพวกเขาก็จุดไฟจัดการกับอิฟรีตแบบนั้นมาตลอด โดยการตามดับไฟทุกครั้งที่มันเริ่มจุดตัวเองขึ้นมาใหม่",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So have they dealt with Ifrit thus far, smothering his flames each time he is stoked to life.",
+      "text_th": "แต่นั่นเป็นเพียงหนึ่งในหลายปัญหาที่พวกเขากำลังเผชิญครับ ถึงแมพวกการ์เลียนจะสงบเสงี่ยมมาตลอดห้าปีที่ผ่านมา แต่พวกเขาก็ไม่ได้ถอนตัวไปไหนเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Yet he is but one of several problems. Though they have been quiet these past five years, the Garleans have not gone away.",
+      "text_th": "ในขณะเดียวกัน ผู้อพยพก็ยังคงหลั่งไหลเข้ามาเป็นจำนวนมาก แต่อุลดาห์ก็ยังไม่มีนโยบายที่ชัดเจนในการจัดการกับพวกเขาเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Meanwhile, refugees continue to arrive in droves, and Ul'dah has no clear policy on how to deal with them.",
+      "text_th": "เพราะยังไงคลังสมบัติของราชวงศ์ก็ไม่ได้ไร้ข้นหรอกครับ และต่อให้มีเงินทองล้นพ้น ทรัพยากรที่มีอยู่ก็ย่อมมีวันหมดไปเช่นกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "After all, not even the sultanate's coffers are bottomless. And even assuming they had the coin, resources will ever be finite.",
+      "text_th": "ซึ่งนั่นก็นำกลับมาสู่เรื่องของอิฟรีตครับ มีการสังเกตเห็นว่าพวกอะมาลจาอัญเชิญเขาออกมาบ่อยขึ้นเรื่อยๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Which brings me back to the subject of Ifrit. It has been observed that the Amalj'aa are summoning him with ever-increasing frequency.",
+      "text_th": "ทุกครั้งที่เกิดเรื่องขึ้น ชาวอุลดาห์จะส่งกองกำลังไปปราบไพรมอล แม้จะสำเร็จทุกครั้งแต่ชัยชนะแต่ละครั้งก็ต้องแลกมาด้วยเลือดเนื้อ มันเป็นสงครามยืดเยื้อที่พวกเขาคงรับมือต่อได้ไม่นานหรอกครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Every time they do so, the Ul'dahns send their forces to smite the primal, and though they invariably succeed, each victory is bought with blood. It is a war of attrition which they cannot well sustain.",
+      "text_th": "จึงไม่แปลกเลยครับที่กลุ่ม Immortal Flames จะกระตือรือร้นในการรับสมัครสมาชิกใหม่มาร่วมกองกำลังขนาดนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Small wonder, then, that the Immortal Flames are eager to recruit more members.",
+      "text_th": "ในช่วงเวลาที่ยากลำบากเช่นนี้ นักผจญภัยที่เปี่ยมด้วยประสบการณ์อย่างคุณ ย่อมได้รับการต้อนรับเข้าสู่กองกำลังของพวกเขาเป็นอย่างดีแน่นอนครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "At such a desperate hour, an adventurer of your experience would be a most welcome addition to their ranks.",
+      "text_th": "มาร่วมพิธีรำลึกด้วยงั้นรึ? รีบเข้าล่ะ ท่านผู้บัญชาการกำลังจะขึ้นกล่าวสุนทรพจน์ในอีกไม่ช้านี้แล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Zanthael",
+      "text_en": "Here to attend the remembrance service? Be quick─the Admiral is due to give her address at any moment.",
+      "text_th": "หากไม่มีธุระจะมาร่วมงาน ก็กรุณาหลีกทางให้ผู้ที่จะเข้างานด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Zanthael",
+      "text_en": "If you're not interested in attending, make way for those who are.",
+      "text_th": "พวกการ์เลียนนั่นก็เป็นอีกเรื่องหนึ่งเลยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Person 1 in the Crowd (no text)",
+      "text_en": "The Garleans are another matter altogether.",
+      "text_th": "เรื่องพันธมิตรของพวกเราก็แทบจะจบสิ้นกันไปแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Person 2 in the Crowd (no text)",
+      "text_en": "So much for our alliance.",
+      "text_th": "มันร่วงจมลงสู่พื้นดินใต้ทะเลไปแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Person 3 in the Crowd (no text)",
+      "text_en": "It's sunk beyond the seabed.",
+      "text_th": "พี่น้องแห่งท้องทะเลทุกท่าน ฟังฉันให้ดี! จงมองดูธงสีแดงชาดผืนใหญ่ของพวกเราตรงนี้ แล้วบอกฉันทีว่าหัวใจของพวกท่านไม่ได้เต้นรัวด้วยความภาคภูมิใจ!",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Brothers and sisters of the sea, hearken unto me! Look upon this, our mighty crimson standard, and tell me your hearts do not swell with pride!",
+      "text_th": "เจ็ดร้อยฤดูร้อนผ่านพ้นไปแล้ว นับตั้งแต่บรรพบุรุษของพวกเราแล่นเรือมาทอดสมอที่อ่าวอันอุดมสมบูรณ์แห่งนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Seven hundred summers have come and gone since our forefathers first ran aground in this fertile bay.",
+      "text_th": "นับแต่นั้นมา ด้วยการนำทางจากพระแม่แห่งมหาสมุทร ลิมซา โลมินซาได้เติบโตขึ้นจากหมู่บ้านประมงเล็กๆ จนกลายเป็นผู้ปกครองผืนน้ำทั้งห้าและพื้นที่โดยรอบอย่างแท้จริง!",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "In that time, guided by the Mother of Oceans, Limsa Lominsa has grown from humble fishing village to uncontested ruler of the five seas and beyond!",
+      "text_th": "ได้ลองมองธงตามที่ท่านผู้บัญชาการบอกหรือยังครับ? ต้องยอมรับเลยนะว่าเป็นธงศึกที่เร้าใจจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Did you look, as the Admiral bid you? It is a rather stirring standard, I must say.",
+      "text_th": "พื้นธงสีแดงนั้นสื่อถึงเลือดของเพื่อนพ้องที่ล่วงลับไป ส่วนเรือยาวสีดำด้านในก็คือสัญลักษณ์ของเรือโจรสลัดนั่นเองครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The crimson field is meant to signify the blood of fallen crewmates, while the black longship represents a pirate vessel.",
+      "text_th": "เมื่อจักรวรรดิการ์ลีนเคลื่อนทัพบุกเข้ามายังอีออร์เซีย พวกเราได้รวมกำลังกันภายใต้ธง Maelstrom ผืนนี้ และนั่นคือการเกิดใหม่ของกองกำลัง Grand Company ของเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "When the Garlean Empire marched upon Eorzea, we assembled beneath the Maelstrom's standard, and our Grand Company was reborn.",
+      "text_th": "ทุกคนตอบรับคำเรียกร้อง ตั้งแต่กองอัศวิน Knights of the Barracuda ไปจนถึงกลุ่ม Bloody Executioners ของฮิลฟีร์ และพวกเราได้ร่วมกันเผชิญหน้ากับผู้รุกรานเหล่านั้นที่สมรภูมิคาร์เตอโน",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "All answered the call, from the Knights of the Barracuda to Hyllfyr's Bloody Executioners, and together we met our would-be conquerors upon the field of Carteneau.",
+      "text_th": "ในวันนั้น โลกทั้งใบได้ประจักษ์ถึงพลังอันเหนียวแน่นเป็นหนึ่งเดียวของลิมซา โลมินซา!",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "That day, the world bore witness to the united strength of Limsa Lominsa!",
+      "text_th": "ฉันสาบานได้เลยว่า ไม่มีกองทัพไหนจะสู้ยิบตาและกล้าหาญเท่าพวกเราอีกแล้ว ทว่า... ทหารของเราจำนวนมากก็ไม่มีโอกาสรอดกลับมา",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "I swear to you─no army ever fought harder, or with more courage. Yet many of ours did not survive.",
+      "text_th": "ขอเชิญทุกท่านร่วมรำลึกถึงผู้ที่ต่อสู้และพลีชีพเพื่อเสรีภาพไปพร้อมกับฉัน ขอให้ดวงวิญญาณของพวกเขาทั้งหลายได้หวนคืนสู่ท้องทะเลอันกว้างใหญ่อีกครั้ง",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Join me now in remembering those who fought in the name of freedom, and fell. May their souls be returned to the sea.",
+      "text_th": "เสรีภาพ... ใช่ครับ พวกเขาดูจะรักเสรีภาพของตัวเองกันมากๆ เลยล่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Freedom... Yes, they have always been rather fond of their freedom.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Much as the beast tribes have. Small wonder─beneath the surface, one would struggle to tell them apart.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "It has been five long years since the Calamity struck. Five long years of tireless rebuilding.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Yet still the wounds of the Calamity fester and weep.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "But when I stand atop the Mizzenmast, and gaze out upon our battered and broken vessel, I see an undying spirit. Did we not build all this from the wreck of the Galadion all those centuries ago? Shall we not do so again!?",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Yet there are those who would see this ship of ours sink beneath the waves of the restless Rhotano.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "The Sahagin creep ashore seeking blood for their accursed god.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Person 1 in the Crowd (no text)",
+      "text_en": "Those fishback bastards.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Person 2 in the Crowd (no text)",
+      "text_en": "The Sahagin have risen?",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "While the mines of O'Ghomoro spew forth kobolds who push ever south, despoiling our lands as they go.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "These savage beast tribes will be the first waves to crash against our creaking hull.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "And behind them swells the grim tide of the Garlean Empire.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Even now, the curs fly their flags within our borders. Doubt not but that they will be upon us ere long.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "We are well-nigh surrounded. Yet there are those among us who would rather turn their swords against their crewmates than our cannons against our foes.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "How can we hope to repel our many enemies when mutiny breeds below deck?",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "There is but one course left to us!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "One bearing that will bring us victory over the beast hordes and the Empire both, and see this ship safe to port.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "We must mend the rift the Calamity has reopened 'twixt pirate and Maelstrom, and stand fast with our adventurer brothers against the coming tempest!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Mark ye well: a crew without unity is no crew at all─'tis but a mass of drowned men.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "To me, then, brothers and sisters of the sea! Gather beneath the undying crimson standard and pledge me your strength, your skill, your wisdom!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "And with the guidance of the Navigator, this great vessel of ours shall ride the waves till sea swallows all!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Person 1 in the Crowd (no text)",
+      "text_en": "Long live the admiral!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Person 2 in the Crowd (no text)",
+      "text_en": "Admiral Merlwyb!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Person 3 in the Crowd (no text)",
+      "text_en": "Gather the lads!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Person 4 in the Crowd (no text)",
+      "text_en": "Haha, where's me cutlass?",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Person 5 in the Crowd (no text)",
+      "text_en": "I'll follow ye to the seven hells, Admiral!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Fancy meeting you again.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As the Admiral mentioned in her address, Limsa Lominsa is plagued by two beast tribes.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The first are the fishlike Sahagin, worshipers of the primal Leviathan.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The second are the kobolds, who dwell beneath the earth, and take the primal Titan for their god.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As if the beast tribes' presence weren't troublesome enough, the Garleans have also chosen to erect a fortress right in the Lominsans' backyard.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And that is to say naught of internal strife. As a nation of pirates, there is no end to the blood feuds between the various factions. And while they fight amongst themselves, the Garleans whet their blades and watch.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If the Lominsans are to have any hope of withstanding the Empire, they must first resolve their own affairs. Differences must be set aside, and the primal threat dealt with once and for all.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To this end, I expect that they will soon take decisive action against the beast tribes. Mark my words, the Maelstrom standard will be drenched a deeper shade of crimson ere long.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That a capable adventurer like you would be a valuable addition to their crew is beyond question.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Forename , this is Minfilia. You are well, I hope? Would I be correct in thinking that the final remembrance service has now concluded?",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "A moment ago, you say? What a coincidence!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Jesting aside, I trust you remember our guests from the Grand Companies? Well, delighted though we are to have them here at the Waking Sands, it would not do to keep them in suspense any longer than necessary. In short: hurry back!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Welcome back, Forename . Were the Grand Company leaders' words as illuminating as you had hoped?",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Aye, each nation is beset with problems. I trust you see now why your services are in such demand. Would that there were more of you, Forename .",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "But you must be tired from your journey. Why don't you rest awhile, and take a moment to reflect on your decision? Once your mind is made up, pray give the Grand Company officers your answer.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The gods only know what “grand” company our adventurer friend will keep.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hmph. The wheels of change are in motion regardless.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Brother, are you certain this course is best?",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Whatever do you mean, dear sister?",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The so-called “remembrance” ceremonies were little more than standard-waving rallies.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...As though the Calamity and Seventh Umbral Era warranted scarcely a mention!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, of course they were “standard-waving rallies.”",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Since you are so observant, mayhap you noticed what mention was made of the Warriors of Light? None .",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I suppose they must have forgotten the heroes who spared Eorzea a fate worse than the Calamity?",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "No, dear Alisaie, they haven't “forgotten” these details. They have elected to omit them.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Deep are the wounds the Calamity inflicted upon Eorzea. So deep, in fact, that the realm still bleeds.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Needless to say, the beast tribes and their primals do little to alleviate the pain.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So the task of salving Eorzea's wounds falls to the Scions of the Seventh Dawn—with a little help from our friends the Grand Companies.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Remembrance will yield no remedy. If our world is to heal, we must put the horrors of the Calamity behind us.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Our grandfather would never entrust the fate of the realm to despots who rewrite history to their convenience!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There must be another way to cure what ails this world─and I mean to find it!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You are most welcome to try. Our paths may differ, but our destination is the same. In time, I daresay we will see eye to eye.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I should hope so.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "???",
+      "text_en": "M-M-My lady!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "???",
+      "text_en": "We are to escort you!",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hope does not come into it. We share the burden of this fate, dear sister, and will prevail together or not at all.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The salve will serve not only to close up our present wounds...",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...but prevent old ones from opening anew.",
+      "text_th": "",
+      "status": "none"
+    }
+  ]
+}

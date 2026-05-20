@@ -1,0 +1,86 @@
+{
+  "id": "when-the-worm-turns",
+  "wiki_path": "/wiki/When_the_Worm_Turns",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "When the Worm Turns",
+  "title_th": "เมื่อหนอนพลิกกลับ",
+  "title_status": "AI",
+  "level": "31",
+  "location": "Southern Thanalan(X:14.3,Y:29.9)",
+  "npc_start": "U'odh Nunh",
+  "dialogues": [
+    {
+      "character": "U'odh Nunh",
+      "text_en": "A shame we did not meet when I was still with the Company of Heroes. You would have made a fine rrrecruit.",
+      "text_th": "น่าเสียดายที่เราไม่ได้เจอกันตอนที่ฉันยังอยู่กับ Company of Heroes อยู่นะ คุณจะเป็นนักรรรบใหม่ที่ยอดเยี่ยมมากเลย",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "But no point dwelling on what cannot be. You have a Wellwick worm to hunt.",
+      "text_th": "แต่ไม่มีประโยชน์ที่จะมัวคิดถึงสิ่งที่เปลี่ยนไม่ได้หรอก คุณยังมีหนอน Wellwick ที่ต้องล่าอยู่",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Sandworms slither brrrazenly across the desert dunes, but Wellwick worms are far fewer in number. Rarity brrreeds demand, and so their meat is highly prized as a delicacy.",
+      "text_th": "หนอนทรรราย (Sandworm) มันเลื้อยคลานอยู่บนเนินทรายอย่างหน้าตาเฉย แต่หนอน Wellwick นั้นหายากกว่ามาก ความหายากทำให้ความต้องการสูงตาม เนื้อของมันจึงเป็นของอรร่อยที่ขึ้นชื่อ",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "The only way to catch your quarry is to entice it with something it cannot rrresist.",
+      "text_th": "วิธีเดียวที่จะจับมันได้คือล่อด้วยอะไรบางอย่างที่มันรรรับมือไม่ไหว",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "These worms prrrey on the smaller creatures of the Sagolii. A freshly slaughtered angler carcass would be my choice of bait.",
+      "text_th": "หนอนพวกนี้ล่าสัตว์เล็กๆ ใน Sagolii ซากของ angler ที่เพิ่งถูกฆ่าน่าจะเป็นเหยื่อล่อที่ฉันเลือก",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "There is an area teeming with anglers to the east. I will mark it upon your map, along with the location where Wellwick worms are most frrrequently sighted.",
+      "text_th": "มีพื้นที่ที่มี angler เยอะมากทางทิศตะวันออก ฉันจะทำเครื่องหมายไว้บนแผนที่ให้ พร้อมกับตำแหน่งที่พบเห็นหนอน Wellwick บ่อยที่สุด",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Be warned─the blood will drive the worm into a feeding frrrenzy. If your skills are lacking, it will devour you as well.",
+      "text_th": "ระวังไว้ด้วย─กลิ่นเลือดจะทำให้หนอนคลั่งโลหิต ถ้าทักษะของคุณยังไม่พอ มันจะกินคุณด้วยเช่นกัน",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "You look well. Have you caught your quarry, then?",
+      "text_th": "ดูดีอยู่นะ จับเหยื่อได้แล้วเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Your skills as a hunter rrrival those of our best. I applaud your success, Forename .",
+      "text_th": "ทักษะการล่าของคุณเทียบชั้นกับคนเก่งที่สุดของพวกเราได้เลย ยินดีด้วยกับความสำเร็จนี้นะ Forename",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "The meat will need to be heavily smoked before I ship it to Wheiskaet. Worry not─you have my word that he will rrreceive it in time for the banquet.",
+      "text_th": "เนื้อต้องรมควันให้ดีก่อนที่ฉันจะส่งให้ Wheiskaet ไม่ต้องกังวล─ขอรรรับรองว่าเขาจะได้รับมันทันเวลาสำหรับงานเลี้ยงแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "You must be eager to obtain the third ingrrredient. I regret to say that I know naught of its location. For the nonce, you should return to Costa del Sol and seek Wheiskaet's counsel.",
+      "text_th": "คงอยากได้ส่วนผสมชิ้นที่สามแล้วใช่ไหม? น่าเสียดายที่ฉันไม่รู้ว่ามันอยู่ที่ไหน ตอนนี้คุณควรกลับไป Costa del Sol แล้วปรึกษา Wheiskaet ดู",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Ah, but hold a moment. Since you will be meeting the captain again soon, there is something I would like you to deliver to him for me.",
+      "text_th": "อ้อ รอก่อนนะ เพราะคุณกำลังจะได้เจอกัปตันอีกครั้ง มีของบางอย่างที่ฉันอยากให้คุณนำไปส่งให้เขาหน่อย",
+      "status": "AI"
+    }
+  ]
+}

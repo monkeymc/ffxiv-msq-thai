@@ -1,0 +1,428 @@
+{
+  "id": "chasing-shadows",
+  "wiki_path": "/wiki/Chasing_Shadows",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/a/a3/Chasing_Shadows_Image.png",
+  "patch": "2.0",
+  "title_en": "Chasing Shadows",
+  "title_th": "ไล่ตามเงา",
+  "title_status": "AI",
+  "level": "5",
+  "location": "Central Shroud(X:23.4,Y:19.9)",
+  "npc_start": "Galfrid",
+  "dialogues": [
+    {
+      "character": "Galfrid",
+      "text_en": "Ah, Forename . By your tireless efforts, you have proven yourself a friend to Gridania . I believe you can be trusted with sensitive intelligence.",
+      "text_th": "โอ้ [ชื่อ] ความพยายามไม่รู้จักเหน็ดเหนื่อยของเจ้าพิสูจน์ให้เห็นว่าเจ้าเป็นมิตรของกริดาเนีย ฉันเชื่อว่าสามารถไว้วางใจเจ้าด้วยข้อมูลที่อ่อนไหวได้",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "I would assign you a mission of considerable import, yet the need for secrecy prevents me from disclosing its details until you have pledged your participation. I am authorized to tell you only that it concerns suspicious activity in the Twelveswood . Say that you will lend us your aid, and I shall proceed with the briefing.",
+      "text_th": "ฉันจะมอบภารกิจที่สำคัญยิ่งให้เจ้า แต่ความจำเป็นในการรักษาความลับทำให้ไม่สามารถเปิดเผยรายละเอียดได้จนกว่าเจ้าจะตกลงเข้าร่วม ฉันได้รับอนุญาตให้บอกได้เพียงว่ามันเกี่ยวข้องกับกิจกรรมต้องสงสัยในทเวลส์วูด บอกว่าเจ้าจะช่วย แล้วฉันจะอธิบายภารกิจต่อ",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Good. Time is of the essence, so listen well.",
+      "text_th": "ดีมาก เวลาเป็นสิ่งสำคัญ ฟังให้ดีนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "You will by now have heard that a suspicious individual has been seen prowling the Twelveswood.",
+      "text_th": "เจ้าคงได้ยินแล้วว่ามีบุคคลต้องสงสัยถูกพบเดินเพ่นพ่านอยู่ในทเวลส์วูด",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "And you may also be aware that Ixali activity has risen sharply in the region of late. What you may not know is that this increase coincided almost exactly with the first recorded sighting of the aforementioned individual.",
+      "text_th": "และอาจรู้ด้วยว่ากิจกรรมของ อิกซัล เพิ่มสูงขึ้นอย่างรวดเร็วในพื้นที่เมื่อเร็วๆ นี้ สิ่งที่อาจไม่รู้คือการเพิ่มขึ้นนี้เกิดขึ้นพร้อมกันเกือบพอดีกับการพบเห็นบุคคลดังกล่าวครั้งแรก",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Suspecting a connection, we tightened our surveillance in hopes of tracking down our unknown visitor. Alas, our quarry is proving to be exceedingly elusive -- almost as if he knows our movements ahead of time.",
+      "text_th": "สงสัยว่ามีความเชื่อมโยง เราจึงเพิ่มการเฝ้าระวังเพื่อติดตามผู้มาเยือนนิรนาม แต่น่าเสียดาย เป้าหมายของเราพิสูจน์ว่าหลบเลี่ยงได้เชี่ยวชาญยิ่งนัก — ราวกับรู้ความเคลื่อนไหวของเราล่วงหน้า",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "But where whole units have failed, a lone adventurer may yet succeed. Acting independently and covertly, you may be able to close in on our quarry unnoticed.",
+      "text_th": "แต่ที่ทั้งหน่วยล้มเหลว นักผจญภัยคนเดียวอาจทำสำเร็จได้ การกระทำอย่างอิสระและเงียบงัน เจ้าอาจเข้าใกล้เป้าหมายโดยไม่ถูกสังเกตเห็น",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Fear and anxiety are beginning to take their toll upon the citizenry, Forename . For their sake, I ask that you aid us in this investigation.",
+      "text_th": "ความหวาดกลัวและความกังวลเริ่มส่งผลต่อชาวเมืองแล้ว [ชื่อ] เพื่อพวกเขา ฉันขอให้เจ้าช่วยในการสืบสวนครั้งนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "You have my gratitude. With your help, I am hopeful we will shed light upon this mystery.",
+      "text_th": "ฉันขอบคุณมาก ด้วยความช่วยเหลือของเจ้า ฉันหวังว่าเราจะคลี่คลายปริศนานี้ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Begin your search at Lifemend Stump . It is there that the majority of the sightings took place.",
+      "text_th": "เริ่มค้นหาที่ ตอไม้ไลฟ์เมนด์ นั่นคือที่ที่มีการพบเห็นมากที่สุด",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Be forewarned: my people cannot offer you support, lest our quarry catch scent of our presence and evade us yet again. Proceed with caution.",
+      "text_th": "ขอเตือนไว้ก่อน: ลูกน้องของฉันไม่สามารถสนับสนุนเจ้าได้ เกรงว่าเป้าหมายจะรู้ตัวว่าเราอยู่และหนีอีกครั้ง ดำเนินการด้วยความระมัดระวัง",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Look! Someone's already here!",
+      "text_th": "ดูสิ! มีคนอยู่ที่นี่แล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "Oh dear. Is that a sword in the stump? Bad idea. Really bad idea...",
+      "text_th": "โอ้โห มีดาบอยู่บนตอไม้นะ ไม่ดีเลย ไม่ดีจริงๆ...",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "It takes a lot less than that to incite the Greenwrath, you know. Why, the first time we came to the Twelveswood, we almost ended up as a treant 's dinner just for crashing our airship in the wrong place. It was all Papalymo 's fault, of course! Though, he'd sooner s--",
+      "text_th": "แค่นั้นก็พอจะปลุก กรีนแรท ขึ้นมาได้แล้ว รู้ไหม? ครั้งแรกที่เรามาทเวลส์วูด เกือบกลายเป็นอาหารของทรีแอนต์แค่เพราะเรือบินตกผิดที่ ทั้งหมดเป็นความผิดของ Papalymo แน่นอน! แม้เขาจะชอบบอกว่า—",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "Is this our dark stranger?",
+      "text_th": "นี่คือบุคคลลึกลับของเราหรือ?",
+      "status": "AI"
+    },
+    {
+      "character": "Moogle",
+      "text_en": "No, no, not this one. Not even close, kupo!",
+      "text_th": "ไม่ ไม่ใช่คนนี้ ไม่ใกล้เคียงเลย คูโป!",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "Hm? You know him / her , Kuplo Kopp ?",
+      "text_th": "เฮ้? รู้จักเขา/เธอหรือ คูโปล คอปป์?",
+      "status": "AI"
+    },
+    {
+      "character": "Kuplo Kopp",
+      "text_en": "Well, not exactly, but we did once share a carriage. Isn't that right?",
+      "text_th": "ก็ไม่ถึงกับรู้จัก แต่เคยนั่งรถม้าคันเดียวกันนะ ใช่ไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "How are the readings?",
+      "text_th": "การอ่านค่าเป็นยังไงบ้าง?",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "Same as the last. There is a disturbance here as well, and newly manifested at that.",
+      "text_th": "เหมือนครั้งก่อน มีการรบกวนที่นี่เช่นกัน และเพิ่งปรากฏขึ้นด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "Kuplo Kopp seems convinced of your innocence. But if this isn't your doing, whose is it?",
+      "text_th": "คูโปล คอปป์ ดูเชื่อว่าเจ้าบริสุทธิ์ใจ แต่ถ้าไม่ใช่ฝีมือเจ้า แล้วเป็นใคร?",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "Ever since the Calamity , the forest's been really sensitive.",
+      "text_th": "ตั้งแต่มหาวิบัติ ป่าไม้ไวมากเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "The slightest disruption to the aetheric flow...",
+      "text_th": "การรบกวนการไหลของอีเธอร์เพียงเล็กน้อย...",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "And this sort of thing happens!",
+      "text_th": "ก็ทำให้เกิดเรื่องแบบนี้ขึ้นแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "It seems we have little choice...",
+      "text_th": "ดูเหมือนเราไม่มีทางเลือกมากนัก...",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "Do you want to get eaten!? Hit them harder!",
+      "text_th": "อยากถูกกินหรือไง!? ตีแรงๆ เข้าไป!",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "I'm trying, I'm trying!",
+      "text_th": "กำลังพยายามอยู่ กำลังพยายาม!",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "There's more! Be careful!",
+      "text_th": "มีเพิ่มขึ้นอีก! ระวัง!",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "If you value your life, stay close!",
+      "text_th": "ถ้ารักชีวิต อย่าห่างกัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "Well done! We're almost there!",
+      "text_th": "ดีมาก! เกือบถึงแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Hear... Feel... Think...",
+      "text_th": "ได้ยิน... รู้สึก... คิด...",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Crystal bearer...",
+      "text_th": "ผู้อัญเชิญคริสตัล...",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "I am Hydaelyn . All made one.",
+      "text_th": "ข้าคือ ไฮดาลิน ทุกสิ่งรวมเป็นหนึ่ง",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "A Light there once was that shone throughout this realm... yet it hath since grown dim.",
+      "text_th": "แสงสว่างหนึ่งเคยส่องประกายทั่วแผ่นดินนี้... แต่บัดนี้มันริบหรี่ลงแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "And as it hath faltered, so hath Darkness risen up in its stead, presaging an end to Life.",
+      "text_th": "และเมื่อแสงสว่างอ่อนแรง ความมืดก็ผงาดขึ้นแทนที่ บ่งบอกถึงจุดจบของสรรพชีวิต",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "For the sake of all, I beseech thee: deliver us from this fate!",
+      "text_th": "เพื่อสรรพสิ่งทั้งปวง ข้าวิงวอนเจ้า: ช่วยพาเราให้พ้นจากชะตากรรมนี้!",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "The power to banish the Darkness dwelleth in the Crystals of Light. Journey forth and lay claim to them.",
+      "text_th": "พลังในการขับไล่ความมืดนั้นอยู่ใน คริสตัลแห่งแสง จงออกเดินทางและนำมันมาเป็นของเจ้า",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "By thy deeds shall the Crystals reveal themselves to thee.",
+      "text_th": "ด้วยการกระทำของเจ้า คริสตัลจะเผยตัวเองให้เจ้าเห็น",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Only believe, for the Light liveth in thy heart.",
+      "text_th": "จงเชื่อมั่น เพราะแสงสว่างดำรงอยู่ในใจของเจ้า",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Go now, my child, and shine thy Light on all creation.",
+      "text_th": "จงไปเถิด ลูกของข้า และส่องแสงของเจ้าให้แก่สรรพสิ่งทั้งปวง",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "You fainted. A surfeit of aether, no doubt.",
+      "text_th": "เจ้าหมดสติไป คงเพราะอีเธอร์ล้นเกินไปอย่างแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "Hm? And what have we here?",
+      "text_th": "เฮ้? แล้วนี่คืออะไรอีกล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "Our culprit, it would seem. An Ixal. And no ordinary Ixal, either -- a chieftain.",
+      "text_th": "ผู้ก่อเหตุของเรา ดูเหมือนอย่างนั้น เป็น อิกซัล และไม่ใช่อิกซัลธรรมดาด้วย — เป็นหัวหน้าเผ่า",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "That they would venture this deep into enemy territory... The beastmen may indeed be acting under orders.",
+      "text_th": "ที่พวกมันกล้าบุกลึกเข้ามาในดินแดนศัตรูขนาดนี้... พวกบีสต์เมนอาจกำลังปฏิบัติตามคำสั่งจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "This is Papalymo. We found the culprit: It was an Ixali chieftain! ...Yes, we'll seek Brother E-Sumi-Yan 's cooperation in the matter. ... Yda ? Oh, loud, tactless! Much the same as always!",
+      "text_th": "นี่คือ Papalymo เราพบผู้ก่อเหตุแล้ว เป็นหัวหน้าเผ่าอิกซัล! ...ใช่ เราจะขอความร่วมมือจากพี่ E-Sumi-Yan ในเรื่องนี้ ... Yda? โอ้ เสียงดังไม่รู้จักกาลเทศะ เหมือนเดิมทุกอย่าง!",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "How are we feeling, then? Better? Good!",
+      "text_th": "เป็นยังไงบ้างตอนนี้? ดีขึ้นไหม? ดีมาก!",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "Giant crystals? Can't say I've seen any... Are you sure you're feeling better?",
+      "text_th": "คริสตัลยักษ์? พูดไม่ออกว่าเคยเห็นนะ... แน่ใจนะว่าดีขึ้นแล้ว?",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "...Understood. Over and out.",
+      "text_th": "...เข้าใจแล้ว เสร็จสิ้น",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "Kuplo Kopp. Please bear word of these developments to Brother E-Sumi-Yan. We shall soon return to give a full report.",
+      "text_th": "คูโปล คอปป์ ช่วยนำข่าวความคืบหน้าเหล่านี้ไปยังพี่ E-Sumi-Yan ด้วย เราจะกลับไปรายงานโดยละเอียดในไม่ช้า",
+      "status": "AI"
+    },
+    {
+      "character": "Kuplo Kopp",
+      "text_en": "Understood! Over and out, kupo!",
+      "text_th": "เข้าใจแล้ว! เสร็จสิ้น คูโป!",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "Here is where we part ways. Till next time, take care!",
+      "text_th": "เราแยกทางกันที่นี่ คราวหน้าแล้วพบกัน ดูแลตัวด้วย!",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "I think that sword might be a clue! You should definitely pull it out and take it back to the Bannock!",
+      "text_th": "คิดว่าดาบนั้นอาจเป็นเบาะแส! เจ้าควรดึงมันออกมาแล้วนำกลับไปที่ บานน็อค แน่นอน!",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "You don't suppose that adventurer could see Kuplo Kopp, do you!?",
+      "text_th": "เจ้าคงไม่คิดว่านักผจญภัยนั้นมองเห็น คูโปล คอปป์ ได้ใช่ไหม!?",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "And this occurs to you NOW!?",
+      "text_th": "แล้วเจ้าเพิ่งนึกได้ตอนนี้!?",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "Yes. It seemed that way. Time will tell...",
+      "text_th": "ใช่ ดูเหมือนอย่างนั้น เวลาจะเป็นเครื่องพิสูจน์...",
+      "status": "AI"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text_en": "Well, time will have to, because you won't! You never tell me what's really going on! Unless... you don't know what's going on either!",
+      "text_th": "ก็ต้องให้เวลาพิสูจน์ล่ะ เพราะเจ้าไม่ยอมบอก! เจ้าไม่เคยบอกฉันว่าเกิดอะไรขึ้นจริงๆ เลย! เว้นแต่... เจ้าก็ไม่รู้ว่าเกิดอะไรขึ้นเหมือนกัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text_en": "Bah! You'd like that, wouldn't you!?",
+      "text_th": "ไร้สาระ! เจ้าอยากให้เป็นอย่างนั้นใช่ไหม!?",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Forename ! It is good to see you back!",
+      "text_th": "[ชื่อ]! ดีใจที่เห็นเจ้ากลับมา!",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "One of our patrols sent word that you had been spotted doing battle with enraged treants. I am relieved to find you none the worse for the experience.",
+      "text_th": "ลาดตระเวนหนึ่งของเราส่งข่าวว่าพบเจ้ากำลังสู้กับ ทรีแอนต์ ที่โกรธเกรี้ยว ฉันโล่งใจที่พบว่าเจ้าปลอดภัยดี",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "But tell me, what were you able to discover at Lifemend Stump?",
+      "text_th": "แต่บอกฉันด้วย เจ้าค้นพบอะไรที่ ตอไม้ไลฟ์เมนด์ บ้าง?",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "A sword in the stump, and a dead Ixal? Hmmm...",
+      "text_th": "ดาบในตอไม้และอิกซัลที่ตายแล้ว? ฮืมม...",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "I can say with absolute certainty that this blade is of Ixali origin. It is of a kind used exclusively in the beastmen's rituals.",
+      "text_th": "ฉันยืนยันได้อย่างแน่วแน่ว่าใบมีดนี้มาจากอิกซัล เป็นชนิดที่ใช้เฉพาะในพิธีกรรมของพวกบีสต์เมน",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "The Ixal rarely set foot in the Central Shroud , so tight is our guard over the area. What purpose could have driven them to take such a risk? I fear something is afoot...",
+      "text_th": "อิกซัลแทบไม่เคยเหยียบ เซ็นทรัล ชราวด์ การ์ดเราแน่นหนามาก อะไรกันที่ทำให้พวกมันยอมเสี่ยงขนาดนี้? ฉันกลัวว่ามีบางอย่างกำลังดำเนินอยู่...",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "What's that? A dubious couple sporting peculiar spectacles? Hah hah hah!",
+      "text_th": "ว่าอะไรนะ? คู่หนึ่งที่ดูน่าสงสัยสวมแว่นแปลกๆ? ฮ่าฮ่าฮ่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "So you have finally been acquainted with Yda and Papalymo! Lay your suspicions to rest -- Gridania counts them among her staunchest allies. Both are scholars hailing from a distant land, and have been with us since before the Calamity.",
+      "text_th": "ดังนั้นเจ้าได้รู้จัก Yda และ Papalymo แล้ว! วางความสงสัยลงได้ — กริดาเนียนับพวกเขาเป็นพันธมิตรที่มั่นคงที่สุด ทั้งคู่เป็นนักวิชาการจากแดนไกล และอยู่กับเราตั้งแต่ก่อนมหาวิบัติ",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Their garb may appear outlandish, and their exchanges baffling, but never once have they given us cause to doubt them.",
+      "text_th": "เครื่องแต่งกายอาจดูแปลก และการสนทนาระหว่างกันอาจน่างงงวย แต่พวกเขาไม่เคยให้เหตุผลให้เราสงสัยแม้แต่ครั้งเดียว",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Indeed, they often assist the Gods' Quiver and the Wood Wailers in their work -- much as I hope you will in the days to come, Forename .",
+      "text_th": "ที่จริงพวกเขามักช่วยเหลือ กอดส์ ควิเวอร์ และ วูด เวลเลอร์ ในงานต่างๆ อยู่เสมอ — เช่นเดียวกับที่ฉันหวังว่าเจ้าจะทำในวันข้างหน้า [ชื่อ]",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "Although our unknown visitor eludes us still, owing to your efforts, we have acquired important intelligence on the Ixali threat. You have my gratitude.",
+      "text_th": "แม้ผู้มาเยือนนิรนามของเรายังคงหลบหนีได้ แต่ด้วยความพยายามของเจ้า เราได้ข้อมูลสำคัญเกี่ยวกับภัยคุกคามจากอิกซัล ฉันขอบคุณเจ้ามาก",
+      "status": "AI"
+    },
+    {
+      "character": "Galfrid",
+      "text_en": "We are fortunate indeed to have a capable adventurer such as you aiding us. I pray you will continue to serve the people of Gridania in whatever capacity you are able.",
+      "text_th": "เราโชคดีจริงๆ ที่มีนักผจญภัยผู้เก่งกาจอย่างเจ้าคอยช่วยเหลือ ฉันหวังว่าเจ้าจะยังคงรับใช้ชาวกริดาเนียในทุกทางที่ทำได้",
+      "status": "AI"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "id": "the-company-you-keep-maelstrom",
+  "wiki_path": "/wiki/The_Company_You_Keep_(Maelstrom)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/b7/The_Company_You_Keep_%28Maelstrom%29_Image.png",
+  "patch": "2.0",
+  "title_en": "The Company You Keep (Maelstrom)",
+  "title_th": "สหายที่ท่านเลือก (Maelstrom)",
+  "title_status": "AI",
+  "level": "20",
+  "location": "The Waking Sands(X:6.8,Y:6.2)",
+  "npc_start": "Storm Officer",
+  "dialogues": [
+    {
+      "character": "Storm Officer",
+      "text_en": "How was the Admiral's speech? Ah, but you need not explain─that you stand before me now is answer enough. You have resolved to join the Maelstrom, have you not?",
+      "text_th": "สุนทรพจน์ของท่านนายพลเรือเป็นยังไงบ้างล่ะ? อา แต่เจ้าคงไม่ต้องอธิบายหรอก─การที่เจ้ามายืนอยู่ตรงหน้าข้าตอนนี้ก็ถือเป็นคำตอบที่ชัดเจนพอแล้ว เจ้าตัดสินใจจะเข้าร่วมกับ Maelstrom แล้วสินะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "...Well, I daresay you have your reasons. But mark me: in stormy seas, the strong of arm and stout of heart must pull together or the vessel will founder. And when a ship goes down, the passengers always share the fate of the crew. Remember that.",
+      "text_th": "...อืมมม ข้าก็พอจะเดาออกแหละว่าเจ้ามีเหตุผลของเจ้า แต่จำคำข้าไว้นะ: ในทะเลยามพายุโหมกระหน่ำ คนที่แข็งแรงและใจเด็ดเดี่ยวก็ต้องร่วมแรงร่วมใจกัน ไม่งั้นเรือก็มีหวังล่มแน่ๆ และเมื่อเรือจมลง ผู้โดยสารก็ต้องเผชิญชะตากรรมเดียวกับลูกเรือเสมอ จำไว้ให้ดีล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "That's the spirit, lad / lass ! With allies like you, how much stronger is our crew! Let us brave the seas together, friend!",
+      "text_th": "แบบนี้สิถึงจะเยี่ยมไปเลย พ่อหนุ่ม / แม่หนู ! มีเพื่อนร่วมรบอย่างเจ้า ลูกเรือของเราก็ยิ่งแข็งแกร่งขึ้นเป็นกองเลยล่ะ! มาร่วมฝ่าเกลียวคลื่นไปด้วยกันเถอะเพื่อน!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "Now the choice is made, it is time to add your name to our rolls. Make your way to Maelstrom Command back in Limsa.",
+      "text_th": "ในเมื่อตัดสินใจแล้ว ก็ถึงเวลาที่จะใส่ชื่อเจ้าลงในทะเบียนประวัติของเราแล้วล่ะ กลับไปที่ศูนย์บัญชาการ Maelstrom Command ที่ Limsa เถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "'Tis on the upper decks, in case you have forgotten. I will send word to our personnel officer to expect you.",
+      "text_th": "มันอยู่ชั้นบนน่ะ เผื่อเจ้าจะลืมไปแล้ว เดี๋ยวข้าจะส่งข่าวไปบอกเจ้าหน้าที่ฝ่ายบุคคลของเราให้เตรียมรอรับเจ้าไว้ด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "That's the spirit, lad / lass ! With allies like you, how much stronger is our crew! Let us brave the seas together, friend!",
+      "text_th": "แบบนี้สิถึงจะเยี่ยมไปเลย พ่อหนุ่ม / แม่หนู ! มีเพื่อนร่วมรบอย่างเจ้า ลูกเรือของเราก็ยิ่งแข็งแกร่งขึ้นเป็นกองเลยล่ะ! มาร่วมฝ่าเกลียวคลื่นไปด้วยกันเถอะเพื่อน!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "Now the choice is made, it is time to add your name to our rolls. Make your way to Limsa Lominsa and seek out our Grand Company's headquarters.",
+      "text_th": "ในเมื่อตัดสินใจแล้ว ก็ถึงเวลาที่จะใส่ชื่อเจ้าลงในทะเบียนประวัติของเราแล้วล่ะ เดินทางไปที่ Limsa Lominsa แล้วไปที่ศูนย์บัญชาการของ Grand Company เราเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "Maelstrom Command is located on the upper decks. I will send word to our personnel officer to expect you.",
+      "text_th": "Maelstrom Command ตั้งอยู่ที่ชั้นบนน่ะ เดี๋ยวข้าจะส่งข่าวไปบอกเจ้าหน้าที่ฝ่ายบุคคลของเราให้เตรียมรอรับเจ้าไว้ด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "The duties of a Maelstrom soldier can be both arduous and challenging, but I promise you: you will not regret this choice. May your passage be swift and your bearings sure.",
+      "text_th": "หน้าที่ของทหาร Maelstrom นั้นทั้งหนักและเต็มไปด้วยความท้าทาย แต่ข้าขอรับรองเลยว่า เจ้าจะไม่มีวันเสียใจที่เลือกแบบนี้ ขอให้การเดินทางของเจ้าราบรื่นและทิศทางที่ไปนั้นถูกต้องเสมอ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "Pray keep in mind that you are at liberty to transfer between Grand Companies. Should you ever experience a change of heart, the Order of the Twin Adder would be proud to have you.",
+      "text_th": "โปรดจำไว้ด้วยนะว่าเจ้าสามารถย้ายสลับไปมาระหว่าง Grand Company ได้อย่างอิสระ หากวันใดเจ้าเปลี่ยนใจ Order of the Twin Adder ก็พร้อมและภูมิใจที่จะต้อนรับเจ้าเสมอ",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "What's this!? You mean to take up with the Maelstrom !? B-But...did the awe-inspiring figure of General Raubahn not stir you? He can seem a trifle intimidating...but I'm sure you'd warm to him, given time.",
+      "text_th": "นี่มันอะไรกัน!? เจ้าตั้งใจจะไปอยู่กับ Maelstrom งั้นรึ!? ต-แต่...หรือว่าบุคลิกอันน่าเกรงขามของท่านนายพล Raubahn จะไม่โดนใจเจ้าล่ะ? ท่านอาจจะดูน่าเกรงขามไปบ้าง...แต่ข้ามั่นใจนะว่าพอเวลาผ่านไปเจ้าจะรู้สึกเป็นกันเองกับท่านมากขึ้นแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "Report to Maelstrom Command to be officially sworn in to our ranks. And do not tarry. There is much work to be done─work to which your skills are well suited.",
+      "text_th": "ไปรายงานตัวที่ Maelstrom Command เพื่อสาบานตนเข้ากองกำลังของเราอย่างเป็นทางการเถอะ และก็อย่าชักช้าล่ะ มีงานอีกมากมายรออยู่─งานที่เหมาะกับฝีมืออย่างเจ้าสุดๆ เลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "Report to Maelstrom Command in Limsa Lominsa to be officially sworn in to our ranks. And do not tarry. There is much work to be done─work to which your skills are well suited.",
+      "text_th": "ไปรายงานตัวที่ Maelstrom Command ใน Limsa Lominsa เพื่อสาบานตนเข้ากองกำลังของเราอย่างเป็นทางการเถอะ และก็อย่าชักช้าล่ะ มีงานอีกมากมายรออยู่─งานที่เหมาะกับฝีมืออย่างเจ้าสุดๆ เลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "Hail, adventurer. What business have you at Maelstrom Command?",
+      "text_th": "ไง นักผจญภัย เจ้ามีธุระอะไรที่ Maelstrom Command รึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "Forename Surname ! Aye, our recruitment officer sent word of your coming. It shall be my honor to induct you into the ranks of the Maelstrom.",
+      "text_th": "[ชื่อ] [นามสกุล] ! ใช่แล้ว เจ้าหน้าที่เกณฑ์ทหารของเราส่งข่าวมาบอกว่าเจ้ากำลังจะมา เป็นเกียรติของข้าจริงๆ ที่จะได้บรรจุเจ้าเข้าเป็นทหารของ Maelstrom",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "Then well met, and welcome to the Maelstrom. I'll need a name for the roll, so─ Wait a moment. You're her, aren't you? Forename Surname ! Aye, you're just as our recruitment officer described. Glad to have you aboard, friend!",
+      "text_th": "งั้นก็ยินดีที่ได้รู้จัก และยินดีต้อนรับสู่ Maelstrom นะ ข้าต้องการชื่อสำหรับใส่ในรายชื่อประวัติ ก็เลย─ เดี๋ยวก่อนนะ เจ้าคือคนนั้นใช่ไหม? [ชื่อ] [นามสกุล] ! ใช่แล้ว เจ้าเหมือนกับที่เจ้าหน้าที่เกณฑ์ทหารของเราบรรยายไว้เป๊ะเลย ดีใจที่มีเจ้ามาร่วมทีมนะเพื่อน!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "Now, before I can accept your oath, you must be made aware of several─",
+      "text_th": "เอาล่ะ ก่อนที่ข้าจะรับคำสาบานจากเจ้า ข้าต้องให้เจ้าทราบถึงเรื่องบางอย่างซะก─",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Private",
+      "text_en": "Sir!",
+      "text_th": "ท่านครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "What is it, Private? And this had better be important.",
+      "text_th": "มีอะไร พลทหาร? หวังว่ามันจะสำคัญพอนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Private",
+      "text_en": "Sir! We've received a report from a lookout in lower La Noscea, sir! Imperial forces have fired upon a Highwind Skyways airship.",
+      "text_th": "ท่านครับ! เราได้รับรายงานจากหน่วยลาดตระเวนในแถบ lower La Noscea ครับท่าน! กองทัพจักรวรรดิยิงโจมตีเรือเหาะของ Highwind Skyways ครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Private",
+      "text_en": "The vessel is in a bad way, sir, and appears to be banking for an emergency landing in Cedarwood.",
+      "text_th": "สภาพเรือแย่มากเลยครับท่าน และดูเหมือนกำลังจะเลี้ยวไปลงจอดฉุกเฉินที่ Cedarwood ครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "Cedarwood? Damn it. We have no troops available in that area. The bulk of our infantry is bogged down on the coast, skirmishing with the fishbacks.",
+      "text_th": "Cedarwood งั้นรึ? ให้ตายสิ เราไม่มีทหารว่างอยู่แถวนั้นเลย กองทหารราบส่วนใหญ่ของเราก็กำลังติดพันสู้รบกับพวก fishback อยู่แถวชายฝั่งนู่น",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "Surname ─this is highly irregular, but I fear your first duty in service to the Maelstrom must needs be unofficial.",
+      "text_th": "[นามสกุล] ─นี่มันผิดระเบียบอย่างแรงเลยนะ แต่ข้าเกรงว่าหน้าที่แรกของเจ้าในฐานะทหาร Maelstrom คงต้องเป็นภารกิจแบบไม่เป็นทางการซะแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "If our man in lower La Noscea is correct, the airship will come down in territory crawling with imperial scouts. If there are any survivors, we must reach them before the Garleans do.",
+      "text_th": "ถ้าคนของเราใน lower La Noscea พูดถูกล่ะก็ เรือเหาะนั่นจะต้องไปตกในเขตที่เต็มไปด้วยหน่วยสอดแนมของจักรวรรดิแน่ๆ ถ้ามีผู้รอดชีวิต เราต้องไปให้ถึงพวกเขาก่อนพวก Garlean นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "Make haste to Cedarwood, locate the airship, and if any of its occupants are alive, make sure they come to no further harm. We'll see about swearing you in upon your return.",
+      "text_th": "รีบมุ่งหน้าไปที่ Cedarwood ตามหาเรือเหาะให้เจอ และถ้ามีผู้โดยสารรอดชีวิต ก็จงดูแลอย่าให้พวกเขาได้รับอันตรายไปมากกว่านี้นะ เดี๋ยวเราค่อยมาจัดการเรื่องสาบานตนตอนเจ้ากลับมาละกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "An adventurer!? What're you doing out here? No, wait─let's find some cover first...",
+      "text_th": "นักผจญภัยงั้นเหรอ!? คุณมาทำอะไรที่นี่เนี่ย? ไม่สิ เดี๋ยวก่อน─เราไปหาที่หลบกันก่อนเถอะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "Maelstrom Command sent you? How do I know you're not an imperial spy? You don't even have a uniform!",
+      "text_th": "Maelstrom Command ส่งคุณมางั้นเหรอ? แล้วฉันจะรู้ได้ไงว่าคุณไม่ใช่สายลับจักรวรรดิ? คุณยังไม่ได้ใส่เครื่องแบบเลยด้วยซ้ำ!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text_en": "Be at ease, sir. We are of the Maelstrom. You're a Garlond Ironworks engineer, yes? One of our lookouts reported the attack on your craft─we're here to rescue you.",
+      "text_th": "ใจเย็นๆ ก่อนเพื่อน─เราไม่ได้มาร้าย เรามาจาก Maelstrom น่ะ คุณเป็นวิศวกรของ Garlond Ironworks ใช่ไหม? หน่วยลาดตระเวนของเราคนนึงรายงานเรื่องเรือของคุณถูกโจมตี─เราก็เลยมาช่วยคุณน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text_en": "You must be Surname . Good work on reaching our friend here before the imperials.",
+      "text_th": "คุณคงจะเป็น [นามสกุล] สินะ ทำได้ดีมากที่มาถึงเพื่อนของเราคนนี้ก่อนพวกจักรวรรดิน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "I've never seen a craft of this design... It must be Garlond's work. Is there no end to the man's treachery?",
+      "text_th": "ข้าไม่เคยเห็นเรือเหาะรูปแบบนี้มาก่อนเลย... ไอ้คนทรยศ Garlond คงจะงานยุ่งน่าดูสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "The secrets of magitek belong in imperial hands. They are not to be squandered on Eorzean savages!",
+      "text_th": "ความลับของเทคโนโลยี magitek เป็นสิทธิ์ของเราโดยชอบธรรม ไม่ใช่เอามาโยนทิ้งขว้างให้กับพวกป่าเถื่อนในดินแดนนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "We are taking this craft back to the fortress! Dismantle it if you must! And bring the engineer! Someone must pay for Garlond's crimes.",
+      "text_th": "เราจะเอาเรือลำนี้กลับไปที่ป้อม! ถอดชิ้นส่วนมันออกมาให้หมดถ้าจำเป็น! แล้วเอาตัววิศวกรนั่นมาด้วย! ต้องมีใครสักคนชดใช้ให้กับอาชญากรรมของ Garlond",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text_en": "...Hm. Scouting party from Castrum Occidens, I'd say. Seems they want your ship, engineer.",
+      "text_th": "...หืมมม น่าจะเป็นหน่วยลาดตระเวนจาก Castrum Occidens แฮะ ดูเหมือนพวกมันจะอยากได้เรือของคุณนะ คุณวิศวกร",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "Wedge! You have to help him! That fool of a Lalafell was hiding inside the Tiny Bronco !",
+      "text_th": "Wedge! คุณต้องช่วยเขานะ! เจ้า Lalafell โง่นั่นยังซ่อนตัวอยู่ใน Tiny Bronco !",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text_en": "The Tiny Bronco ? Isn't that the new design people have been whispering about?",
+      "text_th": "Tiny Bronco งั้นเหรอ? นั่นมันดีไซน์ใหม่ที่คนเขาลือกันไม่ใช่เหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "It's the first airship we've built since the Calamity─the first since Master Garlond...well, since he went missing.",
+      "text_th": "มันเป็นเรือเหาะลำแรกที่เราสร้างขึ้นตั้งแต่เกิดภัยพิบัติ Calamity ─ลำแรกตั้งแต่ท่าน Garlond...เอ่อ ตั้งแต่ท่านหายตัวไปน่ะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "After years of work, she was finally ready for her first test flight. And she was soaring , she really was─till those bastards blasted her out of the sky!",
+      "text_th": "หลังจากลงแรงไปหลายปี ในที่สุดเธอก็พร้อมสำหรับการบินทดสอบครั้งแรก แล้วเธอก็บิน ได้สวยงามจริงๆ นะ─จนกระทั่งไอ้พวกสารเลวนั่นยิงเธอตกจากฟ้านี่แหละ!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text_en": "All right, pay attention: we're going to hit these imperials hard and fast. If they want a souvenir from Eorzea, they can have a knife in the gut, but they're not getting that ship. Oh, and...don't forget to save the Lalafell.",
+      "text_th": "เอาล่ะ ฟังให้ดีนะ: เราจะบุกโจมตีพวกจักรวรรดินี่ให้หนักและเร็วที่สุด ถ้าพวกมันอยากได้ของที่ระลึกจาก Eorzea ล่ะก็ เดี๋ยวจะแจกมีดปักพุงให้คนละเล่มเลย แต่พวกมันจะไม่ได้เรือลำนี้ไปหรอกนะ อ้อ แล้วก็...อย่าลืมช่วยชาว Lalafell ด้วยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text_en": "What say you, Surname ? Ready to give those curs a hiding?",
+      "text_th": "ว่าไงล่ะ [นามสกุล] ? พร้อมจะสั่งสอนไอ้พวกหมาป่าพวกนี้ให้หลาบจำรึยัง?",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text_en": "Like a tidal wave, lads! Charge!",
+      "text_th": "โถมเข้าไปให้เหมือนคลื่นยักษ์เลยพวก! ลุย!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "An ambush! To arms!",
+      "text_th": "เราถูกซุ่มโจมตี! จับอาวุธ!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Marauder",
+      "text_en": "Gut the bastards!",
+      "text_th": "ควักไส้มันออกมาเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Keep them away from the airship!",
+      "text_th": "อย่าให้พวกมันเข้าใกล้เรือเหาะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Savages! You cannot stand against the might of the Empire!",
+      "text_th": "ไอ้พวกป่าเถื่อน! พวกแกไม่มีทางสู้พลังของจักรวรรดิได้หรอก!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "This has gone on long enough!",
+      "text_th": "มันชักจะยืดเยื้อเกินไปแล้วนะเนี่ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Exterminate these barbarians! Teach them the futility of resistance!",
+      "text_th": "กวาดล้างไอ้พวกป่าเถื่อนนี่ให้สิ้นซาก! สอนให้พวกมันรู้ซึ้งว่าการต่อต้านน่ะมันเปล่าประโยชน์!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Biggs!",
+      "text_th": "Biggs!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Wedge! You shouldn't have stayed with the ship!",
+      "text_th": "Wedge! นายไม่ควรจะอยู่เฝ้าเรือเลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Th-That was a close one!",
+      "text_th": "ก-เกือบไปแล้วเชียว!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Too damn close. So...how's she look, anyway?",
+      "text_th": "เฉียดฉิวสุดๆ ไปเลย แล้ว...สภาพเรือตอนนี้เป็นไงบ้างล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "The auxiliary propeller is a dead loss, but I think we can wring enough thrust from the main propeller to get us airborne.",
+      "text_th": "ใบพัดเสริมพังยับเยินไปแล้วล่ะ แต่ฉันคิดว่าเราน่าจะยังดึงแรงขับเคลื่อนจากใบพัดหลักมาใช้พยุงเครื่องให้ลอยขึ้นได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "A few minor modifications and we should be able to fly the Tiny Bronco home.",
+      "text_th": "ซ่อมนิดๆ หน่อยๆ ก็น่าจะพอขับ Tiny Bronco กลับบ้านได้แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text_en": "We'll stand watch until the ship is ready to take off. The imperials will come looking for their scouts eventually, but I doubt they'll get here for a good while yet.",
+      "text_th": "เราจะเฝ้ายามไว้ให้จนกว่าเรือจะพร้อมขึ้นบินนั่นแหละ พวกจักรวรรดิต้องตามหาหน่วยสอดแนมของพวกมันแน่ๆ แต่ฉันเดาว่ากว่าพวกมันจะมาถึงก็คงอีกนานเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text_en": "Surname ─you're free to return to Maelstrom Command and complete your induction.",
+      "text_th": "[นามสกุล] ─คุณเป็นอิสระแล้วนะ กลับไปที่ Maelstrom Command แล้วจัดการเรื่องสาบานตนต่อเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text_en": "Ordinarily, I'd ask you to stay, but I think we'd all feel better knowing an adventurer of your ability was safely sworn in and ready for the next mission! Rest assured, I'll inform Command of the part you played today.",
+      "text_th": "ปกติแล้วฉันคงอยากจะขอให้คุณอยู่ต่อล่ะนะ แต่ฉันว่าเราทุกคนน่าจะอุ่นใจกว่าถ้ารู้ว่านักผจญภัยฝีมือดีอย่างคุณได้เข้าพิธีสาบานตนเรียบร้อยและพร้อมสำหรับภารกิจต่อไปแล้ว! สบายใจได้เลย ฉันจะรายงานวีรกรรมของคุณในวันนี้ให้ทางกองบัญชาการทราบเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "I, um...just wanted to say sorry...you know, for calling you an imperial spy and all that... Got that one wrong, didn't I!? Ha ha! Seriously, though─if it hadn't been for you and the Twin Adder lads there, we'd be chained up in a dungeon by now. I'm in your debt, friend─we both are.",
+      "text_th": "ฉัน เอ่อ...แค่อยากจะขอโทษน่ะ...ที่หาว่าคุณเป็นสายลับจักรวรรดิอะไรนั่น... ฉันเดาผิดถนัดเลยใช่ไหมล่ะ!? ฮ่าๆ! แต่เอาจริงๆ นะ─ถ้าไม่ได้คุณกับพวก Twin Adder พวกนั้นช่วยไว้ ป่านนี้เราคงโดนจับล่ามโซ่อยู่ในคุกใต้ดินไปแล้ว ฉันติดหนี้คุณแล้วล่ะเพื่อน─เราทั้งคู่เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Wedge!",
+      "text_th": "ใช่แล้ว Wedge!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Thank you! We're very grateful!",
+      "text_th": "ขอบคุณครับ! พวกเราซาบซึ้งใจจริงๆ!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "Welcome back, Surname . I just heard the report.",
+      "text_th": "ยินดีต้อนรับกลับ [นามสกุล] ข้าเพิ่งได้รับรายงานเมื่อครู่นี้เอง",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "You needn't be concerned about the engineers─they completed their return trip without further imperial interference.",
+      "text_th": "เจ้าไม่ต้องเป็นห่วงพวกวิศวกรนั่นหรอกนะ─พวกเขาเดินทางกลับถึงที่หมายโดยปลอดภัย ไม่โดนพวกจักรวรรดิตามมารังควานแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "...I must admit, I had my doubts at first, but it seems the stories about you are true.",
+      "text_th": "...ข้าต้องยอมรับเลยนะ ตอนแรกข้าก็แอบสงสัยอยู่เหมือนกัน แต่ดูเหมือนว่าเรื่องราวที่คนเขาเล่าลือเกี่ยวกับเจ้าจะเป็นเรื่องจริงสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "I look forward to seeing what else you're capable of...after you're properly inducted into the Maelstrom, of course!",
+      "text_th": "ข้าล่ะตั้งตารออยากจะเห็นฝีมือของเจ้าอีกจริงๆ...แน่นอน หลังจากที่เจ้าเข้าพิธีบรรจุเป็นทหาร Maelstrom อย่างเป็นทางการแล้วน่ะนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text_en": "Now, speaking of your induction...",
+      "text_th": "เอาล่ะ พูดถึงเรื่องบรรจุ...",
+      "status": "AI"
+    }
+  ]
+}

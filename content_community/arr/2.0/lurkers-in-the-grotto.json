@@ -1,0 +1,404 @@
+{
+  "id": "lurkers-in-the-grotto",
+  "wiki_path": "/wiki/Lurkers_in_the_Grotto",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/f5/Lurkers_in_the_Grotto_Image.png",
+  "patch": "2.0",
+  "title_en": "Lurkers in the Grotto",
+  "title_th": "ผู้ซ่อนตัวในถ้ำ",
+  "title_status": "AI",
+  "level": "5",
+  "location": "Middle La Noscea(X:25.6,Y:17.0)",
+  "npc_start": "Staelwyrn",
+  "dialogues": [
+    {
+      "character": "Staelwyrn",
+      "text_en": "Ah, Surname . That aura of confidence tells me you've not been idle since last we met.",
+      "text_th": "[นามสกุล] บรรยากาศความมั่นใจนั้นบอกฉันว่าเจ้าไม่ได้อยู่เฉยนับตั้งแต่เราพบกันครั้งล่าสุด",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "I hope I've read you aright, for I've a task that requires the attention of a capable adventurer. Might that adventurer be you?",
+      "text_th": "หวังว่าจะอ่านเจ้าถูกต้อง เพราะมีงานที่ต้องการความสนใจจากนักผจญภัยผู้เก่งกาจ นักผจญภัยนั้นคือเจ้าไหมนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Good to hear. Then I shall lay before you the sorry tale.",
+      "text_th": "ดีที่ได้ยิน งั้นฉันจะเล่าเรื่องน่าเศร้านี้ให้ฟัง",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "You will have heard rumors of the abductions. Aye, citizens have been disappearin' from every corner of Limsa Lominsa , as if plucked from the face of Hydaelyn , boots and all, by an unseen hand.",
+      "text_th": "เจ้าคงได้ยินข่าวลือเรื่องการลักพาตัว ใช่แล้ว ชาวเมืองหายตัวไปจากทุกมุมของ ลิมซา โลมินซา ราวกับถูกมือที่มองไม่เห็นดึงออกไปจากพื้นโลก รองเท้าและทุกสิ่ง",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "And what's this got to do with Summerford Farms , you might ask. Well, that remains to be seen, but it seems a collection of right unsavory fellows with azure-tattooed faces has been creepin' up to the edges of the fields and spyin' on my yeomen.",
+      "text_th": "แล้วสิ่งนี้เกี่ยวอะไรกับ ซัมเมอร์ฟอร์ด ฟาร์มส์ เจ้าอาจถาม ยังต้องพิสูจน์อยู่ แต่ดูเหมือนกลุ่มคนที่น่าสงสัยมีรอยสักสีน้ำเงินบนหน้ากำลังแอบคืบคลานมาที่ขอบไร่และสอดแนมลูกน้องของฉัน",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Now, I doubt anyone would enjoy bein' scrutinized by such savages at the best of times, but the farmhands are convinced that they're the kidnappers of rumor, come for their hides.",
+      "text_th": "ในสภาวะที่ดีที่สุดก็ไม่มีใครชอบถูกจ้องมองโดยพวกป่าเถื่อนแบบนั้น แต่คนงานไร่เชื่อแน่ว่าพวกนั้นคือผู้ลักพาตัวตามข่าวลือ มาตามล่าตัวพวกเขา",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Needless to say, they're beside 'emselves with worry, and their work's sufferin' for it -- which is the very last thing I need when my old crewmen are still gettin' used to their new jobs. 'Tis a struggle to get 'em to leave the farmhouse of a mornin'.",
+      "text_th": "ไม่ต้องบอกก็รู้ว่าพวกเขาวิตกกังวลมาก และงานก็ได้รับผลกระทบ — ซึ่งเป็นสิ่งที่ฉันต้องการน้อยที่สุดเมื่อลูกเรือเก่าของฉันยังปรับตัวกับงานใหม่อยู่ แค่จะให้ออกจากบ้านไร่ตอนเช้าก็ยังยาก",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "That is, as they say, where you come in. Would you be willin' to investigate these tattooed thugs for me?",
+      "text_th": "นั่นคือจุดที่เจ้าเข้ามา ตามที่เขาว่ากัน เจ้ายินดีสืบสวนพวกนักเลงรอยสักพวกนั้นให้ฉันไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Good lass. The sooner we get to the bottom of this, the sooner this place will start to resemble a workin' farm again.",
+      "text_th": "ดีมากจ้า ยิ่งเราค้นพบความจริงเร็วเท่าไร ที่นี่ก็จะกลับมาเป็นไร่ที่ทำงานได้ปกติเร็วขึ้นเท่านั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "I suggest you begin by havin' a look around Seasong Grotto . If reports are to be believed, our unwelcome visitors have occupied the place.",
+      "text_th": "แนะนำให้เริ่มจากการสำรวจ ถ้ำซีซอง ถ้ารายงานน่าเชื่อถือ ผู้มาเยือนที่ไม่ยินดีต้อนรับของเราได้ยึดครองที่นั่น",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Be careful, though, Surname -- I couldn't say for sure what manner of miscreants we're dealin' with here. If they are the kidnappers... well, just be on your guard, all right?",
+      "text_th": "แต่ระวังด้วย [นามสกุล] ฉันไม่แน่ใจว่าพวกร้ายที่เราจัดการอยู่นี้ เป็นประเภทไหน ถ้าพวกมันเป็นผู้ลักพาตัวจริงๆ... ก็แค่ระวังตัวไว้ ตกลงนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "I am the waves that bear. I am the winds that guide.",
+      "text_th": "ข้าคือคลื่นที่พัดพา ข้าคือสายลมที่นำทาง",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "I am the evening stars. I am the morning sky. I am born of the sea. And there shall I die.",
+      "text_th": "ข้าคือดาวยามเย็น ข้าคือท้องฟ้ายามเช้า ข้าเกิดจากทะเล และที่นั่นข้าจะจากไป",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Thus reads the Sailors' Requiem carved into yonder stone.",
+      "text_th": "นั่นคือ บทสวดนักเดินเรือ ที่สลักบนหินก้อนนั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Such words well describe the manner in which the citizens of Limsa Lominsa live their lives.",
+      "text_th": "ถ้อยคำเหล่านั้นบรรยายวิธีที่ชาวลิมซา โลมินซา ดำเนินชีวิตได้เป็นอย่างดี",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "It is both a litany against misfortune for those out on the waves...",
+      "text_th": "มันทั้งเป็นบทภาวนาป้องกันโชคร้ายสำหรับผู้ที่ออกไปบนคลื่น...",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "...and a prayer that the souls of those who perish on land might find their way back to the sea.",
+      "text_th": "...และเป็นบทอธิษฐานให้วิญญาณผู้ที่จากไปบนแผ่นดินได้หาทางกลับสู่ทะเล",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Ah, you are the adventurer I've seen around Summerford Farms.",
+      "text_th": "อ๋อ เจ้าคือนักผจญภัยที่เคยเห็นบริเวณ ซัมเมอร์ฟอร์ด ฟาร์มส์ นั่นเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "I thought myself on the trail of the kidnappers, but it would seem I have missed my mark.",
+      "text_th": "คิดว่าตามรอยผู้ลักพาตัวอยู่ แต่ดูเหมือนจะพลาดเป้าหมาย",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "...Or perhaps not.",
+      "text_th": "...หรืออาจจะไม่ก็ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "As I suspected, the aetheric disturbance here is no natural occurrence.",
+      "text_th": "ดังที่สงสัยไว้ การรบกวนอีเธอร์ที่นี่ไม่ใช่เรื่องธรรมชาติ",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Nor is it a coincidence that the two of us should come here in search of those responsible for the disappearances only to be attacked.",
+      "text_th": "และไม่ใช่เรื่องบังเอิญที่ทั้งสองมาที่นี่เพื่อค้นหาผู้รับผิดชอบต่อการหายตัวแล้วถูกโจมตี",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "But who stands to benefit from the keeping of this secret?",
+      "text_th": "แต่ใครจะได้ประโยชน์จากการรักษาความลับนี้?",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Such thoughts must wait. Let us attend to the task at hand, unpleasant though it be.",
+      "text_th": "ความคิดเหล่านั้นต้องรอก่อน ให้เราจัดการงานตรงหน้า ไม่ว่าจะน่ายินดีหรือไม่ก็ตาม",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "I sense something awry with this creature. Be on your guard.",
+      "text_th": "รู้สึกว่ามีบางอย่างผิดปกติกับสิ่งมีชีวิตนี้ ระวังตัวไว้",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Ware! The disruption of the aether draws others to the fray!",
+      "text_th": "ระวัง! การรบกวนอีเธอร์กำลังดึงดูดสิ่งอื่นเข้ามาร่วมการต่อสู้!",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Keep your focus on the battle! Leave the tending of wounds to me.",
+      "text_th": "จดจ่อกับการต่อสู้! ปล่อยให้ฉันดูแลบาดแผล",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "More unwelcome visitors? Slay them quickly lest we be overwhelmed.",
+      "text_th": "ผู้มาเยือนที่ไม่ยินดีต้อนรับเพิ่มอีกหรือ? กำจัดพวกมันเร็วๆ ก่อนที่เราจะถูกครอบงำ",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "The creature falters. Press the attack and the battle will soon be won.",
+      "text_th": "สิ่งมีชีวิตนั้นสั่นคลอนแล้ว กดดันการโจมตีต่อและการต่อสู้จะสิ้นสุดในไม่ช้า",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Hear... Feel... Think...",
+      "text_th": "ได้ยิน... รู้สึก... คิด...",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Crystal bearer...",
+      "text_th": "ผู้อัญเชิญคริสตัล...",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "I am Hydaelyn . All made one.",
+      "text_th": "ข้าคือ ไฮดาลิน ทุกสิ่งรวมเป็นหนึ่ง",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "A Light there once was that shone throughout this realm... yet it hath since grown dim.",
+      "text_th": "แสงสว่างหนึ่งเคยส่องประกายทั่วแผ่นดินนี้... แต่บัดนี้มันริบหรี่ลงแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "And as it hath faltered, so hath Darkness risen up in its stead, presaging an end to Life.",
+      "text_th": "และเมื่อแสงสว่างอ่อนแรง ความมืดก็ผงาดขึ้นแทนที่ บ่งบอกถึงจุดจบของสรรพชีวิต",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "For the sake of all, I beseech thee: deliver us from this fate!",
+      "text_th": "เพื่อสรรพสิ่งทั้งปวง ข้าวิงวอนเจ้า: ช่วยพาเราให้พ้นจากชะตากรรมนี้!",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "The power to banish the Darkness dwelleth in the Crystals of Light. Journey forth and lay claim to them.",
+      "text_th": "พลังในการขับไล่ความมืดนั้นอยู่ใน คริสตัลแห่งแสง จงออกเดินทางและนำมันมาเป็นของเจ้า",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "By thy deeds shall the Crystals reveal themselves to thee.",
+      "text_th": "ด้วยการกระทำของเจ้า คริสตัลจะเผยตัวเองให้เจ้าเห็น",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Only believe, for the Light liveth in thy heart.",
+      "text_th": "จงเชื่อมั่น เพราะแสงสว่างดำรงอยู่ในใจของเจ้า",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Go now, my child, and shine thy Light on all creation.",
+      "text_th": "จงไปเถิด ลูกของข้า และส่องแสงของเจ้าให้แก่สรรพสิ่งทั้งปวง",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Awake again, are we?",
+      "text_th": "ตื่นแล้วหรือ?",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Aha. The poor creature's fury was kindled with cruel forethought.",
+      "text_th": "อาฮา ความโกรธของสิ่งมีชีวิตนั้นถูกจุดขึ้นด้วยการวางแผนอย่างโหดร้าย",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "See this blade ? I found it in the goobbue 's back.",
+      "text_th": "เห็นใบมีดนี้ไหม? ฉันพบมันบนหลังของ กูบ",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "I have seen knives of this kind before -- they are most commonly used for the cutting of rope.",
+      "text_th": "เคยเห็นมีดแบบนี้มาก่อน — ส่วนใหญ่ใช้สำหรับตัดเชือก",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "It would appear our culprits are seafaring men of some persuasion... piratical being the most probable.",
+      "text_th": "ดูเหมือนผู้ก่อเหตุของเราเป็นชาวทะเลประเภทหนึ่ง... โจรสลัดน่าจะเป็นไปได้มากที่สุด",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "In any event, you seem much recovered from your sudden... affliction.",
+      "text_th": "อย่างไรก็ตาม เจ้าดูฟื้นตัวดีขึ้นมากจาก... อาการที่เกิดขึ้นอย่างกะทันหัน",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "I confess, I was rather taken aback when you collapsed at the very moment of our victory. Mayhap a surfeit of aether...?",
+      "text_th": "ฉันยอมรับว่าตกตะลึงเล็กน้อยเมื่อเจ้าล้มลงในขณะที่เรากำลังชนะ อาจเป็นเพราะอีเธอร์ล้นเกินไป...?",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "I beg your pardon? A “towering crystal”? I'm sure I don't-- Oh.",
+      "text_th": "ขอโทษนะ? 'คริสตัลตระหง่าน'? ฉันแน่ใจว่าไม่— โอ้",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "Well, well... This has been a day of unexpected revelations.",
+      "text_th": "ก็นะ... นี่เป็นวันแห่งการค้นพบที่ไม่คาดคิด",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "I must continue my investigation.",
+      "text_th": "ฉันต้องสืบสวนต่อไป",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "In the meantime, I suggest you deliver this knife to your patron, along with a warning concerning the pirates' probable involvement in this murky business.",
+      "text_th": "ในระหว่างนั้น แนะนำให้เจ้านำมีดนี้ไปให้ผู้อุปถัมภ์ พร้อมกับคำเตือนเกี่ยวกับการที่โจรสลัดน่าจะเกี่ยวข้องกับธุรกิจมืดนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "The days ahead promise little rest, I fear...",
+      "text_th": "วันข้างหน้าดูไม่มีเวลาพักผ่อน ฉันกลัวว่า...",
+      "status": "AI"
+    },
+    {
+      "character": "Cultured Conjurer",
+      "text_en": "May our paths cross again under the light of the Crystal.",
+      "text_th": "ขอให้เส้นทางของเราได้มาพบกันอีกครั้งใต้แสงของคริสตัล",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Surname ! Right glad am I to see you safely returned!",
+      "text_th": "[นามสกุล]! ดีใจมากที่เห็นเจ้ากลับมาอย่างปลอดภัย!",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "My lads were all gabbin' about hearin' what sounded like all seven hells breakin' loose near the grotto, and I feared I'd sent you to your death.",
+      "text_th": "ลูกน้องทุกคนพูดคุยกันเรื่องได้ยินเสียงราวกับนรกทั้งเจ็ดขุมแตกออกใกล้ถ้ำ และฉันกลัวว่าฉันส่งเจ้าไปตาย",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "If you were in the middle of that commotion, I hope it yielded somethin' of interest. I'd hate to think you'd risked your life for naught.",
+      "text_th": "ถ้าเจ้าอยู่กลางความวุ่นวายนั้น หวังว่าจะได้บางอย่างที่น่าสนใจ ฉันไม่อยากคิดว่าเจ้าเสี่ยงชีวิตมาเปล่าๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Hmmm... A blade pulled from the back of a creature you slew at the cave, eh?",
+      "text_th": "ฮืมม... ใบมีดที่ดึงออกจากหลังสิ่งมีชีวิตที่เจ้าสังหารที่ถ้ำ ใช่ไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Aye, I'd agree that such a knife would be part of any seafarin' man's kit.",
+      "text_th": "ใช่ ฉันก็เห็นด้วยว่ามีดแบบนั้นจะเป็นส่วนหนึ่งของอุปกรณ์ชาวทะเลทุกคน",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "I'm startin' to think that these ruffians are pirates, come to lure my farmhands back to a life of plunder. Chances are, they didn't take kindly to your appearance on their doorstep, and set a maddened goobbue on you.",
+      "text_th": "เริ่มคิดว่านักเลงพวกนั้นเป็นโจรสลัด มาล่อคนงานไร่ของฉันกลับไปใช้ชีวิตปล้นสะดมอีกครั้ง คงเป็นไปได้ว่าพวกมันไม่พอใจที่เจ้าปรากฏตัวหน้าประตู และปล่อย กูบ บ้าคลั่งใส่เจ้า",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Aye, the pirates have been addin' to their numbers of late. I'd best warn the lads and lasses in my employ to be on guard against their schemes.",
+      "text_th": "ใช่ โจรสลัดกำลังเพิ่มจำนวนสมาชิกเมื่อเร็วๆ นี้ ฉันควรเตือนพนักงานในความดูแลของฉันให้ระวังแผนการของพวกมัน",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "...Hm? You met someone else at the grotto? A woman with a strange contraption...? Ah... Y'shtola !",
+      "text_th": "...เฮ้? เจ้าพบคนอื่นที่ถ้ำด้วยหรือ? ผู้หญิงที่มีอุปกรณ์แปลกๆ...? อ๋อ... Y'shtola!",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "She's been in Limsa Lominsa for a good while now. Her studies of the aether often bring her out to Summerford, so her presence at the grotto is hardly unusual.",
+      "text_th": "เธออยู่ในลิมซา โลมินซา มาพักใหญ่แล้ว การศึกษาอีเธอร์ของเธอมักพาเธอมาที่ ซัมเมอร์ฟอร์ด ดังนั้นการที่เธออยู่ที่ถ้ำนั้นไม่ใช่เรื่องแปลก",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "She's an odd-lookin' lass, I grant you, but she's not the kind to associate with kidnappers. You may take my word for that.",
+      "text_th": "เธอดูแปลกๆ ฉันยอมรับ แต่เธอไม่ใช่คนที่จะคบค้ากับผู้ลักพาตัว เชื่อฉันได้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Where trust should be lackin' is in those yeomen of mine who have yet to wholly relinquish their pirate pasts. The temptation to return to the free and easy life of a buccaneer may prove too strong to resist.",
+      "text_th": "สิ่งที่ควรสงสัยคือลูกน้องของฉันที่ยังไม่ปล่อยวางอดีตโจรสลัดอย่างสมบูรณ์ การล่อลวงให้กลับไปใช้ชีวิตโจรสลัดที่อิสระอาจแรงเกินกว่าจะต้านทานได้",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "You have my thanks, Surname . If it weren't for the efforts of stalwart adventurers like yourself, this farm would be in a far worse state than it is.",
+      "text_th": "ขอบคุณมาก [นามสกุล] ถ้าไม่มีความพยายามของนักผจญภัยผู้กล้าหาญอย่างเจ้า ไร่แห่งนี้คงอยู่ในสภาพที่แย่กว่านี้มาก",
+      "status": "AI"
+    },
+    {
+      "character": "Staelwyrn",
+      "text_en": "Just you keep on lendin' your talents to those in need, eh? Help bring Limsa the brighter future she deserves.",
+      "text_th": "แค่ทำต่อไปในการนำความสามารถของเจ้าช่วยผู้ที่ต้องการ ใช่ไหม? ช่วยนำอนาคตที่สดใสให้ลิมซาตามที่เธอสมควรได้รับ",
+      "status": "AI"
+    }
+  ]
+}

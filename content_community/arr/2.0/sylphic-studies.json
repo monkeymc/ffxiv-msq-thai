@@ -1,0 +1,68 @@
+{
+  "id": "sylphic-studies",
+  "wiki_path": "/wiki/Sylphic_Studies",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Sylphic Studies",
+  "title_th": "กรณีศึกษา Sylph",
+  "title_status": "AI",
+  "level": "20",
+  "location": "East Shroud(X:16.7,Y:27.1)",
+  "npc_start": "Rolfe Hawthorne",
+  "dialogues": [
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Come to learn a thing or two about the sylphs, have you? I'll tell you one thing, they're a peculiar folk. How peculiar, you ask? Well, just let me tell you!",
+      "text_th": "มาหาความรู้เกี่ยวกับพวก sylph งั้นรึ? ข้าจะบอกอะไรให้อย่างนึงนะ พวกนี้มันประหลาด ประหลาดขนาดไหนงั้นรึ? แหม มาฟังข้าเล่าเลยดีกว่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "They're... They're... Er... <sigh> Beg pardon, friend. My memory's just not what it used to be. I've seen much and more in my adventuring days, and it's all a clutter in my noggin now. Though, I've shared my stories with those around the hut before. You might have more luck with them.",
+      "text_th": "พวกนั้น... พวกนั้น... เอ่อ... <ถอนหายใจ> ขอโทษทีนะสหาย ความจำข้ามันไม่ค่อยดีเหมือนเมื่อก่อนแล้วล่ะ สมัยก่อนตอนเป็นนักผจญภัย ข้าผ่านอะไรมาเยอะแยะมากมาย ตอนนี้มันก็เลยตีกันยุ่งอยู่ในหัวข้าไปหมดเลย แต่ก็มีคนที่พักอยู่ที่นี่บางคนที่เคยฟังข้าเล่าเรื่องพวกนี้นะ เจ้าลองไปถามพวกเขาดูน่าจะได้เรื่องกว่านะ",
+      "status": "AI"
+    },
+    {
+      "character": "Ysabel Hawthorne",
+      "text_en": "The sylphs? Yes, Father's told me his stories plenty of times. What I've always found most captivating is how their concept of etiquette is almost completely alien to our own.",
+      "text_th": "พวก sylph เหรอก๊ะ? เคยสิก๊ะ คุณพ่อเล่าให้ฉันฟังบ่อยมากๆ เลย ที่ฉันรู้สึกว่ามันน่าสนใจที่สุดเลยก็คือ มารยาทของพวกเขาน่ะมันแปลกประหลาดกว่าพวกเราแบบคนละเรื่องเลยล่ะก๊ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Ysabel Hawthorne",
+      "text_en": "You'd do best not to underestimate them on account of their childlike looks, lest your face end up a mess of glyphs, squiggles, and chocobo scratches. Tee hee!",
+      "text_th": "อย่าประมาทพวกเขาก๊ะ ถึงพวกเขาจะดูเหมือนเด็กๆ แต่ระวังหน้าจะโดนข่วนจนเป็นรอยขยุกขยิก รอยข่วนเหมือนไก่เขี่ยนะก๊ะ อิอิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Blaisette",
+      "text_en": "The quickest way to a Quiverwoman's heart might be through her stomach, but don't even think of trying to foist your foodstuffs on a sylph. They sustain themselves simply by bathing in the sun, or so Rolfe once told me.",
+      "text_th": "วิธีที่เร็วที่สุดที่จะพิชิตใจ Quiverwoman ก็คืออาหารนี่แหละ แต่เจ้าอย่าคิดจะเอาอาหารของเจ้าไปยัดเยียดให้ sylph เชียวนะ เพราะพวกเขาอยู่ได้แค่ด้วยการอาบแสงแดดเท่านั้นแหละ หรืออย่างน้อยนั่นก็คือสิ่งที่ Rolfe เคยบอกฉันน่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Monne",
+      "text_en": "The sylphs? Inveterate tricksters and troublemakers, that's what they are! One day they're drawing morbol faces on our masks, the next they're sending our young sentries falling to the bottom of a ravine!",
+      "text_th": "พวก sylph งั้นรึ? ไอ้พวกจอมหลอกลวง ชอบหาเรื่องใส่ตัว นั่นแหละพวกมันล่ะ! วันก่อนพวกมันยังมาวาดหน้า morbol ใส่หน้ากากพวกเราอยู่เลย พอมาอีกวัน ก็แกล้งผลักยามหนุ่มของเราตกลงไปก้นเหวซะแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Monne",
+      "text_en": "Tell them to stop and they just laugh at you. Rolfe claims they harbor no ill will, but I daresay such pranks are no laughing matter.",
+      "text_th": "พอบอกให้หยุด พวกมันก็เอาแต่หัวเราะเยาะ Rolfe อ้างว่าพวกมันไม่ได้คิดร้ายอะไรหรอก แต่ข้ากล้าพูดเลยนะว่าการแกล้งกันแบบนั้นมันไม่ใช่เรื่องตลกเลยสักนิด",
+      "status": "AI"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Oh, of course, of course! Hearing your stories─well, my stories─has brought the memories flooding back to me. I feel...I feel like dancing !",
+      "text_th": "โอ้ ใช่แล้วๆ! พอได้ฟังเรื่องราวที่เจ้าเล่า─เอ่อ เรื่องของข้านั่นแหละ─ความทรงจำมันก็พรั่งพรูเข้ามาเลย ข้ารู้สึก...รู้สึกอยากจะ เต้น ขึ้นมาเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Yes, nothing brings people together quite like a little toe-tapping. A sylph told me long ago that dancing is a time-honored greeting among their kind. You'd do well to remember this─it just may help win the favor of our forest friends.",
+      "text_th": "ใช่แล้วล่ะ ไม่มีอะไรเชื่อมโยงผู้คนเข้าด้วยกันได้ดีไปกว่าการขยับแข้งขยับขานิดๆ หน่อยๆ หรอกนะ มี sylph ตัวนึงเคยบอกข้าเมื่อนานมาแล้วว่า การเต้นรำเนี่ย เป็นการทักทายที่ทำกันมาตั้งแต่โบราณกาลของเผ่าพันธุ์พวกเขาเลยล่ะ เจ้าจำไว้ให้ดีล่ะ─มันอาจจะช่วยซื้อใจเพื่อนชาวป่าของเราได้นะ",
+      "status": "AI"
+    }
+  ]
+}

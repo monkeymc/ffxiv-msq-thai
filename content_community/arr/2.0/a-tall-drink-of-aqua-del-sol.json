@@ -1,0 +1,13 @@
+{
+  "id": "a-tall-drink-of-aqua-del-sol",
+  "wiki_path": "/wiki/A_Tall_Drink_of_Aqua_del_Sol",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title_en": "A Tall Drink of Aqua del Sol",
+  "title_th": "น้ำ Aqua del Sol แก้วใหญ่",
+  "title_status": "AI",
+  "level": "35",
+  "location": "Eastern Thanalan(X:11,Y:22)",
+  "npc_start": "Ilcum",
+  "dialogues": []
+}

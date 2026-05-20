@@ -1,0 +1,236 @@
+{
+  "id": "skeletons-in-her-closet",
+  "wiki_path": "/wiki/Skeletons_in_Her_Closet",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/4/42/Skeletons_in_Her_Closet_Image.png",
+  "patch": "2.0",
+  "title_en": "Skeletons in Her Closet",
+  "title_th": "โครงกระดูกในตู้เสื้อผ้าของเธอ",
+  "title_status": "AI",
+  "level": "28",
+  "location": "Old Gridania(X:11.9,Y:4.5)",
+  "npc_start": "Ursandel",
+  "dialogues": [
+    {
+      "character": "Ursandel",
+      "text_en": "I was once a manservant in the employ of one of the oldest and proudest families in Gridania─the Dartancours. During that time, I had the honor of waiting upon Lady Amandine, mistress of the household. Fair as summer was she, and possessed of a heart befitting her radiance.",
+      "text_th": "ข้าเคยเป็นคนรับใช้ที่ทำงานให้กับหนึ่งในตระกูลที่เก่าแก่และน่าภาคภูมิใจที่สุดใน Gridania─ตระกูล Dartancours ในช่วงเวลานั้น ข้าได้รับเกียรติให้คอยปรนนิบัติรับใช้ท่านหญิง Amandine นายหญิงของบ้าน นางงดงามดั่งฤดูร้อน และมีจิตใจที่งดงามคู่ควรกับความงามของนาง",
+      "status": "AI"
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "Alas, the Calamity wrought a great change in her. Though my lady escaped with her life, death may well have been a kinder fate. Never will I forget the day her bandages were removed, and she beheld her disfigured face for the first time. At that moment, the kindly woman I knew ceased to be.",
+      "text_th": "อนิจจา ภัยพิบัติ Calamity ได้เปลี่ยนแปลงนางไปอย่างใหญ่หลวง ถึงแม้นายหญิงของข้าจะรอดชีวิตมาได้ แต่ความตายก็อาจจะเป็นโชคชะตาที่ปรานีต่อนางมากกว่า ข้าจะไม่มีวันลืมวันที่พวกเขาถอดผ้าพันแผลของนางออก และนางก็ได้เห็นใบหน้าที่เสียโฉมของตัวเองเป็นครั้งแรก ในเสี้ยววินาทีนั้น ผู้หญิงที่แสนอ่อนโยนที่ข้ารู้จักก็ไม่มีอยู่อีกต่อไป",
+      "status": "AI"
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "Unable to bear the thought of being seen, my lady sequestered herself within her chambers and refused all company. This continued for many uneasy moons, until one day, without warning, she began receiving queer guests. None among us knew whence they came, these masked men, but my lady believed that they would help her to regain that which she had lost. So began the “rites of rejuvenation.”",
+      "text_th": "นางทนรับสภาพของตัวเองไม่ได้ จึงเก็บตัวอยู่แต่ในห้องและไม่ยอมพบหน้าใครเลย เรื่องราวเป็นเช่นนี้อยู่หลายเดือนอันแสนอึดอัด จนกระทั่งวันหนึ่ง จู่ๆ นางก็เริ่มต้อนรับแขกแปลกหน้า ไม่มีใครในพวกเราเลยที่รู้ว่าชายสวมหน้ากากพวกนั้นมาจากไหน แต่นายหญิงของข้าเชื่อว่าพวกเขาจะช่วยทวงคืนสิ่งที่นางสูญเสียไปกลับมาได้ และนั่นคือจุดเริ่มต้นของ “พิธีกรรมฟื้นฟูความเยาว์วัย”",
+      "status": "AI"
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "These rituals seemed innocent enough in the beginning, but grew ever more grotesque as time went by. Eventually, there came a day when my lady bound one of her handmaidens to her bed, and...and proceeded to mutilate the poor girl's face. Suffice it to say, she did not survive the ordeal. It fell to me to dispose of her body.",
+      "text_th": "พิธีกรรมเหล่านี้ดูเหมือนจะไม่มีพิษมีภัยอะไรในช่วงแรกๆ แต่มันก็เริ่มน่าสยดสยองขึ้นเรื่อยๆ เมื่อเวลาผ่านไป จนกระทั่งวันหนึ่ง นายหญิงของข้าก็จับสาวใช้คนหนึ่งมัดไว้กับเตียง และ...และลงมือกรีดใบหน้าของเด็กสาวผู้น่าสงสารคนนั้น ขอบอกเลยว่า นางไม่รอดชีวิตจากความทรมานนั้นหรอก และมันก็ตกเป็นหน้าที่ของข้าที่ต้องนำศพของนางไปทิ้ง",
+      "status": "AI"
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "I performed the dreadful task as bade, obedient servant that I was, but when the time came to return to the house, my legs refused to move. I knew then that I could not go back to that place, not after the nightmare I had witnessed. So it was that I left Haukke Manor, my home for nigh on half a century.",
+      "text_th": "ข้าทำหน้าที่อันน่าสะพรึงกลัวนั้นตามคำสั่ง ในฐานะข้ารับใช้ผู้ซื่อสัตย์ แต่เมื่อถึงเวลาที่ต้องกลับไปที่บ้านเรือนนั้น ขาของข้ากลับก้าวไม่ออก ข้ารู้ทันทีเลยว่าข้าไม่สามารถกลับไปที่นั่นได้อีกแล้ว ไม่ใช่หลังจากฝันร้ายที่ข้าเพิ่งได้เห็นกับตา ข้าจึงจาก Haukke Manor สถานที่ซึ่งเป็นบ้านของข้ามาเกือบครึ่งศตวรรษ",
+      "status": "AI"
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "Long did I weep for the girl who was slain, and longer still for the woman that Lady Amandine had been. Yet one cannot weep forever, and I endeavored to put the matter behind me. Indeed, I had resolved never to speak of my experience...until you appeared before me.",
+      "text_th": "ข้าร้องไห้ให้กับเด็กสาวที่ถูกฆ่าตายอยู่นานแสนนาน และร้องไห้ให้กับผู้หญิงที่ท่านหญิง Amandine เคยเป็นนานยิ่งกว่า แต่คนเราจะร้องไห้ไปตลอดกาลไม่ได้หรอก และข้าก็พยายามที่จะทิ้งเรื่องนี้ไว้เบื้องหลัง ที่จริงแล้ว ข้าตั้งใจแน่วแน่ว่าจะไม่ปริปากพูดถึงประสบการณ์นี้อีกเลย...จนกระทั่งเจ้าปรากฏตัวขึ้นตรงหน้าข้านี่แหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "My lady's madness must be ended, lest more innocent lives be lost. Lay her tormented soul to rest, as you swore to me you would. She awaits you at Haukke Manor, on the western edge of the Central Shroud. Go now. Go and do what must be done.",
+      "text_th": "ความบ้าคลั่งของนายหญิงต้องยุติลง เพื่อไม่ให้มีผู้บริสุทธิ์ต้องสังเวยชีวิตอีก ขอให้เจ้าช่วยปลดปล่อยดวงวิญญาณอันแสนทรมานของนางให้ไปสู่สุคติ ตามที่เจ้าได้ให้สัญญาไว้กับข้าด้วยเถิด นางรอเจ้าอยู่ที่ Haukke Manor ทางตะเข็บชายแดนฝั่งตะวันตกของ Central Shroud ไปเถิด ไปทำในสิ่งที่ต้องทำซะ",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Marauder",
+      "text_en": "On your guard, everyone.",
+      "text_th": "ระวังตัวไว้ให้ดีทุกคน",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "Dark forces are at work here.",
+      "text_th": "มีพลังแห่งความมืดแฝงตัวอยู่ที่นี่",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "Do you suppose there's anything useful in that room?",
+      "text_th": "เจ้าคิดว่าในห้องนั้นจะมีอะไรที่เป็นประโยชน์บ้างไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Marauder",
+      "text_en": "Let's not waste any time with this one.",
+      "text_th": "อย่าไปเสียเวลากับตัวนี้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Thaumaturge",
+      "text_en": "I think we can use this flow of magic to return to the manor entrance.",
+      "text_th": "ฉันคิดว่าเราน่าจะใช้กระแสเวทมนตร์นี้เพื่อกลับไปที่หน้าประตูทางเข้าคฤหาสน์ได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "Let us put this wayward soul to rest.",
+      "text_th": "ให้พวกเราช่วยปลดปล่อยดวงวิญญาณที่หลงทางดวงนี้ให้ไปสู่สุคติเถิด",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Darkness has taken root within these halls...",
+      "text_th": "ความมืดมิดได้หยั่งรากลึกลงไปในโถงทางเดินแห่งนี้แล้ว...",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "...Sprung from the most unlikely of seeds.",
+      "text_th": "...งอกเงยมาจากเมล็ดพันธุ์ที่ไม่น่าจะเป็นไปได้ที่สุด",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "One cannot help but admire the irrepressible spirit that quickened it to life.",
+      "text_th": "ใครเห็นก็อดไม่ได้ที่จะชื่นชมในจิตวิญญาณอันไม่ยอมแพ้ ที่คอยกระตุ้นให้มันมีชีวิตขึ้นมา",
+      "status": "AI"
+    },
+    {
+      "character": "Ascian of the Twelfth Staff",
+      "text_en": "It is a pleasure to meet you at last, adventurer. You are every bit as intriguing as our master gave us to believe.",
+      "text_th": "ยินดีที่ได้พบเจ้าเสียที นักผจญภัย เจ้าน่าสนใจสมกับที่นายเหนือหัวของเราพร่ำบอกไว้จริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Ascian of the Twelfth Sword",
+      "text_en": "It is no ordinary mortal who can acquire one Crystal of Light...much less three .",
+      "text_th": "คนธรรมดาๆ ไม่มีทางที่จะครอบครองคริสตัลแห่งแสงได้ถึงหนึ่งเม็ดหรอก...นับประสาอะไรกับ สาม เม็ดล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Ascian of the Twelfth Sword",
+      "text_en": "The Crystals make you strong, and it is to that strength that the Light is drawn.",
+      "text_th": "คริสตัลทำให้เจ้าแข็งแกร่ง และแสงสว่างนั่นแหละที่ถูกดึงดูดเข้าหาความแข็งแกร่งนั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Ascian of the Twelfth Staff",
+      "text_en": "Hydaelyn chose well.",
+      "text_th": "Hydaelyn เลือกคนได้ดีจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Ascian of the Twelfth Sword",
+      "text_en": "...A pity that your existence is irreconcilable with our own. We cannot well allow you to continue upon your present course.",
+      "text_th": "...น่าเสียดายนะที่การคงอยู่ของเจ้านั้นขัดแย้งกับตัวตนของเราอย่างสิ้นเชิง เราคงปล่อยให้เจ้าเดินบนเส้นทางสายนี้ต่อไปไม่ได้หรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Ascian of the Twelfth Staff",
+      "text_en": "Alas, we came here not to play, but to take the measure of your strength for Master Lahabrea. That task now accomplished, we take our leave of you.",
+      "text_th": "อนิจจา เราไม่ได้มาที่นี่เพื่อจะมาเล่นด้วยหรอกนะ แต่มาเพื่อประเมินความแข็งแกร่งของเจ้าเพื่อท่าน Lahabrea ต่างหาก ในเมื่อตอนนี้งานนั้นเสร็จสิ้นแล้ว เราก็ขอตัวก่อนล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Ascian of the Twelfth Sword",
+      "text_en": "Fare you well, Bringer of Light.",
+      "text_th": "ลาก่อน ผู้นำพาแสงสว่าง",
+      "status": "AI"
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "You are returned! What sights awaited you within the manor? What has become of Lady Amandine? You must tell me all!",
+      "text_th": "เจ้ากลับมาแล้ว! เจ้าไปเจออะไรมาบ้างในคฤหาสน์นั่น? แล้วท่านหญิง Amandine เป็นยังไงบ้าง? เจ้าต้องเล่าให้ข้าฟังให้หมดเลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "...So she went so far as to consort with devils. Would that I could have done more to prevent her fall. May she finally find peace in the beyond.",
+      "text_th": "...นางถึงขั้นไปสมคบคิดกับพวกปีศาจเลยงั้นรึ ข้าหวังว่าข้าจะสามารถทำอะไรได้มากกว่านี้เพื่อขัดขวางไม่ให้นางถลำลึกไปขนาดนั้น ขอให้นางได้พบกับความสงบสุขในปรโลกเสียทีเถิด",
+      "status": "AI"
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "I know not whether the masked men you encountered are the same pair that first led my lady astray, but it is plain that they are of the same vile brood. Should the chance ever present itself, promise me that you will visit upon them tenfold the woe they have brought upon others.",
+      "text_th": "ข้าไม่รู้หรอกนะว่าชายสวมหน้ากากที่เจ้าเจอคือสองคนเดียวกับที่ล่อลวงนายหญิงของข้าไปในทางที่ผิดตั้งแต่แรกหรือเปล่า แต่มันก็ชัดเจนเลยว่าพวกมันมาจากเผ่าพันธุ์อันชั่วร้ายเดียวกัน หากมีโอกาสล่ะก็ สัญญาดกับข้าได้ไหมว่าเจ้าจะมอบความทุกข์ระทมคืนให้พวกมันเป็นสิบเท่า จากที่พวกมันเคยมอบให้ผู้อื่นน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "But who am I to speak of punishment? By my silence, I allowed I know not how many innocent young women to die in unspeakable circumstances... It matters not wherefore─through misplaced loyalty, cowardice, or both, I am an abettor to a gross crime. I will surrender myself to the authorities and accept whatever punishment they deem just. I only pray that the gods will have mercy on my soul.",
+      "text_th": "แต่ข้าเป็นใครกันที่จะมีสิทธิ์ไปพูดถึงการลงโทษ? ด้วยความเงียบของข้า ข้าปล่อยให้หญิงสาวผู้บริสุทธิ์ไม่รู้กี่คนต้องตายไปในสถานการณ์ที่ไม่อาจจะบรรยายได้... ไม่ว่าจะด้วยเหตุผลอะไรก็ตาม─ไม่ว่าจะเป็นเพราะความจงรักภักดีแบบผิดๆ ความขี้ขลาด หรือทั้งสองอย่าง ข้าก็คือผู้สมรู้ร่วมคิดในอาชญากรรมอันร้ายแรงนี้ ข้าจะไปมอบตัวกับทางการ และยอมรับบทลงโทษทุกอย่างที่พวกเขาเห็นสมควร ข้าเพียงแต่สวดอ้อนวอนขอให้เทพเจ้าทรงเมตตาต่อดวงวิญญาณของข้าด้วยเถิด",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Welcome back, Forename . Full glad am I to see you safely returned. Tell me, how fared you on your sojourn in the Twelveswood?",
+      "text_th": "ยินดีต้อนรับกลับนะ [ชื่อ] ฉันดีใจจริงๆ ที่เห็นคุณกลับมาอย่างปลอดภัย บอกฉันทีสิ การเดินทางไปเยือน Twelveswood ของคุณเป็นยังไงบ้าง?",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "...Two of Lahabrea's minions? ...And they sought to measure your strength... by their own admission ?",
+      "text_th": "...สมุนของ Lahabrea สองคนงั้นเหรอ? ...แล้วพวกมันก็พยายามจะมาประเมินความแข็งแกร่งของคุณ... โดยที่พวกมันพูดออกมาเองเลยเนี่ยนะ ?",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The devils taunt us... It is beyond doubt, then─the Ascians have begun to move in earnest. Would that we knew to what end.",
+      "text_th": "พวกปีศาจนั่นกำลังเยาะเย้ยเรา... ไม่มีข้อสงสัยใดๆ อีกแล้วล่ะ─พวก Ascian เริ่มเคลื่อนไหวอย่างจริงจังแล้ว ฉันล่ะอยากรู้จริงๆ ว่าพวกมันมีเป้าหมายอะไรกันแน่",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Yet I will not bemoan our plight. Thanks to your tireless efforts, we are at least aware of the encroaching Darkness.",
+      "text_th": "แต่ฉันก็จะไม่มัวมาคร่ำครวญถึงความโชคร้ายของเราหรอกนะ ต้องขอบคุณความพยายามอย่างไม่รู้จักเหน็ดเหนื่อยของคุณ อย่างน้อยเราก็รู้ตัวแล้วว่าความมืดมิดกำลังคืบคลานเข้ามา",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Alas, we can only do so much. It is clear to me now that we Scions are too few to protect the realm against this threat unaided.",
+      "text_th": "อนิจจา เราก็ทำได้เท่าที่เราทำได้นั่นแหละ ตอนนี้มันชัดเจนแล้วสำหรับฉัน ว่าพวกเราชาว Scion มีกำลังน้อยเกินกว่าที่จะปกป้องดินแดนนี้จากภัยคุกคามนี่ได้โดยลำพัง",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We must needs alert the three nations to the presence of this elusive enemy, and recommend that they heighten their vigil.",
+      "text_th": "เราจำเป็นต้องแจ้งให้ทั้งสามประเทศทราบถึงการปรากฏตัวของศัตรูที่จับตัวยากกลุ่มนี้ และแนะนำให้พวกเขายกระดับการเฝ้าระวัง",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "There is no shortage of misery in the world that the Ascians might exploit. We have an arduous struggle ahead of us.",
+      "text_th": "มันมีความทุกข์ยากมากมายเหลือเกินในโลกใบนี้ ที่พวก Ascian สามารถนำมาใช้ประโยชน์ได้ เรากำลังเผชิญกับการต่อสู้อันแสนยากลำบากที่รออยู่เบื้องหน้า",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Yet come what may, we must not allow ourselves to become lost to hope, for that is precisely what the enemy desires.",
+      "text_th": "แต่ไม่ว่าจะเกิดอะไรขึ้น เราต้องไม่ปล่อยให้ตัวเองสิ้นหวังเด็ดขาด เพราะนั่นคือสิ่งที่ศัตรูต้องการพอดิบพอดีเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We have gleaned all we can from the information available to us. Let us set this investigation aside for the present.",
+      "text_th": "เรารวบรวมข้อมูลทั้งหมดเท่าที่จะหาได้มาหมดแล้ว เราพักเรื่องการสืบสวนนี้ไว้ก่อนก็แล้วกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Another matter has arisen that requires your attention. Let me know when you are ready to be briefed, and I will summon the others.",
+      "text_th": "มีเรื่องอื่นเกิดขึ้นน่ะ และมันต้องการความสนใจจากคุณด้วย บอกฉันนะว่าคุณพร้อมจะฟังสรุปเมื่อไหร่ แล้วฉันจะเรียกคนอื่นๆ มา",
+      "status": "AI"
+    }
+  ]
+}

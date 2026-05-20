@@ -1,0 +1,13 @@
+{
+  "id": "changing-of-the-guard",
+  "wiki_path": "/wiki/Changing_of_the_Guard",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title_en": "Changing of the Guard",
+  "title_th": "การผลัดเปลี่ยนเวรยาม",
+  "title_status": "AI",
+  "level": "30",
+  "location": "South Shroud(X:16,Y:28)",
+  "npc_start": "Landenel",
+  "dialogues": []
+}

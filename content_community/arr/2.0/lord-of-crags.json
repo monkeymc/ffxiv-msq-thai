@@ -1,0 +1,434 @@
+{
+  "id": "lord-of-crags",
+  "wiki_path": "/wiki/Lord_of_Crags",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/a/a9/Lord_of_Crags_Image.png",
+  "patch": "2.0",
+  "title_en": "Lord of Crags",
+  "title_th": "เจ้าแห่งหินผา",
+  "title_status": "AI",
+  "level": "34",
+  "location": "Upper La Noscea(X:31.0,Y:24.0)",
+  "npc_start": "Riol",
+  "dialogues": [
+    {
+      "character": "Riol",
+      "text_en": "Years ago, when we was weighin' up how to get to Titan, one of our scouts stumbled across this beastman aetheryte, see...",
+      "text_th": "เมื่อหลายปีก่อน ตอนที่เรากำลังคิดหาวิธีไปถึงตัว Titan อยู่ๆ หน่วยสอดแนมของเราคนนึงก็ไปเจอ aetheryte ของพวกชนเผ่าครึ่งสัตว์เข้าไงล่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Eh? What's that look for? Not familiar with 'em?",
+      "text_th": "หา? ทำหน้าแบบนั้นหมายความว่าไง? ไม่คุ้นเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He speaks of an unamplified aetheryte which has been claimed by a beast tribe. Lest you wonder, there is no fundamental difference between such aetherytes and those which you have used on countless occasions, Forename .",
+      "text_th": "เขากำลังพูดถึง aetheryte ที่ยังไม่ได้รับการขยายสัญญาณซึ่งตกเป็นของชนเผ่าครึ่งสัตว์น่ะ เผื่อเจ้าจะสงสัย มันไม่มีความแตกต่างกันโดยพื้นฐานเลยนะ ระหว่าง aetheryte แบบนั้นกับแบบที่เจ้าเคยใช้มานับครั้งไม่ถ้วนแล้วน่ะ [ชื่อ]",
+      "status": "AI"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Ah, well if it ain't the Sharlayan lass. Welcome back.",
+      "text_th": "อ้อ แม่หนู Sharlayan นี่เอง ยินดีต้อนรับกลับมานะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Forgive me for interrupting. I had planned to await your report, but I succumbed to curiosity.",
+      "text_th": "ขออภัยที่ขัดจังหวะ ข้าตั้งใจจะรอฟังรายงานของท่านล่ะนะ แต่ข้าทนความอยากรู้อยากเห็นไม่ไหวจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The tunnels beneath O'Ghomoro form a bewildering labyrinth that no outsider has ever fully explored. How the Company of Heroes managed to navigate it is a mystery I have long pondered.",
+      "text_th": "อุโมงค์ใต้ O'Ghomoro เป็นเหมือนเขาวงกตที่ซับซ้อนจนไม่มีคนนอกคนไหนเคยสำรวจได้หมดเลย ข้าสงสัยมานานแล้วล่ะว่า Company of Heroes หาทางผ่านมันไปได้ยังไง",
+      "status": "AI"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Ha! Give us a bit of credit, love! We weren't daft enough to try goin' in the front.",
+      "text_th": "ฮ่า! ให้เครดิตพวกเราหน่อยสิ แม่หนู! เราไม่ได้บ้าพอจะพยายามบุกเข้าทางประตูหน้าหรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Riol",
+      "text_en": "The kobolds are always diggin' new tunnels an' fillin' the old ones with traps. One wrong step, an' the next thing you know, ye've got a hundred tonzes o' rock on your noggin. Suicide to even try, see?",
+      "text_th": "พวก kobold มักจะขุดอุโมงค์ใหม่ๆ แล้วก็วางกับดักไว้เต็มอุโมงค์เก่าเสมอ ก้าวผิดแค่ก้าวเดียว สิ่งต่อไปที่คุณจะรู้ตัวก็คือมีหินเป็นร้อยตันร่วงลงมาทับหัวคุณแล้ว แค่คิดจะลองก็เหมือนฆ่าตัวตายแล้วล่ะ เข้าใจไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Funny thing was, the kobolds didn't seem to have no trouble findin' their way 'round─an' it was that as got us thinkin'. I mean, U'Ghamaro Mines are like a bleedin' city , ain't they? An' gettin' around in a city that big would be a right pain in the arse if you didn't have an Aethernet, wouldn't it? So it stood to reason that the kobolds must have one, didn't it?",
+      "text_th": "เรื่องตลกก็คือ พวก kobold กลับหาทางไปไหนมาไหนได้สบายๆ เลย─นั่นแหละที่ทำให้เราเริ่มเอะใจ ลองคิดดูสิ เหมือง U'Ghamaro น่ะมันใหญ่เท่าเมือง เมืองนึงเลยไม่ใช่รึไง? แล้วการเดินทางในเมืองใหญ่ขนาดนั้นมันคงจะลำบากแย่ถ้าไม่มี Aethernet ใช่ไหมล่ะ? ก็เลยสมเหตุสมผลดีที่พวก kobold ก็น่าจะมีมันเหมือนกันไง",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Hm. Even if there were aetheryte shards in the depths of O'Ghomoro, you would have needed to attune yourselves to them before you could identify their signatures within the Lifestream.",
+      "text_th": "อืม ถึงแม้ว่าจะมีเศษ aetheryte อยู่ในส่วนลึกของ O'Ghomoro พวกเจ้าก็จำเป็นต้องปรับจูนตัวเองให้เข้ากับมันก่อน ถึงจะระบุสัญญาณของมันใน Lifestream ได้ไม่ใช่รึ",
+      "status": "AI"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Ah, well, that's where yer wrong, love. We had this Sharlayan bloke to help us, see. Delivered us right into Titan's bedchamber, he did.",
+      "text_th": "อ้อ ตรงนั้นแหละที่เจ้าเข้าใจผิด แม่หนู เรามีคนจาก Sharlayan มาช่วยเราไงล่ะ เขาพาเราไปส่งถึงห้องนอนของ Titan เลยทีเดียว",
+      "status": "AI"
+    },
+    {
+      "character": "Riol",
+      "text_en": "I don't rightly know how he did it, but I do remember him sayin' it weren't nothin' any Sharlayan scholar worth her salt couldn't manage.",
+      "text_th": "ข้าก็ไม่รู้หรอกนะว่าเขาทำได้ยังไง แต่ข้าจำได้ว่าเขาบอกว่ามันไม่ใช่เรื่องยากอะไรเลยสำหรับนักวิชาการจาก Sharlayan ที่เก่งกาจพอตัวน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "... Did he now? Hmph. Locating a beacon in the absence of a known signature might be possible if the aetherytes in question happened to be... Ah, yes. But in order to guide a traveler to said beacon safely, a second party would be required to... Hmmm.",
+      "text_th": "...เขาบอกอย่างนั้นรึ? หึ การระบุตำแหน่งจุดหมายปลายทางโดยที่ไม่รู้จักสัญญาณมาก่อนอาจจะเป็นไปได้ ถ้า aetheryte อันนั้นดันเป็น... อา ใช่แล้ว แต่เพื่อจะนำทางผู้เดินทางไปยังจุดหมายนั้นได้อย่างปลอดภัย ก็จำเป็นต้องมีคนที่สองเพื่อ... อืม",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It is possible─in theory at least. Yet I cannot be certain until I try. Plainly, all will depend upon whether or not I am “worth my salt.”",
+      "text_th": "มันเป็นไปได้ล่ะนะ─อย่างน้อยก็ในทางทฤษฎี แต่ข้าก็ยังไม่แน่ใจจนกว่าจะได้ลองดู เห็นได้ชัดว่าทั้งหมดนี้ขึ้นอยู่กับว่าข้า \"เก่งกาจพอตัว\" อย่างที่ว่าไหมนั่นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Oh, you are, lass! Don't you worry about that! Have a bit o' faith in yerself!",
+      "text_th": "โอ้ เจ้าเก่งอยู่แล้วล่ะ แม่หนู! ไม่ต้องกังวลเรื่องนั้นหรอกน่า! เชื่อมั่นในตัวเองหน่อยสิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Why don't we all go to Zelma's Run an' take a closer look at the aetheryte? It ain't far─though there's sure to be a few kobolds blockin' the way. Naught ye can't handle, mind!",
+      "text_th": "ทำไมเราไม่ไปที่ Zelma's Run แล้วไปดู aetheryte นั้นให้ชัดๆ เลยล่ะ? ไม่ไกลหรอก─ถึงแม้ว่าอาจจะมีพวก kobold ขวางทางอยู่บ้างก็เถอะ แต่ก็คงไม่เกินฝีมือเจ้าหรอกนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So this is the aetheryte the Company of Heroes used to gain access to Titan's sanctuary.",
+      "text_th": "นี่สินะ aetheryte ที่ Company of Heroes ใช้เพื่อเข้าไปยังที่หลบภัยของ Titan",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Hm. It is as Papalymo speculated.",
+      "text_th": "อืม เป็นไปตามที่ Papalymo คาดการณ์ไว้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In its present state, this aetheryte's signal will not be strong enough for our purposes. I may, however, be able to use my own energies to amplify it. Alas, the task will monopolize my attention for the duration.",
+      "text_th": "ในสภาพปัจจุบัน สัญญาณของ aetheryte นี่อ่อนเกินกว่าจะใช้การได้ แต่ข้าอาจจะสามารถใช้พลังของข้าเองเพื่อขยายสัญญาณของมันได้ น่าเสียดายที่ข้าจะต้องจดจ่ออยู่กับมันตลอดเวลา",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It seems you will have to proceed without me, Forename . I must needs remain here and supplement this beacon's power, lest you be denied your only path of escape.",
+      "text_th": "ดูเหมือนว่าเจ้าจะต้องลุยเดี่ยวแล้วล่ะ [ชื่อ] ข้าจำเป็นต้องอยู่ที่นี่เพื่อเพิ่มพลังให้จุดส่งสัญญาณนี่ ไม่งั้นเจ้าอาจจะไม่มีทางหนีรอดกลับมาได้",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Fear not: I will summon the Maelstrom forces stationed nearby to protect us.",
+      "text_th": "ไม่ต้องห่วงหรอกนะ ข้าจะเรียกกองกำลัง Maelstrom ที่ประจำการอยู่ใกล้ๆ มาคุ้มกันเราเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "With effort, it is possible that I may be able to stabilize the aetheryte's signal and thereby join you, albeit belatedly. Until such time as I do, you will be on your own.",
+      "text_th": "หากพยายามสักหน่อย ข้าอาจจะสามารถทำให้สัญญาณของ aetheryte เสถียรพอที่ข้าจะตามเจ้าไปได้ ถึงแม้จะช้าไปสักหน่อยก็เถอะ แต่จนกว่าจะถึงตอนนั้น เจ้าต้องลุยเดี่ยวไปก่อนนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Now...let us see if I am worth my salt.",
+      "text_th": "เอาล่ะ... มาดูกันซิว่าข้าจะเก่งกาจพอตัวไหม",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I have located another beacon─one far below the mountain. I can only speculate as to what you will find there, so stint not in your preparation.",
+      "text_th": "ข้าเจอจุดรับสัญญาณอีกจุดนึงแล้วล่ะ─อยู่ลึกลงไปใต้ภูเขานู่นเลย ข้าได้แต่เดาเอาว่าเจ้าจะเจออะไรที่นั่น เตรียมตัวให้พร้อมที่สุดล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cowering Kobold",
+      "text_en": "Look, an overdweller! Yes, yes, an invader from above! He / She uses our aetherytes against us!",
+      "text_th": "ดูสิ พวกคนดินแดนเบื้องบน! ใช่ๆ ผู้บุกรุกจากเบื้องบน! เขา / เธอ ใช้ aetheryte ของพวกเราเล่นงานพวกเราเอง!",
+      "status": "AI"
+    },
+    {
+      "character": "Crazed Kobold",
+      "text_en": "He / She has defiled Titan's sacred sanctuary─trespassed, violated, defiled!",
+      "text_th": "เขา / เธอ มาทำให้ที่หลบภัยอันศักดิ์สิทธิ์ของ Titan ต้องแปดเปื้อน─บุกรุก ล่วงละเมิด แปดเปื้อน!",
+      "status": "AI"
+    },
+    {
+      "character": "Kobolds",
+      "text_en": "Overdwellers must leave! Overdwellers must fly!",
+      "text_th": "พวกคนดินแดนเบื้องบนต้องออกไป! พวกคนดินแดนเบื้องบนต้องรีบหนีไป!",
+      "status": "AI"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "Brothers and sisters, fear him / her not! His / Her fate shall be decided by the Lord of Crags!",
+      "text_th": "พี่น้องทั้งหลาย อย่าได้เกรงกลัวมันเลย! ชะตากรรมของมันจะถูกตัดสินโดยท่านเจ้าแห่งหินผา!",
+      "status": "AI"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "Hear me, overdweller! You and your treacherous brethren must be held to account for the breaking of the covenant!",
+      "text_th": "ฟังนะ ไอ้คนดินแดนเบื้องบน! เจ้าและพี่น้องจอมทรยศของเจ้าจะต้องชดใช้ที่ละเมิดข้อตกลง!",
+      "status": "AI"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "You shall be first to face judgment! Then Limsa Lominsa and her oathbreakers─liars, betrayers, oathbreakers!",
+      "text_th": "เจ้าจะเป็นคนแรกที่ได้รับการพิพากษา! จากนั้นก็ Limsa Lominsa และพวกทำลายคำสาบาน─คนโกหก คนทรยศ คนทำลายคำสาบาน!",
+      "status": "AI"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "O Great Father, Lord of Crags! Titan, we summon You! Titan, we summon You! O Great Father, Lord of Crags! Titan, we summon You! Titan, we summon You!",
+      "text_th": "โอ้ บิดาผู้ยิ่งใหญ่ เจ้าแห่งหินผา! Titan เราขออัญเชิญท่าน! Titan เราขออัญเชิญท่าน! โอ้ บิดาผู้ยิ่งใหญ่ เจ้าแห่งหินผา! Titan เราขออัญเชิญท่าน! Titan เราขออัญเชิญท่าน!",
+      "status": "AI"
+    },
+    {
+      "character": "Kobolds",
+      "text_en": "He is come! He is come! The Lord of Crags, Titan is come!",
+      "text_th": "ท่านมาแล้ว! ท่านมาแล้ว! เจ้าแห่งหินผา ท่าน Titan มาแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Titan",
+      "text_en": "Overdweller...art thou deaf to their weeping?",
+      "text_th": "คนดินแดนเบื้องบน... เจ้าหูหนวกจนไม่ได้ยินเสียงร่ำไห้ของพวเขารึไง?",
+      "status": "AI"
+    },
+    {
+      "character": "Titan",
+      "text_en": "Thy vile kind coveteth ever the blessing of the land and murdereth my children by the score─all in service to greed. Such sins are beyond pardon.",
+      "text_th": "เผ่าพันธุ์อันชั่วช้าของเจ้าปรารถนาจะครอบครองพรแห่งแผ่นดิน และเข่นฆ่าลูกๆ ของข้าไปมากมาย─ทั้งหมดนี่ก็เพื่อสนองความโลภของพวกเจ้า บาปกรรมแบบนี้ไม่อาจให้อภัยได้",
+      "status": "AI"
+    },
+    {
+      "character": "Titan",
+      "text_en": "Ah...but I am not the first to suffer thy defiance. Thou didst bring Ifrit low.",
+      "text_th": "อา... แต่ข้าก็ไม่ใช่คนแรกที่ต้องทนกับความดื้อรั้นของเจ้านี่นะ เจ้าโค่น Ifrit ลงได้แล้วสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Titan",
+      "text_en": "Godless overdweller! Thy myriad heresies shall not go unpunished! Upon thee shall I wreak a terrible vengeance!",
+      "text_th": "ไอ้คนดินแดนเบื้องบนผู้ไร้พระเจ้า! ความนอกรีตมากมายของเจ้าจะไม่มีวันลอยนวลไปได้! ข้าจะลงทัณฑ์เจ้าอย่างสาสม!",
+      "status": "AI"
+    },
+    {
+      "character": "Titan",
+      "text_en": "Sons of man! Murderers of my children!",
+      "text_th": "บุตรแห่งมนุษย์เอ๋ย! ฆาตกรที่ฆ่าลูกๆ ของข้า!",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Marauder",
+      "text_en": "Time to bring low the mountain.",
+      "text_th": "ถึงเวลาถล่มภูเขานี่แล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Titan",
+      "text_en": "I shall grind thee beneath my heel, mortal!",
+      "text_th": "ข้าจะบดขยี้เจ้าให้แหลกคาส้นเท้าเลย ไอ้มนุษย์หน้าโง่!",
+      "status": "AI"
+    },
+    {
+      "character": "Titan",
+      "text_en": "I shall grind thee beneath my heel, mortal!",
+      "text_th": "ข้าจะบดขยี้เจ้าให้แหลกคาส้นเท้าเลย ไอ้มนุษย์หน้าโง่!",
+      "status": "AI"
+    },
+    {
+      "character": "Titan",
+      "text_en": "For thee my hatred is unending, unyielding!",
+      "text_th": "ความเกลียดชังที่ข้ามีต่อเจ้านั้นไม่มีวันสิ้นสุด ไม่มีวันยอมจำนน!",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "Careful─this isn't over yet!",
+      "text_th": "ระวังนะ─มันยังไม่จบหรอก!",
+      "status": "AI"
+    },
+    {
+      "character": "Titan",
+      "text_en": "Tremble before the might of the earth!",
+      "text_th": "จงสั่นสะท้านต่อหน้าพลังแห่งแผ่นดินซะเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Titan",
+      "text_en": "To the last, I grapple with thee!",
+      "text_th": "ข้าจะสู้กับเจ้าจนลมหายใจสุดท้าย!",
+      "status": "AI"
+    },
+    {
+      "character": "Titan",
+      "text_en": "Hie, my children, into the dark! He / She will not be denied...",
+      "text_th": "รีบหนีไปเถอะ ลูกๆ ของข้า เข้าไปในความมืด! เขา / เธอ จะไม่ยอมรามือ...",
+      "status": "AI"
+    },
+    {
+      "character": "Kobolds",
+      "text_en": "The Lord of Crags, Great Father Titan has fallen!",
+      "text_th": "เจ้าแห่งหินผา บิดาผู้ยิ่งใหญ่ ท่าน Titan ล้มลงแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "The crimes of the overdwellers shall never be forgiven! Never be forgotten! No, no, never!",
+      "text_th": "ความผิดของพวกคนดินแดนเบื้องบนจะไม่มีวันได้รับการให้อภัย! ไม่มีวันลืมเลือน! ไม่นะ ไม่ ไม่มีวัน!",
+      "status": "AI"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "'Twas your kin who broke the covenant! We have acted only in defense of our lands!",
+      "text_th": "เผ่าพันธุ์ของเจ้าต่างหากที่เป็นคนละเมิดข้อตกลงก่อน! เราแค่ทำเพื่อปกป้องดินแดนของเราเท่านั้น!",
+      "status": "AI"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "Cease your aggression, or never will there be peace! Until our dying breaths, we shall defy you─deny, decry, defy!",
+      "text_th": "หยุดการรุกรานของเจ้าซะเถอะ ไม่งั้นก็จะไม่มีวันมีสันติภาพหรอก! เราจะต่อต้านพวกเจ้าจนกว่าจะสิ้นลมหายใจ─ปฏิเสธ ประณาม ต่อต้าน!",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Now these are the readings one would expect of an eikon...",
+      "text_th": "นี่แหละ ค่าที่อ่านได้ซึ่งสมกับเป็น eikon...",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "I have seen enough. We proceed as planned.",
+      "text_th": "ข้าเห็นพอแล้วล่ะ เราจะดำเนินการตามแผนต่อไป",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Are you sure that is wise, my lord? Your...curiosity is untested and unproven. We do not yet know its true capabilities.",
+      "text_th": "ท่านแน่ใจหรือขอรับนายท่านว่ามันฉลาดแล้ว? ความ... อยากรู้อยากเห็น ของท่านยังไม่เคยผ่านการทดสอบและพิสูจน์เลยนะ เรายังไม่รู้ความสามารถที่แท้จริงของมันเลยด้วยซ้ำ",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Then trust in mine, Rhitahtyn. My curiosity , as you so eloquently put it, would have bested Titan in the blink of an eye.",
+      "text_th": "งั้นก็เชื่อใจข้าเถอะ Rhitahtyn ความอยากรู้อยากเห็น ของข้า อย่างที่เจ้าพูดซะสวยหรูเนี่ย น่าจะโค่น Titan ลงได้ในพริบตาเดียวเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Why, if there be truth to the legends, it could readily subjugate the whole of Eorzea given but a little while longer. Is that not so?",
+      "text_th": "ถ้าตำนานนั้นเป็นความจริงล่ะก็ มันน่าจะครอบครอง Eorzea ทั้งหมดได้ง่ายๆ เลย ถ้ามีเวลาอีกสักนิด จริงไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "It is. No greater single power has ever been conceived, much less realized.",
+      "text_th": "ใช่แล้วล่ะ ไม่มีพลังใดที่ยิ่งใหญ่ไปกว่านี้เคยถูกสร้างขึ้นมาหรอกนะ ยิ่งไม่ต้องพูดถึงการทำให้มันเป็นจริงเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "What you say may well be true. But while such devices may win battles, I do not believe they will serve to change the course of this war.",
+      "text_th": "สิ่งที่คุณพูดอาจจะเป็นความจริงนะ แต่ถึงแม้เครื่องมือพวกนั้นจะช่วยให้ชนะการต่อสู้ได้ แต่ฉันก็ไม่เชื่อหรอกนะว่ามันจะเปลี่ยนทิศทางของสงครามครั้งนี้ได้น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Oh but they will. Have a little faith, my friend.",
+      "text_th": "โอ้ มันต้องทำได้แน่ๆ เชื่อใจข้าหน่อยสิเพื่อน",
+      "status": "AI"
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text_en": "...I cannot endorse this course of action.",
+      "text_th": "...ข้าไม่เห็นด้วยกับวิธีการนี้เลยจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "...Fool.",
+      "text_th": "...ไอ้หน้าโง่เอ๊ย",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "And now he / she has a fourth. Fascinating.",
+      "text_th": "แล้วตอนนี้เขา / เธอ ก็ได้อันที่สี่ไปแล้วล่ะ น่าสนใจจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Carry on, crystal bearer. Far though you have come, your work is far from done.",
+      "text_th": "ทำต่อไปเถอะ ผู้ถือครองคริสตัล ถึงเจ้าจะมาไกลแล้ว แต่งานของเจ้ายังไม่จบหรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And naught remained to mark his passing...",
+      "text_th": "แล้วก็ไม่มีร่องรอยอะไรเหลือทิ้งไว้เลย...",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Well, the Ascians are nothing if not elusive. It is of little wonder that they should cast advanced teleportation magicks at will.",
+      "text_th": "แหม พวก Ascian ก็เก่งเรื่องหลบหนีอยู่แล้วล่ะ ไม่น่าแปลกใจเลยที่พวกมันจะร่ายเวทมนตร์เคลื่อนย้ายขั้นสูงได้ดั่งใจนึกแบบนี้น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But that they would choose to consort with the Empire ...",
+      "text_th": "แต่การที่พวกมันเลือกจะร่วมมือกับ จักรวรรดิ เนี่ยสิ...",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What common goal could they possibly share...?",
+      "text_th": "พวกมันจะมีเป้าหมายร่วมกันได้ยังไงกันนะ...?",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I feared I might arrive too late, but I see you had the matter well in hand.",
+      "text_th": "ข้ากลัวว่าข้าจะมาสายไปซะแล้ว แต่ดูเหมือนเจ้าจะรับมือได้ดีเลยนี่นา",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I have taken measures to ensure that we are not pursued, yet I cannot say how long they will hold.",
+      "text_th": "ข้าจัดการป้องกันไม่ให้พวกมันตามเรามาได้แล้วล่ะ แต่ก็บอกไม่ได้หรอกนะว่าจะยื้อไว้ได้นานแค่ไหน",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Take your leave while the kobolds are still in disarray. I will follow anon. There is something I must investigate before I depart.",
+      "text_th": "เจ้าหนีไปก่อนเถอะ ตอนที่พวก kobold ยังสับสนอยู่ ข้าจะตามไปทีหลัง ข้ามีเรื่องต้องตรวจสอบก่อนจะไปน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I will teleport you to the aetheryte in Zelma's Run, and we will rendezvous at Camp Bronze Lake. Agreed?",
+      "text_th": "ข้าจะส่งเจ้าไปที่ aetheryte ใน Zelma's Run นะ แล้วเราค่อยไปเจอกันที่ Camp Bronze Lake ตกลงไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I am relieved to see you well. But come, let us discuss our next step.",
+      "text_th": "ข้าโล่งใจนะที่เห็นเจ้าปลอดภัยดี มาเถอะ มาคุยเรื่องก้าวต่อไปของเรากัน",
+      "status": "AI"
+    }
+  ]
+}

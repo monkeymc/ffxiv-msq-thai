@@ -1,0 +1,80 @@
+{
+  "id": "prudence-at-this-junction",
+  "wiki_path": "/wiki/Prudence_at_This_Junction",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Prudence at This Junction",
+  "title_th": "ความรอบคอบ ณ ทางแยกนี้",
+  "title_status": "AI",
+  "level": "8",
+  "location": "Central Thanalan(X:19.4,Y:20.6)",
+  "npc_start": "Roger",
+  "dialogues": [
+    {
+      "character": "Warin",
+      "text_en": "Looking for work, perchance? If so, you couldn't have come at a better time.",
+      "text_th": "กำลังหางานอยู่ใช่ไหม? ถ้าใช่ เจ้าก็มาได้จังหวะพอดีเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "We Stone Torches are sellswords hired by Amajina & Sons Mineral Concern to protect its interests. Our primary duty here is to keep the tracks clear of pests, and it is for this purpose that we require your aid.",
+      "text_th": "พวกเรากองกำลัง Stone Torches คือทหารรับจ้างที่ Amajina & Sons Mineral Concern จ้างมาเพื่อปกป้องผลประโยชน์ของพวกเขา หน้าที่หลักของเราที่นี่คือคอยเคลียร์ทางรถไฟให้ปลอดจากพวกแมลงรบกวน และก็เพื่อการนี้นี่แหละที่เราต้องการความช่วยเหลือจากเจ้า",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "I should point out, however, that it can be messy work, and liable to get messier still if you're ill prepared.",
+      "text_th": "แต่ข้าต้องขอเตือนไว้ก่อนนะว่ามันเป็นงานที่สกปรกเอาเรื่อง และมีแนวโน้มว่าจะเลอะเทอะยิ่งกว่าเดิมถ้าเจ้าไม่เตรียมตัวมาให้ดีน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "A single piece of gear can mean the difference between life and death. I'll not have it on my conscience that I sent an ill-equipped adventurer to an untimely demise.",
+      "text_th": "อุปกรณ์แค่ชิ้นเดียวก็อาจจะหมายถึงความเป็นความตายได้เลยนะ ข้าไม่อยากให้มันติดค้างอยู่ในใจข้าหรอกนะว่าข้าส่งนักผจญภัยที่อุปกรณ์ไม่พร้อมไปตายก่อนวัยอันควรน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "See to it that your arms and armor are in order. When you are ready, present yourself to me again.",
+      "text_th": "ไปตรวจดูอาวุธและชุดเกราะของเจ้าให้เรียบร้อยซะก่อน เมื่อพร้อมแล้ว ค่อยกลับมาหาข้าอีกที",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "So you are ready for inspection?",
+      "text_th": "เอาล่ะ พร้อมรับการตรวจแล้วใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "By the gods, man / woman ! However in the seven hells did you survive the antlings equipped as poorly as you are? I cannot in good conscience send you to face savage beasts until your gear is in order.",
+      "text_th": "พระเจ้าช่วย! พ่อหนุ่ม / แม่หนู เจ้าเอาชีวิตรอดจากพวกมดงานมาได้ยังไงในสภาพที่ของสวมใส่แย่ขนาดนั้นเนี่ย? ข้าคงไม่มีกะจิตกะใจจะส่งเจ้าไปรับมือกับพวกสัตว์ร้ายหรอกนะ จนกว่าอุปกรณ์ของเจ้าจะเรียบร้อยกว่านี้น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "So you are ready for inspection?",
+      "text_th": "เอาล่ะ พร้อมรับการตรวจแล้วใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "Good. Everything appears in order.",
+      "text_th": "ดีมาก ทุกอย่างดูเรียบร้อยดี",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "Yet know that naught is guaranteed in this world. Fate is a fickle mistress, after all. At any rate, capable adventurers like you are few and far between, and I would not have you throw your life away.",
+      "text_th": "แต่จงจำไว้ว่าไม่มีอะไรแน่นอนในโลกนี้หรอกนะ โชคชะตามันก็เหมือนกับหญิงสาวที่เอาแน่เอานอนไม่ได้นั่นแหละ ยังไงซะ นักผจญภัยที่มีฝีมืออย่างเจ้าก็หายากซะด้วย ข้าไม่อยากให้เจ้าเอาชีวิตมาทิ้งไว้ที่นี่หรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "I have had to bury too many comrades who brushed aside cracks in their hauberks and dints in their helms. No matter what you face, do not disregard the importance of gear.",
+      "text_th": "ข้าต้องฝังศพเพื่อนร่วมรบมามากพอแล้ว พวกที่มองข้ามรอยร้าวบนชุดเกราะและรอยบุบที่หมวกของตัวเอง ไม่ว่าเจ้าจะต้องเผชิญกับอะไร อย่าได้ละเลยความสำคัญของอุปกรณ์เชียวนะ",
+      "status": "AI"
+    }
+  ]
+}

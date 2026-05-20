@@ -1,0 +1,134 @@
+{
+  "id": "spirited-away",
+  "wiki_path": "/wiki/Spirited_Away",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/d9/Spirited_Away_Image.png",
+  "patch": "2.0",
+  "title_en": "Spirited Away",
+  "title_th": "วิญญาณล่องหน",
+  "title_status": "AI",
+  "level": "22",
+  "location": "East Shroud(X:21.6,Y:25.9)",
+  "npc_start": "Komuxio",
+  "dialogues": [
+    {
+      "character": "Komuxio",
+      "text_en": "This one must ask kind one's forgiveness. This one made promise to take kind one to see elder one, yes? But this one cannot...",
+      "text_th": "ข้าต้องขออภัยท่านผู้ใจดีด้วยนะ ข้าเคยสัญญาว่าจะพาท่านผู้ใจดีไปพบกับผู้อาวุโสใช่ไหมล่ะ? แต่ข้าทำไม่ได้แล้วล่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one cannot because...elder one is not here. Elder one is not anywhere. Elder one went into forest yesterday, but has not come back...",
+      "text_th": "ที่ข้าทำไม่ได้ก็เพราะ...ผู้อาวุโสไม่อยู่ที่นี่แล้วล่ะ ผู้อาวุโสไม่ได้อยู่ที่ไหนเลย ผู้อาวุโสเข้าไปในป่าตั้งแต่เมื่อวานแล้ว แต่ก็ยังไม่กลับมาเลย...",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one is worried. Elder one often goes into forest, but never, never for this long. Kind one will help find elder one, yes?",
+      "text_th": "ข้าเป็นห่วงมากเลยนะ ผู้อาวุโสมักจะเข้าไปในป่าบ่อยๆ ก็จริง แต่ไม่เคย ไม่เคยหายไปนานขนาดนี้เลย ท่านผู้ใจดีจะช่วยตามหาผู้อาวุโสได้ไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Near where elder one disappeared is the home of a walking one named Buscarron. Buscarron may know what happened to elder one.",
+      "text_th": "ใกล้ๆ กับบริเวณที่ผู้อาวุโสหายตัวไปน่ะ มีบ้านของพวกเดินดินคนนึงที่ชื่อ Buscarron อยู่ Buscarron อาจจะรู้ก็ได้นะว่าเกิดอะไรขึ้นกับผู้อาวุโส",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one would talk to Buscarron...but walking ones do not always trust these ones. Would kind one talk to Buscarron for this one?",
+      "text_th": "ข้าอยากจะไปคุยกับ Buscarron นะ...แต่พวกเดินดินน่ะไม่ได้ไว้ใจพวกเราเสมอไปหรอก ท่านผู้ใจดีจะช่วยไปคุยกับ Buscarron แทนข้าได้ไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "And kind one comes from Gridania, yes? In Gridania live many kind ones, yes?",
+      "text_th": "แล้วท่านผู้ใจดีก็มาจาก Gridania ใช่ไหมล่ะ? ใน Gridania มีท่านผู้ใจดีอยู่เยอะแยะเลยใช่ไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one begs of kind one. Please go to Gridania and ask fellow kind ones for help. And please hurry─these ones are not safe until elder one returns.",
+      "text_th": "ข้าขอร้องท่านผู้ใจดีล่ะ ได้โปรดไปที่ Gridania แล้วขอความช่วยเหลือจากเพื่อนๆ ผู้ใจดีด้วยนะ และได้โปรดรีบหน่อยนะ─พวกเราจะไม่ปลอดภัยเลยจนกว่าผู้อาวุโสจะกลับมา",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Well, if it isn't our intrepid ambassador. How fare your diplomatic efforts with the sylph tribes?",
+      "text_th": "แหมๆ นึกว่าใคร ท่านทูตผู้กล้าหาญของเรานี่เอง การเจรจาทางการทูตกับเผ่า sylph เป็นยังไงบ้างล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Their elder's gone missing, you say!? Why, if he were to end up in the hands of the tempered ones, we'd have a crisis on our hands.",
+      "text_th": "เจ้าบอกว่าผู้อาวุโสของพวกเขาหายตัวไปงั้นรึ!? นี่ถ้าเขาเกิดไปตกอยู่ในมือของพวกคลั่งลัทธิล่ะก็ เราเจองานเข้าชุดใหญ่แน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "You can assure the sylphs that my sharpest-eyed Serpents will be on the lookout night and day.",
+      "text_th": "เจ้าไปรับรองกับพวก sylph ได้เลยนะว่า ทหาร Serpent ที่ตาไวที่สุดของข้าจะคอยเฝ้าระวังทั้งวันทั้งคืนเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "No stone must be left unturned. I would ask you to call upon Giah Molkoh at Bentbranch Meadows and deliver the message that the Wood Wailers are needed in the search effort.",
+      "text_th": "เราจะต้องพลิกแผ่นดินหาให้เจอ ข้าอยากให้เจ้าไปหา Giah Molkoh ที่ Bentbranch Meadows แล้วฝากข้อความไปบอกนางทีนะ ว่าเราต้องการให้พวก Wood Wailer มาช่วยกันตามหาด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Giah Molkoh",
+      "text_en": "A message from Commander Heuloix, you say?",
+      "text_th": "ข้อความจากผู้บัญชาการ Heuloix งั้นรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Giah Molkoh",
+      "text_en": "The sylph elder has vanished? Worry not, friend─the Wood Wailers have eyes under every leaf, behind every branch. If the elder is anywhere in these forests, we shall find him.",
+      "text_th": "ผู้อาวุโสของเผ่า sylph หายตัวไปงั้นรึ? ไม่ต้องห่วงไปหรอกเพื่อน─พวก Wood Wailer น่ะมีหูตาอยู่ใต้ใบไม้ทุกใบ หลังกิ่งไม้ทุกกิ่งนั่นแหละ ถ้าผู้อาวุโสยังอยู่ในป่าแถวนี้ล่ะก็ เราต้องหาเขาเจอแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Buscarron is a good friend of ours, and there's no place like his for the latest gossip in the South Shroud!",
+      "text_th": "Buscarron น่ะเป็นเพื่อนที่ดีของเราเลยนะ และก็ไม่มีที่ไหนอีกแล้วล่ะที่จะหาข่าวซุบซิบสดใหม่ใน South Shroud ได้ดีไปกว่าร้านของเขาน่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "The sylphs are known to avoid the South Shroud. What could have compelled the sylph elder to come here?",
+      "text_th": "เผ่า sylph น่ะขึ้นชื่อเรื่องการหลีกเลี่ยงที่จะมาเหยียบ South Shroud เลยนะ อะไรกันนะที่ทำให้ผู้อาวุโสของเผ่า sylph ต้องดั้นด้นมาที่นี่?",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "But the question of motive must wait─finding him is our foremost priority. With things relatively calm over in Little Solace, we can focus our search effort on this area.",
+      "text_th": "แต่เรื่องแรงจูงใจคงต้องพักไว้ก่อน─การตามหาเขาให้เจอคือเรื่องสำคัญที่สุดของเรา สถานการณ์ที่ Little Solace ค่อนข้างจะสงบ เราก็เลยสามารถทุ่มเทความสนใจไปที่การค้นหาในบริเวณนี้ได้อย่างเต็มที่",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Well met, adventurer! We have the finest grog and grub this side of─ Eh? Not here to fill your belly, then?",
+      "text_th": "ยินดีที่ได้พบนะ นักผจญภัย! เรามีเหล้าและอาหารชั้นยอดที่ฝั่งนี้ของ─ เอ๊ะ? ไม่ได้มาเพื่อเติมท้องให้เต็มงั้นรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Ahhh, a hunger for news, is it? Aye, there's been talk of a sylph lurking hereabouts, but I couldn't rightly say if it be the elder you seek.",
+      "text_th": "อ้าาา หิวข่าวสินะ? ใช่ ข้าก็ได้ยินคนพูดถึง sylph ที่มาป้วนเปี้ยนอยู่แถวๆ นี้เหมือนกันนะ แต่ข้าก็บอกไม่ได้หรอกนะว่าใช่ผู้อาวุโสที่เจ้าตามหาอยู่รึเปล่า",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Those woodland scamps all look alike. Short of painting one red and another one blue, most folk would struggle to tell two of 'em apart.",
+      "text_th": "ไอ้พวกตัวแสบแห่งป่าพวกนั้นหน้าตามันก็เหมือนๆ กันหมดแหละ ถ้าไม่จับตัวนึงทาสีแดงแล้วอีกตัวทาสีน้ำเงินล่ะก็ คนส่วนใหญ่ก็แยกพวกมันสองตัวไม่ออกหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "If you've the time, mayhap you could stay a while and see what the gods have in store. You never know, you might even stumble across this sylph elder yourself.",
+      "text_th": "ถ้าเจ้ามีเวลา บางทีเจ้าอาจจะอยากอยู่ต่ออีกสักพักเพื่อรอดูว่าเทพเจ้าจะดลบันดาลอะไรให้เจ้าบ้างนะ ใครจะไปรู้ล่ะ เจ้าอาจจะบังเอิญไปเจอผู้อาวุโส sylph ตัวที่ว่านี่ด้วยตัวเองก็ได้นะ",
+      "status": "AI"
+    }
+  ]
+}

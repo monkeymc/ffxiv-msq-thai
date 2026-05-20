@@ -1,0 +1,62 @@
+{
+  "id": "out-of-house-and-home",
+  "wiki_path": "/wiki/Out_of_House_and_Home",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Out of House and Home",
+  "title_th": "ไร้บ้านไร้ที่ซุกหัวนอน",
+  "title_status": "AI",
+  "level": "9",
+  "location": "Central Thanalan(X:20.8,Y:18.5)",
+  "npc_start": "Warin",
+  "dialogues": [
+    {
+      "character": "Warin",
+      "text_en": "Let's get to it then, shall we?",
+      "text_th": "เอาล่ะ มาลุยกันเลยไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "Ore wagons pass through this station every day─but not without incident.",
+      "text_th": "มีเกวียนบรรทุกแร่ผ่านสถานีนี้ทุกวันเลยนะ─แต่ก็ใช่ว่าจะไม่มีเรื่องวุ่นวายเกิดขึ้นหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "Wagons coming and going from the Dispatch Yard to the south must pass through a tunnel by Fesca's Watch─a tunnel in which some genius saw fit to put an ore storehouse, creating ideal conditions for a coblyn nest!",
+      "text_th": "เกวียนที่วิ่งไปกลับจาก Dispatch Yard ทางตอนใต้ต้องผ่านอุโมงค์ใกล้ๆ กับ Fesca's Watch─ซึ่งเป็นอุโมงค์ที่ไอ้อัจฉริยะคนไหนก็ไม่รู้ดันไปสร้างโกดังเก็บแร่ไว้ข้างใน ทำให้มันกลายเป็นสภาพแวดล้อมที่เหมาะเหม็งสำหรับทำรังของพวก coblyn ไปเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "So now the ore-loving beasts have taken up residence in a tunnel we dug, and we're practically delivering meals to their doorstep!",
+      "text_th": "สรุปก็คือ ตอนนี้ไอ้พวกสัตว์ประหลาดคลั่งแร่พวกนั้นก็เลยย้ายเข้ามาอยู่ในอุโมงค์ที่เราอุตส่าห์ขุดไว้ แล้วเราก็เหมือนเอาอาหารไปเสิร์ฟให้พวกมันถึงหน้าประตูบ้านเลยเนี่ยสิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "But no more. Inside the tunnel in question, you will find a narrow fissure where the coblyns hide. Use this silver ore cluster to lure out the creatures, then slay them.",
+      "text_th": "แต่มันจะไม่มีอีกต่อไปแล้วล่ะ ในอุโมงค์ที่ว่านั่น เจ้าจะเจอรอยแยกแคบๆ ที่พวก coblyn ซ่อนตัวอยู่ ใช้แร่เงินก้อนนี้ล่อพวกมันออกมา แล้วก็จัดการมันซะ",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "Well done! It shan't be easy work to keep the tunnel free of coblyns, but our wagons should be able to go unmolested for a time.",
+      "text_th": "ทำได้ดีมาก! คงไม่ใช่งานง่ายๆ หรอกนะที่จะคอยไล่พวก coblyn ออกจากอุโมงค์อยู่เรื่อยๆ แต่เกวียนของเราก็น่าจะวิ่งผ่านได้แบบไร้รอยขีดข่วนไปได้สักพักล่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "Disruptions to ore shipments threaten not only the interests of Amajina & Sons Mineral Concern, but of Ul'dah herself. One might liken these train tracks to veins that bear our nation's lifeblood.",
+      "text_th": "การขนส่งแร่ที่หยุดชะงัก ไม่ได้ส่งผลกระทบแค่กับผลประโยชน์ของ Amajina & Sons Mineral Concern หรอกนะ แต่ยังรวมถึง Ul'dah ด้วย จะเปรียบทางรถไฟสายนี้เหมือนเส้นเลือดใหญ่ที่หล่อเลี้ยงประเทศของเราก็ว่าได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Warin",
+      "text_en": "If only we had more men / women like you to lend a hand.",
+      "text_th": "ถ้าเรามีผู้ชาย / ผู้หญิง อย่างเจ้ามาช่วยงานมากกว่านี้ก็คงจะดีสินะ",
+      "status": "AI"
+    }
+  ]
+}

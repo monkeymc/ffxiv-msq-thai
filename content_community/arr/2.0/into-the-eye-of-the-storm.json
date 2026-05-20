@@ -1,0 +1,170 @@
+{
+  "id": "into-the-eye-of-the-storm",
+  "wiki_path": "/wiki/Into_the_Eye_of_the_Storm",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/9/95/Into_the_Eye_of_the_Storm_Image.png",
+  "patch": "2.0",
+  "title_en": "Into the Eye of the Storm",
+  "title_th": "เข้าสู่ใจกลางพายุ",
+  "title_status": "AI",
+  "level": "41",
+  "location": "New Gridania(X:11.3,Y:13.6)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text_en": "It calms me to look at her.",
+      "text_th": "การได้มองเธอทำให้ผมรู้สึกสงบขึ้นเยอะเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "It's as though I've been reunited with a part of me I never knew was missing...",
+      "text_th": "เหมือนผมได้กลับมาพบกับส่วนหนึ่งของตัวผมที่ผมไม่เคยรู้มาก่อนเลยว่ามันหายไป...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hardly surprising. You did design and build her.",
+      "text_th": "ก็ไม่น่าแปลกใจหรอก คุณเป็นคนออกแบบและสร้างเธอขึ้นมานี่นา",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I bear good news! The Seedseers have granted our request to house the Enterprise . We may take as long as we require to repair her.",
+      "text_th": "ผมมีข่าวดีมาบอก! Seedseers อนุญาตให้เราเก็บ Enterprise ไว้ที่นี่ได้แล้ว เราจะใช้เวลาซ่อมเธอแค่ไหนก็ได้ตามใจชอบเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Of course, it would be rank folly to take one moment more than we require. Garuda, lest we forget, grows stronger by the hour. If we are to have any hope of wresting this benighted realm from her talons, it must needs be soon .",
+      "text_th": "แน่นอนว่าคงจะโง่เขลามากถ้าเราใช้เวลาเกินความจำเป็น Garuda แข็งแกร่งขึ้นทุกชั่วโมงนะอย่าลืมสิ ถ้าเราหวังจะช่วยดินแดนที่มืดมิดนี้จากกรงเล็บของนางล่ะก็ เราต้องรีบทำ เร็วๆ นี้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though I am no expert on the workings of airships, it seems plain to me that the Enterprise suffered much from her time in the wilderness. Am I not correct, Cid?",
+      "text_th": "ถึงผมจะไม่ได้เชี่ยวชาญเรื่องกลไกของเรือเหาะสักเท่าไหร่ แต่ผมก็เห็นได้ชัดเลยนะว่า Enterprise ได้รับความเสียหายอย่างหนักจากการไปตากแดดตากลมอยู่กลางป่า ผมพูดถูกไหม Cid?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "You are. Frankly, it's a miracle she carried us this far.",
+      "text_th": "ใช่ พูดตามตรงเลยนะ ปาฏิหาริย์มากที่เธอพาเรามาไกลขนาดนี้ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As you know, the Howling Eye is encircled by a raging tempest, apt to turn proud trees to matchwood. Our battle will end before it begins if the Enterprise cannot weather the storm.",
+      "text_th": "อย่างที่คุณรู้ Howling Eye ถูกล้อมรอบไปด้วยพายุหมุนที่รุนแรงพอจะฉีกต้นไม้ใหญ่ให้เป็นชิ้นเล็กชิ้นน้อยได้เลย การต่อสู้ของเราคงจบลงตั้งแต่ยังไม่ทันเริ่ม ถ้า Enterprise ไม่สามารถฝ่าพายุไปได้",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Given time, I believe I can fully repair her...",
+      "text_th": "ถ้ามีเวลา ผมเชื่อว่าผมสามารถซ่อมเธอให้กลับมาสมบูรณ์ได้นะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "But if this tempest is as fearsome as you say, even that may not be enough.",
+      "text_th": "แต่ถ้าพายุนั่นมันน่ากลัวอย่างที่คุณว่า แค่นั้นก็อาจจะไม่พอหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "<sigh> Confound it. There must be a way...a way to brave the fury of the elements...",
+      "text_th": "<เฮ้อ> ให้ตายสิ มันต้องมีวิธีสิ... วิธีที่จะฝ่าความโกรธเกรี้ยวของธรรมชาติไปได้...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "...The elements . But of course! That's it!",
+      "text_th": "... ธรรมชาติ งั้นเหรอ ใช่เลย! นั่นแหละ!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "We work upon the element itself! Using the power of a corrupted crystal, we could clear a path through the storm, and spare the Enterprise a battering!",
+      "text_th": "เราก็ใช้ธรรมชาติเข้าสู้สิ! ใช้พลังของคริสตัลที่ปนเปื้อนเปิดทางฝ่าพายุไป เท่านี้ Enterprise ก็จะไม่ต้องโดนพายุซัดแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I see! You propose to utilize the properties of a crystal to alter the elemental aspect of the barrier! It seems so childishly simple in retrospect!",
+      "text_th": "เข้าใจล่ะ! คุณเสนอให้ใช้คุณสมบัติของคริสตัลเพื่อเปลี่ยนคุณสมบัติทางธาตุของบาเรียสินะ! พอมานึกดูแล้ว มันก็ดูเป็นเรื่องง่ายๆ เหมือนเด็กเล่นเลยนะเนี่ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though mayhap not to you , Forename . We speak of the manifestations of over-aspected aether that can be found throughout Eorzea.",
+      "text_th": "ถึงมันอาจจะไม่ใช่สำหรับ คุณ ก็เถอะนะ [ชื่อ] เรากำลังพูดถึงปรากฏการณ์ของพลังเวทที่อัดแน่นจนเกินไป ซึ่งพบเห็นได้ทั่วไปใน Eorzea",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Since the Calamity disrupted the land's aetheric currents, such crystals have become comparatively commonplace.",
+      "text_th": "ตั้งแต่เกิด Calamity กระแสพลังเวทของดินแดนก็ปั่นป่วนไปหมด คริสตัลพวกนี้ก็เลยมีให้เห็นทั่วไป",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Which has been a cause of great woe, as they are known to warp aetheric energies, including those of living organisms.",
+      "text_th": "...ซึ่งก็เป็นสาเหตุของความทุกข์ทรมานอย่างใหญ่หลวง เพราะเป็นที่รู้กันดีว่าพวกมันสามารถบิดเบือนพลังเวทได้ รวมถึงพลังเวทของสิ่งมีชีวิตด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "The point is, we could theoretically use a corrupted crystal to convert the wind-aspected aether comprising Garuda's barrier into aether of another aspect─one she cannot control.",
+      "text_th": "ประเด็นก็คือ ในทางทฤษฎีแล้ว เราสามารถใช้คริสตัลที่ปนเปื้อนเพื่อเปลี่ยนพลังเวทธาตุลมที่เป็นเกราะของ Garuda ให้เป็นพลังเวทธาตุอื่น─ธาตุที่นางควบคุมไม่ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "With certain modifications, the Enterprise should be able to deliver us to the Howling Eye in comfort, however hard Garuda blows...",
+      "text_th": "แค่ปรับแต่งนิดหน่อย Enterprise ก็น่าจะพาเราไปส่งที่ Howling Eye ได้อย่างสบายๆ ไม่ว่า Garuda จะเป่าลมแรงแค่ไหนก็ตาม...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But we are getting ahead of ourselves. All of this rests upon our ability to procure a crystal with the necessary properties. Have you any idea where we might acquire one?",
+      "text_th": "แต่เราชักจะคิดการณ์ไกลไปหน่อยแล้วล่ะ ทั้งหมดนี้ขึ้นอยู่กับความสามารถของเราในการจัดหาคริสตัลที่มีคุณสมบัติครบถ้วน คุณพอจะรู้ไหมว่าเราจะหามาได้จากไหน?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "No. But I know a man who might. A scholar by the name of Lamberteint, who resides in Camp Drybone.",
+      "text_th": "ไม่รู้สิ แต่ผมรู้จักคนที่น่าจะรู้ นักวิชาการชื่อ Lamberteint อาศัยอยู่ที่ Camp Drybone",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Strange as it may sound, I met him during my time at the church. Well, Marques met him, I suppose. Whether out of pity, or for want of a more willing listener, he would talk to me for hours at a time about his aetheric studies, corrupted crystals being his pet subject. It was as a result of these conversations that poor Marques was observed to possess an uncommon knack for theoretical science...",
+      "text_th": "ถึงจะฟังดูแปลกๆ ก็เถอะ แต่ผมเคยเจอเขาตอนที่อยู่ที่โบสถ์น่ะ อืม Marques เคยเจอเขามากกว่ามั้ง ไม่รู้ว่าเพราะความสงสารหรือเพราะต้องการคนฟังที่เต็มใจกว่านี้ เขาจะคุยกับผมเรื่องการศึกษาพลังเวทเป็นชั่วโมงๆ โดยมีเรื่องคริสตัลปนเปื้อนเป็นหัวข้อโปรดของเขา และผลจากการสนทนาเหล่านั้นเอง ทำให้ Marques ผู้ยากไร้ ถูกมองว่ามีพรสวรรค์ที่ไม่ธรรมดาในด้านวิทยาศาสตร์เชิงทฤษฎี...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forename , I need you to return to Thanalan and seek out this scholar. Cid and I will set about repairing the Enterprise in your absence.",
+      "text_th": "[ชื่อ] ผมต้องการให้คุณกลับไปที่ Thanalan แล้วตามหานักวิชาการคนนี้ ระหว่างที่คุณไม่อยู่ ผมกับ Cid จะช่วยกันซ่อม Enterprise เอง",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "When I look at her, I feel as though I've come home. I can think of no other way to express it.",
+      "text_th": "พอมองดูเธอแล้ว ผมรู้สึกเหมือนได้กลับบ้านเลย ผมไม่รู้จะหาคำไหนมาอธิบายได้ดีกว่านี้แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Why do you tarry, Forename ? Our work is not yet finished! We must press onward, until the harpy queen lies broken at our feet!",
+      "text_th": "ทำไมถึงมัวชักช้าอยู่ล่ะ [ชื่อ] ? งานของเรายังไม่เสร็จนะ! เราต้องเดินหน้าต่อไป จนกว่าราชินีฮาร์ปีนั่นจะนอนแหลกสลายแทบเท้าเรา!",
+      "status": "AI"
+    },
+    {
+      "character": "Lamberteint",
+      "text_en": "Hm? Why yes, I am Professor Lamberteint. Beg pardon? You wish to hear about my research on corrupted crystals? ... Truly ? Well, nothing would give me greater pleasure than to discuss my work with a fellow man / woman of science!",
+      "text_th": "หืม? ใช่ครับ ผมคือศาสตราจารย์ Lamberteint ขอโทษทีนะ? คุณอยากฟังเรื่องงานวิจัยเกี่ยวกับคริสตัลปนเปื้อนของผมเหรอ? ... จริงๆ เหรอ? แหม ไม่มีอะไรจะทำให้ผมมีความสุขไปกว่าการได้พูดคุยเรื่องงานกับนักวิทยาศาสตร์ด้วยกันอีกแล้วล่ะ!",
+      "status": "AI"
+    }
+  ]
+}

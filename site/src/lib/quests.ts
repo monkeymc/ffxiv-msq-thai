@@ -5,6 +5,7 @@ export interface Dialogue {
   character: string;
   text_en: string;
   text_th: string;
+  status: 'AI' | 'Community' | 'none';
 }
 
 export interface Quest {
@@ -14,13 +15,14 @@ export interface Quest {
   patch: string;
   title_en: string;
   title_th: string;
+  title_status: 'AI' | 'Community' | 'none';
   level: string;
   location: string;
   npc_start: string;
   dialogues: Dialogue[];
   source: 'contributor' | 'ai' | 'none';
-  contributor?: string;
-  expansion: string;       // e.g. 'arr', 'hw' — determined from folder
+  expansion: string;
+  communityPct: number;
 }
 
 /* ────────────────────────────────────────────────────────────
@@ -45,18 +47,12 @@ export const EXPANSIONS: Expansion[] = [
 ];
 
 /* ────────────────────────────────────────────────────────────
-   File system — content lives at /content/arr/2.0/ etc.
+   File system — community data lives at /content_community/
 ───────────────────────────────────────────────────────────── */
 const ROOT = join(process.cwd(), '..');
 
-function blueprintDir(exp: Expansion) {
-  return join(ROOT, 'content',             exp.id, exp.patch);
-}
-function aiDir(exp: Expansion) {
-  return join(ROOT, 'content_ai',          exp.id, exp.patch);
-}
-function contribDir(exp: Expansion) {
-  return join(ROOT, 'content_contributor', exp.id, exp.patch);
+function communityDir(exp: Expansion) {
+  return join(ROOT, 'content_community', exp.id, exp.patch);
 }
 
 function readJson<T>(path: string): T | null {
@@ -64,39 +60,66 @@ function readJson<T>(path: string): T | null {
   return JSON.parse(readFileSync(path, 'utf-8')) as T;
 }
 
-interface BlueprintDialogue { character: string; text_en: string; }
-interface Blueprint {
-  id: string; wiki_path: string; wiki_image_url: string; patch: string;
-  title_en: string; level: string; location: string; npc_start: string;
-  dialogues: BlueprintDialogue[];
-}
-interface TranslationLayer {
-  title_th?: string;
-  contributor?: string;
-  dialogues: { text_th: string }[];
+interface CommunityDialogue {
+  character: string;
+  text_en: string;
+  text_th: string;
+  status: 'AI' | 'Community' | 'none';
 }
 
-function mergeQuest(exp: Expansion, filename: string): Quest {
-  const bp = readJson<Blueprint>(join(blueprintDir(exp), filename))!;
-  const contributor = readJson<TranslationLayer>(join(contribDir(exp), filename));
-  const ai = readJson<TranslationLayer>(join(aiDir(exp), filename));
+interface CommunityQuest {
+  id: string;
+  wiki_path: string;
+  wiki_image_url: string;
+  patch: string;
+  title_en: string;
+  title_th: string;
+  title_status: 'AI' | 'Community' | 'none';
+  level: string;
+  location: string;
+  npc_start: string;
+  dialogues: CommunityDialogue[];
+}
 
-  const layer = contributor ?? ai ?? null;
-  const source: Quest['source'] = contributor ? 'contributor' : ai ? 'ai' : 'none';
+function loadQuest(exp: Expansion, filename: string): Quest {
+  const cq = readJson<CommunityQuest>(join(communityDir(exp), filename))!;
 
-  const dialogues: Dialogue[] = bp.dialogues.map((d, i) => ({
+  const dialogues: Dialogue[] = cq.dialogues.map(d => ({
     character: d.character,
     text_en: d.text_en,
-    text_th: layer?.dialogues[i]?.text_th ?? '',
+    text_th: d.text_th,
+    status: d.status,
   }));
 
+  const total = dialogues.length;
+  const communityCount = dialogues.filter(d => d.status === 'Community').length;
+  const communityPct = total > 0 ? Math.round((communityCount / total) * 100) : 0;
+
+  const hasAnyTranslation = !!cq.title_th || dialogues.some(d => !!d.text_th);
+  const isFullyCommunity =
+    cq.title_status === 'Community' &&
+    (total === 0 || communityPct === 100);
+  const source: Quest['source'] = isFullyCommunity
+    ? 'contributor'
+    : hasAnyTranslation
+    ? 'ai'
+    : 'none';
+
   return {
-    ...bp,
-    title_th: layer?.title_th ?? '',
+    id: cq.id,
+    wiki_path: cq.wiki_path,
+    wiki_image_url: cq.wiki_image_url,
+    patch: cq.patch,
+    title_en: cq.title_en,
+    title_th: cq.title_th,
+    title_status: cq.title_status,
+    level: cq.level,
+    location: cq.location,
+    npc_start: cq.npc_start,
     dialogues,
     source,
-    contributor: contributor?.contributor,
     expansion: exp.id,
+    communityPct,
   };
 }
 
@@ -104,11 +127,11 @@ export function getAllQuests(expansionId: string = 'arr'): Quest[] {
   const exp = EXPANSIONS.find(e => e.id === expansionId);
   if (!exp || !exp.available) return [];
 
-  const dir = blueprintDir(exp);
+  const dir = communityDir(exp);
   if (!existsSync(dir)) return [];
 
   const files = readdirSync(dir).filter(f => f.endsWith('.json'));
-  let quests = files.map(f => mergeQuest(exp, f));
+  let quests = files.map(f => loadQuest(exp, f));
 
   if (expansionId === 'arr') {
     // Only keep quests that are part of the defined chronological order
@@ -141,7 +164,7 @@ export function getAdjacentQuests(slug: string, expansionId: string = 'arr'): { 
       const pirates = quests.find(q => q.id === 'it-s-probably-pirates');
       next = pirates ?? null;
     }
-    
+
     if (slug === 'coming-to-limsa-lominsa' || slug === 'coming-to-ul-dah' || slug === 'it-s-probably-pirates') {
       prev = null;
     }
@@ -212,7 +235,7 @@ export function groupQuestsByLevel(quests: Quest[]): QuestGroup[] {
       const match = sec.title.match(/^(\d+)\s+Levels\s+(.+)$/i);
       const num = match ? match[1] : "";
       const range = match ? `Lv ${match[2]}` : sec.title;
-      
+
       let title = sec.title;
       let desc = "";
       if (num === "1") {

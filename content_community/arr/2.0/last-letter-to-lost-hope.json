@@ -1,0 +1,104 @@
+{
+  "id": "last-letter-to-lost-hope",
+  "wiki_path": "/wiki/Last_Letter_to_Lost_Hope",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Last Letter to Lost Hope",
+  "title_th": "จดหมายฉบับสุดท้ายถึง Lost Hope",
+  "title_status": "AI",
+  "level": "11",
+  "location": "Central Thanalan(X:22.6,Y:17.1)",
+  "npc_start": "Fufulupa",
+  "dialogues": [
+    {
+      "character": "Fufulupa",
+      "text_en": "Pray allow me to enlist your aid, brave adventurer. I would have you ascertain the whereabouts of a missive I sent to Lost Hope the other day.",
+      "text_th": "ได้โปรดให้ข้าขอความช่วยเหลือจากคุณหน่อยเถิด นักผจญภัยผู้กล้าหาญ ข้าอยากให้คุณช่วยไปตามหาจดหมายที่ข้าส่งไปที่ Lost Hope เมื่อวันก่อนหน่อยน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "Captain Leofric is stationed there. Ever since he was transferred, we've exchanged letters, but never before has it taken this long to receive a reply.",
+      "text_th": "ท่านกัปตัน Leofric ประจำการอยู่ที่นั่น ตั้งแต่เขาถูกย้ายไป เราก็ติดต่อกันทางจดหมายมาตลอด แต่ไม่เคยมีครั้งไหนเลยที่เขาจะตอบกลับมาช้าขนาดนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "And so I fear that the courier may have met with some misfortune en route.",
+      "text_th": "ข้าก็เลยกลัวว่าคนส่งสารอาจจะเจอเรื่องร้ายๆ ระหว่างทาง",
+      "status": "AI"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "She must have made it to central Thanalan, or the Brass Blades that patrol the roads between here and Scorpion Crossing would have seen something. But, if she made it as far as Black Brush Station, she would have surely delivered the letter by now. Lost Hope is practically on its doorstep...",
+      "text_th": "นางต้องไปถึงตอนกลางของ Thanalan แน่ๆ ไม่งั้นพวก Brass Blades ที่ลาดตระเวนอยู่บนถนนระหว่างที่นี่กับ Scorpion Crossing ก็คงจะเห็นอะไรเข้าบ้าง แต่ถ้านางไปถึง Black Brush Station แล้วล่ะก็ ป่านนี้นางก็คงจะส่งจดหมายไปแล้วล่ะ Lost Hope มันอยู่แค่หน้าประตูบ้านนี่เอง...",
+      "status": "AI"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "I suggest you focus your search on the road to Black Brush Station, in central Thanalan. With luck, you will find her quickly.",
+      "text_th": "ข้าขอแนะนำให้คุณเน้นหาแถวๆ ถนนไป Black Brush Station ในตอนกลางของ Thanalan นะ ถ้าโชคดี คุณคงจะหานางเจอได้เร็วๆ นี้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Seseli",
+      "text_en": "Huh? A letter? Aye, I've got Fufulupa's missive right here.",
+      "text_th": "หืม? จดหมายเหรอ? ใช่ ข้ามีจดหมายของ Fufulupa อยู่ที่นี่แหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Seseli",
+      "text_en": "I won't be deliverin' it any time soon, though. Got to tend to my bird's injured leg first. Even the most minor of cuts can fester if ignored.",
+      "text_th": "แต่ข้าคงยังไม่เอาไปส่งในเร็วๆ นี้หรอกนะ ต้องดูแลขาที่บาดเจ็บของนกข้าก่อน แผลนิดเดียวก็อาจจะลุกลามได้ถ้าปล่อยปละละเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Seseli",
+      "text_en": "Fufulupa sent you, right? If this is a pressin' matter, why don't you take it the rest of the way?",
+      "text_th": "Fufulupa เป็นคนส่งคุณมาใช่ไหม? ถ้านี่มันเป็นเรื่องด่วน ทำไมคุณไม่เอามันไปส่งต่อซะเองล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Seseli",
+      "text_en": "Lost Hope's just past Black Brush Station, to the northeast. Look for the tents by the river.",
+      "text_th": "Lost Hope อยู่เลย Black Brush Station ไปนิดเดียวเอง ไปทางตะวันออกเฉียงเหนือ มองหาเต็นท์ที่อยู่ริมแม่น้ำนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Leofric",
+      "text_en": "Just passing through, or will you be staying a while?",
+      "text_th": "แค่ผ่านมา หรือว่าจะอยู่พักสักหน่อยล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Leofric",
+      "text_en": "...Fufulupa sent you all this way because of a late letter? <sigh> The boy is still far too earnest.",
+      "text_th": "...Fufulupa ส่งคุณมาตั้งไกลเพราะจดหมายมาส่งช้าเนี่ยนะ? <เฮ้อ> เด็กคนนี้ก็ยังซื่อบื้อเกินไปเหมือนเดิม",
+      "status": "AI"
+    },
+    {
+      "character": "Leofric",
+      "text_en": "Despite my demotion, he continues to call me Captain. I suspect he has no idea what it means to be transferred to Lost Hope either.",
+      "text_th": "ถึงข้าจะโดนปลดแล้ว เขาก็ยังเรียกข้าว่ากัปตันอยู่ดี ข้าสงสัยว่าเขาคงไม่รู้ด้วยซ้ำว่าการถูกย้ายมาที่ Lost Hope มันหมายความว่ายังไง",
+      "status": "AI"
+    },
+    {
+      "character": "Leofric",
+      "text_en": "The Brass Blades don't give a Qiqirn's arse about this settlement. No one in Ul'dah does.",
+      "text_th": "พวก Brass Blades ไม่สนใจเรื่องค่ายอพยพนี่เลยสักนิด ไม่มีใครใน Ul'dah สนใจหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Leofric",
+      "text_en": "All here have been forsaken, adventurer. The refugees, their protectors. And you will be, too, if you're seen associating with us.",
+      "text_th": "ทุกคนที่นี่ถูกทอดทิ้งหมดแล้ว นักผจญภัย ทั้งพวกผู้ลี้ภัย ทั้งคนคุ้มครองของพวกเขา และคุณเองก็จะโดนหางเลขไปด้วยถ้ามีคนเห็นคุณมาคบค้าสมาคมกับพวกเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Leofric",
+      "text_en": "Thank you for the letter. Now, for your own good, leave.",
+      "text_th": "ขอบใจสำหรับจดหมายนะ เอาล่ะ เพื่อความปลอดภัยของตัวคุณเอง ไปซะเถอะ",
+      "status": "AI"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "id": "coming-to-ul-dah",
+  "wiki_path": "/wiki/Coming_to_Ul%27dah",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/2/27/Coming_to_Uldah.png",
+  "patch": "2.0",
+  "title_en": "Coming to Ul'dah",
+  "title_th": "มาถึงอุล'ดาห์",
+  "title_status": "AI",
+  "level": "1",
+  "location": "Ul'dah - Steps of Nald(X:11.9,Y:8.2)",
+  "npc_start": "Wymond",
+  "dialogues": [
+    {
+      "character": "Wymond",
+      "text_en": "Don't be like that, friend! I promise I'll make it worth your while!",
+      "text_th": "อย่าไปอย่างนั้นสิเพื่อน! สัญญาว่าจะคุ้มค่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Wymond",
+      "text_en": "'Tis plain to anyone with eyes that you don't know your way around here.",
+      "text_th": "ชัดเจนว่าเจ้าไม่รู้จักทางที่นี่",
+      "status": "AI"
+    },
+    {
+      "character": "Wymond",
+      "text_en": "If I let you go wanderin' off down the nearest dark alley, you're certain to get mugged or worse, an' I don't want that on my conscience.",
+      "text_th": "ถ้าปล่อยให้เดินเข้าตรอกมืดซักที่ก็เสี่ยงถูกปล้นหรือแย่กว่านั้น และฉันไม่อยากให้ติดค้างในจิตสำนึก",
+      "status": "AI"
+    },
+    {
+      "character": "Wymond",
+      "text_en": "So before you do anythin' else, you'll want to head over to the Quicksand, an' speak with Momodi. She's the master of the Adventurers' Guild, an' can set you on the right path.",
+      "text_th": "ดังนั้นก่อนทำอะไรทั้งนั้น ไปที่ เดอะ ควิกแซนด์ แล้วพูดกับ Momodi เธอเป็นผู้ดูแลกิลด์นักผจญภัย และจะพาเจ้าไปในทิศทางที่ถูกต้อง",
+      "status": "AI"
+    },
+    {
+      "character": "Wymond",
+      "text_en": "Just take those steps over yonder an' pass through the double doors. You'll find her inside.",
+      "text_th": "แค่ขึ้นบันไดโน้นแล้วเดินผ่านประตูคู่ เจ้าจะพบเธออยู่ข้างใน",
+      "status": "AI"
+    },
+    {
+      "character": "Wymond",
+      "text_en": "...An' that's as much as you're gettin' for free. Good luck with the adventurin', adventurer.",
+      "text_th": "...และนั่นคือทั้งหมดที่เจ้าจะได้ฟรี โชคดีนะนักผจญภัย",
+      "status": "AI"
+    },
+    {
+      "character": "Tutumoko",
+      "text_en": "Ul'dah not to your liking, newcomer? Why not partake of the Quicksand's hospitality before you decide to leave us?",
+      "text_th": "อุล'ดาห์ไม่ถูกใจหรือ คนใหม่? ลองรับบริการของ เดอะ ควิกแซนด์ ก่อนตัดสินใจจากไปก็ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Bubukkuli",
+      "text_en": "Halt! You've not joined the guild yet, have you? I thought not. Head to the Quicksand, adventurer—registration is mandatory.",
+      "text_th": "หยุด! ยังไม่ได้เข้ากิลด์ใช่ไหม? คิดอย่างนั้นเอง ไปที่ เดอะ ควิกแซนด์ นักผจญภัย — การลงทะเบียนบังคับ",
+      "status": "AI"
+    },
+    {
+      "character": "Yuyutazi",
+      "text_en": "Hey, weren't you on the carriage that just arrived? All new adventurers are required to register at the guild before wandering off into the city.",
+      "text_th": "เฮ้ เจ้ามากับรถม้าที่เพิ่งมาถึงใช่ไหม? นักผจญภัยใหม่ทุกคนต้องลงทะเบียนกับกิลด์ก่อนเดินออกไปในเมือง",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Why, hello there! Who might you be?",
+      "text_th": "ว้าว สวัสดีจ้า! เจ้าเป็นใครนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "If you're lookin' to join the Adventurers' Guild, you've come to the right place.",
+      "text_th": "ถ้าต้องการเข้ากิลด์นักผจญภัย มาถูกที่แล้วค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "My name's Momodi, and─ Pardon me, have we met before? There's somethin' awfully familiar about you...",
+      "text_th": "ชื่อฉันคือ Momodi และ— ขอโทษนะ เคยเจอกันมาก่อนไหม? มีบางอย่างที่คุ้นเคยมากในตัวเจ้า...",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "<sigh> I don't know if it's the Calamity, or just the march of the bleedin' years, but I'm findin' it harder and harder to keep track of all the names and faces. Anyway, forget I mentioned it─I daresay I will... Ahem.",
+      "text_th": "<ため息> ไม่รู้ว่าเป็นเพราะมหาวิบัติหรือแค่ปีที่ผ่านไป แต่ยิ่งยากขึ้นเรื่อยๆ ที่จะจำชื่อและหน้าทุกคน อย่างไรก็ตาม ลืมที่พูดไปนะ — ฉันก็คงจะลืมอยู่ดี... เอ้อ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Name's Momodi, and I own this fine establishment, if it please you.",
+      "text_th": "ชื่อฉัน Momodi และฉันเป็นเจ้าของสถานที่แห่งนี้ ยินดีรู้จัก",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "I also manage the Adventurers' Guild here in Ul'dah. So you might say that lookin' after green adventurers like yourself is my vocation.",
+      "text_th": "ฉันยังดูแลกิลด์นักผจญภัยที่นี่ในอุล'ดาห์อีกด้วย พูดได้ว่าการดูแลนักผจญภัยมือใหม่อย่างเจ้านี่คืออาชีพของฉัน",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "And lucky for you that it is. Without someone like me to steer you right, you'd soon find yourself out in the middle of nowhere, caught up in business you don't understand.",
+      "text_th": "และโชคดีสำหรับเจ้าที่มีคนอย่างฉันคอยชี้ทาง ไม่งั้นเจ้าก็เสี่ยงหลงอยู่กลางทะเลทรายแล้วยุ่งกับเรื่องที่ไม่เข้าใจ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Like our conflict with the Amalj'aa, for example. They've been plaguin' the sultanate for nigh on, oooh...forever now.",
+      "text_th": "อย่างความขัดแย้งกับอะมาล'จา เช่น พวกมันรบกวนสุลต่านาตั้งแต่...โอ้ นานมากจนไม่รู้จะนับ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Then there's the Garlean Empire. None can say for sure what they're plottin' these days, only that they are.",
+      "text_th": "แล้วก็มีจักรวรรดิการ์ลีน ไม่มีใครรู้แน่ชัดว่าพวกเขากำลังวางแผนอะไรอยู่ รู้แค่ว่ากำลังวางแผนอยู่แน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Aye, the people drink and make merry...but underneath it all, there's worry. Worry and a lingerin' feelin' of loss.",
+      "text_th": "ใช่ ผู้คนดื่มกินกันอยู่... แต่ข้างใต้มีความกังวล ความกังวลและความรู้สึกสูญเสียที่ยังคงอยู่",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "And little wonder. It's scarce been five years since the lesser moon cracked open like a giant egg, releasin' an abomination intent on turnin' the realm into an eighth hell...",
+      "text_th": "และก็ไม่แปลกเลย มันแทบจะห้าปีแล้วนับตั้งแต่ดาวเทียมดวงเล็กแตกเหมือนไข่ยักษ์ ปล่อยสิ่งน่าเกลียดออกมาที่ตั้งใจจะเปลี่ยนโลกให้เป็นนรก...",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "So much was lost in the blink of an eye. 'Twas like the end of the world had come at last.",
+      "text_th": "สูญเสียมากมายในพริบตา เหมือนวันสิ้นโลกมาถึงแล้วจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "But then things begin to get foggy. Everyone's got their own version of what happened next─some of 'em, two or three...",
+      "text_th": "แต่แล้วเรื่องก็เริ่มพร่าเลือน ทุกคนมีเรื่องราวของตัวเองว่าเกิดอะไรขึ้นต่อไป บางคนมีสองสามเวอร์ชัน...",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "You'd think people would remember somethin' like that─but the fact is, they don't. Nobody does.",
+      "text_th": "คิดดูสิว่าน่าจะจำเหตุการณ์แบบนั้นได้ แต่ความจริงคือจำไม่ได้ ไม่มีใครได้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "There is one thing the survivors agree on, though: the part played by a band of adventurers who laid down their lives for a realm that wasn't their own.",
+      "text_th": "แต่มีสิ่งหนึ่งที่ผู้รอดชีวิตเห็นพ้องกัน คือบทบาทของกลุ่มนักผจญภัยที่วางชีวิตตัวเองไว้เพื่อแผ่นดินที่ไม่ใช่บ้านของตนเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "They fought valiantly, and like so many others, they never returned. Deeds worth rememberin', I'm sure you'll agree. It's just a shame our recollections of those brave heroes are as jumbled as those of the Calamity itself.",
+      "text_th": "พวกเขาต่อสู้อย่างกล้าหาญ และเหมือนกับคนอื่นๆ อีกมากมาย พวกเขาไม่กลับมา เรื่องที่ควรจดจำไว้ เจ้าก็คงเห็นด้วย เสียดายที่ความทรงจำเกี่ยวกับวีรบุรุษผู้กล้าหาญเหล่านั้นพัวพันกับมหาวิบัติเหมือนกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Whenever we try to call their faces to mind, it's like they're standin' between us and the midday sun, permanently silhouetted... I'll bet that sounds poetic to you, doesn't it? Well it's not. It's bloody infuriatin'.",
+      "text_th": "เมื่อใดที่พยายามนึกภาพหน้าของพวกเขา ก็เหมือนพวกเขายืนอยู่ระหว่างเรากับแดดเที่ยง เป็นเงาตลอดไป... ฟังดูกวีไหมล่ะ? ไม่เลยนะ มันน่าหงุดหนิดมากกว่า",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "But even if we can't remember them, we'll not let 'em be forgotten, and so we call 'em the Warriors of Light.",
+      "text_th": "แต่ถึงจำพวกเขาไม่ได้ เราก็จะไม่ปล่อยให้พวกเขาถูกลืม จึงเรียกพวกเขาว่านักรบแห่งแสง",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "And they'll forever stand as a shinin' example of what adventurers can achieve. That's why I welcome new arrivals like yourself to our fair city.",
+      "text_th": "และพวกเขาจะเป็นตัวอย่างที่ฉายแสงตลอดไปว่านักผจญภัยสามารถทำอะไรได้บ้าง นั่นแหละที่ทำให้ฉันต้อนรับคนใหม่อย่างเจ้าสู่เมืองของเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "All I ask is that you lend a helpin' hand, and try to leave Ul'dah in a better state than you found her. If you can promise that, I'd be happy to let you join the guild.",
+      "text_th": "ขอแค่อย่างเดียวคือยื่นมือช่วยเหลือ และพยายามทำให้อุล'ดาห์ดีขึ้นกว่าที่พบ ถ้าสัญญาได้ ฉันก็ยินดีให้เข้ากิลด์",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "All right, then! A promise is a promise, now!",
+      "text_th": "โอเคแล้ว! สัญญาคือสัญญานะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "I'm countin' on your help to put the past behind us. We need people workin' and spendin' and bickerin' like the old days!",
+      "text_th": "ฉันนับถือในความช่วยเหลือของเจ้าที่จะพาเราพ้นยุคนี้ไป เราต้องการคนทำงาน จ่ายเงิน และทะเลาะเบาะแว้งกันเหมือนสมัยก่อน!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "And a happy and prosperous Ul'dah means more business for the Quicksand, too!",
+      "text_th": "และอุล'ดาห์ที่มีความสุขและเจริญก็แปลว่าธุรกิจดีสำหรับ เดอะ ควิกแซนด์ ด้วย!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Anyroad, let's make this official.",
+      "text_th": "อย่างไรก็ตาม มาทำให้เป็นทางการเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Go ahead and write your name in the register─neat as you can.",
+      "text_th": "ไปเขียนชื่อในทะเบียน — ให้สวยที่สุดเท่าที่ทำได้",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "... Forename Surname . Well, ain't that a charmin' name. Just rolls off the tongue, it does.",
+      "text_th": "... [ชื่อ] [นามสกุล] โอ้ ชื่อไพเราะดีจริงๆ พูดสบายปากมาก",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "All right, Mister / Miss Surname ! On behalf of the Adventurers' Guild, I officially─",
+      "text_th": "โอเค คุณ [นามสกุล]! ในนามของกิลด์นักผจญภัย ฉันขอ—",
+      "status": "AI"
+    },
+    {
+      "character": "Shabby Man",
+      "text_en": "Please, sir, be merciful! Twelve as my witness, I swear to you, I'll bring you your money!",
+      "text_th": "โปรด นายท่าน โปรดมีเมตตา! สิบสองเทพเป็นพยาน ฉันสาบานว่าจะนำเงินมาคืน!",
+      "status": "AI"
+    },
+    {
+      "character": "Bill Collector",
+      "text_en": "In the East, it is said that even a merciful god might be driven to vengeance if thrice blasphemed.",
+      "text_th": "ทางตะวันออกว่ากันว่าแม้แต่เทพผู้เมตตาก็อาจถูกผลักดันสู่การแก้แค้นได้หากถูกลบหลู่สามครั้ง",
+      "status": "AI"
+    },
+    {
+      "character": "Bill Collector",
+      "text_en": "Be grateful you were given a fourth chance to offend. You two, attend to this scum.",
+      "text_th": "โชคดีที่ได้รับโอกาสที่สี่ในการทำผิด พวกแก จัดการขยะนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Shabby Man",
+      "text_en": "No, please! Mercy!",
+      "text_th": "ไม่ โปรด! ขอความเมตตา!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Well, ain't that a sorry sight. Nor an uncommon one, if I'm honest. Don't worry, though─if you work hard, I doubt you'll end up like him.",
+      "text_th": "เอ้อ ภาพที่น่าสลดใจ แต่ก็ไม่ใช่เรื่องแปลก ถ้าพูดตรงๆ ไม่ต้องกังวลหรอก — ถ้าทำงานหนัก ฉันสงสัยว่าเจ้าจะจบลงแบบนั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Just the same, if you ever need a bit of advice about one thing or another, pay me a visit. Just don't go botherin' me every time you stub your bloody toe, all right?",
+      "text_th": "อย่างไรก็ดี ถ้าต้องการคำแนะนำเรื่องอะไรก็ตาม มาหาฉัน แค่อย่ามารบกวนทุกครั้งที่สะดุดนิ้วเจ็บก็พอนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "'Course, I do enjoy hearin' a lady muse on the many manhoods of her acquaintance from time to time...",
+      "text_th": "แน่นอน ฉันชอบฟังเพื่อนๆ บ่นเรื่องต่างๆ ในชีวิตอยู่บ้างเป็นครั้งคราว...",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Anyroad, welcome to Ul'dah, Forename !",
+      "text_th": "ยังไงก็ตาม ยินดีต้อนรับสู่อุล'ดาห์ [ชื่อ]!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Take a moment to catch your breath, and I'll teach you a little about our fair city.",
+      "text_th": "พักใจสักครู่ แล้วจะสอนเรื่องเมืองสวยงามของเราสักเรื่อง",
+      "status": "AI"
+    }
+  ]
+}

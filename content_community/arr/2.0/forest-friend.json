@@ -1,0 +1,98 @@
+{
+  "id": "forest-friend",
+  "wiki_path": "/wiki/Forest_Friend",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Forest Friend",
+  "title_th": "เพื่อนแห่งผืนป่า",
+  "title_status": "AI",
+  "level": "21",
+  "location": "East Shroud(X:21.9,Y:25.6)",
+  "npc_start": "Papalymo",
+  "dialogues": [
+    {
+      "character": "Papalymo",
+      "text_en": "Forename . As an adventurer, you're no stranger to helping distressed folk, I'd wager.",
+      "text_th": "[ชื่อ] ในฐานะนักผจญภัย ข้าเดาว่าเจ้าคงคุ้นเคยกับการช่วยเหลือผู้ตกทุกข์ได้ยากอยู่แล้วล่ะสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Tales of good deeds are quick to spread. The adventurer who comes to the aid of the local populace can go from stranger to hero o'ernight.",
+      "text_th": "เรื่องเล่าเกี่ยวกับการทำความดีมันแพร่ไปเร็วนะ นักผจญภัยที่ยื่นมือเข้าช่วยเหลือชาวบ้าน สามารถเปลี่ยนจากคนแปลกหน้ากลายเป็นวีรบุรุษได้ในชั่วข้ามคืนเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "No doubt you see what I'm getting at. The sylphs who make their home in Little Solace do so having been driven from their woodland home. Surely, they have their fair share of troubles.",
+      "text_th": "เจ้าคงรู้ใช่ไหมว่าข้าหมายถึงอะไร พวกซิลฟ์ที่ตั้งรกรากอยู่ใน Little Solace น่ะ พวกเขาต้องหนีตายมาจากบ้านในป่าของตัวเอง แน่นอนว่าพวกเขาคงมีปัญหาให้กังวลใจอยู่ไม่น้อยเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Seek out troubled sylphs, and see what might be done to ease their worries. A sound plan, would you not say?",
+      "text_th": "ลองไปตามหาพวกซิลฟ์ที่มีปัญหาดูสิ แล้วดูว่าจะพอทำอะไรเพื่อแบ่งเบาความกังวลของพวกเขาได้บ้าง เป็นแผนที่ดีเลยใช่ไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "That said, the sylphs are not known to share their worries with outsiders. You would be better off inquiring with Hearer Imedia; of the Gridanians who reside here, she is most like to be privy to the sylphs' troubles.",
+      "text_th": "อย่างที่ว่าไปแล้ว พวกซิลฟ์ไม่ค่อยชอบเล่าปัญหาของตัวเองให้คนนอกฟังหรอก เจ้าควรจะไปถาม Hearer Imedia ดูก่อนนะ ในบรรดาชาวกริดาเนียที่อาศัยอยู่ที่นี่ นางน่าจะเป็นคนที่รู้เรื่องปัญหาของพวกซิลฟ์ดีที่สุดแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Imedia",
+      "text_en": "Praise be to the elementals─I cannot express how happy I am to see an adventurer with a truly gentle heart. The sylphs of Little Solace are sorely in need of aid. Pray hear me out.",
+      "text_th": "ขอสรรเสริญเหล่าภูตผีธาตุ─ข้าไม่รู้จะอธิบายยังไงว่าข้าดีใจแค่ไหนที่ได้เจอนักผจญภัยที่มีจิตใจดีงามอย่างเจ้า พวกซิลฟ์ที่ Little Solace กำลังต้องการความช่วยเหลืออย่างมาก ได้โปรดฟังข้าหน่อยเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Imedia",
+      "text_en": "Being a temporary settlement, Little Solace wants for amenities, not least a stout set of defenses. Consequently, beasts from malms around are free to wander in and terrorize the hapless residents.",
+      "text_th": "ด้วยความที่เป็นแค่ที่ตั้งถิ่นฐานชั่วคราว Little Solace ก็เลยขาดแคลนสิ่งอำนวยความสะดวกหลายอย่าง โดยเฉพาะอย่างยิ่งแนวป้องกันที่แข็งแรง ผลก็คือ พวกสัตว์ร้ายจากระยะหลายไมล์รอบๆ ก็เลยสามารถเดินเข้ามาเพ่นพ่านและสร้างความหวาดกลัวให้กับผู้อยู่อาศัยที่น่าสงสารได้อย่างอิสระ",
+      "status": "AI"
+    },
+    {
+      "character": "Imedia",
+      "text_en": "The ziz gorlins and gall gnats that roam these parts are especially troublesome, but slaying one of each should serve as a warning to the rest.",
+      "text_th": "พวก ziz gorlins กับ gall gnats ที่เดินป้วนเปี้ยนอยู่แถวนี้น่ะ สร้างปัญหาให้มากที่สุดเลย แต่ถ้าเจ้าจัดการมันได้สักชนิดละตัว ก็น่าจะเป็นการส่งสัญญาณเตือนพวกที่เหลือได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Imedia",
+      "text_en": "Furthermore, perhaps you could gather three brownie brushes as well. They play an important role in sylphic culture─I do not claim to know the details─and what with such feral beasts prowling the forests, they are not easily come by.",
+      "text_th": "นอกจากนี้ เจ้ารบกวนช่วยหา brownie brushes มาให้สักสามอันด้วยได้ไหม? มันมีความสำคัญในวัฒนธรรมของพวกซิลฟ์นะ─ข้าก็ไม่รู้รายละเอียดหรอกนะ─และด้วยความที่มีสัตว์ร้ายป้วนเปี้ยนอยู่ในป่าเต็มไปหมดแบบนี้ ของพวกนี้มันก็เลยไม่ได้หามาง่ายๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Imedia",
+      "text_en": "When you are done with the deeds, seek out Komuxio. He is slow to warm to outsiders, but your good intentions will not be lost on him. My own experience speaks to this",
+      "text_th": "เมื่อเจ้าทำภารกิจเสร็จแล้ว ให้ไปหา Komuxio นะ เขาเป็นคนที่ไม่ค่อยเปิดรับคนนอกเท่าไหร่ แต่ความตั้งใจดีของเจ้าจะต้องส่งไปถึงเขาแน่ๆ ประสบการณ์ของข้ามันบอกแบบนั้นน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Dancing one is still here? Dancing one can dance all day / night —this one's trust is not so easily earned.",
+      "text_th": "คนเต้นรำยังอยู่ที่นี่อีกเหรอ? คนเต้นรำจะเต้นทั้งวัน / คืน เลยก็ได้นะ—แต่ความไว้ใจของเราไม่ได้ได้มาง่ายๆ หรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Hm? Dancing one brings brownie brushes for this one? This one can dye thread once more. This one is pleased.",
+      "text_th": "หืม? คนเต้นรำเอา brownie brushes มาให้เราเหรอ? เราจะได้ย้อมด้ายได้อีกแล้ว เราดีใจมากเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Dancing one kills bitey, buzzy one? This one hates, hates, hates bitey, buzzy ones! Dancing one is kind... Too kind.",
+      "text_th": "คนเต้นรำไปจัดการไอ้พวกชอบกัดชอบส่งเสียงหึ่งๆ ด้วยเหรอ? เราเกลียด เกลียด เกลียด ไอ้พวกชอบกัดชอบส่งเสียงหึ่งๆ มากเลย! คนเต้นรำใจดีจังเลย... ใจดีเกินไปแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Many walking ones come to these ones' abode, but few are friendly like dancing one. Perhaps this one was wrong not to trust dancing one, after all.",
+      "text_th": "มีคนเดินดินตั้งเยอะแยะมาที่บ้านของเรา แต่มีน้อยคนนักที่จะเป็นมิตรเหมือนคนเต้นรำ บางทีเราอาจจะคิดผิดที่ไม่ไว้ใจคนเต้นรำตั้งแต่แรกก็ได้นะ",
+      "status": "AI"
+    }
+  ]
+}

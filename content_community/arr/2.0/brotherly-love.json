@@ -1,0 +1,236 @@
+{
+  "id": "brotherly-love",
+  "wiki_path": "/wiki/Brotherly_Love",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/19/Brotherly_Love_Image.png",
+  "patch": "2.0",
+  "title_en": "Brotherly Love",
+  "title_th": "ความรักฉันพี่น้อง",
+  "title_status": "AI",
+  "level": "22",
+  "location": "East Shroud(X:21.9,Y:25.6)",
+  "npc_start": "Komuxio",
+  "dialogues": [
+    {
+      "character": "Komuxio",
+      "text_en": "Helpful one arrives at a good time! This one needs helpful one's help!",
+      "text_th": "คนใจดีมาได้จังหวะพอดีเลย! เราต้องการความช่วยเหลือจากคนใจดีนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "One of these ones named Claxio ventured outside Little Solace alone. Alone is unsafe! Helpful one must find Claxio!",
+      "text_th": "เพื่อนของเราคนนึงชื่อ Claxio ออกไปข้างนอก Little Solace คนเดียว อยู่คนเดียวมันอันตรายนะ! คนใจดีต้องไปตามหา Claxio นะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Claxio struck west after leaving the settlement. Hurry before Claxio ends up in the belly of a beastly one!",
+      "text_th": "Claxio มุ่งหน้าไปทางตะวันตกหลังจากออกจากหมู่บ้าน รีบไปเถอะ ก่อนที่ Claxio จะกลายเป็นอาหารของสัตว์ร้าย!",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "What? Walking one wants this one to return to Little Solace? Don't make this one laugh!",
+      "text_th": "อะไรนะ? คนเดินดินอยากให้เรากลับไปที่ Little Solace งั้นเหรอ? อย่ามาทำให้เราขำหน่อยเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "This one is weary of living with those who are not these ones. This one wants to be alone.",
+      "text_th": "เราเบื่อที่ต้องอยู่กับพวกที่ไม่ใช่พวกเราแล้ว เราอยากอยู่คนเดียว",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "These ones rely on walking ones for everything. No better than those ones that summoned a primal one! Small wonder this one chose to leave!",
+      "text_th": "พวกเราพึ่งพาพวกคนเดินดินทุกอย่างเลย แย่พอกับพวกที่อัญเชิญไพรมอลนั่นแหละ! ไม่แปลกใจเลยที่ทำไมเราถึงเลือกที่จะออกมา!",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "This one thought this a likely place to build a home. But then meddling one arrives─forces this one to go deeper into the forest. Meddling one is forbidden from following this one! Away with meddling one!",
+      "text_th": "เราอุตส่าห์คิดว่าตรงนี้น่าจะสร้างบ้านได้แล้วเชียว แต่แล้วคนขี้จุ้นก็โผล่มา─บังคับให้เราต้องเข้าไปในป่าลึกกว่าเดิม คนขี้จุ้นห้ามตามเรามานะ! ไปให้พ้นเลยคนขี้จุ้น!",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "What? Claxio refused to return to these ones, and went deeper into the forest!?",
+      "text_th": "อะไรนะ? Claxio ไม่ยอมกลับมาหาพวกเรา แถมยังเข้าไปในป่าลึกกว่าเดิมอีกเหรอ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "B-But this one saw touched ones lurking in the forest! Helpful one must hurry─hurry and find Claxio!",
+      "text_th": "ต-แต่ว่าเราเห็นพวกผู้ถูกสัมผัสป้วนเปี้ยนอยู่ในป่านะ! คนใจดีต้องรีบไป─รีบไปตามหา Claxio เร็ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Helpful one should search for spools of thread on the forest floor. Those things will lead helpful one to Claxio. But hurry! Hurry, before touched ones take Claxio away!",
+      "text_th": "คนใจดีลองหาหลอดด้ายบนพื้นป่าดูสิ ของพวกนั้นจะนำทางคนใจดีไปหา Claxio ได้ แต่รีบหน่อยนะ! รีบไปก่อนที่พวกผู้ถูกสัมผัสจะจับตัว Claxio ไป!",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "Meddling one is back!? This one told meddling one to be gone! Tell Komuxio that this one will never go back! Never !",
+      "text_th": "คนขี้จุ้นกลับมาอีกแล้วเหรอ!? เราบอกให้คนขี้จุ้นไปให้พ้นไง! ไปบอก Komuxio เลยนะว่าเราจะไม่มีวันกลับไปเด็ดขาด! ไม่มีวัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "T-Touched ones? Touched ones should go away too! This one is good one! Every one should just leave this one alone!!!",
+      "text_th": "พ-พวกผู้ถูกสัมผัสเหรอ? พวกผู้ถูกสัมผัสก็ควรจะไปให้พ้นเหมือนกัน! เราเป็นคนดีนะ! ทุกคนควรจะปล่อยเราไว้คนเดียว!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Be on guard, Forename . These sylphs have been tempered―brought under the thrall of the primal Ramuh.",
+      "text_th": "ระวังตัวด้วยนะ [ชื่อ] ซิลฟ์พวกนี้ถูกครอบงำ─ตกเป็นทาสของไพรมอล Ramuh ไปแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Akin to the Amalj'aa tempered by Ifrit, these sylphs exist only to serve their deity.",
+      "text_th": "ก็เหมือนกับพวก Amalj'aa ที่ถูก Ifrit ครอบงำนั่นแหละ ซิลฟ์พวกนี้อยู่เพื่อรับใช้เทพของพวกมันเท่านั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "They'll not answer to words―only steel. I take no pleasure in this, but it must be done.",
+      "text_th": "พวกมันไม่ฟังคำพูดหรอก―ต้องใช้คมดาบเท่านั้น ฉันไม่ได้อยากทำแบบนี้เลยนะ แต่มันจำเป็น",
+      "status": "AI"
+    },
+    {
+      "character": "Sylvan Budnapper",
+      "text_en": "Claxio... These ones are your friends... Come with these ones... Serve primal one together...",
+      "text_th": "Claxio... พวกเราคือเพื่อนของเธอนะ... มากับพวกเราสิ... มารับใช้ท่านไพรมอลด้วยกันเถอะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "No! This one is good one! Will never go with bad ones!",
+      "text_th": "ไม่เอา! เราเป็นคนดี! เราไม่มีวันไปกับพวกคนเลวหรอก!",
+      "status": "AI"
+    },
+    {
+      "character": "Sylvan Budnapper",
+      "text_en": "Meddling one not smart to anger this one... This one has many friends in the forest...",
+      "text_th": "คนขี้จุ้นไม่ฉลาดเลยนะที่ทำให้เราโกรธ... เรามีเพื่อนอยู่ในป่านี้เยอะแยะเลยนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Hurry up, Papalymo―I can't bear this stench any longer!",
+      "text_th": "เร็วเข้า Papalymo―ฉันทนกลิ่นเหม็นนี่ไม่ไหวแล้วนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "I'm doing the best I can! If we dispatch the sylphs, surely...",
+      "text_th": "ฉันก็ทำดีที่สุดแล้วนี่ไง! ถ้าเราจัดการพวกซิลฟ์ได้ แน่นอนว่า...",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "A morbol!? And things were going so well...",
+      "text_th": "มอร์โบลเหรอ!? ทุกอย่างกำลังไปได้สวยแท้ๆ...",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "N-No...not stinky one! Stinky one is scary! Stinky one's stink makes this one's head go spinning!",
+      "text_th": "ม-ไม่นะ... ไม่เอาตัวเหม็น! ตัวเหม็นน่ากลัว! กลิ่นเหม็นของมันทำให้หัวเราหมุนไปหมดแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "There's something not right about this morbol. Ignore it and focus your attacks on the sylphs!",
+      "text_th": "มอร์โบลตัวนี้มีอะไรแปลกๆ แฮะ ปล่อยมันไว้ก่อนแล้วพุ่งเป้าไปที่พวกซิลฟ์เลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Ick! Forename ―Papalymo and I can handle this beast. You take care of the sylphs!",
+      "text_th": "อี๋! [ชื่อ] ―ฉันกับ Papalymo จะจัดการสัตว์ประหลาดนี่เอง เธอไปจัดการพวกซิลฟ์นะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "Th-This one is...safe? This one was so scared...",
+      "text_th": "ร-เราปลอดภัย... แล้วเหรอ? เรากลัวมากเลย...",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Claxio! This one has been worried! So very worried! Is Claxio unharmed? Still in possession of wits?",
+      "text_th": "Claxio! เราเป็นห่วงมากเลยนะ! เป็นห่วงมากๆ! Claxio ไม่เป็นไรใช่ไหม? ยังมีสติครบถ้วนดีหรือเปล่า?",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "K-Komuxio? And meddling one as well... Why are these two here?",
+      "text_th": "K-Komuxio? แล้วก็คนขี้จุ้นด้วย... ทำไมสองคนนี้ถึงมาอยู่ที่นี่ล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "These two came to rescue Claxio! That Claxio is safe fills this one with joy!",
+      "text_th": "พวกเรามาช่วย Claxio ไง! เห็น Claxio ปลอดภัยเราก็ดีใจมากเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "Komuxio...forgive this one. This one did not mean to run away from Little Solace. This one was just...afraid.",
+      "text_th": "Komuxio... ยกโทษให้เราด้วยนะ เราไม่ได้ตั้งใจจะหนีออกมาจาก Little Solace หรอก เราแค่... กลัวน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "These ones who live at Little Solace were changing─becoming friendly with other ones.",
+      "text_th": "พวกเราที่อาศัยอยู่ใน Little Solace กำลังเปลี่ยนไป─กลายเป็นเพื่อนกับคนอื่น",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "This one feared that these ones were forgetting who these ones are...like touched ones did. But this one was wrong. This one can see that now.",
+      "text_th": "เรากลัวว่าพวกเราจะลืมตัวตนที่แท้จริงไป... เหมือนกับที่พวกผู้ถูกสัมผัสเป็น แต่เราคิดผิด เราเข้าใจแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Claxio",
+      "text_en": "Meddling─er, helpful one. This one is grateful. This one will return to Little Solace to be with Komuxio and friendly ones.",
+      "text_th": "คนขี้จุ้น─เอ่อ คนใจดี เราขอขอบคุณมากนะ เราจะกลับไปที่ Little Solace ไปอยู่กับ Komuxio แล้วก็เพื่อนๆ ที่เป็นมิตรนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Well, that should see to that. What say we return to Little Solace as well? I, for one, could do with a nice, hot bath.",
+      "text_th": "เอาล่ะ เท่านี้ก็น่าจะเรียบร้อยแล้ว เรากลับไปที่ Little Solace กันเถอะ ดีไหม? ส่วนฉันล่ะก็ อยากจะแช่น้ำร้อนสบายๆ สักหน่อยแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one thought Claxio was lost forever. Helpful one saved Claxio―now these ones can be family again.",
+      "text_th": "เรานึกว่าเสีย Claxio ไปตลอดกาลซะแล้ว คนใจดีช่วย Claxio ไว้―ตอนนี้พวกเราก็กลับมาเป็นครอบครัวกันได้เหมือนเดิมแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one has known many walking ones―even many kind walking ones―but helpful one is kindest and strongest of all. Helpful one is a hero to these ones.",
+      "text_th": "เรารู้จักพวกคนเดินดินมาเยอะแยะ―คนเดินดินใจดีก็มีเยอะนะ―แต่คนใจดีคนนี้ทั้งใจดีที่สุดและแข็งแกร่งที่สุดเลย คนใจดีคือฮีโร่ของพวกเราเลยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Helpful one will bring these ones and walking ones closer together―this one knows. This one would take helpful one to see elder one.",
+      "text_th": "คนใจดีจะทำให้พวกเรากับพวกคนเดินดินใกล้ชิดกันมากขึ้น―เรารู้เลยล่ะ เดี๋ยวเราจะพาคนใจดีไปพบท่านผู้อาวุโสนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "But elder one is... Elder one is...",
+      "text_th": "แต่ท่านผู้อาวุโสคือ... ท่านผู้อาวุโสคือ...",
+      "status": "AI"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "he-who-waited-behind",
+  "wiki_path": "/wiki/He_Who_Waited_Behind",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "He Who Waited Behind",
+  "title_th": "ผู้เฝ้ารออยู่เบื้องหลัง",
+  "title_status": "AI",
+  "level": "36",
+  "location": "Eastern Thanalan(X:11.2,Y:21.3)",
+  "npc_start": "Iliud",
+  "dialogues": [
+    {
+      "character": "Iliud",
+      "text_en": "What a curious twist of fate that Master Cid Garlond would at last be found within our church. It defies imagination...",
+      "text_th": "ช่างเป็นเรื่องบังเอิญที่แปลกประหลาดเสียนี่กระไร ที่ในที่สุดเราก็พบท่าน Cid Garlond ในโบสถ์ของเรา มันเหลือเชื่อจริงๆ ...",
+      "status": "AI"
+    },
+    {
+      "character": "Iliud",
+      "text_en": "Beg your pardon, Forename . You wish to find his airship, yes?",
+      "text_th": "ขออภัยนะ [ชื่อ] เจ้ามาตามหาเรือเหาะของเขาใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Iliud",
+      "text_en": "I know not how much truth there is to it, but there is a tale known as, “The Final Flight of the Enterprise ,” which grew popular in the wake of the Calamity─much like “The Great Goobbue Wall of Ul'dah.” It states that the Enterprise flew northwest from Gridania towards Coerthas.",
+      "text_th": "ข้าไม่รู้หรอกนะว่ามันมีความจริงอยู่มากน้อยแค่ไหน แต่มีเรื่องเล่าที่ชื่อว่า “เที่ยวบินสุดท้ายของ Enterprise” ซึ่งโด่งดังมากหลังจากเหตุการณ์ Calamity─คล้ายๆ กับเรื่อง “กำแพง Goobbue ผู้ยิ่งใหญ่แห่ง Ul'dah” นั่นแหละ เรื่องเล่าบอกว่า Enterprise บินขึ้นไปทางตะวันตกเฉียงเหนือจาก Gridania มุ่งหน้าไปทาง Coerthas",
+      "status": "AI"
+    },
+    {
+      "character": "Iliud",
+      "text_en": "If true, the airship would have passed through the North Shroud, likely over Fallgourd Float─the closest settlement to Coerthas. Mayhap the Serpents stationed there have records of the events that transpired that day.",
+      "text_th": "ถ้าเป็นเรื่องจริง เรือเหาะลำนั้นก็น่าจะบินผ่าน North Shroud น่าจะเหนือ Fallgourd Float─ซึ่งเป็นหมู่บ้านที่ใกล้ Coerthas ที่สุด บางทีพวก Serpent ที่ประจำการอยู่ที่นั่นอาจจะมีบันทึกเหตุการณ์ที่เกิดขึ้นในวันนั้นก็ได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Iliud",
+      "text_en": "I had hoped you might rest from your journeys for a time, but I see that the world still has need of you and the Scions. Pray look after yourself and Cid, Forename .",
+      "text_th": "ข้าหวังว่าเจ้าจะได้พักผ่อนจากการเดินทางสักระยะ แต่ข้าก็เห็นว่าโลกใบนี้ยังคงต้องการเจ้าและเหล่า Scions อยู่ ดูแลตัวเองกับ Cid ด้วยนะ [ชื่อ]",
+      "status": "AI"
+    },
+    {
+      "character": "Iliud",
+      "text_en": "You and Cid shall ever be in my thoughts, Forename . Return whenever you require respite.",
+      "text_th": "ข้าจะระลึกถึงเจ้ากับ Cid เสมอนะ [ชื่อ] แวะมาได้ทุกเมื่อที่เจ้าต้องการพักผ่อนล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Whilst you were catering to the Company of Buffoons' every whim, I was gathering information on our feathered foe. As a result, I was not present when the Garleans came.",
+      "text_th": "ในขณะที่เธอกำลังวุ่นวายทำตามคำขอของพวกลิ่วล้อ Company of Heroes อยู่นั่น ฉันก็ไปรวบรวมข้อมูลเกี่ยวกับศัตรูมีปีกของเรามา ก็เลยไม่ได้อยู่ที่นั่นตอนที่พวก Garlean บุกมาน่ะสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I suppose we should be grateful for our good fortune—though it matters little should Garuda grow powerful enough to bring Eorzea to heel.",
+      "text_th": "ฉันคิดว่าเราควรจะขอบคุณความโชคดีของเรานะ—ถึงแม้มันจะไม่สำคัญเท่าไหร่ถ้า Garuda แข็งแกร่งพอที่จะทำให้ Eorzea ต้องสยบแทบเท้าได้",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "The Enterprise ... I...I have heard that name before, but where?",
+      "text_th": "Enterprise... ฉัน... ฉันเคยได้ยินชื่อนี้มาก่อน แต่ที่ไหนล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "Is there aught I can assist you with, sir / miss ?",
+      "text_th": "มีอะไรให้ข้าช่วยไหม คุณผู้ชาย / คุณผู้หญิง ?",
+      "status": "AI"
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "The Enterprise ? You speak of Master Garlond's ship, yes?",
+      "text_th": "Enterprise งั้นรึ? เจ้าหมายถึงเรือของท่าน Garlond ใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "Aye, I needn't refer to the records. I know that the airship was sighted overhead five years ago, clearly bound for Coerthas. What became of it after that I cannot say.",
+      "text_th": "ใช่แล้ว ข้าไม่ต้องไปเปิดดูบันทึกหรอก ข้ารู้ว่ามีคนเห็นเรือเหาะลำนั้นบินผ่านไปเมื่อห้าปีก่อน มุ่งหน้าไปทาง Coerthas ชัดเจนเลย แต่หลังจากนั้นมันไปไหนต่อ ข้าก็บอกไม่ได้เหมือนกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "If you wish to know more, pray speak with Vortefaurt at Florentel's Spire. He was on duty that day and saw it with his own eyes.",
+      "text_th": "ถ้าเจ้าอยากรู้เพิ่มเติม ลองไปคุยกับ Vortefaurt ที่ Florentel's Spire ดูสิ เขาเข้าเวรในวันนั้นและเห็นมันด้วยตาตัวเองเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Aethelmaer",
+      "text_en": "I am unsure what it is you hope to accomplish, though. Even should you locate the ship, would you not need a man of Master Garlond's caliber to fly it? I hear tell that the machinery is fiendishly complex...",
+      "text_th": "แต่ข้าไม่ค่อยแน่ใจหรอกนะว่าเจ้าคาดหวังอะไรอยู่ ต่อให้เจ้าหาเรือลำนั้นเจอ เจ้าก็ยังต้องพึ่งคนเก่งๆ ระดับท่าน Garlond มาขับมันอยู่ดีไม่ใช่เหรอ? ข้าได้ยินมาว่าเครื่องจักรมันซับซ้อนมากเลยนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Vortefaurt",
+      "text_en": "You have come in search of Vortefaurt? Then well met, for you have found him.",
+      "text_th": "เจ้ามาตามหา Vortefaurt งั้นรึ? ยินดีที่ได้รู้จักนะ เพราะเจ้าเจอตัวเขาแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Vortefaurt",
+      "text_en": "Indeed, I have served as a Wailer for many years, since before the great snows came to Coerthas. What exactly is this about?",
+      "text_th": "ใช่แล้ว ข้าเป็น Wailer มาหลายปีแล้ว ตั้งแต่ก่อนที่หิมะจะตกหนักใน Coerthas ซะอีก ว่าแต่มีเรื่องอะไรล่ะเนี่ย?",
+      "status": "AI"
+    },
+    {
+      "character": "Vortefaurt",
+      "text_en": "Ahhh, the final flight of the Enterprise . I do indeed remember that day...",
+      "text_th": "อ้อ เที่ยวบินสุดท้ายของ Enterprise ข้าจำวันนั้นได้ดีเลยล่ะ...",
+      "status": "AI"
+    }
+  ]
+}

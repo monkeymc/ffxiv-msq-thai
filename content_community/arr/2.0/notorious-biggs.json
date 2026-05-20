@@ -1,0 +1,368 @@
+{
+  "id": "notorious-biggs",
+  "wiki_path": "/wiki/Notorious_Biggs",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/35/Notorious_Biggs_Image.png",
+  "patch": "2.0",
+  "title_en": "Notorious Biggs",
+  "title_th": "Biggs จอมวายร้าย",
+  "title_status": "AI",
+  "level": "44",
+  "location": "Coerthas Central Highlands(X:7.4,Y:28.9)",
+  "npc_start": "Wedge",
+  "dialogues": [
+    {
+      "character": "Wedge",
+      "text_en": "We can't give up, Forename ! We must find Biggs before he succumbs to the cold or is recaptured!",
+      "text_th": "เรายอมแพ้ไม่ได้นะ [ชื่อ] ! เราต้องหา Biggs ให้เจอก่อนที่เขาจะทนความหนาวไม่ไหว หรือไม่ก็ถูกจับไปอีกรอบ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "There must be someone in this tower who can help us, even if it's only to tell us where else to look!",
+      "text_th": "มันต้องมีใครสักคนในหอคอยนี้ที่ช่วยเราได้สิ ถึงจะแค่บอกใบ้ว่าควรจะไปหาที่ไหนต่อก็ยังดี!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Ask them for me! Ask anyone who'll listen! And hurry ! Biggs's chances of survival grow slimmer by the moment!",
+      "text_th": "ถามพวกเขาให้ผมหน่อยสิ! ถามใครก็ได้ที่ยอมฟังเรา! แล้วก็ รีบ หน่อยนะ! โอกาสรอดของ Biggs ริบหรี่ลงทุกวินาทีแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Ignace",
+      "text_en": "Your friend is lost in the wilderness, you say?",
+      "text_th": "เพื่อนของเจ้าหลงทางอยู่ในป่ารกร้างงั้นรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Ignace",
+      "text_en": "If he's not to be found around here or in the vicinity of the Darkhold, it is possible he made for Whitebrim.",
+      "text_th": "ถ้าหาไม่เจอแถวนี้ หรือแถวๆ Darkhold ล่ะก็ เป็นไปได้ว่าเขาอาจจะมุ่งหน้าไปทาง Whitebrim ก็ได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Ignace",
+      "text_en": "To reach it, one must travel through Daniffen Pass, the southern end of which lies to the north and east of here.",
+      "text_th": "ถ้าจะไปที่นั่น ก็ต้องเดินทางผ่าน Daniffen Pass ซึ่งปลายทางด้านใต้ของช่องเขานั้นอยู่ทางทิศตะวันออกเฉียงเหนือจากที่นี่น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Ignace",
+      "text_en": "While I make no guarantee that your search will bear fruit, it is surely better than worrying in idleness. I wish you luck.",
+      "text_th": "ถึงข้าจะไม่รับประกันหรอกนะว่าการค้นหาของเจ้าจะประสบผลสำเร็จ แต่มันก็ดีกว่านั่งกังวลอยู่เฉยๆ ล่ะนะ ขอให้เจ้าโชคดีก็แล้วกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Ignace",
+      "text_en": "...Oh, and one more thing. Do tread warily when climbing the stairs here. Not a moon ago, I near broke my neck when I slipped and took a tumble.",
+      "text_th": "...อ้อ แล้วก็อีกอย่างนึง เวลาขึ้นบันไดที่นี่ก็ระวังๆ หน่อยล่ะ เมื่อเดือนก่อนข้าเกือบจะคอหักตายเพราะลื่นตกบันไดซะแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Forename ! We've found Biggs, but he's in trouble!",
+      "text_th": "[ชื่อ] ! เราเจอ Biggs แล้วนะ แต่เขากำลังแย่เลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "Our orders are to take you back, dead or alive ! Which will it be, Engineer?",
+      "text_th": "คำสั่งของเราคือพาแกกลับไป ไม่ว่าจะเป็น หรือ ตาย ! จะเอาแบบไหนล่ะ ไอ้ช่างเครื่อง?",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Why don't you come and find out, tin-head!?",
+      "text_th": "ทำไมแกไม่เข้ามาดูเองเลยล่ะ ไอ้กระป๋อง!?",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ah, Forename , it is well that you are here. The situation is grave.",
+      "text_th": "อา [ชื่อ] ดีแล้วล่ะที่เจ้ามา สถานการณ์กำลังตึงเครียดเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Biggs is in a bad way! We need to do something, right now !",
+      "text_th": "Biggs อาการแย่มากเลย! เราต้องทำอะไรสักอย่างเดี๋ยวนี้เลย !",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yda has the right of it. He will perish if we delay.",
+      "text_th": "Yda พูดถูกแล้วล่ะ เขาคงตายแน่ถ้าเรามัวแต่ชักช้า",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "With me!",
+      "text_th": "ตามข้ามา!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "He's not alone! Kill them all!",
+      "text_th": "มันไม่ได้มาคนเดียว! ฆ่าพวกมันให้หมด!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "H-How did you know where to find me?",
+      "text_th": "พ-พวกคุณรู้ได้ยังไงว่าผมอยู่ที่นี่?",
+      "status": "AI"
+    },
+    {
+      "character": "5th Cohort Decurion",
+      "text_en": "Hold your ground! Reinforcements are coming!",
+      "text_th": "ยันไว้ก่อน! กำลังเสริมกำลังมาแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "The more the merrier! I'll pound you all into the next Umbral Era!",
+      "text_th": "ยิ่งเยอะยิ่งสนุก! ฉันจะอัดพวกแกให้กระเด็นไปยุค Umbral Era หน้าเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "5th Cohort Decurion",
+      "text_en": "Vanguards, destroy them!",
+      "text_th": "Vanguard ทำลายพวกมันซะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yda! Less provoking and more pummeling, if you would be so kind!",
+      "text_th": "Yda! เลิกยั่วยุแล้วหันมาอัดพวกมันดีกว่านะ จะกรุณามากเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Forename ! Stay close to Biggs!",
+      "text_th": "[ชื่อ] ! อยู่ใกล้ๆ Biggs ไว้นะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Ack! How many of them are there!?",
+      "text_th": "ว้าย! พวกมันมีกี่ตัวกันเนี่ย!?",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...More than are conducive to merriment. ...Next time, Yda, have a care what you wish for.",
+      "text_th": "...เยอะเกินกว่าจะเรียกว่าสนุกแล้วล่ะ ...คราวหน้าคราวหลัง หวังอะไรก็ระวังปากไว้บ้างนะ Yda",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "This is the last of them!",
+      "text_th": "พวกมันหมดแล้วล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I cannot...go on...",
+      "text_th": "ข้า... ไม่ไหวแล้ว...",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "I need to rest...just for a little...while...",
+      "text_th": "ฉันอยากพักจัง... แค่แป๊บเดียว... ก็ยังดี...",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Ungh... Not here...not now...",
+      "text_th": "อึก... ไม่ใช่ที่นี่... ไม่ใช่ตอนนี้...",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "<pant> M-My thanks... <pant> Another m-moment, and...I-I would have... <grunt>",
+      "text_th": "<หอบ> ข-ขอบคุณมากนะ... <หอบ> ถ้าช้ากว่านี้อีกนิด ผม... ผ-ผมคงแย่... <คราง>",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He has been too long in the cold. We must find shelter for him.",
+      "text_th": "เขาตากความหนาวมานานเกินไปแล้วล่ะ เราต้องหาที่กำบังให้เขา",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...Monument Tower, you say? Very well, Yda and I shall bear him there with all haste.",
+      "text_th": "...Monument Tower งั้นเรอะ? เอาล่ะ ข้ากับ Yda จะรีบพาเขาไปที่นั่นเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Cid will be so happy to see Biggs and Wedge again! Awww, I love reunions!",
+      "text_th": "Cid คงดีใจแย่เลยที่ได้เจอ Biggs กับ Wedge อีกครั้ง! อ๊าาา ฉันชอบงานเลี้ยงรุ่นที่สุดเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I cannot thank you enough, Forename ─and the same goes for the rest of you! Thank you all so much!",
+      "text_th": "ผมไม่รู้จะขอบคุณคุณยังไงดีเลย [ชื่อ] ─รวมถึงพวกคุณทุกคนด้วยนะ! ขอบคุณทุกคนมากๆ เลยครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Oh, don't mention it!",
+      "text_th": "โธ่เอ๊ย ไม่ต้องเกรงใจหรอกน่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We are a family, are we not?",
+      "text_th": "พวกเราคือครอบครัวไม่ใช่รึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Well...well, yes. It's just─ <sniff> It's just, I didn't think─ <sniff> I didn't think I'd ever see him again. <sob>",
+      "text_th": "ก็... ก็ใช่นะครับ แต่ว่า─ <สูดน้ำมูก> แต่ว่า ผมแค่ไม่ได้คิดว่า─ <สูดน้ำมูก> ผมไม่ได้คิดเลยว่าจะได้เจอเขาอีก <สะอื้น>",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "I owe the lot of you my life.",
+      "text_th": "ผมติดหนี้ชีวิตพวกคุณทุกคนเลยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "And you saved Wedge's too, Forename . I'm losing count of how many I owe you.",
+      "text_th": "แล้วคุณก็ช่วยชีวิต Wedge ไว้ด้วยนะ [ชื่อ] ผมเริ่มจะนับไม่ถ้วนแล้วนะเนี่ยว่าติดหนี้คุณไปกี่ครั้งแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Biggs! Wedge! Gods, it's good to see the two of you again!",
+      "text_th": "Biggs! Wedge! พระเจ้า ดีใจจริงๆ ที่ได้เจอพวกนายสองคนอีก!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Chief! It's you! It's really you!",
+      "text_th": "ลูกพี่! ลูกพี่จริงๆ ด้วย! เป็นลูกพี่จริงๆ ด้วย!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "In our hearts, we knew you were still alive... But to finally see you in the flesh... <sniff>",
+      "text_th": "ลึกๆ แล้วพวกเรารู้ว่าลูกพี่ยังมีชีวิตอยู่... แต่พอได้เห็นตัวเป็นๆ แบบนี้... <สูดน้ำมูก>",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "When Alphinaud told me of the raid on the Waking Sands, I feared the worst. What happened?",
+      "text_th": "ตอนที่ Alphinaud เล่าเรื่องการบุกโจมตี Waking Sands ให้ฉันฟัง ฉันก็คิดไปถึงเรื่องที่แย่ที่สุดแล้วล่ะ เกิดอะไรขึ้นงั้นรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "The enemy struck with nary a warning. We didn't stand a chance.",
+      "text_th": "พวกศัตรูบุกมาแบบไม่ทันตั้งตัวเลยครับ เราไม่มีโอกาสได้ตอบโต้เลยด้วยซ้ำ",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Wedge and I were in the workshop when they came. Before we knew what was happening, the imperials had us at gunpoint.",
+      "text_th": "ผมกับ Wedge อยู่ในโรงซ่อมตอนที่พวกมันบุกมา ก่อนที่เราจะรู้ตัว พวกจักรวรรดิก็เอาปืนจ่อหัวเราซะแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "It must have been awful... There's one thing I don't understand, though: how did the Garleans get there so fast? I mean, the Immortal Flames should have seen them coming, right?",
+      "text_th": "มันต้องแย่มากๆ แน่เลย... แต่มีเรื่องนึงที่ฉันไม่เข้าใจเลยล่ะ พวก Garlean ไปถึงที่นั่นเร็วขนาดนั้นได้ยังไง? หมายถึง Immortal Flames ก็น่าจะเห็นพวกมันกำลังมาสิ จริงไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I myself have asked the same question. That day, when I returned to the carnage at the Waking Sands, I noted naught amiss in Horizon─nothing at all to suggest the passing of an imperial force. From this, I conclude that the Garleans came neither by land nor by air. Nay, they were borne there by potent teleportation magicks─magicks of the kind used by the Ascians.",
+      "text_th": "ข้าเองก็สงสัยเรื่องเดียวกันนั่นแหละ วันนั้น ตอนที่ข้ากลับไปเห็นการสังหารหมู่ที่ Waking Sands ข้าไม่สังเกตเห็นอะไรผิดปกติที่ Horizon เลยสักนิด─ไม่มีอะไรบ่งบอกว่ามีกองทัพจักรวรรดิเคลื่อนทัพผ่านเลย จากเหตุการณ์นี้ ข้าสรุปได้ว่าพวก Garlean ไม่ได้มาทางบกหรือทางอากาศหรอก ไม่เลย พวกมันถูกส่งมาที่นั่นด้วยเวทมนตร์เคลื่อนย้ายที่ทรงพลัง─เวทมนตร์ประเภทเดียวกับที่พวก Ascian ใช้นั่นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Carry on.",
+      "text_th": "เล่าต่อสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "We were bound and blindfolded, and bundled into the cargo bay of a waiting airship.",
+      "text_th": "เราถูกมัดแล้วก็ปิดตา แล้วก็ถูกต้อนเข้าไปในห้องเก็บของของเรือเหาะที่จอดรออยู่ครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "I can't rightly say how long we were aboard, but when the time came for us to disembark, we found ourselves in the midst of an imperial stronghold─Castrum Centri.",
+      "text_th": "ผมบอกไม่ได้หรอกว่าเราอยู่บนเรือนั่นนานแค่ไหน แต่พอถึงเวลาที่ต้องลงจากเรือ เราก็พบว่าตัวเองอยู่ท่ามกลางฐานทัพของจักรวรรดิ─Castrum Centri ซะแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Upon arrival, we were marched off into the main complex. Biggs and I were thrown into a detainment cell together, while Minfilia and the others were taken elsewhere. That was the last we heard from them.",
+      "text_th": "พอไปถึง เราก็ถูกต้อนเข้าไปในอาคารหลัก ผมกับ Biggs ถูกจับขังรวมกันในห้องขัง ส่วน Minfilia กับคนอื่นๆ ถูกพาไปที่อื่น นั่นคือครั้งสุดท้ายที่เราได้ข่าวคราวจากพวกเขาล่ะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Castrum Centri...",
+      "text_th": "Castrum Centri...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "What happened next?",
+      "text_th": "แล้วเกิดอะไรขึ้นต่อล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Well, we were held in isolation for what felt like years, but was probably moons...or maybe only weeks. And then, without warning, the imperials collected the pair of us, and put us on another vessel, which we found out was bound for Garlemald, much to our dread. We knew that if we were taken back there, we weren't like to leave again.",
+      "text_th": "เอ่อ เราถูกขังเดี่ยวอยู่เป็นเวลาที่รู้สึกเหมือนเป็นปีๆ แต่จริงๆ อาจจะแค่หลายเดือน... หรือบางทีอาจจะแค่ไม่กี่สัปดาห์ก็ได้ แล้วจู่ๆ พวกจักรวรรดิก็มาจับเราสองคนไปขึ้นเรืออีกลำนึง ซึ่งเรามารู้ทีหลังว่ามันกำลังมุ่งหน้าไป Garlemald เล่นเอาเรากลัวแทบตายเลยล่ะ เรารู้ดีว่าถ้าถูกพากลับไปที่นั่น เราคงไม่มีวันได้กลับมาอีกแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "So, risky though it was, we sabotaged the ship's altitude control and thereby forced an emergency landing. And in the midst of the ensuing chaos, we managed to slip our captors. The rest, as they say, is history.",
+      "text_th": "ดังนั้น ถึงแม้ว่ามันจะเสี่ยงแค่ไหน เราก็เลยก่อวินาศกรรมระบบควบคุมระดับความสูงของเรือ เพื่อบังคับให้มันต้องลงจอดฉุกเฉิน และท่ามกลางความโกลาหลที่เกิดขึ้น เราก็สามารถหนีรอดจากผู้คุมมาได้ เรื่องหลังจากนั้นก็อย่างที่เขาว่ากันนั่นแหละครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Hah! If I didn't know better, I'd call that a likely story! Sabotaging the altitude controls of an airborne vessel!? That will have been Biggs's handiwork, like as not. You always were resourceful in a tight spot, my friend!",
+      "text_th": "ฮ่า! ถ้าฉันไม่รู้จักนายดีล่ะก็ ฉันคงบอกว่าเรื่องมันเหลือเชื่อไปหน่อยนะ! ก่อวินาศกรรมระบบควบคุมระดับความสูงของเรือที่กำลังบินอยู่เนี่ยนะ!? คงจะเป็นฝีมือของ Biggs ล่ะสิ ไม่ผิดแน่ นายมักจะเอาตัวรอดเก่งเสมอแหละ เวลาเข้าตาจนน่ะ เพื่อนเอ๋ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Forename ─thank you for returning my dear assistants to me. It would seem I owe you yet another debt of gratitude.",
+      "text_th": "[ชื่อ] ─ขอบใจมากนะที่พาผู้ช่วยที่รักของฉันกลับมา ดูเหมือนฉันจะติดหนี้บุญคุณนาย / เธอ อีกแล้วสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "There are still many questions in my mind, but the answers can wait─Minfilia and the others still want for rescue.",
+      "text_th": "ฉันยังมีคำถามอีกมากมายเลยล่ะ แต่คำตอบพวกนั้นเอาไว้ก่อนเถอะ─Minfilia กับคนอื่นๆ ยังรอให้เราไปช่วยอยู่นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "All right, you lot─Garlond Ironworks is back in business! Let's go and give the imperials what for!",
+      "text_th": "เอาล่ะ ทุกคน─Garlond Ironworks กลับมาเปิดกิจการแล้ว! ไปสั่งสอนพวกจักรวรรดิกันเถอะว่าเราเป็นใคร!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs and Wedge",
+      "text_en": "Hurrah!",
+      "text_th": "ไชโย!",
+      "status": "AI"
+    }
+  ]
+}

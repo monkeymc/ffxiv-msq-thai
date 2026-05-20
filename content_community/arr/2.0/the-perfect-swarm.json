@@ -1,0 +1,86 @@
+{
+  "id": "the-perfect-swarm",
+  "wiki_path": "/wiki/The_Perfect_Swarm",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "The Perfect Swarm",
+  "title_th": "ฝูงแมลงสุดป่วน",
+  "title_status": "AI",
+  "level": "11",
+  "location": "Western Thanalan(X:26.2,Y:18.2)",
+  "npc_start": "Drunken Stag",
+  "dialogues": [
+    {
+      "character": "Drunken Stag",
+      "text_en": "You'd like a chance to make some money, right? Then I know just how I can repay you for your kindness.",
+      "text_th": "คุณอยากได้โอกาสทำเงินบ้างใช่ไหม? งั้นฉันรู้วิธีตอบแทนความใจดีของคุณแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "Swarms of sun midges have been harassing travelers along the road connecting Horizon to here. It's gotten so bad that the Brass Blades have started paying folks to keep the roads clear.",
+      "text_th": "ฝูงแมลง sun midge กำลังก่อกวนนักเดินทางตามถนนที่เชื่อมระหว่าง Horizon กับที่นี่อยู่ มันแย่มากจนทหาร Brass Blades ต้องเริ่มจ้างคนมาช่วยเคลียร์ถนนแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "If you find it hard to believe that swarms of tiny midges could be so troublesome, then you've never seen a chocobo driven into a frenzy by one. There've already been some terrible accidents.",
+      "text_th": "ถ้าคุณคิดว่าฝูงแมลงตัวจิ๋วๆ พวกนี้ไม่น่าจะสร้างปัญหาอะไรได้ล่ะก็ คุณคงไม่เคยเห็นโจโคโบะที่โดนแมลงพวกนี้ตอมจนสติแตกสินะ มีอุบัติเหตุร้ายแรงเกิดขึ้นไปหลายครั้งแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "Do your part and slay a few swarms. After that, let Fufulupa know. He'll reward you for your trouble, and maybe even offer you more work.",
+      "text_th": "คุณช่วยไปจัดการพวกมันสักสองสามฝูงหน่อยนะ เสร็จแล้วก็ไปรายงานตัวกับ Fufulupa ล่ะ เขาจะมีรางวัลให้คุณ และอาจจะมีงานอื่นให้ทำเพิ่มด้วยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "Greetings and salutations, adventurer. To what do I owe this─ What, you've slain how many swarms of sun midges!?",
+      "text_th": "สวัสดีครับ นักผจญภัย มีธุระอะไรให้ผม─ หา คุณจัดการฝูงแมลง sun midge ไปตั้งเท่าไหร่เนี่ย!?",
+      "status": "AI"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "You have my sincerest thanks! The Brass Blades have been struggling to keep them in check, so your assistance is greatly appreciated.",
+      "text_th": "ขอบคุณมากเลยนะครับ! ทหาร Brass Blades ของเราพยายามควบคุมพวกมันอย่างหนักเลย ความช่วยเหลือของคุณมีค่ามากจริงๆ ครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "Will you be staying in Horizon long? If so, there is much and more you can do to help here.",
+      "text_th": "คุณจะพักอยู่ที่ Horizon อีกนานไหมครับ? ถ้ายังอยู่ล่ะก็ ยังมีเรื่องให้ช่วยอีกเยอะเลยล่ะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "Pray allow me to enlist your aid, brave adventurer. I would have you ascertain the whereabouts of a missive I sent to Lost Hope the other day.",
+      "text_th": "ขอให้ผมได้พึ่งพาคุณเถอะนะครับ นักผจญภัยผู้กล้าหาญ ผมอยากให้คุณช่วยตามหาจดหมายที่ผมส่งไปที่ Lost Hope เมื่อวันก่อนหน่อยน่ะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "Captain Leofric is stationed there. Ever since he was transferred, we've exchanged letters, but never before has it taken this long to receive a reply.",
+      "text_th": "กัปตัน Leofric ประจำการอยู่ที่นั่นครับ ตั้งแต่เขาถูกย้ายไป เราก็เขียนจดหมายหากันตลอด แต่ไม่เคยมีครั้งไหนเลยที่เขาจะตอบกลับมาช้าขนาดนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "And so I fear that the courier may have met with some misfortune en route.",
+      "text_th": "ผมก็เลยกลัวว่าคนส่งจดหมายอาจจะเจออุบัติเหตุระหว่างทางน่ะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "She must have made it to central Thanalan, or the Brass Blades that patrol the roads between here and Scorpion Crossing would have seen something. But, if she made it as far as Black Brush Station, she would have surely delivered the letter by now. Lost Hope is practically on its doorstep...",
+      "text_th": "เธอต้องไปถึง central Thanalan แล้วแน่ๆ เพราะไม่งั้นทหาร Brass Blades ที่ลาดตระเวนอยู่บนถนนระหว่างที่นี่กับ Scorpion Crossing ก็ต้องเห็นอะไรบ้างสิ แต่ถ้าเธอไปถึง Black Brush Station เธอก็ต้องส่งจดหมายเรียบร้อยแล้วสิ Lost Hope มันก็อยู่แค่หน้าประตูเมืองเองนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Fufulupa",
+      "text_en": "I suggest you focus your search on the road to Black Brush Station, in central Thanalan. With luck, you will find her quickly.",
+      "text_th": "ผมแนะนำให้คุณเน้นหาแถวๆ ถนนที่มุ่งหน้าไป Black Brush Station ใน central Thanalan นะครับ ถ้าโชคดี คุณน่าจะเจอเธอได้ไม่ยากหรอกครับ",
+      "status": "AI"
+    }
+  ]
+}

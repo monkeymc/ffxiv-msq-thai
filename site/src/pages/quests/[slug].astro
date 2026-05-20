@@ -39,6 +39,11 @@ const isSys = (char: string) => {
 const GENERIC_IMAGE = 'Quest_Accepted.png';
 const showBanner = quest.wiki_image_url && !quest.wiki_image_url.includes(GENERIC_IMAGE);
 const hasAnyTh = quest.dialogues.some(d => d.text_th);
+
+// Gamification stats
+const totalDialogues = quest.dialogues.length;
+const communityCount = quest.dialogues.filter(d => d.status === 'Community').length;
+const showProgress = totalDialogues > 0;
 ---
 <Layout title={quest.title_th || quest.title_en} active="toc">
   <div slot="below-header" class="progress-bar"><div class="fill" id="progFill"></div></div>
@@ -53,11 +58,14 @@ const hasAnyTh = quest.dialogues.some(d => d.text_th);
         {quest.location && <span class="pill"><span class="pl-k">Loc</span> {quest.location}</span>}
         <span class="pill"><span class="pl-k">NPC</span> {quest.npc_start}</span>
         {quest.source === 'contributor' && (
-          <span class="badge badge-contrib">
-            แปลโดยชุมชน{quest.contributor ? ` · @${quest.contributor}` : ''}
-          </span>
+          <span class="badge badge-contrib">ตรวจทานครบแล้ว</span>
         )}
-        {quest.source === 'ai'   && <span class="badge badge-ai">แปลโดย AI · รอ review</span>}
+        {quest.source === 'ai' && quest.communityPct > 0 && (
+          <span class="badge badge-ai">ตรวจทานแล้ว {quest.communityPct}%</span>
+        )}
+        {quest.source === 'ai' && quest.communityPct === 0 && (
+          <span class="badge badge-ai">แปลโดย AI · รอ review</span>
+        )}
         {quest.source === 'none' && <span class="badge badge-pending">ยังไม่แปล</span>}
       </div>
       <h1 class="qh-title-en">{quest.title_en}</h1>
@@ -72,6 +80,22 @@ const hasAnyTh = quest.dialogues.some(d => d.text_th);
         loading="lazy"
         referrerpolicy="no-referrer"
       />
+    )}
+
+    {showProgress && (
+      <div class="review-progress">
+        <div class="rp-bar">
+          <div class="rp-fill" style={`width: ${quest.communityPct}%`}></div>
+        </div>
+        <div class="rp-label">
+          {quest.communityPct === 100
+            ? <><strong>ตรวจทานครบ 100%</strong> · {totalDialogues} ประโยค</>
+            : quest.communityPct > 0
+            ? <><strong class="rp-count">{communityCount}/{totalDialogues}</strong> ประโยคที่ชุมชน review แล้ว · ช่วยกันจนครบ 100% นะ!</>
+            : <>ยังไม่มีการ review · <strong class="rp-invite">ช่วยเราตรวจทาน {totalDialogues} ประโยคนี้!</>
+          }
+        </div>
+      </div>
     )}
 
     {hasAnyTh && (
@@ -103,6 +127,12 @@ const hasAnyTh = quest.dialogues.some(d => d.text_th);
                 {line.text_th || line.text_en}
                 {line.text_th && (
                   <button class="en-btn" type="button" aria-expanded="false" aria-label="แสดง/ซ่อนต้นฉบับอังกฤษ">EN</button>
+                )}
+                {line.text_th && line.status === 'AI' && (
+                  <span class="status-tag status-tag-ai">🤖 AI</span>
+                )}
+                {line.text_th && line.status === 'Community' && (
+                  <span class="status-tag status-tag-community">👥 Community</span>
                 )}
               </p>
               {line.text_th && (

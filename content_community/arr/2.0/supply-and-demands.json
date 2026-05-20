@@ -1,0 +1,68 @@
+{
+  "id": "supply-and-demands",
+  "wiki_path": "/wiki/Supply_and_Demands",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Supply and Demands",
+  "title_th": "อุปสงค์และอุปทาน",
+  "title_status": "AI",
+  "level": "10",
+  "location": "Western Thanalan(X:22.6,Y:17.3)",
+  "npc_start": "Dadanen",
+  "dialogues": [
+    {
+      "character": "Dadanen",
+      "text_en": "It so happens that I've a situation that must be resolved posthaste─and I do mean posthaste .",
+      "text_th": "เผอิญว่าข้ามีเรื่องต้องจัดการโดยด่วนที่สุด─แล้วข้าก็หมายความว่า ด่วนที่สุด จริงๆ นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Dadanen",
+      "text_en": "I'm plumb out of premium product, and my latest order has yet to arrive! If I keep my customers waiting any longer, this could irrevocably damage my reputation!",
+      "text_th": "สินค้าชั้นยอดของข้าหมดเกลี้ยงเลย แล้วล็อตล่าสุดที่สั่งไปก็ยังมาไม่ถึงอีก! ถ้าข้าปล่อยให้ลูกค้ารอนานกว่านี้ล่ะก็ ชื่อเสียงข้าป่นปี้แน่ๆ!",
+      "status": "AI"
+    },
+    {
+      "character": "Dadanen",
+      "text_en": "What's worse, I paid my man in advance for his services. Despite his assurances that it would be a simple affair, I've heard nothing since he departed for Copperbell Mines days ago.",
+      "text_th": "ที่แย่ไปกว่านั้น ข้าจ่ายค่าจ้างล่วงหน้าให้คนของข้าไปแล้วด้วย ถึงเขาจะยืนยันนักหนาว่าเป็นงานกล้วยๆ แต่ข้าก็ไม่ได้ข่าวคราวอะไรจากเขาเลยตั้งแต่เขาออกเดินทางไป Copperbell Mines เมื่อหลายวันก่อน",
+      "status": "AI"
+    },
+    {
+      "character": "Dadanen",
+      "text_en": "Find Drunken Stag and give him this notice. I cannot afford any further delay.",
+      "text_th": "ไปตามหา Drunken Stag แล้วเอาใบแจ้งหนี้นี่ให้เขาที ข้ารอต่อไปไม่ได้อีกแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Dadanen",
+      "text_en": "What the hells am I to do with three crates of vanya silk gloves─all left-handed !? If I can't find a buyer by next moon, I'm ruined !",
+      "text_th": "แล้วข้าจะทำยังไงกับถุงมือผ้าไหม vanya ตั้งสามลังนี่ดีล่ะเนี่ย─แถมเป็น ข้างซ้าย ทั้งหมดเลยด้วยนะ!? ถ้าหาคนซื้อไม่ได้ภายในเดือนหน้า ข้าต้อง หมดตัว แน่ๆ!",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "What do you want? Hm? Dadanen's product?",
+      "text_th": "เจ้าต้องการอะไร? หืม? สินค้าของ Dadanen งั้นรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "He can send all the notices he likes, but it won't change a thing.",
+      "text_th": "เขาจะส่งใบแจ้งหนี้มาสักกี่ใบก็ส่งมาเถอะ แต่มันก็เปลี่ยนความจริงไม่ได้หรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "The Concern has closed the mines due to some incident in the depths.",
+      "text_th": "บริษัทสั่งปิดเหมืองไปแล้ว เพราะเกิดเรื่องบ้าๆ อะไรสักอย่างในนั้นน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Drunken Stag",
+      "text_en": "It's a godsdamned shame too─lost a decent haul just over yonder during all the chaos...",
+      "text_th": "น่าเสียดายชะมัดเลย─อุตส่าห์ขุดของดีๆ มาได้ตั้งเยอะแยะ ดันมาหล่นหายช่วงที่ชุลมุนกันนั่นหมดเลย...",
+      "status": "AI"
+    }
+  ]
+}

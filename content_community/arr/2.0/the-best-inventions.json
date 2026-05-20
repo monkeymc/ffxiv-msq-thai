@@ -1,0 +1,98 @@
+{
+  "id": "the-best-inventions",
+  "wiki_path": "/wiki/The_Best_Inventions",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/0e/The_Best_Inventions_Image.png",
+  "patch": "2.0",
+  "title_en": "The Best Inventions",
+  "title_th": "สิ่งประดิษฐ์ที่ดีที่สุด",
+  "title_status": "AI",
+  "level": "39",
+  "location": "Coerthas Central Highlands(X:13.1,Y:15.4)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text_en": "Might I have a word with you, Forename ? It concerns the chirurgeons. After speaking with them earlier, I learned that they lack sufficient alembics for their needs, you see...",
+      "text_th": "ข้าขอคุยอะไรด้วยหน่อยได้ไหม [ชื่อ] ? มันเป็นเรื่องเกี่ยวกับพวกหมอน่ะ หลังจากที่ได้คุยกับพวกเขาเมื่อครู่นี้ ข้าก็เพิ่งรู้ว่าพวกเขาขาดแคลนเครื่องกลั่นยา (alembic) สำหรับใช้งานอยู่น่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "So I used some of their broken equipment to craft a more advanced alembic─both as a gesture of goodwill, and as a means to help me recover my memories, since working with my hands kindles familiar feelings.",
+      "text_th": "ข้าก็เลยเอาอุปกรณ์ที่พังๆ ของพวกเขาบางส่วนมาประกอบเป็นเครื่องกลั่นที่ล้ำสมัยกว่าเดิม─ทั้งเพื่อเป็นการแสดงน้ำใจ และเพื่อช่วยให้ข้าฟื้นความทรงจำด้วยน่ะ เพราะการได้ลงมือประดิษฐ์อะไรพวกนี้ มันให้ความรู้สึกคุ้นเคยดีจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "All I require to complete the device are the cores of three ice sprites. Though commonly used to reduce the temperatures of alchemical mixtures, there is a way to alter their properties so that they draw the cold within rather than radiate it without.",
+      "text_th": "สิ่งเดียวที่ข้าต้องการเพื่อทำให้อุปกรณ์ชิ้นนี้สมบูรณ์ก็คือ แกนคริสตัลของ ice sprite สามอัน ถึงแม้มันจะถูกนำมาใช้ลดอุณหภูมิของส่วนผสมทางเล่นแร่แปรธาตุอยู่บ่อยๆ ก็เถอะ แต่มันก็มีวิธีที่จะเปลี่ยนคุณสมบัติของมันให้ดูดความเย็นเข้าไปข้างในแทนที่จะแผ่ออกมาข้างนอกได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "It must sound ridiculous to you─impossible, even. Yet somehow I know it will work.",
+      "text_th": "เจ้าคงฟังดูไร้สาระ─หรืออาจจะดูเป็นไปไม่ได้เลยด้วยซ้ำ แต่ไม่รู้ทำไมข้าถึงมั่นใจว่ามันจะต้องได้ผลแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Have you obtained the cores? If so, please show them to me.",
+      "text_th": "เจ้าได้แกนคริสตัลมาหรือยัง? ถ้าได้มาแล้ว ก็เอามาให้ข้าดูหน่อยสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Cenota",
+      "text_en": "What an amazing device! But...is it truly an alembic, sir? I've never seen its like before.",
+      "text_th": "ช่างเป็นอุปกรณ์ที่น่าทึ่งอะไรขนาดนี้! แต่...มันคือเครื่องกลั่นจริงๆ รึท่าน? ข้าไม่เคยเห็นอะไรแบบนี้มาก่อนเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Astidien",
+      "text_en": "I too am unsure what to make of this machine. While certainly impressive, I've no idea how to make use of it.",
+      "text_th": "ข้าเองก็ไม่แน่ใจว่าจะทำยังไงกับเครื่องจักรนี่เหมือนกันนะ ถึงมันจะดูน่าประทับใจก็เถอะ แต่ข้าก็ไม่รู้จะใช้มันยังไงเลยจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Cenota",
+      "text_en": "Nevertheless, if it is as effective as he claims, it will be a great boon to the infirmary! Think of the medicines we could create, the lives we could save!",
+      "text_th": "แต่อย่างไรก็ตาม ถ้ามันใช้ได้ผลดีอย่างที่เขาคุยไว้ล่ะก็ มันจะเป็นประโยชน์ต่อสถานพยาบาลของเราอย่างมหาศาลเลยล่ะ! ลองนึกถึงยาที่เราจะผลิตได้ กับชีวิตที่เราจะช่วยได้ดูสิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Astidien",
+      "text_en": "Even so, I wonder...",
+      "text_th": "ถึงอย่างนั้น ข้าก็อดสงสัยไม่ได้ว่า...",
+      "status": "AI"
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "Ware thee the kindly stranger, bearer of gifts wondrous and strange, for his generosity comes at cost.",
+      "text_th": "ระวังคนแปลกหน้าที่มาทำดีด้วยไว้ให้ดีเถิด ผู้ที่นำของขวัญอันแสนวิเศษและแปลกประหลาดมาให้ เพราะความใจกว้างของเขามักมีราคาที่ต้องจ่ายเสมอ",
+      "status": "AI"
+    },
+    {
+      "character": "Guillaime",
+      "text_en": "Their earnest efforts are but a means to an as-yet-unknown end. Moreover, you should be wary of associating with individuals who have interfered with the questioning of a suspected heretic.",
+      "text_th": "ความพยายามอย่างจริงจังของพวกเขาเป็นเพียงแค่เครื่องมือเพื่อนำไปสู่จุดจบที่ยังไม่มีใครรู้ ยิ่งไปกว่านั้น เจ้าควรจะระวังการคบค้าสมาคมกับกลุ่มคนที่เข้ามาแทรกแซงการสอบสวนผู้ต้องสงสัยว่าเป็นพวกนอกรีตไว้ด้วยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Astidien",
+      "text_en": "They did what !? Bless you, Inquisitor, for coming along when you did! We almost succumbed to the temptation proffered by these...these unbelievers !",
+      "text_th": "พวกนั้นทำ อะไร นะ!? ขอให้ท่านผู้ไต่สวนจงเจริญ ที่มาได้จังหวะพอดีเลย! พวกเราเกือบจะพ่ายแพ้ต่อสิ่งล่อใจที่...ไอ้พวกนอกศาสนา พวกนี้หยิบยื่นให้ซะแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Why does that man detest us so? Is it all because we interrupted Lord Francel's trial?",
+      "text_th": "ทำไมหมอนั่นถึงรังเกียจพวกเราขนาดนี้นะ? เป็นเพราะเราไปขัดจังหวะการพิจารณาคดีของท่านลอร์ด Francel งั้นรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Whatever his reasons, he clearly means to oppose us at every turn...",
+      "text_th": "ไม่ว่าเหตุผลของเขาคืออะไร มันก็ชัดเจนว่าเขาตั้งใจจะขัดขวางพวกเราในทุกฝีก้าวเลย...",
+      "status": "AI"
+    }
+  ]
+}

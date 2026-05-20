@@ -1,0 +1,104 @@
+{
+  "id": "dread-is-in-the-air",
+  "wiki_path": "/wiki/Dread_Is_in_the_Air",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Dread Is in the Air",
+  "title_th": "ความหวาดกลัวล่องลอยในอากาศ",
+  "title_status": "AI",
+  "level": "14",
+  "location": "Central Shroud(X:20.2,Y:21.6)",
+  "npc_start": "Luquelot",
+  "dialogues": [
+    {
+      "character": "Luquelot",
+      "text_en": "My thanks for your kindness earlier. I hate to impose again, but I have need of your assistance in another matter─one of grave import, I fear.",
+      "text_th": "ขอบใจสำหรับน้ำใจเมื่อครู่นี้นะ ฉันไม่อยากจะรบกวนเธออีกเลย แต่ฉันต้องการความช่วยเหลือจากเธอในอีกเรื่องนึง─ฉันเกรงว่าจะเป็นเรื่องสำคัญระดับคอขาดบาดตายเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Luquelot",
+      "text_en": "Of late, I have noticed that Ixali dirigibles have been appearing over the Twelveswood with increasing regularity. The frequency, however, does not bother me near so much as where they choose to fly─the patch of sky directly above the Guardian Tree.",
+      "text_th": "ช่วงนี้ ฉันสังเกตเห็นเรือเหาะของพวก Ixali ปรากฏตัวเหนือ Twelveswood บ่อยขึ้นเรื่อยๆ แต่ความถี่ที่เห็นก็ไม่กวนใจฉันเท่ากับสถานที่ที่พวกมันเลือกบินผ่านหรอกนะ─นั่นคือผืนฟ้าเหนือ Guardian Tree พอดิบพอดีเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Luquelot",
+      "text_en": "The tree is a sacred site, or so I was given to believe when first I came to Gridania, and thus I naturally assumed that the elementals would not suffer the Ixal to profane it. Yet the birdmen have been coming and going as they please, with nary a sign of protest from the guardians of the Twelveswood.",
+      "text_th": "ต้นไม้นั่นเป็นสถานที่ศักดิ์สิทธิ์นะ หรืออย่างน้อยก็เป็นสิ่งที่ฉันถูกสอนมาตั้งแต่ตอนที่มาถึงกริดาเนียใหม่ๆ ฉันก็เลยทึกทักเอาเองว่าพวกภูตผีธาตุคงไม่ยอมให้พวก Ixal มาลบหลู่มันแน่ๆ แต่พวกมนุษย์นกกลับบินไปมาตามใจชอบ โดยไม่มีทีท่าว่าผู้พิทักษ์แห่ง Twelveswood จะออกมาประท้วงเลยสักนิด",
+      "status": "AI"
+    },
+    {
+      "character": "Luquelot",
+      "text_en": "And it was that which set me to thinking... Ever since the appearance of the much-talked-about “suspicious individual,” many and more strange things have been occurring in the forest. Could it be that he did something to the elementals?",
+      "text_th": "และนั่นแหละที่ทำให้ฉันคิด... ตั้งแต่ “ผู้ต้องสงสัย” ที่ถูกพูดถึงกันอย่างหนาหูปรากฏตัวขึ้น ก็มีเรื่องแปลกๆ เกิดขึ้นในป่ามากมาย เป็นไปได้ไหมว่าเขาทำอะไรบางอย่างกับพวกภูตผีธาตุ?",
+      "status": "AI"
+    },
+    {
+      "character": "Luquelot",
+      "text_en": "In case it proved useful, I have committed the details of my sightings to parchment, and would ask that you deliver the document to Mother Miounne.",
+      "text_th": "เผื่อว่ามันจะมีประโยชน์ ฉันได้จดรายละเอียดสิ่งที่ฉันเห็นลงในกระดาษหนังแล้ว และอยากจะขอให้เธอช่วยเอาเอกสารนี้ไปส่งให้ Mother Miounne ทีนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Luquelot",
+      "text_en": "Please make all haste─I have an irrepressible feeling that something terrible is about to happen.",
+      "text_th": "ได้โปรดรีบหน่อยนะ─ฉันรู้สึกสังหรณ์ใจว่าเรื่องเลวร้ายกำลังจะเกิดขึ้น",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Hello there, Forename . Word of your tireless efforts at Bentbranch Meadows has reached my ears. The folk there have naught but the highest praise for you!",
+      "text_th": "ว่าไง [ชื่อ] ข่าวเรื่องความพยายามอย่างไม่รู้จักเหน็ดเหนื่อยของเธอที่ Bentbranch Meadows ดังมาถึงหูฉันแล้วนะ ผู้คนที่นั่นมีแต่คำชมเชยให้เธอทั้งนั้นเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "You certainly have a knack for making Mother proud.",
+      "text_th": "เธอนี่มีพรสวรรค์ในการทำให้ฉันภูมิใจจริงๆ เลยนะเนี่ย",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Keep up the good work, you hear?",
+      "text_th": "ทำผลงานดีๆ ต่อไปนะ เข้าใจไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Hm? A letter...from Luquelot?",
+      "text_th": "หืม? จดหมาย... จาก Luquelot เหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "I haven't the slightest inkling what this could be about...",
+      "text_th": "ฉันไม่รู้เลยว่ามันจะเป็นเรื่องเกี่ยวกับอะไร...",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Gods be good...",
+      "text_th": "พระมารดาคุ้มครอง...",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "I have a mission for you, Forename . Suffice it to say, it is urgent.",
+      "text_th": "ฉันมีภารกิจให้เธอทำนะ [ชื่อ] เอาเป็นว่ามันด่วนมากเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "I fear it may also prove dangerous, however, so you must be prepared.",
+      "text_th": "แต่ฉันเกรงว่ามันอาจจะอันตรายด้วย เพราะงั้นเธอต้องเตรียมตัวให้พร้อมนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Mother Miounne",
+      "text_en": "Make what arrangements you can, and report back to me the moment you are ready.",
+      "text_th": "ไปจัดการธุระอะไรให้เรียบร้อย แล้วกลับมารายงานตัวกับฉันทันทีที่พร้อมนะ",
+      "status": "AI"
+    }
+  ]
+}

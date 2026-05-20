@@ -1,0 +1,62 @@
+{
+  "id": "battle-scars",
+  "wiki_path": "/wiki/Battle_Scars",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Battle Scars",
+  "title_th": "รอยแผลจากสงคราม",
+  "title_status": "AI",
+  "level": "33",
+  "location": "Eastern La Noscea(X:14.0,Y:30.3)",
+  "npc_start": "Drest",
+  "dialogues": [
+    {
+      "character": "Drest",
+      "text_en": "I...I wish to thank Shamani for the wine. That...that was overly kind... Would you be willing to bear a gift back to him?",
+      "text_th": "ผม... ผมอยากจะขอบคุณ Shamani สำหรับไวน์น่ะ มัน... มันใจดีเกินไปแล้ว... คุณยินดีจะเอาของขวัญไปตอบแทนเขาให้หน่อยได้ไหมครับ?",
+      "status": "AI"
+    },
+    {
+      "character": "Drest",
+      "text_en": "Last night / Earlier today at Red Mantis Falls, I collected the sap from nearby palm trees. If...if placed in coconut shells and stored for a few bells' time, it...it makes for a fine wine, see... It should be ready by now.",
+      "text_th": "เมื่อคืน / เมื่อเช้าที่ Red Mantis Falls ผมไปเก็บน้ำเลี้ยงจากต้นปาล์มแถวนั้นมาน่ะ ถ้า... ถ้าเอาใส่ในกะลามะพร้าวแล้วทิ้งไว้สักพัก มัน... มันจะกลายเป็นไวน์ชั้นดีเลยนะ... ป่านนี้น่าจะใช้ได้แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Drest",
+      "text_en": "I left three shells out there. Please, take them to Shamani for me. I'm...I'm glad he's moved on with his life. I hope to one day do the same...",
+      "text_th": "ผมทิ้งไว้สามกะลาตรงนั้นน่ะ รบกวนเอาไปให้ Shamani แทนผมหน่อยนะ ผม... ผมดีใจนะที่เขาก้าวเดินต่อไปในชีวิตได้แล้ว ผมหวังว่าสักวันนึงผมจะทำได้แบบนั้นบ้าง...",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "It has been some time, Forename . What news do you have of Drest?",
+      "text_th": "ไม่ได้เจอกันสักพักเลยนะ [ชื่อ] เธอมีข่าวอะไรของ Drest มาบอกบ้างล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "<sniff> <sniff> Ah, yes, I recall he did have some knowledge of winemaking. A simplistic but nevertheless effective method that utilizes the natural properties of palm sap. I shall have to enjoy this batch before it spoils.",
+      "text_th": "<สูดดม> <สูดดม> อา ใช่สิ ฉันจำได้ว่าเขามีความรู้เรื่องการทำไวน์อยู่นะเนี่ย เป็นวิธีง่ายๆ แต่ได้ผลดีที่ดึงเอาคุณสมบัติตามธรรมชาติของน้ำเลี้ยงปาล์มออกมา ฉันต้องดื่มไวน์ชุดนี้ให้หมดก่อนที่มันจะบูดซะแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "We are not so different, Drest and I. Two men who have long struggled not to let our scars define us...",
+      "text_th": "เราไม่ได้ต่างกันเลยนะ Drest กับฉันน่ะ ชายสองคนที่ต้องดิ้นรนต่อสู้มาอย่างยาวนานเพื่อไม่ให้บาดแผลในอดีตมากำหนดชีวิตของเรา...",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "I worry that he has been alone with his thoughts for far too long.",
+      "text_th": "ฉันกลัวว่าเขาจะจมอยู่กับความคิดของตัวเองนานเกินไปแล้วล่ะสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text_en": "Aye, it is past time I paid him a visit. Thank you for looking after him, Forename .",
+      "text_th": "ใช่แล้ว ถึงเวลาที่ฉันควรจะไปเยี่ยมเขาบ้างแล้วล่ะ ขอบใจที่ช่วยดูแลเขานะ [ชื่อ]",
+      "status": "AI"
+    }
+  ]
+}

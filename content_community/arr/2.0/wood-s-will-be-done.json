@@ -1,0 +1,362 @@
+{
+  "id": "wood-s-will-be-done",
+  "wiki_path": "/wiki/Wood%27s_Will_Be_Done",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/2/21/Wood%27s_Will_Be_Done_Image.png",
+  "patch": "2.0",
+  "title_en": "Wood's Will Be Done",
+  "title_th": "ตามประสงค์ของป่า",
+  "title_status": "AI",
+  "level": "20",
+  "location": "New Gridania(X:9.8,Y:11.0)",
+  "npc_start": "Serpent Personnel Officer",
+  "dialogues": [
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Protocol requires that I apprise you of who we are and what we do, after which I will invite you to swear an oath of your own free will. Ahem!",
+      "text_th": "ตามระเบียบ ฉันต้องแนะนำว่าเราคือใครและทำอะไร หลังจากนั้นจะเชิญให้คุณสาบานตามความสมัครใจ เอ้อ!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "The Order of the Twin Adder is the Grand Company of Gridania.",
+      "text_th": "ทวิน แอดเดอร์ คือกองกำลังใหญ่แห่ง กริดาเนีย",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "It brings together the martial, economic, and technological resources of our nation, that we might stand strong in times of direst adversity, when our very survival hangs in the balance.",
+      "text_th": "เราผนึกกำลังด้านการทหาร เศรษฐกิจ และเทคโนโลยีของชาติเรา เพื่อยืนหยัดแข็งแกร่งในยามวิกฤต เมื่อความอยู่รอดของเราแขวนอยู่บนเส้นด้าย",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Our order was formed in the days before the Calamity, in readiness to fight the Garlean Empire, and to combat the beast tribes and their primals. Needless to say, our struggle continues to this day.",
+      "text_th": "กองกำลังของเราก่อตั้งขึ้นก่อนมหาวิบัติ เพื่อรับมือกับจักรวรรดิการ์ลีน และต่อสู้กับเผ่าอสูรและไพรมอลของพวกมัน ไม่ต้องพูดก็รู้ว่าการต่อสู้ของเรายังคงดำเนินต่อมาจนถึงทุกวันนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Elder Seedseer Kan-E-Senna is the supreme commander of our forces. Under her wise leadership, we protect the people of Gridania and the sanctity of the Twelveswood.",
+      "text_th": "คาน-อี-เซนนา เอลเดอร์ ซีดซีร์ คือผู้บัญชาการสูงสุดของกองกำลังเรา ภายใต้การนำอันชาญฉลาดของท่าน เราปกป้องชาว กริดาเนีย และความศักดิ์สิทธิ์ของป่าทเวลส์",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "As the entwined serpents that grace our standard, let forestborn strive as one with friends from afar to ensure that peace shall ever reign in Gridania.",
+      "text_th": "เหมือนงูสองตัวที่ประดับบนธงของเรา ขอให้ลูกป่าและมิตรจากดินแดนไกลร่วมต่อสู้เป็นหนึ่งเดียว เพื่อให้สันติสุขดำรงอยู่ใน กริดาเนีย ตลอดไป",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "In so doing, we honor the will of the elementals, and theirs is the will of the wood.",
+      "text_th": "ด้วยเช่นนี้ เราเคารพต่อเจตจำนงของเหล่า elemental และเจตจำนงของพวกเขาคือเจตจำนงของป่า",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Now then, Forename Surname , I ask that you give unto us your oath of allegiance, in whatever fashion you see fit.",
+      "text_th": "บัดนี้ Forename Surname ฉันขอให้คุณให้คำสาบานแห่งความจงรักภักดีต่อเรา ในแบบที่คุณเห็นว่าเหมาะสม",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "So you know the words of our Grand Company. That is well. Bound by this common belief, let us strive to preserve all that is good in this great nation.",
+      "text_th": "คุณรู้จักถ้อยคำของกองกำลังใหญ่เรา นั่นเป็นเรื่องที่ดี เมื่อถูกผูกพันด้วยความเชื่อร่วมกัน ขอให้เราร่วมกันดูแลรักษาสิ่งดีงามของชาติอันยิ่งใหญ่นี้",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Uh...quite. Your fervor is duly noted. May it lend you strength as you strive to preserve all that is good in this great nation.",
+      "text_th": "เอ่อ...ใช่แล้ว ความกระตือรือร้นของคุณถูกจดบันทึกไว้แล้ว ขอให้มันมอบกำลังให้คุณในการดูแลรักษาสิ่งดีงามของชาติอันยิ่งใหญ่นี้",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "The Elder Seedseer is a kind and gentle soul who holds the welfare of her people above all else. Your faith in her is well placed.",
+      "text_th": "เอลเดอร์ ซีดซีร์ เป็นจิตใจที่อ่อนโยนและเมตตา ท่านยึดถือสวัสดิภาพของประชาชนเป็นสิ่งสำคัญที่สุด ความเชื่อมั่นของคุณในตัวท่านนั้นสมเหตุสมผลมาก",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "The elementals need not words to know your heart, and there is no doubt in mine own that you will prove a stalwart servant to them.",
+      "text_th": "เหล่า elemental ไม่ต้องการถ้อยคำเพื่อรู้ใจของคุณ และในใจฉันเองก็ไม่สงสัยเลยว่าคุณจะเป็นผู้รับใช้ที่มั่นคงสำหรับพวกมัน",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "By the power vested in me, I assign you the rank of serpent private third class.",
+      "text_th": "ด้วยอำนาจที่มอบให้ฉัน ฉันแต่งตั้งให้คุณเป็น serpent private ชั้นสาม",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "You are now a man / woman of the Order of the Twin Adder. Go forth, Private Surname , and do that which brings peace to the Twelveswood and honor to our name.",
+      "text_th": "ตอนนี้คุณเป็นสมาชิกของ ทวิน แอดเดอร์ แล้ว จงออกไปเถิด Private Surname และทำในสิ่งที่นำสันติมาสู่ป่าทเวลส์และเกียรติยศมาสู่ชื่อของเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Can you hear me, Forename ? This is Minfilia.",
+      "text_th": "ได้ยินไหม Forename? นี่คือมินฟีเลีย",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "An officer of the Order of the Twin Adder contacted me with news of your enlistment. My congratulations, Private Surname .",
+      "text_th": "เจ้าหน้าที่ของ ทวิน แอดเดอร์ ติดต่อฉันมาพร้อมข่าวการเข้าร่วมของคุณ ขอแสดงความยินดีด้วย Private Surname",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I have no doubt that you are eager to make the acquaintance of your new comrades, but I would ask that you pay a visit to your old ones first. Remember: though you are now a Serpent of Gridania, you are no less a Scion! Pray return to the Waking Sands at your earliest convenience. There are some friends here whom I would very much like you to meet. We shall be waiting!",
+      "text_th": "ฉันรู้ว่าคุณคงอยากทำความรู้จักกับเพื่อนร่วมกองกำลังใหม่ แต่ขอให้แวะหาเพื่อนเก่าก่อนนะ จำไว้ว่าถึงแม้คุณจะเป็น Serpent แห่ง กริดาเนีย แล้ว แต่ก็ยังเป็น Scion อยู่เสมอ! กรุณากลับมาที่เดอะ เวคกิ้ง แซนด์ส เมื่อสะดวก มีเพื่อนบางคนที่อยากให้คุณได้เจอด้วยมากเลย เราจะรอคุณอยู่!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "The distant call of a friend in need, perhaps?",
+      "text_th": "เสียงเรียกจากเพื่อนที่ต้องการความช่วยเหลือกระมัง?",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "As you are needed elsewhere, I shall not keep you any longer. I would, however, suggest speaking with High Serpent Commander Vorsaile Heuloix before you depart. He may provide you with assistance on the journey ahead.",
+      "text_th": "เนื่องจากคุณมีธุระที่อื่น ฉันจะไม่รั้งคุณไว้อีกต่อไปแล้ว แต่อยากแนะนำให้คุยกับ High Serpent Commander Vorsaile Heuloix ก่อนออกเดินทาง เขาอาจช่วยเหลือคุณในการเดินทางข้างหน้าได้",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Let me see if I have this right—you're an adventurer...who's a Scion... and a Serpent? Golly, how do you keep track of everything?",
+      "text_th": "ให้ฉันทบทวนดูนะ คุณเป็นนักผจญภัย...ที่เป็น Scion...และยัง Serpent อีกด้วย? โอ้โห ติดตามทุกอย่างได้ยังไงเนี่ย?",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "It must be fun pairing up with lots of different people, though! Me? I'm always with Papalymo. ...Come to think of it, why am I always with Papalymo?",
+      "text_th": "แต่คงสนุกดีนะที่ได้จับคู่กับคนหลายหลาก แหม ฉันน่ะ อยู่กับปาปาลีโมตลอดเลย ...ว่าแต่ ทำไมถึงอยู่กับปาปาลีโมตลอดเลยนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Following the Calamity, each nation's armed forces underwent large-scale restructuring centered upon its Grand Company.",
+      "text_th": "หลังมหาวิบัติ กองกำลังทหารของแต่ละชาติก็ปรับโครงสร้างครั้งใหญ่โดยมีกองกำลังใหญ่เป็นศูนย์กลาง",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "In Gridania, the Order of the Twin Adder absorbed both the Wood Wailers and the Gods' Quiver, while the Lominsans enacted the complete merger of the Maelstrom and the Knights of the Barracuda.",
+      "text_th": "ใน กริดาเนีย ทวิน แอดเดอร์ ผนวก วูด เวลเลอร์ส และ Gods' Quiver เข้ามา ส่วนชาว ลิมซา ก็รวม มาเอลสตรอม กับ Knights of the Barracuda เข้าด้วยกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Ul'dah is the odd nation out, having made no notable changes to its armed forces. As before, and in the spirit of the sultanate, each entity retains a certain degree of independence.",
+      "text_th": "อุล'ดาห์ เป็นชาติที่ต่างออกไป ไม่ได้เปลี่ยนแปลงกองกำลังทหารอย่างเห็นได้ชัด เช่นเดิมและตามจิตวิญญาณของสุลต่านาต แต่ละหน่วยยังคงความเป็นอิสระในระดับหนึ่ง",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The incident with the traitor still weighs heavily on everyone's minds—the Flame General's most of all.",
+      "text_th": "เรื่องของคนทรยศยังอยู่ในความคิดของทุกคน และในใจของ Flame General มากที่สุด",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And although he cannot be expected to know what evil lurks in the hearts of every man under his command, the revelation is nevertheless a devastating blow to his authority.",
+      "text_th": "และถึงแม้เขาจะไม่คาดหวังว่าตัวเองจะรู้ถึงความชั่วร้ายในใจของทุกคนใต้บังคับบัญชา แต่การเปิดเผยครั้งนี้ก็เป็นการโจมตีอำนาจของเขาอย่างหนัก",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Even so, it warrants saying that you should not let this tragedy color your opinion of the man. In all my years working with the Flame General, I've never had reason to doubt his capacity to lead.",
+      "text_th": "แม้กระนั้นก็ควรพูดว่าคุณไม่ควรให้โศกนาฏกรรมนี้มาทำให้คุณมองแม่ทัพผิดไป ตลอดหลายปีที่ฉันทำงานกับ Flame General ฉันไม่เคยมีเหตุผลที่จะสงสัยความสามารถในการนำทัพของเขาเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Brennan",
+      "text_en": "I heard tell one of me brothers came through not long ago. Looks like I just missed him, though.",
+      "text_th": "ได้ยินมาว่าพี่น้องของฉันคนหนึ่งเพิ่งผ่านมาไม่นาน แต่ดูเหมือนฉันพลาดเขาไป",
+      "status": "AI"
+    },
+    {
+      "character": "Brennan",
+      "text_en": "I ain't seen either one of 'em since the Calamity—didn't even know if they were still alive. But after runnin' into folk who swore they knew me time an' again, I reckoned they had to be out there somewhere.",
+      "text_th": "ฉันไม่ได้เจอพวกเขาทั้งสองคนตั้งแต่มหาวิบัติ ไม่รู้ด้วยซ้ำว่ายังมีชีวิตอยู่ไหม แต่หลังจากเจอคนที่บอกว่ารู้จักฉันบ่อยๆ ก็เริ่มคิดว่าพวกเขาต้องอยู่ที่ไหนสักแห่ง",
+      "status": "AI"
+    },
+    {
+      "character": "Brennan",
+      "text_en": "I've been travelin' an' peddlin' in the hopes I'd find me brothers ever since. If ye see a fella what looks like me, let him know that Brennan's lookin' for him, would you?",
+      "text_th": "ฉันเดินทางและค้าขายโดยหวังว่าจะหาพี่น้องได้ตั้งแต่นั้น ถ้าเจอคนที่หน้าตาคล้ายฉัน ช่วยบอกเขาด้วยนะว่า Brennan กำลังตามหาเขาอยู่",
+      "status": "AI"
+    },
+    {
+      "character": "Liavinne",
+      "text_en": "Have we met somewhere before? You must be quite the accomplished adventurer to be welcomed into these halls.",
+      "text_th": "เราเคยเจอกันที่ไหนมาก่อนไหม? คุณต้องเป็นนักผจญภัยที่เก่งมากถึงได้รับการต้อนรับในที่นี้",
+      "status": "AI"
+    },
+    {
+      "character": "Liavinne",
+      "text_en": "Me? No one's ever expected much of me. And so far, I've done a fine job of living down to their expectations.",
+      "text_th": "ฉันน่ะ? ไม่มีใครเคยคาดหวังอะไรมากจากฉัน และจนถึงตอนนี้ก็ทำได้ดีมากในการทำให้ความคาดหวังต่ำๆ นั้นผิดหวัง",
+      "status": "AI"
+    },
+    {
+      "character": "Una Tayuun",
+      "text_en": "I've been chattin' with Percevains an' we both swear there was another member of our crew. We still ain't figured out a way t'prove who we was, but just ye wait and see. It won't be long before everybody sees us for the heroes we is!",
+      "text_th": "ฉันและ Percevains คุยกันอยู่และพวกเราสาบานได้เลยว่ามีสมาชิกในทีมอีกคน เรายังหาวิธีพิสูจน์ตัวตนไม่ได้ แต่รอดูก็แล้วกัน ไม่นานทุกคนจะเห็นว่าพวกเราคือวีรบุรุษที่แท้จริง!",
+      "status": "AI"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "I hear you pledged yourself to a Grand Company. Me? I don't think I could do it. I'd never feel like one of them, no matter what the recruiters say.",
+      "text_th": "ได้ยินว่าคุณสาบานตัวกับกองกำลังใหญ่แล้ว ฉันน่ะ? ไม่คิดว่าตัวเองจะทำแบบนั้นได้ ไม่ว่าเจ้าหน้าที่รับสมัครจะพูดอะไร ฉันก็คงไม่รู้สึกว่าเป็นพวกเดียวกับพวกเขาหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Aulie",
+      "text_en": "I'm not sure I grasp the purpose of these remembrance ceremonies. Whether you remember of rewrite the past, what does it matter? It isn't as though you can repeat it.",
+      "text_th": "ฉันไม่แน่ใจว่าเข้าใจจุดประสงค์ของพิธีรำลึกเหล่านี้ ไม่ว่าจะจำหรือเขียนประวัติศาสตร์ใหม่ มันสำคัญอย่างไร? ไม่ใช่ว่าคุณจะย้อนเวลากลับไปได้อยู่ดี",
+      "status": "AI"
+    },
+    {
+      "character": "Aulie",
+      "text_en": "Our present-day enemies ought to serve as sufficient motivation, don't you think? The only lesson I believe we should take from the Calamity is that far greater threats can and will appear.",
+      "text_th": "ศัตรูในวันนี้น่าจะเป็นแรงจูงใจที่เพียงพอแล้ว บทเรียนเดียวที่คิดว่าควรนำมาจากมหาวิบัติคือ ภัยคุกคามที่ยิ่งใหญ่กว่านั้นสามารถและจะเกิดขึ้นได้อีก",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We will continue to focus our efforts on investigating the primals. The Amalj'aa are not the only tribe that has succeeded in summoning its deity.",
+      "text_th": "เราจะมุ่งเน้นการสืบสวนเรื่องไพรมอลต่อไป อะมาล'จา ไม่ใช่เผ่าเดียวที่สามารถเรียกเทพผู้อุปถัมภ์มาได้",
+      "status": "AI"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Fate shall be thy guide. When our purposes become one, once again shall our paths lead us here...",
+      "text_th": "โชคชะตาจะนำทางเจ้า เมื่อจุดมุ่งหมายของเรากลายเป็นหนึ่งเดียว เส้นทางของเราจะนำพาเรากลับมาพบกันอีกครั้ง...",
+      "status": "AI"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Our city of learning is now naught but shadows. Ere the light of dawn breaketh, shall we follow whither the sand blows.",
+      "text_th": "เมืองแห่งการเรียนรู้ของเราบัดนี้ไม่เหลือแต่เงามืด ก่อนแสงรุ่งอรุณจะส่อง เราจะตามลมทรายออกเดินทาง",
+      "status": "AI"
+    },
+    {
+      "character": "Scion of the Seventh Dawn",
+      "text_en": "Welcome back, Forename ! Lady Minfilia awaits you within.",
+      "text_th": "ยินดีต้อนรับกลับมา Forename! ท่าน Lady Minfilia รอคุณอยู่ข้างใน",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Welcome back! It seems you wasted no time putting your skills to work!",
+      "text_th": "ยินดีต้อนรับกลับมา! ดูเหมือนคุณไม่ได้เสียเวลาเลยในการนำทักษะมาใช้!",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "How do I know? Why, the recruitment officer called to regale me with the tale of your heroics. The pride in his voice was palpable!",
+      "text_th": "ฉันรู้ได้ยังไงเหรอ? เจ้าหน้าที่รับสมัครโทรมาเล่าวีรกรรมของคุณให้ฟัง ความภาคภูมิใจในเสียงของเขาฟังออกเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We Scions are truly fortunate to have you with us, Forename .",
+      "text_th": "พวก Scion โชคดีมากที่มีคุณอยู่ด้วย Forename",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Now, when last we spoke, I said that I wanted you to meet some friends, did I not? Well, I neglected to mention that you have already met.",
+      "text_th": "ทีนี้ ครั้งสุดท้ายที่เราคุยกัน ฉันบอกว่าอยากให้คุณได้เจอเพื่อนบางคนใช่ไหม? ก็แล้ว ฉันลืมบอกไปว่าคุณเจอพวกเขาแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Tataru─please show them in.",
+      "text_th": "ทาทารู─ช่วยพาพวกเขาเข้ามาด้วยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "This way, sirs!",
+      "text_th": "ทางนี้เลยครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Thanks again for getting us out of that mess. We owe you our lives.",
+      "text_th": "ขอบคุณอีกครั้งที่ช่วยพวกเราออกจากสถานการณ์นั้น เราเป็นหนี้ชีวิตคุณ",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "But I don't think we've properly introduced ourselves. I'm Biggs.",
+      "text_th": "แต่ฉันคิดว่าพวกเรายังไม่ได้แนะนำตัวอย่างเป็นทางการ ฉันชื่อ Biggs",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "A-And I'm...I'm...",
+      "text_th": "ก-และฉัน...ฉัน...",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Gods, man, spit it out, will you!?",
+      "text_th": "พระเจ้า พูดออกมาเลยสิ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "W-Wedge, at your service!",
+      "text_th": "W-Wedge ครับ ยินดีที่ได้รู้จัก!",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I am pleased to say that Biggs and Wedge will be staying with us for a while.",
+      "text_th": "ฉันยินดีที่จะบอกว่า Biggs และ Wedge จะอยู่กับเราสักพัก",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Magitek-driven contraptions such as airships grow ever more vital to the city-states of Eorzea. As a neutral party, it was judged that we Scions should serve as the keepers of this technology.",
+      "text_th": "เครื่องจักรที่ขับเคลื่อนด้วยมาจิเทคอย่างเรือเหาะมีความสำคัญมากขึ้นเรื่อยๆ สำหรับนครรัฐต่างๆ ใน อีออร์เซีย ในฐานะฝ่ายกลาง จึงถือว่าพวก Scion ควรเป็นผู้ดูแลเทคโนโลยีนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Of course, for this we needed the knowledge of experts. And so we requested the assistance of Garlond Ironworks, who very kindly sent us two of their finest engineers.",
+      "text_th": "แน่นอนว่าสำหรับเรื่องนี้เราต้องการความรู้ของผู้เชี่ยวชาญ จึงขอความช่วยเหลือจาก การ์ลอนด์ ไอรอนเวิร์กส์ ซึ่งเมตตาส่งวิศวกรที่ดีที่สุดสองคนมาให้",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Our happy family continues to grow. On behalf of the Scions, I bid you welcome to the Waking Sands!",
+      "text_th": "ครอบครัวสุขของเราโตขึ้นเรื่อยๆ ในนามของพวก Scion ฉันขอต้อนรับคุณสู่ เดอะ เวคกิ้ง แซนด์ส!",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Like every soul here, I love Eorzea.",
+      "text_th": "เหมือนกับทุกคนที่นี่ ฉันรัก อีออร์เซีย",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "And I count myself blessed to have been given this chance to stand with you all and fight for the future of the realm.",
+      "text_th": "และฉันรู้สึกโชคดีที่ได้มีโอกาสยืนหยัดร่วมกับคุณทุกคนและต่อสู้เพื่ออนาคตของอาณาจักร",
+      "status": "AI"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Never have I known such fulfillment─such happiness.",
+      "text_th": "ไม่เคยรู้สึกแบบนี้มาก่อน ความสมหวัง─ความสุขแบบนี้",
+      "status": "AI"
+    }
+  ]
+}

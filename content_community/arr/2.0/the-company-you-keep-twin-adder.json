@@ -1,0 +1,392 @@
+{
+  "id": "the-company-you-keep-twin-adder",
+  "wiki_path": "/wiki/The_Company_You_Keep_(Twin_Adder)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/03/The_Company_You_Keep_%28Twin_Adder%29_Image.png",
+  "patch": "2.0",
+  "title_en": "The Company You Keep (Twin Adder)",
+  "title_th": "สหายที่ท่านเลือก (Twin Adder)",
+  "title_status": "AI",
+  "level": "20",
+  "location": "The Waking Sands(X:6.8,Y:6.1)",
+  "npc_start": "Serpent Officer",
+  "dialogues": [
+    {
+      "character": "Serpent Officer",
+      "text_en": "Ah, I take it the Elder Seedseer's words have touched your heart. Have you resolved to entwine your destiny with that of the Twin Adder?",
+      "text_th": "อา ข้าเดาว่าคำพูดของท่าน Elder Seedseer คงจะเข้าไปอยู่ในใจท่านแล้วล่ะสิ ท่านตั้งใจจะฝากอนาคตไว้กับ Twin Adder แล้วใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "Ah...forgive me. In my eagerness to embrace you as a brother / sister , I mistook your intention.",
+      "text_th": "อา...ต้องขออภัยด้วย ข้าคงจะตื่นเต้นอยากจะต้อนรับท่านมาเป็นพี่น้องร่วมรบมากไปหน่อย เลยเดาใจท่านผิดไปซะได้",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "You have chosen wisely, my friend! The Elder Seedseer will be overjoyed!",
+      "text_th": "ท่านเลือกได้ยอดเยี่ยมมากเลยล่ะสหาย! ท่าน Elder Seedseer จะต้องดีใจมากแน่ๆ!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "Without further ado, let us speak of practical matters. In order to complete the enrollment procedure, you must report to our headquarters in Gridania─the Adders' Nest.",
+      "text_th": "งั้นเรามาพูดถึงเรื่องขั้นตอนกันเลยดีกว่า เพื่อให้การสมัครเข้าร่วมกองกำลังเสร็จสมบูรณ์ ท่านต้องไปรายงานตัวที่ศูนย์บัญชาการของเราใน Gridania ─ที่ Adders' Nest น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "I daresay you know it well from your wanderings in New Gridania. Give your name to the personnel officer there, and he will guide you through the formalities.",
+      "text_th": "ข้าเดาว่าท่านคงจะคุ้นเคยกับที่นั่นดีอยู่แล้วจากการที่ท่านเคยไปเดินเล่นในเขต New Gridania นะ ไปแจ้งชื่อกับเจ้าหน้าที่ฝ่ายบุคคลที่นั่น แล้วเขาจะจัดการเรื่องเอกสารให้ท่านเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "You have chosen wisely, my friend! The Elder Seedseer will be overjoyed!",
+      "text_th": "ท่านเลือกได้ยอดเยี่ยมมากเลยล่ะสหาย! ท่าน Elder Seedseer จะต้องดีใจมากแน่ๆ!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "Without further ado, let us speak of practical matters. In order to complete the enrollment procedure, you must report to the Adders' Nest.",
+      "text_th": "งั้นเรามาพูดถึงเรื่องขั้นตอนกันเลยดีกว่า เพื่อให้การสมัครเข้าร่วมกองกำลังเสร็จสมบูรณ์ ท่านต้องไปรายงานตัวที่ Adders' Nest น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "The building you seek stands in the southern part of the city, now called New Gridania. Give your name to the personnel officer there, and he will guide you through the formalities.",
+      "text_th": "อาคารที่ท่านต้องไปน่ะตั้งอยู่ทางตอนใต้ของเมือง ที่ปัจจุบันเรียกว่าเขต New Gridania นั่นแหละ ไปแจ้งชื่อกับเจ้าหน้าที่ฝ่ายบุคคลที่นั่น แล้วเขาจะจัดการเรื่องเอกสารให้ท่านเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "I shall send word to the Adders' Nest so that our people know to expect you. Give your name to the personnel officer, and he will guide you through the formalities.",
+      "text_th": "เดี๋ยวข้าจะส่งข่าวไปที่ Adders' Nest ล่วงหน้าก่อนนะ เพื่อที่คนของเราจะได้เตรียมตัวรับท่าน พอไปถึงก็แค่แจ้งชื่อกับเจ้าหน้าที่ฝ่ายบุคคล แล้วเขาจะจัดการเรื่องเอกสารให้ท่านเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "I have no doubt but that your deeds will bring great honor to our order. When next we meet in Gridania, I shall be proud to call you brother / sister !",
+      "text_th": "ข้ามั่นใจเลยล่ะว่าผลงานของท่านจะต้องนำความภาคภูมิใจมาสู่กองกำลังของเราอย่างแน่นอน ไว้เจอกันคราวหน้าที่ Gridania ข้าจะเรียกท่านว่าพี่น้องได้อย่างภาคภูมิใจเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "What's this!? You mean to take up with the Adders !? B-But...did the awe-inspiring figure of General Raubahn not stir you? He can seem a trifle intimidating...but I'm sure you'd warm to him, given time.",
+      "text_th": "นี่มันอะไรกัน!? ท่านตั้งใจจะไปอยู่กับพวก Adders งั้นรึ!? ต-แต่...หรือว่าบุคลิกอันน่าเกรงขามของท่านนายพล Raubahn จะไม่โดนใจท่านล่ะ? ท่านอาจจะดูน่าเกรงขามไปบ้าง...แต่ข้ามั่นใจนะว่าพอเวลาผ่านไปท่านจะรู้สึกเป็นกันเองกับท่านมากขึ้นแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "If your mind is made up, then there is no help for it. Yet know that like the tide, men's hearts are apt to change. If and when yours does, you may be certain of a warm welcome from us.",
+      "text_th": "ถ้าท่านตัดสินใจเด็ดขาดแล้ว ก็คงช่วยไม่ได้ล่ะนะ แต่จงรู้ไว้นะว่าจิตใจคนเรามันเปลี่ยนกันได้ง่ายๆ เหมือนกระแสน้ำนั่นแหละ ถ้าวันไหนท่านเกิดเปลี่ยนใจขึ้นมา พวกเราก็พร้อมจะต้อนรับท่านอย่างอบอุ่นเสมอ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Officer",
+      "text_en": "You are come to the Adders' Nest, headquarters of the Order of the Twin Adder. Ever do we welcome they who would toil in the elementals' name for the good of our forest nation.",
+      "text_th": "ท่านมาถึง Adders' Nest ศูนย์บัญชาการของ Order of the Twin Adder แล้ว เรายินดีต้อนรับผู้ที่พร้อมจะอุทิศตนเพื่อบรรดา elemental และเพื่อประโยชน์ของประเทศแห่งป่าไม้ของเราเสมอ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "You are come to the Adders' Nest, headquarters of the Order of the Twin Adder. Ever do we welcome they who would toil in the elementals' name for the good of our forest nation.",
+      "text_th": "ท่านมาถึง Adders' Nest ศูนย์บัญชาการของ Order of the Twin Adder แล้ว เรายินดีต้อนรับผู้ที่พร้อมจะอุทิศตนเพื่อบรรดา elemental และเพื่อประโยชน์ของประเทศแห่งป่าไม้ของเราเสมอ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Ah, the great adventurer himself / herself ! Yes, our recruitment officer sent word that you were on your way. It is a pleasure and an honor both to welcome you to our ranks, friend.",
+      "text_th": "อา นักผจญภัยผู้ยิ่งใหญ่มาเยือนด้วยตัวเองเลยรึนี่! ใช่แล้ว เจ้าหน้าที่เกณฑ์ทหารของเราส่งข่าวมาบอกว่าท่านกำลังเดินทางมา เป็นทั้งความยินดีและเกียรติอย่างยิ่งที่เราได้ต้อนรับท่านเข้าสู่กองกำลังของเรา สหายเอ๋ย",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Ah! Might you be Forename Surname ? I thought as much! Our recruitment officer sent word that you would be coming. It is a pleasure and a honor both to welcome you to our ranks.",
+      "text_th": "อ๊ะ! ท่านคือ [ชื่อ] [นามสกุล] ใช่ไหม? ข้ากะไว้แล้วเชียว! เจ้าหน้าที่เกณฑ์ทหารของเราส่งข่าวมาบอกว่าท่านกำลังจะมา เป็นทั้งความยินดีและเกียรติอย่างยิ่งที่เราได้ต้อนรับท่านเข้าสู่กองกำลังของเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Now, let me gather together the relevant documentation...",
+      "text_th": "เอาล่ะ เดี๋ยวข้าขอเตรียมเอกสารที่เกี่ยวข้องสักครู่ก่อนนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Private",
+      "text_en": "Sir!",
+      "text_th": "ท่านครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "What is it? Report.",
+      "text_th": "มีอะไรล่ะ? ว่ามาเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Private",
+      "text_en": "An urgent message from Amarissaix's Spire, sir! A Highwind Skyways airship has taken fire from imperial forces in the skies over the East Shroud!",
+      "text_th": "มีข้อความด่วนมาจาก Amarissaix's Spire ครับท่าน! เรือเหาะของ Highwind Skyways ถูกโจมตีโดยกองกำลังจักรวรรดิขณะบินอยู่เหนือน่านฟ้าของ East Shroud ครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Private",
+      "text_en": "The vessel's engines were crippled, sir, and it was forced to make an emergency landing southeast of Nine Ivies.",
+      "text_th": "เครื่องยนต์ของเรือพังเสียหายหนักเลยครับท่าน และจำเป็นต้องลงจอดฉุกเฉินทางตะวันออกเฉียงใต้ของ Nine Ivies ครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Nine Ivies? Gods, this could not have come at a worse time. All but a handful of our forces are presently afield, dealing with the Ixal.",
+      "text_th": "Nine Ivies งั้นรึ? พระผู้เป็นเจ้า ดันมาเกิดเรื่องเอาช่วงเวลาที่แย่ที่สุดเลย ตอนนี้กองกำลังของเราแทบทั้งหมดกำลังวุ่นอยู่กับการรับมือพวก Ixal ในพื้นที่อื่นอยู่เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Forename ─I know full well you have yet to be formally inducted into our ranks, but we have urgent need of your aid.",
+      "text_th": "[ชื่อ] ─ข้าก็รู้ตัวดีว่าท่านยังไม่ได้เข้าพิธีบรรจุเข้ากองกำลังของเราอย่างเป็นทางการ แต่เรามีความจำเป็นเร่งด่วนที่ต้องขอความช่วยเหลือจากท่านแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "In all likelihood, the airship was bearing civilians, and if the reports are accurate, it will have come down dangerously close to Garlean-occupied territory.",
+      "text_th": "มีความเป็นไปได้สูงมากที่เรือเหาะลำนั้นจะมีพลเรือนโดยสารมาด้วย และถ้ารายงานนั่นถูกต้องล่ะก็ เรือลำนั้นคงตกอยู่ในเขตที่ใกล้กับพื้นที่ยึดครองของพวก Garlean มากๆ ซึ่งอันตรายสุดๆ เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Please make all haste to the area southeast of Nine Ivies, locate the airship, and ascertain the status of the passengers.",
+      "text_th": "โปรดรีบมุ่งหน้าไปยังพื้นที่ทางตะวันออกเฉียงใต้ของ Nine Ivies โดยเร็วที่สุด ตามหาเรือเหาะลำนั้นให้พบ และตรวจสอบความปลอดภัยของผู้โดยสารทีนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "An adventurer!? What're you doing out here? No, wait─let's find some cover first...",
+      "text_th": "นักผจญภัยงั้นเหรอ!? คุณมาทำอะไรที่นี่เนี่ย? ไม่สิ เดี๋ยวก่อน─เราไปหาที่หลบกันก่อนเถอะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "The Adders' Nest sent you? How do I know you're not an imperial spy? You don't even have a uniform!",
+      "text_th": "Adders' Nest ส่งคุณมางั้นเหรอ? แล้วฉันจะรู้ได้ไงว่าคุณไม่ใช่สายลับจักรวรรดิ? คุณยังไม่ได้ใส่เครื่องแบบเลยด้วยซ้ำ!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "Peace, friend─we mean you no harm. You are an engineer of Garlond Ironworks, are you not? We were alerted to your plight, and have come to rescue you.",
+      "text_th": "ใจเย็นๆ ก่อนสหาย─เราไม่ได้มาร้าย คุณคือวิศวกรของ Garlond Ironworks ใช่ไหม? เราได้รับแจ้งเรื่องภัยพิบัติของคุณ ก็เลยมาช่วยน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "And you are Forename Surname , I presume. I was told to expect an “honorary” Serpent. My thanks for your aid, friend.",
+      "text_th": "และคุณก็คงจะเป็น [ชื่อ] [นามสกุล] สินะ ข้าได้รับแจ้งมาว่าจะได้พบกับทหาร Serpent “กิตติมศักดิ์” น่ะ ขอบคุณสำหรับความช่วยเหลือนี้นะเพื่อน",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "I've never seen a craft of this design... It must be Garlond's work. Is there no end to the man's treachery?",
+      "text_th": "ข้าไม่เคยเห็นเรือเหาะรูปแบบนี้มาก่อนเลย... ไอ้คนทรยศ Garlond คงจะงานยุ่งน่าดูสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "The secrets of magitek belong in imperial hands. They are not to be squandered on Eorzean savages!",
+      "text_th": "ความลับของเทคโนโลยี magitek เป็นสิทธิ์ของเราโดยชอบธรรม ไม่ใช่เอามาโยนทิ้งขว้างให้กับพวกป่าเถื่อนในดินแดนนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "We are taking this craft back to the fortress! Dismantle it if you must! And bring the engineer! Someone must pay for Garlond's crimes.",
+      "text_th": "เราจะเอาเรือลำนี้กลับไปที่ป้อม! ถอดชิ้นส่วนมันออกมาให้หมดถ้าจำเป็น! แล้วเอาตัววิศวกรนั่นมาด้วย! ต้องมีใครสักคนชดใช้ให้กับอาชญากรรมของ Garlond",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "Imperial scouts from Castrum Oriens. They mean to requisition the ship.",
+      "text_th": "พวกหน่วยสอดแนมจักรวรรดิจาก Castrum Oriens นี่เอง พวกมันตั้งใจจะมาปล้นเรือสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "Wedge! You have to help him! That fool of a Lalafell was hiding inside the Tiny Bronco !",
+      "text_th": "Wedge! คุณต้องช่วยเขานะ! เจ้า Lalafell โง่นั่นยังซ่อนตัวอยู่ใน Tiny Bronco !",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "The Tiny Bronco ? But isn't that the Ironworks' latest creation!?",
+      "text_th": "Tiny Bronco งั้นรึ? แต่นั่นมันผลงานชิ้นล่าสุดของ Ironworks ไม่ใช่รึ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "It's the first airship we've built since the Calamity─the first since Master Garlond...well, since he went missing.",
+      "text_th": "มันเป็นเรือเหาะลำแรกที่เราสร้างขึ้นตั้งแต่เกิดภัยพิบัติ Calamity ─ลำแรกตั้งแต่ท่าน Garlond...เอ่อ ตั้งแต่ท่านหายตัวไปน่ะครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Airship Crewman",
+      "text_en": "After years of work, she was finally ready for her first test flight. And she was soaring , she really was─till those bastards blasted her out of the sky!",
+      "text_th": "หลังจากลงแรงไปหลายปี ในที่สุดเธอก็พร้อมสำหรับการบินทดสอบครั้งแรก แล้วเธอก็บิน ได้สวยงามจริงๆ นะ─จนกระทั่งไอ้พวกสารเลวนั่นยิงเธอตกจากฟ้านี่แหละ!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "Attend me, all: the Ironworks' latest creation must not fall into Garlean hands. We shall strike them, swift and sure, and rescue Engineer Wedge.",
+      "text_th": "ทุกคน ฟังคำสั่งข้า: เราจะปล่อยให้ผลงานชิ้นใหม่ล่าสุดของ Ironworks ตกไปอยู่ในมือของพวก Garlean ไม่ได้เด็ดขาด เราจะบุกโจมตีพวกมันให้เร็วและเด็ดขาดที่สุด และช่วยชีวิตวิศวกร Wedge ออกมาให้ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "Forename , I trust we can rely on your support.",
+      "text_th": "[ชื่อ] ข้าหวังว่าเราจะพึ่งพาการสนับสนุนจากท่านได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "May the Matron watch over us! With me!",
+      "text_th": "ขอพระแม่ Matron ทรงคุ้มครองพวกเราด้วยเถิด! ตามข้ามา!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "An ambush! To arms!",
+      "text_th": "เราถูกซุ่มโจมตี! จับอาวุธ!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Gladiator",
+      "text_en": "Leave none standing!",
+      "text_th": "อย่าปล่อยให้พวกมันรอดไปได้แม้แต่คนเดียว!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Keep them away from the airship!",
+      "text_th": "อย่าให้พวกมันเข้าใกล้เรือเหาะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Savages! You cannot stand against the might of the Empire!",
+      "text_th": "ไอ้พวกป่าเถื่อน! พวกแกไม่มีทางสู้พลังของจักรวรรดิได้หรอก!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "This has gone on long enough!",
+      "text_th": "มันชักจะยืดเยื้อเกินไปแล้วนะเนี่ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text_en": "Annihilate these barbarians! Teach them the futility of resistance!",
+      "text_th": "กวาดล้างไอ้พวกป่าเถื่อนนี่ให้สิ้นซาก! สอนให้พวกมันรู้ซึ้งว่าการต่อต้านน่ะมันเปล่าประโยชน์!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Biggs!",
+      "text_th": "Biggs!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Wedge! You shouldn't have stayed with the ship!",
+      "text_th": "Wedge! นายไม่ควรจะอยู่เฝ้าเรือเลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Th-That was a close one!",
+      "text_th": "ก-เกือบไปแล้วเชียว!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Too damn close. So...how's she look, anyway?",
+      "text_th": "เฉียดฉิวสุดๆ ไปเลย แล้ว...สภาพเรือตอนนี้เป็นไงบ้างล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "The auxiliary propeller is a dead loss, but I think we can wring enough thrust from the main propeller to get us airborne.",
+      "text_th": "ใบพัดเสริมพังยับเยินไปแล้วล่ะ แต่ฉันคิดว่าเราน่าจะยังดึงแรงขับเคลื่อนจากใบพัดหลักมาใช้พยุงเครื่องให้ลอยขึ้นได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "A few minor modifications and we should be able to fly the Tiny Bronco home.",
+      "text_th": "ซ่อมนิดๆ หน่อยๆ ก็น่าจะพอขับ Tiny Bronco กลับบ้านได้แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "While you do your work, we shall keep watch over the perimeter. The enemy may yet be lurking nearby.",
+      "text_th": "ระหว่างที่ท่านทำงาน พวกเราจะเฝ้ายามรอบๆ ให้เองนะ ศัตรูอาจจะยังซุ่มซ่อนอยู่แถวนี้ก็ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "As for you, Forename , you have more than done your part today. I bid you return to the Adders' Nest and complete your enlistment.",
+      "text_th": "ส่วนท่าน [ชื่อ] วันนี้ท่านทำหน้าที่ของท่านได้ยอดเยี่ยมเกินกว่าที่คาดหวังไว้แล้วล่ะ ข้าขอให้ท่านเดินทางกลับไปที่ Adders' Nest แล้วจัดการเรื่องการสมัครเข้ากองกำลังให้เรียบร้อยเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Lieutenant",
+      "text_en": "I pray there will be no further interruptions. When next we meet, let it be as fellow Serpents of the Order!",
+      "text_th": "ข้าสวดภาวนาขออย่าให้มีเรื่องวุ่นวายอะไรมาขัดจังหวะอีกเลยนะ เมื่อเราพบกันคราวหน้า ขอให้เราได้ทักทายกันในฐานะพี่น้องทหาร Serpent แห่งกองกำลังเดียวกันเถิด!",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "I, um...just wanted to say sorry...you know, for calling you an imperial spy and all that... Got that one wrong, didn't I!? Ha ha! Seriously, though─if it hadn't been for you and the Twin Adder lads there, we'd be chained up in a dungeon by now. I'm in your debt, friend─we both are.",
+      "text_th": "ฉัน เอ่อ...แค่อยากจะขอโทษน่ะ...ที่หาว่าคุณเป็นสายลับจักรวรรดิอะไรนั่น... ฉันเดาผิดถนัดเลยใช่ไหมล่ะ!? ฮ่าๆ! แต่เอาจริงๆ นะ─ถ้าไม่ได้คุณกับพวก Twin Adder พวกนั้นช่วยไว้ ป่านนี้เราคงโดนจับล่ามโซ่อยู่ในคุกใต้ดินไปแล้ว ฉันติดหนี้คุณแล้วล่ะเพื่อน─เราทั้งคู่เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Wedge!",
+      "text_th": "ใช่แล้ว Wedge!",
+      "status": "AI"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "Thank you! We're very grateful!",
+      "text_th": "ขอบคุณครับ! พวกเราซาบซึ้งใจจริงๆ!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Forename ! It does my spirit well to see you returned!",
+      "text_th": "[ชื่อ] ! ดีใจจริงๆ ที่ได้เห็นท่านกลับมาอย่างปลอดภัย!",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "Word arrived but moments ago from the team at Nine Ivies. Lest you worry, the two engineers are safely on their way.",
+      "text_th": "ข่าวจากทีมที่ Nine Ivies เพิ่งจะส่งมาถึงเมื่อครู่นี้เอง ท่านไม่ต้องเป็นห่วงไปนะ วิศวกรทั้งสองคนเดินทางกลับไปอย่างปลอดภัยแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "The lieutenant informs me that you were instrumental in the mission's success. Had you not found Engineer Biggs when you did, and helped us to rout the Garleans, things might have been very different.",
+      "text_th": "ท่านร้อยโทแจ้งข้ามาว่า ท่านเป็นกำลังสำคัญในความสำเร็จของภารกิจนี้เลยล่ะ หากท่านไม่พบวิศวกร Biggs ในตอนนั้น และไม่ได้ช่วยพวกเราขับไล่พวก Garlean ไป สถานการณ์ก็คงจะเลวร้ายไปกว่านี้แน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "And all this before you were even inducted into the Order! You are well on your way to carving out a fine career for yourself beneath the Twin Adder standard.",
+      "text_th": "และทั้งหมดนี้ก็เกิดขึ้นก่อนที่ท่านจะได้เข้าพิธีบรรจุเข้าสู่ Order ของเราเสียอีก! ท่านกำลังสร้างเส้นทางอาชีพที่สวยงามให้กับตัวเอง ภายใต้ธงของ Twin Adder อย่างแน่นอนเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Personnel Officer",
+      "text_en": "But without further ado, let us see to your induction. Twelve willing, there won't be any further interruptions.",
+      "text_th": "แต่เราอย่ามัวเสียเวลาเลย มาเริ่มพิธีบรรจุของท่านกันเลยดีกว่า หากเทพทั้งสิบสองทรงเมตตา ก็คงจะไม่มีอะไรมาขัดจังหวะเราอีกแล้วล่ะ",
+      "status": "AI"
+    }
+  ]
+}

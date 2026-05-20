@@ -1,0 +1,140 @@
+{
+  "id": "presence-of-the-enemy",
+  "wiki_path": "/wiki/Presence_of_the_Enemy",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Presence of the Enemy",
+  "title_th": "ร่องรอยของศัตรู",
+  "title_status": "AI",
+  "level": "21",
+  "location": "East Shroud(X:21.9,Y:25.6)",
+  "npc_start": "Komuxio",
+  "dialogues": [
+    {
+      "character": "Komuxio",
+      "text_en": "This one asks dancing one for forgiveness. These ones have many troubles since walking ones last came to our abode. This one must be careful. Always careful.",
+      "text_th": "ข้าขออภัยเจ้านักเต้นด้วยนะ พวกเราเจอปัญหามากมายเลยล่ะตั้งแต่ที่พวกเดินดินมาเยือนที่อยู่ของเราคราวก่อน ข้าต้องระวังตัวให้มาก ระวังอยู่เสมอเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "But dancing one is not like other walking ones. This one can trust dancing one. This one would ask dancing one for help.",
+      "text_th": "แต่เจ้านักเต้นไม่เหมือนกับพวกเดินดินคนอื่นๆ ข้าไว้ใจเจ้านักเต้นได้ ข้าอยากจะขอความช่วยเหลือจากเจ้านักเต้นหน่อยน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Strange walking ones with bodies of steel come to the home of these ones. This one thinks steel ones come from Empire.",
+      "text_th": "พวกเดินดินแปลกๆ ที่มีร่างกายเป็นเหล็กมาที่บ้านของพวกเราน่ะ ข้าคิดว่าพวกตัวเหล็กนั่นมาจากจักรวรรดินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Where Empire goes, many living ones become dead ones. Trees fall and bushes burn. These ones' home is in danger. Danger!",
+      "text_th": "จักรวรรดิไปที่ไหน สิ่งมีชีวิตมากมายก็กลายเป็นซากศพที่นั่น ต้นไม้หักโค่น พุ่มไม้ถูกเผาทำลาย บ้านของพวกเราตกอยู่ในอันตรายแล้วล่ะ อันตราย!",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one begs of dancing one to help this one know more. Dancing one is friends with these ones and walking ones, yes? Dancing one must speak to these ones here and walking ones in hut-house and find out more.",
+      "text_th": "ข้าขอร้องล่ะเจ้านักเต้น ช่วยหาข้อมูลเรื่องนี้ให้ข้าหน่อยสิ เจ้านักเต้นเป็นเพื่อนกับพวกเราและก็พวกเดินดินใช่ไหมล่ะ? เจ้านักเต้นต้องไปคุยกับพวกเราที่นี่แล้วก็พวกเดินดินในบ้านกระท่อมเพื่อหาข้อมูลเพิ่มเติมนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one has bad feeling. This one fears steel ones are after something. But this one should speak no more. Go, dancing one. This one depends on kindness of dancing one.",
+      "text_th": "ข้ารู้สึกสังหรณ์ใจไม่ดีเลยล่ะ ข้ากลัวว่าพวกตัวเหล็กนั่นกำลังตามหาอะไรบางอย่างอยู่ แต่ข้าไม่ควรพูดอะไรไปมากกว่านี้หรอกนะ ไปเถอะเจ้านักเต้น ข้าขอฝากความหวังไว้กับความใจดีของเจ้านักเต้นนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Nathaxio",
+      "text_en": "Shush! Shush, this one says! Steel walking ones are scary, like touched ones... This one hates scary! And scary ones have scary friends...",
+      "text_th": "ชู่ว! ชู่ว ข้าบอกให้เงียบไง! พวกเดินดินตัวเหล็กนั่นน่ากลัวจะตายไป เหมือนพวกเสียสติเลย... ข้าเกลียดพวกน่ากลัว! แล้วพวกน่ากลัวก็มักจะมีเพื่อนที่น่ากลัวด้วย...",
+      "status": "AI"
+    },
+    {
+      "character": "Pelixia",
+      "text_en": "Strange steel walking ones? Yes, this one has seen. Steel walking ones carry big boxes. Maybe walking ones hunt for shiny treasure? This one likes treasure!",
+      "text_th": "พวกเดินดินตัวเหล็กแปลกๆ งั้นเหรอ? ใช่ ข้าเคยเห็นนะ พวกเดินดินตัวเหล็กแบกกล่องใบใหญ่ๆ มาด้วย บางทีพวกเดินดินอาจจะกำลังตามล่าหาสมบัติแวววาวอยู่ก็ได้นะ? ข้าชอบสมบัติล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Victor",
+      "text_en": "Fearsome types clad head to toe in steel, you say? Imperial soldiers, no doubt. I couldn't tell you what they're plotting, but I'm sure it's nothing good.",
+      "text_th": "พวกหน้าตาน่ากลัวที่ใส่ชุดเกราะเหล็กตั้งแต่หัวจรดเท้างั้นรึ? ทหารจักรวรรดิ ไม่ต้องสงสัยเลย ข้าก็บอกไม่ได้หรอกนะว่าพวกมันกำลังวางแผนอะไรอยู่ แต่ข้ามั่นใจว่าต้องไม่ใช่เรื่องดีแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Monne",
+      "text_en": "Men clad in strange armor? Why, now that you mention it, I did see some suspicious types of late. They were gathering deep in the forest. I simply assumed they were adventurers...",
+      "text_th": "พวกผู้ชายที่ใส่ชุดเกราะแปลกๆ งั้นรึ? เอ้อ พอเจ้าพูดถึงขึ้นมา ข้าก็เพิ่งจะเห็นคนท่าทางน่าสงสัยพวกนั้นเมื่อไม่นานมานี้เอง พวกมันไปรวมตัวกันอยู่ลึกเข้าไปในป่านู่น ข้าก็แค่เดาเอาว่าคงเป็นพวกนักผจญภัยน่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one is happy to see dancing one return. What did dancing one learn?",
+      "text_th": "ข้าดีใจที่เห็นเจ้านักเต้นกลับมานะ เจ้านักเต้นได้เรื่องอะไรมาบ้างล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one sees. Steel walking ones come from Empire. Carry boxes, and go walking deep, deep through trees.",
+      "text_th": "ข้าเข้าใจแล้ว พวกเดินดินตัวเหล็กมาจากจักรวรรดินี่เอง แบกกล่องมาด้วย แล้วก็เดินลึกเข้าไป ลึกเข้าไปในป่าเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "As this one thought! Steel walking ones are up to nasty, no-good things.",
+      "text_th": "อย่างที่ข้าคิดไว้เลย! พวกเดินดินตัวเหล็กกำลังวางแผนทำเรื่องเลวร้ายอยู่แน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one knows forest well. Steel walking ones try to hide, but this one will find them.",
+      "text_th": "ข้ารู้จักป่านี้ดี พวกเดินดินตัวเหล็กพยายามจะซ่อนตัว แต่ข้าจะหาพวกมันให้เจอ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one would borrow dancing one's map. This one makes mark─right here! This is where steel ones hide, this one knows. Dancing one will go looking for steel ones, yes?",
+      "text_th": "ข้าขอยืมแผนที่ของเจ้านักเต้นหน่อยนะ ข้าจะทำเครื่องหมายไว้─ตรงนี้ไง! นี่แหละที่พวกตัวเหล็กซ่อนตัวอยู่ ข้ารู้ดี เจ้านักเต้นจะไปตามหาพวกตัวเหล็กใช่ไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Dancing one is back. This one breathes sigh of relief. This one was worried. Hm? Dancing one found something?",
+      "text_th": "เจ้านักเต้นกลับมาแล้ว ข้าโล่งอกไปที ข้าเป็นห่วงแทบแย่ หืม? เจ้านักเต้นเจออะไรมางั้นรึ?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Dancing one found paper inside of box? This is a message from Empire?",
+      "text_th": "เจ้านักเต้นเจอกระดาษอยู่ในกล่องงั้นรึ? นี่คือข้อความจากจักรวรรดิเหรอเนี่ย?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one can read walking ones' symbols. Message-paper has names of food and rocks. Food and rocks were inside boxes, this one knows.",
+      "text_th": "ข้าอ่านสัญลักษณ์ของพวกเดินดินได้นะ ในกระดาษข้อความนี้มีชื่อของอาหารและหินอยู่ อาหารกับหินนั่นอยู่ในกล่องไง ข้ารู้",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "But this one does not understand. Food and rocks mentioned all come from home of these ones. How do steel walking ones know to find them?",
+      "text_th": "แต่ข้าไม่เข้าใจเลย อาหารกับหินที่พูดถึงน่ะ มาจากบ้านของพวกเราทั้งนั้นเลยนะ พวกเดินดินตัวเหล็กรู้ได้ยังไงว่าจะหามันเจอที่ไหน?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Is there sneaky one hiding behind this one's wings? Snooping one selling secrets to steel walking ones?",
+      "text_th": "มีไอ้พวกแอบๆ ซ่อนๆ อยู่หลังปีกของข้าหรือเปล่านะ? พวกชอบสอดรู้สอดเห็นที่เอาความลับไปขายให้พวกเดินดินตัวเหล็กน่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one fears for this one's home. But dancing one has helped this one much today. Dancing one must promise to always be friend to these ones.",
+      "text_th": "ข้ากลัวว่าบ้านของข้าจะเป็นอันตรายจังเลย แต่เจ้านักเต้นก็ช่วยข้าไว้มากเลยในวันนี้ เจ้านักเต้นต้องสัญญาว่าจะต้องเป็นเพื่อนกับพวกเราตลอดไปนะ",
+      "status": "AI"
+    }
+  ]
+}

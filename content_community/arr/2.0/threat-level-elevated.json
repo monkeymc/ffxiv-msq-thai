@@ -1,0 +1,104 @@
+{
+  "id": "threat-level-elevated",
+  "wiki_path": "/wiki/Threat_Level_Elevated",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Threat Level Elevated",
+  "title_th": "ยกระดับการเฝ้าระวัง",
+  "title_status": "AI",
+  "level": "11",
+  "location": "Central Shroud(X:18.9,Y:20.6)",
+  "npc_start": "Roseline",
+  "dialogues": [
+    {
+      "character": "Roseline",
+      "text_en": "We cannot allow other sentries to dismiss similar sightings—they must know what we have learned. To that end, I've prepared this letter containing everything we know about our mysterious stranger.",
+      "text_th": "พวกเราจะยอมให้ทหารยามคนอื่นมองข้ามเรื่องการพบเห็นแบบเดียวกันนี้ไม่ได้แล้วล่ะ—พวกเขาต้องรู้ในสิ่งที่เรารู้ ฉันก็เลยเขียนจดหมายที่มีข้อมูลทุกอย่างเกี่ยวกับคนแปลกหน้าลึกลับคนนี้เตรียมไว้แล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Roseline",
+      "text_en": "I need you to show it to my comrades throughout the Shroud. Once each sentry has committed the details to memory, have them write their name at the bottom for confirmation.",
+      "text_th": "ฉันอยากให้เธอเอาจดหมายนี่ไปให้เพื่อนทหารของฉันทั่วทั้ง Shroud ดูนะ พอทหารยามแต่ละคนจำรายละเอียดได้แล้ว ก็ให้พวกเขาเซ็นชื่อกำกับไว้ด้านล่างเพื่อเป็นการยืนยันด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Roseline",
+      "text_en": "Start with Elmar at the Bannock, then find Bernard at the eastern gates of Bentbranch Meadows. They ought to relay the information to the others.",
+      "text_th": "เริ่มจาก Elmar ที่ Bannock ก่อนเลย แล้วก็ไปหา Bernard ที่ประตูฝั่งตะวันออกของ Bentbranch Meadows พวกเขาน่าจะส่งข่าวไปบอกคนอื่นๆ ต่อได้",
+      "status": "AI"
+    },
+    {
+      "character": "Roseline",
+      "text_en": "Finally, make sure Eylgar sees the letter. He stands watch within the stables, so if this stranger's aim is to harm the chocobos, Eylgar may have to personally put an end to it.",
+      "text_th": "สุดท้ายนี้ ต้องแน่ใจนะว่า Eylgar ได้อ่านจดหมายนี้ด้วย เขายืนเฝ้ายามอยู่ในคอกสัตว์น่ะ ถ้าเกิดว่าเป้าหมายของคนแปลกหน้านี่คือการทำร้ายพวกโชโคโบะ Eylgar อาจจะต้องเป็นคนจัดการเรื่องนี้ด้วยตัวเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Elmar",
+      "text_en": "You don't look like you're here for training...",
+      "text_th": "ดูท่าทางเธอไม่เหมือนคนที่มาฝึกเลยนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Elmar",
+      "text_en": "A shadowy figure... Understood. I'll pass word to the recruits as well as the sentries.",
+      "text_th": "บุคคลต้องสงสัย... เข้าใจแล้ว ฉันจะส่งข่าวไปให้พวกทหารใหม่กับทหารยามคนอื่นด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Elmar",
+      "text_en": "Let me just make my mark...there, that should do.",
+      "text_th": "เดี๋ยวฉันขอเซ็นชื่อก่อนนะ... เรียบร้อย แค่นี้น่าจะพอล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Elmar",
+      "text_en": "If you follow the road south, you'll find Bernard by the bridge to Bentbranch. Godsspeed, adventurer.",
+      "text_th": "ถ้าเธอเดินไปตามถนนทางใต้ เธอจะเจอ Bernard อยู่ตรงสะพานไป Bentbranch น่ะ ขอให้โชคดีนะ นักผจญภัย",
+      "status": "AI"
+    },
+    {
+      "character": "Bernard",
+      "text_en": "You have business with me, adventurer?",
+      "text_th": "มีธุระอะไรกับฉันเหรอ นักผจญภัย?",
+      "status": "AI"
+    },
+    {
+      "character": "Bernard",
+      "text_en": "Roseline is right to be cautious. For this stranger to venture so close, yet to go to such great lengths to remain undetected, is highly suspicious. They clearly have designs on Bentbranch.",
+      "text_th": "Roseline คิดถูกแล้วล่ะที่ระวังตัว การที่คนแปลกหน้านี่เข้ามาใกล้ขนาดนี้ แต่กลับพยายามทำตัวให้รอดพ้นจากการตรวจจับซะขนาดนั้น มันน่าสงสัยมากเลยล่ะ เห็นได้ชัดว่าพวกมันมีแผนจะทำอะไรที่ Bentbranch แน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Bernard",
+      "text_en": "We appreciate the help. I should write my name here, yes?",
+      "text_th": "ขอบใจที่มาช่วยนะ ฉันต้องเซ็นชื่อตรงนี้ใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Bernard",
+      "text_en": "And...here, take it. You'll find Eylgar in the stables, past the aetheryte.",
+      "text_th": "แล้วก็... นี่ เอาไปสิ เธอจะเจอ Eylgar อยู่ในคอกสัตว์นะ เดินเลย aetheryte ไปหน่อย",
+      "status": "AI"
+    },
+    {
+      "character": "Eylgar",
+      "text_en": "Mind the birds, adventurer. They get nervous around strangers.",
+      "text_th": "ระวังพวกนกด้วยนะ นักผจญภัย พวกมันมักจะตื่นคนแปลกหน้าน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Eylgar",
+      "text_en": "What's this? A shadowy stranger near the Matron's Lethe... You've already shown this to Bernard and Elmar, I see. Good, good.",
+      "text_th": "ว่าไงนะ? จดหมายจาก Roseline งั้นเหรอ? ไหนขอดูหน่อยสิ...",
+      "status": "AI"
+    },
+    {
+      "character": "Eylgar",
+      "text_en": "Then all that's left is to inform the staff here. Not everyone here is a Wood Wailer, true, but even our stableboys wouldn't hesitate to take up arms to defend these chocobos.",
+      "text_th": "อืมมม... ฉันก็ไม่แปลกใจหรอกนะ นี่ไม่ใช่ครั้งแรกหรอกที่มีคนคิดจะขโมยโชโคโบะของเราไปน่ะ",
+      "status": "AI"
+    }
+  ]
+}

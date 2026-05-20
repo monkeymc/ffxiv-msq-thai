@@ -1,0 +1,170 @@
+{
+  "id": "we-come-in-peace",
+  "wiki_path": "/wiki/We_Come_in_Peace",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/e/ec/We_Come_in_Peace_Image.png",
+  "patch": "2.0",
+  "title_en": "We Come in Peace",
+  "title_th": "เรามาในฐานะมิตร",
+  "title_status": "AI",
+  "level": "20",
+  "location": "New Gridania(X:9.7,Y:11.1)",
+  "npc_start": "Vorsaile Heuloix",
+  "dialogues": [
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Hail, adventurer. I bid you welcome to the Adders' Nest. Do you seek to entwine your destiny with the Twin Adder?",
+      "text_th": "สวัสดี นักผจญภัย ยินดีต้อนรับสู่ Adders' Nest นะ คุณมาที่นี่เพื่อจะนำโชคชะตาของคุณมาผูกพันกับภาคี Twin Adder งั้นหรือ?",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Well! If it isn't [Rank] Surname , reporting for duty. That's the zeal I like to see from an enterprising young Serpent",
+      "text_th": "แหม! นี่มัน [ยศ] Surname ที่มารายงานตัวนี่นา นั่นแหละความกระตือรือร้นที่ฉันอยากเห็นจาก Serpent หน้าใหม่ไฟแรง",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Morning / Good day / Good evening , Commander! Sorry to disappoint you, but other business brings us here today.",
+      "text_th": "สวัสดีตอนเช้า / สวัสดีตอนบ่าย / สวัสดีตอนเย็น ท่านผู้บัญชาการ! ต้องขอโทษด้วยที่ทำให้ท่านผิดหวัง แต่เรามีธุระอื่นถึงได้มาที่นี่ในวันนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Yda and Papalymo, always a pleasure to see the two of you. My men tell me you quest in the name of the Scions of late.",
+      "text_th": "Yda กับ Papalymo ยินดีที่ได้พบพวกคุณทั้งสองคนเสมอ คนของฉันรายงานว่าช่วงนี้พวกคุณทำภารกิจในนามของ Scions สินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Quite so, Commander. A little bird told us that the Twin Adder was in need of our adventuring prowess.",
+      "text_th": "ถูกต้องแล้วท่านผู้บัญชาการ มีนกน้อยกระซิบมาบอกเราว่า Twin Adder กำลังต้องการความสามารถในการผจญภัยของพวกเราอยู่",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Aye, your little bird sings true. No doubt you've heard that we're investigating the sylphs─that curious beast tribe that calls the depths of the Twelveswood home.",
+      "text_th": "อ้อ นกน้อยของเจ้าร้องเพลงบอกความจริงสินะ ไม่ต้องสงสัยเลยว่าพวกเจ้าคงได้ยินมาแล้วว่าเรากำลังสืบสวนเกี่ยวกับพวก sylph—ชนเผ่าคนเถื่อนประหลาดๆ ที่เรียกส่วนลึกของ Twelveswood ว่าบ้านนั่นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "The sylphs are, for the most part, a peaceable bunch─much to the delight of the Elder Seedseer, who has no desire to see her people embroiled in yet another fruitless war.",
+      "text_th": "โดยส่วนใหญ่แล้วพวก sylph เป็นพวกที่รักสงบ—ซึ่งก็เป็นที่น่ายินดีของท่าน Elder Seedseer ผู้ซึ่งไม่มีความปรารถนาที่จะเห็นประชาชนของเธอต้องเข้าไปพัวพันกับสงครามที่ไร้ผลอีกต่อไป",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "The Twin Adder is of the same mind, and 'tis precisely for this reason that the sylphs' relation to the primal Ramuh has raised a flag of warning amongst our ranks.",
+      "text_th": "Twin Adder ก็มีความคิดเห็นเช่นเดียวกัน และนี่ก็เป็นเหตุผลว่าทำไมความสัมพันธ์ของพวก sylph กับ Primal Ramuh ถึงได้สร้างความกังวลใจให้กับกองกำลังของเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Friendly as they may appear, beastmen will be beastmen.",
+      "text_th": "ถึงแม้จะดูเป็นมิตรแค่ไหน แต่คนเถื่อนก็ยังเป็นคนเถื่อนอยู่ดี",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Should there be even a sliver of a chance that the summoning of the primal might disturb the balance between Gridania and the sylphic tribes, it is a possibility we cannot ignore.",
+      "text_th": "หากมีโอกาสแม้เพียงเศษเสี้ยวว่าการอัญเชิญ Primal อาจจะทำลายความสมดุลระหว่าง Gridania และเผ่า sylph ได้ เราก็ไม่อาจเพิกเฉยต่อความเป็นไปได้นั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Better to be safe than sorry, indeed.",
+      "text_th": "ปลอดภัยไว้ก่อนดีกว่าจริงๆ ด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Do we strike at Ramuh, or leave the sylphs to their own ways? That is the question, yet I find myself lacking ample knowledge to arrive at an answer.",
+      "text_th": "เราควรจะโจมตี Ramuh หรือปล่อยให้พวก sylph ทำตามใจพวกมัน? นั่นคือคำถามที่ข้ายังคงขาดความรู้ที่เพียงพอในการตัดสินใจ",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "Opinions abound within Gridania, but to listen only to one's own is among the greatest mistakes a commander can make.",
+      "text_th": "ใน Gridania มีความคิดเห็นที่หลากหลาย แต่การรับฟังแค่ความคิดเห็นของตัวเองถือเป็นความผิดพลาดที่ยิ่งใหญ่ที่สุดอย่างหนึ่งของคนเป็นผู้บัญชาการ",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "I would hear from the other side─the sylphs themselves─and seek an impartial party to serve as my liaison. That is where you Scions come in.",
+      "text_th": "ข้าอยากจะได้ยินจากอีกฝ่าย—จากพวก sylph ด้วยตัวเอง—และอยากจะหาคนที่เป็นกลางมาเป็นตัวกลางประสานงานให้ นั่นแหละที่พวกเจ้า Scions จะได้เข้ามามีบทบาทล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "The sylphs of Little Solace remain untempered, and have held many a productive dialogue with our people. I would hear their candid thoughts on their tempered brethren.",
+      "text_th": "พวก sylph แห่ง Little Solace ยังคงเป็นอิสระจากการถูกควบคุมจิตใจ (untempered) และได้พูดคุยกับพวกเราอย่างสร้างสรรค์มาหลายต่อหลายครั้ง ข้าอยากได้ยินความคิดเห็นที่ตรงไปตรงมาของพวกมันเกี่ยวกับพี่น้องของพวกมันที่ถูกควบคุมจิตใจ (tempered)",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "That said, I urge you to exercise due caution. Sylphic tradition and etiquette bear little resemblance to our own. It would not do to have any cross-cultural faux pas get in the way of a productive parley.",
+      "text_th": "อย่างไรก็ตาม ข้าขอให้เจ้าระมัดระวังตัวให้ดี ประเพณีและมารยาทของพวก sylph นั้นแทบจะไม่เหมือนของพวกเราเลย มันคงจะไม่ดีแน่ถ้าความผิดพลาดทางวัฒนธรรมจะมาเป็นอุปสรรคต่อการเจรจาที่กำลังจะเกิดขึ้น",
+      "status": "AI"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text_en": "En route to Little Solace, you will come upon the Hawthorne Hut. Our officer stationed there can enlighten you as to how to win the sylphs' favor. May your expedition be a worthwhile one.",
+      "text_th": "ระหว่างทางไป Little Solace เจ้าจะพบกับกระท่อม Hawthorne Hut เจ้าหน้าที่ของเราที่ประจำอยู่ที่นั่นสามารถให้คำแนะนำเจ้าได้ว่าควรทำยังไงถึงจะได้ใจพวก sylph ขอให้การเดินทางของเจ้าคุ้มค่านะ",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "A friendly palaver with the sylphs? This should be a pleasant enough diversion.",
+      "text_th": "ไปเจรจาผูกมิตรกับพวก sylph งั้นเหรอ? น่าจะเป็นอะไรที่สนุกดีนะเนี่ย",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "The Hawthorne Hut, was it? Why, I believe the ferry departing from Westshore Pier should take us straight there.",
+      "text_th": "กระท่อม Hawthorne Hut ใช่ไหม? อ้อ ฉันว่านั่งเรือข้ามฟากจากท่า Westshore Pier ไป ก็น่าจะส่งตรงถึงที่เลยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "A friendly palaver, indeed! I hope this will be as straightforward as you say, Papalymo.",
+      "text_th": "การเจรจาฉันมิตรสินะ! ฉันหวังว่ามันจะง่ายอย่างที่นายพูดนะ Papalymo",
+      "status": "AI"
+    },
+    {
+      "character": "Mitainie",
+      "text_en": "Aye, the ferry docked at the base of this hill will carry you across the lake to the East Shroud.",
+      "text_th": "ใช่แล้วล่ะ เรือข้ามฟากที่จอดอยู่ที่ตีนเขานี้ จะพาพวกเจ้าข้ามทะเลสาบไปยัง East Shroud",
+      "status": "AI"
+    },
+    {
+      "character": "Mitainie",
+      "text_en": "Once you're ashore, head due east and you should find the Hawthorne Hut without much trouble.",
+      "text_th": "พอเจ้าขึ้นฝั่งแล้ว ให้มุ่งหน้าไปทางทิศตะวันออก แล้วก็น่าจะเจอกระท่อม Hawthorne Hut ได้ไม่ยากนักหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Amelain",
+      "text_en": "Indeed, I am Amelain of the Twin Adder. I understand you're here to learn of the sylphs, yes?",
+      "text_th": "ใช่แล้ว ข้าคือ Amelain แห่ง Twin Adder เข้าใจว่าเจ้ามาที่นี่เพื่อเรียนรู้เกี่ยวกับพวก sylph ใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Amelain",
+      "text_en": "For all their whimsy, they are a wary lot. Particularly since the Empire has come to the Shroud.",
+      "text_th": "ถึงพวกมันจะแปลกๆ ไปบ้าง แต่พวกมันก็เป็นพวกที่ขี้ระแวงนะ โดยเฉพาะตั้งแต่ตอนที่พวกจักรวรรดิเข้ามาใน Shroud",
+      "status": "AI"
+    },
+    {
+      "character": "Amelain",
+      "text_en": "Earn their trust, however, and they're as friendly as any folk. They have their quirks, but so do we all, no?",
+      "text_th": "แต่ถ้าหากเจ้าได้รับความไว้วางใจจากพวกมัน พวกมันก็จะเป็นมิตรเหมือนกับคนทั่วไปนั่นแหละ พวกมันมีนิสัยแปลกๆ แต่พวกเราทุกคนก็มีเหมือนกัน ไม่ใช่หรือ?",
+      "status": "AI"
+    },
+    {
+      "character": "Amelain",
+      "text_en": "Would you know more, you'd do well to speak with the master of this hut, Rolfe. He's forgotten more about the sylphs than I'll ever know.",
+      "text_th": "ถ้าเจ้าอยากรู้เรื่องนี้มากขึ้น เจ้าไปคุยกับเจ้าของกระท่อมนี้ที่ชื่อ Rolfe จะดีกว่า เขาลืมเรื่องราวเกี่ยวกับพวก sylph ไปมากกว่าที่ข้าเคยรู้มาซะอีก",
+      "status": "AI"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+name: Auto-tag Community Translations
+
+# Runs on every PR that touches content_community/ JSON files.
+# Detects which text_th values changed, flips their status from "AI" to
+# "Community", and commits the update back onto the PR branch.
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths:
+      - 'content_community/**/*.json'
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  auto-tag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch base branch for diff
+        run: git fetch origin ${{ github.base_ref }}
+
+      - name: Tag modified translations as Community
+        run: python scripts/auto_tag_community.py origin/${{ github.base_ref }}
+
+      - name: Commit tagged files if any changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content_community/
+          if ! git diff --staged --quiet; then
+            git commit -m "auto: tag community translations [skip ci]"
+            git push
+          else
+            echo "Nothing to commit."
+          fi

@@ -1,0 +1,98 @@
+{
+  "id": "we-must-rebuild",
+  "wiki_path": "/wiki/We_Must_Rebuild",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "We Must Rebuild",
+  "title_th": "เราต้องฟื้นฟู",
+  "title_status": "AI",
+  "level": "4",
+  "location": "Ul'dah - Steps of Nald(X:11.6,Y:9.6)",
+  "npc_start": "Momodi",
+  "dialogues": [
+    {
+      "character": "Momodi",
+      "text_en": "Well, younglin', how are you findin' our fine Ul'dah, then? Got your bearin's about you yet?",
+      "text_th": "เป็นยังไงบ้าง หนุ่ม? อุล'ดาห์ถูกใจไหม? คุ้นทางพอแล้วหรือยัง?",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "If so, mayhap it's time you ventured beyond the city walls. The bustlin' streets of Ul'dah are one thing, but the wilds of Thanalan─that's another altogether.",
+      "text_th": "ถ้าพร้อมแล้ว บางทีก็ถึงเวลาออกไปนอกกำแพงเมือง ถนนพลุกพล่านในอุล'ดาห์นั้นเรื่องหนึ่ง แต่ป่าธานาลันนั้นต่างกันสิ้นเชิง",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "I know a bloke you might fancy speakin' to, and he you. Name of Papashan. You'll find him over at the Ul'dah Dispatch Yard. No doubt he'll have some work for you.",
+      "text_th": "รู้จักผู้ชายคนหนึ่งที่น่าคุยด้วย ชื่อ Papashan หาเขาได้ที่ ด่านส่งกำลังอุล'ดาห์ เขาน่าจะมีงานให้แน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "The Dispatch Yard's over in central Thanalan. Just head out the door across the hall and you'll see the Gate of Nald staring right back at you. Pass through it and head east. You'll come upon it 'fore long.",
+      "text_th": "ด่านส่งกำลังอยู่ใจกลางธานาลัน แค่เดินออกประตูฝั่งตรงข้ามโถงแล้วจะเห็น ประตูนาลด์ ตรงหน้า ผ่านออกไปแล้วเดินไปทางตะวันออก ไม่นานก็จะถึง",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "There's dangers beyond the wall, though. More than I'd care to count. Nothin' too terrible, mind you, but feisty enough to attack if you draw near. Don't say nobody cared enough to warn you.",
+      "text_th": "แต่มีอันตรายนอกกำแพงนะ มากกว่าที่อยากนับ ไม่ถึงกับน่ากลัวมาก แต่ก็ดุพอที่จะโจมตีถ้าเข้าใกล้ อย่าบอกว่าไม่มีใครเตือน",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Well, you certainly look the part of an adventurer, my friend. Might you be the good soul Momodi advised me to expect, hm?",
+      "text_th": "โอ้ เจ้าดูเหมือนนักผจญภัยจริงๆ เลยเพื่อน ใช่คนที่ Momodi บอกให้รอไหมนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "I am Papashan, stationmaster of this humble Dispatch Yard.",
+      "text_th": "ฉันชื่อ Papashan หัวหน้าสถานีของด่านส่งกำลังเล็กๆ แห่งนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "An empty title, I assure you. I truly am no more than a tired old Lalafell passing his final years in quiet and solitude.",
+      "text_th": "ตำแหน่งเปล่าๆ เชื่อเถอะ ฉันไม่ใช่อะไรมากกว่า ลาลาเฟลล์ แก่เหนื่อยคนหนึ่งที่ใช้ชีวิตบั้นปลายในความสงบเงียบ",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Twelve know there have been plenty of both these last five years since the Calamity struck. The devastation...was vast.",
+      "text_th": "สิบสองเทพรู้ดีว่ามีทั้งสองสิ่งนั้นมากพอในช่วงห้าปีที่ผ่านมานับตั้งแต่มหาวิบัติมาเยือน การทำลายล้าง...กว้างใหญ่ยิ่งนัก",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Yet now true Ul'dahns work together, doing all in our power to rebuild what was laid to ruin. By the sweat of our brows and the love of our home, we have rebuilt Ul'dah to the grandeur and majesty that you see today.",
+      "text_th": "แต่บัดนี้ชาวอุล'ดาห์แท้ๆ ร่วมแรงร่วมใจ ทุ่มเทสุดกำลังเพื่อฟื้นฟูสิ่งที่พังทลาย ด้วยเหงื่อแรงงานและความรักในบ้านเกิด เราได้สร้างอุล'ดาห์ขึ้นใหม่ให้โอ่อ่าสง่างามดังที่เห็นในวันนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "The railways which run through this Dispatch Yard, too, were born of the noble efforts of a great many souls.",
+      "text_th": "ทางรถไฟที่ผ่านด่านส่งกำลังแห่งนี้ก็เกิดจากความพยายามอันสูงส่งของผู้คนมากมายเช่นกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "But there is still much work to be done. The wounds left by the Calamity run deep. Isolated areas beyond our lines of supply remain, and there are places yet wanting for relief and restoration.",
+      "text_th": "แต่ยังมีงานอีกมากที่ต้องทำ บาดแผลที่มหาวิบัติทิ้งไว้นั้นลึกนัก ยังมีพื้นที่โดดเดี่ยวที่อยู่นอกสายส่งกำลัง และมีสถานที่อีกหลายแห่งที่ยังรอการช่วยเหลือและฟื้นฟู",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Ul'dah needs the aid of you and your brethren, friend. In fact, never has our need been more dire.",
+      "text_th": "อุล'ดาห์ต้องการความช่วยเหลือจากเจ้าและเพื่อนนักผจญภัย เพื่อน ที่จริงไม่เคยมีเวลาใดที่เราต้องการความช่วยเหลือเร่งด่วนกว่านี้",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Which brings me to the point, I suppose. I do believe I may have some work suited to one of your ability.",
+      "text_th": "ซึ่งก็นำมาสู่จุดประสงค์ของเรา ฉันคิดว่ามีงานที่เหมาะกับความสามารถของเจ้าอยู่",
+      "status": "AI"
+    }
+  ]
+}

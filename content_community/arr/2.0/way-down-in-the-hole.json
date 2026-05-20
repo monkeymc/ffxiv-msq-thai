@@ -1,0 +1,662 @@
+{
+  "id": "way-down-in-the-hole",
+  "wiki_path": "/wiki/Way_Down_in_the_Hole",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/6/6a/Way_Down_in_the_Hole_Image.png",
+  "patch": "2.0",
+  "title_en": "Way Down in the Hole",
+  "title_th": "ลงไปในหลุม",
+  "title_status": "AI",
+  "level": "9",
+  "location": "Central Thanalan(X:20.7,Y:18.3)",
+  "npc_start": "Zuzumeda",
+  "dialogues": [
+    {
+      "character": "Zuzumeda",
+      "text_en": "Ah, the altruistic adventurer! I was hoping we'd bump into each other. Why? Because the most fascinating piece of news recently reached my ears, and I'm eager to share it! May I?",
+      "text_th": "อา นักผจญภัยผู้ใจบุญ! ฉันหวังอยู่เลยว่าจะได้เจอคุณ ทำไมน่ะเหรอ? ก็เพราะว่าเมื่อเร็วๆ นี้มีข่าวที่น่าสนใจที่สุดเข้าหูฉันมา และฉันก็อยากจะเล่าให้ฟังใจจะขาดเลยล่ะ! ขอฉันเล่าได้ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Zuzumeda",
+      "text_en": "Rumor has it that there is a vast, untapped vein of ore beneath the ruins of Sil'dih.",
+      "text_th": "มีข่าวลือว่ามีสายแร่ขนาดมหาศาลที่ยังไม่เคยมีใครขุดค้นพบอยู่ใต้ซากปรักหักพังของ Sil'dih น่ะสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Zuzumeda",
+      "text_en": "But that is not all! Inconceivably, the Concern appears to be entirely ignorant of its existence. And even as we speak, a young upstart─a self-made merchant from Stonesthrow of all places─is moving to claim it!",
+      "text_th": "แต่นั่นยังไม่หมดนะ! เป็นเรื่องเหลือเชื่อมากที่พวก Concern ดูเหมือนจะไม่รู้เรื่องการมีอยู่ของมันเลยแม้แต่น้อย และในขณะที่เรากำลังคุยกันอยู่นี้ ก็มีพ่อค้าหน้าใหม่ไฟแรงคนนึง─พ่อค้าที่สร้างตัวด้วยตัวเองจาก Stonesthrow ด้วยนะ─กำลังเคลื่อนไหวเพื่อจะไปยึดครองมันแล้วล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Zuzumeda",
+      "text_en": "The fellow's name is Wystan, and he is a very, very ambitious young man. Not only does he intend to secure exclusive excavation rights, but they say his master plan is to use his new fortune to curry favor with the Sacrarium.",
+      "text_th": "ชายคนนี้ชื่อ Wystan และเขาก็เป็นเด็กหนุ่มที่มีความทะเยอทะยานสูงมากๆ เขาไม่ได้แค่ตั้งใจจะได้สิทธิ์ผูกขาดในการขุดค้นเท่านั้นนะ แต่พวกเขาว่ากันว่าแผนการใหญ่ของเขาคือ การใช้ความมั่งคั่งใหม่นี้เพื่อเอาอกเอาใจพวก Sacrarium",
+      "status": "AI"
+    },
+    {
+      "character": "Zuzumeda",
+      "text_en": "Of course, the thaumaturges only consider the opinions of the most wealthy when drafting the laws of Ul'dah. If you would have your voice heard, you must be prepared to pay a sultan's ransom.",
+      "text_th": "แน่นอนว่าพวกนักบวช thaumaturges จะรับฟังความคิดเห็นเฉพาะของคนที่มีเงินหนาที่สุดเท่านั้น เวลาที่จะร่างกฎหมายของ Ul'dah ถ้าคุณอยากให้เสียงของคุณส่งไปถึงล่ะก็ คุณต้องเตรียมจ่ายเงินค่าไถ่ตัวสุลต่านให้ได้เลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Zuzumeda",
+      "text_en": "One voice which is invariably heard belongs to Lord Lolorito. He has long lavished gil upon the thaumaturges, and some claim that he devises new laws with the express intention of ruining his competitors while protecting his own interests.",
+      "text_th": "เสียงหนึ่งที่พวกนั้นมักจะได้ยินอยู่เสมอคือเสียงของท่านลอร์ด Lolorito เขามักจะแจกจ่ายเงินกิลให้กับพวก thaumaturges อย่างฟุ่มเฟือยมานานแล้ว และบางคนก็อ้างว่าเขาเป็นคนคิดค้นกฎหมายใหม่ๆ ขึ้นมาโดยมีเจตนาแอบแฝงที่จะทำลายคู่แข่งทางการค้า ในขณะเดียวกันก็ปกป้องผลประโยชน์ของตัวเองไปด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Zuzumeda",
+      "text_en": "Suffice it to say, if Wystan thinks he can compete with the likes of the Syndicate, he's in for a rude awakening. But that eventuality may yet be a little way off. For the present, he is moving ahead with his plans, and assembling a team to survey the site.",
+      "text_th": "เอาเป็นว่า ถ้า Wystan คิดว่าเขาสามารถสู้กับพวก Syndicate ได้ล่ะก็ เขาคงต้องเจอเรื่องฝันร้ายจนตาสว่างแน่ๆ แต่เรื่องแบบนั้นก็อาจจะยังห่างไกลอยู่บ้างในตอนนี้ แต่ตอนนี้ เขากำลังเดินหน้าทำตามแผนการของเขาอยู่ และกำลังรวบรวมทีมเพื่อไปสำรวจสถานที่ขุดค้น",
+      "status": "AI"
+    },
+    {
+      "character": "Zuzumeda",
+      "text_en": "I'm told he's at the Coffer & Coffin right now, recruiting able-bodied adventurers to escort his prospectors.",
+      "text_th": "ฉันได้ยินมาว่าตอนนี้เขาอยู่ที่ Coffer & Coffin เพื่อรับสมัครนักผจญภัยที่มีฝีมือไปช่วยคุ้มกันพวกนักสำรวจของเขา",
+      "status": "AI"
+    },
+    {
+      "character": "Zuzumeda",
+      "text_en": "Warin said you were looking for work. Mayhap you should meet Wystan and volunteer for his expedition?",
+      "text_th": "Warin บอกว่าคุณกำลังหางานอยู่ บางทีคุณน่าจะไปพบ Wystan และอาสาเข้าร่วมทีมสำรวจของเขาดูนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Come to join? Sorry, but you're too late.",
+      "text_th": "มาสมัครเหรอ? เสียใจด้วยนะ แต่คุณมาช้าไปแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Some Brass Blades looking for extra coin volunteered, and the team's already en route to the ruins.",
+      "text_th": "มีพวก Brass Blades บางคนที่อยากได้เงินพิเศษอาสาไปกันแล้ว และตอนนี้ทีมสำรวจก็กำลังมุ่งหน้าไปที่ซากปรักหักพังแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "But look, I know it's not easy to find work these days. If you're interested, there's something else you can do for me.",
+      "text_th": "แต่ฟังนะ ฉันรู้ว่าเดี๋ยวนี้มันหางานยาก ถ้าคุณสนใจ ฉันยังมีงานอื่นให้คุณทำอีกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "There are these children outside─little ones from Stonesthrow. I look after them when I've time to spare, and so they've taken to following me around, even when I tell them not to.",
+      "text_th": "มีพวกเด็กๆ อยู่ข้างนอกนั่น─เป็นเด็กๆ จาก Stonesthrow น่ะ ฉันคอยดูแลพวกแกเวลาที่ฉันพอมีเวลาว่าง พวกแกก็เลยชอบตามฉันต้อยๆ ถึงแม้ว่าฉันจะบอกไม่ให้ตามแล้วก็เถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "But what with overseeing the search for the vein, I barely have a chance to visit the privy at the moment, much less entertain younglings. Can you give them these ginger cookies and convince them to go home for me?",
+      "text_th": "แต่ด้วยความที่ฉันต้องคอยคุมการค้นหาสายแร่ ช่วงนี้ฉันแทบจะไม่มีเวลาไปเข้าห้องน้ำเลย นับประสาอะไรกับการมาดูแลเด็กๆ คุณช่วยเอาคุกกี้ขิงพวกนี้ไปให้เด็กๆ แล้วเกลี้ยกล่อมให้พวกแกกลับบ้านไปแทนฉันทีได้ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Give the children those cookies and convince them to go home without me. I'll see that you're rewarded for your trouble.",
+      "text_th": "เอาคุกกี้พวกนั้นไปให้เด็กๆ แล้วเกลี้ยกล่อมให้พวกแกกลับบ้านไปโดยไม่มีฉันที ฉันจะดูแลเรื่องค่าตอบแทนสำหรับความเหนื่อยยากของคุณให้เอง",
+      "status": "AI"
+    },
+    {
+      "character": "Starveling Child A",
+      "text_en": "I like playing with Wystan. He makes sure no one bullies us.",
+      "text_th": "หนูชอบเล่นกับ Wystan เขาคอยดูแลไม่ให้ใครมารังแกพวกเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Starveling Child A",
+      "text_en": "Wystan's worried about us? Oh, I don't want to make him worried. I'm a good girl, so I'll go home.",
+      "text_th": "Wystan เป็นห่วงพวกเราเหรอ? โอ้ หนูไม่อยากให้เขาต้องเป็นห่วงเลย หนูเป็นเด็กดี เพราะงั้นหนูจะกลับบ้านล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Starveling Child B",
+      "text_en": "I ain't goin' nowhere, mister / missus ! I'm too hungry to move, besides, so you'll have to carry me!",
+      "text_th": "ผมไม่ไปไหนทั้งนั้นแหละ พี่ชาย / พี่สาว! ผมหิวจนขยับตัวไม่ไหวแล้วด้วย ถ้าจะให้ไป พี่ก็ต้องอุ้มผมไปล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Starveling Child B",
+      "text_en": "A cookie!? ...Well, if Wystan really wants me to go home, then all right. But I want two next time!",
+      "text_th": "คุกกี้เหรอ!? ...อืม ถ้า Wystan อยากให้ผมกลับบ้านจริงๆ ล่ะก็ ตกลงฮะ แต่คราวหน้าผมขอสองชิ้นนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Starveling Child C",
+      "text_en": "But Wystan always plays with us! Why won't he come out and play?",
+      "text_th": "แต่ Wystan ออกมาเล่นกับพวกเราประจำเลยนะ! ทำไมเขาถึงไม่ออกมาเล่นล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Starveling Child C",
+      "text_en": "Wow, a ginger cookie! I'd better save some for my brother. I know─I'll go home and eat it with him!",
+      "text_th": "ว้าว คุกกี้ขิงนี่นา! หนูต้องเก็บไว้ให้พี่ชายกินบ้างแล้ว ฉันรู้แล้วล่ะ─หนูจะกลับบ้านไปกินกับพี่ชายดีกว่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Starveling Child D",
+      "text_en": "Wystan's kind to us. I like him.",
+      "text_th": "Wystan ใจดีกับพวกเรา หนูชอบเขา",
+      "status": "AI"
+    },
+    {
+      "character": "Starveling Child D",
+      "text_en": "This is for me? I want to eat it, but then again I don't, because then it'd be gone.",
+      "text_th": "นี่ให้หนูเหรอ? หนูอยากกินนะ แต่ก็ไม่อยากกินด้วย เพราะถ้ากินแล้วมันก็จะหมดน่ะสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Starveling Child D",
+      "text_en": "Tell Wystan thanks, and...tell him I'm sorry for getting in the way.",
+      "text_th": "ฝากไปขอบคุณ Wystan ด้วยนะ แล้วก็... บอกเขาว่าหนูขอโทษที่ทำตัวเกะกะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Thank you, adventurer. I only wish I could do more. Stonesthrow is no place for a child.",
+      "text_th": "ขอบคุณนะ นักผจญภัย ฉันแค่หวังว่าตัวเองจะทำอะไรได้มากกว่านี้ Stonesthrow ไม่ใช่ที่สำหรับเด็กเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "...Not that my childhood was much happier. Never enough food to go around, nor work to earn it─but no shortage of contempt from the great and the good.",
+      "text_th": "...ไม่ใช่ว่าชีวิตวัยเด็กของฉันมันจะมีความสุขไปกว่านี้หรอกนะ อาหารไม่เคยมีกินอิ่มท้อง แถมยังไม่มีงานให้ทำเพื่อแลกอาหารด้วย─แต่สิ่งที่ได้รับอย่างไม่ขาดสายก็คือความดูถูกเหยียดหยามจากพวกผู้ดีมีเงิน",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "I remember thinking things could only get better... Yet now, after the Calamity and everything else...for us refugees to be forced to live outside the gates like bloody beastmen is a disgrace.",
+      "text_th": "ฉันจำได้ว่าเคยคิดว่าเรื่องพวกนี้มันต้องดีขึ้นสิ... แต่มาตอนนี้ หลังจากเกิด Calamity และเรื่องอื่นๆ แล้ว... การที่ผู้อพยพอย่างพวกเราต้องถูกบังคับให้มาอยู่รวมกันนอกประตูเมืองเหมือนกับพวกคนเถื่อน มันเป็นเรื่องน่าอับอายจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "They say with enough money you can change the laws here. So I'm going to make a fortune and do just that!",
+      "text_th": "เขาว่ากันว่าถ้ามีเงินมากพอ คุณก็สามารถเปลี่ยนกฎหมายที่นี่ได้ งั้นฉันก็จะสร้างความมั่งคั่ง แล้วก็จะทำแบบนั้นแหละ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "I'll buy the excavation rights and start my own mining business. Then I'll give my fellow refugees the work they're crying out for, and pay them fairly !",
+      "text_th": "ฉันจะกว้านซื้อสิทธิ์ในการขุดค้น แล้วก็เริ่มธุรกิจเหมืองแร่ของตัวเอง จากนั้นฉันก็จะมอบงานที่ผู้อพยพอย่างเราๆ ต้องการอย่างหนักให้กับพวกเขา และจ่ายค่าแรงอย่างเป็นธรรม!",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "The mining companies have profited from our suffering for too long. But in their hubris they've grown complacent─presenting us with a golden opportunity.",
+      "text_th": "พวกบริษัทเหมืองแร่หากำไรจากความทุกข์ยากของพวกเรามานานเกินไปแล้ว แต่ด้วยความจองหอง พวกมันก็เลยชะล่าใจ─นี่แหละโอกาสทองของเราเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "And we will take it, adventurer─we will reclaim our dignity, and with it our place within those walls.",
+      "text_th": "และเราก็จะคว้ามันเอาไว้ นักผจญภัย─เราจะทวงคืนศักดิ์ศรีของเรา และทวงคืนที่ทางของเราที่อยู่หลังกำแพงเหล่านั้นกลับมาให้ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Brass Blade",
+      "text_en": "We found her! We found the vein! Wystan, ye must come an' see!",
+      "text_th": "เราเจอเธอแล้ว! เราเจอสายแร่แล้ว! Wystan แกต้องมาดูเองกับตานะเว้ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Already!? Amazing! We leave at once!",
+      "text_th": "เจอแล้วงั้นเหรอ!? สุดยอดไปเลย! เราจะออกเดินทางกันเดี๋ยวนี้แหละ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "You should join me, my friend! Come and bear witness to history in the making!",
+      "text_th": "คุณน่าจะไปกับฉันด้วยนะ เพื่อน! มาเป็นสักขีพยานในหน้าประวัติศาสตร์กันเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Brass Blade",
+      "text_en": "Thal's balls, son! A vein of ore in the middle of a ruined bloody city? Godsdamned idiot!",
+      "text_th": "ไข่ของ Thal เอ๊ย ไอ้หนู! สายแร่ใจกลางเมืองร้างเนี่ยนะ? ไอ้โง่เอ๊ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Brass Blade",
+      "text_en": "What did ye think was gonna happen? That ye'd strike it rich and get cozy with the Order, while the masters of Ul'dah looked on? No one crosses the Syndicate!",
+      "text_th": "แกคิดว่าจะเกิดอะไรขึ้นล่ะ? คิดว่าจะรวยเละแล้วก็ไปตีสนิทกับพวก Order ในขณะที่พวกนายใหญ่แห่ง Ul'dah เอาแต่นั่งมองแกทำงั้นเรอะ? ไม่มีใครกล้าขัดขวาง Syndicate หรอกนะเว้ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "<pant> <pant> The...the Syndicate!?",
+      "text_th": "<แฮ่กๆ> <แฮ่กๆ> พวก... พวก Syndicate งั้นเหรอ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Brass Blade",
+      "text_en": "Hah! Finally sunk in, has it?",
+      "text_th": "ฮะ! ในที่สุดก็ตาสว่างซะทีสินะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Brass Blade",
+      "text_en": "Well look at this! Not all yer friends've deserted ye, it seems... Lucky boy! Now ye won't have to die alone!",
+      "text_th": "แหม ดูนี่สิ! ดูเหมือนเพื่อนๆ ของแกจะไม่ได้หนีหายไปหมดนี่นา... โชคดีจังนะไอ้หนู! ทีนี้แกก็ไม่ต้องตายอย่างโดดเดี่ยวแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "O mournful voice of creation! Grant ye this humble stone a soul, that it may wake to life!",
+      "text_th": "โอ้ เสียงเพรียกแห่งการสร้างสรรค์อันโศกเศร้า! ขอมอบจิตวิญญาณให้กับหินก้อนน้อยนี้ เพื่อให้มันตื่นขึ้นมามีชีวิต!",
+      "status": "AI"
+    },
+    {
+      "character": "Brass Blade",
+      "text_en": "Who's that spoutin' gibberish!? Show yerself!",
+      "text_th": "ใครกันที่มาพ่นเรื่องไร้สาระอยู่แถวนี้!? เผยตัวออกมาซะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Brass Blade",
+      "text_en": "This ain't part o' the plan! Bloody hells, does Lord Lolorito mean to kill us too!?",
+      "text_th": "นี่มันไม่ได้อยู่ในแผนนี่หว่า! ให้ตายสิ ท่านลอร์ด Lolorito ตั้งใจจะฆ่าพวกเราด้วยงั้นเรอะ!?",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "You are strong. But are you strong enough to withstand this ?",
+      "text_th": "แกแข็งแกร่งนะ แต่แกจะแข็งแกร่งพอที่จะรับมือกับสิ่งนี้ได้หรือเปล่าล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Impossible! Never has the golem been so sorely tested!",
+      "text_th": "เป็นไปไม่ได้! ไม่เคยมีใครรับมือกับโกเลมได้หนักขนาดนี้มาก่อนเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "That the golem could be vanquished...",
+      "text_th": "โกเลมถูกจัดการได้งั้นรึ...",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "That man / woman is no ordinary adventurer.",
+      "text_th": "ไอ้หมอนั่น / ยัยนั่น ไม่ใช่นักผจญภัยธรรมดาแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Damn, seems I've missed all the fun.",
+      "text_th": "ให้ตายสิ ดูเหมือนฉันจะพลาดความสนุกไปซะแล้วสิเนี่ย",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I see you didn't need my help this time.",
+      "text_th": "ดูเหมือนว่าครั้งนี้คุณจะไม่ต้องการความช่วยเหลือจากฉันสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I would compose a ballad in your honor, but I fear no words would do you justice. The Songstress of Ul'dah herself could not rival your beauty.",
+      "text_th": "ฉันอยากจะแต่งเพลงบัลลาดเพื่อเป็นเกียรติแก่พวกคุณจังเลย แต่ฉันเกรงว่าจะไม่มีคำพูดใดที่จะสามารถพรรณนาความงามของพวกคุณได้สมเกียรติหรอก แม้แต่นักร้องหญิงแห่ง Ul'dah เองก็คงไม่อาจเทียบความงามของพวกคุณได้",
+      "status": "AI"
+    },
+    {
+      "character": "Mirthful Maiden",
+      "text_en": "Oh, stop it!",
+      "text_th": "โอ๊ย พอเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I have oft heard it said that a blossom's beauty can move a man to love and long, but I never truly believed it until I met you two desert roses.",
+      "text_th": "ฉันมักจะได้ยินคนพูดอยู่บ่อยๆ ว่า ความงามของดอกไม้สามารถทำให้ชายหนุ่มเกิดความรักและความโหยหาได้ แต่ฉันก็ไม่เคยเชื่อเลย จนกระทั่งได้มาพบกับกุหลาบแห่งทะเลทรายทั้งสองดอกนี้แหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Sunbaked Merchant",
+      "text_en": "I hear they attacked another caravan...",
+      "text_th": "ฉันได้ยินมาว่าพวกมันโจมตีกองคาราวานอีกแล้ว...",
+      "status": "AI"
+    },
+    {
+      "character": "Tireless Trader",
+      "text_en": "Aye, an' business is sufferin' for it. Bloody Amalj'aa... What's stirred 'em up, do you reckon?",
+      "text_th": "ใช่ แล้วธุรกิจก็ได้รับผลกระทบหนักเลย ไอ้มารหัวขน Amalj'aa เอ๊ย... แกว่าอะไรเป็นตัวกระตุ้นพวกมันกันนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Another raid...and I'll wager that caravan was carrying crystals, much like the last.",
+      "text_th": "การปล้นอีกแล้วงั้นรึ... และฉันขอพนันเลยว่ากองคาราวานนั่นต้องขนคริสตัลมาเหมือนคราวก่อนแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "If they truly mean to summon a primal, we must act quickly.",
+      "text_th": "ถ้าพวกมันตั้งใจจะอัญเชิญ primal จริงๆ ล่ะก็ เราต้องรีบลงมือแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Mirthful Maiden",
+      "text_en": "Are you coming, love?",
+      "text_th": "กำลังตามมาใช่ไหม ที่รัก?",
+      "status": "AI"
+    },
+    {
+      "character": "Forward Fille",
+      "text_en": "You wouldn't keep a girl waiting, would you!?",
+      "text_th": "คุณคงไม่ปล่อยให้สาวๆ ต้องรอนานหรอก ใช่ไหมล่ะ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Perish the thought!",
+      "text_th": "ล้มเลิกความคิดนั้นไปได้เลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So tell me, where in this marvel of a city might you lovely ladies be staying?",
+      "text_th": "แล้วบอกฉันหน่อยสิว่า สาวสวยอย่างพวกคุณพักอยู่ที่ไหนในนครรัฐอันแสนมหัศจรรย์แห่งนี้?",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "At this rate, grain will soon be more precious than gold.",
+      "text_th": "ขืนเป็นแบบนี้ต่อไป ข้าวสารจะแพงกว่าทองคำซะอีก",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A result of the uncommonly bad harvests, to be sure...",
+      "text_th": "เป็นผลมาจากการเก็บเกี่ยวที่ย่ำแย่อย่างที่ไม่เคยมีมาก่อนแน่นอน...",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And we have you to thank for them, do we not?",
+      "text_th": "และเราก็ต้องขอบคุณคุณสำหรับเรื่องนี้ด้วย ใช่ไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Aye, this weakening of the aetheric flow must surely be linked to Dalamud's descent.",
+      "text_th": "ใช่แล้วล่ะ การที่กระแส aetheric อ่อนกำลังลง จะต้องเกี่ยวข้องกับการร่วงหล่นของ Dalamud อย่างแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And, of course, to the primals.",
+      "text_th": "และแน่นอนว่า มันต้องเกี่ยวข้องกับพวก primals ด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A fine mess. But we must not lose hope.",
+      "text_th": "เป็นเรื่องที่เละเทะไปหมด แต่เราต้องไม่หมดหวังนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Louisoix will know what to do. We need only trust in his judgment.",
+      "text_th": "Louisoix ต้องรู้แน่ว่าควรทำยังไง เราแค่ต้องเชื่อมั่นในการตัดสินใจของเขา",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Truly a marvel of Sharlayan ingenuity... It's as if I could reach out and touch the aether.",
+      "text_th": "ช่างเป็นความมหัศจรรย์ของสิ่งประดิษฐ์จาก Sharlayan จริงๆ... รู้สึกเหมือนฉันสามารถเอื้อมมือไปสัมผัส aether ได้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Time to focus... No more gallivanting about like before. The Scions are counting on you.",
+      "text_th": "ได้เวลาตั้งสมาธิแล้ว... จะมัวแต่ทำตัวร่าเริงไปทั่วเหมือนเมื่อก่อนไม่ได้แล้วนะ พวก Scions หวังพึ่งคุณอยู่นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Have faith. Just have faith. You can do this.",
+      "text_th": "เชื่อมั่นสิ แค่เชื่อมั่น คุณทำได้อยู่แล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Hmmm... This disturbance is recent.",
+      "text_th": "อืม... ความปั่นป่วนนี้เพิ่งเกิดขึ้นไม่นานมานี้นี่เอง",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The Sultantree? Maybe Papashan will know something of it.",
+      "text_th": "ที่ Sultantree งั้นเหรอ? บางที Papashan อาจจะรู้อะไรเกี่ยวกับเรื่องนี้บ้างก็ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Looks like they gave you quite a thrashing. Can you walk?",
+      "text_th": "ดูเหมือนพวกนั้นจะอัดนายซะยับเลยนะ ยังเดินไหวไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "It's me. I was too late. Our person of interest had already quit the scene. The General? Very well. I shall be there anon.",
+      "text_th": "ฉันเองนะ ฉันไปช้าไป ผู้ต้องสงสัยของเราออกจากที่เกิดเหตุไปแล้ว ท่านนายพลล่ะ? เข้าใจล่ะ ฉันจะไปที่นั่นเดี๋ยวนี้แหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "My colleagues went to great lengths to provide me with the means to detect aetheric disturbances, but every time I find one, you seem to be in the middle of it. I'm starting to wonder if it might not be simpler just to follow you around. Sadly, I have business elsewhere.",
+      "text_th": "เพื่อนร่วมงานของฉันพยายามอย่างหนักที่จะหาวิธีตรวจจับความผิดปกติของ aetheric มาให้ฉัน แต่ทุกครั้งที่ฉันเจอความผิดปกติ คุณก็มักจะไปอยู่ตรงกลางเรื่องพวกนั้นเสมอเลย ฉันเริ่มสงสัยแล้วนะว่าตามคุณไปเรื่อยๆ มันจะง่ายกว่าหรือเปล่า น่าเสียดายนะที่ฉันมีธุระอื่นต้องไปทำ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Tread softly, my friend. The carefully laid trap you dismantled was clearly sanctioned by Lord Lolorito. I heard the Blades mention him as they fled. Believe me when I tell you that he is not a man to be trifled with.",
+      "text_th": "ระวังตัวด้วยนะเพื่อน กับดักที่คุณเพิ่งจัดการไปนั้น เห็นได้ชัดเลยว่าได้รับการอนุมัติจากท่านลอร์ด Lolorito ฉันได้ยินพวก Blades พูดถึงเขาตอนที่พวกมันหนีไปด้วย เชื่อฉันเถอะเวลาที่ฉันบอกคุณว่าเขาไม่ใช่คนที่คุณควรจะไปยุ่งด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The sultana's enemies grow bolder by the day, and I suspect they have the support of outside forces.",
+      "text_th": "ศัตรูของราชินีเหิมเกริมขึ้นทุกวัน และฉันสงสัยว่าพวกมันจะได้รับการสนับสนุนจากกองกำลังภายนอกด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Thank you. If you hadn't come along, those bastards would surely have slaughtered us all.",
+      "text_th": "ขอบคุณนะ ถ้าคุณไม่โผล่มา พวกสารเลวนั่นต้องฆ่าพวกเราทุกคนทิ้งแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "I would speak with you further, but it isn't safe for us to linger here.",
+      "text_th": "ฉันอยากจะคุยกับคุณต่อนะ แต่มันไม่ปลอดภัยสำหรับเราที่จะมัวโอ้เอ้อยู่ที่นี่",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Find me at the Coffer & Coffin later. Until then, stay safe.",
+      "text_th": "ไปหาฉันที่ Coffer & Coffin ทีหลังนะ จนกว่าจะถึงตอนนั้น รักษาตัวด้วยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I shall accompany Wystan and his men. They need protection─and I need more information.",
+      "text_th": "ฉันจะไปเป็นเพื่อน Wystan กับลูกน้องของเขาเอง พวกเขาต้องการคนคุ้มกัน─และฉันก็ต้องการข้อมูลเพิ่มเติม",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ah, but where are my manners? I have yet to properly introduce myself. I am Thancred, a humble scholar surveying the flow of aether in Thanalan.",
+      "text_th": "อา แต่มารยาทฉันไปไหนเนี่ย? ฉันยังไม่ได้แนะนำตัวอย่างเป็นทางการเลย ฉันชื่อ Thancred เป็นแค่นักวิชาการธรรมดาๆ ที่กำลังสำรวจกระแส aether ใน Thanalan",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "It is an honor and a privilege to make your acquaintance. I hope when next we meet it is under more auspicious circumstances. Farewell!",
+      "text_th": "เป็นเกียรติและเป็นสิทธิพิเศษอย่างยิ่งที่ได้รู้จักคุณ ฉันหวังว่าเมื่อเราพบกันครั้งหน้า มันจะเป็นในสถานการณ์ที่ฤกษ์งามยามดีกว่านี้นะ ลาก่อน!",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "...Ah. Wait a moment. It occurs to me that we may have...",
+      "text_th": "...อา เดี๋ยวก่อนสิ จู่ๆ ฉันก็นึกขึ้นมาได้ว่าเราอาจจะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Never mind. Fare thee well!",
+      "text_th": "ช่างเถอะ ลาก่อนนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Twelve bless you, my friend. You risked your life to save ours.",
+      "text_th": "เทพทั้งสิบสองคุ้มครองคุณนะ เพื่อน คุณเสี่ยงชีวิตเพื่อช่วยพวกเราไว้แท้ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Betrayed by my own guards... Gods, I was a fool to trust those men.",
+      "text_th": "โดนทหารยามของตัวเองหักหลัง... พระเจ้า ฉันมันโง่จริงๆ ที่ไปไว้ใจไอ้พวกนั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Lolorito owns the godsdamned Brass Blades. I should've questioned their motives from the start.",
+      "text_th": "Lolorito เป็นเจ้าของพวก Brass Blades บ้าบอนั่น ฉันน่าจะตั้งข้อสงสัยในเจตนาของพวกมันตั้งแต่แรกแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Even so, I could hardly have predicted that the wealthiest man in Ul'dah would want me dead for the heinous crime of seeking to change the law! I'm just a merchant, for gods' sakes!",
+      "text_th": "ถึงอย่างนั้นก็เถอะ ฉันแทบจะไม่คาดคิดเลยว่าชายที่รวยที่สุดใน Ul'dah จะต้องการฆ่าฉันเพียงเพราะข้อหาอุกฉกรรจ์ที่ว่าพยายามจะเปลี่ยนกฎหมาย! ฉันมันก็แค่พ่อค้าคนนึงนะ พระเจ้าช่วย!",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "That ruthless bastard! And what of that monstrosity? Those were his own men ! It beggars belief!",
+      "text_th": "ไอ้สารเลวไร้ความปราณี! แล้วสัตว์ประหลาดนั่นอีกล่ะ? นั่นมันคนของมันเองนะ! ไม่อยากจะเชื่อเลยจริงๆ!",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Well, that's it. I'm finished. If I stay in Ul'dah any longer, I'm as good as dead.",
+      "text_th": "เอาล่ะ พอแค่นี้แหละ ฉันจบสิ้นแล้ว ถ้าฉันอยู่ใน Ul'dah ต่อไป ฉันก็มีค่าเท่ากับคนตายนั่นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "My associates, my friends─gods, even the children may not be safe if I don't disappear. And you...godsdammit, if Lolorito learns of your involvement, you'll be next.",
+      "text_th": "ทั้งเพื่อนร่วมงาน ทั้งเพื่อนฝูง─พระเจ้าช่วย แม้แต่พวกเด็กๆ ก็อาจจะไม่ปลอดภัยถ้าฉันไม่หายตัวไปซะ และคุณ... บ้าเอ๊ย ถ้า Lolorito รู้ว่าคุณเข้ามาเกี่ยวข้อง คุณจะเป็นรายต่อไปนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "I'll speak with the others and make sure your part in this stays secret. Beyond that, I don't know what to suggest... Maybe you should seek the counsel of Mistress Momodi.",
+      "text_th": "ฉันจะไปคุยกับคนอื่นๆ เพื่อให้แน่ใจว่าเรื่องที่คุณเข้ามาเกี่ยวข้องจะเป็นความลับ นอกเหนือจากนั้น ฉันก็ไม่รู้จะแนะนำอะไรแล้วล่ะ... บางทีคุณน่าจะไปขอคำปรึกษาจากคุณนาย Momodi ดูนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "She's helped countless adventurers in her time. Mayhap she'll know what to do.",
+      "text_th": "เธอเคยช่วยเหลือนักผจญภัยมานักต่อนักแล้ว บางทีเธออาจจะรู้ว่าควรทำยังไง",
+      "status": "AI"
+    },
+    {
+      "character": "Wystan",
+      "text_en": "Go quickly now, my friend. Lolorito's spies may be watching.",
+      "text_th": "รีบไปเถอะเพื่อน สายลับของ Lolorito อาจจะกำลังจับตาดูอยู่ก็ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Settle down, Forename . You've got nothin' to worry about. No one seems to know you were at the ruins.",
+      "text_th": "ใจเย็นๆ Forename คุณไม่มีอะไรต้องกังวลหรอกนะ ดูเหมือนจะไม่มีใครรู้ว่าคุณไปอยู่ที่ซากปรักหักพังนั่น",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Wystan, on the other hand, is now a pariah─about as welcome 'round here as a rabid wolf, poor bugger. Suffice to say, that boy risked the wrath of the wrong man.",
+      "text_th": "ในทางกลับกัน Wystan กลับกลายเป็นที่รังเกียจของสังคมไปซะแล้ว—เขากลายเป็นที่ต้อนรับพอๆ กับหมาป่าบ้าเลยล่ะ น่าสงสารหมอนั่นจริงๆ เอาเป็นว่า เด็กหนุ่มคนนั้นดันไปลองดีกับคนผิดซะแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Lord Lolorito: chairman of the East Aldenard Trading Company, generous contributor to the Order of Nald'thal, and member of the Syndicate.",
+      "text_th": "ท่านลอร์ด Lolorito: ประธานบริษัท East Aldenard Trading Company, ผู้บริจาครายใหญ่ให้กับภาคี Order of Nald'thal และยังเป็นสมาชิกของ Syndicate ด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Didn't get where he is by leavin' loose ends, that one.",
+      "text_th": "เขาไม่ได้ก้าวมาถึงจุดนี้ได้เพราะทิ้งปัญหาไว้ข้างหลังหรอกนะ คนๆ นี้น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Which is why he ain't above killin' his own men.",
+      "text_th": "ซึ่งนั่นแหละเป็นเหตุผลว่าทำไมเขาถึงลงมือฆ่าคนของตัวเองได้หน้าตาเฉย",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Hells, even if those Blades knew what was comin', it's not like they could refuse to do their benefactor's biddin'.",
+      "text_th": "ให้ตายสิ ถึงพวก Blades จะรู้ว่ากำลังจะเกิดอะไรขึ้น พวกเขาก็ปฏิเสธคำสั่งของผู้มีพระคุณไม่ได้อยู่ดีแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "<sigh> Don't let this color your view of Ul'dah, Forename ... It's true that there are some here who ain't afraid to crack a few skulls if it gets 'em what they want. But most of us are decent folk just tryin' to make ends meet.",
+      "text_th": "<ถอนหายใจ> อย่าปล่อยให้เรื่องนี้ทำให้คุณมอง Ul'dah ในแง่ร้ายเลยนะ Forename... จริงอยู่ที่ว่ามีบางคนที่นี่ที่ไม่กลัวที่จะต้องทุบหัวใครสักคนเพื่อให้ได้มาซึ่งสิ่งที่พวกเขาต้องการ แต่พวกเราส่วนใหญ่ก็เป็นแค่คนดีๆ ที่พยายามจะหาเลี้ยงชีพไปวันๆ เท่านั้นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "You know, a lot of people would call you a damn fool for riskin' your life to save a marked man...",
+      "text_th": "รู้ไหม มีหลายคนเลยล่ะที่จะเรียกคุณว่าไอ้โง่ ที่ยอมเสี่ยงชีวิตไปช่วยคนที่ถูกหมายหัวไว้แบบนั้น...",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "But I believe you did a good thing, Forename , and for that you have my respect.",
+      "text_th": "แต่ฉันเชื่อว่าคุณทำในสิ่งที่ดีแล้ว Forename และสำหรับเรื่องนั้น ฉันขอแสดงความนับถือเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Listen: you've been through a lot lately. Why don't you rest a spell?",
+      "text_th": "ฟังนะ: ช่วงนี้คุณเจอเรื่องมาเยอะแล้ว ทำไมไม่พักสักหน่อยล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "I'll have the boys at the Hourglass set you up with a room, my treat. Just have a word with Otopa Pottopa whenever you feel like stayin'.",
+      "text_th": "ฉันจะให้เด็กๆ ที่ Hourglass จัดห้องพักให้คุณสักห้องนึง ฉันเลี้ยงเอง แค่ไปคุยกับ Otopa Pottopa เมื่อไหร่ก็ตามที่คุณอยากจะพักก็พอ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "And when you've got your appetite for adventurin' back, consider takin' on a guildleve or two.",
+      "text_th": "แล้วเมื่อไหร่ที่คุณอยากจะกลับไปผจญภัยอีกครั้ง ก็ลองไปรับงาน guildleve สักงานสองงานดูสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "We've a lot of requests from locals lookin' to hire adventurers for various jobs. It'd be a good way for you to earn yourself some extra gil.",
+      "text_th": "เรามีคำขอจากชาวบ้านที่อยากจ้างนักผจญภัยไปทำงานต่างๆ มากมายเลยล่ะ มันน่าจะเป็นวิธีหาเงินพิเศษที่ดีสำหรับคุณนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Eustace can tell you more about how the system works, so go and speak with him if you're interested.",
+      "text_th": "Eustace สามารถอธิบายให้คุณฟังได้มากขึ้นว่าระบบมันทำงานยังไง ดังนั้นถ้าสนใจก็ลองไปคุยกับเขาดูสิ",
+      "status": "AI"
+    }
+  ]
+}

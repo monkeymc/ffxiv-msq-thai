@@ -1,0 +1,242 @@
+{
+  "id": "history-repeating",
+  "wiki_path": "/wiki/History_Repeating",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/c/c4/History_Repeating_Image.png",
+  "patch": "2.0",
+  "title_en": "History Repeating",
+  "title_th": "ประวัติศาสตร์ซ้ำรอย",
+  "title_status": "AI",
+  "level": "42",
+  "location": "Western La Noscea(X:16.1,Y:30.7)",
+  "npc_start": "Davyd",
+  "dialogues": [
+    {
+      "character": "Davyd",
+      "text_en": "...But if they have returned, that would mean─ Oh, beg your pardon, I was just, um...thinking about something.",
+      "text_th": "...แต่ถ้าพวกมันกลับมา ก็แปลว่า─ อ้อ ขออภัยด้วย ข้ากำลัง... เอ่อ... คิดอะไรเพลินๆ อยู่น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Which reminds me─I received word that Master Mimidoa would be arriving any moment.",
+      "text_th": "พูดถึงเรื่องนี้─ข้าได้รับแจ้งว่าท่าน Mimidoa จะมาถึงในอีกไม่ช้านี้แล้วนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Apparently, he grew tired of waiting for the “lanky young lad with the thousand-yalm stare” to return─which I'm assuming is you.",
+      "text_th": "เห็นได้ชัดว่าเขาเริ่มหงุดหงิดที่ต้องรอ “พ่อหนุ่มตัวสูงโย่งที่ทำหน้าตาทึ่มๆ” กลับมา─ซึ่งข้าเดาว่าน่าจะเป็นเจ้านะ",
+      "status": "AI"
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Apparently, he grew frustrated waiting for the “sweet young lass with skin as soft as phoenix down” to return─which I'm assuming is you.",
+      "text_th": "เห็นได้ชัดว่าเขาเริ่มหงุดหงิดที่ต้องรอ “แม่หนูน้อยน่ารักที่มีผิวพรรณนุ่มนวลราวกับขนหางฟีนิกซ์” กลับมา─ซึ่งข้าเดาว่าน่าจะเป็นเจ้านะ",
+      "status": "AI"
+    },
+    {
+      "character": "Davyd",
+      "text_en": "I don't know what sort of arrangement you had, but you should probably go and explain yourself.",
+      "text_th": "ข้าไม่รู้หรอกนะว่าพวกเจ้าตกลงอะไรกันไว้ แต่เจ้าควรจะไปอธิบายให้เขาฟังหน่อยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "What's been keepin' ye, 'nitiate? I ain't gettin' any younger, ye know...",
+      "text_th": "มัวทำอะไรอยู่ ศิษย์รัก? ข้าไม่ได้หนุ่มขึ้นทุกวันหรอกนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Eh? Some honey-voiced harlot's been callin' out to folk what wander near the Ship Graveyard? An' it's stirred up the dead an' all?",
+      "text_th": "หืม? มีนางแพศยาเสียงหวานมาร้องเพลงเรียกคนที่เดินผ่านไปมาแถว Ship Graveyard งั้นรึ? แล้วมันก็ปลุกพวกคนตายขึ้นมาด้วยเนี่ยนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Bloody hells... This takes me back to me days as a cannonboy, sailin' under ol' Mistbeard... ...But they wouldn't dare, would they? Not after the lesson we learned 'em last time... Bah, they bloody would , though, wouldn't they, brazen ol' biddies...",
+      "text_th": "บ้าเอ๊ย... นึกถึงสมัยที่ข้าเป็นเด็กยิงปืนใหญ่ ล่องเรืออยู่ใต้ธงของกัปตัน Mistbeard เลย... ...แต่พวกมันคงไม่กล้าหรอกมั้ง? หลังจากบทเรียนที่เราสั่งสอนมันไปเมื่อคราวก่อน... หึ แต่พวกมันก็กล้า จริงๆ นั่นแหละ ไอ้พวกนกแก่หน้าด้านเอ๊ย...",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "<sigh> Some folk said as the first purge would be the last, but I knew...knew deep down in me bones as this day would come. An' come it has. Aye...I'd bet me bum ear a siren's behind all this.",
+      "text_th": "<เฮ้อ> บางคนก็บอกว่าการกวาดล้างครั้งแรกก็คงเป็นครั้งสุดท้ายนั่นแหละ แต่ข้ารู้... รู้ลึกๆ อยู่ในใจว่าสักวันวันนี้ต้องมาถึง แล้วมันก็มาถึงจริงๆ อา... ข้าขอเอาหูข้างนึงเป็นเดิมพันเลยว่าไซเรนอยู่เบื้องหลังเรื่องนี้แน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Nay, not one o' the Sanguine variety, 'nitiate. I speak o' the other kind─them what's got feathers, an' lure sailors to a watery grave with their sweet, sweet song.",
+      "text_th": "ไม่ใช่นะ ไม่ใช่พวก Sanguine หรอก ศิษย์รัก ข้าหมายถึงอีกพวกนึงต่างหาก─พวกที่มีขนเปื้อนเลือด แล้วก็ล่อกะลาสีให้ไปตายในน้ำด้วยเสียงเพลงอันไพเราะของมันน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Ohhh, but it don't end there... No, drownin's just the start. See, even in death, a man stays bound to the beast, forced to do her biddin' till his corpse can't do it no more.",
+      "text_th": "โอ้ แต่มันไม่จบแค่นั้นหรอกนะ... ไม่เลย การจมน้ำตายมันเป็นแค่จุดเริ่มต้นเท่านั้นแหละ ฟังนะ แม้ตายไปแล้ว คนตายก็ยังถูกจองจำให้เป็นทาสรับใช้มันไปจนกว่าร่างจะทนไม่ไหวแล้วนั่นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "'Tis a fate I wouldn't wish on me worst enemy─'cept maybe in drink, an' I'd regret it after. Anyroad, 'tis up to us to stop this hells-born hussy afore she takes another soul!",
+      "text_th": "มันเป็นชะตากรรมที่ข้าไม่อยากให้ศัตรูที่เกลียดที่สุดต้องเจอเลย─เว้นแต่ตอนเมาน่ะนะ แล้วก็ต้องมานั่งเสียใจทีหลัง เอาเป็นว่า เป็นหน้าที่ของเราที่จะต้องหยุดอีตัวนรกส่งมาเกิดนี่ก่อนที่มันจะพรากวิญญาณใครไปอีก!",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "'Course, we can't send ye marchin' off to war without these. The siren don't have no power o'er a man as can't hear her song. 'Tis lucky fer you I carry a spare pair─an' lucky fer the both of us I'm a superstitious ol' sod, eh?",
+      "text_th": "แน่นอนว่าเราจะปล่อยให้เจ้าเดินดุ่มๆ เข้าไปตายโดยไม่มีของพวกนี้ไม่ได้หรอก ไซเรนไม่มีอำนาจเหนือคนที่ไม่ได้ยินเสียงเพลงของมันหรอก โชคดีของเจ้านะที่ข้าพกสำรองมาอีกคู่─แล้วก็โชคดีของเราทั้งคู่ด้วยที่ข้าเป็นตาแก่ขี้ระแวงงมงาย ฮ่าๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Well, she ain't comin' to us, so we'd best head o'er to her. To the Ship Graveyard, 'nitiate!",
+      "text_th": "เอาล่ะ ในเมื่อมันไม่มาหาเรา เราก็ควรจะไปหามันเอง ไปที่ Ship Graveyard กันเถอะ ศิษย์รัก!",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "If she passes near the shore, she's sure to spy the campfire an' come lookin'... Just a matter o' waitin', now.",
+      "text_th": "ถ้ามันบินผ่านมาใกล้ชายฝั่ง มันต้องเห็นกองไฟนี้แล้วแวะมาดูแน่ๆ ... ตอนนี้ก็แค่รอเท่านั้นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "<yawn> Hmph. I'm beginnin' to wonder if some sly bugger ain't spun us a yarn, here...",
+      "text_th": "<หาว> ฮึ่ม ข้าชักจะสงสัยแล้วสิว่ามีไอ้คนเจ้าเล่ห์คนไหนมาแต่งเรื่องหลอกพวกเราหรือเปล่าเนี่ย...",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Quiet! D'ye hear that? 'Tis her!",
+      "text_th": "เงียบ! ได้ยินนั่นไหม? เสียงมันนี่!",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Look! Out o'er the water! She's come, 'nitiate! She's come !",
+      "text_th": "ดูนั่นสิ! ออกไปตรงผืนน้ำนั่น! มันมาแล้ว ศิษย์รัก! มันมาแล้ว !",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Quick, lad / lass ─shove them plugs in yer ears, an' get ready fer a fight! Soon as she realizes yer deaf to her ditties, she'll call on her thralls, an' we'll be up to our necks in corpses afore ye know it!",
+      "text_th": "เร็วเข้า ไอ้หนู / แม่หนู ─เอาที่อุดหูยัดใส่หูซะ แล้วเตรียมตัวลุย! ทันทีที่มันรู้ว่าเจ้าไม่ได้ยินเสียงร้องของมัน มันจะเรียกพวกทาสรับใช้ของมันออกมา แล้วเราก็จะถูกซอมบี้รุมทึ้งก่อนจะรู้ตัวซะอีก!",
+      "status": "AI"
+    },
+    {
+      "character": "Siren",
+      "text_en": "...hither...embrace...mine everything...all...♪",
+      "text_th": "...เข้ามาสิ... สู่อ้อมกอด... เป็นทุกสิ่งของข้า... ทั้งหมด... ♪",
+      "status": "AI"
+    },
+    {
+      "character": "Siren",
+      "text_en": "...true love spurned... his / her cruelty's reward...♪",
+      "text_th": "...รักแท้ที่ถูกทอดทิ้ง... รางวัลสำหรับความโหดร้ายของ เขา / เธอ ... ♪",
+      "status": "AI"
+    },
+    {
+      "character": "Siren",
+      "text_en": "Cast out...callous soul...dead to desire...♪",
+      "text_th": "ถูกขับไส... จิตวิญญาณที่ด้านชา... ไร้ซึ่งความปรารถนา... ♪",
+      "status": "AI"
+    },
+    {
+      "character": "Siren",
+      "text_en": "Spare...mournful mistress...distress...♪",
+      "text_th": "โปรดละเว้น... นายหญิงผู้โศกเศร้า... ความทุกข์ระทม... ♪",
+      "status": "AI"
+    },
+    {
+      "character": "Siren",
+      "text_en": "...melody...last breath...of death...the rhythm...♪",
+      "text_th": "...ท่วงทำนอง... ลมหายใจเฮือกสุดท้าย... แห่งความตาย... จังหวะ... ♪",
+      "status": "AI"
+    },
+    {
+      "character": "Siren",
+      "text_en": "Dost thou not...to relent...regret...forever alone...♪",
+      "text_th": "เจ้าจะไม่... ยอมจำนน... เสียใจ... โดดเดี่ยวไปตลอดกาล... หรือ... ♪",
+      "status": "AI"
+    },
+    {
+      "character": "Siren",
+      "text_en": "My love...a river...one look...soul shiver...♪",
+      "text_th": "ที่รักของข้า... ดั่งสายน้ำ... เพียงสบตา... วิญญาณสั่นสะท้าน... ♪",
+      "status": "AI"
+    },
+    {
+      "character": "Siren",
+      "text_en": "No more...dark...eclipse...the heart...♪",
+      "text_th": "ไม่เอาอีกแล้ว... ความมืดมิด... กลืนกิน... หัวใจ... ♪",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Eh? Am I all right? Hah! I'm better'n that, 'nitiate! Happy as a sailor in a whorehouse, I am! ...'Course, I'd be happy as a sailor with two wotsits if we'd gutted the songstress─but ye can't have everythin', can ye?",
+      "text_th": "หืม? ข้าไม่เป็นไรหรอกรึ? ฮ่า! ข้าสบายดีกว่าเดิมอีก ศิษย์รัก! ข้ามีความสุขเหมือนกะลาสีเรือในซ่องเลยล่ะ! ...แน่นอนว่าข้าจะมีความสุขเหมือนกะลาสีเรือที่ได้อะไรๆ สองเท่าถ้าเราได้ควักไส้นางนักร้องนั่นออกมา─แต่คนเราจะเอาทุกอย่างที่ต้องการไม่ได้หรอก จริงไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "She'll not come croonin' 'round here again, though─not fer a while, anyroad. An' if she does...well, we know what to do, don't we?",
+      "text_th": "แต่มันคงไม่มาร้องเพลงป้วนเปี้ยนแถวนี้อีกแล้วล่ะ─อย่างน้อยก็พักใหญ่ล่ะนะ และถ้ามันมา... แหม เราก็รู้ว่าต้องทำยังไงใช่ไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Mimidoa",
+      "text_en": "Thanks for the help, uh... Bugger me, I've clean forgot yer name! Remind me. Forename ? Don't recall havin' no 'nitiate by that name. But if yer not me ol' mate, er...wossname, why've ye been so bloody helpful? Ah, never mind. Be seein' ye, lad / lassie .",
+      "text_th": "ขอบใจที่ช่วยนะ เอ่อ... บ้าจริง ข้าลืมชื่อเจ้าไปสนิทเลย! เตือนความจำข้าหน่อย [ชื่อ] ? ไม่ยักจำได้ว่าเคยมีลูกศิษย์ชื่อนี้นะ แต่ถ้าเจ้าไม่ใช่เพื่อนเก่าข้า เอ่อ... ชื่ออะไรสักอย่าง แล้วทำไมเจ้าถึงมาช่วยข้าซะดิบดีขนาดนี้ล่ะเนี่ย? อา ช่างเถอะ ไว้เจอกันนะ ไอ้หนู / แม่หนู",
+      "status": "AI"
+    },
+    {
+      "character": "Davyd",
+      "text_en": "You mean it was a siren!? But how were you able to resist her song? ...I see. I had heard that Master Mimidoa was involved in the first purge, but I never actually... Hm.",
+      "text_th": "หมายความว่าเป็นฝีมือไซเรนงั้นรึ!? แล้วท่านต้านทานเสียงเพลงของมันได้ยังไง? ...เข้าใจล่ะ ข้าเคยได้ยินมาว่าท่าน Mimidoa มีส่วนร่วมในการกวาดล้างครั้งแรกด้วย แต่ข้าไม่เคย... อืม",
+      "status": "AI"
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Having survived an ordeal like that, I can't blame him for carrying earplugs around with him...",
+      "text_th": "รอดตายจากเหตุการณ์แบบนั้นมาได้ ก็ไม่แปลกหรอกที่เขาจะพกที่อุดหูติดตัวไว้ตลอด...",
+      "status": "AI"
+    },
+    {
+      "character": "Davyd",
+      "text_en": "Anyway, I have something for you: the corrupted crystal you wanted, safely sealed within the pot, just as you requested. Please, take it with my compliments.",
+      "text_th": "ยังไงก็ตาม ข้ามีของจะให้ท่าน: คริสตัลที่ปนเปื้อนที่ท่านต้องการ ข้าซีลมันไว้อย่างดีในหม้อตามที่ท่านสั่งเลย รับไปเถอะ ถือเป็นการขอบคุณจากข้า",
+      "status": "AI"
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Oh, it's you! Welcome back, Forename . You're looking remarkably hale, I must say─and, more importantly, alive! You are alive, aren't you?",
+      "text_th": "อ้อ เธอนี่เอง! ยินดีต้อนรับกลับนะ [ชื่อ] เธอดูแข็งแรงดีนะ ฉันต้องบอกเลยล่ะ─และที่สำคัญคือ ยังมีชีวิตอยู่! เธอยังมีชีวิตอยู่ใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Aha! The conquering hero returns bearing a gift! Might I have a closer look?",
+      "text_th": "อาฮ่า! ฮีโร่ผู้พิชิตกลับมาพร้อมกับของขวัญสินะ! ขอฉันดูใกล้ๆ หน่อยสิ?",
+      "status": "AI"
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Impressive... very impressive indeed. Yes...I think you'll be quite pleased with this specimen.",
+      "text_th": "น่าประทับใจ... น่าประทับใจมากจริงๆ ใช่... ฉันคิดว่าเธอจะต้องพอใจกับตัวอย่างชิ้นนี้มากๆ เลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Ceana",
+      "text_en": "Congratulations, Forename ! Seldom if ever have I encountered a corrupted crystal composed of such a volatile overabundance of fire-aspected aether.",
+      "text_th": "ขอแสดงความยินดีด้วยนะ [ชื่อ] ! แทบจะไม่เคยเลยที่ฉันจะเจอคริสตัลปนเปื้อนที่มีพลังเวทมนตร์ธาตุไฟอัดแน่นและรุนแรงขนาดนี้มาก่อน",
+      "status": "AI"
+    },
+    {
+      "character": "Ceana",
+      "text_en": "What? You wanted a corrupted crystal composed of ice -aspected aether to counteract the effects of a raging wind? Ah...ahaha. Well, this specimen won't help you there. Anyone who knows anything about the elements could tell you that. You'll just have to keep looking, I suppose!",
+      "text_th": "อะไรนะ? เธอต้องการคริสตัลปนเปื้อนที่เป็น ธาตุน้ำแข็ง เพื่อเอาไปต้านกับลมพายุเหรอ? อา... อาฮะฮะ งั้นตัวอย่างชิ้นนี้ก็คงช่วยอะไรเธอไม่ได้หรอกนะ ใครที่มีความรู้เรื่องธาตุเวทมนตร์ก็บอกเธอแบบนี้แหละ ฉันเดาว่าเธอคงต้องออกไปหาใหม่แล้วล่ะ!",
+      "status": "AI"
+    }
+  ]
+}

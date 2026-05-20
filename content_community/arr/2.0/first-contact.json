@@ -1,0 +1,176 @@
+{
+  "id": "first-contact",
+  "wiki_path": "/wiki/First_Contact",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/a/a1/First_Contact_Image.png",
+  "patch": "2.0",
+  "title_en": "First Contact",
+  "title_th": "การติดต่อครั้งแรก",
+  "title_status": "AI",
+  "level": "21",
+  "location": "East Shroud(X:16.7,Y:27.1)",
+  "npc_start": "Rolfe Hawthorne",
+  "dialogues": [
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "I've taken the liberty of wrapping your milkroot well and good. This should keep it nice and fresh, not to mention spare you from that gods-awful stench.",
+      "text_th": "ข้าถือวิสาสะห่อราก milkroot ให้เจ้าอย่างดีเลยนะ มันจะช่วยรักษารากให้สดใหม่ แล้วก็ยังช่วยปกป้องเจ้าจากกลิ่นเหม็นเน่านั่นด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "The sylphs love the stuff, but me, I'd rather bury my nose in chocobo dung. I daresay the reek even rivals the breath of the morbol that put an end to my adventuring days!",
+      "text_th": "พวกซิลฟ์น่ะชอบของพรรค์นี้มาก แต่สำหรับข้า ข้ายอมเอาหน้าซุกขี้โจโคโบะยังดีกว่า ข้ากล้าพูดเลยว่ากลิ่นเหม็นเนี่ยมันตีคู่มากับลมหายใจของมอร์โบลที่ทำให้ชีวิตนักผจญภัยของข้าต้องจบลงเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "But I can tell you that story another time. You've more important matters to attend to today, yes? The sylphs are an eccentric bunch, but I've shared their company enough to know they're kind at heart. They'll not shun one whose intentions are true.",
+      "text_th": "แต่เรื่องนั้นไว้ข้าจะเล่าให้ฟังวันหลังนะ วันนี้เจ้ามีธุระสำคัญกว่าต้องจัดการใช่ไหมล่ะ? พวกซิลฟ์เนี่ยเป็นพวกเพี้ยนๆ นะ แต่ข้าคลุกคลีกับพวกมันมามากพอที่จะรู้ว่าลึกๆ แล้วพวกมันใจดี พวกมันไม่ปฏิเสธคนที่มีเจตนาดีหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "May your parley be a fruitful one, friend. And do stop by on your return─there's a flagon of Fullflower mead with your name on it if you'd regale me with your adventuring tales.",
+      "text_th": "ขอให้การเจรจาเป็นไปด้วยดีนะเพื่อน อ้อ แล้วแวะมาตอนขากลับด้วยนะ─ข้าเตรียมเหล้าน้ำผึ้ง Fullflower ไว้ให้เจ้าแล้ว ถ้าเจ้ายอมเล่าเรื่องราวการผจญภัยของเจ้าให้ข้าฟัง",
+      "status": "AI"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Ah, and afore I forget, don't go traipsing off just yet. Amelain here would have a word with you. Travel in safety, friend, and do pass along my regards to the winged ones.",
+      "text_th": "อ้อ แล้วก่อนจะลืม อย่าเพิ่งรีบแจ้นไปไหนล่ะ Amelain มีเรื่องจะคุยกับเจ้าแน่ะ เดินทางปลอดภัยนะเพื่อน แล้วก็ฝากความคิดถึงไปให้พวกมีปีกด้วยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Amelain",
+      "text_en": "It's good to see your knowledge of sylphic culture has matured. I see no reason to delay your mission any further.",
+      "text_th": "ดีใจจังที่เห็นว่าความรู้เรื่องวัฒนธรรมซิลฟ์ของท่านพัฒนาขึ้นแล้ว ข้าไม่เห็นเหตุผลใดที่จะต้องเลื่อนภารกิจของท่านออกไปอีก",
+      "status": "AI"
+    },
+    {
+      "character": "Amelain",
+      "text_en": "Upon your arrival at Little Solace, seek out a young sylph by the name of Komuxio. He has served as an intermediary between our peoples on many an occasion, and has the close ear of his tribe's elder.",
+      "text_th": "เมื่อท่านไปถึง Little Solace จงตามหาซิลฟ์หนุ่มชื่อ Komuxio เขาเคยทำหน้าที่เป็นตัวกลางระหว่างชนเผ่าของเรามาหลายต่อหลายครั้ง และเป็นคนสนิทของท่านผู้อาวุโสประจำเผ่า",
+      "status": "AI"
+    },
+    {
+      "character": "Amelain",
+      "text_en": "I see that Hawthorne has furnished you with some of that malodorous root the sylphs so adore. I have something of far greater import for you to deliver─a missive from the Elder Seedseer herself.",
+      "text_th": "ข้าเห็นว่า Hawthorne ได้เตรียมรากไม้เหม็นๆ ที่พวกซิลฟ์ชอบนักชอบหนาให้ท่านแล้ว แต่ข้ามีของที่สำคัญกว่านั้นมากให้ท่านไปส่ง─จดหมายจากท่าน Elder Seedseer เองเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Amelain",
+      "text_en": "To summarize the letter's contents in brief, it vouches for the integrity of our envoy─that would be you─and restates Gridania's desire to maintain a harmonious relationship with our long-standing friends of the forest.",
+      "text_th": "สรุปเนื้อหาในจดหมายสั้นๆ ก็คือ เป็นการรับรองความซื่อสัตย์ของทูตของเรา─ซึ่งก็คือท่าน─และยืนยันความปรารถนาของกริดาเนียที่จะรักษาความสัมพันธ์อันดีงามกับเพื่อนในป่าของเราต่อไป",
+      "status": "AI"
+    },
+    {
+      "character": "Amelain",
+      "text_en": "The war with the Ixal has taken a toll on our resources; we can ill afford to get mired in another conflict. I need not impress upon you any further the importance of this mission. May the Twelve see you return with good tidings.",
+      "text_th": "สงครามกับพวก Ixal ทำให้ทรัพยากรของเราร่อยหรอลงมาก เราไม่สามารถแบกรับความเสี่ยงที่จะเข้าไปพัวพันกับความขัดแย้งอื่นได้อีก ข้าคงไม่ต้องย้ำถึงความสำคัญของภารกิจนี้ให้ท่านฟังอีกแล้วล่ะ ขอให้เทพทั้งสิบสองคุ้มครองให้ท่านนำข่าวดีกลับมาด้วยเถิด",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Walking one is not familiar to this one. This one does not trust strange walking ones. Strange dancing ones might be a different story, but this one expects no such thing. Walking one should go home, and leave this one be.",
+      "text_th": "เราไม่คุ้นหน้าคนเดินดินคนนี้เลย เราไม่ไว้ใจคนเดินดินแปลกหน้าหรอกนะ ถ้าเป็นคนเต้นรำแปลกๆ อาจจะต่างออกไป แต่เราก็ไม่ได้คาดหวังอะไรแบบนั้นหรอก คนเดินดินกลับบ้านไปเถอะ และอย่ามายุ่งกับเราเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This walking one is foolish one. Walking one should go home before this one becomes angry.",
+      "text_th": "คนเดินดินคนนี้มันโง่จริงๆ คนเดินดินควรกลับบ้านไปซะก่อนที่เราจะโมโหนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one would welcome walking one who moves like these ones. If walking one would talk to this one, this one will answer. This one is a busy one, so walking one should speak with quick tongue.",
+      "text_th": "เราจะต้อนรับคนเดินดินที่เคลื่อนไหวแบบนี้ล่ะนะ ถ้าคนเดินดินจะคุยกับเรา เราก็จะตอบ เรางานยุ่งนะ เพราะงั้นคนเดินดินควรพูดให้เร็วๆ เข้าไว้ล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Walking one would bring gift to this one? Walking one is most kind.",
+      "text_th": "คนเดินดินจะเอาของขวัญมาให้เราเหรอ? คนเดินดินใจดีจังเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Walking one brings milkroot! Milkroot fills this one with great joy!",
+      "text_th": "คนเดินดินเอา milkroot มาให้ด้วย! milkroot ทำให้เรามีความสุขมากเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one gives thanks. Gives many, many thanks.",
+      "text_th": "เราขอขอบใจนะ ขอบใจมากๆ เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Walking one carries message for elder one? This one will deliver the message to elder one. Walking one should not worry.",
+      "text_th": "คนเดินดินมีข้อความมาให้ท่านผู้อาวุโสเหรอ? เราจะเอาข้อความนี้ไปส่งให้ท่านผู้อาวุโสเอง คนเดินดินไม่ต้องเป็นห่วงนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Hello there! We're envoys from Gridania, and we're here to treat with your people!",
+      "text_th": "สวัสดี! พวกเราเป็นทูตจากกริดาเนีย และมาเพื่อเจรจากับพวกเธอ!",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Aye. We come to pay our respects to your elder, and to learn from him more of your Lord Ramuh.",
+      "text_th": "ใช่แล้ว เรามาเพื่อแสดงความเคารพต่อท่านผู้อาวุโสของพวกเธอ และเพื่อเรียนรู้เรื่องราวเกี่ยวกับท่าน Ramuh ของพวกเธอให้มากขึ้น",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Who are these ones? These walking ones come from Gridania ?",
+      "text_th": "พวกนี้เป็นใครกัน? คนเดินดินพวกนี้มาจากกริดาเนียเหรอ ?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "Walking one became a dancing one and brought milkroot, but walking one tricks this one! This one does not like tricks!",
+      "text_th": "คนเดินดินยอมกลายเป็นคนเต้นรำแล้วก็เอา milkroot มาให้ แต่คนเดินดินมาหลอกเรา! เราไม่ชอบการหลอกลวงนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one will speak no more. Elder one is busy. Walking ones should go home.",
+      "text_th": "เราจะไม่พูดอะไรอีกแล้ว ท่านผู้อาวุโสไม่ว่างหรอก คนเดินดินกลับบ้านไปเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "G-Go home , you say!? But the sylphs of Little Solace have always welcomed Gridanian envoys with open wings!",
+      "text_th": "ก-กลับบ้าน งั้นเหรอ!? แต่พวกซิลฟ์ที่ Little Solace เคยต้อนรับทูตจากกริดาเนียอย่างอบอุ่นมาตลอดเลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "The letter carried by Forename here is an oath of peace penned by the Elder Seedseer herself! Still you would refuse us?",
+      "text_th": "จดหมายที่ [ชื่อ] เอามาด้วยนี่ เป็นสัตยาบันแห่งสันติภาพที่ท่าน Elder Seedseer เขียนขึ้นเองเลยนะ! ถึงอย่างนั้นพวกเธอก็ยังจะปฏิเสธเราอีกงั้นหรือ?",
+      "status": "AI"
+    },
+    {
+      "character": "Komuxio",
+      "text_en": "This one's reasons are no business of walking ones. Elder one has no words for Gridania. Walking ones waste every one's time.",
+      "text_th": "เหตุผลของเราไม่ใช่กงการอะไรของคนเดินดิน ท่านผู้อาวุโสไม่มีอะไรจะพูดกับกริดาเนียหรอก คนเดินดินกำลังทำให้ทุกคนเสียเวลานะ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Well, I never! Turned away at the gates! Whatever did we do to deserve such a rude welcome? Was Forename 's jig insufficiently jiggy?",
+      "text_th": "แหม ฉันล่ะเชื่อเลย! ถูกไล่ตะเพิดตั้งแต่หน้าประตู! เราไปทำอะไรให้ถึงต้องมาเจอการต้อนรับที่หยาบคายแบบนี้เนี่ย? หรือว่าท่าเต้นของ [ชื่อ] มันยังเต้นไม่มันพอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "I'm as baffled as you, but something tells me recent events have our erstwhile fluttery friends feeling uncommonly wary. It would seem we've no choice but to ask around and see how we might earn their trust.",
+      "text_th": "ฉันก็งงพอๆ กับเธอนั่นแหละ แต่มีบางอย่างบอกฉันว่าเหตุการณ์เมื่อเร็วๆ นี้ ทำให้เพื่อนตัวน้อยที่เคยร่าเริงของเราเกิดความระแวงขึ้นมาอย่างผิดปกติ ดูเหมือนเราจะไม่มีทางเลือกอื่นนอกจากต้องไปถามไถ่รอบๆ ดู เพื่อหาทางเรียกความเชื่อใจจากพวกเขากลับคืนมา",
+      "status": "AI"
+    }
+  ]
+}

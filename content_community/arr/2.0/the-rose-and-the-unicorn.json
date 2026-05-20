@@ -1,0 +1,146 @@
+{
+  "id": "the-rose-and-the-unicorn",
+  "wiki_path": "/wiki/The_Rose_and_the_Unicorn",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/34/The_Rose_and_the_Unicorn_Image.png",
+  "patch": "2.0",
+  "title_en": "The Rose and the Unicorn",
+  "title_th": "กุหลาบกับยูนิคอร์น",
+  "title_status": "AI",
+  "level": "36",
+  "location": "Coerthas Central Highlands(X:24.7,Y:28.8)",
+  "npc_start": "Carrilaut",
+  "dialogues": [
+    {
+      "character": "Carrilaut",
+      "text_en": "(Come closer, lad / lass , and listen well. This is for your ears only.)",
+      "text_th": "(ขยับเข้ามาใกล้ๆ หน่อยสิ พ่อหนุ่ม / แม่หนู แล้วฟังให้ดีๆ นะ เรื่องนี้ให้รู้แค่เราสองคนพอ)",
+      "status": "AI"
+    },
+    {
+      "character": "Carrilaut",
+      "text_en": "(Lord Francel is no heretic. He is a goodly, righteous man, wholly dedicated to the cause.)",
+      "text_th": "(ท่านลอร์ด Francel ไม่ใช่คนนอกรีตหรอกนะ ท่านเป็นคนดี มีคุณธรรม และอุทิศตนเพื่ออุดมการณ์อย่างแท้จริง)",
+      "status": "AI"
+    },
+    {
+      "character": "Carrilaut",
+      "text_en": "(I know this because I served House Haillenarte for years prior to the Calamity.)",
+      "text_th": "(ข้ารู้เรื่องนี้ดีเพราะข้าเคยรับใช้ตระกูล Haillenarte มาหลายปีก่อนเกิดภัยพิบัติ Calamity น่ะ)",
+      "status": "AI"
+    },
+    {
+      "character": "Carrilaut",
+      "text_en": "(You must go to Skyfire Locks and warn him of the coming storm. The inquisitors are ruthless and will spare him no mercy.)",
+      "text_th": "(เจ้าต้องไปที่ Skyfire Locks แล้วเตือนท่านเรื่องพายุที่กำลังจะมา พวกนักไต่สวนน่ะไร้ความปรานี และจะไม่เว้นโทษให้ท่านแน่)",
+      "status": "AI"
+    },
+    {
+      "character": "Carrilaut",
+      "text_en": "(Speak to him of an edelweiss, and he will know you for a friend. Now, go.)",
+      "text_th": "(พูดถึงดอก edelweiss กับท่าน แล้วท่านจะรู้ว่าเจ้าคือมิตร เอาล่ะ ไปได้แล้ว)",
+      "status": "AI"
+    },
+    {
+      "character": "Francel",
+      "text_en": "Yes? You look as though you have something to say. Do you?",
+      "text_th": "มีอะไรหรือเปล่า? เจ้าดูเหมือนมีอะไรอยากจะพูดนะ ใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Francel",
+      "text_en": "Then you have come to the wrong place, for we of House Haillenarte bear the rose. Mayhap you should journey to Gridania? I believe an ancient Duskwight house was said to use the white lily as its sigil.",
+      "text_th": "งั้นเจ้าก็มาผิดที่แล้วล่ะ เพราะพวกเราตระกูล Haillenarte ใช้ตรากุหลาบ บางทีเจ้าอาจจะต้องเดินทางไป Gridania นะ? ข้าเคยได้ยินมาว่ามีตระกูล Duskwight โบราณที่ใช้ดอกลิลลี่สีขาวเป็นตราสัญลักษณ์อยู่นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Francel",
+      "text_en": "...What an odd thing to say. Did you perchance receive a blow to the head not long ago? Or is this some queer southron jest?",
+      "text_th": "...พูดอะไรแปลกๆ จัง หรือว่าเจ้าเพิ่งโดนของแข็งกระทบกระเทือนศีรษะมาไม่นานนี้รึเปล่า? หรือนี่จะเป็นมุกตลกฝืดๆ ของพวกคนใต้กันนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Francel",
+      "text_en": "I see Ser Carrilaut has not forgotten my mother's favorite flower. A pity it has not been seen in Coerthas since the Calamity. You may speak freely here, friend.",
+      "text_th": "ดูเหมือนท่าน Carrilaut จะยังไม่ลืมดอกไม้โปรดของท่านแม่ข้าสินะ น่าเสียดายจริงๆ ที่ไม่มีใครเห็นดอกไม้นี้ใน Coerthas เลยตั้งแต่เกิดภัยพิบัติ Calamity ที่นี่เจ้าพูดคุยได้อย่างอิสระเลยนะ สหาย",
+      "status": "AI"
+    },
+    {
+      "character": "Francel",
+      "text_en": "That's...that's absurd! I would sooner die than become a thrall of the dragons!",
+      "text_th": "นั่นมัน...มันไร้สาระสิ้นดี! ข้ายอมตายดีกว่าไปเป็นทาสของพวกมังกร!",
+      "status": "AI"
+    },
+    {
+      "character": "Francel",
+      "text_en": "Alas, it matters little what I say at this point. Although the draconian rosary was not found in my possession, it will still be considered by many to be proof of my “heresy.” I must do my utmost to prove my innocence to the inquisitors, for if they harbor even the slightest doubt...",
+      "text_th": "อนิจจา ตอนนี้ต่อให้ข้าจะพูดอะไรไปมันก็คงไม่มีประโยชน์แล้วล่ะ ถึงแม้ว่าลูกประคำมังกรจะไม่ได้ถูกพบที่ตัวข้าก็เถอะ แต่หลายคนก็ยังคงมองว่ามันเป็นหลักฐานมัดตัวว่าข้าเป็น “คนนอกรีต” อยู่ดี ข้าต้องทำทุกวิถีทางเพื่อพิสูจน์ความบริสุทธิ์ของข้าต่อพวกนักไต่สวนให้ได้ เพราะถ้าพวกเขามีข้อกังขาแม้เพียงนิดเดียวล่ะก็...",
+      "status": "AI"
+    },
+    {
+      "character": "Francel",
+      "text_en": "<sigh> This will only add weight to the incessant accusations our house has suffered of late. It's as though the gods themselves are plotting our fall...",
+      "text_th": "<ถอนหายใจ> เรื่องนี้รังแต่จะเพิ่มน้ำหนักให้กับข้อกล่าวหาที่ตระกูลเราต้องเผชิญอย่างไม่หยุดหย่อนในช่วงนี้ ราวกับว่าเทพเจ้าเองนั่นแหละที่กำลังวางแผนให้เราล่มสลาย...",
+      "status": "AI"
+    },
+    {
+      "character": "Francel",
+      "text_en": "You risk much by coming here. It is only proper that I recompense you for this deed. Tell me what you desire, and I shall do my best to provide.",
+      "text_th": "เจ้าเสี่ยงมากเลยนะที่มาที่นี่ ข้าต้องตอบแทนเจ้าให้คุ้มค่ากับสิ่งที่เจ้าทำลงไป บอกข้ามาสิว่าเจ้าต้องการอะไร แล้วข้าจะพยายามจัดหามาให้สุดความสามารถเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Francel",
+      "text_en": "A missing airship? I see. It may require a prolonged effort to locate your quarry. I shall direct you to one in a better position to assist you.",
+      "text_th": "เรือเหาะที่หายไปงั้นรึ? ข้าเข้าใจล่ะ การตามหาเป้าหมายของเจ้าน่าจะต้องใช้เวลาพอสมควรเลย ข้าจะแนะนำเจ้าให้ไปหาคนที่มีตำแหน่งเหมาะสมกว่าที่จะช่วยเหลือเจ้าได้ก็แล้วกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Francel",
+      "text_en": "Lord Haurchefant of House Fortemps commands the garrison at Camp Dragonhead. Present to him this letter of introduction, and he will surely be receptive to your needs.",
+      "text_th": "ท่านลอร์ด Haurchefant แห่งตระกูล Fortemps เป็นผู้บัญชาการกองทหารรักษาการณ์ที่ Camp Dragonhead มอบจดหมายแนะนำตัวฉบับนี้ให้กับเขา แล้วเขาจะต้องยินดีรับฟังคำขอของเจ้าอย่างแน่นอน",
+      "status": "AI"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Ah, the unmistakable swagger of a well-traveled adventurer. If you are come to pay your respects, be at ease, friend. I am not one to stand on formality.",
+      "text_th": "อา ท่าเดินอวดดีที่จำได้แม่นของนักผจญภัยผู้ช่ำชองสินะ ถ้าเจ้ามาเพื่อแสดงความเคารพล่ะก็ ทำตัวตามสบายเถอะเพื่อน ข้าไม่ใช่พวกเจ้ายศเจ้าอย่างหรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Truth be told, I would gladly welcome many and more brave souls like yourself. But enough chatter─pray tell me why you have come.",
+      "text_th": "บอกตามตรงเลยนะ ข้ายินดีต้อนรับคนกล้าหาญอย่างเจ้าเสมอแหละ แต่พอเถอะ เลิกคุยเรื่องสัพเพเหระกันได้แล้ว─บอกข้ามาเถอะว่าเจ้ามาที่นี่ทำไม",
+      "status": "AI"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "If there is any justice in this world, these charges will receive no serious consideration.",
+      "text_th": "ถ้าโลกนี้ยังมีความยุติธรรมอยู่บ้าง ข้อกล่าวหาพวกนี้ก็ไม่ควรถูกนำมาพิจารณาอย่างจริงจังหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "It is beyond inconceivable... Ah, yes. The letter made mention of a pressing matter for which you required assistance. What might that be?",
+      "text_th": "มันเป็นเรื่องที่เกินกว่าจะจินตนาการได้เลยนะเนี่ย... อา ใช่แล้ว ในจดหมายมีพูดถึงเรื่องด่วนที่เจ้าต้องการให้ช่วยเหลือด้วยนี่นา มันคือเรื่องอะไรล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "So this Enterprise you speak of was last seen above Coerthas before the Calamity five years ago. I fear it may prove difficult to find any eyewitnesses to these events, for while Ishgard did not participate in the Battle of Carteneau, we were embroiled in our own internal conflicts at the time.",
+      "text_th": "งั้นเรือ Enterprise ที่เจ้าพูดถึงก็ถูกพบเห็นครั้งสุดท้ายเหนือท้องฟ้า Coerthas เมื่อห้าปีก่อนตอนเกิด Calamity สินะ ข้าเกรงว่ามันคงจะเป็นเรื่องยากที่จะหาพยานผู้เห็นเหตุการณ์ในตอนนั้นนะ เพราะในขณะที่ Ishgard ไม่ได้เข้าร่วมในยุทธการ Carteneau แต่พวกเราก็กำลังวุ่นวายอยู่กับความขัดแย้งภายในของเราเองในตอนนั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Nevertheless, I will make inquiries on your behalf and share with you my findings in the future.",
+      "text_th": "แต่อย่างไรก็ตาม ข้าจะช่วยสืบเรื่องนี้ให้ และจะมาบอกเจ้าอีกทีเมื่อได้เรื่องอะไรเพิ่มเติมนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "In the meantime, please enjoy the hospitality of Camp Dragonhead. I will see that you are afforded every courtesy as a guest of House Fortemps.",
+      "text_th": "ในระหว่างนี้ ก็ขอให้เพลิดเพลินกับการต้อนรับของ Camp Dragonhead ไปก่อนนะ ข้าจะสั่งให้ดูแลเจ้าอย่างดีที่สุดในฐานะแขกของตระกูล Fortemps เลยล่ะ",
+      "status": "AI"
+    }
+  ]
+}

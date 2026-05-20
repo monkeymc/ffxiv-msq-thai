@@ -1,0 +1,134 @@
+{
+  "id": "bringing-out-the-dead",
+  "wiki_path": "/wiki/Bringing_out_the_Dead",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Bringing out the Dead",
+  "title_th": "นำร่างผู้ล่วงลับออกมา",
+  "title_status": "AI",
+  "level": "35",
+  "location": "Eastern Thanalan(X:11.5,Y:22.2)",
+  "npc_start": "Eluned",
+  "dialogues": [
+    {
+      "character": "Eluned",
+      "text_en": "I recognize you now, Forename . Allow me to express my deepest condolences for those who lost their lives in the attack.",
+      "text_th": "ฉันจำเธอได้แล้ว [ชื่อ] ฉันขอแสดงความเสียใจอย่างสุดซึ้งต่อผู้ที่สูญเสียชีวิตในการโจมตีครั้งนี้นะคะ",
+      "status": "AI"
+    },
+    {
+      "character": "Eluned",
+      "text_en": "I apologize if discussing this upsets you, but...you should know that the bodies of your comrades are presently being removed from the Waking Sands and prepared for transport here.",
+      "text_th": "ฉันขออภัยหากการพูดคุยเรื่องนี้ทำให้คุณไม่สบายใจ แต่... คุณควรจะรู้ไว้ว่าร่างของสหายของคุณกำลังถูกเคลื่อนย้ายออกจาก Waking Sands และเตรียมการขนส่งมาที่นี่ค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Eluned",
+      "text_en": "If you wish to leave this work to others, I understand. However, taking part might help you to find closure.",
+      "text_th": "ถ้าคุณอยากจะปล่อยให้เป็นหน้าที่ของคนอื่น ฉันก็เข้าใจนะ แต่อย่างไรก็ตาม การมีส่วนร่วมอาจจะช่วยให้คุณปล่อยวางได้บ้างนะคะ",
+      "status": "AI"
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text_en": "Eh? Ye don't look like one of them church fellas. Not that I'll turn ye away, no sir.",
+      "text_th": "หืม? เธอหน้าตาไม่เหมือนพวกคนจากโบสถ์เลยนะ แต่ฉันไม่ไล่เธอไปหรอกนะ ไม่หรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text_en": "As ye can see, we've got a pile of unidentified bodies over yonder. No one's come to claim 'em, so off to the lichyard they go.",
+      "text_th": "อย่างที่เธอเห็น เรามีศพนิรนามกองอยู่ตรงโน้น ไม่มีใครมารับศพ พวกเขาก็เลยต้องไปที่สุสานน่ะสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text_en": "Be thankful ye didn't have to go inside and see the carnage for yerself. 'Twas the stuff of nightmares, I tell ye. Godsdamned imperials. <spit>",
+      "text_th": "ขอบคุณพระเจ้าเถอะที่เธอไม่ต้องเข้าไปดูสภาพสยดสยองข้างในนั้นด้วยตาตัวเอง ฉันบอกเลยว่ามันฝันร้ายชัดๆ ไอ้พวกอิมพีเรียลเวรเอ๊ย <ถ่มน้ำลาย>",
+      "status": "AI"
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text_en": "I don't know what quarrel they had with these folks, and I sure as hells don't want to know. The sooner we put this behind us, the better.",
+      "text_th": "ฉันไม่รู้หรอกนะว่าพวกมันมีเรื่องบาดหมางอะไรกับคนพวกนี้ และฉันก็ไม่อยากจะรู้ด้วย ยิ่งเราลืมเรื่องนี้ได้เร็วเท่าไหร่ก็ยิ่งดี",
+      "status": "AI"
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text_en": "Say...ain't I seen you 'round here afore? Or do ye just have one of them faces? Ah, never mind...",
+      "text_th": "นี่... ฉันไม่เคยเห็นเธอแถวนี้มาก่อนใช่ไหม? หรือว่าเธอแค่หน้าโหลน่ะ? อา ช่างมันเถอะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text_en": "Anyroad, there's a carriage come to haul the bodies to the lichyard, out by the east gate.",
+      "text_th": "เอาเป็นว่า มีรถม้ามารับศพไปที่สุสาน จอดอยู่ตรงประตูทิศตะวันออกน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text_en": "There's only eight left to load up, but seein' as I'm exhausted from carryin' all the others, I've a mind to leave the remainder to you.",
+      "text_th": "เหลืออีกแค่แปดศพให้ขนขึ้นรถ แต่เห็นว่าฉันเหนื่อยจากการแบกศพอื่นๆ มาหมดแล้ว ฉันก็เลยกะว่าจะยกที่เหลือให้เธอจัดการแทน",
+      "status": "AI"
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text_en": "Might want to cover yer nose while ye work. Some of these folk're startin' to turn...",
+      "text_th": "ปิดจมูกไว้หน่อยก็ดีนะตอนทำงานน่ะ ศพพวกนี้บางศพเริ่มจะส่งกลิ่นแล้วล่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Disconcerted Coachman",
+      "text_en": "What happened to the big fella? Ah, forget it. Just bring the next batch and toss 'em in the back─ain't like they'll complain if you're rough!",
+      "text_th": "ไอ้ตัวใหญ่ๆ นั่นหายไปไหนซะล่ะ? อ่า ช่างมันเถอะ แค่เอาชุดต่อไปมาแล้วก็โยนขึ้นหลังรถก็พอ─ศพพวกนั้นไม่บ่นหรอกถ้าเธอจะทำรุนแรงน่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Disconcerted Coachman",
+      "text_en": "Well, ain't you a strong one. Four in one trip! Reckon there's no need for me to lend you a hand with the rest, then.",
+      "text_th": "แหม เธอแข็งแรงดีนี่นา เที่ยวเดียวสี่ศพเลย! สงสัยฉันคงไม่ต้องช่วยเธอขนที่เหลือแล้วล่ะมั้ง",
+      "status": "AI"
+    },
+    {
+      "character": "Disconcerted Coachman",
+      "text_en": "Come on, come on! Let's finish this before I die of old age.",
+      "text_th": "เร็วเข้า เร็วเข้า! มาทำให้มันเสร็จๆ ก่อนที่ฉันจะแก่ตายดีกว่า",
+      "status": "AI"
+    },
+    {
+      "character": "Disconcerted Coachman",
+      "text_en": "That should be all of 'em! Thanks for the help.",
+      "text_th": "น่าจะหมดแค่นี้นะ! ขอบใจที่ช่วย",
+      "status": "AI"
+    },
+    {
+      "character": "Disconcerted Coachman",
+      "text_en": "Reckon it won't take too long to deliver all the corpses to the lichyard. Even so, you might want to hurry back an' tell 'em that our work here is done.",
+      "text_th": "คิดว่าคงใช้เวลาไม่นานหรอกในการไปส่งศพทั้งหมดที่สุสาน แต่ถึงอย่างนั้น เธออาจจะอยากรีบกลับไปบอกพวกเขาว่างานของเราที่นี่เสร็จแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Disconcerted Coachman",
+      "text_en": "What? Wondering why I'm still here? Hells, I don't need to rush. Ain't like these folk have pressing appointments to keep, you know.",
+      "text_th": "อะไร? สงสัยล่ะสิว่าทำไมฉันยังอยู่ตรงนี้? ปัดโธ่ ฉันไม่เห็นต้องรีบเลย ศพพวกนี้ไม่ได้มีนัดด่วนที่ไหนนี่นา เธอว่าไหมล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Eluned",
+      "text_en": "I see that you decided to heed my advice. I pray that, in doing so, you found some small measure of peace.",
+      "text_th": "ฉันเห็นว่าคุณตัดสินใจทำตามคำแนะนำของฉัน ฉันภาวนาให้การทำเช่นนั้น ช่วยให้คุณพบกับความสงบสุขได้บ้างนะคะ",
+      "status": "AI"
+    },
+    {
+      "character": "Eluned",
+      "text_en": "The first carriage from Vesper Bay arrived not long ago, and we have begun preparing your comrades for burial. I had a hand in the initial rites, and I...I would like you to know that, for many, death came quickly.",
+      "text_th": "รถม้าคันแรกจาก Vesper Bay มาถึงเมื่อไม่นานนี้เอง และเราก็ได้เริ่มเตรียมพิธีศพให้สหายของคุณแล้ว ฉันมีส่วนร่วมในพิธีกรรมเบื้องต้น และฉัน... ฉันอยากให้คุณรู้ว่า สำหรับหลายๆ คนแล้ว ความตายมาเยือนอย่างรวดเร็วค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Eluned",
+      "text_en": "Rest assured that we will treat them with the utmost respect, and do everything we can to shepherd them to Thal's realm.",
+      "text_th": "ขอให้มั่นใจเถอะนะคะว่าเราจะปฏิบัติต่อพวกเขาด้วยความเคารพอย่างสูงสุด และทำทุกวิถีทางเพื่อนำทางพวกเขาไปยังดินแดนของเทพ Thal",
+      "status": "AI"
+    }
+  ]
+}

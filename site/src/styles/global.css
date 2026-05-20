@@ -227,6 +227,53 @@ footer.site a:hover { color: var(--ink); }
 .badge-ai      { color: var(--ai);      background: var(--ai-bg); }
 .badge-pending { color: var(--pending); background: var(--pending-bg); }
 
+/* Inline per-dialogue status tags */
+.status-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.08rem 0.42rem;
+  border-radius: 999px;
+  font-size: 0.66rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  margin-left: 0.4rem;
+  vertical-align: middle;
+  line-height: 1.7;
+  opacity: 0.85;
+}
+.status-tag-ai        { color: var(--ai);     background: var(--ai-bg); }
+.status-tag-community { color: var(--contrib); background: var(--contrib-bg); }
+
+/* Quest-level community review progress bar */
+.review-progress {
+  margin: 0 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+.rp-bar {
+  height: 6px;
+  background: var(--line);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.rp-fill {
+  height: 100%;
+  background: var(--contrib);
+  border-radius: 999px;
+  transition: width 0.4s ease;
+  min-width: 0;
+}
+.rp-label {
+  font-size: 0.78rem;
+  color: var(--ink-mute);
+  line-height: 1.5;
+}
+.rp-label strong    { color: var(--ink-2);   font-weight: 500; }
+.rp-label .rp-count { color: var(--contrib);  font-weight: 600; }
+.rp-label .rp-invite { color: var(--ai);      font-weight: 500; }
+
 .pill {
   display: inline-flex; align-items: baseline; gap: 0.35rem;
   font-family: var(--mono);

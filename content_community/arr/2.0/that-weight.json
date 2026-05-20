@@ -1,0 +1,68 @@
+{
+  "id": "that-weight",
+  "wiki_path": "/wiki/That_Weight",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "That Weight",
+  "title_th": "ภาระนั้น",
+  "title_status": "AI",
+  "level": "33",
+  "location": "Eastern La Noscea(X:14.0,Y:30.3)",
+  "npc_start": "Drest",
+  "dialogues": [
+    {
+      "character": "Drest",
+      "text_en": "Can't...can't sleep... They won't let me sleep...the midges... The buzzing...it keeps me awake...",
+      "text_th": "นอน...นอนไม่หลับ... พวกมันไม่ยอมให้ข้านอน...พวกแมลง... เสียงหึ่งๆ นั่น...มันทำให้ข้านอนไม่หลับ...",
+      "status": "AI"
+    },
+    {
+      "character": "Drest",
+      "text_en": "I'm not... I...I never wanted to hurt anyone. I won't fight. I don't want to fight!",
+      "text_th": "ข้าไม่ได้... ข้า...ข้าไม่เคยอยากจะทำร้ายใคร ข้าจะไม่สู้ ข้าไม่อยากสู้!",
+      "status": "AI"
+    },
+    {
+      "character": "Drest",
+      "text_en": "Please, make the buzzing stop! Make the midges go away!",
+      "text_th": "ได้โปรด ทำให้เสียงหึ่งๆ นั่นหยุดทีเถอะ! ไล่พวกแมลงนั่นไปที!",
+      "status": "AI"
+    },
+    {
+      "character": "Drest",
+      "text_en": "Somehow... Someday... I'll... I'll find my way back to you...",
+      "text_th": "ไม่ว่ายังไง... สักวัน... ข้าจะ... ข้าจะหาทางกลับไปหาเจ้าให้ได้...",
+      "status": "AI"
+    },
+    {
+      "character": "Drest",
+      "text_en": "It's not so loud anymore. Did...did you do that? Thank you. You...you helped me. Even after what my comrades and I did to your country...",
+      "text_th": "เสียงมันไม่ค่อยดังแล้วล่ะ...น...นี่เจ้าเป็นคนทำเหรอ? ขอบใจนะ เจ้า...เจ้าช่วยข้าไว้ ทั้งๆ ที่ข้ากับพวกพ้องเคยทำกับประเทศของเจ้าแท้ๆ...",
+      "status": "AI"
+    },
+    {
+      "character": "Drest",
+      "text_en": "You were on a reconnaissance mission when the Maelstrom caught us by surprise. We tried to escape, but the others... N-No one else survived.",
+      "text_th": "พวกข้ากำลังทำภารกิจลาดตระเวนอยู่ตอนที่ถูกพวก Maelstrom โจมตีแบบไม่ทันตั้งตัว พวกข้าพยายามจะหนี แต่คนอื่นๆ... ม...ไม่มีใครรอดเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Drest",
+      "text_en": "I didn't ask for this, dammit! I'm not even Garlean! They conquered my lands just like they tried to conquer yours!",
+      "text_th": "ข้าไม่ได้อยากให้เรื่องมันเป็นแบบนี้เลย ให้ตายสิ! ข้าไม่ใช่คน Garlean ด้วยซ้ำ! พวกมันมายึดครองดินแดนของข้า เหมือนที่พวกมันพยายามจะยึดครองดินแดนของเจ้านั่นแหละ!",
+      "status": "AI"
+    },
+    {
+      "character": "Drest",
+      "text_en": "I...I don't want to die in some blasted jungle halfway around the world...",
+      "text_th": "ข้า...ข้าไม่อยากมาตายในป่าบ้าๆ นี่ที่อยู่อีกซีกโลกนึงหรอกนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Drest",
+      "text_en": "I just...I just want to go home...",
+      "text_th": "ข้าแค่...ข้าแค่อยากกลับบ้าน...",
+      "status": "AI"
+    }
+  ]
+}

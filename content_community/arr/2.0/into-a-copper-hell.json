@@ -1,0 +1,962 @@
+{
+  "id": "into-a-copper-hell",
+  "wiki_path": "/wiki/Into_a_Copper_Hell",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/7/7b/Into_a_Copper_Hell_Image.png",
+  "patch": "2.0",
+  "title_en": "Into a Copper Hell",
+  "title_th": "สู่นรกทองแดง",
+  "title_status": "AI",
+  "level": "17",
+  "location": "Ul'dah - Steps of Nald(X:11.6,Y:9.6)",
+  "npc_start": "Momodi",
+  "dialogues": [
+    {
+      "character": "Momodi",
+      "text_en": "The petitioner ought to be arrivin' any moment now...",
+      "text_th": "คนยื่นคำร้องน่าจะมาถึงตอนไหนก็ได้นี่ล่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Gods almighty! Another second under that sun, and I would have been set afire! A tankard of ale, if you would be so kind!",
+      "text_th": "พระเจ้าช่วย! ถ้าต้องอยู่ใต้แดดนั่นอีกวินาทีเดียว ข้าต้องลุกเป็นไฟแน่ๆ! ขอเอลสักแก้วเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Excellent timin', Papashan. It just so happens the adventurer who'll be handlin' your petition is here.",
+      "text_th": "มาได้จังหวะพอดีเลยนะ Papashan พอดีเลย นักผจญภัยที่จะมารับเรื่องคำร้องของคุณก็อยู่ที่นี่พอดี",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Oh? Why, if it isn't my good friend Forename !",
+      "text_th": "โอ้? แหม ถ้านี่ไม่ใช่เพื่อนยากของข้า [ชื่อ] ล่ะก็!",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "It does my spirit well to know that you are the one who will be helping us.",
+      "text_th": "ข้าดีใจจริงๆ ที่รู้ว่าคุณจะเป็นคนมาช่วยเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "So this strapping young lad / winsome lass is the much-lauded adventurer, is he / she ? Marvelous, marvelous!",
+      "text_th": "งั้นพ่อหนุ่มล่ำสัน / แม่สาวแสนสวยคนนี้คือนักผจญภัยที่เขาเลื่องลือกันสินะ? วิเศษ วิเศษมาก!",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "A pleasure to make your acquaintance, good sir / milady . I am Papashan, formerly of the Sultansworn. I thank you for agreeing to lend us your aid.",
+      "text_th": "ยินดีที่ได้รู้จักครับท่าน / คุณผู้หญิง ข้าชื่อ Papashan อดีตกลุ่ม Sultansworn ข้าต้องขอขอบคุณที่คุณตกลงจะมาช่วยเหลือเราในครั้งนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Mayhap you'd like to apprise Forename of his / her mission?",
+      "text_th": "บางทีคุณอาจจะอยากเล่าให้ [ชื่อ] ฟังถึงภารกิจของ เขา / เธอ หน่อยนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Yes, of course. The petition in question was submitted by an acquaintance of mine at Amajina & Sons Mineral Concern. It relates to an unfortunate development at Copperbell Mines.",
+      "text_th": "อ้อ แน่นอนครับ คำร้องที่ว่าถูกส่งมาจากคนรู้จักของข้าที่ Amajina & Sons Mineral Concern มันเป็นเรื่องเกี่ยวกับเหตุการณ์โชคร้ายที่ Copperbell Mines น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "To be plain, giants have seized control of the place.",
+      "text_th": "พูดง่ายๆ ก็คือ มีพวกยักษ์มายึดเหมืองไปแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "These giants are of the clan known as the hectoncheires—fearsome creatures who were dealed within the deepest depths of the mines during the bygone Thorne Dynasty.",
+      "text_th": "ยักษ์พวกนี้มาจากเผ่าที่รู้จักกันในชื่อ hectoncheires—พวกมันเป็นสิ่งมีชีวิตที่น่าสะพรึงกลัว ซึ่งเคยถูกจัดการไว้ที่ส่วนลึกที่สุดของเหมืองในสมัยราชวงศ์ Thorne อันยาวนาน",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Alas, it seems they have managed to break through the layer of rock which served to imprison them, and now prowl the tunnels where the miners ply their trade. The creatures are justifiably angry about their treatment at the hands of our ancestors, and their presence has forced the suspension of all mining activities on the site.",
+      "text_th": "น่าเสียดาย ดูเหมือนพวกมันจะสามารถเจาะทะลุชั้นหินที่เคยขังพวกมันไว้ได้ แล้วตอนนี้พวกมันก็กำลังเดินเพ่นพ่านไปตามอุโมงค์ที่พวกคนงานเหมืองใช้ทำงานกันอยู่ พวกมันโกรธแค้นที่ถูกบรรพบุรุษของเรากระทำย่ำยีก็ไม่แปลก และการที่พวกมันมาปรากฏตัวก็ทำให้กิจกรรมการทำเหมืองทั้งหมดในพื้นที่ต้องหยุดชะงักลง",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "It's no wonder they're angry. Didn't the Thorne Dynasty come to an end over three hundred years ago?",
+      "text_th": "ก็ไม่น่าแปลกใจที่พวกมันจะโกรธนะ ราชวงศ์ Thorne มันสิ้นสุดลงไปเมื่อสามร้อยกว่าปีที่แล้วไม่ใช่เหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "You know your history well, milady.",
+      "text_th": "ท่านมีความรู้เรื่องประวัติศาสตร์ดีมากเลยครับคุณผู้หญิง",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "The people of that age used the hecatoncheires to work their mines. By way of enchanted helms, they were able to bind the ferocious creatures to their will. But as is oft the way in such tales, these enchantments eventually failed, and the slaves rose up against their masters.",
+      "text_th": "ผู้คนในยุคนั้นใช้พวก hecatoncheires เป็นแรงงานทำเหมือง พวกเขาสามารถควบคุมสัตว์ร้ายพวกนี้ได้ตามต้องการด้วยหมวกเวทมนตร์ แต่ก็อย่างที่มักจะเกิดขึ้นในเรื่องเล่าทำนองนี้ ในที่สุดเวทมนตร์ก็เสื่อมคลาย และพวกทาสก็ลุกฮือขึ้นต่อต้านเจ้านาย",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "In a desperate bid to contain the unbridled fury of the hecatoncheires, our ancestors induced the collapse of the mines' lowermost levels. So it was that the Great Giant Revolt was ended—buried beneath a hundred thousand tonzes of rock.",
+      "text_th": "ในการพยายามอย่างสุดความสามารถเพื่อควบคุมความโกรธเกรี้ยวอันบ้าคลั่งของพวก hecatoncheires บรรพบุรุษของเราจึงทำให้เหมืองชั้นล่างสุดถล่มลงมา ด้วยเหตุนี้ กบฏยักษ์ครั้งใหญ่จึงสิ้นสุดลง—ถูกฝังอยู่ใต้ก้อนหินนับแสนตัน",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Well now...that's got me thinkin'... I seem to recall there bein' an article about Copperbell in the Mythril Eye a fortnight or so ago.",
+      "text_th": "เอาล่ะ... พอมาคิดดูแล้ว... ฉันคุ้นๆ ว่ามีบทความเกี่ยวกับ Copperbell ใน Mythril Eye เมื่อประมาณสองอาทิตย์ก่อนนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "It said the mines were bein' reopened so as to meet the risin' demand for buildin' materials. Like as not, our boys dug a bit too deep and freed the giants.",
+      "text_th": "บทความบอกว่าเหมืองกำลังจะเปิดใหม่เพื่อรองรับความต้องการวัสดุก่อสร้างที่เพิ่มขึ้น สงสัยลูกน้องเราคงจะขุดลึกไปหน่อยก็เลยไปปลดปล่อยพวกยักษ์ออกมาล่ะมั้ง",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Gods...to think the poor creatures are still alive an' kickin after three centuries... That's a long time to nurse a grudge. They must be seethin'...",
+      "text_th": "พระเจ้า... พอคิดว่าสัตว์ร้ายที่น่าสงสารพวกนี้ยังคงมีชีวิตอยู่มาตลอดสามศตวรรษ... เป็นเวลาที่ยาวนานมากเลยนะสำหรับการเก็บความแค้น พวกมันคงกำลังเดือดดาลสุดๆ ...",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Indeed. And that makes them a danger to us all. There will be no mining at Copperbell so long as they remain. For the sake of both peace and prosperity, they must be subdued. This is the task which we would have you undertake.",
+      "text_th": "ใช่ครับ และนั่นก็ทำให้พวกมันกลายเป็นตัวอันตรายสำหรับพวกเราทุกคน จะไม่มีการทำเหมืองที่ Copperbell ตราบใดที่พวกมันยังอยู่ที่นั่น เพื่อความสงบสุขและความเจริญรุ่งเรือง พวกมันจะต้องถูกปราบปราม นี่คือภารกิจที่เราอยากให้คุณรับหน้าที่ไปทำ",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "I'll not deny that the mission will be rife with danger, but our need is great. And so I beg you: put an end to this sorry business.",
+      "text_th": "ข้าคงปฏิเสธไม่ได้หรอกนะว่าภารกิจนี้มันเต็มไปด้วยอันตราย แต่ความต้องการของเรามันก็มากเหลือเกิน ดังนั้นข้าจึงขอร้องคุณ: ช่วยไปจัดการเรื่องวุ่นวายนี้ให้จบสิ้นทีเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Gods bless you! I feared you might have reservations, but I assure you it is for the best.",
+      "text_th": "ขอพระเจ้าคุ้มครอง! ข้ากลัวว่าคุณอาจจะมีข้อสงสัย แต่ข้ายืนยันเลยว่ามันเป็นทางเลือกที่ดีที่สุดแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Hmmm... In case you don't know, Copperbell Mines are in western Thanalan. Do take care, you hear?",
+      "text_th": "อืม... เผื่อคุณจะไม่รู้ Copperbell Mines อยู่ทางตะวันตกของ Thanalan นะ ระวังตัวด้วยล่ะ เข้าใจไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Papashan",
+      "text_en": "Ah, and one last thing before you depart... An employee of Amajina & Sons is presently at the Quicksand. The fellow's name is Painted Mesa, and he knows Copperbell Mines well. It may behoove you to seek his counsel.",
+      "text_th": "อ้อ แล้วก็สิ่งสุดท้ายก่อนที่คุณจะออกเดินทาง... มีพนักงานของ Amajina & Sons อยู่ที่ Quicksand พอดี ชายคนนี้ชื่อ Painted Mesa เขารู้จักเหมือง Copperbell เป็นอย่างดี ลองไปขอคำแนะนำจากเขาดูสิ อาจจะมีประโยชน์ก็ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Painted Mesa",
+      "text_en": "Lookin' for Painted Mesa? You found him.",
+      "text_th": "กำลังมองหา Painted Mesa อยู่เหรอ? คุณหาเจอแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Painted Mesa",
+      "text_en": "So you're the adventurer who's volunteered to deal with the mess down in Copperbell, are you?",
+      "text_th": "คุณคือนักผจญภัยที่อาสาไปจัดการปัญหาที่ Copperbell ใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Painted Mesa",
+      "text_en": "You've got guts, mate. I just hope you've got skills to go with 'em, 'cause things ain't pretty down there. The hecatoncheires've left the place in a right state, and nary a week after minin' resumed.",
+      "text_th": "คุณใจกล้ามากนะเพื่อน หวังว่าคุณจะมีฝีมือพอๆ กับความกล้านะ เพราะสถานการณ์ข้างล่างนั่นมันไม่ค่อยดีเท่าไหร่ พวก hecatoncheires มันทำลายเหมืองเละเทะไปหมด หลังจากเราเพิ่งกลับมาทำเหมืองได้ไม่ถึงอาทิตย์เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Painted Mesa",
+      "text_en": "I don't know if you know this, but Copperbell was old when the second Ul Dynasty was still young, and it was abandoned centuries ago. If it hadn't been for the shortage of materials needed for the rebuildin' effort, the Concern would never have thought to reopen it.",
+      "text_th": "ไม่รู้ว่าคุณรู้เรื่องนี้หรือเปล่านะ แต่ Copperbell น่ะเก่าแก่มาตั้งแต่สมัยราชวงศ์ Ul ที่สองเพิ่งจะเริ่มต้น และมันก็ถูกทิ้งร้างมาหลายร้อยปีแล้วล่ะ ถ้าไม่ใช่เพราะขาดแคลนวัสดุก่อสร้างในการบูรณะเมืองล่ะก็ บริษัท Concern ก็คงไม่มีความคิดจะเปิดเหมืองขึ้นมาใหม่หรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Painted Mesa",
+      "text_en": "We knew full well about the giants beforehand, but the project went ahead anyway. I mean, nothin' could possibly survive bein' buried under a mountain's worth of rock for three centuries, right? Wrong !",
+      "text_th": "เรารู้เรื่องพวกยักษ์อยู่เต็มอกแล้วล่ะก่อนจะเริ่มโครงการ แต่โครงการก็ยังเดินหน้าต่อไป ฉันหมายถึง ไม่มีอะไรที่รอดชีวิตจากการถูกหินถล่มทับไปทั้งภูเขาตั้งสามร้อยปีได้หรอก จริงไหม? ผิด ถนัดเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Painted Mesa",
+      "text_en": "Our miners dug up more than they bargained for. One swing of the pickaxe too many, and they found 'emselves in the company of giants. Unless we can subdue 'em, the nation's glorious recovery'll grind to a halt for want of aught to build with.",
+      "text_th": "พวกคนงานเหมืองของเราขุดเจอมากกว่าที่คิดไว้ แค่แกว่งพลั่วลงไปจึ้กเดียว พวกเขาก็พบว่าตัวเองอยู่ท่ามกลางดงยักษ์แล้วล่ะ ถ้าเราจัดการพวกมันไม่ได้ การฟื้นฟูประเทศอันรุ่งโรจน์นี่คงต้องชะงักลงแน่ๆ เพราะไม่มีของจะไปสร้างอะไร",
+      "status": "AI"
+    },
+    {
+      "character": "Painted Mesa",
+      "text_en": "The Stone Torches're keepin' watch over the entrance in case the giants fancy some sunlight and fresh air. One of 'em will be able to show you the way in. The hope of the nation's restin' on you, friend. Best of luck!",
+      "text_th": "พวก Stone Torches กำลังเฝ้าทางเข้าอยู่ เผื่อพวกยักษ์จะอยากออกมารับแสงแดดหรือสูดอากาศบริสุทธิ์น่ะนะ เดี๋ยวพวกนั้นจะบอกทางเข้าให้คุณเอง ความหวังของประเทศฝากไว้ที่คุณแล้วนะเพื่อน โชคดี!",
+      "status": "AI"
+    },
+    {
+      "character": "Alianne",
+      "text_en": "We found Delorous Bear and his entire party dead. The giants were...thorough in their work.",
+      "text_th": "เราพบ Dolorous Bear กับสมาชิกปาร์ตี้ของเขาทั้งหมดเป็นศพ พวกยักษ์นี่มัน... ทำงานได้ละเอียดจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Alianne",
+      "text_en": "Judging by their tracks, it would seem they tried to rush a horde of the creatures. I cannot say for sure what drove an experienced crew like theirs to throw caution to the wind...but I do have my suspicions.",
+      "text_th": "ดูจากรอยเท้าแล้ว ดูเหมือนพวกเขาจะพยายามวิ่งฝ่าฝูงสัตว์ประหลาดเข้าไป ฉันบอกไม่ได้หรอกนะว่าอะไรดลใจให้กลุ่มคนที่มากประสบการณ์อย่างพวกเขาเลือกที่จะเสี่ยงขนาดนี้... แต่ฉันก็พอจะเดาๆ ได้อยู่",
+      "status": "AI"
+    },
+    {
+      "character": "Alianne",
+      "text_en": "We are all our own worst critics, and our desire to better past achievements can rob us of good sense. Thus do we become more given to recklessness.",
+      "text_th": "คนเราทุกคนต่างก็เป็นนักวิจารณ์ตัวเองที่แย่ที่สุด และความปรารถนาที่จะทำผลงานให้ดีกว่าที่เคยทำไว้ก็อาจจะทำให้เราขาดความยั้งคิดไปได้ แล้วเราก็จะกลายเป็นคนที่มุทะลุมากขึ้น",
+      "status": "AI"
+    },
+    {
+      "character": "Alianne",
+      "text_en": "While it is important to have goals, one must not fixate upon them to the exclusion of all else. do so, and one will surely pay the price, as Dolorous Bear and his comrades did this day.",
+      "text_th": "จริงอยู่ที่การมีเป้าหมายเป็นเรื่องสำคัญ แต่เราก็ไม่ควรจะยึดติดกับมันจนลืมเรื่องอื่นๆ ไปซะหมด ถ้าทำแบบนั้น ก็ต้องจ่ายด้วยราคาแพงแน่ๆ เหมือนที่ Dolorous Bear และสหายของเขาต้องเจอในวันนี้ไงล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Isildaure",
+      "text_en": "I have been an adventurer for long years, and borne witness to many a pivotal moment in history. Though the times may have changed, the essence of our trade has not.",
+      "text_th": "ข้าเป็นนักผจญภัยมาหลายปีแล้วล่ะ และก็ได้เป็นพยานในเหตุการณ์สำคัญทางประวัติศาสตร์มาก็มาก ถึงแม้ยุคสมัยจะเปลี่ยนไป แต่แก่นแท้ของสายอาชีพเราก็ยังคงเหมือนเดิม",
+      "status": "AI"
+    },
+    {
+      "character": "Isildaure",
+      "text_en": "Adventuring has ever been a quest for self-betterment through challenges freely faced, and ever shall it remain so.",
+      "text_th": "การผจญภัยก็คือการแสวงหาการพัฒนาตัวเองผ่านการเผชิญหน้ากับความท้าทายด้วยความเต็มใจ และมันก็จะเป็นเช่นนี้ตลอดไป",
+      "status": "AI"
+    },
+    {
+      "character": "Isildaure",
+      "text_en": "As an adventurer becomes more experienced, he will naturally acquire a love of justice, and an understanding of the spirit of self-sacrifice.",
+      "text_th": "เมื่อนักผจญภัยมีประสบการณ์มากขึ้น เขาจะเกิดความรักในความยุติธรรมและความเข้าใจในจิตวิญญาณแห่งการเสียสละโดยธรรมชาติ",
+      "status": "AI"
+    },
+    {
+      "character": "Isildaure",
+      "text_en": "Such experience cannot be measured in any tangible way, yet it most assuredly shapes who we are, grounded as it is in the decisions we have made on our journey, and their consequences, good or ill.",
+      "text_th": "ประสบการณ์เหล่านั้นไม่สามารถนำมาวัดเป็นรูปธรรมได้หรอกนะ แต่มันก็หล่อหลอมให้เราเป็นอย่างที่เราเป็น ซึ่งมันก็มีรากฐานมาจากการตัดสินใจที่เราทำระหว่างการเดินทาง ไม่ว่าผลจะออกมาดีหรือร้ายก็ตาม",
+      "status": "AI"
+    },
+    {
+      "character": "Isildaure",
+      "text_en": "I sense a light within you, young one, and it tells me that you are destined for greatness.",
+      "text_th": "ข้าสัมผัสได้ถึงแสงสว่างในตัวเจ้านะ เจ้าหนู และมันก็บอกข้าว่าเจ้าถูกลิขิตมาให้เป็นผู้ยิ่งใหญ่",
+      "status": "AI"
+    },
+    {
+      "character": "Stone Torch",
+      "text_en": "There's been an incident inside Copperbell Mines. We are here to ensure that its effects are contained, but for your own safety, I suggest you stay well away from here.",
+      "text_th": "มีเหตุการณ์เกิดขึ้นในเหมือง Copperbell น่ะ เราอยู่ที่นี่เพื่อให้แน่ใจว่ามันจะไม่ลุกลาม แต่เพื่อความปลอดภัยของตัวคุณเอง ฉันแนะนำให้คุณอยู่ห่างๆ จากที่นี่ไว้จะดีกว่านะ",
+      "status": "AI"
+    },
+    {
+      "character": "Stone Torch",
+      "text_en": "What? You're the adventurer who's volunteered to quell the hecatoncheires?",
+      "text_th": "อะไรนะ? คุณคือนักผจญภัยที่อาสามาจัดการพวก hecatoncheires งั้นเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Stone Torch",
+      "text_en": "I didn't think that Papashan would be able to find someone so quickly...if at all.",
+      "text_th": "ฉันไม่คิดเลยว่า Papashan จะหาคนมาได้เร็วขนาดนี้... หรืออาจจะหาไม่ได้เลยด้วยซ้ำ",
+      "status": "AI"
+    },
+    {
+      "character": "Stone Torch",
+      "text_en": "The giants are content to wreak havoc inside the mines for now, but it's only a matter of time before they think to come outside. The sooner you see to them, the better. Make ready as best you can and enter at will.",
+      "text_th": "พวกยักษ์พอใจที่จะอาละวาดอยู่แต่ในเหมืองก็จริงในตอนนี้ แต่มันก็แค่รอเวลาที่พวกมันจะคิดออกมาข้างนอกเท่านั้น ยิ่งคุณจัดการกับพวกมันเร็วเท่าไหร่ก็ยิ่งดี เตรียมตัวให้พร้อมที่สุดเท่าที่จะทำได้ แล้วเข้าไปได้เลย",
+      "status": "AI"
+    },
+    {
+      "character": "Eager Marauder",
+      "text_en": "It's so cool and damp. You would never guess this mine is in Thanalan.",
+      "text_th": "มันทั้งเย็นและชื้นจังเลย คุณไม่มีทางเดาได้เลยนะว่าเหมืองนี่อยู่ใน Thanalan",
+      "status": "AI"
+    },
+    {
+      "character": "Eager Thaumaturge",
+      "text_en": "By the Twelve, what is that!?",
+      "text_th": "พระเจ้าช่วย นั่นมันตัวอะไรกัน!?",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "SLAVES NO MORE! FREE! FREEEEEE!",
+      "text_th": "ไม่ใช่ทาสอีกต่อไป! เป็นอิสระ! อิสระโว้ยยยย!",
+      "status": "AI"
+    },
+    {
+      "character": "Gyges the Great",
+      "text_en": "MASTERS MUST PAY! MASTERS MUST DIE!",
+      "text_th": "เจ้านายต้องชดใช้! เจ้านายต้องตาย!",
+      "status": "AI"
+    },
+    {
+      "character": "Gyges the Great",
+      "text_en": "NEVER AGAIN! NEVER!",
+      "text_th": "จะไม่มีวันนั้นอีกแล้ว! ไม่มีวัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Eager Marauder",
+      "text_en": "At last, their leader shows himself!",
+      "text_th": "ในที่สุด หัวหน้าของพวกมันก็โผล่หัวมาซะที!",
+      "status": "AI"
+    },
+    {
+      "character": "Painted Mesa",
+      "text_en": "Ah, the conqueror of Copperbell returns!",
+      "text_th": "อา ผู้พิชิต Copperbell กลับมาแล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "Painted Mesa",
+      "text_en": "Thanks to you, our minin' operations can resume, and Ul'dah will have the materials she needs to rebuild. The entire nation's in your debt, friend.",
+      "text_th": "ต้องขอบคุณคุณนะ การทำเหมืองของเราถึงกลับมาดำเนินการต่อได้ และ Ul'dah ก็จะได้วัสดุสำหรับไปบูรณะเมืองแล้ว คนทั้งประเทศเป็นหนี้บุญคุณคุณนะเพื่อน",
+      "status": "AI"
+    },
+    {
+      "character": "Painted Mesa",
+      "text_en": "I'll share the good tidin's with Papashan the next time I see him. As for you, you'll want to report to Momodi. It'll do the woman well to see you alive and in one piece.",
+      "text_th": "เดี๋ยวฉันจะไปบอกข่าวดีนี้ให้ Papashan ฟังตอนเจอกันครั้งหน้านะ ส่วนคุณ ไปรายงานให้ Momodi ทราบเถอะ นางคงจะดีใจที่เห็นคุณรอดกลับมาครบสามสิบสองน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Nooooo!",
+      "text_th": "ไม่มมมมมมม!",
+      "status": "AI"
+    },
+    {
+      "character": "Obnoxious Merchant",
+      "text_en": "Shut your mouth, you thieving little swine! You stole from me—don't even think to deny it!",
+      "text_th": "หุบปากไปเลยนะ นังหมูน้อยขี้ขโมย! แกขโมยของๆ ฉันไป—อย่าคิดจะมาปฏิเสธเชียวนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Desperate Damsel",
+      "text_en": "P-Please sir, I didn't steal nothin'!",
+      "text_th": "ด-ได้โปรดเถอะท่าน ข้าไม่ได้ขโมยอะไรมาเลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Desperate Damsel",
+      "text_en": "I b-bought this—paid for it with me own coin!",
+      "text_th": "ข้าซ-ซื้อมานะ—จ่ายด้วยเงินของข้าเองเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Obnoxious Merchant",
+      "text_en": "What rot! You refugees are all the same—couldn't afford maggoty mole meat, much less a choice cut of dodo!",
+      "text_th": "ตอแหล! พวกผู้ลี้ภัยอย่างแกก็เหมือนกันหมดแหละ—แค่เนื้อตุ่นเน่าๆ ยังไม่มีปัญญาซื้อเลย นับประสาอะไรกับเนื้อโดโด้ชั้นดีแบบนี้!",
+      "status": "AI"
+    },
+    {
+      "character": "Obnoxious Merchant",
+      "text_en": "I'm going to say it one more time: give back what you stole, or I'll make you wish you'd never set foot in this town!",
+      "text_th": "ฉันจะพูดเป็นครั้งสุดท้ายนะ: เอาของที่แกขโมยมาคืนมาซะ ไม่งั้นฉันจะทำให้แกเสียใจที่เหยียบเข้ามาในเมืองนี้เลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Obnoxious Merchant",
+      "text_en": "By rights, I should turn you over to the Brass Blades, you know—help keep the streets safe for law-abiding citizens. But I'm a reasonable man. If you agree to serve me in...whatever capacity I require, the authorities needn't hear of you crime.",
+      "text_th": "ที่จริง ฉันควรจะส่งแกให้พวก Brass Blades จัดการนะ—เพื่อช่วยรักษาความปลอดภัยบนท้องถนนให้กับพลเมืองที่ปฏิบัติตามกฎหมาย แต่ฉันมันเป็นคนมีเหตุผล ถ้าแกยอมรับใช้ฉันใน... ฐานะอะไรก็ตามที่ฉันต้องการล่ะก็ ทางการก็คงไม่ต้องรู้เรื่องความผิดของแกหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Desperate Damsel",
+      "text_en": "B-But I ain't done nothin' wrong! Twelve as me witness!",
+      "text_th": "ต-แต่ข้าไม่ได้ทำอะไรผิดเลยนะ! ให้ทวยเทพทั้งสิบสองเป็นพยานได้เลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Desperate Damsel",
+      "text_en": "P-Please, adventurer! Help me, I beg o' ye!",
+      "text_th": "ด-ได้โปรดเถอะท่านนักผจญภัย! ช่วยข้าด้วย ข้าขอร้องล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Desperate Damsel",
+      "text_en": "I swear on me mother's grave, I didn't steal nothin'! I bought this with the coin I'd saved... <sob> I only wanted to treat me children to a decent meal...",
+      "text_th": "ข้าขอสาบานต่อหลุมศพแม่ข้าเลย ข้าไม่ได้ขโมยอะไรมาทั้งนั้น! ข้าซื้อมาด้วยเงินเก็บของข้า... <สะอื้น> ข้าแค่อยากจะเลี้ยงมื้อดีๆ ให้ลูกๆ ของข้าบ้างเท่านั้นเอง...",
+      "status": "AI"
+    },
+    {
+      "character": "Obnoxious Merchant",
+      "text_en": "And who the hells are you when you're at home!? This dog's master?",
+      "text_th": "แล้วแกเป็นใครมาจากไหนวะเนี่ย!? เจ้านายของหมายคอกนี้งั้นเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Obnoxious Merchant",
+      "text_en": "I've had enough of this mummer's farce. You lot, teach them a lesson!",
+      "text_th": "ฉันเบื่อกับละครฉากนี้เต็มทีแล้ว พวกแก สั่งสอนพวกมันหน่อยสิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Filthy Bodyguard",
+      "text_en": "<belch> I'll take care o' this. the rest o' ye can watch.",
+      "text_th": "<เรอ> ข้าจัดการเอง ที่เหลือก็ดูไว้ให้ดีๆ ล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Filthy Bodyguard",
+      "text_en": "Hmph! Not bad...for n adventurer!",
+      "text_th": "หึ! ก็ไม่เลวนี่... สำหรับนักผจญภัยน่ะนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Filthy Bodyguard",
+      "text_en": "Ugh... I should've stopped at the seventh ale...",
+      "text_th": "อึก... ข้าน่าจะหยุดกินเบียร์แก้วที่เจ็ดไปแล้วนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Filthy Bodyguard",
+      "text_en": "Stop bloody gawpin' at me and give me a hand, will ye!?",
+      "text_th": "เลิกยืนจ้องหน้าข้าสักที แล้วมาช่วยกันหน่อยสิวะ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Filthy Bodyguard",
+      "text_en": "Bugger, bugger, BUGGER!",
+      "text_th": "บ้าเอ๊ย บ้าเอ๊ย บ้าเอ๊ยยยยยย!",
+      "status": "AI"
+    },
+    {
+      "character": "Boastful Bodyguard",
+      "text_en": "I ain't gettin' paid enough for this!",
+      "text_th": "ข้าไม่ได้ค่าจ้างคุ้มที่จะมาเสี่ยงตายขนาดนี้นะโว้ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Obnoxious Merchant",
+      "text_en": "H-Hey! Where the hell do you think you're going?",
+      "text_th": "ฮ-เฮ้ย! แกคิดจะหนีไปไหนวะนั่น?",
+      "status": "AI"
+    },
+    {
+      "character": "Desperate Damsel",
+      "text_en": "Thank ye, kind adventurer! Thank ye thrice over!",
+      "text_th": "ขอบคุณนะ ท่านนักผจญภัยผู้ใจดี! ขอบคุณเป็นล้านๆ ครั้งเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Young City-dweller",
+      "text_en": "I'd swear there were more refugees than when I last looked...",
+      "text_th": "ฉันสาบานเลยนะว่าตอนที่ฉันดูครั้งล่าสุด ผู้ลี้ภัยมันมีเยอะกว่านี้นี่นา...",
+      "status": "AI"
+    },
+    {
+      "character": "Concerned Citizen",
+      "text_en": "And you wouldn't be mistaken.",
+      "text_th": "แล้วคุณก็ไม่ได้ตาฝาดด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Young City-dweller",
+      "text_en": "But it's been five years since the Calamity! Why are they only coming here now?",
+      "text_th": "แต่ Calamity มันผ่านมาตั้งห้าปีแล้วนะ! ทำไมพวกเขากลับเพิ่งมาเอาป่านนี้ล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Concerned Citizen",
+      "text_en": "It's simple really—while a number of hamlets survived the immediate aftermath of the Calamity, many were no longer able to support their communities.",
+      "text_th": "ก็ง่ายๆ เลยนะ—ถึงหมู่บ้านหลายแห่งจะรอดพ้นจากผลกระทบโดยตรงของ Calamity มาได้ แต่มันก็ยากที่จะค้ำจุนชุมชนของพวกเขาไว้ได้อีกต่อไป",
+      "status": "AI"
+    },
+    {
+      "character": "Concerned Citizen",
+      "text_en": "The residents found their lands had either been rendered barren, or cut off from trade routes—and problems like those aren't easily solved. Though they tried to make the best of it, it was only a matter of time before they were forced to abandon their homes and seek a new life in the city.",
+      "text_th": "ชาวบ้านพบว่าที่ดินของพวกเขาแห้งแล้ง หรือไม่ก็ถูกตัดขาดจากเส้นทางคมนาคม—และปัญหาแบบนั้นก็ไม่ใช่ว่าจะแก้กันได้ง่ายๆ แม้พวกเขาจะพยายามทำทุกอย่างให้ดีที่สุดแล้ว แต่ก็เป็นเรื่องของเวลาที่พวกเขาจะถูกบีบให้ออกจากบ้านเกิด แล้วมาเสี่ยงโชคเริ่มต้นชีวิตใหม่ในเมืองหลวง",
+      "status": "AI"
+    },
+    {
+      "character": "Young City-dweller",
+      "text_en": "I see...",
+      "text_th": "อ้อ เข้าใจแล้วล่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Young City-dweller",
+      "text_en": "But the Calamity affected the whole realm, didn't it? Is the same thing happening in the other cities?",
+      "text_th": "แต่ Calamity มันกระทบไปทั่วทั้งดินแดนไม่ใช่เหรอ? เมืองอื่นๆ ก็เจอเรื่องแบบเดียวกันไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Concerned Citizen",
+      "text_en": "If the talk is true, yes.",
+      "text_th": "ถ้าข่าวลือเป็นเรื่องจริงล่ะก็ ใช่",
+      "status": "AI"
+    },
+    {
+      "character": "Concerned Citizen",
+      "text_en": "Though perhaps our situation is more pronounced. Ul'dah has a reputation for being prosperous, so it's natural that the refugees would try their luck here first.",
+      "text_th": "แต่สถานการณ์ของเราอาจจะชัดเจนกว่านะ Ul'dah มีชื่อเสียงเรื่องความมั่งคั่ง ก็ไม่แปลกที่พวกผู้ลี้ภัยจะมาเสี่ยงโชคที่นี่เป็นที่แรก",
+      "status": "AI"
+    },
+    {
+      "character": "Young City-dweller",
+      "text_en": "My heart goes out to them, it truly does...but I would be lying if I said that I wasn't apprehensive. I hope their presence doesn't foment lawlessness in the city.",
+      "text_th": "ฉันก็เห็นใจพวกเขาอยู่หรอกนะ เห็นใจจริงๆ ... แต่คงโกหกถ้าบอกว่าฉันไม่กังวล ฉันหวังว่าการมาของพวกเขาจะไม่ทำให้เกิดความวุ่นวายไร้ระเบียบในเมืองนี้หรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Concerned Citizen",
+      "text_en": "Well, if things do take a turn for the worse, we always have the Immortal Flames. I daresay the Brass Blades would welcome their help.",
+      "text_th": "แหม ถ้าสถานการณ์มันแย่ลงจริงๆ เราก็ยังมี Immortal Flames อยู่นี่นา ฉันว่า Brass Blades คงยินดีต้อนรับความช่วยเหลือจากพวกเขานะ",
+      "status": "AI"
+    },
+    {
+      "character": "Young City-dweller",
+      "text_en": "The heroes who fought the Garlean Empire, patrolling the streets for riffraff?",
+      "text_th": "ฮีโร่ที่ต่อสู้กับจักรวรรดิ Garlean มาเดินลาดตระเวนตามท้องถนนเพื่อจับคนชั้นต่ำเนี่ยนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Concerned Citizen",
+      "text_en": "It may well come to that.",
+      "text_th": "มันก็อาจจะถึงขั้นนั้นก็ได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Concerned Citizen",
+      "text_en": "Impoverished and desperate as they are, you may be sure that some of the refugees will turn to crime.",
+      "text_th": "พวกเขาทั้งยากจนและสิ้นหวัง คุณมั่นใจได้เลยว่าผู้ลี้ภัยบางคนอาจจะหันไปพึ่งอาชญากรรม",
+      "status": "AI"
+    },
+    {
+      "character": "Concerned Citizen",
+      "text_en": "You know what this place is like. If you've no coin, you've no hope.",
+      "text_th": "คุณก็รู้ดีว่าที่นี่เป็นยังไง ถ้าคุณไม่มีเงิน คุณก็ไม่มีความหวังหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Young City-dweller",
+      "text_en": "<sigh> What will become of our city?",
+      "text_th": "<เฮ้อ> แล้วเมืองของเราจะเป็นยังไงต่อไปนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Concerned Citizen",
+      "text_en": "Not all refugees are bad, mind you. Some are able to find employment and lead honest lives.",
+      "text_th": "ก็ไม่ใช่ว่าผู้ลี้ภัยทุกคนจะเลวร้ายไปซะหมดหรอกนะ บางคนก็หางานทำแล้วใช้ชีวิตอย่างสุจริตชนได้",
+      "status": "AI"
+    },
+    {
+      "character": "Sure-voiced Salesman",
+      "text_en": "Dodo tenderloins! Get yer dodo tenderloins! Guaranteed cheapest in Thanalan!",
+      "text_th": "เนื้อสันในโดโด้จ้า! มาซื้อเนื้อสันในโดโด้จ้า! รับประกันว่าถูกที่สุดใน Thanalan เลยนะจ๊ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Sure-voiced Salesman",
+      "text_en": "Thank ye for yer custom, madam! Please come again!",
+      "text_th": "ขอบคุณที่อุดหนุนนะจ๊ะคุณนาย! โอกาสหน้าเชิญใหม่นะจ๊ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Young City-dweller",
+      "text_en": "Looking around, you'd think that Ul'dah was well on its way to recovery.",
+      "text_th": "มองไปรอบๆ นี่นึกว่า Ul'dah กำลังจะฟื้นตัวได้ดีแล้วนะเนี่ย",
+      "status": "AI"
+    },
+    {
+      "character": "Young City-dweller",
+      "text_en": "But peer through the veil of prosperity and you'll see no end to the misery and suffering.",
+      "text_th": "แต่ถ้าคุณมองทะลุม่านแห่งความมั่งคั่งนี่เข้าไป คุณจะเห็นแต่ความทุกข์ทรมานและความยากลำบากที่ไม่มีวันจบสิ้น",
+      "status": "AI"
+    },
+    {
+      "character": "Desperate Damsel",
+      "text_en": "Er...sir? Are ye all right?",
+      "text_th": "เอ่อ... ท่าน? ท่านโอเคไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Obnoxious Merchant",
+      "text_en": "Wh-What now!? You mean to threaten a defenseless citizen!?",
+      "text_th": "อ-อะไรอีกล่ะเนี่ย!? แกจะมาขู่กรรโชกพลเมืองที่ไม่มีทางสู้เหรอ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Obnoxious Merchant",
+      "text_en": "...What? Saw her buy that meat, you say? Th-That's absurd!",
+      "text_th": "...อะไรนะ? แกบอกว่าเห็นนางซื้อเนื้อนี่งั้นเหรอ? น-นั่นมันไร้สาระน่า!",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Aye, as did I! Leave the poor woman alone, you damnable vulture!",
+      "text_th": "ใช่ ข้าก็เห็นเหมือนกัน! ปล่อยผู้หญิงน่าสงสารคนนั้นไปซะ ไอ้แร้งทึ้งศพเอ๊ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Obnoxious Merchant",
+      "text_en": "Wh-Who said that!?",
+      "text_th": "น-นั่นใครพูดน่ะ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Obnoxious Merchant",
+      "text_en": "Grrr! I will overlook this...but just this once!",
+      "text_th": "กรรร! ฉันจะยอมปล่อยไป... แต่แค่ครั้งนี้ครั้งเดียวนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Desperate Damsel",
+      "text_en": "Gods bless ye, adventurer! If ye hadn't come along when ye did, who knows what monster might've done!? IT don't bear thinkin' about...",
+      "text_th": "ขอบคุณพระเจ้าที่ส่งท่านนักผจญภัยมาช่วยข้าไว้! ถ้าท่านไม่มาตอนนั้นล่ะก็ ไม่รู้เลยว่าไอ้ปีศาจนั่นมันจะทำอะไรข้าบ้าง!? ข-ข้าไม่อยากจะคิดเลย...",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Case closed!",
+      "text_th": "ปิดคดี!",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "We have been keeping a close eye on you ever since you left Gridania.",
+      "text_th": "พวกเราเฝ้าจับตาดูคุณมาตลอดตั้งแต่คุณออกจาก Gridania แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "You discharged your duty as envoy impeccably, and never once faltered in the face of myriad dangers.",
+      "text_th": "คุณทำหน้าที่ทูตได้อย่างไร้ที่ติ และไม่เคยลังเลเลยแม้ต้องเผชิญหน้ากับอันตรายมากมาย",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "But more importantly, you were always ready to help those in need, even if you didn't stand to earn a gil by doing so!",
+      "text_th": "แต่ที่สำคัญกว่านั้นคือ คุณพร้อมจะช่วยเหลือคนที่กำลังลำบากอยู่เสมอ แม้ว่าคุณจะไม่ได้เงินกิลสักแดงเดียวจากการทำแบบนั้นก็ตาม!",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "You are possessed of all the qualities we seek in an adventurer, of this we are convinced.",
+      "text_th": "คุณมีคุณสมบัติทุกอย่างที่เรามองหาในตัวนักผจญภัย เรามั่นใจเรื่องนั้นเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Even if you were kind of dragged into that business with the dodo meat.",
+      "text_th": "ถึงแม้คุณจะถูกลากเข้าไปพัวพันกับเรื่องเนื้อโดโด้นั่นนิดหน่อยก็เถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Yes, thank you , Yda. Ahem. And then there is the matter of your gift. I daresay you are curious as to the nature of the vision you bore witness to moments ago? Well, we can help you to understand it.",
+      "text_th": "ใช่ ขอบใจ นะ Yda อะแฮ่ม แล้วก็เรื่องพรสวรรค์ของคุณด้วยล่ะ ฉันว่าคุณคงจะสงสัยสินะว่านิมิตที่คุณเพิ่งเห็นไปเมื่อครู่นี้มันคืออะไรกันแน่? เราช่วยให้คุณเข้าใจมันได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "You're not the only one with that power, you know. We have a friend who has it too, and we'd love for you to meet her.",
+      "text_th": "คุณไม่ใช่คนเดียวที่มีพลังแบบนั้นนะรู้ไหม เรามีเพื่อนคนนึงที่มีเหมือนกัน แล้วเราก็อยากให้คุณได้รู้จักกับเธอมากๆ เลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "And meeting her is only the beginning, for we would also have you lend your strength to our cause. In return, we should be glad to assist your adventuring endeavors in whatever way we are able.",
+      "text_th": "และการได้พบเธอก็เป็นเพียงจุดเริ่มต้นเท่านั้น เพราะเราอยากให้คุณมาช่วยพวกเราด้วยเช่นกัน ในทางกลับกัน เราก็ยินดีที่จะช่วยเหลือคุณในการผจญภัยของคุณในทุกวิถีทางที่เราทำได้",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Should you decide to take us up on our offer—and I sincerely hope you will—pray speak with Momodi. The proprietress of the Quicksand is a good friend of ours. She will tell you where to find us.",
+      "text_th": "ถ้าคุณตัดสินใจจะรับข้อเสนอของเรา—ซึ่งผมก็หวังอย่างยิ่งว่าคุณจะทำแบบนั้น—ลองไปคุยกับ Momodi ดูนะ เจ้าของร้าน Quicksand เป็นเพื่อนที่ดีของเรา เธอจะบอกคุณเองว่าต้องไปหาเราที่ไหน",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Waaait a minute—we haven't even told you the name of our order! We're the Scions of the Seventh Dawn, defenders of justice! Oh, but don't tell anyone. Except for Momodi. She knows already.",
+      "text_th": "เดี๋ยวก๊อนนนน—เรายังไม่ได้บอกชื่อกลุ่มของเราให้คุณรู้เลยนี่นา! พวกเราคือ Scions of the Seventh Dawn ผู้ปกป้องความยุติธรรม! อ้อ แต่ห้ามไปบอกใครนะ ยกเว้น Momodi เธอรู้เรื่องนี้อยู่แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Ever the selfless hero, I see.",
+      "text_th": "ยังเป็นฮีโร่ผู้เสียสละอยู่เสมอเลยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It has been a while, adventurer.",
+      "text_th": "ไม่ได้เจอกันนานเลยนะ นักผจญภัย",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I have been watching you closely ever since you flew out of Limsa Lominsa.",
+      "text_th": "ฉันเฝ้าจับตาดูคุณอย่างใกล้ชิดมาตลอดตั้งแต่คุณบินออกจาก Limsa Lominsa แล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You discharged your duty as the Admiral's personal envoy with admirable humility, and you have displayed unfaltering courage in the face of danger ever since.",
+      "text_th": "คุณทำหน้าที่เป็นทูตส่วนตัวของ Admiral ได้อย่างถ่อมตนจนน่าชื่นชม และคุณก็แสดงความกล้าหาญอย่างไม่หวั่นเกรงเมื่อต้องเผชิญหน้ากับอันตรายมาตลอด",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Whensoever you came upon those in need, you gave them succor with no thought of personal gain.",
+      "text_th": "เมื่อใดก็ตามที่คุณพบเห็นผู้คนที่เดือดร้อน คุณก็ให้ความช่วยเหลือพวกเขาโดยไม่หวังผลตอบแทนส่วนตัวเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In summary, you have demonstrated all of the qualities we seek in an adventurer.",
+      "text_th": "สรุปก็คือ คุณได้แสดงให้เห็นถึงคุณสมบัติทั้งหมดที่เรามองหาในตัวนักผจญภัยเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "For reasons I cannot well explain, your every deed seems invariably to serve the general good...whether you mean it to or not. It is a happy knack, and one which speaks volumes for your character!",
+      "text_th": "ด้วยเหตุผลบางอย่างที่ฉันก็อธิบายไม่ถูก ทุกการกระทำของคุณดูเหมือนจะเป็นไปเพื่อประโยชน์ส่วนรวมเสมอ... ไม่ว่าคุณจะตั้งใจหรือไม่ก็ตาม มันเป็นพรสวรรค์ที่น่ายินดี และมันก็บ่งบอกถึงตัวตนของคุณได้ดีเลยทีเดียว!",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yet for all your admirable qualities, it is your gift which intrigues me most. I speak of the visions you experience. Visions like the one you had mere moments ago, if I am not mistaken. I can provide you with the means to understand them.",
+      "text_th": "แต่ถึงแม้คุณจะมีคุณสมบัติที่น่าชื่นชมมากมายเพียงใด สิ่งที่ทำให้ฉันสนใจที่สุดก็คือพรสวรรค์ของคุณ ฉันกำลังพูดถึงนิมิตที่คุณประสบอยู่น่ะ นิมิตเหมือนที่คุณเพิ่งเห็นไปเมื่อครู่นี้ ถ้าฉันเข้าใจไม่ผิดนะ ฉันสามารถหาทางช่วยให้คุณเข้าใจมันได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "An acquaintance of mine is blessed with the selfsame talent, you see... If you so desire, I can introduce you to her. She and I fight for a common cause—a cause which would greatly benefit for your support.",
+      "text_th": "คือว่า คนรู้จักของฉันคนนึงก็มีพรสวรรค์แบบเดียวกันนี่แหละ... ถ้าคุณต้องการ ฉันแนะนำให้คุณรู้จักเธอได้นะ เธอกับฉันสู้เพื่อเป้าหมายเดียวกัน—เป้าหมายที่จะได้รับประโยชน์อย่างมหาศาลจากการสนับสนุนของคุณเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If you would agree to lend us your strength, we should be glad to do all within our power to aid you in your personal endeavors.",
+      "text_th": "ถ้าคุณตกลงที่จะให้เรายืมพลังของคุณ เราก็ยินดีที่จะทำทุกวิถีทางเพื่อช่วยเหลือคุณในการทำเป้าหมายส่วนตัวของคุณเช่นกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Think on my offer awhile. Should you decide to accept it, pray speak with Momodi! The proprietress of the Quicksand is a close friend and ally of ours.",
+      "text_th": "ลองเก็บข้อเสนอของฉันไปคิดดูก่อนนะ ถ้าคุณตัดสินใจรับข้อเสนอ ลองไปคุยกับ Momodi ดูสิ! เจ้าของร้าน Quicksand เป็นเพื่อนสนิทและพันธมิตรของเราเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Inform her that you have been chosen by the Scions of the Seventh Dawn, and she will tell you where to find us.",
+      "text_th": "บอกเธอว่าคุณได้รับเลือกจาก Scions of the Seventh Dawn แล้วเธอจะบอกคุณเองว่าต้องไปหาเราที่ไหน",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "All's well that ends well!",
+      "text_th": "ทุกอย่างก็จบลงด้วยดี!",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We meet again!",
+      "text_th": "เราเจอกันอีกแล้วนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Pray do not mistake my intent—for it is always honorable—but I have been watching you ever since you departed Ul'dah.",
+      "text_th": "ได้โปรดอย่าเข้าใจเจตนาฉันผิดล่ะ—เพราะฉันน่ะมีเกียรติเสมอ—แต่ฉันเฝ้าจับตาดูคุณมาตลอดตั้งแต่คุณออกจาก Ul'dah เลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You played the part of envoy to perfection—confident as a man on a diplomatic mission should be, yet unfailingly courteous to your betters. And when your travels led you into the midst of danger, you faced it without so much as a flinch. You, my friend, are quite a marvel, and I confess to being somewhat in awe of you!",
+      "text_th": "คุณสวมบทบาทเป็นทูตได้อย่างไร้ที่ติ—มีความมั่นใจอย่างที่คนในภารกิจทางการทูตควรจะเป็น แต่กลับสุภาพอ่อนน้อมต่อผู้ที่เหนือกว่าอย่างไม่ขาดตกบกพร่อง และเมื่อการเดินทางนำพาคุณเข้าไปท่ามกลางอันตราย คุณก็เผชิญหน้ากับมันโดยไม่สะทกสะท้านเลยแม้แต่น้อย คุณเนี่ยนะเพื่อนเอ๋ย ช่างน่ามหัศจรรย์จริงๆ และฉันยอมรับเลยว่าฉันค่อนข้างจะทึ่งในตัวคุณเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ah, but my lavish praise continues. Most of all, I was struck by your readiness to aid those in need, even when words were all the reward you could expect to receive. Such selflessness is a rare thing in this day and age.",
+      "text_th": "อา แต่คำชมอันมากมายของฉันก็ยังไม่หมดหรอกนะ ที่สำคัญที่สุดเลยก็คือ ฉันประทับใจในความพร้อมที่จะช่วยเหลือคนที่เดือดร้อนของคุณ แม้ว่ารางวัลที่คุณจะได้รับจะมีเพียงคำขอบคุณก็ตาม ความเสียสละแบบนี้มันหายากมากนะในยุคนี้สมัยนี้",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "...All of which leads me to the conclude that you are indeed the one whom I have been looking for—an adventurer possessed of a very rare set of qualities.",
+      "text_th": "...ทั้งหมดนี้ก็ทำให้ฉันสรุปได้ว่าคุณนั่นแหละคือคนที่ฉันตามหามาตลอด—นักผจญภัยที่มีคุณสมบัติที่หายากมากๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "To be sure, your rescue of that damsel in distress was more of a happy accident. But rescue her you did, and that is what matters in the end.",
+      "text_th": "เอาจริงๆ นะ การที่คุณไปช่วยหญิงสาวที่กำลังลำบากคนนั้นมันเหมือนเป็นความบังเอิญที่โชคดีซะมากกว่า แต่สุดท้ายคุณก็ช่วยเธอไว้ได้ นั่นแหละที่สำคัญ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I feel I should mention at this point that I also harbor a burning interest in a certain talent of yours. I speak of your visions. You have been experiencing visions, have you not?",
+      "text_th": "ฉันคิดว่าฉันควรจะบอกคุณในตอนนี้เลยนะว่าฉันเองก็มีความสนใจอย่างมากในพรสวรรค์บางอย่างของคุณ ฉันกำลังพูดถึงนิมิตของคุณน่ะ คุณเห็นนิมิตอยู่ใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well, it just so happens that I know a woman who shares your talent, and can help you to understand it. She and I belong to the same organization, and we should both be delighted beyond words if you would agree to join our cause.",
+      "text_th": "คือว่า ฉันรู้จักผู้หญิงคนนึงที่มีพรสวรรค์แบบเดียวกับคุณเป๊ะเลย และสามารถช่วยให้คุณเข้าใจมันได้ เธอกับฉันอยู่องค์กรเดียวกัน และเราทั้งคู่คงจะดีใจจนพูดไม่ออกเลยล่ะถ้าคุณตอบตกลงมาร่วมอุดมการณ์เดียวกับพวกเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Naturally, there are benefits to being part of such a collective. For one, we should be glad to assist you in realizing your potential as an adventurer.",
+      "text_th": "แน่นอนว่าการได้เป็นส่วนหนึ่งของกลุ่มแบบนี้มันก็มีผลประโยชน์อยู่ อย่างหนึ่งเลยก็คือ เรายินดีที่จะช่วยเหลือคุณในการดึงศักยภาพในฐานะนักผจญภัยของคุณออกมาให้เต็มที่",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You need not give me your answer now. Think upon it, and if you feel moved to help us—as I pray you shall—speak with Momodi, the ever-lovely and youthful mistress of the Quicksand.",
+      "text_th": "คุณไม่จำเป็นต้องให้คำตอบฉันตอนนี้หรอกนะ ลองเก็บไปคิดดูก่อน และถ้าคุณรู้สึกอยากจะช่วยเรา—ซึ่งฉันก็ภาวนาให้คุณอยากล่ะนะ—ก็ไปคุยกับ Momodi เจ้าแม่สุดสวยและดูอ่อนเยาว์ตลอดกาลแห่งร้าน Quicksand ดูสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Tell her the Scions of the Seventh Dawn have found their man, and she will tell you where to find us.",
+      "text_th": "บอกเธอว่า Scions of the Seventh Dawn เจอคนที่ตามหาแล้ว แล้วเธอจะบอกคุณเองว่าต้องไปหาเราที่ไหน",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Hmph. Scenes like that are becomin' ever more common, I'm afraid. Don't worry, though—if you work hard, you'll probably be all right.",
+      "text_th": "เฮ้อ ข้าเกรงว่าภาพแบบนี้คงจะมีให้เห็นบ่อยขึ้นเรื่อยๆ ล่ะนะ แต่ไม่ต้องกังวลไปหรอก—ถ้าคุณตั้งใจทำงาน คุณก็น่าจะโอเคแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Sayin' that, if you ever find yourself in a spot of bother, come and see me. Just don't go pesterin' me every time you graze your knee, eh?",
+      "text_th": "พูดอย่างงี้ก็เถอะนะ ถ้าคุณเจอเรื่องยุ่งยากอะไรก็มาหาฉันได้ตลอดเลยนะ แต่อย่ามาจู้จี้ฉันทุกครั้งที่หัวเข่าถลอกเชียวล่ะ เข้าใจไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "...'Course, I do enjoy hearin' tell of a gentleman's woes with the womenfolk from time to time...",
+      "text_th": "...แน่นอนว่าฉันก็ชอบฟังเรื่องความทุกข์ใจของคุณผู้ชายที่มีต่อสาวๆ บ้างเป็นครั้งคราวอยู่เหมือนกันนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Ah, Forename ! Sorry to keep you waitin'—I was just providin' guidance to a fresh-off-the-carriage-adventurer.",
+      "text_th": "อา [ชื่อ] ! ขอโทษที่ให้รอนะ—ฉันเพิ่งจะให้คำแนะนำนักผจญภัยหน้าใหม่ที่เพิ่งลงจากรถม้าไปน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "But gods, it's good to see you safe and well! To look at you, no one would ever guess you'd been hard at it with giants in the dark!",
+      "text_th": "แต่พระเจ้าช่วย ดีใจจริงๆ ที่เห็นคุณกลับมาอย่างปลอดภัย! ดูคุณสิ ใครจะไปเดาออกว่าคุณเพิ่งไปฟัดกับยักษ์ในความมืดมา!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "You're every ilm the adventurer Miounne said you'd be, Forename . The stationmaster will be overjoyed when he hears the news!",
+      "text_th": "คุณคือนักผจญภัยที่ Miounne บอกไว้ทุกกระเบียดนิ้วเลยล่ะ [ชื่อ] นายสถานีต้องดีใจมากแน่ๆ ถ้ารู้ข่าวนี้!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Oh, before I forget, there's a lass here who wants a word with you. Didn't actually know your name, but hearin' her description, I knew who she meant right away.",
+      "text_th": "อ้อ ก่อนที่ฉันจะลืม มีสาวน้อยคนนึงอยากคุยกับคุณด้วยล่ะ เธอไม่รู้จักชื่อคุณหรอกนะ แต่พอได้ยินเธออธิบายลักษณะ ฉันก็รู้เลยว่าเธอหมายถึงใคร",
+      "status": "AI"
+    },
+    {
+      "character": "Edda",
+      "text_en": "Th-Thank you for sparing the time. I realize you don't know me, but I've been longing to speak with you for a while now.",
+      "text_th": "ข-ขอบคุณนะที่สละเวลามา ฉันรู้ว่าคุณไม่รู้จักฉันหรอก แต่ฉันอยากจะคุยกับคุณมาพักนึงแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Edda",
+      "text_en": "My name is Edda. I'm an adventurer like you, though I'm not very good at being one, if truth be told. Anyway, I was adventuring with my friends in Gridania when...when...I-I'm sorry. We were in Gridania...when the leader of our party was killed.",
+      "text_th": "ฉันชื่อ Edda เป็นนักผจญภัยเหมือนคุณนี่แหละ ถึงฉันจะไม่ค่อยเก่งเรื่องการเป็นนักผจญภัยเท่าไหร่ก็เถอะนะ ช่างมันเถอะ คือว่าฉันไปผจญภัยกับเพื่อนๆ ใน Gridania ตอนที่... ตอนที่... ฉ-ฉันขอโทษ เราอยู่ที่ Gridania... ตอนที่หัวหน้าปาร์ตี้ของเราถูกฆ่าตายน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Edda",
+      "text_en": "His name was Avere, and he and I were to be wed in the spring. You may not remember him, but to say that he remembered you would be an understatement. He would sing your praises from dawn to dusk. He saw you for what you are, you see—an adventurer's adventurer—and swore that he would be like you one day.",
+      "text_th": "เขาชื่อ Avere และเขากับฉันกำลังจะแต่งงานกันในฤดูใบไม้ผลินี้ คุณอาจจะจำเขาไม่ได้ แต่จะบอกว่าเขาจำคุณได้ก็คงจะน้อยไป เขาชอบร้องเพลงสรรเสริญคุณตั้งแต่เช้ายันค่ำเลยล่ะ เขาเห็นว่าคุณเป็นคนยังไงน่ะนะ—เป็นสุดยอดนักผจญภัยของนักผจญภัยเลยล่ะ—แล้วเขาก็สาบานว่าสักวันเขาจะเป็นเหมือนคุณให้ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Edda",
+      "text_en": "I believe that he would have succeeded...had a fiend not robbed him of the chance. Since that day, I have thought long and hard about giving up adventuring.",
+      "text_th": "ฉันเชื่อนะว่าเขาทำสำเร็จแน่ๆ ... ถ้าไม่มีปีศาจร้ายมาพรากโอกาสนั้นไปจากเขาซะก่อน ตั้งแต่วันนั้น ฉันก็คิดทบทวนอยู่นานเลยว่าจะเลิกเป็นนักผจญภัยดีไหม",
+      "status": "AI"
+    },
+    {
+      "character": "Edda",
+      "text_en": "But when I think of the man / woman you are—of all that you've achieved—I find that I am inspired, just as Avere once was.",
+      "text_th": "แต่เมื่อฉันนึกถึงคนที่คุณเป็น—ถึงทุกสิ่งที่คุณทำสำเร็จมา—ฉันพบว่าตัวเองเกิดแรงบันดาลใจ เหมือนที่ Avere เคยเป็น",
+      "status": "AI"
+    },
+    {
+      "character": "Edda",
+      "text_en": "And so I've decided to start again as an adventurer. I will go back to  the village of my birth and begin my training anew.",
+      "text_th": "ดังนั้นฉันก็เลยตัดสินใจจะเริ่มการเป็นนักผจญภัยใหม่อีกครั้ง ฉันจะกลับไปที่หมู่บ้านเกิดของฉันแล้วเริ่มต้นการฝึกฝนใหม่ทั้งหมด",
+      "status": "AI"
+    },
+    {
+      "character": "Edda",
+      "text_en": "But I wanted to meet you first...to ask your name.",
+      "text_th": "แต่ฉันอยากจะมาเจอคุณก่อน... เพื่อถามชื่อคุณน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Edda",
+      "text_en": "Forename Surname ... I shan't forget.",
+      "text_th": "[ชื่อ] [นามสกุล] ... ฉันจะไม่ลืมเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Edda",
+      "text_en": "Thank you, Forename Surname . I pray that we will meet again. Fare you well!",
+      "text_th": "ขอบคุณนะ [ชื่อ] [นามสกุล] ฉันภาวนาให้เราได้พบกันอีก ขอให้โชคดีนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Adventurin' can be a cruel bleedin' business... Time was, I didn't know why anyone would bother. When they first asked me to take charge of the guild here, I didn't want aught to do with you lot—thought it'd be a right pain in the arse lookin' after you all.",
+      "text_th": "การเป็นนักผจญภัยมันช่างโหดร้ายเสียจริง... เมื่อก่อนฉันก็ไม่เข้าใจหรอกนะว่าทำไมคนถึงอยากจะเป็นกัน ตอนที่พวกเขาขอให้ฉันมารับหน้าที่ดูแลกิลด์ที่นี่ตอนแรก ฉันไม่อยากจะยุ่งเกี่ยวกับพวกคุณเลยด้วยซ้ำ—คิดว่ามันคงจะน่ารำคาญน่าดูที่ต้องมาคอยดูแลพวกคุณน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "But against my better judgment, I decided to accept the post...and I'm full glad I did. I feel privileged to be a part of your lives.",
+      "text_th": "แต่ด้วยสัญชาตญาณลึกๆ ฉันตัดสินใจรับตำแหน่งนี้... และฉันก็ดีใจมากที่ตัดสินใจแบบนั้น ฉันรู้สึกเป็นเกียรติมากนะที่ได้เป็นส่วนหนึ่งในชีวิตของพวกคุณ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "And that goes double for yours, Forename !",
+      "text_th": "และนั่นก็รวมถึงชีวิตคุณด้วยนะ [ชื่อ] !",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "...Eh? What did you say? You want to know about the Scions of the Seventh Dawn?",
+      "text_th": "...เอ๊ะ? คุณว่าไงนะ? คุณอยากรู้เรื่อง Scions of the Seventh Dawn งั้นเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "They're beginnin' to move in earnest, then...",
+      "text_th": "พวกเขากำลังเริ่มเคลื่อนไหวอย่างจริงจังแล้วสินะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Listen Forename —the Scions ain't no ordinary folk, and the work they do ain't no ordinary work. I know full well how capable you are, but even you would think twice about attemptin' some of the stuff they do. Knowin' that, if you're still certain you want to get involved, I'll tell you what I can.",
+      "text_th": "ฟังนะ [ชื่อ] —กลุ่ม Scions ไม่ใช่คนธรรมดาทั่วไปหรอกนะ และงานที่พวกเขาทำก็ไม่ใช่งานธรรมดาทั่วไปเหมือนกัน ฉันรู้ดีว่าคุณเก่งแค่ไหน แต่ถึงจะเป็นคุณ คุณก็คงต้องคิดทบทวนให้ดีก่อนจะพยายามทำในสิ่งที่พวกเขาทำ ถ้ารู้แบบนี้แล้ว คุณยังยืนยันที่จะเข้าไปพัวพันด้วยล่ะก็ ฉันก็จะบอกในสิ่งที่ฉันรู้ให้ฟัง",
+      "status": "AI"
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "id": "a-royal-reception",
+  "wiki_path": "/wiki/A_Royal_Reception",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/08/A_Royal_Reception_Image.png",
+  "patch": "2.0",
+  "title_en": "A Royal Reception",
+  "title_th": "งานเลี้ยงต้อนรับแห่งราชสำนัก",
+  "title_status": "AI",
+  "level": "14",
+  "location": "Ul'dah - Steps of Nald(X:11.6,Y:9.6)",
+  "npc_start": "Momodi",
+  "dialogues": [
+    {
+      "character": "Momodi",
+      "text_en": "This is it, Forename ─your big debut in Ul'dahn high society!",
+      "text_th": "เอาล่ะ [ชื่อ] ─นี่คืองานเปิดตัวครั้งใหญ่ของเธอในสังคมชั้นสูงของ Ul'dah เลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "The banquet is bein' held in the Fragrant Chamber. Head over to the Royal Promenade and Bartholomew will show you in. Oh, but be sure to put on your earrin's first, or he'll send you packin'.",
+      "text_th": "งานเลี้ยงจัดขึ้นที่ Fragrant Chamber ให้ไปที่ Royal Promenade แล้ว Bartholomew จะพาเธอเข้าไป อ้อ แต่ต้องใส่ตุ้มหูของเธอก่อนนะ ไม่งั้นเขาไล่เธอกลับแน่",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Right, well, I reckon that's everythin'. Try not to let all the pomp and ceremony get to you. Just be yourself and you'll be fine!",
+      "text_th": "เอาล่ะ คิดว่าน่าจะครบหมดแล้วล่ะ พยายามอย่าให้ความหรูหราอลังการมันทำให้เธอเกร็งล่ะ เป็นตัวของตัวเองเข้าไว้แล้วทุกอย่างจะดีเอง!",
+      "status": "AI"
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "A banquet hosted by Her Grace the sultana is due to begin shortly. Attendance is by invitation only. Please make way for arriving guests.",
+      "text_th": "งานเลี้ยงที่องค์ราชินีทรงเป็นเจ้าภาพกำลังจะเริ่มขึ้นในอีกไม่ช้าค่ะ ผู้ที่มีบัตรเชิญเท่านั้นถึงจะเข้าได้ กรุณาหลีกทางให้แขกที่กำลังมาถึงด้วยค่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "Ahem. I must ask that you step away from the doors, sir / madam . If you have received an invitation, pray consider the terms of admission.",
+      "text_th": "อะแฮ่ม ขอความกรุณาถอยห่างจากประตูด้วยครับ คุณผู้ชาย / คุณผู้หญิง หากท่านได้รับบัตรเชิญ โปรดปฏิบัติตามเงื่อนไขการเข้างานด้วยครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "And Twelve save you if you have misplaced the relevant articles! I can only imagine how horrified Mistress Serendipity would be if she had to furnish you with another pair...",
+      "text_th": "แล้วถ้าท่านทำของสำคัญหายล่ะก็ ขอให้ท่านทเวลฟ์คุ้มครองเถอะ! ผมจินตนาการไม่ออกเลยว่าท่าน Serendipity จะตกใจขนาดไหนถ้าเธอต้องหาคู่ใหม่มาให้ท่าน...",
+      "status": "AI"
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "We are honored to receive you, milord / milady . Please proceed inside.",
+      "text_th": "เป็นเกียรติอย่างยิ่งที่ได้ต้อนรับท่านครับ ท่านลอร์ด / ท่านหญิง เชิญด้านในเลยครับ",
+      "status": "AI"
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "You want what !? You can't be serious! Gods ...",
+      "text_th": "คุณต้องการอะไรนะ!? นี่คุณไม่ได้ล้อเล่นใช่ไหม! พระเจ้าช่วย...",
+      "status": "AI"
+    },
+    {
+      "character": "Serendipity",
+      "text_en": "Just this once, but remember─life is not a minstrel's song, and you aren't some chosen hero. So don't go around expecting people to forgive you no matter the reckless, irresponsible things you do.",
+      "text_th": "แค่ครั้งนี้ครั้งเดียวนะ แต่จำไว้ว่า—ชีวิตจริงมันไม่ใช่เพลงของกวีหรอกนะ แล้วคุณก็ไม่ใช่ผู้กล้าที่ถูกเลือกด้วย เพราะงั้นอย่าไปคาดหวังว่าคนอื่นเขาจะให้อภัยคุณไปซะทุกเรื่องเวลาคุณทำอะไรบ้าบิ่นและไม่รับผิดชอบล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "All hail the sultana!",
+      "text_th": "ขอทรงพระเจริญ!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Your Grace.",
+      "text_th": "ฝ่าบาท",
+      "status": "AI"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Raubahn.",
+      "text_th": "Raubahn",
+      "status": "AI"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "By right of the Royal House of Ul, I, Nanamo, seventeenth of my line, have summoned you here.",
+      "text_th": "ในนามแห่งราชวงศ์ Ul เรา Nanamo รัชทายาทลำดับที่สิบเจ็ด ขอเรียกตัวเจ้ามาที่นี่",
+      "status": "AI"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "We are graced this day by the presence of a hero to Ul'dah, and dear friend to the crown.",
+      "text_th": "วันนี้เราได้รับเกียรติจากการมาเยือนของวีรบุรุษแห่ง Ul'dah และพระสหายที่รักยิ่งของราชบัลลังก์",
+      "status": "AI"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Honored guests, I give you our champion!",
+      "text_th": "แขกผู้มีเกียรติทุกท่าน ขอนำเสนอผู้ชนะของเรา!",
+      "status": "AI"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "And with that, I bid you enjoy the feast.",
+      "text_th": "และด้วยเหตุนี้ เราขอให้ทุกท่านเพลิดเพลินกับงานเลี้ยง",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Not to spoil your appetite, but Ul'dah is hardly so bountiful as this meal would have you believe. While we gorge ourselves, children starve in the streets.",
+      "text_th": "ไม่ได้อยากจะทำให้เสียบรรยากาศการกินหรอกนะ แต่ Ul'dah ไม่ได้อุดมสมบูรณ์เหมือนที่เห็นในมื้อนี้หรอกนะ ในขณะที่เรากินกันจนพุงกาง ยังมีเด็กๆ อดอยากอยู่ตามท้องถนนเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Nor can Her Grace do aught to help them. She is thwarted at every turn by those on the Syndicate who derive their wealth from the workers' poverty.",
+      "text_th": "แถมองค์ราชินีก็ทรงช่วยเหลือพวกเขาไม่ได้ด้วย พระองค์ถูกขัดขวางทุกวิถีทางจากพวก Syndicate ที่กอบโกยความมั่งคั่งจากความยากจนของชนชั้นแรงงาน",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Beneath her mask of stately serenity, she is aghast at the plight of her subjects.",
+      "text_th": "ภายใต้ใบหน้าที่สง่างามของพระองค์ พระองค์ทรงตกใจกับความทุกข์ยากของพสกนิกรมากนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "But there will be no hope for the masses until the crown is restored to power.",
+      "text_th": "แต่ประชาชนจะไม่มีวันมีความหวังจนกว่าราชบัลลังก์จะกลับมามีอำนาจอีกครั้ง",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I am truly grateful for all you have done for Ul'dah. But there is so much more to do.",
+      "text_th": "ฉันขอบคุณเธอจากใจจริงสำหรับทุกอย่างที่เธอทำให้ Ul'dah แต่ยังมีงานอีกเยอะเลยล่ะที่ต้องทำ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "That light─what is it?",
+      "text_th": "แสงนั่น─มันคืออะไรกัน?",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "So bright... Almost like... By the Twelve!",
+      "text_th": "สว่างจ้ามาก... เหมือนกับ... ขุ่นพระ!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Tell me true─have you been troubled by strange dreams of late? Visions─of the Crystal?",
+      "text_th": "บอกฉันมาตามตรงนะ─ช่วงนี้เธอฝันแปลกๆ บ้างไหม? ภาพนิมิต─เกี่ยวกับคริสตัลน่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Mayhap you put them down to an excess of aether?",
+      "text_th": "บางทีเธออาจจะคิดว่าเป็นเพราะอีเธอร์มันเยอะไปสินะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Yes. You are like they were...",
+      "text_th": "ใช่ เธอเหมือนพวกเขาเลย...",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Allow me to explain. Before you came to Eorzea, there were others like you who fought the primals.",
+      "text_th": "ให้ฉันอธิบายหน่อยนะ ก่อนที่เธอจะมา Eorzea มีคนอื่นเหมือนเธอที่ต่อสู้กับเหล่าไพรมอล",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Though they were not of this land, when the Garlean Empire threatened the realm, they helped bring together the three Grand Companies.",
+      "text_th": "ถึงพวกเขาจะไม่ได้มาจากที่นี่ แต่ตอนที่จักรวรรดิ Garlean รุกรานดินแดนของเรา พวกเขาก็ช่วยรวบรวม Grand Companies ทั้งสามเข้าด้วยกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "And they stood with us at Carteneau, that fateful day five years ago...",
+      "text_th": "และพวกเขาก็ยืนหยัดเคียงข้างพวกเราที่ Carteneau ในวันแห่งโชคชะตาเมื่อ 5 ปีก่อนนั้น...",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "...The day we lost them.",
+      "text_th": "...วันที่เราเสียพวกเขาไป",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "None who survived have forgotten the heroes' sacrifice, nor would any man deny they fought alongside us...",
+      "text_th": "ไม่มีใครที่รอดชีวิตมาได้ลืมการเสียสละของวีรบุรุษเหล่านั้นหรอกนะ และก็ไม่มีใครปฏิเสธได้ว่าพวกเขาสู้เคียงข้างเรา...",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "But the names of these heroes come not to our lips. The once-familiar pages of their story are now blank to us.",
+      "text_th": "แต่ชื่อของวีรบุรุษเหล่านั้นกลับเลือนหายไปจากความทรงจำของเรา หน้ากระดาษที่เคยคุ้นเคยในเรื่องราวของพวกเขากลับกลายเป็นหน้ากระดาษเปล่าๆ สำหรับพวกเรา",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "And in our mind's eye, their faces are naught but silhouettes amid a blinding glare...",
+      "text_th": "และในมโนภาพของเรา ใบหน้าของพวกเขาก็เป็นแค่เงาดำท่ามกลางแสงสว่างจ้า...",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "It is for this reason that we have come to call them the Warriors of Light.",
+      "text_th": "ด้วยเหตุนี้ เราก็เลยเรียกพวกเขาว่า Warriors of Light",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "When I look at you, I cannot help but think of them, and of what you might achieve.",
+      "text_th": "เวลาฉันมองเธอ ฉันก็อดคิดถึงพวกเขาไม่ได้ และก็คิดถึงสิ่งที่เธออาจจะทำสำเร็จได้ด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "You must protect that crystal at all costs.",
+      "text_th": "เธอต้องปกป้องคริสตัลนั่นไว้ให้ได้ไม่ว่าจะเกิดอะไรขึ้น",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "It is a gift from Hydaelyn, Mother of all─and one She gave to you for a reason.",
+      "text_th": "มันคือของขวัญจาก Hydaelyn พระมารดาแห่งสรรพสิ่ง─และพระองค์ก็มอบมันให้เธอด้วยเหตุผลบางอย่าง",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Yours is no ordinary tale. If I am right, the fate of the realm may yet hang upon your deeds.",
+      "text_th": "เรื่องราวของเธอไม่ใช่เรื่องธรรมดาแน่ๆ ถ้าฉันคิดถูก ชะตากรรมของดินแดนนี้อาจจะขึ้นอยู่กับสิ่งที่เธอทำเลยก็ได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Only heroes and martyrs are fit to bear such a burden. Let us pray you are the former.",
+      "text_th": "มีแต่วีรบุรุษและผู้ที่ยอมพลีชีพเท่านั้นที่คู่ควรจะแบกรับภาระหนักอึ้งนี้ เรามาภาวนาให้เธอเป็นอย่างแรกกันเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Flames, to the fore!",
+      "text_th": "Flames บุกไปข้างหน้า!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Victory belongs to the bold! Show those imperial whoresons what we're made of!",
+      "text_th": "ชัยชนะเป็นของผู้กล้า! แสดงให้พวกอิมพีเรียลเห็นสิว่าพวกเรามีดีอะไร!",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "The left flank buckles! Divert the Barracudas!",
+      "text_th": "ปีกซ้ายกำลังจะแตก! ส่ง Barracudas ไปเสริมที!",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Bid 'em hold that position though it cost 'em their lives!",
+      "text_th": "สั่งให้พวกเขายันไว้ให้ได้แม้ว่าจะต้องแลกด้วยชีวิตก็ตาม!",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The Yellow Serpents are in need of succor. Pray send the White Wolves to their aid.",
+      "text_th": "Yellow Serpents ต้องการความช่วยเหลือแล้ว ขอให้ส่ง White Wolves ไปช่วยพวกเขาด้วยเถิด",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The adventurers risk life and limb for our cause. We must not fail them.",
+      "text_th": "เหล่านักผจญภัยยอมเสี่ยงชีวิตเพื่อพวกเรา เราจะทำให้พวกเขาผิดหวังไม่ได้นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Is aught amiss?",
+      "text_th": "มีอะไรผิดปกติงั้นเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "No... It is nothing.",
+      "text_th": "เปล่าหรอก... ไม่มีอะไรหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "The barrier won't go down so easily! Eyes forward!",
+      "text_th": "บาเรียนั่นไม่ได้พังง่ายๆ หรอก! มองตรงไปข้างหน้า!",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "We are being watched...",
+      "text_th": "เรากำลังถูกจับตามอง...",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Raging Bull calling Blood Thorn! Blood Thorn, respond! Respond, damn you!",
+      "text_th": "Raging Bull เรียก Blood Thorn! Blood Thorn ตอบด้วย! ตอบสิวะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Arrrgh!!!",
+      "text_th": "อ๊ากกก!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text_en": "Raging Bull! This is Mad Snake! Respond!",
+      "text_th": "Raging Bull! นี่ Mad Snake! ตอบด้วย!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Ryder!? This is Raging Bull! What news!?",
+      "text_th": "Ryder!? นี่ Raging Bull! มีข่าวอะไรไหม!?",
+      "status": "AI"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text_en": "We're surrounded by a blaze! There's no way out! Gods preserve, what is that thing!?",
+      "text_th": "พวกเราถูกไฟล้อมไว้หมดแล้ว! ไม่มีทางหนีเลย! พระเจ้าช่วย นั่นมันตัวอะไรกันน่ะ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "What's going on!? Speak to me!",
+      "text_th": "เกิดอะไรขึ้น!? พูดมาสิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text_en": "Godsdammit! We cannot hold much longer!",
+      "text_th": "เวรเอ๊ย! พวกเรายันไว้ได้อีกไม่นานแล้วนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text_en": "AaaaaaAAAAAAAAAH!!!!",
+      "text_th": "อ๊ากกกกกก!!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Mad Snake!? Mad Snaaaaaake! Answer me!",
+      "text_th": "Mad Snake!? Mad Snaaaaaake! ตอบฉันมาสิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Damn it! Damn it all to the seventh hell!",
+      "text_th": "ปัดโธ่เว้ย! ให้ตายสิโว้ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "What of the Barracudas? Can they not be reached?",
+      "text_th": "แล้วพวก Barracudas ล่ะ? ติดต่อไม่ได้เลยเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Storm Runner",
+      "text_en": "Sorry, Admiral—shell's not workin'!",
+      "text_th": "ขอโทษครับท่านนายพล—หอยสังข์สื่อสารมันใช้ไม่ได้แล้วครับ!",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "What of our own?",
+      "text_th": "แล้วทางเราล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Runner",
+      "text_en": "I cannot say, my lady! That monstrosity appears to be disrupting our communications!",
+      "text_th": "ฉันตอบไม่ได้ค่ะ ท่านหญิง! สัตว์ประหลาดนั่นดูเหมือนจะก่อกวนการสื่อสารของพวกเราค่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "We must keep trying. Call till they respond.",
+      "text_th": "เราต้องพยายามต่อไป เรียกไปจนกว่าพวกเขาจะตอบ",
+      "status": "AI"
+    },
+    {
+      "character": "Serpent Runner",
+      "text_en": "Yes, my lady!",
+      "text_th": "รับทราบค่ะ ท่านหญิง!",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Admiral, General—we can do no more. We must give the order to withdraw.",
+      "text_th": "ท่านนายพล ท่านผู้บัญชาการ—พวกเราทำอะไรไม่ได้แล้วล่ะ เราต้องสั่งถอยทัพแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I will not forsake Louisoix!",
+      "text_th": "ฉันจะไม่มีวันทิ้ง Louisoix เด็ดขาด!",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "General, please! Victory may belong to the bold, but there will be no victor this day!",
+      "text_th": "ท่านผู้บัญชาการ ได้โปรดเถอะ! ชัยชนะอาจจะเป็นของผู้กล้า แต่วันนี้ไม่มีผู้ชนะหรอกนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "You know this to be true. Let us not sacrifice lives in vain.",
+      "text_th": "ท่านก็รู้ว่านั่นคือความจริง อย่าให้ต้องมีคนตายเปล่าเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The adventurers fight bravely, but to no avail. Let them withdraw, and let us be the ones to stand with Louisoix.",
+      "text_th": "เหล่านักผจญภัยต่อสู้ได้อย่างกล้าหาญ แต่ก็เปล่าประโยชน์ ปล่อยให้พวกเขาถอยทัพไปเถอะ แล้วให้พวกเราเป็นคนยืนหยัดเคียงข้าง Louisoix เอง",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Belay previous orders! All Maelstrom units are commanded to fall back, effective immediately!",
+      "text_th": "ยกเลิกคำสั่งก่อนหน้า! สั่งให้หน่วย Maelstrom ทั้งหมดถอยทัพทันที!",
+      "status": "AI"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Give the Foreign Levy priority! Let the main host cover their retreat, and bring up the rear!",
+      "text_th": "ให้ความสำคัญกับ Foreign Levy ก่อน! ให้กองทัพหลักคุ้มกันการถอยทัพของพวกเขา แล้วค่อยรั้งท้าย!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Damn it... Relay the order: all Flames are to withdraw. I don't care if our linkshells are useless!",
+      "text_th": "บ้าเอ๊ย... ถ่ายทอดคำสั่งไป: ให้ Flames ทั้งหมดถอยทัพ ฉันไม่สนหรอกว่า linkshell ของเราจะใช้ไม่ได้น่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "You still have a working pair of legs, don't you? Well, use 'em , you bloody half-wit!",
+      "text_th": "แกยังมีขาสองข้างที่ยังใช้ได้อยู่ไม่ใช่เหรอ? ก็ใช้มันสิวะ ไอ้โง่เอ๊ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The outcome of this battle was long since decided.",
+      "text_th": "ผลของการต่อสู้ครั้งนี้มันถูกกำหนดไว้ตั้งแต่แรกแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Better to retreat now, than risk a massacre.",
+      "text_th": "ยอมถอยตอนนี้ดีกว่าเสี่ยงที่จะเกิดการสังหารหมู่ขึ้นนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "This dark, stifling presence... Who...or what...?",
+      "text_th": "สัมผัสอันดำมืดและน่าอึดอัดนี้... ใครกัน... หรือว่าตัวอะไรกัน...?",
+      "status": "AI"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "We go to take our place beside Archon Louisoix! To your positions!",
+      "text_th": "พวกเราจะไปยืนเคียงข้างท่าน Archon Louisoix! ประจำตำแหน่ง!",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "That I should live to behold Bahamut once more...",
+      "text_th": "ไม่น่าเชื่อว่าฉันจะมีชีวิตอยู่จนได้เห็น Bahamut อีกครั้ง...",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Magnificent. The eons of imprisonment have only made him hungrier.",
+      "text_th": "งดงามจริงๆ การถูกจองจำมาเนิ่นนานยิ่งทำให้มันหิวกระหายมากขึ้น",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "I am aware of them. Pay them no mind. They are powerless to act.",
+      "text_th": "ฉันรู้แล้วว่าพวกมันอยู่ ช่างพวกมันเถอะ พวกมันทำอะไรไม่ได้หรอก",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "It has begun. Soon the planet will regain its true form.",
+      "text_th": "มันเริ่มต้นขึ้นแล้ว อีกไม่นานโลกใบนี้ก็จะกลับคืนสู่รูปลักษณ์ที่แท้จริงเสียที",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Ahahaha... Ahahahahaha!",
+      "text_th": "ฮ่าฮ่าฮ่า... ฮ่าฮ่าฮ่าฮ่าฮ่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "How you feelin', Forename ?",
+      "text_th": "เป็นไงบ้าง [ชื่อ]?",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "They said you fainted in the middle of one of the General's stories. I had to have you carried back to the Hourglass.",
+      "text_th": "เขาบอกว่าเธอสลบไปตอนที่ท่านนายพลกำลังเล่าเรื่องอยู่ ฉันก็เลยต้องให้คนหามเธอกลับมาที่ Hourglass น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "I reckon you made quite an impression on your fellow guests─though probably not the sort you intended.",
+      "text_th": "ฉันว่าเธอทำให้แขกคนอื่นๆ ประทับใจไปเลยล่ะ—ถึงจะไม่ใช่ความประทับใจแบบที่เธอตั้งใจไว้ก็เถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "You sure you're gettin' enough rest, Forename ? The life of an adventurer can be pretty taxin'.",
+      "text_th": "แน่ใจนะว่าพักผ่อนพอแล้วน่ะ [ชื่อ]? ชีวิตนักผจญภัยมันก็หนักหนาเอาเรื่องอยู่นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Anyroad, I'm glad to see you're back to normal. No offense, but lookin' after you was gettin' a bit tiresome.",
+      "text_th": "ยังไงก็เถอะ ดีใจที่เห็นเธอกลับมาเป็นปกตินะ ไม่ได้ว่านะ แต่การดูแลเธอมันก็เหนื่อยเอาเรื่องเหมือนกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Oh, 'fore I forget, the General left a message for you. Said that when you're feelin' up to it, you should come and see him at the Hall of Flames.",
+      "text_th": "อ้อ ก่อนที่ฉันจะลืม ท่านนายพลฝากข้อความไว้ให้เธอด้วยนะ บอกว่าถ้าเธอรู้สึกดีขึ้นเมื่อไหร่ ให้ไปหาเขาที่ Hall of Flames หน่อย",
+      "status": "AI"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Probably wants to finish the story he was tellin' you when you fell asleep.",
+      "text_th": "คงอยากจะเล่าเรื่องที่เล่าค้างไว้ตอนที่เธอหลับให้จบมั้ง",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I've been waiting for you, Forename . I trust you are fully recovered?",
+      "text_th": "ฉันรอเธออยู่นะ [ชื่อ] ฉันเชื่อว่าเธอคงจะหายดีแล้วใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Good, because there is much work to be done─work that I would have you do...",
+      "text_th": "ดีมาก เพราะยังมีงานอีกเยอะเลยล่ะที่ต้องทำ─งานที่ฉันอยากให้เธอเป็นคนทำน่ะ...",
+      "status": "AI"
+    }
+  ]
+}

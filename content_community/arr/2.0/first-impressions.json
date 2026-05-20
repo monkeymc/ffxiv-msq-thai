@@ -1,0 +1,68 @@
+{
+  "id": "first-impressions",
+  "wiki_path": "/wiki/First_Impressions",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "First Impressions",
+  "title_th": "ความประทับใจแรก",
+  "title_status": "AI",
+  "level": "20",
+  "location": "East Shroud(X:16.7,Y:27.1)",
+  "npc_start": "Rolfe Hawthorne",
+  "dialogues": [
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Oh, still here, eh? Great! There's one more thing you should know about the sylphs. They don't take kindly to guests who show up empty-handed. To earn their trust, you'd do well to bring along a...a... Uh...",
+      "text_th": "อ้อ ยังอยู่ที่นี่เหรอ? ดีเลย! มีอีกอย่างที่เจ้าควรรู้เกี่ยวกับพวกซิลฟ์นะ พวกมันไม่ค่อยต้อนรับแขกที่มามือเปล่าหรอก เพื่อที่จะได้รับความไว้ใจจากพวกมัน เจ้าควรจะเอา... เอา... เอ่อ... ไปด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Drat! What was it, again? And my wife Rosa and I were just speaking of the matter not days ago...",
+      "text_th": "ปัดโธ่เว้ย! มันคืออะไรนะ? ข้ากับ Rosa ภรรยาข้าเพิ่งจะพูดเรื่องนี้กันเมื่อไม่กี่วันก่อนเองนะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Forgive me, friend. Speak to Rosa at the Comb─her memory should prove more reliable than mine own.",
+      "text_th": "ขอโทษทีนะเพื่อน ไปถาม Rosa ที่ Comb ดูสิ─ความจำของนางน่าจะดีกว่าข้าเยอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Rosa Hawthorne",
+      "text_en": "A peace offering for the sylphs? Were it anyone else, I'd recommend a jar of honey, but I fear that wouldn't get you past their front doorstep, dear. No, their tastes run more to the un usual.",
+      "text_th": "ของขวัญผูกมิตรสำหรับพวกซิลฟ์งั้นรึ? ถ้าเป็นคนอื่น ข้าก็คงแนะนำให้เอาน้ำผึ้งไปสักขวด แต่ข้าเกรงว่าแค่นั้นคงผ่านประตูบ้านพวกมันไปไม่ได้หรอกนะที่รัก ไม่เลย รสนิยมของพวกมันค่อนข้างจะแปลกประหลาด กว่าปกตินิดหน่อยน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Rosa Hawthorne",
+      "text_en": "Are you, perchance, familiar with milkroot? That's what we call the root of that most fiendish seedkin, the ochu. When chewed, it exudes a cloudy liquid that's said to induce curious visions in the imbiber. You'd not catch me dead trying the stuff, but the sylphs seem to enjoy it to no end.",
+      "text_th": "เจ้าพอจะรู้จัก milkroot บ้างไหม? นั่นคือชื่อที่พวกเราเรียกรากของไอ้ต้น seedkin ตัวร้ายอย่าง ochu ไงล่ะ เวลาเคี้ยวมันจะมีน้ำขุ่นๆ ออกมา ว่ากันว่าน้ำนั่นจะทำให้ผู้ดื่มเห็นภาพหลอนแปลกๆ ข้าล่ะไม่ยอมตายไปพร้อมกับการลองของพรรค์นั้นแน่ๆ แต่พวกซิลฟ์ดูจะชอบมันซะไม่มีล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Rosa Hawthorne",
+      "text_en": "I've not seen an ochu around the Comb in quite some time, but I did encounter a suspicious clump of grass the other day. Were you to stimulate it somehow─with some of this amber syrup, for example─you might be surprised at what comes out. Good luck.",
+      "text_th": "ข้าไม่เห็น ochu แถวๆ Comb มาพักใหญ่แล้วล่ะ แต่เมื่อวันก่อนข้าบังเอิญไปเจอกอหญ้าที่ดูน่าสงสัยเข้า ถ้าเจ้าลองไปกระตุ้นมันดูสักหน่อย─อย่างเช่นใช้น้ำเชื่อมสีอำพันพวกนี้─เจ้าอาจจะประหลาดใจกับสิ่งที่โผล่ออกมาก็ได้นะ โชคดีจ้ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Ah, you're back. Was my wife able to direct you to a suitable offering?",
+      "text_th": "อา กลับมาแล้วรึ ภรรยาข้าช่วยแนะนำของขวัญที่เหมาะสมให้เจ้าได้ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Milkroot! But of course! Those sylphs quaff that cloudy stuff as quick as I do a flagon of mead. The effect's just about the same, as well.",
+      "text_th": "milkroot! ใช่เลย! พวกซิลฟ์นั่นกระดกน้ำขุ่นๆ นั่นไวพอๆ กับที่ข้ากระดกเหล้าน้ำผึ้งเลยล่ะ ผลลัพธ์ก็คงจะพอๆ กันด้วยล่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Rolfe Hawthorne",
+      "text_en": "Anyroad, a gift of milkroot will have the sylphs calling you friend and brother / sister the moment they lay eyes on it. Now let me wrap that up for you─I'm startin' to feel a bit woozy...",
+      "text_th": "เอาเป็นว่า ของขวัญเป็น milkroot จะทำให้พวกซิลฟ์เรียกเจ้าว่าเพื่อนและพี่น้องทันทีที่เห็นมันเลยล่ะ เอาล่ะ ให้ข้าห่อมันให้เจ้านะ─ข้าเริ่มจะมึนๆ แล้วสิ...",
+      "status": "AI"
+    }
+  ]
+}

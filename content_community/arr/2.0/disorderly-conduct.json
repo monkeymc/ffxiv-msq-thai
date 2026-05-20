@@ -1,0 +1,13 @@
+{
+  "id": "disorderly-conduct",
+  "wiki_path": "/wiki/Disorderly_Conduct",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title_en": "Disorderly Conduct",
+  "title_th": "พฤติกรรมที่ไม่เป็นระเบียบ",
+  "title_status": "AI",
+  "level": "7",
+  "location": "Central Thanalan(X:19,Y:20)",
+  "npc_start": "Roger",
+  "dialogues": []
+}

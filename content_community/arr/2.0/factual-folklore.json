@@ -1,0 +1,116 @@
+{
+  "id": "factual-folklore",
+  "wiki_path": "/wiki/Factual_Folklore",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Factual Folklore",
+  "title_th": "เรื่องเล่าขานที่เป็นความจริง",
+  "title_status": "AI",
+  "level": "39",
+  "location": "Coerthas Central Highlands(X:12.9,Y:17.5)",
+  "npc_start": "Haustefort",
+  "dialogues": [
+    {
+      "character": "Haustefort",
+      "text_en": "You the lad / lass responsible for that commotion upstairs? Aye, word travels fast in Whitebrim Front. I gather you still wish to change Lord Drillemont's mind?",
+      "text_th": "เจ้าหนุ่ม / แม่หนู ที่ก่อเรื่องวุ่นวายข้างบนนั่นใช่ไหม? อา ข่าวลือมันแพร่ไปเร็วใน Whitebrim Front นะ ข้าเดาว่าเจ้ายังอยากจะเปลี่ยนใจท่านลอร์ด Drillemont อยู่ใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Haustefort",
+      "text_en": "If there's one thing I've learned about the man in my time here, it's that he listens to and respects the opinions of those under his command. Win over the barracks, and he's sure to take notice. How, you ask? That's easy─serve the poor souls decent fare for a change.",
+      "text_th": "ถ้ามีสิ่งหนึ่งที่ข้าได้เรียนรู้เกี่ยวกับชายผู้นี้ตั้งแต่ข้ามาอยู่ที่นี่ ก็คือเขารับฟังและเคารพความคิดเห็นของผู้ใต้บังคับบัญชาเสมอ ทำให้พวกทหารในค่ายยอมรับให้ได้สิ แล้วเขาก็จะต้องสังเกตเห็นแน่ๆ ทำยังไงน่ะรึ? ง่ายนิดเดียว─เสิร์ฟอาหารดีๆ ให้พวกผู้น่าสงสารที่นี่กินบ้างสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Haustefort",
+      "text_en": "The last few supply shipments contained no meat whatsoever, and the knights are rightfully beginning to complain. I'm thinking we could prepare them steaks using mudpuppy tail meat. 'Twouldn't be a quality meal, 'tis true, but it'd be a damn sight better than nothing.",
+      "text_th": "เสบียงสองสามรอบหลังมานี่ไม่มีเนื้อสัตว์มาเลย แล้วพวกอัศวินก็เริ่มจะบ่นกันแล้ว ซึ่งก็สมควรล่ะนะ ข้าคิดว่าเราน่าจะเตรียมสเต็กจากเนื้อหางของพวก mudpuppy ให้พวกเขานะ ถึงมันจะใช่อาหารชั้นดีก็เถอะ แต่ก็น่าจะดีกว่าไม่มีอะไรตกถึงท้องเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Haustefort",
+      "text_en": "If you've a mind to lend a hand, why not await a lurking mudpuppy in Daniffen Pass? And take this bottle of vinegar; locals say it weakens mudpuppies by clogging their mucous glands, drying their skin.",
+      "text_th": "ถ้าเจ้าอยากจะช่วย ข้าว่าทำไมไม่ไปดักรอพวก mudpuppy ใน Daniffen Pass ดูล่ะ? อ้อ แล้วเอาน้ำส้มนี่ไปด้วยนะ ชาวบ้านบอกว่ามันจะทำให้ mudpuppy อ่อนแรงลง โดยไปอุดตันต่อมเมือก ทำให้ผิวของมันแห้งน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Haustefort",
+      "text_en": "It didn't work, did it? Aye, I thought it was an idiotic idea...",
+      "text_th": "ไม่ได้ผลใช่มั้ยล่ะ? อ่า ข้าก็คิดอยู่แล้วว่ามันเป็นความคิดที่งี่เง่าสิ้นดี...",
+      "status": "AI"
+    },
+    {
+      "character": "Haustefort",
+      "text_en": "Oh dear...remind me to never wander near mudpuppy spawning grounds without a bottle of vinegar. Anyroad, this should only take a moment. I'll just need to do this...and this...and voilà! Never seen a man cook steaks that fast, have you? Take these three and distribute them to the hungry knights here and up above.",
+      "text_th": "ตายล่ะ... เตือนข้าด้วยนะว่าอย่าไปเดินป้วนเปี้ยนใกล้รัง mudpuppy โดยไม่พกน้ำส้มสายชูไปด้วยเป็นอันขาด ยังไงก็ตาม ใช้เวลาแค่แป๊บเดียวแหละ ข้าแค่ต้องทำแบบนี้... แล้วก็แบบนี้... แล้วก็ แถ่นแท้น! ไม่เคยเห็นใครทำสเต็กได้เร็วขนาดนี้เลยใช่มั้ยล่ะ? เอาสเต็กสามชิ้นนี้ไปแจกให้พวกอัศวินที่กำลังหิวโซแถวๆ นี้ แล้วก็ข้างบนนั่นด้วยนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Ombeline",
+      "text_en": "We ought at least receive a hearty meal before we march off to die in this godsforsaken waste...",
+      "text_th": "เราน่าจะได้รับอาหารมื้อใหญ่สักมื้อ ก่อนที่จะต้องออกไปตายในดินแดนรกร้างอันห่างไกลนี่นะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Ombeline",
+      "text_en": "Is that a fresh-cooked steak!? Halone's blessings be upon you, my friend! Mudpuppy meat or no, it's the most delicious food I've had in a fortnight!",
+      "text_th": "นั่นมันสเต็กเพิ่งทำเสร็จใหม่ๆ ใช่ไหม!? ขอให้พรแห่ง Halone จงสถิตอยู่กับเจ้าเถิดสหาย! ถึงจะเป็นเนื้อ mudpuppy ก็ช่างเถอะ แต่มันเป็นอาหารที่อร่อยที่สุดเท่าที่ข้าได้กินมาในรอบครึ่งเดือนเลยนะเนี่ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Theophilain",
+      "text_en": "You there, lad / lass ! Don't think I didn't see you and the cook conspiring together! Let me make myself perfectly clear: if you wish to buy my trust with a steak, it would be my pleasure to oblige you!",
+      "text_th": "เจ้าหนุ่ม / แม่หนู ตรงนั้นน่ะ! อย่าคิดนะว่าข้าไม่เห็นเจ้ากับพ่อครัวกำลังสุมหัวกันทำอะไรอยู่! ข้าขอพูดให้ชัดๆ ตรงนี้เลยนะ: ถ้าเจ้าคิดจะใช้สเต็กมาซื้อความไว้ใจจากข้าล่ะก็ ข้ายินดีน้อมรับเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Theophilain",
+      "text_en": "Mwahahaha! Yes, yes! I feel invigorated, refreshed─as if I have the strength of ten men, and their wits besides. Aye, I should have no trouble concocting a new reason to refrain from sentry duty.",
+      "text_th": "ฮ่าๆๆ! ใช่แล้ว ใช่เลย! ข้ารู้สึกมีพลังขึ้นมาเลย สดชื่นสุดๆ─เหมือนมีแรงเท่ากับผู้ชายสิบคนรวมกัน แถมยังมีสติปัญญาเฉียบแหลมอีกต่างหาก อ่า ข้าคงหาข้ออ้างใหม่ๆ มาหลีกเลี่ยงเวรยามได้สบายๆ เลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Ignemortel",
+      "text_en": "Ever must we train to maintain our skill at arms, yet never are we to receive proper sustenance!?",
+      "text_th": "เราต้องฝึกฝนอย่างหนักเพื่อรักษาฝีมือดาบของเราไว้ แต่เรากลับไม่เคยได้รับอาหารดีๆ เลยเนี่ยนะ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Ignemortel",
+      "text_en": "You are a godssend, my friend! Too few appreciate that House Durendaire must do more than its fair share for the sake of Ishgard.",
+      "text_th": "เจ้าคือพระเจ้ามาโปรดแท้ๆ เลยสหาย! มีน้อยคนนักที่จะเห็นคุณค่าว่าตระกูล Durendaire ต้องทำอะไรตั้งมากมายเพื่อประโยชน์ของ Ishgard",
+      "status": "AI"
+    },
+    {
+      "character": "Haustefort",
+      "text_en": "It feels wonderful to see everyone in such high spirits. Amazing what good food can do for morale, eh?",
+      "text_th": "รู้สึกดีจังเลยนะที่ได้เห็นทุกคนอารมณ์ดีกันถ้วนหน้า น่าทึ่งจริงๆ เลยว่าอาหารดีๆ สามารถช่วยเพิ่มขวัญกำลังใจได้ขนาดไหน เจ้าว่าไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Haustefort",
+      "text_en": "Ah, but I've forgotten about the hardworking chirurgeons at the infirmary─so rarely do they take their meals here in the hall. Mind taking this steak to Cenota? She's doubtless so preoccupied with the health of her patients that she's neglected to attend to her own.",
+      "text_th": "อ้อ ข้าลืมพวกหมอผ่าตัดที่ทำงานหนักอยู่ในห้องพยาบาลไปเลย─นานๆ ทีพวกเขาถึงจะได้มากินข้าวที่ห้องโถงนี่ รบกวนเอาสเต็กชิ้นนี้ไปให้ Cenota หน่อยได้ไหม? นางคงมัวแต่ยุ่งกับการดูแลสุขภาพของคนไข้จนลืมดูแลตัวเองแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Cenota",
+      "text_en": "Beg your pardon, sir / madam , but I am busy attending to this man. I will be with you in a moment.",
+      "text_th": "ขออภัยด้วยค่ะ คุณผู้ชาย / คุณผู้หญิง ตอนนี้ฉันกำลังยุ่งอยู่กับการดูแลชายผู้นี้น่ะค่ะ เดี๋ยวจะไปจัดการให้นะคะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cenota",
+      "text_en": "Is that...? <sniff> <sniff> Come to think of it, it has been quite a while since I last ate. I suppose it wouldn't hurt to have a nibble...",
+      "text_th": "นั่นมัน...? <สูดจมูก> <สูดจมูก> จะว่าไป ฉันก็ไม่ได้กินอะไรมาพักใหญ่แล้วนี่นา ขอชิมสักนิดก็คงไม่เป็นไรหรอกมั้ง...",
+      "status": "AI"
+    },
+    {
+      "character": "Cenota",
+      "text_en": "Oh my, this is fantastic! Thank you so much! I'll eat the rest right away!",
+      "text_th": "ตายจริง มันยอดเยี่ยมมากเลยค่ะ! ขอบคุณมากนะคะ! ฉันจะกินที่เหลือให้หมดเดี๋ยวนี้เลยล่ะ!",
+      "status": "AI"
+    }
+  ]
+}

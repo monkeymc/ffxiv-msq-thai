@@ -1,0 +1,104 @@
+{
+  "id": "what-poor-people-think",
+  "wiki_path": "/wiki/What_Poor_People_Think",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "What Poor People Think",
+  "title_th": "สิ่งที่คนยากจนคิด",
+  "title_status": "AI",
+  "level": "18",
+  "location": "Eastern Thanalan(X:13.9,Y:23.6)",
+  "npc_start": "Isembard",
+  "dialogues": [
+    {
+      "character": "Isembard",
+      "text_en": "What say we turn an eye to the commonfolk themselves? It may be among them that we find the reasons for these vanishings, Twelve forbid it be so.",
+      "text_th": "เราลองมาฟังความคิดเห็นจากพวกชาวบ้านกันดูไหม? บางทีพวกเราอาจจะพบสาเหตุของการหายตัวไปจากพวกเขาก็ได้ ขอทวยเทพอย่าให้เป็นอย่างนั้นเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Isembard",
+      "text_en": "There is a merchant by the name of Ungust who was born here in Drybone and grew up in the Golden Bazaar. A...rough character, but he knows the people here better than anyone else.",
+      "text_th": "มีพ่อค้าคนนึงชื่อ Ungust ที่เกิดที่ Drybone และโตใน Golden Bazaar เขาเป็น... คนหยาบคายสักหน่อย แต่เขารู้จักผู้คนแถวนี้ดีกว่าใคร",
+      "status": "AI"
+    },
+    {
+      "character": "Isembard",
+      "text_en": "I'd wager he's at the inn, quaffing away the day's earnings. Here, I'll write a note for you to show him, else he's not like to speak to you.",
+      "text_th": "ฉันกล้าพนันเลยว่าเขาน่าจะอยู่ที่โรงเตี๊ยม ดื่มผลาญเงินที่หามาได้ในแต่ละวันอยู่ล่ะ เอานี่ ฉันจะเขียนจดหมายให้คุณเอาไปให้เขาดู ไม่งั้นเขาก็คงไม่ยอมคุยกับคุณหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Ungust",
+      "text_en": "<belch> Well, gods be damned! You're that bloody adventurer who threatened me back in Ul'dah! What in the seven hells do you want with me now!?",
+      "text_th": "<เรอ> เอ้อ ให้ตายเถอะ! แกมันไอ้นักผจญภัยที่ขู่ฉันตอนอยู่ที่ Ul'dah นี่หว่า! แกต้องการอะไรจากฉันอีกล่ะวะฮะ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Ungust",
+      "text_en": "“Dear friend... <belch> Missing people... Please help... <hiccup> Yours, Isembard.”",
+      "text_th": "“เพื่อนรัก... <เรอ> คนหาย... ช่วยด้วย... <สะอึก> ลงชื่อ Isembard”",
+      "status": "AI"
+    },
+    {
+      "character": "Ungust",
+      "text_en": "Folk around here are as wary as they come. They'll turn tail and run if you so much as pass wind nearby. Played them all for fools and coaxed some hard labor out of them, I did.",
+      "text_th": "คนแถวนี้ขี้ระแวงกันสุดๆ ไปเลยล่ะ แค่แกเดินผ่านแล้วตด พวกเขาก็เผ่นหนีกันป่าราบแล้วล่ะ ฉันเคยหลอกใช้พวกมันให้มาทำงานหนักๆ ให้ฉันไง",
+      "status": "AI"
+    },
+    {
+      "character": "Ungust",
+      "text_en": "If anything, they're even more timid than before, what with all the disappearances. You can go talk to 'em yourself if you don't believe me.",
+      "text_th": "ตอนนี้พวกมันก็ยิ่งขี้ขลาดกว่าแต่ก่อนอีกมั้ง ก็เล่นมีคนหายตัวไปตั้งเยอะขนาดนั้น ถ้าแกไม่เชื่อฉัน ก็ไปลองคุยกับพวกมันดูเองสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Ungust",
+      "text_en": "The folk around here are more timid now than ever before, what with all the disappearances. You can go talk to 'em yourself if you don't believe me.",
+      "text_th": "คนแถวนี้ขี้ขลาดกว่าแต่ก่อนอีก ก็เล่นมีคนหายตัวไปตั้งเยอะขนาดนั้น ถ้าแกไม่เชื่อฉัน ก็ไปลองคุยกับพวกมันดูเองสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Hungry Beggar",
+      "text_en": "P-Please, sir / miss , just leave me be...",
+      "text_th": "ด-ได้โปรดเถอะครับ/ค่ะ ปล่อยฉันไปเถอะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Devious Derelict",
+      "text_en": "I've nothing to say but this: Thal take who─or what ever's been feeding off us low folk.",
+      "text_th": "ฉันไม่มีอะไรจะพูดหรอกนอกจาก: ขอเทพ Thal เอาคนที่... หรือตัวอะไรก็ตามที่คอยจับพวกเราคนจนๆ ไปกินให้ไปลงนรกทีเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Petrified Pauper",
+      "text_en": "Wh-What do you want from me!? I d-don't know anything, I swear! Please don't kill me!",
+      "text_th": "อ-แกต้องการอะไรจากฉัน!? ฉ-ฉันไม่รู้อะไรเลยนะ สาบานได้! ได้โปรดอย่าฆ่าฉันเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Ungust",
+      "text_en": "Just as I told you, wasn't it? The whole lot of them are terrified. <hiccup>",
+      "text_th": "ก็เหมือนที่ฉันบอกแกไปนั่นแหละใช่ไหม? พวกมันทั้งหมดกลัวกันจนหัวหด <สะอึก>",
+      "status": "AI"
+    },
+    {
+      "character": "Ungust",
+      "text_en": "There's been talk of folk getting abducted, but if you ask me, they simply up and moved on to a better place. This place isn't exactly Costa del Sol, if you know what I'm saying.",
+      "text_th": "มีข่าวลือว่ามีคนถูกลักพาตัวไป แต่ถ้าถามฉันนะ ฉันว่าพวกเขาก็แค่อพยพย้ายไปอยู่ที่อื่นที่ดีกว่าเท่านั้นแหละ ที่นี่มันไม่ใช่ Costa del Sol นะ เข้าใจที่ฉันพูดไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Isembard",
+      "text_en": "Welcome back, Forename . Have you learned aught of import?",
+      "text_th": "ยินดีต้อนรับกลับมา Forename คุณได้รู้อะไรสำคัญๆ บ้างไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Isembard",
+      "text_en": "I see... I suppose I should have expected as much from Ungust. Well, another thought occurred to me in your absence. The commonfolk are nothing if not fervent in their religious beliefs. Perhaps if they speak freely to their gods, then the clergy may know something of use.",
+      "text_th": "เข้าใจล่ะ... ฉันก็น่าจะเดาได้ตั้งแต่เป็น Ungust แล้ว เอาเถอะ ตอนที่คุณไม่อยู่ ฉันก็นึกอะไรขึ้นมาได้อีกอย่าง พวกชาวบ้านน่ะศรัทธาในศาสนากันอย่างแรงกล้า บางทีถ้าพวกเขายอมพูดคุยเรื่องนี้กับพระเจ้าของพวกเขาอย่างเปิดเผย งั้นพวกนักบวชก็น่าจะรู้อะไรที่เป็นประโยชน์บ้างล่ะ",
+      "status": "AI"
+    }
+  ]
+}

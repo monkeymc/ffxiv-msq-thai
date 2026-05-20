@@ -1,0 +1,350 @@
+{
+  "id": "in-pursuit-of-the-past",
+  "wiki_path": "/wiki/In_Pursuit_of_the_Past",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "In Pursuit of the Past",
+  "title_th": "ตามอดีต",
+  "title_status": "AI",
+  "level": "41",
+  "location": "Coerthas Central Highlands(X:12.7,Y:16.5)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "As I am sure you will agree, it is past time we entered the Stone Vigil. Pay Lord Drillemont a visit and remind him of his obligation to us─Cid and I will follow anon.",
+      "text_th": "อย่างที่ผมแน่ใจว่าคุณคงเห็นด้วย มันเลยเวลาที่เราควรจะเข้าไปใน Stone Vigil มานานแล้วล่ะ ไปหาท่านลอร์ด Drillemont แล้วเตือนเขาถึงพันธะที่เขามีต่อเราหน่อยนะ─แล้วผมกับ Cid จะตามไปทีหลัง",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "We owe you all a great debt of gratitude. Had it not been for you, the heretic masquerading as Inquisitor Guillaime would still be among us, free to prey upon the innocent.",
+      "text_th": "เราเป็นหนี้บุญคุณพวกท่านอย่างใหญ่หลวง ถ้าไม่ได้พวกท่าน ป่านนี้พวกนอกรีตที่ปลอมตัวเป็น Inquisitor Guillaime ก็คงยังอยู่ท่ามกลางพวกเรา และยังคงลอยนวลทำร้ายผู้บริสุทธิ์ต่อไป",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "I see now that I was a fool to dismiss your claims out of hand... But you must understand, it seemed too much to hope that the Scions of the Seventh Dawn still lived, to say nothing of Master Garlond!",
+      "text_th": "ตอนนี้ข้าเพิ่งรู้ว่าข้าช่างโง่เขลาเหลือเกินที่ปฏิเสธข้อเรียกร้องของพวกท่านไปตั้งแต่แรก... แต่โปรดเข้าใจข้าด้วยเถอะ มันยากเกินกว่าจะหวังว่า Scions of the Seventh Dawn จะยังมีชีวิตอยู่ แถมยังท่าน Garlond อีกต่างหาก!",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Never have I been happier to be proven wrong.",
+      "text_th": "ข้าไม่เคยรู้สึกดีใจขนาดนี้มาก่อนเลยที่ตัวเองคิดผิด",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, it is gratifying to know that someone has derived a measure of enjoyment from your error.",
+      "text_th": "แหม ก็รู้สึกดีนะที่ได้รู้ว่ามีความผิดพลาดของคุณที่ทำให้คนอื่นพอใจได้บ้างน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Now, if you have no further objections, we would appreciate it if you would permit us to enter the Stone Vigil and retrieve our airship.",
+      "text_th": "เอาล่ะ ถ้าคุณไม่มีข้อโต้แย้งอะไรแล้ว เราคงจะขอบคุณมากถ้าคุณจะอนุญาตให้เราเข้าไปใน Stone Vigil เพื่อเอาเรือเหาะของเราคืนมา",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Yes! Yes, of course. It is the very least I can do, given all that you have done for us.",
+      "text_th": "ได้สิ! ได้แน่นอน ข้าต้องตอบแทนพวกท่านอยู่แล้ว หลังจากทุกสิ่งที่พวกท่านทำให้เรา",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "But entering the outpost is the least of your concerns, I fear...",
+      "text_th": "แต่การเข้าไปในฐานทัพนั่นคงเป็นเรื่องน่าหนักใจน้อยที่สุดสำหรับพวกท่านกระมัง...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You speak of the Dravanians that now hold the ruin.",
+      "text_th": "คุณกำลังพูดถึงพวก Dravanian ที่ยึดครองซากปรักหักพังนั่นอยู่ใช่ไหม",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "...In part, yes. I should explain: shortly after you first arrived, I had my men scour the old records. They confirmed that an abandoned airship had been seized by the soldiers garrisoned at the Stone Vigil in the days following the Calamity.",
+      "text_th": "...ส่วนนึงก็ใช่ ข้าขออธิบายหน่อยนะ: หลังจากพวกท่านมาถึงได้ไม่นาน ข้าก็ให้คนไปค้นดูบันทึกเก่าๆ พวกเขายืนยันว่าเรือเหาะที่ถูกทิ้งไว้ลำนั้น ถูกทหารที่ประจำการอยู่ที่ Stone Vigil ยึดไว้ในช่วงหลังจากเกิด Calamity",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "As far as we have been able to ascertain, it was still in their custody when the outpost was overrun by the dragons. Whether it was damaged or destroyed during the battle, I cannot say, nor can I give you any assurances that it has not been removed in the intervening years.",
+      "text_th": "เท่าที่เราสืบได้ มันยังอยู่ในการดูแลของพวกเขาตอนที่ฐานทัพถูกพวกมังกรบุกยึด ส่วนว่ามันจะเสียหายหรือถูกทำลายไประหว่างการต่อสู้หรือไม่ ข้าก็บอกไม่ได้เหมือนกัน และข้าก็รับประกันไม่ได้ด้วยว่ามันจะไม่ถูกย้ายไปไหนในช่วงหลายปีที่ผ่านมานี้",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "For far too long, the ruin has served as a Dravanian foothold in Coerthas, from which they have struck out at us with depressing regularity.",
+      "text_th": "ซากปรักหักพังนั่นกลายเป็นฐานที่มั่นของพวก Dravanian ใน Coerthas มานานเกินไปแล้ว และพวกมันก็มักจะใช้ที่นั่นเป็นฐานเพื่อโจมตีเราอยู่เป็นประจำ",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Though we have pushed them back behind the walls, we have as yet been unable to drive them out, and I cannot say when the situation will change.",
+      "text_th": "แม้เราจะผลักดันพวกมันกลับเข้าไปหลังกำแพงได้ แต่เราก็ยังขับไล่พวกมันออกไปไม่ได้อยู่ดี และข้าก็บอกไม่ได้เหมือนกันว่าสถานการณ์จะเปลี่ยนไปเมื่อไหร่",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Or how it will change. Forgive me, Lord Drillemont, but there is no guarantee that you will prevail. In any event, we have not the time to wait. We will secure our property without Ishgardian aid.",
+      "text_th": "หรือมันจะเปลี่ยนไปยังไงล่ะสิ ขออภัยด้วยนะท่านลอร์ด Drillemont แต่ไม่มีอะไรรับประกันได้เลยว่าคุณจะชนะได้ ยังไงซะ เราก็ไม่มีเวลารอหรอกนะ เราจะไปเอาของของเราคืนโดยไม่พึ่งความช่วยเหลือจาก Ishgard ก็แล้วกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "I see. Well, that may be for the best.",
+      "text_th": "เข้าใจล่ะ อืม... แบบนั้นอาจจะดีที่สุดแล้วล่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "I will inform Ser Nathelain of your impending visit. May Halone guide you, Scions.",
+      "text_th": "ข้าจะแจ้ง Ser Nathelain ให้ทราบว่าพวกท่านกำลังจะไป ขอ Halone จงคุ้มครองนะเหล่า Scion",
+      "status": "AI"
+    },
+    {
+      "character": "Nathelain",
+      "text_en": "Hail, Forename ! Lord Drillemont has apprised me of the situation. You may enter the Stone Vigil whensoever you will.",
+      "text_th": "สวัสดี [ชื่อ] ! ท่านลอร์ด Drillemont แจ้งสถานการณ์ให้ข้าทราบแล้ว ท่านสามารถเข้าไปใน Stone Vigil ได้ทุกเมื่อตามต้องการเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Nathelain",
+      "text_en": "Every knight in Whitebrim Front is praying for your success. May the Fury guide and protect you.",
+      "text_th": "อัศวินทุกคนใน Whitebrim Front ล้วนภาวนาให้พวกท่านทำสำเร็จ ขอพระแม่แห่งความโกรธาจงนำทางและคุ้มครองพวกท่านด้วยเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Marauder",
+      "text_en": "It will take more than a few dragons to stop us.",
+      "text_th": "มังกรแค่ไม่กี่ตัว หยุดพวกเราไม่ได้หรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Marauder",
+      "text_en": "Seven hells. I pray we don't face another of those beasts.",
+      "text_th": "นรกทั้งเจ็ดเถอะ ภาวนาว่าเราคงไม่ต้องเจอสัตว์ประหลาดแบบนั้นอีกตัวนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "So it was this dragon who set the halls ablaze.",
+      "text_th": "มังกรตัวนี้นี่เองสินะที่เผาทำลายโถงทางเดินนี่",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Thaumaturge",
+      "text_en": "Hopefully we've no more fires to worry about.",
+      "text_th": "หวังว่าเราคงไม่ต้องกังวลเรื่องไฟไหม้อีกแล้วนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Look! It's the Enterprise !",
+      "text_th": "ดูนั่นสิ! นั่น Enterprise !",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Yes...just beyond that enormous sleeping dragon.",
+      "text_th": "ใช่... อยู่เลยมังกรตัวเบ้อเริ่มที่กำลังหลับอยู่นั่นไปนิดนึง",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The dragon is not our concern. We have come for the airship, and only the airship.",
+      "text_th": "มังกรไม่ใช่ธุระของเราหรอก เรามาเพื่อเรือเหาะลำนั้นเท่านั้น",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Cid─you and I will sneak aboard the Enterprise and prepare it for launch.",
+      "text_th": "Cid─คุณกับผมจะลอบขึ้นไปบน Enterprise แล้วเตรียมตัวออกบินกันนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forename ─you stay here and keep an eye on the beast.",
+      "text_th": "[ชื่อ] ─คุณอยู่ที่นี่แล้วคอยจับตาดูสัตว์ประหลาดนั่นไว้ให้ดีล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If it wakes, we may need you to provide a distraction until we are ready to depart. You can manage that, can't you?",
+      "text_th": "ถ้ามันตื่นขึ้นมา เราอาจจะต้องให้คุณช่วยดึงความสนใจมันไว้จนกว่าเราจะพร้อมออกเดินทาง คุณจัดการเรื่องนั้นได้ใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That settles it, then. Shall we, Cid?",
+      "text_th": "งั้นก็ตกลงตามนี้แหละ ไปกันเถอะ Cid",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "As you command...",
+      "text_th": "ตามที่ท่านสั่งขอรับ...",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "...So you mean to slay Garuda next? Interesting. Most interesting.",
+      "text_th": "...นี่เจ้าตั้งใจจะไปฆ่า Garuda เป็นรายต่อไปงั้นรึ? น่าสนใจ น่าสนใจจริงๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "And you are aware that her strength greatly exceeds that of your previous primal conquests? ...A testament to the fanatical devotion of her followers. The Ixal are nothing if not zealous.",
+      "text_th": "แล้วเจ้ารู้รึเปล่าว่าความแข็งแกร่งของนางมันเหนือกว่าพวกเทพอสูรตัวอื่นๆ ที่เจ้าเคยปราบมามากนัก? ...นั่นก็เป็นเพราะความคลั่งไคล้ของพวกผู้ศรัทธาน่ะสิ พวก Ixal น่ะ ถ้าเรื่องความคลั่งไคล้ล่ะก็ไม่เป็นสองรองใครเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "In spite of your past achievements, I labor to believe that you will best this foe.",
+      "text_th": "แม้เจ้าจะมีผลงานในอดีตมามากแค่ไหน แต่ข้าก็แทบไม่อยากจะเชื่อเลยว่าเจ้าจะโค่นศัตรูรายนี้ลงได้",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Yet only a fool would underestimate the great Bringer of Light, slayer of Ifrit, bane of Titan...",
+      "text_th": "แต่คงมีแต่คนโง่เท่านั้นแหละที่จะประมาทผู้พิทักษ์แห่งแสง ผู้สังหาร Ifrit ผู้พิชิต Titan...",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "If any mortal is capable of defeating the Lady of the Vortex, it is you.",
+      "text_th": "ถ้าจะมีมนุษย์คนไหนที่สามารถเอาชนะราชินีแห่งสายลมได้ล่ะก็ คนๆ นั้นก็คือเจ้านั่นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Win or lose, the battle should at least make for an entertaining spectacle. ...Assuming, of course, you live that long.",
+      "text_th": "ไม่ว่าจะแพ้หรือชนะ การต่อสู้ครั้งนี้น่าจะเป็นภาพที่น่าตื่นตาตื่นใจทีเดียว ...ถ้าเจ้าอยู่รอดไปจนถึงตอนนั้นน่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Alphinaud! The dragon!",
+      "text_th": "Alphinaud! มังกรนั่น!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Confound it all!",
+      "text_th": "บ้าชะมัด!",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Let us see how well your blasphemous gifts serve you this time, crystal bearer!",
+      "text_th": "มาดูกันซิว่าพลังจอมปลอมของเจ้ามันจะช่วยเจ้าได้สักแค่ไหนในคราวนี้ ผู้ถือครองคริสตัล!",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Marauder",
+      "text_en": "We'll need to be careful with this one.",
+      "text_th": "กับตัวนี้เราคงต้องระวังตัวให้มากหน่อยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forename ! Forename ! Are you all right? Speak to me!",
+      "text_th": "[ชื่อ] ! [ชื่อ] ! คุณปลอดภัยไหม? พูดกับผมสิ!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Twelve be praised, I feared the beast had injured you.",
+      "text_th": "ขอบคุณพระเจ้าทั้งสิบสอง ผมกลัวว่าสัตว์ประหลาดนั่นจะทำร้ายคุณซะแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I see now why the others rated you so highly. When you were caught in the midst of that aetheric bubble with the dragon, I was all but certain my next mission would be to find a new champion.",
+      "text_th": "ผมเข้าใจแล้วล่ะว่าทำไมคนอื่นถึงยกย่องคุณนัก ตอนที่คุณติดอยู่ในลูกบอลพลังเวทกับมังกรตัวนั้น ผมนี่เกือบจะมั่นใจเลยว่าภารกิจต่อไปของผมคงเป็นการไปหาแชมเปี้ยนคนใหม่ซะแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank the gods for sparing me that inconvenience. I have quite enough to do already. Which reminds me─Cid is working on the Enterprise as we speak. Let us go and see what he has to say.",
+      "text_th": "ขอบคุณพระเจ้าจริงๆ ที่ช่วยให้ผมไม่ต้องไปเสียเวลาทำแบบนั้น ลำพังงานของผมก็ล้นมืออยู่แล้วล่ะ พูดถึงเรื่องนี้ก็ทำให้นึกขึ้นได้─Cid กำลังซ่อม Enterprise อยู่ตอนที่เราคุยกันนี่แหละ ไปดูกันดีกว่าว่าเขาจะว่ายังไงบ้าง",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What say you, Cid? Will she fly?",
+      "text_th": "ว่าไงล่ะ Cid? มันบินได้ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Yes...though it will not be a pleasant ride.",
+      "text_th": "ได้สิ... แต่มันคงจะเป็นการเดินทางที่ไม่ค่อยน่าอภิรมย์เท่าไหร่นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, I daresay it will be no more unpleasant than staying here. 'Tis a pity the Enterprise is not in a better state, but if she will allow us to quit this place, I shall not complain.",
+      "text_th": "แหม ผมกล้าพูดเลยว่ามันคงไม่น่าอภิรมย์ไปกว่าการอยู่ที่นี่หรอกนะ น่าเสียดายที่ Enterprise ไม่อยู่ในสภาพที่ดีกว่านี้ แต่ถ้ามันจะช่วยให้เราออกไปจากที่นี่ได้ ผมก็คงไม่บ่นหรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If all are in agreement, let us return to Gridania.",
+      "text_th": "ถ้าทุกคนเห็นพ้องต้องกัน เราก็กลับไป Gridania กันเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though I would like nothing more than to set course for the Howling Eye, it is plain the Enterprise is in no condition to weather the storm. She must needs be repaired if we are to proceed with our mission.",
+      "text_th": "ถึงผมจะอยากมุ่งหน้าไปที่ Howling Eye ซะเดี๋ยวนี้เลยก็เถอะ แต่เห็นได้ชัดว่า Enterprise ไม่อยู่ในสภาพที่จะฝ่าพายุไปได้หรอก เราจำเป็นต้องซ่อมมันก่อนถ้าเราจะเดินหน้าภารกิจของเราต่อไป",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "This is all so familiar. I...I know this airship. If I could just...",
+      "text_th": "มันช่างคุ้นเคยเหลือเกิน ผม... ผมรู้จักเรือเหาะลำนี้ ถ้าผมแค่...",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Bah, it's no use.",
+      "text_th": "โธ่เว้ย ไม่ได้เรื่องเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Cid",
+      "text_en": "...Let's go.",
+      "text_th": "...ไปกันเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Lionnellais",
+      "text_en": "Greetings, madam. Do you wish to proceed to your vessel?",
+      "text_th": "สวัสดีค่ะคุณผู้หญิง ต้องการจะไปที่เรือของคุณหรือเปล่าคะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, how I have longed for the more agreeable climate of the Twelveswood.",
+      "text_th": "อา ผมชักจะโหยหาสภาพอากาศที่น่าอยู่กว่านี้ของ Twelveswood ซะแล้วสิ",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Yet I will not deny the Holy See had its charms. Endless detours aside, our Ishgardian jaunt proved quite an adventure!",
+      "text_th": "แต่ผมก็ไม่ปฏิเสธหรอกนะว่า Holy See มันก็มีเสน่ห์ในแบบของมัน ถึงจะมีเรื่องให้ต้องอ้อมค้อมไปมานับไม่ถ้วน แต่การเดินทางมาที่ Ishgard ของเราก็ถือเป็นการผจญภัยที่น่าตื่นเต้นทีเดียวล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Alas, our work is far from done. We still have an airship to repair and a primal to slay. No rest for the heroic, eh?",
+      "text_th": "น่าเสียดายที่งานของเรายังไม่จบหรอกนะ เรายังต้องซ่อมเรือเหาะแล้วก็ไปฆ่าเทพอสูรอีก สำหรับฮีโร่แล้ว ไม่มีเวลาพักผ่อนหรอกนะ จริงไหม?",
+      "status": "AI"
+    }
+  ]
+}

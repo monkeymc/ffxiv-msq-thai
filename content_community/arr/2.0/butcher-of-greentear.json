@@ -1,0 +1,13 @@
+{
+  "id": "butcher-of-greentear",
+  "wiki_path": "/wiki/Butcher_of_Greentear",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title_en": "Butcher of Greentear",
+  "title_th": "จอมเชือดแห่ง Greentear",
+  "title_status": "AI",
+  "level": "9",
+  "location": "Central Shroud(X:27,Y:20)",
+  "npc_start": "Pauline",
+  "dialogues": []
+}

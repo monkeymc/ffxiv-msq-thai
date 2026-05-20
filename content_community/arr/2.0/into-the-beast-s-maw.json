@@ -1,0 +1,464 @@
+{
+  "id": "into-the-beast-s-maw",
+  "wiki_path": "/wiki/Into_the_Beast%27s_Maw",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/4/40/Into_the_Beast%27s_Maw_Image.png",
+  "patch": "2.0",
+  "title_en": "Into the Beast's Maw",
+  "title_th": "เข้าสู่ปากอสูร",
+  "title_status": "AI",
+  "level": "24",
+  "location": "South Shroud(X:18.1,Y:19.8)",
+  "npc_start": "Buscarron",
+  "dialogues": [
+    {
+      "character": "Buscarron",
+      "text_en": "It's taken us a fair old while, but we've finally got our hands on some reliable information concerning the whereabouts of your missing green friend.",
+      "text_th": "ใช้เวลานานเอาเรื่องเลยนะเนี่ย กว่าเราจะได้ข้อมูลที่เชื่อถือได้เกี่ยวกับร่องรอยเพื่อนตัวเขียวที่หายไปของคุณ",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Ahem! His name is Frixio , and he is the eldest amongst the sylphs of Little Solace. Long has he represented his kind in dialogue with the Gridanians.",
+      "text_th": "อะแฮ่ม! เขาชื่อ Frixio และเป็นผู้อาวุโสที่สุดในหมู่ซิลฟ์แห่ง Little Solace เขาเป็นตัวแทนของเผ่าพันธุ์เขาในการเจรจากับชาว Gridania มานานแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Yes, he's like a bridge between us and them─a small, leafy, green bridge that we can't find at the moment. And bridges are no use if you don't know where they are. That's why it's so important that we find him!",
+      "text_th": "ใช่ เขาเหมือนสะพานเชื่อมระหว่างเรากับพวกเขานั่นแหละ─เป็นสะพานสีเขียวใบไม้เล็กๆ ที่ตอนนี้เราหาไม่เจอน่ะสิ แล้วสะพานจะมีประโยชน์อะไรถ้าเราไม่รู้ว่ามันอยู่ที่ไหน นั่นแหละคือเหตุผลที่ว่าทำไมเราต้องหาเขาให้เจอ!",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "There's an abandoned dungeon called the Thousand Maws of Toto–Rak here in the South Shroud.",
+      "text_th": "มีดันเจี้ยนร้างชื่อว่า Thousand Maws of Toto–Rak อยู่ที่นี่ ใน South Shroud น่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "'Twas by the entrance to the place that Frixio was seen─and not long ago, neither. If you hurry, I reckon you'll find him.",
+      "text_th": "มีคนเห็น Frixio อยู่แถวๆ ทางเข้านั่นแหละ─และเพิ่งไม่นานมานี้เองด้วย ถ้าเจ้ารีบไป ข้าว่าเจ้าน่าจะเจอเขานะ",
+      "status": "AI"
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "Walking ones, please help this one! This one needs help! Needs help to help elder one! Poor Frixio! Poor, poor Frixiooo!!!",
+      "text_th": "พวกคนเดินดิน ได้โปรดช่วยผู้นี้ด้วย! ผู้นี้ต้องการความช่วยเหลือ! ต้องการความช่วยเหลือเพื่อไปช่วยผู้อาวุโส! โธ่ Frixio ที่น่าสงสาร! โธ่ Frixiooo ที่น่าสงสารรร!!!",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Whoa, whoa, whoa! Hooold your chocobos. Take a deep breath and tell us what's wrong, nice and slow.",
+      "text_th": "โว้วๆๆ ! ช้าๆ ก่อนนะ หายใจลึกๆ แล้วบอกเรามาว่าเกิดอะไรขึ้น ค่อยๆ พูดนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "Elder one went into Toto–Rak, but has not returned! This one is worried, so very worried!",
+      "text_th": "ผู้อาวุโสเข้าไปใน Toto–Rak แล้วยังไม่กลับมาเลย! ผู้นี้เป็นห่วง เป็นห่วงมากๆ เลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "And you're right to be... The place fair crawls with nasties waiting to make a meal of anyone daft enough to wander in.",
+      "text_th": "แล้วเจ้าก็สมควรจะเป็นห่วงซะด้วยสิ... ที่นั่นมีแต่พวกตัวอันตรายเดินเพ่นพ่านรอขย้ำใครก็ตามที่โง่พอจะหลงเข้าไปนั่นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "What in the seven hells was he thinking, entering that bloody death trap?",
+      "text_th": "เขาคิดอะไรของเขาอยู่ถึงได้เดินเข้าไปในกับดักมรณะนั่นน่ะฮะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "Elder one had no choice! Imperial ones were chasing elder one! Please! Walking ones must help elder one─help elder one now !",
+      "text_th": "ผู้อาวุโสไม่มีทางเลือก! พวกจักรวรรดิไล่ตามผู้อาวุโสมา! ได้โปรด! พวกคนเดินดินต้องช่วยผู้อาวุโสนะ─ช่วยผู้อาวุโสเดี๋ยวนี้เลย !",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Argh! The fates conspire against us... Forgive my pragmatism, but Frixio is our best hope of reaching an accord with the sylphs. Were we to lose him, all our efforts thus far will have been for naught.",
+      "text_th": "อ๊าก! โชคชะตาเล่นตลกกับเราชัดๆ ... ขออภัยในความตรงไปตรงมานะ แต่ Frixio คือความหวังที่ดีที่สุดของเราในการเจรจาตกลงกับพวกซิลฟ์ ถ้าเราเสียเขาไป ความพยายามทั้งหมดของเราที่ผ่านมาก็จะสูญเปล่าทันที",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "I will tend to her wounds. Yda, make haste to the Adders' Nest and request assistance.",
+      "text_th": "ผมจะทำแผลให้เธอเอง Yda รีบไปที่ Adders' Nest แล้วขอความช่วยเหลือซะ",
+      "status": "AI"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Understood!",
+      "text_th": "รับทราบ!",
+      "status": "AI"
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "Forename ─go to the Thousand Maws of Toto–Rak and see that Frixio comes to no harm. Peace between man and sylph rests upon your success.",
+      "text_th": "[ชื่อ] ─ไปที่ Thousand Maws of Toto–Rak แล้วช่วย Frixio ออกมาให้ปลอดภัยให้ได้นะ สันติภาพระหว่างมนุษย์กับซิลฟ์ขึ้นอยู่กับความสำเร็จของคุณแล้วล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Bloisirant",
+      "text_en": "By order of the Elder Seedseer, the dungeon known as the Thousand Maws of Toto–Rak has been placed under the control of─",
+      "text_th": "ตามคำสั่งของท่าน Elder Seedseer ดันเจี้ยนที่รู้จักกันในชื่อ Thousand Maws of Toto–Rak ถูกควบคุมโดย─",
+      "status": "AI"
+    },
+    {
+      "character": "Bloisirant",
+      "text_en": "...What? The sylph elder is inside? And you are sure of this? How in the seven hells did he manage to sneak by? Gods strike me down for a purblind fool!",
+      "text_th": "...อะไรนะ? ผู้อาวุโสซิลฟ์อยู่ข้างในงั้นเหรอ? แล้วเจ้าแน่ใจเรื่องนี้เหรอ? เขาแอบเข้าไปได้ยังไงกันในนรกทั้งเจ็ดเนี่ย? พระเจ้าลงโทษข้าเถอะ ไอ้ตาบอดงี่เง่าเอ๊ย!",
+      "status": "AI"
+    },
+    {
+      "character": "Bloisirant",
+      "text_en": "You must find the sylph elder before he falls prey to the fiends within. Entrance to Toto–Rak is ordinarily restricted, but these are exceptional circumstances. Pray assemble a rescue party, and enter as soon as you are ready.",
+      "text_th": "เจ้าต้องหาผู้อาวุโสซิลฟ์ให้เจอก่อนที่เขาจะตกเป็นเหยื่อของพวกปีศาจข้างในนะ ปกติแล้วทางเข้า Toto–Rak จะถูกปิดกั้นไว้ แต่นี่เป็นกรณีพิเศษ โปรดรวบรวมทีมกู้ภัย แล้วเข้าไปให้เร็วที่สุดเท่าที่จะทำได้เถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "An ill wind blows through here. Let us hurry and be about our business.",
+      "text_th": "ลมพัดแรงชวนขนลุกพัดผ่านเข้ามาที่นี่ รีบไปทำธุระของเราให้เสร็จๆ กันเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Marauder",
+      "text_en": "Something feels wrong about this place...",
+      "text_th": "รู้สึกทะแม่งๆ กับที่นี่ยังไงไม่รู้แฮะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Conjurer",
+      "text_en": "Fear not─I will deal with its poison.",
+      "text_th": "ไม่ต้องห่วง─ข้าจะจัดการกับพิษของมันเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Darkness...",
+      "text_th": "ความมืด...",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Hahahaha...",
+      "text_th": "ฮ่าฮ่าฮ่าฮ่า...",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "The mighty slayer of Ifrit comes now to me.",
+      "text_th": "ผู้สังหาร Ifrit ผู้เก่งกาจมาหาข้าแล้วรึนี่",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "...With a countenance that bespeaks understanding.",
+      "text_th": "...พร้อมกับสีหน้าที่บ่งบอกว่าเข้าใจทุกอย่างสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "An intriguing power, the Echo. I must needs choose my words with care.",
+      "text_th": "พลังแห่ง Echo ช่างน่าสนใจเสียจริง ข้าคงต้องเลือกใช้คำพูดให้ระมัดระวังหน่อยแล้วสิ",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Mayhap I might if I deign to speak in my guest's crude tongue. We meet at last.",
+      "text_th": "บางทีข้าอาจจะทำได้นะ ถ้าข้ายอมลดตัวลงมาพูดภาษาชั้นต่ำแบบแขกของข้า ในที่สุดเราก็ได้พบกันซะที",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "I am Lahabrea of the Ascians, servant to the one true god.",
+      "text_th": "ข้าคือ Lahabrea แห่งเผ่า Ascian ข้ารับใช้แห่งพระเจ้าที่แท้จริงเพียงพระองค์เดียว",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Yours is a most fantastical tale. Truly absorbing.",
+      "text_th": "เรื่องราวของเจ้านี่มันช่างน่าอัศจรรย์ใจจริงๆ น่าติดตามเสียจริง",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "It is a tale to tell Eorzea's children before bedtime. And it will soon be dark, Bringer of Light.",
+      "text_th": "มันเป็นเรื่องเล่าที่เหมาะจะเอาไว้เล่าให้เด็กๆ Eorzea ฟังก่อนนอนเลยล่ะ และมันก็จะมืดลงในอีกไม่ช้า ผู้พิทักษ์แห่งแสง",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "...The Dark Minions...",
+      "text_th": "...สมุนแห่งความมืด...",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "All that stands between this world and Darkness is an irksome anomaly in the aether─the Echo.",
+      "text_th": "สิ่งเดียวที่ขวางกั้นระหว่างโลกใบนี้กับความมืดมิดก็คือความผิดปกติที่น่ารำคาญในพลังเวท─Echo นั่นเอง",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Yes...yours is a most fascinating tale.",
+      "text_th": "ใช่... เรื่องราวของเจ้านี่มันช่างน่าหลงใหลเสียจริง",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "Alas, like all good tales, it must needs come to an end. But fear not...",
+      "text_th": "แต่น่าเสียดายนะ เหมือนกับเรื่องเล่าดีๆ ทั่วไปนั่นแหละ มันต้องมีตอนจบ แต่ไม่ต้องกลัวไปหรอก...",
+      "status": "AI"
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Hear.. Feel... The presence... of evil...",
+      "text_th": "ฟังนะ.. รู้สึกสิ... ถึงการมีอยู่... ของความชั่วร้าย...",
+      "status": "AI"
+    },
+    {
+      "character": "Lahabrea",
+      "text_en": "For the end of your tale is but the beginning of another... The tale of the Crystal's demise!",
+      "text_th": "เพราะจุดจบในเรื่องเล่าของเจ้า มันก็เป็นเพียงจุดเริ่มต้นของอีกเรื่องเล่าหนึ่ง... เรื่องเล่าเกี่ยวกับการล่มสลายของคริสตัล!",
+      "status": "AI"
+    },
+    {
+      "character": "Scion Thaumaturge",
+      "text_en": "That tail looks like trouble.",
+      "text_th": "หางนั่นดูเหมือนจะมีปัญหาเลยแฮะ",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "<gasp> Finally, fresh air!",
+      "text_th": "<สูดลมหายใจ> ในที่สุด ก็ได้สูดอากาศบริสุทธิ์ซะที!",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "<sniff> <sniff> Mayhap not so fresh...but better than before.",
+      "text_th": "<สูดจมูก> <สูดจมูก> บางทีอาจจะไม่ค่อยบริสุทธิ์เท่าไหร่... แต่ก็ดีกว่าเมื่อกี้ล่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Ah, sinister one is gone! This one can leave this awful place!",
+      "text_th": "อา ไอ้ตัวร้ายนั่นไปแล้ว! ผู้นี้ออกไปจากสถานที่บ้าๆ นี่ได้แล้ว!",
+      "status": "AI"
+    },
+    {
+      "character": "???",
+      "text_en": "Hm? Did walking one vanquish the many-legged one? This one is grateful to walking one!",
+      "text_th": "หืม? คนเดินดินจัดการไอ้ตัวหลายขานั่นไปแล้วเหรอ? ผู้นี้ขอบคุณคนเดินดินมากๆ เลยนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "This one is called Frixio, eldest of these ones of Little Solace.",
+      "text_th": "ผู้นี้ชื่อ Frixio เป็นผู้อาวุโสที่สุดในหมู่ซิลฟ์แห่ง Little Solace",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Herald",
+      "text_en": "Alpha squad reporting, sir! Nothing of note at Larkscall, sir!",
+      "text_th": "หน่วยอัลฟ่ารายงานครับท่าน! ไม่มีอะไรผิดปกติที่ Larkscall ครับท่าน!",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "Understood. Return to area twelve. Damn it all...where is that accursed eikon hiding?",
+      "text_th": "รับทราบ ถอนกำลังกลับไปที่เขตสิบสอง บ้าเอ๊ย... เทพอสูรบ้านั่นมันไปซ่อนอยู่ไหนของมันกันนะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "No sign of our wizened friend?",
+      "text_th": "ไม่เจอวี่แววของเพื่อนตาแก่ของเราเลยเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "I'm afraid not, my lord. Shall I order that the search perimeter be expanded?",
+      "text_th": "เกรงว่าจะไม่เจอครับท่าน จะให้สั่งขยายวงค้นหาไหมครับ?",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Absolutely not. We risk alerting the Gridanians to our presence. His Excellency bid us avoid unnecessary confrontation.",
+      "text_th": "ไม่ต้องหรอก เราอาจจะไปเตะตาพวก Gridania เข้า ท่านนายพลสั่งให้เราหลีกเลี่ยงการปะทะโดยไม่จำเป็น",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Loath though I am to admit it, I have found no evidence to suggest that Ramuh will be gracing the mortal realm in the near future.",
+      "text_th": "ถึงจะไม่อยากยอมรับก็เถอะ แต่ข้าก็ไม่พบหลักฐานอะไรที่จะบอกได้เลยว่า Ramuh จะยอมเสด็จลงมายังโลกมนุษย์ในเร็วๆ นี้",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "I ask you...what good is a god who does not grant one's wishes? Were I a sylph, I should strongly consider finding myself another idol.",
+      "text_th": "ข้าขอถามเจ้าหน่อยเถอะ... พระเจ้าที่ไม่ยอมให้พรตามคำขอ มันจะมีประโยชน์อะไรล่ะ? ถ้าข้าเป็นซิลฟ์นะ ข้าคงจะหาเทวรูปองค์ใหม่ไปตั้งนานแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Which reminds me─what of the sylphs we captured? A handful of them seemed to be in reasonably good health when last I looked.",
+      "text_th": "พูดถึงเรื่องนี้─แล้วพวกซิลฟ์ที่เราจับมาได้ล่ะเป็นยังไงบ้าง? เห็นมีอยู่หยิบมือนึงที่ยังดูสุขภาพดีอยู่ตอนที่ข้าไปดูครั้งล่าสุด",
+      "status": "AI"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "Ah. A-Apologies, my lord. I fear we may have been...overzealous in our efforts to compel them to summon their eikon.",
+      "text_th": "อา ข-ขออภัยด้วยครับนายท่าน ข้าเกรงว่าเราอาจจะ... กระตือรือร้นเกินไปหน่อยในการพยายามบีบให้พวกมันอัญเชิญเทพอสูรออกมา",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "<sigh> ...Really, Centurion─were you not aware that vegetables bruise easily? It is well that I did not entrust you with the important task of making my dinner.",
+      "text_th": "<เฮ้อ> ...ให้ตายสิ Centurion─เจ้าไม่รู้หรือไงว่าผักมันช้ำง่ายน่ะ? ดีนะที่ข้าไม่ได้มอบหมายหน้าที่สำคัญอย่างการทำอาหารเย็นให้เจ้า",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Well, mayhap it was a kindness. Better dead in truth than dead to one's own god, I suppose...if you believe in such things.",
+      "text_th": "แหม บางทีมันอาจจะเป็นความเมตตาก็ได้นะ ยอมตายจริงๆ ดีกว่าตายต่อหน้าพระเจ้าของตัวเอง ข้าเดาว่างั้นนะ... ถ้าเจ้าเชื่อเรื่องพรรค์นั้นล่ะก็นะ",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Dawn is upon us. Make ready to withdraw.",
+      "text_th": "รุ่งสางแล้ว เตรียมตัวถอนกำลังได้",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "Hmph, useless...",
+      "text_th": "หึ ไร้ประโยชน์สิ้นดี...",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "We are so close to completion, I can fair taste it, but at this rate...",
+      "text_th": "เราใกล้จะทำสำเร็จอยู่แล้วเชียว ข้าแทบจะสัมผัสได้ถึงมันอยู่แล้ว แต่ขืนเป็นแบบนี้ต่อไปล่ะก็...",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "No, I must be patient. Our efforts will bear fruit in due time.",
+      "text_th": "ไม่สิ ข้าต้องอดทนไว้ ความพยายามของเราจะต้องผลิดอกออกผลในไม่ช้า",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "...What was it you always said? Ah, yes: “Though it mean bringing down the very heavens, who shall challenge the limits of possibility if not we?” In that alone were you right...Garlond.",
+      "text_th": "...เจ้าเคยพูดไว้ว่ายังไงนะ? อ้อ ใช่: “แม้ว่ามันจะหมายถึงการฉุดรั้งสรวงสวรรค์ลงมา ใครกันเล่าที่จะกล้าท้าทายขีดจำกัดของความเป็นไปได้ ถ้าไม่ใช่พวกเรา?” เรื่องนั้นน่ะเจ้าพูดถูกเผงเลย... Garlond",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "But your star is long fallen, while mine doth begin to rise.",
+      "text_th": "แต่ดาวของเจ้ามันร่วงหล่นไปนานแล้ว ในขณะที่ดาวของข้าเพิ่งจะเริ่มทอแสง",
+      "status": "AI"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text_en": "And it shall burn so bright─ so bright that Lord van Baelsar's ultimate weapon will seem a mere candle beside it! Ahahahaha!",
+      "text_th": "และมันจะสว่างไสว─สว่างไสวเสียจนสุดยอดอาวุธของท่านลอร์ด van Baelsar กลายเป็นเพียงแค่แสงเทียนริบหรี่ไปเลย! อาฮ่าฮ่าฮ่าฮ่า!",
+      "status": "AI"
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "Those walking ones did for Noxia! This one is certain of it!",
+      "text_th": "คนเดินดินพวกนั้นเป็นคนทำร้าย Noxia! ผู้นี้มั่นใจเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "This one fears that other taken ones also suffered the same fate...",
+      "text_th": "ผู้นี้กลัวว่าซิลฟ์ตัวอื่นๆ ที่ถูกจับไปจะเจอชะตากรรมเดียวกัน...",
+      "status": "AI"
+    },
+    {
+      "character": "Noraxia",
+      "text_en": "This one is convinced! Walking ones have black hearts, seek only to harm these ones! Walking ones are not to be trusted!",
+      "text_th": "ผู้นี้เชื่อแล้ว! พวกคนเดินดินมีจิตใจชั่วร้าย หวังจะทำร้ายพวกเรา! พวกคนเดินดินเชื่อใจไม่ได้!",
+      "status": "AI"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Now, now, Noraxia...do not pass judgment too hastily. Not all walking ones are alike. Though there are evil ones among the walking ones, there are good ones also.",
+      "text_th": "เอาน่าๆ Noraxia... อย่าเพิ่งด่วนตัดสินไปเลย พวกคนเดินดินไม่ได้เหมือนกันไปซะหมดหรอกนะ ถึงจะมีพวกคนเดินดินที่ชั่วร้าย แต่พวกคนเดินดินที่ดีก็มีเหมือนกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Hm? Does walking one feel unwell?",
+      "text_th": "หืม? คนเดินดินรู้สึกไม่สบายหรือเปล่า?",
+      "status": "AI"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "This one would know, what brings walking one to this place?",
+      "text_th": "ผู้นี้อยากจะรู้ ว่าอะไรทำให้คนเดินดินมาที่นี่เหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Came to this one's rescue at Noraxia's bidding? Then this one owes walking one a debt of gratitude!",
+      "text_th": "มาช่วยผู้นี้ตามคำขอร้องของ Noraxia งั้นเหรอ? งั้นผู้นี้ก็เป็นหนี้บุญคุณคนเดินดินแล้วล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Hm? Walking one has questions about Lord Ramuh? Then this one will provide answers.",
+      "text_th": "หืม? คนเดินดินมีเรื่องจะถามเกี่ยวกับท่านลอร์ด Ramuh งั้นเหรอ? งั้นผู้นี้ก็จะตอบคำถามให้",
+      "status": "AI"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "But first, let these ones quit this lightless place.",
+      "text_th": "แต่ก่อนอื่น ให้พวกเราออกไปจากที่ที่มืดมิดนี้ก่อนเถอะ",
+      "status": "AI"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "This one will return to Little Solace. When walking one is ready, please come and see this one. These ones may speak properly then.",
+      "text_th": "ผู้นี้จะกลับไปที่ Little Solace เมื่อคนเดินดินพร้อมแล้ว โปรดไปพบผู้นี้ด้วยเถอะนะ พวกเราจะได้พูดคุยกันดีๆ สักที",
+      "status": "AI"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Then it is settled! Let this one accompany walking one outside!",
+      "text_th": "งั้นก็ตกลงตามนี้! ให้ผู้นี้ไปส่งคนเดินดินข้างนอกเถอะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Ah, you're back! Tell me the sylph elder is well!",
+      "text_th": "อา เจ้ากลับมาแล้ว! บอกข้าทีว่าผู้อาวุโสซิลฟ์ปลอดภัยดี!",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "...Thank the gods for that! I don't rightly know what to make of the rest of your tale, but I'm full glad Frixio didn't come to any harm.",
+      "text_th": "...ขอบคุณพระเจ้า! ข้าไม่รู้จะคิดยังไงกับเรื่องที่เจ้าเล่าให้ฟังดีนะ แต่ข้าก็ดีใจมากๆ ที่ Frixio ปลอดภัย",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "Ah, but there I go tempting fate. Run over to Little Solace and secure us peace with the sylphs before aught else befalls us, eh? Rest assured, I'll send word to our friends of Sharlayan and the Twin Adder both.",
+      "text_th": "อา แต่ข้าไม่น่าไปท้าทายโชคชะตาเลย รีบไปที่ Little Solace แล้วเจรจาสันติภาพกับพวกซิลฟ์ให้เรียบร้อยก่อนที่จะเกิดเรื่องร้ายๆ ขึ้นอีกเถอะนะ ไม่ต้องห่วง ข้าจะส่งข่าวไปให้เพื่อนของเราที่ Sharlayan และ Twin Adder ด้วย",
+      "status": "AI"
+    },
+    {
+      "character": "Buscarron",
+      "text_en": "You've done Gridania a great service this day, lad / lass ─and earned yourself a place of honor here at the Druthers in so doing. Be sure and come by whenever you feel like a drop of Qiqirn firewater!",
+      "text_th": "เจ้าทำประโยชน์ให้กับ Gridania อย่างใหญ่หลวงเลยล่ะในวันนี้ ไอ้หนู / แม่หนู ─และเจ้าก็ได้รับเกียรติให้เป็นแขกวีไอพีของที่นี่ไปเลย แวะมาได้ทุกเมื่อที่เจ้าอยากดวดเหล้าเถื่อน Qiqirn ล่ะ!",
+      "status": "AI"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "come-highly-recommended",
+  "wiki_path": "/wiki/Come_Highly_Recommended",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Come Highly Recommended",
+  "title_th": "ได้รับการแนะนำมาอย่างสูง",
+  "title_status": "AI",
+  "level": "27",
+  "location": "South Shroud(X:25.6,Y:20.6)",
+  "npc_start": "Meffrid",
+  "dialogues": [
+    {
+      "character": "Meffrid",
+      "text_en": "Now that things are relatively settled, I seem to recall that you wanted something of me.",
+      "text_th": "ตอนนี้เรื่องราวค่อนข้างจะเข้าที่เข้าทางแล้ว ฉันพอจะจำได้ว่าเธอต้องการอะไรจากฉันใช่ไหม",
+      "status": "AI"
+    },
+    {
+      "character": "Meffrid",
+      "text_en": "You've proven a true friend to my people. Ask of me anything, and it's yours, so long as it's mine to give.",
+      "text_th": "เธอได้พิสูจน์ให้เห็นแล้วว่าเธอคือเพื่อนแท้ของพวกเรา ขออะไรมาก็ได้เลย ฉันให้ได้ทุกอย่าง ตราบใดที่มันเป็นของฉันน่ะนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Meffrid",
+      "text_en": "The cooperation of the people of Little Ala Mhigo? That's all? Far be it from me to question your desires, of course... Very well, I will provide you with a letter to show to Gundobald.",
+      "text_th": "ความร่วมมือจากชาวเมือง Little Ala Mhigo งั้นเหรอ? แค่นั้นน่ะเหรอ? ฉันไม่ได้มีสิทธิ์ไปตั้งคำถามกับความต้องการของเธอหรอกนะ... เอาเถอะ ฉันจะให้จดหมายเธอไปให้ Gundobald ดูแล้วกัน",
+      "status": "AI"
+    },
+    {
+      "character": "Meffrid",
+      "text_en": "The old bear was my mentor when I first joined the Resistance. He's intimidating to those who don't know him, but he takes care of his own. I've no doubt that he will do all in his power to aid you.",
+      "text_th": "ตาเฒ่าหมีนั่นเคยเป็นครูฝึกของฉันตอนที่ฉันเข้าร่วมกองกำลังต่อต้านใหม่ๆ เขาดูน่าเกรงขามสำหรับคนที่ไม่รู้จักนะ แต่เขาดูแลพวกพ้องของเขาดีมาก ฉันมั่นใจว่าเขาจะทำทุกวิถีทางเพื่อช่วยเหลือเธอแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Why have you returned? You are not welcome here; I thought I made that clear.",
+      "text_th": "กลับมาทำไมอีก? เธอไม่ได้รับการต้อนรับที่นี่ ฉันนึกว่าฉันพูดชัดเจนแล้วนะ",
+      "status": "AI"
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "You...you spoke with Meffrid? It has been so long since I last heard from him, I had feared him dead... Twelve be praised...",
+      "text_th": "เธอ... เธอคุยกับ Meffrid แล้วงั้นเหรอ? นานมากแล้วนะที่ฉันไม่ได้ข่าวจากเขา ฉันกลัวว่าเขาจะตายไปแล้วเสียอีก... พระผู้เป็นเจ้าคุ้มครอง...",
+      "status": "AI"
+    },
+    {
+      "character": "Gundobald",
+      "text_en": "Whoever you are, Meffrid sees you as a friend, and any friend of Meffrid is a friend of mine. I know of this masked stranger you seek, and will tell you what I can",
+      "text_th": "ไม่ว่าเธอจะเป็นใคร Meffrid มองว่าเธอเป็นเพื่อน และเพื่อนของ Meffrid ก็คือเพื่อนของฉัน ฉันรู้เรื่องชายสวมหน้ากากที่เธอตามหาอยู่ และจะเล่าทุกอย่างที่รู้ให้ฟังก็แล้วกัน",
+      "status": "AI"
+    }
+  ]
+}

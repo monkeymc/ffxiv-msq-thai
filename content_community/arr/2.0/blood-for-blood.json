@@ -1,0 +1,152 @@
+{
+  "id": "blood-for-blood",
+  "wiki_path": "/wiki/Blood_for_Blood",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Blood for Blood",
+  "title_th": "เลือดแลกเลือด",
+  "title_status": "AI",
+  "level": "40",
+  "location": "Coerthas Central Highlands(X:12.7,Y:16.5)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "Since Lord Drillemont has already been turned against us, I fear that this encyclical alone will not serve to convince him of our claims.",
+      "text_th": "ในเมื่อท่านลอร์ด Drillemont ถูกเป่าหูให้ต่อต้านพวกเราไปแล้ว ฉันกลัวว่าแค่จดหมายเวียนนี่อย่างเดียวคงไม่พอที่จะโน้มน้าวให้เขาเชื่อเรื่องของเราหรอก",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But what might persuade a man so quick to disregard the endorsements of two High Houses?",
+      "text_th": "แต่อะไรล่ะที่จะโน้มน้าวคนที่ด่วนตัดสินใจเพิกเฉยต่อการรับรองจากสองตระกูลใหญ่ได้?",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The cook did say that the lord listens to and respects the opinions of his knights. If a certain knight were to provide testimony that supports our claim...",
+      "text_th": "พ่อครัวเคยบอกว่าท่านลอร์ดรับฟังและเคารพความคิดเห็นของอัศวินของเขานี่นา ถ้ามีอัศวินสักคนยอมเป็นพยานสนับสนุนคำกล่าวอ้างของเราล่ะก็...",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Yes, mayhap that is the only way left to us. Confront Ser Joellaut with the evidence you discovered and see if it helps him to recall the truth of that night.",
+      "text_th": "ใช่ บางทีนั่นอาจจะเป็นหนทางเดียวที่เหลืออยู่สำหรับเรา เอาหลักฐานที่เธอค้นพบไปเผชิญหน้ากับท่าน Ser Joellaut สิ เผื่อมันจะช่วยฟื้นความทรงจำเกี่ยวกับความจริงในคืนนั้นให้เขาได้บ้าง",
+      "status": "AI"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As a man of faith, he may find it difficult to cope with such a horrifying revelation. Nevertheless, we must do everything within our power to secure the Enterprise .",
+      "text_th": "ในฐานะคนเคร่งศาสนา เขาอาจจะรับมือกับการเปิดเผยที่น่าสะพรึงกลัวแบบนี้ได้ยากสักหน่อย แต่ยังไงเราก็ต้องทำทุกวิถีทางเพื่อเอา Enterprise มาให้ได้",
+      "status": "AI"
+    },
+    {
+      "character": "Joellaut",
+      "text_en": "Oh, you have returned. Is there something else you wanted to ask?",
+      "text_th": "อ้อ เธอกลับมาแล้ว มีอะไรอยากจะถามฉันอีกเหรอ?",
+      "status": "AI"
+    },
+    {
+      "character": "Joellaut",
+      "text_en": "The inquisitor is an impostor? Don't be preposterous, that could not possibly be true!",
+      "text_th": "ผู้ไต่สวนเป็นตัวปลอมงั้นเหรอ? อย่ามาพูดจาเหลวไหลน่า มันจะเป็นความจริงไปได้ยังไง!",
+      "status": "AI"
+    },
+    {
+      "character": "Joellaut",
+      "text_en": "He is a paragon of virtue, a dedicated servant of the Fury! You would have me believe that is all a lie!?",
+      "text_th": "เขาคือแบบอย่างของคุณธรรม เป็นผู้รับใช้ที่อุทิศตนเพื่อองค์ Fury! เธอจะให้ฉันเชื่อว่าทั้งหมดนั่นคือคำโกหกงั้นรึ!?",
+      "status": "AI"
+    },
+    {
+      "character": "Joellaut",
+      "text_en": "If you are so certain that your ludicrous story is true, then go and speak with Ser Prunilla! She was at the eastern gate that night, and she helped the inquisitor carry me here. But I will never speak against the man who saved my life!",
+      "text_th": "ถ้าเธอมั่นใจนักว่าเรื่องตลกขบขันของเธอมันเป็นเรื่องจริงล่ะก็ ลองไปคุยกับท่าน Ser Prunilla ดูสิ! เธออยู่ที่ประตูทิศตะวันออกในคืนนั้น และเธอก็ช่วยผู้ไต่สวนแบกฉันมาที่นี่ แต่ฉันจะไม่มีวันพูดปรักปรำผู้มีพระคุณที่ช่วยชีวิตฉันไว้หรอกนะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Prunilla",
+      "text_en": "You ! I...I do not believe I know you, sir / madam . Pray move along and trouble me no more.",
+      "text_th": "คุณ! ฉ-ฉันไม่คิดว่าฉันรู้จักคุณนะ คุณผู้ชาย / คุณผู้หญิง กรุณาหลีกทางไปเถอะ อย่ามาสร้างความรำคาญให้ฉันอีกเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Prunilla",
+      "text_en": "Are you in the habit of handing bloody documents to strangers? Why would you show me such a dreadful thing? I know naught of it, naught at all!",
+      "text_th": "คุณมีนิสัยชอบเอาเอกสารเปื้อนเลือดไปยื่นให้คนแปลกหน้าดูหรือไง? ทำไมถึงเอาของน่ากลัวแบบนี้มาให้ฉันดูล่ะ? ฉันไม่รู้เรื่องอะไรทั้งนั้น ไม่รู้เรื่องเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Prunilla",
+      "text_en": "...What? Do you doubt my words? Away with you─I will suffer your slander no more.",
+      "text_th": "...อะไรนะ? คุณสงสัยในคำพูดของฉันงั้นเหรอ? ไปให้พ้นเลยนะ─ฉันจะไม่ทนฟังคำใส่ร้ายของคุณอีกต่อไปแล้ว",
+      "status": "AI"
+    },
+    {
+      "character": "Prunilla",
+      "text_en": "You know , don't you? Fury take me, I prayed this day would come...",
+      "text_th": "คุณรู้ใช่ไหม? ให้องค์ Fury ลงทัณฑ์ฉันเถอะ ฉันภาวนาให้วันนี้มาถึง...",
+      "status": "AI"
+    },
+    {
+      "character": "Prunilla",
+      "text_en": "When Ser Joellaut gave chase, I followed close behind. He didn't fall─one of those Dravanian abominations lashed out at him, nearly killed him right then and there. I drew my sword and rushed to his side, straining to see the enemy. But what came from the dark was not a beast, but a voice.",
+      "text_th": "ตอนที่ท่าน Ser Joellaut ไล่ตามไป ฉันก็ตามไปติดๆ เขาไม่ได้ล้มลงหรอก─อสูรกาย Dravanian ตัวหนึ่งพุ่งเข้าใส่เขา เกือบจะฆ่าเขาตายตรงนั้นแล้ว ฉันชักดาบออกมาแล้วรีบวิ่งไปหาเขา พยายามเพ่งมองศัตรู แต่สิ่งที่ออกมาจากความมืดกลับไม่ใช่อสูรกาย แต่เป็นเสียงคน",
+      "status": "AI"
+    },
+    {
+      "character": "Prunilla",
+      "text_en": "He...he knew things about me, about my family. Secrets I had never told another. He said that if I kept his confidence, Ser Joellaut and I would be spared. But, if I defied him...everyone I loved would suffer unimaginable horrors before they died.",
+      "text_th": "เขา... เขารู้เรื่องของฉัน รู้เรื่องครอบครัวของฉัน ความลับที่ฉันไม่เคยบอกใคร เขาบอกว่าถ้าฉันยอมเก็บความลับของเขาไว้ เขาจะไว้ชีวิตท่าน Ser Joellaut และฉัน แต่ถ้าฉันขัดขืน... ทุกคนที่ฉันรักจะต้องทนทุกข์ทรมานอย่างแสนสาหัสก่อนตาย",
+      "status": "AI"
+    },
+    {
+      "character": "Prunilla",
+      "text_en": "When at last I agreed to his terms, the man came forward. His robes marked him as an inquisitor, but I knew him to be false. Together, we carried Ser Joellaut to the infirmary, and on his first night in Whitebrim Front “Inquisitor Guillaime” was heralded as a hero...",
+      "text_th": "เมื่อฉันยอมตกลงตามเงื่อนไขของเขาในที่สุด ชายคนนั้นก็ก้าวออกมา ชุดคลุมของเขาบ่งบอกว่าเป็นผู้ไต่สวน แต่ฉันรู้ว่าเขาเป็นตัวปลอม เราช่วยกันแบกท่าน Ser Joellaut มาที่ห้องพยาบาล และในคืนแรกของเขาที่ Whitebrim Front “ผู้ไต่สวน Guillaime” ก็ได้รับการยกย่องราวกับวีรบุรุษ...",
+      "status": "AI"
+    },
+    {
+      "character": "Prunilla",
+      "text_en": "Soon after came the accusations─countless men and women of good moral standing, seized whilst in possession of draconian rosaries. As I feared, he was condemning the innocent to death. I wanted to confess to Lord Drillemont, wanted to put an end to the madness─but then I would remember the inquisitor's threats. And so I did nothing...until Lord Francel was accused.",
+      "text_th": "หลังจากนั้นไม่นานการกล่าวหาก็เริ่มขึ้น─ชายหญิงผู้มีศีลธรรมอันดีนับไม่ถ้วน ถูกจับกุมเพียงเพราะมีสายประคำมังกรอยู่ในครอบครอง อย่างที่ฉันกลัว เขาปรักปรำคนบริสุทธิ์ให้รับโทษประหาร ฉันอยากจะสารภาพกับท่านลอร์ด Drillemont อยากจะหยุดความบ้าคลั่งนี้─แต่แล้วฉันก็นึกถึงคำขู่ของผู้ไต่สวน ฉันก็เลยไม่ได้ทำอะไร... จนกระทั่งท่านลอร์ด Francel ถูกกล่าวหา",
+      "status": "AI"
+    },
+    {
+      "character": "Prunilla",
+      "text_en": "Some time ago, I followed the inquisitor and found that he kept draconian rosaries in a chest hidden southeast of Whitebrim Front. So, I took several from his chest and planted them in shipments bound for Skyfire Locks. As I hoped, they were discovered and considered evidence of a conspiracy against House Haillenarte, thus exonerating Lord Francel and casting doubt on the other recent trials. And that is the entire truth, I swear. Halone forgive me for not acting sooner...",
+      "text_th": "เมื่อไม่นานมานี้ ฉันแอบตามผู้ไต่สวนไปแล้วก็พบว่าเขาซ่อนสายประคำมังกรเอาไว้ในหีบที่ซ่อนอยู่ทางตะวันออกเฉียงใต้ของ Whitebrim Front ฉันเลยเอาสายประคำออกมาหลายเส้นแล้วเอาไปซ่อนไว้ในสินค้าที่จะส่งไปที่ Skyfire Locks และก็เป็นไปตามที่หวังไว้ มันถูกค้นพบและถือเป็นหลักฐานของแผนการสมคบคิดต่อต้านตระกูล Haillenarte ซึ่งช่วยล้างมลทินให้ท่านลอร์ด Francel และทำให้เกิดความสงสัยในการพิจารณาคดีอื่นๆ ที่เพิ่งเกิดขึ้น นั่นคือความจริงทั้งหมด ฉันสาบานได้ ขอองค์ Halone โปรดอภัยให้ฉันด้วยที่ไม่ได้ลงมือทำอะไรให้เร็วกว่านี้...",
+      "status": "AI"
+    },
+    {
+      "character": "Prunilla",
+      "text_en": "Do not make me say it aloud again, I beg of you. Even now he could be watching, listening to every word. It may already be too late for us...",
+      "text_th": "อย่าให้ฉันต้องพูดออกมาดังๆ อีกเลยนะ ขอร้องล่ะ แม้แต่ตอนนี้เขาอาจจะกำลังจับตาดู หรือฟังทุกคำพูดอยู่ก็ได้ มันอาจจะสายเกินไปสำหรับพวกเราแล้วล่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Why do you persist in this folly? I will not grant you three access to the Stone Vigil. Do not make me repeat myself.",
+      "text_th": "ทำไมพวกเจ้าถึงยังดื้อด้านอยู่แบบนี้นะ? ข้าจะไม่ยอมให้พวกเจ้าสามคนเข้าไปใน Stone Vigil หรอกนะ อย่าให้ข้าต้องพูดซ้ำ",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "There had better be a very good explanation for why you were carrying these rosaries. And where did you find this papal encyclical?",
+      "text_th": "พวกเจ้าควรจะมีคำอธิบายดีๆ นะว่าทำไมถึงพกสายประคำพวกนี้มาด้วย แล้วเจ้าไปเอาจดหมายเวียนจากองค์สันตะปาปานี่มาจากไหน?",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Fury take me, the inquisitor is a heretic !? Never before have I heard such an unbelievable tale...but this evidence and your testimony could have no other explanation...",
+      "text_th": "ให้องค์ Fury ลงทัณฑ์ข้าเถอะ ผู้ไต่สวนเป็นคนนอกรีตงั้นรึ!? ข้าไม่เคยได้ยินเรื่องเล่าที่เหลือเชื่อขนาดนี้มาก่อนเลย... แต่หลักฐานและคำให้การของเจ้าก็ไม่อาจอธิบายเป็นอย่างอื่นได้...",
+      "status": "AI"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "I have misjudged you and your friends, Forename , and for that I deeply apologize. I will permit you to enter the outpost─but first, I must needs beg your assistance. Help me and my knights bring this infernal impostor to justice!",
+      "text_th": "ข้าตัดสินพวกเจ้าผิดไป [ชื่อ] ข้าขอโทษจากใจจริง ข้าจะอนุญาตให้เจ้าเข้าไปในด่านหน้าได้─แต่ก่อนอื่น ข้าต้องขอความช่วยเหลือจากเจ้าก่อน ช่วยข้าและอัศวินของข้านำตัวไอ้ตัวปลอมนรกส่งมาเกิดนี่มารับโทษด้วยเถอะ!",
+      "status": "AI"
+    }
+  ]
+}

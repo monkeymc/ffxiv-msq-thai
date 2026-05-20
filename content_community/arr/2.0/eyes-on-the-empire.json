@@ -1,0 +1,80 @@
+{
+  "id": "eyes-on-the-empire",
+  "wiki_path": "/wiki/Eyes_on_the_Empire",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "Eyes on the Empire",
+  "title_th": "จับตาดูจักรวรรดิ",
+  "title_status": "AI",
+  "level": "44",
+  "location": "Coerthas Central Highlands(X:24.8,Y:28.8)",
+  "npc_start": "Portelaine",
+  "dialogues": [
+    {
+      "character": "Portelaine",
+      "text_en": "My purpose here is to reconnoiter Garlean activity along Abalathia's Spine. Owing to this, I have the honor of being acquainted with Y'shtola.",
+      "text_th": "จุดประสงค์ของฉันที่มาที่นี่คือเพื่อสอดแนมความเคลื่อนไหวของพวก Garlean ตามแนว Abalathia's Spine และด้วยเหตุนี้ ฉันจึงได้รับเกียรติให้รู้จักกับ Y'shtola ไงล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "Now, the report of the imperial airship's emergency landing came to us by way of Dzemael Darkhold, situated to the west.",
+      "text_th": "รายงานเรื่องที่เรือเหาะของพวกอิมพีเรียลลงจอดฉุกเฉินน่ะ ส่งมาถึงเราโดยผ่านทาง Dzemael Darkhold ที่ตั้งอยู่ทางทิศตะวันตกน่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "Our man stationed at the entrance, a knight named Bricelt, may be able to tell you more. So as to expedite your mission, I shall furnish you with a letter of introduction.",
+      "text_th": "คนของเราที่ประจำการอยู่ที่ทางเข้า ซึ่งก็คืออัศวินชื่อ Bricelt น่าจะบอกรายละเอียดได้มากกว่านี้นะ เพื่อให้ภารกิจของเธอรวดเร็วขึ้น ฉันจะเตรียมจดหมายแนะนำตัวไปให้ด้วยเลย",
+      "status": "AI"
+    },
+    {
+      "character": "Portelaine",
+      "text_en": "I pray that you will soon be reunited with your comrades. May the Fury grant you strength.",
+      "text_th": "ฉันขอสวดภาวนาให้เธอได้กลับไปพบกับเพื่อนพ้องในเร็ววันนี้นะ ขอให้เทพธิดา Fury มอบพลังให้เธอ",
+      "status": "AI"
+    },
+    {
+      "character": "Bricelt",
+      "text_en": "You stand before Dzemael Darkhold, the subterranean fortress excavated by the great Ishgardian house of the same name. None but authorized personnel may enter.",
+      "text_th": "เธอมายืนอยู่หน้า Dzemael Darkhold ป้อมปราการใต้ดินที่ถูกขุดขึ้นมาโดยตระกูล Ishgard อันยิ่งใหญ่ที่มีชื่อเดียวกันนี้ ผู้ที่ไม่ได้รับอนุญาตห้ามเข้าเด็ดขาด",
+      "status": "AI"
+    },
+    {
+      "character": "Bricelt",
+      "text_en": "A letter from Lord Portelaine? ...So you have come about the imperial airship.",
+      "text_th": "จดหมายจากลอร์ด Portelaine งั้นเหรอ? ...อ้อ แสดงว่าเธอมาเรื่องเรือเหาะของอิมพีเรียลสินะ",
+      "status": "AI"
+    },
+    {
+      "character": "Bricelt",
+      "text_en": "According to our scouts, the vessel had scarce touched the ground when a pair of men─captives, by all accounts─burst forth and bolted. Imperial soldiers have since been sighted in the area, seeking to recapture them.",
+      "text_th": "จากรายงานของหน่วยลาดตระเวนของเรา เรือเหาะลำนั้นเพิ่งจะแตะพื้นได้ไม่ทันไร ก็มีชายสองคนพุ่งพรวดออกมาแล้ววิ่งหนีไป─ดูยังไงก็เป็นนักโทษชัดๆ หลังจากนั้นก็มีคนเห็นทหารอิมพีเรียลป้วนเปี้ยนอยู่ในพื้นที่เพื่อตามจับพวกเขาน่ะแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Bricelt",
+      "text_en": "What? The captives are like to be your friends, you say? Then let us pray that they are yet a step ahead of their pursuers...",
+      "text_th": "เธออาจจะเห็นภาพรวมของสถานการณ์ได้ชัดเจนขึ้นนะ ถ้าลองไปถามพวกหน่วยลาดตระเวนดูน่ะ พวกเขากระจายกำลังอยู่แถวๆ นี้นี่แหละ",
+      "status": "AI"
+    },
+    {
+      "character": "Bricelt",
+      "text_en": "The emergency landing reportedly took place near the Aurum Vale, situated south and west of here. I suggest you take your search there. Seek out a knight named Pierremons─he should be able to assist you.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Pierremons",
+      "text_en": "...The imperial airship? Aye, I saw it approach to land with mine own two eyes.",
+      "text_th": "",
+      "status": "none"
+    },
+    {
+      "character": "Pierremons",
+      "text_en": "I hastened to the landing site, arriving just in time to see the vessel take to the skies again, but not before it had deployed a detachment of troops. Gruff orders were being barked, and there was an air of consternation about them.",
+      "text_th": "",
+      "status": "none"
+    }
+  ]
+}

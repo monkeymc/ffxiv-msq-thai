@@ -1,0 +1,74 @@
+{
+  "id": "tales-from-the-tidus-slayer",
+  "wiki_path": "/wiki/Tales_from_the_Tidus_Slayer",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/32/Tales_from_the_Tidus_Slayer_Image.png",
+  "patch": "2.0",
+  "title_en": "Tales from the Tidus Slayer",
+  "title_th": "นิทานจากผู้พิชิต Tidus",
+  "title_status": "AI",
+  "level": "30",
+  "location": "Lower La Noscea(X:35.6,Y:15.9)",
+  "npc_start": "Trachtoum",
+  "dialogues": [
+    {
+      "character": "Trachtoum",
+      "text_en": "Gah hah hah! So, ye want to hear the tale of how the Company of Heroes bested a primal, do ye?",
+      "text_th": "ก๊าก ฮะ ฮะ! งั้นเจ้าก็อยากจะฟังเรื่องที่กลุ่ม Company of Heroes ล้ม primal ได้สินะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Trachtoum",
+      "text_en": "Let me guess: ye mean that bastard Tidus, aye?",
+      "text_th": "ให้ข้าเดานะ: เจ้าหมายถึงไอ้สารเลว Tidus นั่นใช่ไหมล่ะ?",
+      "status": "AI"
+    },
+    {
+      "character": "Trachtoum",
+      "text_en": "Oh, if only ye'd been there to see it!",
+      "text_th": "โอ้ ถ้าเจ้าได้อยู่ที่นั่นและได้เห็นกับตาตัวเองล่ะก็!",
+      "status": "AI"
+    },
+    {
+      "character": "Trachtoum",
+      "text_en": "'Twas a mighty struggle, like the legends of old!",
+      "text_th": "มันเป็นการต่อสู้ที่ดุเดือดมากเลยล่ะ เหมือนกับตำนานสมัยก่อนเลย!",
+      "status": "AI"
+    },
+    {
+      "character": "Trachtoum",
+      "text_en": "Me an' the boys fought him for three days an' nights, we did!",
+      "text_th": "ข้ากับพวกพ้องต่อสู้กับมันถึงสามวันสามคืนเลยล่ะ จะบอกให้!",
+      "status": "AI"
+    },
+    {
+      "character": "Trachtoum",
+      "text_en": "The ground trembled with every step Tidus took, an' when he hit ye, boy / girl , it felt like a cannonball to the gut. Uggghhh! Just like that!",
+      "text_th": "พื้นดินสั่นสะเทือนทุกครั้งที่ไอ้ Tidus ก้าวเดิน และตอนที่มันซัดเจ้านะ พ่อหนุ่ม / แม่หนู มันรู้สึกเหมือนโดนลูกปืนใหญ่กระแทกเข้าที่พุงเต็มๆ เลย อั๊กกกก! แบบนั้นเลยล่ะ!",
+      "status": "AI"
+    },
+    {
+      "character": "Trachtoum",
+      "text_en": "Oi, what's that look for? I'm a godsdamned hero, I'll have you know! The people 'round here sing me praises! Don't tell me ye only care about learnin' the secret tactics we used to beat ol' Tidus...",
+      "text_th": "เฮ้ย มองแบบนั้นหมายความว่าไงฟะ? ข้าเป็นถึงวีรบุรุษเลยนะเว้ย จะบอกให้! ชาวบ้านแถวนี้เขาร้องเพลงสรรเสริญข้ากันทั้งนั้น! อย่ามาบอกนะว่าเจ้าสนใจแต่จะมาล้วงความลับแผนการที่เราใช้ล้มเจ้า Tidus น่ะ...",
+      "status": "AI"
+    },
+    {
+      "character": "Trachtoum",
+      "text_en": "Hmph! Well, too bad, 'cause now I'm not feelin' charitable. If yer so damn desperate, then why don't ye do me a favor an' kill those rats that've made a nest by the windmill just south of here? Aye, do that, then we'll talk!",
+      "text_th": "ฮึ่ม! งั้นก็เสียใจด้วยนะ เพราะตอนนี้ข้ากำลังรู้สึกไม่อยากจะใจดีซะด้วยสิ ถ้าเจ้าอยากรู้มากนักล่ะก็ ทำไมไม่ช่วยทำอะไรให้ข้าสักอย่าง แล้วไปจัดการไอ้พวกหนูที่มันไปทำรังอยู่ตรงกังหันลมทางใต้ของที่นี่ให้ทีล่ะ? เออ ไปจัดการมันซะ แล้วเราค่อยมาคุยกัน!",
+      "status": "AI"
+    },
+    {
+      "character": "Trachtoum",
+      "text_en": "Eh? So the beasties are dead, are they? Nice work, 'venturer!",
+      "text_th": "หา? ไอ้พวกสัตว์ร้ายนั่นตายหมดแล้วงั้นรึ? ทำได้ดีมากเลยไอ้นักผจญภัย!",
+      "status": "AI"
+    },
+    {
+      "character": "Trachtoum",
+      "text_en": "Saved me the hassle of─ah, never mind.",
+      "text_th": "ช่วยประหยัดเวลาข้าไปได้เยอะเลย─อ่า ช่างมันเถอะ",
+      "status": "AI"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "the-ladle-in-the-darkness",
+  "wiki_path": "/wiki/The_Ladle_in_the_Darkness",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title_en": "The Ladle in the Darkness",
+  "title_th": "ทัพพีในความมืดมิด",
+  "title_status": "AI",
+  "level": "49",
+  "location": "Northern Thanalan(X:22,Y:29)",
+  "npc_start": "Cracked Fist",
+  "dialogues": []
+}

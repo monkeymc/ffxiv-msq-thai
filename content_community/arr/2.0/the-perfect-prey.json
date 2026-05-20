@@ -1,0 +1,98 @@
+{
+  "id": "the-perfect-prey",
+  "wiki_path": "/wiki/The_Perfect_Prey",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title_en": "The Perfect Prey",
+  "title_th": "เหยื่อชั้นยอด",
+  "title_status": "AI",
+  "level": "31",
+  "location": "Southern Thanalan(X:14.3,Y:29.9)",
+  "npc_start": "U'odh Nunh",
+  "dialogues": [
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Perrrsistent bugger. Very well, let's have a look at you.",
+      "text_th": "ตื๊อเก่งจริงๆ เลยนะ ได้สิ ขอข้าดูหน่อยซิว่าเจ้ามีดีอะไร",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "...You've seen your share of battle, there's no mistaking that. And you did manage to obtain that adamantoise egg. However, that was naught more than a display of brrrute force and blind courage.",
+      "text_th": "...เจ้าคงผ่านการต่อสู้มาไม่น้อยเลยสินะ ดูออกง่ายเลย และเจ้าก็เอาไข่เต่า adamantoise มาได้จริงๆ ด้วย แต่นั่นมันก็เป็นแค่การใช้กำลังกับความกล้าแบบบ้าบิ่นเท่านั้นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "The nunh I once fought also believed that his strrrength would save him. He was wrong, and now I am nunh.",
+      "text_th": "nunh คนก่อนที่ข้าเคยสู้ด้วยก็เชื่อแบบนั้นเหมือนกันว่าความแข็งแกร่งจะช่วยเขาได้ แต่เขาคิดผิด และตอนนี้ข้าก็คือ nunh",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Many years ago, I joined the Company of Heroes to hone my skills, instead of challenging my predecessor before I was ready. Even when I was young, I understood that victorrry goes to the patient, the cunning, the pragmatic.",
+      "text_th": "เมื่อหลายปีก่อน ข้าเข้าร่วมกลุ่ม Company of Heroes เพื่อฝึกฝนฝีมือ แทนที่จะรีบไปท้าประลองกับรุ่นพี่ตั้งแต่ข้ายังไม่พร้อม แม้แต่ตอนที่ข้ายังเป็นวัยรุ่น ข้าก็เข้าใจดีว่าชัยชนะจะตกเป็นของคนที่รู้จักอดทน เจ้าเล่ห์ และอยู่กับความเป็นจริงเท่านั้น",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "That is why I claimed my position, and it is why I still hold it. And it is why I will not help an unprrroven whelp.",
+      "text_th": "นั่นคือเหตุผลที่ข้าขึ้นมาอยู่ในตำแหน่งนี้ได้ และเป็นเหตุผลที่ข้ายังคงรักษามันไว้ได้ และนั่นก็เป็นเหตุผลที่ข้าจะไม่ยอมช่วยเด็กเมื่อวานซืนที่ยังไม่ได้พิสูจน์ตัวเองหรอกนะ",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "The Children of the Sands do not offer aid to strangers. To do so is a sign of weakness. However, if you were rrrecognized as a skilled hunter in your own right, it would be permissible to assist you.",
+      "text_th": "เผ่า Children of the Sands จะไม่ให้ความช่วยเหลือคนแปลกหน้าหรอกนะ เพราะการทำแบบนั้นถือเป็นความอ่อนแอ แต่ถ้าเจ้าได้รับการยอมรับว่าเป็นนักล่าฝีมือดีในแบบฉบับของเจ้าเองแล้วล่ะก็ การช่วยเหลือเจ้าก็ถือว่าเป็นเรื่องที่ยอมรับได้",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Across the desert to the east lies an Amalj'aa encampment. There dwells a warrior renowned both for his strrrength and his guile. To even face this Amalj'aa in battle, you must first find a way to lure him away from the encampment.",
+      "text_th": "ข้ามทะเลทรายไปทางทิศตะวันออก จะมีค่ายของพวก Amalj'aa อยู่ ที่นั่นมีนักรบผู้หนึ่งอาศัยอยู่ เขามีชื่อเสียงทั้งในเรื่องความแข็งแกร่งและความเจ้าเล่ห์ การจะได้สู้กับนักรบ Amalj'aa ผู้นี้ เจ้าต้องหาวิธีล่อให้เขาออกมาจากค่ายให้ได้เสียก่อน",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "This will be your test: to drrraw out and defeat the veteran. For this, I will offer you no advice─only this worn spear.",
+      "text_th": "นี่แหละคือบททดสอบของเจ้า: ล่อทหารผ่านศึกผู้นี้ออกมาแล้วจัดการเขาซะ ข้าจะไม่มีคำแนะนำอะไรให้เจ้าหรอกนะ─มีก็แต่หอกเก่าๆ เล่มนี้เท่านั้นแหละ",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Why, you ask? You will have to solve that rrriddle yourself. Now go─slay this old warrior and bring to me his necklace.",
+      "text_th": "ถามว่าทำไมงั้นรึ? เจ้าต้องไปหาคำตอบเอาเองนะ ทีนี้ไปได้แล้ว─ไปจัดการนักรบเฒ่าผู้นั้นแล้วเอาสร้อยคอของเขามาให้ข้า",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Tell me, adventurerrr: is our old nemesis dead?",
+      "text_th": "ว่าไงล่ะ นักผจญภัย: ศัตรูคู่อาฆาตของเราตายแล้วใช่ไหม?",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "'Tis a fine necklace, as befits a veteran of countless battles. It will make an excellent trophy.",
+      "text_th": "เป็นสร้อยคอที่สวยงามจริงๆ สมกับที่เป็นของทหารผ่านศึกที่ผ่านการต่อสู้มานับไม่ถ้วน มันจะเป็นของสะสมที่ยอดเยี่ยมมากเลยล่ะ",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "The spear? It belonged to one of his brrrothers. I knew when he spied it from afar, he would be unable to rrresist venturing outside the encampment to see for himself.",
+      "text_th": "หอกนั่นน่ะเหรอ? มันเคยเป็นของพี่น้องคนหนึ่งของเขาน่ะ ข้ารู้เลยว่าถ้าเขาเห็นมันแต่ไกลล่ะก็ เขาจะต้องอดใจไม่ไหวจนต้องออกมาดูด้วยตาตัวเองนอกค่ายแน่ๆ",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Did you discern my intent, or was it dumb luck, I wonder...",
+      "text_th": "ข้าล่ะสงสัยจริงๆ ว่าเจ้ามองเจตนาของข้าออก หรือว่าแค่ฟลุคกันแน่นะ...",
+      "status": "AI"
+    },
+    {
+      "character": "U'odh Nunh",
+      "text_en": "Heh heh heh! Either way, you imprrress me, adventurer! I shall tell you of the ingredient you seek.",
+      "text_th": "หึๆๆ! ไม่ว่าจะยังไง เจ้าก็ทำให้ข้าประทับใจได้นะ นักผจญภัย! ข้าจะบอกเรื่องส่วนผสมที่เจ้ากำลังตามหาให้ฟังเอง",
+      "status": "AI"
+    }
+  ]
+}
