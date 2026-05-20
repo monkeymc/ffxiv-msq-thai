@@ -10,23 +10,23 @@
   "dialogues": [
     {
       "character": "Aideen",
-      "text": "So, here's what I know about the deaths: all the victims were found with their faces torn to shreds."
+      "text": "งั้นนี่คือสิ่งที่ข้ารู้เกี่ยวกับการตาย เหยื่อทุกคนถูกพบโดยมีใบหน้าฉีกขาดจนแหลกละเอียด"
     },
     {
       "character": "Aideen",
-      "text": "Among the local fauna, only the scalekin known as ziz could inflict such wounds. That's why some folk are pointing the finger at them."
+      "text": "ในบรรดาสัตว์ท้องถิ่น มีเพียง ziz ที่เป็นเกล็ดเท่านั้นที่สร้างบาดแผลแบบนี้ได้ นั่นแหละที่ทำให้บางคนชี้นิ้วโทษพวกมัน"
     },
     {
       "character": "Aideen",
-      "text": "I somehow doubt that the answer's that simple, but for the sake of thoroughness, we should look into it. Why don't you put down, say, three of the creatures, and see if you can find any proof connecting them to the deaths?"
+      "text": "ข้าสงสัยว่าคำตอบจะง่ายขนาดนั้น แต่เพื่อความรอบคอบ เราควรสืบดูก่อน ลองจัดการ ziz สักสามตัว แล้วดูว่าหาหลักฐานเชื่อมโยงพวกมันกับการตายได้ไหม?"
     },
     {
       "character": "Aideen",
-      "text": "You've already seen to the ziz? Good work, adventurer! So, were you able to find aught to suggest that the creatures are our culprits?"
+      "text": "จัดการ ziz เรียบร้อยแล้วหรือ? ทำได้ดีมาก นักผจญภัย! แล้วล่ะ คุณหาหลักฐานใดที่แสดงว่าพวกมันเป็นผู้ร้ายของเราได้ไหม?"
     },
     {
       "character": "Aideen",
-      "text": "...Nothing? Truth be told, even if there were proof, I wouldn't know what it looked like. Aaanyway, I believe we can safely strike ziz from our list of suspects. Which leaves us with...the masked man and his winged eyeball!"
+      "text": "...ไม่มีเลย? พูดตามตรง ถึงแม้จะมีหลักฐาน ข้าก็ไม่รู้หรอกว่ามันหน้าตาเป็นยังไง ยังไงก็ดี ข้าคิดว่าเราตัด ziz ออกจากรายชื่อผู้ต้องสงสัยได้แล้ว ซึ่งหมายความว่าเหลือ...ชายสวมหน้ากากกับลูกตาที่มีปีกของเขา!"
     }
   ]
 }
