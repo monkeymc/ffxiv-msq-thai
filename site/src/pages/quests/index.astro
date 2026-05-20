@@ -35,31 +35,71 @@ const groups = groupQuestsByLevel(quests);
     </div>
   </div>
 
+  <div class="toc-summary">
+    แปลแล้ว <strong>{stats.contrib + stats.ai}</strong> จาก <strong>{stats.total}</strong> quest (ชุมชน {stats.contrib}, AI {stats.ai})
+  </div>
+
+  <div class="toc-filters" id="tocFilters">
+    <span class="label">ตัวกรอง:</span>
+    <button class="chip on" data-filter="all">ทั้งหมด <span class="chip-n">{stats.total}</span></button>
+    {stats.contrib > 0 && <button class="chip" data-filter="contributor">ชุมชนแปล <span class="chip-n">{stats.contrib}</span></button>}
+    {stats.ai > 0 && <button class="chip" data-filter="ai">AI แปล <span class="chip-n">{stats.ai}</span></button>}
+    {stats.pending > 0 && <button class="chip" data-filter="none">รอแปล <span class="chip-n">{stats.pending}</span></button>}
+  </div>
+
   {groups.map(g => (
     <div class="toc-section" data-section>
       <div class="toc-section-head">
         <span class="title">{g.title}</span>
         <span class="desc">{g.desc}</span>
       </div>
-      <div class="quest-grid">
-        {g.quests.map(q => (
-          <a class="quest-card" href={`${base}/quests/${q.id}/`} data-source={q.source}>
-            <div class="qc-head">
-              <span class="qc-lv">LV {q.level}</span>
-              {q.source === 'contributor' && <span class="badge badge-contrib">ชุมชน</span>}
-              {q.source === 'ai'          && <span class="badge badge-ai">AI</span>}
-              {q.source === 'none'        && <span class="badge badge-pending">รอแปล</span>}
+
+      {g.subsections ? (
+        g.subsections.map(sub => (
+          <div class="toc-subsection" data-subsection>
+            <h3 class="subsection-title">{sub.title}</h3>
+            <div class="quest-grid">
+              {sub.quests.map(q => (
+                <a class="quest-card" href={`${base}/quests/${q.id}/`} data-source={q.source}>
+                  <div class="qc-head">
+                    <span class="qc-lv">LV {q.level}</span>
+                    {q.source === 'contributor' && <span class="badge badge-contrib">ชุมชน</span>}
+                    {q.source === 'ai'          && <span class="badge badge-ai">AI</span>}
+                    {q.source === 'none'        && <span class="badge badge-pending">รอแปล</span>}
+                  </div>
+                  <div class="qc-title-en">{q.title_en}</div>
+                  {q.title_th
+                    ? <span class="qc-title-th">{q.title_th}</span>
+                    : <span class="qc-title-th empty">— ยังไม่มีคำแปลไทย —</span>}
+                  <div class="qc-foot">
+                    <span class="qc-npc">{q.npc_start}</span>
+                  </div>
+                </a>
+              ))}
             </div>
-            <div class="qc-title-en">{q.title_en}</div>
-            {q.title_th
-              ? <span class="qc-title-th">{q.title_th}</span>
-              : <span class="qc-title-th empty">— ยังไม่มีคำแปลไทย —</span>}
-            <div class="qc-foot">
-              <span class="qc-npc">{q.npc_start}</span>
-            </div>
-          </a>
-        ))}
-      </div>
+          </div>
+        ))
+      ) : (
+        <div class="quest-grid">
+          {g.quests.map(q => (
+            <a class="quest-card" href={`${base}/quests/${q.id}/`} data-source={q.source}>
+              <div class="qc-head">
+                <span class="qc-lv">LV {q.level}</span>
+                {q.source === 'contributor' && <span class="badge badge-contrib">ชุมชน</span>}
+                {q.source === 'ai'          && <span class="badge badge-ai">AI</span>}
+                {q.source === 'none'        && <span class="badge badge-pending">รอแปล</span>}
+              </div>
+              <div class="qc-title-en">{q.title_en}</div>
+              {q.title_th
+                ? <span class="qc-title-th">{q.title_th}</span>
+                : <span class="qc-title-th empty">— ยังไม่มีคำแปลไทย —</span>}
+              <div class="qc-foot">
+                <span class="qc-npc">{q.npc_start}</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      )}
     </div>
   ))}
 
@@ -86,6 +126,10 @@ const groups = groupQuestsByLevel(quests);
             var s = card.getAttribute('data-source');
             if (f === 'all' || s === f) card.classList.remove('hidden');
             else card.classList.add('hidden');
+          });
+          document.querySelectorAll('[data-subsection]').forEach(function (sub) {
+            var visible = sub.querySelectorAll('.quest-card:not(.hidden)').length;
+            sub.style.display = visible ? '' : 'none';
           });
           document.querySelectorAll('[data-section]').forEach(function (sec) {
             var visible = sec.querySelectorAll('.quest-card:not(.hidden)').length;
