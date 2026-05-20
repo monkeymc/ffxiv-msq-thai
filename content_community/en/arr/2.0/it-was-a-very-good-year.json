@@ -1,0 +1,128 @@
+{
+  "id": "it-was-a-very-good-year",
+  "wiki_path": "/wiki/It_Was_a_Very_Good_Year",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/5c/It_Was_a_Very_Good_Year_Image.png",
+  "patch": "2.0",
+  "title": "It Was a Very Good Year",
+  "level": "33",
+  "location": "Eastern La Noscea(X:21.6,Y:21.1)",
+  "npc_start": "Shamani Lohmani",
+  "dialogues": [
+    {
+      "character": "Shamani Lohmani",
+      "text": "By the gods... Forename , listen! I know you're eager to wash your hands of this wine business, but I've just discovered something extraordinary about Drest's palm wine!"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "He sealed each coconut shell with a leaf─a leaf which has a very distinct shape and unusual odor. I thought I was going mad at first, but now I'm certain: these are the leaves of a Bacchus grape vine!"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "Do you know what this means? Somewhere in Raincatcher Gully, the legendary vine still grows! If we could obtain a cutting, we could revive the Bacchus wine industry!"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "We must know where Drest found these leaves! Here, take one of them back to him and see what he remembers!"
+    },
+    {
+      "character": "Drest",
+      "text": "Oh...hello again. What is it?"
+    },
+    {
+      "character": "Drest",
+      "text": "It's...it's just a leaf, isn't it? I only chose it because it was pretty. Didn't know it was rare..."
+    },
+    {
+      "character": "Drest",
+      "text": "I found them near the juggernaut to the south. But...I didn't see any grape vines."
+    },
+    {
+      "character": "Drest",
+      "text": "I saw fresh goobbue tracks, though. Maybe...maybe the leaves came from vines growing on the back of one such beast?"
+    },
+    {
+      "character": "Drest",
+      "text": "If...if you go looking for it, please be careful. Some goobbues are more territorial than others, and you may have to defend yourself."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "What did Drest have to say, Forename ? Tell me everything!"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "Ahaha, I was right! This smell, this texture... I hold in my hands a Bacchus grape vine cutting!"
+    },
+    {
+      "character": "Byrglaent",
+      "text": "Come now, enough of this nonsense! I've heard talk of your discovery, and I refuse to believe that a common adventurer and a novice vintner could─"
+    },
+    {
+      "character": "Byrglaent",
+      "text": "Twelve as my witness, it is a Bacchus grape vine! Where ever did you find this fantastic specimen!?"
+    },
+    {
+      "character": "Byrglaent",
+      "text": "Wh-What...? You would offer this to me? But why!?"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "There is none better positioned to reconstruct the Bacchus vineyards than you, Master Byrglaent. You have the resources, the knowledge, and the passion to do so. It would be selfish of me to keep this cutting."
+    },
+    {
+      "character": "Byrglaent",
+      "text": "I never knew you cared so deeply about your craft. Thank you, good sir. I will not squander this gift! In just a few years' time, I swear that every tavern across Eorzea will once again be clamoring for a cask of Wineport's legendary Bacchus wine!"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "Sir, you needn't─ <sniff> <sniff> Wait! The shape of this bottle, the scent of this label... This couldn't possibly be..."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "A 1547 Bacchus!? But that's impossible! This vintage has not been seen since years before the Calamity!"
+    },
+    {
+      "character": "Byrglaent",
+      "text": "It was the crown jewel of my personal collection. For years, I debated opening it, wondering if today or tomorrow would be the ideal time. But now I realize that it was never meant for me─it should be savored by the saviors of Wineport, I say!"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "He has made us an offer we cannot refuse. Master Gegeruju will find no finer wine."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "You have forever changed Wineport, Forename . Thank you for your kindness and your generosity."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "Ah, but do not permit me to delay you any longer. Pray deliver the wine to Captain Wheiskaet."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "Hm? Well, yes, I would very much like to drink it! But I am a patient man. I have faith that one day I shall have another opportunity to taste perfection."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "Your prolonged absence was beginning to concern me. So, what of the wine I asked you to bring?"
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "Is that...? Seven hells, a 1547 Bacchus! Even I know how rare that is!"
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "I have to admit, I didn't think you had it in you... But congratulations, Forename . Thanks to you, this will be the most luxurious feast Costa del Sol has seen in years."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "Considering the lengths you went to, I hope our guests appreciate it."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "Speaking of which, your associate arrived a short while ago. She appears to be growing somewhat impatient."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "Perhaps you could tell her that the banquet is about to begin?"
+    }
+  ]
+}

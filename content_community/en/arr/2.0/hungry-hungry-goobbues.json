@@ -1,0 +1,44 @@
+{
+  "id": "hungry-hungry-goobbues",
+  "wiki_path": "/wiki/Hungry_Hungry_Goobbues",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Hungry Hungry Goobbues",
+  "level": "30",
+  "location": "Lower La Noscea(X:35.6,Y:15.9)",
+  "npc_start": "Trachtoum",
+  "dialogues": [
+    {
+      "character": "Trachtoum",
+      "text": "...What? Ye still askin' about how we beat Tidus? I dunno, 'venturer...it was a pretty risky strategy, the kind only a veteran of ten score battles could rely upon."
+    },
+    {
+      "character": "Trachtoum",
+      "text": "I want to teach ye, I truly do! But unless ye prove ye have what it takes to face that fat bastard, I can't in good conscience tell you a damn thing!"
+    },
+    {
+      "character": "Trachtoum",
+      "text": "At the very least, ye'd need to be capable of slayin', say, a goobbue..."
+    },
+    {
+      "character": "Trachtoum",
+      "text": "Come to think of it, that ain't a bad idea. Them creatures have a taste for the flour milled here, so ye ought to have no trouble findin' one in the vicinity."
+    },
+    {
+      "character": "Trachtoum",
+      "text": "'Course, I ain't askin' ye to cut one down quick as a skilled axeman like meself!"
+    },
+    {
+      "character": "Trachtoum",
+      "text": "Anyroad, why don't ye try headin' due west an' standin' lookout 'case a goobbue comes callin'? Slay it, an' I might consider tellin' ye more about ol' Tidus."
+    },
+    {
+      "character": "Trachtoum",
+      "text": "Eh? You again? Then that goobbue that was harassin' the millers is dead?"
+    },
+    {
+      "character": "Trachtoum",
+      "text": "Didn't think ye had it in ye, 'venturer. Still, you took forever an' a day to get the job done. I'm still not sure if I should tell you our secrets..."
+    }
+  ]
+}

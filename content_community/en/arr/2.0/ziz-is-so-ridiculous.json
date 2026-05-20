@@ -1,0 +1,32 @@
+{
+  "id": "ziz-is-so-ridiculous",
+  "wiki_path": "/wiki/Ziz_Is_So_Ridiculous",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Ziz Is So Ridiculous",
+  "level": "28",
+  "location": "North Shroud(X:21.8,Y:26.7)",
+  "npc_start": "Aideen",
+  "dialogues": [
+    {
+      "character": "Aideen",
+      "text": "So, here's what I know about the deaths: all the victims were found with their faces torn to shreds."
+    },
+    {
+      "character": "Aideen",
+      "text": "Among the local fauna, only the scalekin known as ziz could inflict such wounds. That's why some folk are pointing the finger at them."
+    },
+    {
+      "character": "Aideen",
+      "text": "I somehow doubt that the answer's that simple, but for the sake of thoroughness, we should look into it. Why don't you put down, say, three of the creatures, and see if you can find any proof connecting them to the deaths?"
+    },
+    {
+      "character": "Aideen",
+      "text": "You've already seen to the ziz? Good work, adventurer! So, were you able to find aught to suggest that the creatures are our culprits?"
+    },
+    {
+      "character": "Aideen",
+      "text": "...Nothing? Truth be told, even if there were proof, I wouldn't know what it looked like. Aaanyway, I believe we can safely strike ziz from our list of suspects. Which leaves us with...the masked man and his winged eyeball!"
+    }
+  ]
+}

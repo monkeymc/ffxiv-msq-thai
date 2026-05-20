@@ -1,0 +1,444 @@
+{
+  "id": "it-s-probably-pirates",
+  "wiki_path": "/wiki/It%27s_Probably_Pirates",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3b/It%27s_Probably_Pirates_Image.png",
+  "patch": "2.0",
+  "title": "It's Probably Pirates",
+  "level": "15",
+  "location": "Limsa Lominsa Upper Decks(X:11.6,Y:11.1)",
+  "npc_start": "Baderon",
+  "dialogues": [
+    {
+      "character": "Baderon",
+      "text": "I thank ye fer takin' the time to 'elp me out. Now, I'm sure yer busy, so I'll come straight to the point."
+    },
+    {
+      "character": "Baderon",
+      "text": "Word 'as it some suspicious lookin' buggers 'ave been sneakin' in an' out o' the Sastasha Seagrot , an' I need a trustworthy sort to 'ead up north of Aleport an' find out who they are an' what they're up to."
+    },
+    {
+      "character": "Baderon",
+      "text": "Don't sound like much, I know..."
+    },
+    {
+      "character": "Baderon",
+      "text": "But it weren't so long ago as the fishbacks ' pet pirates paid us an unwelcome visit, an' folk are feelin' a bit nervous."
+    },
+    {
+      "character": "Reyner",
+      "text": "If you would permit me, Master Baderon , I should be happy to elaborate."
+    },
+    {
+      "character": "Baderon",
+      "text": "Well, well, if it ain't the chief Yellowjacket 'imself. To what do I owe this rare honor, Commodore Reyner ? Come to make sure me patrons are behavin' -- or just thirsty?"
+    },
+    {
+      "character": "Reyner",
+      "text": "Neither, in fact. I was informed that you had requested an adventurer to assist in my investigation, and I came to offer what information I could sift from recent reports."
+    },
+    {
+      "character": "Reyner",
+      "text": "Over the course of the past moon, there have been several sightings of an unfamiliar vessel off the coast of Aleport, in the vicinity of the Isles of Umbra ."
+    },
+    {
+      "character": "Reyner",
+      "text": "This information came to my attention no more than a few weeks after a squad of my own soldiers had completed a routine patrol of the region, the Sastasha Seagrot included."
+    },
+    {
+      "character": "Reyner",
+      "text": "Their search revealed little, save that a family of coeurls had taken up residence in the caves. Nothing to concern us, in short."
+    },
+    {
+      "character": "Reyner",
+      "text": "In light of recent developments, however, it would seem wise to search Sastasha again."
+    },
+    {
+      "character": "Reyner",
+      "text": "But with the Sahagin testing our defenses daily, I am loath to assign the task to the limited forces at my disposal. Our line is stretched as it is."
+    },
+    {
+      "character": "Reyner",
+      "text": "Thus I sought the services of a competent adventurer to conduct an investigation in our stead. Any aid you can offer in this matter would be greatly appreciated."
+    },
+    {
+      "character": "Reyner",
+      "text": "Then it is settled."
+    },
+    {
+      "character": "Reyner",
+      "text": "Sastasha is located in western La Noscea . For more detailed instructions on how to reach the place, I suggest you consult V'mellpa . She can be found at the ferry docks on the lower decks."
+    },
+    {
+      "character": "Baderon",
+      "text": "You 'eard the man! Good luck to ye, lad / lass !"
+    },
+    {
+      "character": "V'mellpa",
+      "text": "You're here about Commodore Reyner's investigation? Then you'll want to board a ferry bound for Aleport."
+    },
+    {
+      "character": "V'mellpa",
+      "text": "Once you arrive in western La Noscea, though, you'd best pay a visit to the Hall of the Novice before you blunder into Sastasha."
+    },
+    {
+      "character": "V'mellpa",
+      "text": "The Adventurers' Guild runs the Hall, and the folk there will prepare you -- train you with the skill you'll need to face the dangers undoubtedly waiting for you in the Seagrot."
+    },
+    {
+      "character": "V'mellpa",
+      "text": "The Hall is on the way to Sastasha, just north of Aleport. Head inside and one of their seasoned adventurers will take you in hand. Best of luck to you, friend!"
+    },
+    {
+      "character": "Seasoned Adventurer",
+      "text": "Ah, you must be the adventurer of whom the Yellowjackets sent word. I hear you are to brave the depths of the Sastasha Seagrot."
+    },
+    {
+      "character": "Seasoned Adventurer",
+      "text": "The occupants of those caves are rumored to be as numerous as they are bloodthirsty. No matter what the epic tales would have you believe, strolling into such a den of savagery alone would be the height of foolishness. No, you shall need companions."
+    },
+    {
+      "character": "Seasoned Adventurer",
+      "text": "And you shall need the training we here at the Hall of the Novice can provide! I strongly suggest that you study the fundamentals of group combat before continuing on your mission."
+    },
+    {
+      "character": "Seasoned Adventurer",
+      "text": "The Smith here oversees the training schedules. Speak with him, and you can register for exercises tailored to your particular field of expertise."
+    },
+    {
+      "character": "Seasoned Adventurer",
+      "text": "When you have mastered all that our masters have to teach, then it will be time to head north once more. Report to the Yellowjacket scout at the mouth of the Sastasha Seagrot, and he will furnish you with the details of your duty."
+    },
+    {
+      "character": "Edda",
+      "text": "<gasp> I-I'm sorry, Avere ! I came as fast as I could! I tried haggling with the merchant, but two potions was the best I could get with the money you gave me. I had no idea how expensive they were!"
+    },
+    {
+      "character": "Avere",
+      "text": "What took ye so bloody long, Edda ? If me purse was too light, ye might've considered usin' some of yer own bleedin' coin to get us what we need!"
+    },
+    {
+      "character": "Avere",
+      "text": "Ye've only ever been as useful as the contents o' yer pockets -- the gods know ye can barely 'eal a scratch!"
+    },
+    {
+      "character": "Avere",
+      "text": "We took up the 'venturin' life to take on the big jobs an' claim the big rewards. How're we meant to do that if ye can't even get our supplies in order?"
+    },
+    {
+      "character": "Avere",
+      "text": "Hm? It's 'im / 'er -- the one Baderon was talkin' to!"
+    },
+    {
+      "character": "Avere",
+      "text": "Well, we'll see who gets the glory! This job should've been ours in the first place!"
+    },
+    {
+      "character": "Liavinne",
+      "text": "Bwahahaha! Edda, you're so slow, you'd lose a footrace to a tree slug."
+    },
+    {
+      "character": "Paiyo Reiyo",
+      "text": "This is perfect for our inaugural outing as a party -- wandering around in the caves, turning over a few rocks... How difficult could it possibly be? I never expected our first visit to the Adventurers' Guild would yield such a straightforward way to win fame and fortune."
+    },
+    {
+      "character": "Isildaure",
+      "text": "Ah, a fellow adventurer. You, too, are here to unravel the mysteries of Sastasha? I have adventured across this wide realm for more seasons than I dare to count, yet still Eorzea manages to surprise me with her beauty and splendor. Our journeys are not ended by the attainment of riches or fame. It is an unquenchable thirst for the unknown that drives us into the wilds time and again. Even if I explored the world for a thousand years, I would never grow weary of this life."
+    },
+    {
+      "character": "Alianne",
+      "text": "Grandfather and I are companions on the road. We travel where the wind takes us, and drink in all the wonders this world has to offer. Only an adventurer can understand the joy of such freedom -- of discovering hidden places and experiencing sights and sounds that few may ever know. The passing years have begun to take their toll on the old man, but no force save death itself will sate his appetite for adventure!"
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "Please tell me you're here on Yellowjacket duty, and not some daft sod out for a stroll. I can't take any more of this blasted waiting. You are? Thank the gods."
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "I assume you already know about the ship seen slipping around the Isles of Umbra?"
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "We've been on the lookout for pirate activity ever since that vessel was sighted, thinking a crew of cutthroats might have a den nearby."
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "So when we received word that men of questionable quality had been seen passing in and out of Sastasha here, we weren't entirely surprised."
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "I've yet to see them for myself, but if this lot belongs to those fishback-fancying Serpent Reavers..."
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "Well, you can imagine the panic it'll cause. The kidnappings are still fresh in people's minds."
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "Anyway, your task is to poke around in the caves, and find out exactly who we're dealing with. While you do that, I'll be keeping watch out here... praying you don't spot any blue face tattoos."
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "The fishbacks and their Serpent Reaver lackeys cannot be allowed to establish a permanent base in these lands. You must uncover the truth behind who or what is lurking in these caves, adventurer. The peace of western La Noscea may depend on it!"
+    },
+    {
+      "character": "Eager Marauder",
+      "text": "This is it."
+    },
+    {
+      "character": "Eager Conjurer",
+      "text": "This cavern is strangely beautiful."
+    },
+    {
+      "character": "Bloody Memo",
+      "text": "You find a bloodstained scrap of parchment with a message scrawled upon it in faded ink."
+    },
+    {
+      "character": "Bloody Memo",
+      "text": "\"The Capten lykes his wyne Redd.\""
+    },
+    {
+      "character": "Bloody Memo",
+      "text": "\"The Capten lykes his sees Bloo.\""
+    },
+    {
+      "character": "Bloody Memo",
+      "text": "\"The Capten lykes his cabege Green.\""
+    },
+    {
+      "character": "Eager Marauder",
+      "text": "An ambush!?"
+    },
+    {
+      "character": "Eager Conjurer",
+      "text": "The door's guardian, no doubt."
+    },
+    {
+      "character": "Captain Madison",
+      "text": "How did ye find this place!?"
+    },
+    {
+      "character": "Bird",
+      "text": "Squawk!"
+    },
+    {
+      "character": "Captain Madison",
+      "text": "Me loyal pups!"
+    },
+    {
+      "character": "Bird",
+      "text": "Cap'n is strong! Cap'n is strong! Squawk!"
+    },
+    {
+      "character": "Bird",
+      "text": "Scurvy dog! Scurvy dog! Squawk!"
+    },
+    {
+      "character": "Bird",
+      "text": "Batten down the hatches! Batten down the hatches! Squawk!"
+    },
+    {
+      "character": "Captain Madison",
+      "text": "Come closer. I'll slit your throat and toss yer corpse to the mad serpent."
+    },
+    {
+      "character": "Captain Madison",
+      "text": "Wh-where are my men?! Wh-where are my maidens?!"
+    },
+    {
+      "character": "Captain Madison",
+      "text": "Try 'n catch me, you two-legged lubber!"
+    },
+    {
+      "character": "Bird",
+      "text": "Two legged lubber! Two legged lubber! Squawk!"
+    },
+    {
+      "character": "Eager Lancer",
+      "text": "Hmph. The coward ran off."
+    },
+    {
+      "character": "Eager Conjurer",
+      "text": "Where has he run off to...? Best we keep on our guard."
+    },
+    {
+      "character": "Lalafell Maidens",
+      "text": "You must save us!"
+    },
+    {
+      "character": "Lalafell Maidens",
+      "text": "Who are you!?"
+    },
+    {
+      "character": "Miqo'te Maidens",
+      "text": "I'm not one of them! I swear it on what little remains of my virtue!"
+    },
+    {
+      "character": "Miqo'te Maiden",
+      "text": "What shall it be tonight, Cap- You're not the captain!"
+    },
+    {
+      "character": "Deckhand's Quarters Pirate",
+      "text": "Get them gropers off me grog!"
+    },
+    {
+      "character": "Deckhand's Quarters Pirate",
+      "text": "Sod off! I drink what I want."
+    },
+    {
+      "character": "Deckhand's Quarters Pirate",
+      "text": "I'll cut ye a new gob so's that ye can drink all grog ye like!"
+    },
+    {
+      "character": "Deckhand's Quarters Pirate",
+      "text": "Not before I cut you a new piss'ole!"
+    },
+    {
+      "character": "The Hole Lalafell Maiden",
+      "text": "I don't think I can last another night in the Deckhand's Quarters..."
+    },
+    {
+      "character": "The Hole Lalafell Maiden",
+      "text": "Forgive me, my lord! I did not mean to offend!"
+    },
+    {
+      "character": "The Hole Lalafell Maiden",
+      "text": "Am I... free?"
+    },
+    {
+      "character": "The Hole Miqo'te Maiden",
+      "text": "Thank the Twelve! This nightmare is over!"
+    },
+    {
+      "character": "The Hole Miqo'te Maiden",
+      "text": "Please, milord, I'm ever so sore..."
+    },
+    {
+      "character": "The Hole Miqo'te Maiden",
+      "text": "Mother... Father... What did I do to deserve this?"
+    },
+    {
+      "character": "Captain Madison",
+      "text": "Back for more, eh? I sharpened me blade, just fer this very occasion."
+    },
+    {
+      "character": "Bird",
+      "text": "Squawk!"
+    },
+    {
+      "character": "Captain Madison",
+      "text": "What do you see now? Nothin'! Nothin' at all! (Accuracy Down)"
+    },
+    {
+      "character": "Captain Madison",
+      "text": "Eat 'em alive! (Dogs)"
+    },
+    {
+      "character": "Captain Madison",
+      "text": "M-M-Might ye consider a parley?"
+    },
+    {
+      "character": "Bird",
+      "text": "Parley! Parley! Squawk!"
+    },
+    {
+      "character": "Eager Thaumaturge",
+      "text": "He won't escape next time!"
+    },
+    {
+      "character": "Captain Madison",
+      "text": "The boss ain't goin' to like this one bit..."
+    },
+    {
+      "character": "Denn the Orcatoothed",
+      "text": "Pshhh! Finleshhh fools!"
+    },
+    {
+      "character": "Denn the Orcatoothed",
+      "text": "The Lord of the Whorl shhhall sssup upon your sssouls!"
+    },
+    {
+      "character": "Eager Marauder",
+      "text": "Surely, he's no match for us."
+    },
+    {
+      "character": "Baderon",
+      "text": "Aye, such a task was on the books. \"Was,\" mind. I'm afraid that ship 'as already sailed, friend."
+    },
+    {
+      "character": "Dolorous Bear",
+      "text": "Ah. Might you be the adventurer who accepted the job of investigating Sastasha?"
+    },
+    {
+      "character": "Dolorous Bear",
+      "text": "Hmph. It would seem that ship has not only sailed, but now returns to harbor, none the worse for its voyage. A pity. We dragged our boots too long on this one."
+    },
+    {
+      "character": "E'manafa",
+      "text": "No matter. The wheel will turn and our chance will come."
+    },
+    {
+      "character": "Dolorous Bear",
+      "text": "You are right, of course. But there shall be no rest till we have attained our goal, lofty though it may be!"
+    },
+    {
+      "character": "Kikina",
+      "text": "Not a wink of sleep, great leader!"
+    },
+    {
+      "character": "Dolorous Bear",
+      "text": "Our aim, lest you wonder, is to perform such feats of heroism as will earn us a place in the songs of every alehouse in Eorzea . We mean to write a legend which will inspire adventurers as yet unborn to follow our shining example."
+    },
+    {
+      "character": "Dolorous Bear",
+      "text": "Do you have such a goal? Large or small, it matters not. Only have a star to reach for and you will reach higher."
+    },
+    {
+      "character": "Dolorous Bear",
+      "text": "Purpose can sustain you through times of hardship. Keep your eye on the prize, and all obstacles will be overcome in time. You would not think to stride into battle unclad, would you? Well, goals are as arms and armor for the spirit! I wish you fortune in your endeavors, sir / madam !"
+    },
+    {
+      "character": "Baderon",
+      "text": "Back then, are ye? With all yer limbs, an' a tale to tell, I wager."
+    },
+    {
+      "character": "Baderon",
+      "text": "Fishbacks? An' there I was thinkin' ye'd only 'ave to crack a pirate skull or three. Seven hells... Ye turn yer back fer five bloody minutes, an' the scaly bastards've set up shop on yer bleedin' doorstep..."
+    },
+    {
+      "character": "Baderon",
+      "text": "Still, sounds like ye left 'em in pieces, so I don't s'pose they'll be carryin' out whatever mischief they was plannin' -- unless they was plannin' on feedin' 'emselves to the fauna o' Sastasha, o' course. Anyroad, all's well that ends well!"
+    },
+    {
+      "character": "Baderon",
+      "text": "On behalf o' Limsa, I thank ye fer sheddin' some light on this mystery. Ye've lived up to yer reputation, an' I couldn't ask fer no more'n that."
+    },
+    {
+      "character": "Baderon",
+      "text": "Now, I'll bet yer dyin' fer a rest, but just in case yer not, I was wonderin' if ye might be interested in takin' on another job? It just so 'appens that I've 'ad a request from our sister guild in Gridania , see."
+    },
+    {
+      "character": "Baderon",
+      "text": "Seems the forest folk're in need of a 'venturer what can get things done."
+    },
+    {
+      "character": "Baderon",
+      "text": "Fer them to ask fer 'elp like this, ye can bet the task won't be no skip through a sunny glade. But after the way ye dealt with our fishback infestation, I doubt it's anythin' ye can't 'andle."
+    },
+    {
+      "character": "Baderon",
+      "text": "Give us a shout when yer ready, an' I'll lay it our fer ye."
+    },
+    {
+      "character": "V'mellpa",
+      "text": "You're here about Commodore Reyner's investigation? Then you'll want to board a ferry bound for Aleport."
+    },
+    {
+      "character": "V'mellpa",
+      "text": "Once you arrive in western La Noscea, head to the north and you'll come across the Sastasha Seagrot soon enough. We have a scout stationed by the entrance to the cave with orders to brief you on the situation."
+    },
+    {
+      "character": "V'mellpa",
+      "text": "Whatever else he tells you, be ready for pirates. There's never any shortage of the bastards. This is Limsa Lominsa we're talking about..."
+    }
+  ]
+}

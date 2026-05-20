@@ -1,0 +1,300 @@
+{
+  "id": "underneath-the-sultantree",
+  "wiki_path": "/wiki/Underneath_the_Sultantree",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/b3/Underneath_the_Sultantree_Image.png",
+  "patch": "2.0",
+  "title": "Underneath the Sultantree",
+  "level": "5",
+  "location": "Central Thanalan(X:22.9,Y:27.8)",
+  "npc_start": "Papashan",
+  "dialogues": [
+    {
+      "character": "Papashan",
+      "text": "Forename , I have just this moment─ No! No, the time for concealment is past! The truth is, even before I had you deliver those pretzels, I was privy to some most unsettling news!"
+    },
+    {
+      "character": "Papashan",
+      "text": "...Which is the real reason I sent you to meet those Sultansworn."
+    },
+    {
+      "character": "Papashan",
+      "text": "A young noblewoman from a very prestigious family has run away from home, and I have been ordered to see to her safe return."
+    },
+    {
+      "character": "Papashan",
+      "text": "The Sultansworn you met earlier are assisting with the search. Alas, it seems they have found no trace of her."
+    },
+    {
+      "character": "Papashan",
+      "text": "I apologize for not being frank with you from the start, but we must proceed with caution─should word of her disappearance spread, I fear others with less honorable motives may join the hunt."
+    },
+    {
+      "character": "Papashan",
+      "text": "And should we allow her to come to any harm, not even a hundred beheadings would be punishment enough..."
+    },
+    {
+      "character": "Papashan",
+      "text": "That cannot happen, Forename . It must not!"
+    },
+    {
+      "character": "Papashan",
+      "text": "I need you to help me find her!"
+    },
+    {
+      "character": "Papashan",
+      "text": "Praise the Twelve, I knew I could count on you!"
+    },
+    {
+      "character": "Papashan",
+      "text": "I've instructed the others to expand the search, but Thanalan is vast and there are only so many of us."
+    },
+    {
+      "character": "Papashan",
+      "text": "The young noblewoman's name is Lady Lilira. I want you to go south and look for her in the vicinity of the Sultantree. Good luck!"
+    },
+    {
+      "character": "Hooded Lalafell",
+      "text": "O Sultantree..."
+    },
+    {
+      "character": "Lilira",
+      "text": "O Sultantree, hallowed spirit of my line, forgive my weakness. My failings have cost us dear..."
+    },
+    {
+      "character": "Lilira",
+      "text": "Show yourself!"
+    },
+    {
+      "character": "???",
+      "text": "As you command, O Lilira."
+    },
+    {
+      "character": "???",
+      "text": "Forgive my selfish desire to assure your welfare."
+    },
+    {
+      "character": "Lilira",
+      "text": "I don't recall requesting an escort! Simply pretend we never met and continue on your way."
+    },
+    {
+      "character": "???",
+      "text": "We both know I can do no such thing. It isn't safe for you here alone."
+    },
+    {
+      "character": "???",
+      "text": "It isn't safe for anyone─not with this aetheric disturbance... It's as though the dead are watching us..."
+    },
+    {
+      "character": "???",
+      "text": "And I'd prefer not to join them, if it's all the same to you."
+    },
+    {
+      "character": "???",
+      "text": "Ah, you must be the one that Papashan mentioned. Congratulations on finding our elusive young charge."
+    },
+    {
+      "character": "???",
+      "text": "You'll have to forgive Her Impetuousness. What she lacks in discipline, she makes up for in stubbornness."
+    },
+    {
+      "character": "???",
+      "text": "You should return with us. The stationmaster will be eager to thank Lady Lilira's protector in person."
+    },
+    {
+      "character": "???",
+      "text": "Alas, the stationmaster will have to wait."
+    },
+    {
+      "character": "???",
+      "text": "Dear Lilira, for my sake, please stay out of harm's way."
+    },
+    {
+      "character": "???",
+      "text": "As for you, dear friend─for Lilira's sake─please stay in harm's way!"
+    },
+    {
+      "character": "Handsome Stranger",
+      "text": "Come, let's attend to our uninvited guest!"
+    },
+    {
+      "character": "Handsome Stranger",
+      "text": "Lovely, it brought friends!"
+    },
+    {
+      "character": "Handsome Stranger",
+      "text": "Leave the big one to me! You handle the rest!"
+    },
+    {
+      "character": "Handsome Stranger",
+      "text": "Stay close if you want me to heal you!"
+    },
+    {
+      "character": "Handsome Stranger",
+      "text": "More of them!? Really now, there are limits to our hospitality!"
+    },
+    {
+      "character": "Handsome Stranger",
+      "text": "Just a little more..."
+    },
+    {
+      "character": "Handsome Stranger",
+      "text": "Pull yourself together!"
+    },
+    {
+      "character": "???",
+      "text": "Hear... Feel... Think..."
+    },
+    {
+      "character": "???",
+      "text": "Crystal bearer..."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "I am Hydaelyn. All made one."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "A light there once was, that shone throughout the realm."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Yet it has since grown dim."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "For the sake of all, I beseech thee; deliver us from this fate!"
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "The power to banish the Darkness dwelleth in the Crystals of Light. Journey forth, and lay claim to them."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Go now, my child, and shine thy light on all creation."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "By thy deeds with the crystals reveal themselves to thee. For the light liveth in they heart."
+    },
+    {
+      "character": "???",
+      "text": "Ah, coming around now."
+    },
+    {
+      "character": "Lilira",
+      "text": "Would you mind telling me what that was?"
+    },
+    {
+      "character": "???",
+      "text": "If I only knew. A denizen of the void, at any rate."
+    },
+    {
+      "character": "Lilira",
+      "text": "The voidsent? Here? But how?"
+    },
+    {
+      "character": "???",
+      "text": "The question isn't “how,” but “who”─we're not dealing with bookless bandits."
+    },
+    {
+      "character": "???",
+      "text": "Don't suppose the answer came to you in a dream?"
+    },
+    {
+      "character": "???",
+      "text": "No sooner did you fell the beast than you fell asleep. Too much aether, no doubt."
+    },
+    {
+      "character": "???",
+      "text": "Interesting... I hadn't considered the Crystal."
+    },
+    {
+      "character": "???",
+      "text": "But of course... This changes everything."
+    },
+    {
+      "character": "???",
+      "text": "Hm? Oh, just thinking aloud. At any rate, we haven't a moment to spare. I must return and report this at once."
+    },
+    {
+      "character": "???",
+      "text": "I leave Lady Lilira in your capable hands!"
+    },
+    {
+      "character": "Lilira",
+      "text": "How dare you pass me about like a swaddled babe!"
+    },
+    {
+      "character": "Lilira",
+      "text": "I shall return and tell them myself !"
+    },
+    {
+      "character": "???",
+      "text": "As you wish, Your Impetuousness."
+    },
+    {
+      "character": "???",
+      "text": "I suspect we shall meet again before long."
+    },
+    {
+      "character": "???",
+      "text": "Until then, do try and stay awake!"
+    },
+    {
+      "character": "Papashan",
+      "text": "Thank the gods you've returned! You had us all so worried!"
+    },
+    {
+      "character": "Papashan",
+      "text": "You do realize what would happen if a person of your noble stature were to be injured─or worse?"
+    },
+    {
+      "character": "Papashan",
+      "text": "Why, Her Grace the sultana would be beside herself with grief─and so would her subjects! I daresay they'd be weeping in the streets!"
+    },
+    {
+      "character": "Lilira",
+      "text": "But I have already given you cause to weep, Papashan...you and the people of Ul'dah..."
+    },
+    {
+      "character": "Papashan",
+      "text": "Please, Your─ You're not to say such things! We will find it, I swear to you!"
+    },
+    {
+      "character": "Papashan",
+      "text": "It is not my place to make demands, m-my lady, but I beg you, please stay out of harm's way."
+    },
+    {
+      "character": "Lilira",
+      "text": "...I apologize for causing you undue worry, Papashan. I shall refrain from traveling unescorted in future."
+    },
+    {
+      "character": "Papashan",
+      "text": "I cannot thank you enough, Forename !"
+    },
+    {
+      "character": "Papashan",
+      "text": "I understand you fought bravely to protect Lady Lilira from voidsent fiends."
+    },
+    {
+      "character": "Papashan",
+      "text": "For your gallant service, you deserve all the riches in the royal vaults. Alas, a small token of my gratitude is the best I can offer."
+    },
+    {
+      "character": "Papashan",
+      "text": "...Hm? A sarcastic man with a strange contraption strapped to his shoulder?"
+    },
+    {
+      "character": "Papashan",
+      "text": "I see you met Thancred. He's a scholar who spends his days investigating oddities in the aether. Rather too fond of the sound of his own voice for my liking, but perfectly harmless."
+    },
+    {
+      "character": "Papashan",
+      "text": "As for you, Forename ─you're just the sort of adventurer we need around here."
+    },
+    {
+      "character": "Papashan",
+      "text": "I pray you show the same kindness to the people of Thanalan as you did to us today."
+    }
+  ]
+}

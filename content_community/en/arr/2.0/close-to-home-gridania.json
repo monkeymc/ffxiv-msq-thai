@@ -1,0 +1,324 @@
+{
+  "id": "close-to-home-gridania",
+  "wiki_path": "/wiki/Close_to_Home_(Gridania)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/c/c1/Close_to_Home_%28Gridania%29_Image.png",
+  "patch": "2.0",
+  "title": "Close to Home",
+  "level": "1",
+  "location": "New Gridania(X:11,Y:13)",
+  "npc_start": "Mother Miounne",
+  "dialogues": [
+    {
+      "character": "Mother Miounne",
+      "text": "Let us begin at the beginning, shall we? Now that you are a formal member of the Adventurers' Guild, we must be sure you have a firm grasp of the fundamentals of adventuring. To that end, I have three tasks I wish you to perform."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Your first task is to visit the aetheryte. This massive crystal stands in the middle of the aetheryte plaza, not far from the Carline Canopy."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "As a device that enables instantaneous transportation, the aetheryte plays a key role in the life of the ever-wandering adventurer."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Once you have located the crystal, all you need do is touch its surface. A member of the Wood Wailers will be present to offer further instruction."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "For your second task, you are to visit the Conjurers' Guild."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "There is no better place to learn the arts of conjury. Speak with Madelle , and she will explain the benefits of joining the guild."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "For your second task, you are to visit the Archers' Guild."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "There is no better place to learn the arts of the bow. Speak with Athelyna , and she will explain the benefits of joining the guild."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "For your second task, you are to visit the Lancers' Guild."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "There is no better place to learn the arts of the polearm. Speak with Jillian , and she will explain the benefits of joining the guild."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "For your third and final task, I would have you visit the markets at the heart of Old Gridania 's commercial district. There you shall find weapons and armor, and all the various items that an adventurer might need on his / her travels."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "There is, however, more to the markets than buying and selling goods. Speak with Parsemontret , and listen well to his counsel."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "The master merchant can be...uncooperative at times, so be sure to offer him one of my famous eel pies. Like so many men, he is much more charitable when his stomach is full. Here, I made a batch not long ago."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "You have your tasks, Forename . May Nophica guide your path."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Ah, and one more thing: should you happen to come across any citizens in need, don't be afraid to proffer a helping hand. I am certain they will be pleased to meet an adventurer in whom they can confide their woes."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Granted, the work they offer is unlikely to be of realm-shattering importance─but prove your worth and build a reputation, and in time folk will be more inclined to entrust you with matters of moment."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "I also suggest that you lend an ear to the Smith here in the Canopy. The Smiths are trusted representatives of the Adventurers' Guild, and are an invaluable source of advice for neophyte heroes seeking to attain greatness."
+    },
+    {
+      "character": "Nicia",
+      "text": "Greetings, adventurer. I see you are faithfully following Mother Miounne's instructions."
+    },
+    {
+      "character": "Nicia",
+      "text": "Allow me to offer you a bit of instruction myself. I am Nicia of the Wood Wailers, and I know a thing or two about the aetheryte─yes, that big crystal right there."
+    },
+    {
+      "character": "Nicia",
+      "text": "Aetherytes are devices that tap into aetherial energies, and are primarily used as a means to travel swiftly from one place to another."
+    },
+    {
+      "character": "Nicia",
+      "text": "Return and Teleport─the most common transportation spells─make direct use of the aetherytes and their connection to the flow of aether."
+    },
+    {
+      "character": "Nicia",
+      "text": "And as these devices are found in almost every corner of Eorzea, any adventurer worthy of the name will wish to seek out and attune himself / herself to each one."
+    },
+    {
+      "character": "Nicia",
+      "text": "Truly, few things in this world are so useful to an intrepid explorer."
+    },
+    {
+      "character": "Nicia",
+      "text": "But you need not locate them all at once. Before rushing out into the wilds, I suggest you start with the aetherytes found here in Gridania."
+    },
+    {
+      "character": "Nicia",
+      "text": "Should you wish to learn more about the aetheryte or transportation magic, I am here to answer your questions."
+    },
+    {
+      "character": "Madelle",
+      "text": "You seek the secrets of conjury, adventurer? Then search no longer, for you have found your way to the Conjurers' Guild."
+    },
+    {
+      "character": "Madelle",
+      "text": "It is at Miounne's request that you have come? Then allow me to provide you with an overview of what it is to be a conjurer."
+    },
+    {
+      "character": "Madelle",
+      "text": "Conjury is the art of healing and purification. Its practitioners harness the power of nature, that they might bring about change in the form of spells."
+    },
+    {
+      "character": "Madelle",
+      "text": "Primitive magic such as that once wrought by individuals known as mages─meaning those with the ability to manipulate aether─has existed since the dawn of time."
+    },
+    {
+      "character": "Madelle",
+      "text": "It was not until some five centuries ago that conjury emerged from this shapeless agglomeration of spells and charms─an event which led to the founding of Gridania."
+    },
+    {
+      "character": "Madelle",
+      "text": "In those dark days, the elementals would not suffer man's presence in the Twelveswood, forcing our forebears to make their homes beneath the earth, in the great subterranean city of Gelmorra."
+    },
+    {
+      "character": "Madelle",
+      "text": "But their desire to settle in the Twelveswood continued to burn fiercely; time and again they sought to curry the elementals' favor."
+    },
+    {
+      "character": "Madelle",
+      "text": "Unlike men and other creatures bound in temples of flesh, the elementals are beings of pure aether. Recognizing this, the mages of eld reasoned that their talent for aetheric manipulation might allow them to commune with these theretofore enigmatic entities."
+    },
+    {
+      "character": "Madelle",
+      "text": "It took five long decades, but our forebears finally succeeded. Their reward: the elementals' permission to dwell in the Twelveswood. So it was that the nation of Gridania was born."
+    },
+    {
+      "character": "Madelle",
+      "text": "Since that time, the elementals have taught us to live as one with nature, speaking to all Gridanians through the Hearers─those mages who are able to commune with them."
+    },
+    {
+      "character": "Madelle",
+      "text": "And for their intimacy with the elementals, the Hearers would go on to attain greater mastery over the forces of nature. Thus did they conceive the art of conjury."
+    },
+    {
+      "character": "Madelle",
+      "text": "I hope this has helped you gain a greater understanding of the Conjurers' Guild."
+    },
+    {
+      "character": "Madelle",
+      "text": "Should you wish to delve further into the mysteries of conjury, then I urge you to consider joining our ranks."
+    },
+    {
+      "character": "Madelle",
+      "text": "I can begin your initiation whenever you desire. Call upon me when you are ready to take the first step."
+    },
+    {
+      "character": "Athelyna",
+      "text": "Greetings, friend. You have found your way to the Archers' Guild. Do you seek to uncover the secrets of our art?"
+    },
+    {
+      "character": "Athelyna",
+      "text": "Ah, now that I think on it, you have the look of one who has received Mother Miounne's “gentle” instruction. Very well, I shall give you a brief introduction to archery and the Archers' Guild."
+    },
+    {
+      "character": "Athelyna",
+      "text": "The skills practiced by our archers allow them to gauge an enemy's weaknesses from afar, and turn the tide of a battle with a single, well-placed arrow. Should you join us, you will be taught to do the same."
+    },
+    {
+      "character": "Athelyna",
+      "text": "Archery as practiced in Gridania was born of two distinct styles of bowmanship."
+    },
+    {
+      "character": "Athelyna",
+      "text": "The first was devised by the longbow sentries of the Elezen who once ruled the lowlands, while the second belonged to the shortbow hunters of the formerly nomadic Miqo'te. As you will doubtless be aware, both races ultimately came to call the Twelveswood home."
+    },
+    {
+      "character": "Athelyna",
+      "text": "Though the two peoples began as rivals, they gradually learned to live together in harmony. During this time, they learned from one another, their two schools of archery intermingling to give birth to the art as it is known today."
+    },
+    {
+      "character": "Athelyna",
+      "text": "For a time, the bow was used primarily for hunting. But as the hunters vied with one another to prove who was the better shot, there emerged a group of archers whose ultimate goal lay not in the practical pursuit of prey, but in perfection."
+    },
+    {
+      "character": "Athelyna",
+      "text": "Thus was the Archers' Guild born from the ranks of the Trappers' League."
+    },
+    {
+      "character": "Athelyna",
+      "text": "It is the way of the guild to promote greatness in archery through friendly competition. And the results of our methods can be seen in the vaunted archers of the Gods' Quiver, many of whom spent their formative years loosing arrows at the guild's practice butts."
+    },
+    {
+      "character": "Athelyna",
+      "text": "I hope this gives you a better idea of who we are, and what we do here. Oho, did I see the spark of ambition flare within your eyes?"
+    },
+    {
+      "character": "Athelyna",
+      "text": "If you wish to draw a string with the finest archers in Eorzea, look no further than the Archers' Guild."
+    },
+    {
+      "character": "Athelyna",
+      "text": "Before you can enlist, however, you must gain the approval of the guildmaster. Once you are ready to proceed, speak with me again and we can begin seeing about your enrollment."
+    },
+    {
+      "character": "Jillian",
+      "text": "Welcome to the Lancers' Guild. I see you brought your own spear."
+    },
+    {
+      "character": "Jillian",
+      "text": "If you seek to refine your skills with the polearm, then you have come to the right place."
+    },
+    {
+      "character": "Jillian",
+      "text": "Here at the Lancers' Guild, spear wielders gather to train with one another, and further hone their abilities under the tutelage of our fine instructors."
+    },
+    {
+      "character": "Jillian",
+      "text": "More than just an instrument of war, the spear is also a tool for hunting, and with game ever plentiful in the Twelveswood, the weapon has been the mainstay of the locals here since before the founding of Gridania."
+    },
+    {
+      "character": "Jillian",
+      "text": "With the passing of time, our nation became a gathering place for spearmasters from across the realm─many eager to test their mettle against the famed might of our Wood Wailers."
+    },
+    {
+      "character": "Jillian",
+      "text": "And it was here in Gridania that their myriad fighting styles came into contact, eventually giving rise to the art taught here today."
+    },
+    {
+      "character": "Jillian",
+      "text": "That spear technique could be formalized at all owed much to the founding of the Lancers' Guild by Wood Wailer captain Mistalle nigh on a century past."
+    },
+    {
+      "character": "Jillian",
+      "text": "The tradition of accepting students from without as well as within Gridania's borders persists to this day, ensuring that the art of the polearm may not only survive, but also continue to evolve."
+    },
+    {
+      "character": "Jillian",
+      "text": "Well, there you have it. I hope this brief history of the guild has helped settle any doubts in your mind."
+    },
+    {
+      "character": "Jillian",
+      "text": "The Lancers' Guild is always eager to welcome new initiates."
+    },
+    {
+      "character": "Jillian",
+      "text": "If you've a will to enlist, speak with me again and we can begin the enrollment procedures."
+    },
+    {
+      "character": "Parsemontret",
+      "text": "By what right does a fledgling adventurer presume to address Parsemontret, master of the markets?"
+    },
+    {
+      "character": "Parsemontret",
+      "text": "You think you can stroll in here, bold as you please, and demand my hard-earned knowledge? Hah! A merchant does naught for naught, especially when dealing with would-be heroes."
+    },
+    {
+      "character": "Parsemontret",
+      "text": "If, on the other hand, you had some tasty “morsel” to curry my favor, then I might reconsider your request."
+    },
+    {
+      "character": "Parsemontret",
+      "text": "Come now, this whole encounter reeks of Miounne's handiwork─and more specifically her baking . Don't look so surprised, son / lass ─I smelled that eel pie of yours a malm away. Hand it over!"
+    },
+    {
+      "character": "Parsemontret",
+      "text": "Mmm, that flaky crust...just divine. Very well, I am a man of my word. Pay close attention, for I shall only explain this once."
+    },
+    {
+      "character": "Parsemontret",
+      "text": "The aspiring adventurer need look no further than the Rosewood and Ebony Stalls. Both are but a short stroll from where we stand."
+    },
+    {
+      "character": "Parsemontret",
+      "text": "If you mean to do battle, you'd best be prepared with a quality set of weapons and armor."
+    },
+    {
+      "character": "Parsemontret",
+      "text": "Such goods are the province of the Rosewood Stalls, directly south of here. You will be pleased to learn that the merchants of Gridania are exceedingly particular when it comes to craftsmanship, so you needn't fear defective straps and the like."
+    },
+    {
+      "character": "Parsemontret",
+      "text": "If it is potions and paraphernalia you seek, head north to the Ebony Stalls."
+    },
+    {
+      "character": "Parsemontret",
+      "text": "The shelves there are lavishly stocked by widely traveled Ul'dahn merchants, and I may truly say that I have seen things amongst their myriad wares that I scarce knew existed."
+    },
+    {
+      "character": "Parsemontret",
+      "text": "Do you follow me thus far? The first step in any purchase is to select the stalls that meet your needs. Then you may concern yourself with price and profit."
+    },
+    {
+      "character": "Parsemontret",
+      "text": "There is little more I can teach you with mere words. Go, peruse the stalls, and see for yourself what wares they offer. There is no substitute for firsthand experience, after all, and I am weary of talking...unless you have another eel pie?"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "The conquering hero returns. You have completed my little tasks, I trust?"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "The three locations you visited will feature prominently in your life as an adventurer─it is best you grow familiar with them as soon as possible."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "And you took the time to listen to the woes of the citizenry? I cannot emphasize enough how important it is to lend your talents to one and all, no matter how trivial the matter may seem."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "I am thankful that you are an obliging sort, Forename . It is adventurers like you who will win the hearts of the locals and pave the way for those who follow. I pray Gridania can rely on your aid in its struggles to come."
+    }
+  ]
+}

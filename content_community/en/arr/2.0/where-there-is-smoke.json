@@ -1,0 +1,56 @@
+{
+  "id": "where-there-is-smoke",
+  "wiki_path": "/wiki/Where_There_Is_Smoke",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/f1/Where_There_Is_Smoke_Image.png",
+  "patch": "2.0",
+  "title": "Where There Is Smoke",
+  "level": "25",
+  "location": "Eastern Thanalan(X:20.2,Y:21.3)",
+  "npc_start": "Hihibaru",
+  "dialogues": [
+    {
+      "character": "Hihibaru",
+      "text": "I've finally got some honest-to-gods information on your masked man! This time, it's the real thing, I swear! Why so confident? Because I saw him with my own two eyes!"
+    },
+    {
+      "character": "Hihibaru",
+      "text": "I was out for an evening stroll, minding my own business, when I noticed a column of smoke rising from a cliff over at Thal's Respite . Curious, I took myself there to find a masked man -- your masked man, I'm sure of it -- standing by a fire."
+    },
+    {
+      "character": "Hihibaru",
+      "text": "As if in answer, some Qiqirn appeared soon after, and the group began talking at length. I'm afraid I was too far out of earshot to hear much of anything."
+    },
+    {
+      "character": "Hihibaru",
+      "text": "After the group had dispersed, an idea came to me: if you were to use this smoldering coal to start a fire, you might be able to arrange a similar meeting. It will be dangerous, I shouldn't doubt, but you've proven yourself more than a match for a pack of rats."
+    },
+    {
+      "character": "Hihibaru",
+      "text": "So, what do you think? That's some sound, reliable information, even if I do say so myself. Well worth all the lingering about you've been doing, wouldn't you say?"
+    },
+    {
+      "character": "Hihibaru",
+      "text": "Back so soon? Were you able to find any clues leading to your masked man?"
+    },
+    {
+      "character": "Hihibaru",
+      "text": "<gasp> Th-This scroll! It bears a prayer to Rhalgr , the Destroyer!"
+    },
+    {
+      "character": "Hihibaru",
+      "text": "In case you're unfamiliar, Rhalgr is the guardian deity of Ala Mhigo , which is currently under Garlean rule."
+    },
+    {
+      "character": "Hihibaru",
+      "text": "It's highly uncommon for folk of other nations to revere Him. I'd wager my last gil that your assailant was Ala Mhigan."
+    },
+    {
+      "character": "Hihibaru",
+      "text": "It seems this masked man of yours is very well connected. I must confess, the merchant in me envies such a diverse network of contacts."
+    },
+    {
+      "character": "Hihibaru",
+      "text": "That selfsame merchant also senses danger ahead... and darkness besides. Are you certain you'd rather not take things nice and slow here at Highbridge ?"
+    }
+  ]
+}

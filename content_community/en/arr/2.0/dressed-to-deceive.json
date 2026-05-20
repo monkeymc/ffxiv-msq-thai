@@ -1,0 +1,256 @@
+{
+  "id": "dressed-to-deceive",
+  "wiki_path": "/wiki/Dressed_to_Deceive",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/08/Dressed_to_Deceive_Image.png",
+  "patch": "2.0",
+  "title": "Dressed to Deceive",
+  "level": "19",
+  "location": "Eastern Thanalan(X:13.9,Y:23.6)",
+  "npc_start": "Isembard",
+  "dialogues": [
+    {
+      "character": "Isembard",
+      "text": "I'm afraid I have not seen any unusual activity. Nor have any at this camp given me cause to doubt them. But unless we can identify the culprit, and soon, more innocents will fall victim..."
+    },
+    {
+      "character": "Thancred",
+      "text": "Do not despair just yet, my friend. An idea occurs to me."
+    },
+    {
+      "character": "Thancred",
+      "text": "Our suspect has been posing as a priest, using leaflets bearing false promises to lure the poor. Let Forename and me serve like with like by posing as impoverished souls in need of succor."
+    },
+    {
+      "character": "Isembard",
+      "text": "Ah, I dare to hope that this will yield us the answers we seek. It will be a dangerous undertaking, but you two are more than capable of looking after yourselves."
+    },
+    {
+      "character": "Isembard",
+      "text": "I'm next to useless in a battle, but I can supply the garments for the disguise. These old tunics and slops should serve your needs, so long as you don't mind the smell and the stains."
+    },
+    {
+      "character": "Thancred",
+      "text": "These will serve very well. You have my thanks."
+    },
+    {
+      "character": "Thancred",
+      "text": "Listen, Forename . So as to lay the foundation for our little ploy, we must make it widely known that more vagrants have arrived at camp and are desperate for coin."
+    },
+    {
+      "character": "Thancred",
+      "text": "To this end, I want you to don the old garments Isembard has lent us, and beg for work around the camp. Before long, the false priest should catch wind and approach us."
+    },
+    {
+      "character": "Thancred",
+      "text": "I want you to don the old garments Isembard has lent us, and beg for work around the camp. Before long, the false priest should catch wind and approach us."
+    },
+    {
+      "character": "Thancred",
+      "text": "In case you misplace the tunic and the slops, you'll need to ask Isembard for another set."
+    },
+    {
+      "character": "Swaenhylt",
+      "text": "I preach the teachings of Azeyma, the Warden. Hast thou come to partake of the honey of Her wisdom?"
+    },
+    {
+      "character": "Swaenhylt",
+      "text": "Azeyma is keeper of the sun and goddess of inquiry. All is laid bare beneath the light of Her divine countenance. Open thy heart to this light, needy child, and thou shalt want for naught till the end of days!"
+    },
+    {
+      "character": "Ermegarde",
+      "text": "Greetings, good sir / madam . Is there aught I might assist you with?"
+    },
+    {
+      "character": "Ermegarde",
+      "text": "...Oh. I...don't believe there is. I'm afraid our wares are very expensive. Mayhap you should rejoin your fellows out at the pond north of Sandgate."
+    },
+    {
+      "character": "Knerl",
+      "text": "Hm? And you are...?"
+    },
+    {
+      "character": "Knerl",
+      "text": "Hmph, another refugee, by the looks of you. The Immortal Flames have neither work nor coin for your like. Begone, and see to it you don't make a nuisance of yourself."
+    },
+    {
+      "character": "Adelstan",
+      "text": "<sigh> And I was about to get to the good part..."
+    },
+    {
+      "character": "Adelstan",
+      "text": "Looking for work, you say? Sorry, but we don't have any openings. Now, get out of here so I can finish my story."
+    },
+    {
+      "character": "Aurildis",
+      "text": "What is it?"
+    },
+    {
+      "character": "Aurildis",
+      "text": "Gods, not again... Look, being poor doesn't give you the right to pester whomsoever you like. Why don't you keep with your own kind out by that muddy pond of yours at Drybone?"
+    },
+    {
+      "character": "Thancred",
+      "text": "You have quite a knack for being a nuisance, Forename . The camp is abuzz with talk of newly arrived vagrants."
+    },
+    {
+      "character": "Thancred",
+      "text": "And though we were unable to attract our wayward transgressor, we were able to learn that the poor have a commune by the pond north of Sandgate, to the east of here. The eyes of the authorities do not reach that place—rather ideal for spiriting away hapless souls."
+    },
+    {
+      "character": "Thancred",
+      "text": "Let us go there and wait for the kindly priest to come and offer us aid and comfort. Needless to say you'll need to remain in disguise."
+    },
+    {
+      "character": "Thancred",
+      "text": "A fine morning / day / evening for catching false priests, wouldn't you say?"
+    },
+    {
+      "character": "Thancred",
+      "text": "Hm? Why aren't you wearing the lovely soiled garments Isembard gave you? Dressed as you are, our quarry will sense that something is amiss before he's within nabbing distance."
+    },
+    {
+      "character": "Thancred",
+      "text": "In case you've accidentally disposed of the tunic and slops, you'll need to ask Isembard for another set."
+    },
+    {
+      "character": "Thancred",
+      "text": "You look absolutely smashing, Forename ─positively dressed for deception. All that's left, then, is to wait for our quarry to appear."
+    },
+    {
+      "character": "???",
+      "text": "Oh, you poor, unfortunate souls. This is no way for men to live. No way at all."
+    },
+    {
+      "character": "Thancred",
+      "text": "Who are you? What do you want?"
+    },
+    {
+      "character": "???",
+      "text": "Be at ease, child, for I mean you no harm. I am a priest of the Order of Nald'thal, and I come to offer you succor."
+    },
+    {
+      "character": "???",
+      "text": "This leaflet bears the teachings of Nald. Trust to them, and they will surely set you free from the shackles of penury!"
+    },
+    {
+      "character": "Thancred",
+      "text": "Hmmm... A tempting offer, but I'm afraid I must decline..."
+    },
+    {
+      "character": "Thancred",
+      "text": "...On account of that atrocious performance. You would have made a gods-awful mummer, Ungust ."
+    },
+    {
+      "character": "Ungust",
+      "text": "Wh-What!? How did you know─!? Y-You bastards tricked me!"
+    },
+    {
+      "character": "Ungust",
+      "text": "P-Please don't hurt me! I was only doing it to protect my people!"
+    },
+    {
+      "character": "Thancred",
+      "text": "Is that so? Do continue."
+    },
+    {
+      "character": "Ungust",
+      "text": "V-Very well... I'm a man of the Golden Bazaar. Raised there, if not born."
+    },
+    {
+      "character": "Ungust",
+      "text": "Some moons ago, the Amalj'aa raids began. They would appear sudden as a sandstorm, and plunder and pillage at will. Our defenders couldn't stand against them, few as they were. Everyone lived in fear."
+    },
+    {
+      "character": "Ungust",
+      "text": "I wanted to save my people, but being a merchant was all I knew. And so I did the only thing a merchant could─I approached the Amalj'aa in hopes of brokering a deal."
+    },
+    {
+      "character": "Ungust",
+      "text": "In return for sparing the Golden Bazaar, they made demands─outrageous ones."
+    },
+    {
+      "character": "Thancred",
+      "text": "Demands? Of what kind, pray tell?"
+    },
+    {
+      "character": "Ungust",
+      "text": "First of all, they wanted the schedule for crystal shipments from the Nanawa Mines. For this, I bribed one of the workers to leak me the information."
+    },
+    {
+      "character": "Ungust",
+      "text": "Next, they wanted me to bring them people. So, I posed as a priest to lure in the vulnerable and give them over to the Amalj'aa. I...I didn't have a choice..."
+    },
+    {
+      "character": "Thancred",
+      "text": "Protecting one's home is a noble thing...but at the cost of innocents? You could have sought the aid of the Immortal Flames, yet you did not. I suspect you are not telling me the full story. What made you sell out your own people? Speak!"
+    },
+    {
+      "character": "Ungust",
+      "text": "The...<mumble>...was good..."
+    },
+    {
+      "character": "Thancred",
+      "text": "What did you say?"
+    },
+    {
+      "character": "Ungust",
+      "text": "The coin was good, I said! I could sell mole meat for a score of lifetimes and not see even a fraction of what the Amalj'aa pay me!"
+    },
+    {
+      "character": "Thancred",
+      "text": "You sacrificed innocents so that you could line your own pockets? Words fail to express the contempt I feel for you."
+    },
+    {
+      "character": "Ungust",
+      "text": "Spare me your contempt! If you want to blame someone for the mess the world's in, then blame yourselves or the gods!"
+    },
+    {
+      "character": "Ungust",
+      "text": "Uwaaah! Not you again!"
+    },
+    {
+      "character": "Thancred",
+      "text": "Were you the one leaking the Immortal Flames' patrol routes to the enemy as well? Spit it out!"
+    },
+    {
+      "character": "Ungust",
+      "text": "Nooo! I know nothing about that! I swear it!"
+    },
+    {
+      "character": "Thancred",
+      "text": "At this stage, I'm rather disinclined to believe aught that leaves your mouth. But no matter. There'll be time enough to learn the truth."
+    },
+    {
+      "character": "Ungust",
+      "text": "<sob>"
+    },
+    {
+      "character": "Thancred",
+      "text": "Forename . Be a good man / dear and take word of these developments to Minfilia, would you?"
+    },
+    {
+      "character": "Thancred",
+      "text": "I shall prise everything I can out of this filth."
+    },
+    {
+      "character": "Thancred",
+      "text": "The abductees are still somewhere out there. Our foremost priority is to rescue them."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Welcome back, Forename . I am pleased that you and Thancred have been getting along."
+    },
+    {
+      "character": "Minfilia",
+      "text": "I see... You have done well to uncover the truth. My thanks for the report."
+    },
+    {
+      "character": "Minfilia",
+      "text": "As Thancred said, we must ascertain where the abducted were taken...and none but the Amalj'aa know the answer."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Suffice it to say they will not willingly part with this information. I fear blood will be spilled before all is said and done."
+    }
+  ]
+}

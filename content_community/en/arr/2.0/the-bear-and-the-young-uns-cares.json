@@ -1,0 +1,64 @@
+{
+  "id": "the-bear-and-the-young-uns-cares",
+  "wiki_path": "/wiki/The_Bear_and_the_Young%27uns%27_Cares",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "The Bear and the Young'uns' Cares",
+  "level": "27",
+  "location": "Southern Thanalan(X:16.9,Y:14.4)",
+  "npc_start": "Gundobald",
+  "dialogues": [
+    {
+      "character": "Gundobald",
+      "text": "An outsider resembling your masked stranger has reportedly been appearing near Little Ala Mhigo of late. What's more, it seems that some of our youngbloods are meeting him in secret."
+    },
+    {
+      "character": "Gundobald",
+      "text": "No doubt you'll want to question them about their trysts, but they are not like to yield the information readily to an outsider. If you tell them I sent you, though, they may well feel obliged to talk."
+    },
+    {
+      "character": "Waldhar",
+      "text": "...A masked man? No idea what yer talkin' about. I ain't done nothin' wrong, so leave me be."
+    },
+    {
+      "character": "Adalind",
+      "text": "G-Gundobald sent you? I, uh─ Listen, I told them it was a bad idea! All that tripe about believing the masked man and─"
+    },
+    {
+      "character": "Adalind",
+      "text": "...O-Oh. You...you don't know anything about this? Why didn't you say so to start with!? You can't throw the old bear's name around like that and expect me to not think I'm in for it!"
+    },
+    {
+      "character": "Talebot",
+      "text": "There's a bunch been skulkin' about right suspicious, like, but I've got nothin' to do with 'em. I know trouble when I see it, an' that there's trouble, mark me words."
+    },
+    {
+      "character": "Sifrid",
+      "text": "What? Have I been meeting any masked men lately? Hmmm, let's see..."
+    },
+    {
+      "character": "Sifrid",
+      "text": "Nope, can't say I have! But I'll be sure to tell all my friends you're looking for him."
+    },
+    {
+      "character": "Gundobald",
+      "text": "So, you have indeed confirmed my suspicions about a masked man... That is most troubling. Whatever the young ones are scheming, it can lead to no good end."
+    },
+    {
+      "character": "Gundobald",
+      "text": "There's an anger inside them─I can see it in their eyes. I ought to know, for it once burned within me as well."
+    },
+    {
+      "character": "Gundobald",
+      "text": "Two decades ago, that same anger drove me and my brothers to rise against the despot who ruled Ala Mhigo. Naught would do but to depose him and usher in a revolution. Well, we got our revolution all right...but it cost us our freedom."
+    },
+    {
+      "character": "Gundobald",
+      "text": "Blinded by our hate, we didn't realize that we had been dancing to the Empire's tune. By the time we did, it was too late. Ala Mhigo had fallen."
+    },
+    {
+      "character": "Gundobald",
+      "text": "There are times when a man must be patient. Now is such a time, though the young ones know this not. Unless we intervene, they are like to commit great folly. If you learn aught of their plans, I would thank you to bring word to me."
+    }
+  ]
+}

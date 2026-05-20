@@ -1,0 +1,11 @@
+{
+  "id": "farmer-of-fortune",
+  "wiki_path": "/wiki/Farmer_of_Fortune",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title": "Farmer of Fortune",
+  "level": "11",
+  "location": "Western La Noscea(X:34,Y:32)",
+  "npc_start": "Lyulf",
+  "dialogues": []
+}

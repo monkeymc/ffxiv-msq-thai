@@ -1,0 +1,56 @@
+{
+  "id": "loam-maintenance",
+  "wiki_path": "/wiki/Loam_Maintenance",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Loam Maintenance",
+  "level": "9",
+  "location": "Middle La Noscea(X:25.5,Y:17.2)",
+  "npc_start": "Gurcant",
+  "dialogues": [
+    {
+      "character": "Gurcant",
+      "text": "Blast! At this rate, the crops will never be ready for harvest."
+    },
+    {
+      "character": "Gurcant",
+      "text": "If only we had blackloam... Just a bit could send our stalks soaring!"
+    },
+    {
+      "character": "Gurcant",
+      "text": "I'll bet Rhotwyda knows where you might find some. Perhaps you might pay her a visit in the orchard?"
+    },
+    {
+      "character": "Rhotwyda",
+      "text": "That Gurcant's got a head of cabbage if he thinks I'm fetchin' him any blackloam!"
+    },
+    {
+      "character": "Rhotwyda",
+      "text": "But if you dare to pinch some from the Cookpot, then be my guest. Just mind you don't get trampled upon by the aurochs that dwell there."
+    },
+    {
+      "character": "Rhotwyda",
+      "text": "Once you've three bushels' worth, take the blackloam to Pfrewahl at Tiller's Rest. He'll know what to do."
+    },
+    {
+      "character": "Pfrewahl",
+      "text": "Argh, even the weeds wither and die in this desolate dirt."
+    },
+    {
+      "character": "Pfrewahl",
+      "text": "But a bit of this blackloam ought to change all that! I haven't seen any in ages. Gathering blackloam's not for the weak of will...nor the weak of stomach, eh? Hahaha!"
+    },
+    {
+      "character": "Pfrewahl",
+      "text": "...Oh, don't tell me Gurcant and Rhotwyda neglected to mention where blackloam comes from."
+    },
+    {
+      "character": "Pfrewahl",
+      "text": "Well, surely you figured it out on your own from the cloying stench! It comes from the aurochs' lair, of all places!"
+    },
+    {
+      "character": "Pfrewahl",
+      "text": "Ahem, well, why dwell on who misled whom about what? What matters is that your efforts have brought us the blackloam, and we can expect a bountiful harvest as a result. Thank you!"
+    }
+  ]
+}

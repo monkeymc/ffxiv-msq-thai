@@ -1,0 +1,96 @@
+{
+  "id": "the-curious-case-of-giggity",
+  "wiki_path": "/wiki/The_Curious_Case_of_Giggity",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "The Curious Case of Giggity",
+  "level": "43",
+  "location": "Western La Noscea(X:27.9,Y:27.0)",
+  "npc_start": "Ceana",
+  "dialogues": [
+    {
+      "character": "Ceana",
+      "text": "Don't fret, now─I know exactly where to find a corrupted crystal comprised of ice -aspected aether. An associate of mine in Gridania has been studying the effects of one such crystal on living beings."
+    },
+    {
+      "character": "Ceana",
+      "text": "Eh? What's with that expression? I thought you would be pleased to hear this news! This is not another wild-dodo chase, I assure you!"
+    },
+    {
+      "character": "Ceana",
+      "text": "And what's even better is that this time, you needn't use that warded pot of yours to protect yourself from this crystal's energies. Hedyn's findings suggest that it is quite safe."
+    },
+    {
+      "character": "Ceana",
+      "text": "Why, you ask? Well...let's just say that it has undergone a unique process that has rendered such precautions unnecessary."
+    },
+    {
+      "character": "Ceana",
+      "text": "Anyway, do not let me keep you. It has been a pleasure, Forename . Come back and see me sometime, all right?"
+    },
+    {
+      "character": "Ceana",
+      "text": "Now that you've driven off the pesky siren and slain her undead thralls, I suppose I can visit the Isles of Umbra for my research."
+    },
+    {
+      "character": "Ceana",
+      "text": "On the other hand, it can be rather difficult to determine if the undead are sufficiently...dead."
+    },
+    {
+      "character": "Hedyn",
+      "text": "Greetings and salutations. Mister / Miss Surname , I presume? Ceana informed me of your adventures in Aleport. Terribly sorry about the misunderstanding. Though, as Professor Lamberteint is fond of saying, “No action taken in the name of science is ever truly wasteful.”"
+    },
+    {
+      "character": "Hedyn",
+      "text": "To the matter at hand─corrupted crystals possessing the properties you seek could be found in abundance at the Standing Corses following the Calamity."
+    },
+    {
+      "character": "Hedyn",
+      "text": "Alas, that is no longer the case...and while there is at least one suitable crystal that remains to be found within the Twelveswood, precisely where it is at any given moment is more difficult to say."
+    },
+    {
+      "character": "Hedyn",
+      "text": "Permit me to explain. You are familiar with spriggans, yes? The furry little rascals that are wont to seek out ores and other stones? Well, one such creature with an infamously insatiable appetite has single-handedly devoured every corrupted crystal in the Twelveswood. Fortunately for you, these crystals take an eternity to digest─assuming they can even be digested─and I am reasonably confident that one still resides within his gut."
+    },
+    {
+      "character": "Hedyn",
+      "text": "It's quite fascinating, really. My theory is that this “Giggity” first consumed a corrupted crystal when... <sigh> You couldn't care less about all this, could you?"
+    },
+    {
+      "character": "Hedyn",
+      "text": "To the point, then. Giggity seldom makes his presence felt unless there is particularly fine fodder to be had. Therefore, we shall require a lure, and I have precisely the sort he will find impossible to resist."
+    },
+    {
+      "character": "Hedyn",
+      "text": "Simply place this true heart─I shall save the story of the origin of its unusual name for another occasion─outside of the spriggans' lair and wait for the opportune moment to pounce."
+    },
+    {
+      "character": "Hedyn",
+      "text": "As for the method by which you retrieve the crystal from his gut...I shall leave that to your discretion."
+    },
+    {
+      "character": "Hedyn",
+      "text": "Ah! Pray do not sneak up on me like that. I was engrossed in─wait, what is that─<sniff> <sniff>─what is that gods-awful smell?"
+    },
+    {
+      "character": "Hedyn",
+      "text": "My word, that is a breathtakingly beautiful crystal. I see my supposition was not mistaken."
+    },
+    {
+      "character": "Hedyn",
+      "text": "Ugh... And I also see you weren't averse to digging through spriggan entrails for your prize."
+    },
+    {
+      "character": "Hedyn",
+      "text": "We owe our furry friend a debt of gratitude, you know. This thick coating of digestive juices is protecting us from the harmful effects of the crystal, just as the warded pot you once used did."
+    },
+    {
+      "character": "Hedyn",
+      "text": "Why so glum, friend? You've finally obtained the corrupted crystal you sought─one overflowing with earth -aspected aether!"
+    },
+    {
+      "character": "Hedyn",
+      "text": "Calm down─I jest, I jest! It is comprised of ice -aspected aether, worry not. I suppose that joke was in poor taste, considering your previous two attempts were for naught..."
+    }
+  ]
+}

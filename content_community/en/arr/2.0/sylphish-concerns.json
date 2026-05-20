@@ -1,0 +1,40 @@
+{
+  "id": "sylphish-concerns",
+  "wiki_path": "/wiki/Sylphish_Concerns",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Sylphish Concerns",
+  "level": "23",
+  "location": "South Shroud(X:18.1,Y:19.8)",
+  "npc_start": "Buscarron",
+  "dialogues": [
+    {
+      "character": "Buscarron",
+      "text": "There was word while you were away. Sylphs were seen in the wood, but near no lands of their own. No, this was a place near to here ─a place we've never known a sylph to come."
+    },
+    {
+      "character": "Buscarron",
+      "text": "Something must have given them cause to venture this far. More than like, the missing sylph elder's among them. Here, I've marked the tract where they were sighted on your map. Go see if there's anything to be seen."
+    },
+    {
+      "character": "Buscarron",
+      "text": "So, was there aught to be found in the wood? What did you come to─"
+    },
+    {
+      "character": "Buscarron",
+      "text": "...Garleans!? In this part of the Twelveswood!?"
+    },
+    {
+      "character": "Buscarron",
+      "text": "Hmmm... First sylphs and now Garleans, and all in the same place. It cannot be mere coincidence. Might the Garleans be following the sylphs? Tracking them or giving chase, mayhap?"
+    },
+    {
+      "character": "Buscarron",
+      "text": "But no, not this far into the forest. The Wailers' spires are everywhere. Imperials could never have stolen past them all. How in the bloody hells could they─ Unless..."
+    },
+    {
+      "character": "Buscarron",
+      "text": "Unless someone guided them through. Someone who knew where the spires stand, and when the Wailers watch. A Gridanian traitor."
+    }
+  ]
+}

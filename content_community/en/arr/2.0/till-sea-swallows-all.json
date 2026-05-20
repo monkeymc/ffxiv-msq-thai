@@ -1,0 +1,244 @@
+{
+  "id": "till-sea-swallows-all",
+  "wiki_path": "/wiki/Till_Sea_Swallows_All",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/db/Till_Sea_Swallows_All_Image.png",
+  "patch": "2.0",
+  "title": "Till Sea Swallows All",
+  "level": "20",
+  "location": "Limsa Lominsa Upper Decks(X:13.1,Y:12.7)",
+  "npc_start": "Storm Personnel Officer",
+  "dialogues": [
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Let us start afresh, shall we?"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "You are welcome here, Forename Surname . That such as well-respected adventurer would choose to join our ranks is most heartening. Before you swear your allegiance to us, however, it is only right that I tell you exactly what it is that you will be joining."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "A Grand Company is more than simply a collection of soldiers. It is an all-encompassing organization which draws upon the resources of an entire city-state to form a united military force capable of standing against a nation's deadliest enemies."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "We of the Maelstrom are charged with meeting the threats posed by the primals and the Garlean Empire, and solving the many problems caused by the Calamity."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Every man and woman who serves under our colors has a role to play in keeping the great warship that is Limsa Lominsa afloat, and on whatever heading Chief Admiral Merlwyb Bloefhiswyn sees fit to set."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "As part of the grand vessel's crew, you will be expected to take your turn at the oars—for the winds do not look favorable, lad / lass , and strength of arm may be all that sees us safe to port."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "...If I've lost you with talk of ship and oar, let me put it another way: a Maelstrom soldier labors till his / her last breath, fights till his / her last drop of blood. We give our all in service to this nation, and no less is expected of you."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Surname —it is customary for new recruits to swear an oath of their own choosing upon entering the Maelstrom's ranks. Is there aught you'd like to say?"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "And I've no doubt we'll need it! Keep your weapons close to hand, lad / lass ."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Ah yes, the many and varied skills of the adventurer! I've no doubt that your travels have furnished you with such knowledge as will prove invaluable to our cause."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "As would we all! A capable crew is one thing, but unswerving loyalty is a trait that cannot be trained or bought. Well said, lad / lass ."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "No love for grandiose proclamations, eh? Ha! Such silent resolve is not uncommon among the brothers and sisters of the sea."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Forename Surname , I hereby assign you the rank of storm private third class. You are now officially a soldier of the Maelstrom."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Welcome aboard, Private. May you serve Limsa Lominsa well, till sea swallows all."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Can you hear me, Forename ? This is Minfilia."
+    },
+    {
+      "character": "Minfilia",
+      "text": "An officer of the Order of the Maelstrom contacted me with news of your enlistment. My congratulations, Private Surname ."
+    },
+    {
+      "character": "Minfilia",
+      "text": "I have no doubt that you are eager to make the acquaintance of your new comrades, but I would ask that you pay a visit to your old ones first. Remember: though you are now a man / woman of the Storm, you are no less a Scion! Pray return to the Waking Sands at your earliest convenience. There are some friends here whom I would very much like you to meet. We shall be waiting!"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "No rest for the wicked, eh?"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Before you make yourself scarce, I recommend having a word with Commander Rhiki. Might be worth your while..."
+    },
+    {
+      "character": "Yda",
+      "text": "Let me see if I have this right—you're an adventurer...who's a Scion... and a Storm? Golly, how do you keep track of everything?"
+    },
+    {
+      "character": "Yda",
+      "text": "It must be fun pairing up with lots of different people, though! Me? I'm always with Papalymo. ...Come to think of it, why am I always with Papalymo?"
+    },
+    {
+      "character": "Papalymo",
+      "text": "Following the Calamity, each nation's armed forces underwent large-scale restructuring centered upon its Grand Company."
+    },
+    {
+      "character": "Papalymo",
+      "text": "In Gridania, the Order of the Twin Adder absorbed both the Wood Wailers and the Gods' Quiver, while the Lominsans enacted the complete merger of the Maelstrom and the Knights of the Barracuda."
+    },
+    {
+      "character": "Papalymo",
+      "text": "Ul'dah is the odd nation out, having made no notable changes to its armed forces. As before, and in the spirit of the sultanate, each entity retains a certain degree of independence."
+    },
+    {
+      "character": "Thancred",
+      "text": "The incident with the traitor still weighs heavily on everyone's minds—the Flame General's most of all."
+    },
+    {
+      "character": "Thancred",
+      "text": "And although he cannot be expected to know what evil lurks in the hearts of every man under his command, the revelation is nevertheless a devastating blow to his authority."
+    },
+    {
+      "character": "Thancred",
+      "text": "Even so, it warrants saying that you should not let this tragedy color your opinion of the man. In all my years working with the Flame General, I've never had reason to doubt his capacity to lead."
+    },
+    {
+      "character": "Brennan",
+      "text": "I heard tell one of me brothers came through not long ago. Looks like I just missed him, though."
+    },
+    {
+      "character": "Brennan",
+      "text": "I ain't seen either one of 'em since the Calamity—didn't even know if they were still alive. But after runnin' into folk who swore they knew me time an' again, I reckoned they had to be out there somewhere."
+    },
+    {
+      "character": "Brennan",
+      "text": "I've been travelin' an' peddlin' in the hopes I'd find me brothers ever since. If ye see a fella what looks like me, let him know that Brennan's lookin' for him, would you?"
+    },
+    {
+      "character": "Liavinne",
+      "text": "Have we met somewhere before? You must be quite the accomplished adventurer to be welcomed into these halls."
+    },
+    {
+      "character": "Liavinne",
+      "text": "Me? No one's ever expected much of me. And so far, I've done a fine job of living down to their expectations."
+    },
+    {
+      "character": "Una Tayuun",
+      "text": "I've been chattin' with Percevains an' we both swear there was another member of our crew. We still ain't figured out a way t'prove who we was, but just ye wait and see. It won't be long before everybody sees us for the heroes we is!"
+    },
+    {
+      "character": "Arenvald",
+      "text": "I hear you pledged yourself to a Grand Company. Me? I don't think I could do it. I'd never feel like one of them, no matter what the recruiters say."
+    },
+    {
+      "character": "Aulie",
+      "text": "I'm not sure I grasp the purpose of these remembrance ceremonies. Whether you remember of rewrite the past, what does it matter? It isn't as though you can repeat it."
+    },
+    {
+      "character": "Aulie",
+      "text": "Our present-day enemies ought to serve as sufficient motivation, don't you think? The only lesson I believe we should take from the Calamity is that far greater threats can and will appear."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "We will continue to focus our efforts on investigating the primals. The Amalj'aa are not the only tribe that has succeeded in summoning its deity."
+    },
+    {
+      "character": "Urianger",
+      "text": "Fate shall be thy guide. When our purposes become one, once again shall our paths lead us here..."
+    },
+    {
+      "character": "Urianger",
+      "text": "Our city of learning is now naught but shadows. Ere the light of dawn breaketh, shall we follow whither the sand blows."
+    },
+    {
+      "character": "Scion of the Seventh Dawn",
+      "text": "Welcome back, Forename ! Lady Minfilia awaits you within."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Welcome back! It seems you wasted no time putting your skills to work!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "How do I know? Why, the recruitment officer called to regale me with the tale of your heroics. The pride in his voice was palpable!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "We Scions are truly fortunate to have you with us, Forename ."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Now, when last we spoke, I said that I wanted you to meet some friends, did I not? Well, I neglected to mention that you have already met."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Tataru─please show them in."
+    },
+    {
+      "character": "Tataru",
+      "text": "This way, sirs!"
+    },
+    {
+      "character": "Biggs",
+      "text": "Thanks again for getting us out of that mess. We owe you our lives."
+    },
+    {
+      "character": "Biggs",
+      "text": "But I don't think we've properly introduced ourselves. I'm Biggs."
+    },
+    {
+      "character": "Wedge",
+      "text": "A-And I'm...I'm..."
+    },
+    {
+      "character": "Biggs",
+      "text": "Gods, man, spit it out, will you!?"
+    },
+    {
+      "character": "Wedge",
+      "text": "W-Wedge, at your service!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "I am pleased to say that Biggs and Wedge will be staying with us for a while."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Magitek-driven contraptions such as airships grow ever more vital to the city-states of Eorzea. As a neutral party, it was judged that we Scions should serve as the keepers of this technology."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Of course, for this we needed the knowledge of experts. And so we requested the assistance of Garlond Ironworks, who very kindly sent us two of their finest engineers."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Our happy family continues to grow. On behalf of the Scions, I bid you welcome to the Waking Sands!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Like every soul here, I love Eorzea."
+    },
+    {
+      "character": "Minfilia",
+      "text": "And I count myself blessed to have been given this chance to stand with you all and fight for the future of the realm."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Never have I known such fulfillment─such happiness."
+    }
+  ]
+}

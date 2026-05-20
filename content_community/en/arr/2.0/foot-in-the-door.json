@@ -1,0 +1,52 @@
+{
+  "id": "foot-in-the-door",
+  "wiki_path": "/wiki/Foot_in_the_Door",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Foot in the Door",
+  "level": "25",
+  "location": "Southern Thanalan(X:17.8,Y:13.4)",
+  "npc_start": "Gisilbehrt",
+  "dialogues": [
+    {
+      "character": "Gisilbehrt",
+      "text": "So you're determined to press on with your investigation? Then I have some advice to offer."
+    },
+    {
+      "character": "Gisilbehrt",
+      "text": "As I said before, you won't get far without the Ala Mhigans' trust. And the best way to win that trust is to get a compatriot of theirs─someone they respect─to vouch for you."
+    },
+    {
+      "character": "Gisilbehrt",
+      "text": "Coin does the talking in Ul'dah, but the Ala Mhigans are bound by something far stronger, if not as tangible: a common purpose. That purpose is, of course, the liberation of their home from the Garleans."
+    },
+    {
+      "character": "Gisilbehrt",
+      "text": "Gundobald belongs to the Ala Mhigan Resistance, so your best bet would be someone who's part of the same crew. If you know any well-connected people, you might want to start by asking them."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Welcome back, Forename ! How fares the investigation?"
+    },
+    {
+      "character": "Minfilia",
+      "text": "...I see. Given all that they have suffered, it is of little wonder the Ala Mhigan refugees have lost faith in their fellow man."
+    },
+    {
+      "character": "Minfilia",
+      "text": "They have had their homeland taken from them, and for the past two decades have had to see it remain in the enemy's clutches."
+    },
+    {
+      "character": "Minfilia",
+      "text": "To compound matters, none of the three city-states have the means to take in all those who were displaced. As a result, a great many Ala Mhigans now live on the margins of society, suffering poverty and discrimination."
+    },
+    {
+      "character": "Minfilia",
+      "text": "<sigh> Would that more could be done to ease their hardships. I fear that nothing short of reclaiming their homeland would be a lasting solution."
+    },
+    {
+      "character": "Minfilia",
+      "text": "But let us deal with one problem at a time. Returning to the matter of your investigation, it just so happens there is an Ala Mhigan native among the Scions. I should be pleased to introduce him to you."
+    }
+  ]
+}

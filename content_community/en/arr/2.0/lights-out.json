@@ -1,0 +1,11 @@
+{
+  "id": "lights-out",
+  "wiki_path": "/wiki/Lights_Out",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title": "Lights Out",
+  "level": "13",
+  "location": "Central Shroud(X:25,Y:28)",
+  "npc_start": "Armelle",
+  "dialogues": []
+}

@@ -1,0 +1,380 @@
+{
+  "id": "a-royal-reception",
+  "wiki_path": "/wiki/A_Royal_Reception",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/08/A_Royal_Reception_Image.png",
+  "patch": "2.0",
+  "title": "A Royal Reception",
+  "level": "14",
+  "location": "Ul'dah - Steps of Nald(X:11.6,Y:9.6)",
+  "npc_start": "Momodi",
+  "dialogues": [
+    {
+      "character": "Momodi",
+      "text": "This is it, Forename ─your big debut in Ul'dahn high society!"
+    },
+    {
+      "character": "Momodi",
+      "text": "The banquet is bein' held in the Fragrant Chamber. Head over to the Royal Promenade and Bartholomew will show you in. Oh, but be sure to put on your earrin's first, or he'll send you packin'."
+    },
+    {
+      "character": "Momodi",
+      "text": "Right, well, I reckon that's everythin'. Try not to let all the pomp and ceremony get to you. Just be yourself and you'll be fine!"
+    },
+    {
+      "character": "Bartholomew",
+      "text": "A banquet hosted by Her Grace the sultana is due to begin shortly. Attendance is by invitation only. Please make way for arriving guests."
+    },
+    {
+      "character": "Bartholomew",
+      "text": "Ahem. I must ask that you step away from the doors, sir / madam . If you have received an invitation, pray consider the terms of admission."
+    },
+    {
+      "character": "Bartholomew",
+      "text": "And Twelve save you if you have misplaced the relevant articles! I can only imagine how horrified Mistress Serendipity would be if she had to furnish you with another pair..."
+    },
+    {
+      "character": "Bartholomew",
+      "text": "We are honored to receive you, milord / milady . Please proceed inside."
+    },
+    {
+      "character": "Serendipity",
+      "text": "You want what !? You can't be serious! Gods ..."
+    },
+    {
+      "character": "Serendipity",
+      "text": "Just this once, but remember─life is not a minstrel's song, and you aren't some chosen hero. So don't go around expecting people to forgive you no matter the reckless, irresponsible things you do."
+    },
+    {
+      "character": "Raubahn",
+      "text": "All hail the sultana!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Your Grace."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "Raubahn."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "By right of the Royal House of Ul, I, Nanamo, seventeenth of my line, have summoned you here."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "We are graced this day by the presence of a hero to Ul'dah, and dear friend to the crown."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "Honored guests, I give you our champion!"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "And with that, I bid you enjoy the feast."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Not to spoil your appetite, but Ul'dah is hardly so bountiful as this meal would have you believe. While we gorge ourselves, children starve in the streets."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Nor can Her Grace do aught to help them. She is thwarted at every turn by those on the Syndicate who derive their wealth from the workers' poverty."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Beneath her mask of stately serenity, she is aghast at the plight of her subjects."
+    },
+    {
+      "character": "Raubahn",
+      "text": "But there will be no hope for the masses until the crown is restored to power."
+    },
+    {
+      "character": "Raubahn",
+      "text": "I am truly grateful for all you have done for Ul'dah. But there is so much more to do."
+    },
+    {
+      "character": "Raubahn",
+      "text": "That light─what is it?"
+    },
+    {
+      "character": "Raubahn",
+      "text": "So bright... Almost like... By the Twelve!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Tell me true─have you been troubled by strange dreams of late? Visions─of the Crystal?"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Mayhap you put them down to an excess of aether?"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Yes. You are like they were..."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Allow me to explain. Before you came to Eorzea, there were others like you who fought the primals."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Though they were not of this land, when the Garlean Empire threatened the realm, they helped bring together the three Grand Companies."
+    },
+    {
+      "character": "Raubahn",
+      "text": "And they stood with us at Carteneau, that fateful day five years ago..."
+    },
+    {
+      "character": "Raubahn",
+      "text": "...The day we lost them."
+    },
+    {
+      "character": "Raubahn",
+      "text": "None who survived have forgotten the heroes' sacrifice, nor would any man deny they fought alongside us..."
+    },
+    {
+      "character": "Raubahn",
+      "text": "But the names of these heroes come not to our lips. The once-familiar pages of their story are now blank to us."
+    },
+    {
+      "character": "Raubahn",
+      "text": "And in our mind's eye, their faces are naught but silhouettes amid a blinding glare..."
+    },
+    {
+      "character": "Raubahn",
+      "text": "It is for this reason that we have come to call them the Warriors of Light."
+    },
+    {
+      "character": "Raubahn",
+      "text": "When I look at you, I cannot help but think of them, and of what you might achieve."
+    },
+    {
+      "character": "Raubahn",
+      "text": "You must protect that crystal at all costs."
+    },
+    {
+      "character": "Raubahn",
+      "text": "It is a gift from Hydaelyn, Mother of all─and one She gave to you for a reason."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Yours is no ordinary tale. If I am right, the fate of the realm may yet hang upon your deeds."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Only heroes and martyrs are fit to bear such a burden. Let us pray you are the former."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Flames, to the fore!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Victory belongs to the bold! Show those imperial whoresons what we're made of!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "The left flank buckles! Divert the Barracudas!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Bid 'em hold that position though it cost 'em their lives!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The Yellow Serpents are in need of succor. Pray send the White Wolves to their aid."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The adventurers risk life and limb for our cause. We must not fail them."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Is aught amiss?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "No... It is nothing."
+    },
+    {
+      "character": "Raubahn",
+      "text": "The barrier won't go down so easily! Eyes forward!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "We are being watched..."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Raging Bull calling Blood Thorn! Blood Thorn, respond! Respond, damn you!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Arrrgh!!!"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text": "Raging Bull! This is Mad Snake! Respond!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Ryder!? This is Raging Bull! What news!?"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text": "We're surrounded by a blaze! There's no way out! Gods preserve, what is that thing!?"
+    },
+    {
+      "character": "Raubahn",
+      "text": "What's going on!? Speak to me!"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text": "Godsdammit! We cannot hold much longer!"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text": "AaaaaaAAAAAAAAAH!!!!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Mad Snake!? Mad Snaaaaaake! Answer me!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Damn it! Damn it all to the seventh hell!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "What of the Barracudas? Can they not be reached?"
+    },
+    {
+      "character": "Storm Runner",
+      "text": "Sorry, Admiral—shell's not workin'!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "What of our own?"
+    },
+    {
+      "character": "Serpent Runner",
+      "text": "I cannot say, my lady! That monstrosity appears to be disrupting our communications!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "We must keep trying. Call till they respond."
+    },
+    {
+      "character": "Serpent Runner",
+      "text": "Yes, my lady!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Admiral, General—we can do no more. We must give the order to withdraw."
+    },
+    {
+      "character": "Raubahn",
+      "text": "I will not forsake Louisoix!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "General, please! Victory may belong to the bold, but there will be no victor this day!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "You know this to be true. Let us not sacrifice lives in vain."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The adventurers fight bravely, but to no avail. Let them withdraw, and let us be the ones to stand with Louisoix."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Belay previous orders! All Maelstrom units are commanded to fall back, effective immediately!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Give the Foreign Levy priority! Let the main host cover their retreat, and bring up the rear!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Damn it... Relay the order: all Flames are to withdraw. I don't care if our linkshells are useless!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "You still have a working pair of legs, don't you? Well, use 'em , you bloody half-wit!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The outcome of this battle was long since decided."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Better to retreat now, than risk a massacre."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "This dark, stifling presence... Who...or what...?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "We go to take our place beside Archon Louisoix! To your positions!"
+    },
+    {
+      "character": "???",
+      "text": "That I should live to behold Bahamut once more..."
+    },
+    {
+      "character": "???",
+      "text": "Magnificent. The eons of imprisonment have only made him hungrier."
+    },
+    {
+      "character": "???",
+      "text": "I am aware of them. Pay them no mind. They are powerless to act."
+    },
+    {
+      "character": "???",
+      "text": "It has begun. Soon the planet will regain its true form."
+    },
+    {
+      "character": "???",
+      "text": "Ahahaha... Ahahahahaha!"
+    },
+    {
+      "character": "Momodi",
+      "text": "How you feelin', Forename ?"
+    },
+    {
+      "character": "Momodi",
+      "text": "They said you fainted in the middle of one of the General's stories. I had to have you carried back to the Hourglass."
+    },
+    {
+      "character": "Momodi",
+      "text": "I reckon you made quite an impression on your fellow guests─though probably not the sort you intended."
+    },
+    {
+      "character": "Momodi",
+      "text": "You sure you're gettin' enough rest, Forename ? The life of an adventurer can be pretty taxin'."
+    },
+    {
+      "character": "Momodi",
+      "text": "Anyroad, I'm glad to see you're back to normal. No offense, but lookin' after you was gettin' a bit tiresome."
+    },
+    {
+      "character": "Momodi",
+      "text": "Oh, 'fore I forget, the General left a message for you. Said that when you're feelin' up to it, you should come and see him at the Hall of Flames."
+    },
+    {
+      "character": "Momodi",
+      "text": "Probably wants to finish the story he was tellin' you when you fell asleep."
+    },
+    {
+      "character": "Raubahn",
+      "text": "I've been waiting for you, Forename . I trust you are fully recovered?"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Good, because there is much work to be done─work that I would have you do..."
+    }
+  ]
+}

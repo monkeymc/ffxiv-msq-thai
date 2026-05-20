@@ -1,0 +1,284 @@
+{
+  "id": "fire-in-the-gloom",
+  "wiki_path": "/wiki/Fire_in_the_Gloom",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/4/40/Fire_in_the_Gloom_Image.png",
+  "patch": "2.0",
+  "title": "Fire in the Gloom",
+  "level": "16",
+  "location": "New Gridania(X:11.7,Y:13.5)",
+  "npc_start": "Mother Miounne",
+  "dialogues": [
+    {
+      "character": "Mother Miounne",
+      "text": "Ready for that briefing? Good! Now then, here's the long and short of it..."
+    },
+    {
+      "character": "Lewin",
+      "text": "Beg pardons for interrupting, Miounne, but our need grows ever more pressing. Have none stepped forward?"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "And good morrow to you too, Bowlord! Your need must be pressing indeed for you to honor us with a visit. The good news is: your journey hasn't been wasted. I'm pleased to report that we have a volunteer at last, and one who comes highly recommended, at that."
+    },
+    {
+      "character": "Lewin",
+      "text": "Well, if it isn't our very own man for all seasons! You certainly have a knack for appearing when you're most needed, Forename . My thanks for answering the call."
+    },
+    {
+      "character": "Lewin",
+      "text": "My thanks for answering the call, friend. My name is Lewin, and I lead the men and women of the Gods' Quiver."
+    },
+    {
+      "character": "Lewin",
+      "text": "Now, time is of the essence, so I shall proceed directly to the heart of the matter. We wish for you to nip a potential threat to Gridania in the bud."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Beneath the Central Shroud, there lies an underground burial site called the Tam-Tara Deepcroft."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "The place was once a Gelmorran settlement, but we Gridanians have long interred our dead there."
+    },
+    {
+      "character": "Lewin",
+      "text": "Of late, however, shadowy figures have been seen skulking about the Deepcroft, and with ever-increasing regularity."
+    },
+    {
+      "character": "Lewin",
+      "text": "Based on the accounts of various witnesses, we suspect that these individuals belong to the Lambs of Dalamud, a doomsday cult which sprung up prior to the Calamity."
+    },
+    {
+      "character": "Lewin",
+      "text": "These zealots have proven themselves dangerous in the past, and we leave them to their own devices at our peril."
+    },
+    {
+      "character": "Lewin",
+      "text": "Ordinarily, I would have dispatched my best men to scour the Deepcroft with orders to flush the cultists out."
+    },
+    {
+      "character": "Lewin",
+      "text": "Alas, the Calamity decimated our ranks, and the limited forces at my disposal are constantly required to keep the Ixal at bay."
+    },
+    {
+      "character": "Lewin",
+      "text": "Since we thwarted their attack on the Guardian Tree, the birdmen have not allowed us a moment's respite. They have probed every ilm of our defenses in search of a weakness, compelling me to spread out forces far more thinly than I would like."
+    },
+    {
+      "character": "Lewin",
+      "text": "The situation so being, we have no choice but to entrust the task of dealing with the Lambs of Dalamud to others. Can we rely on you to handle this matter, Forename ?"
+    },
+    {
+      "character": "Lewin",
+      "text": "The birdmen have grown restless of late, and I fear a storm may be brewing. In anticipation of this, I have been compelled to spread our forces throughout the Twelveswood, lest we be taken unawares."
+    },
+    {
+      "character": "Lewin",
+      "text": "The situation so being, we have no choice but to entrust the task of dealing with the Lambs of Dalamud to others. Can we rely on you to handle this matter, friend?"
+    },
+    {
+      "character": "Lewin",
+      "text": "You have my gratitude."
+    },
+    {
+      "character": "Lewin",
+      "text": "Once you've seen to your preparations, pray make your way to the Deepcroft, and identify yourself to the guard posted at the entrance. He will apprise you of the latest developments. That is all."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Be careful our there, you hear? May the Crystal guide you and keep you!"
+    },
+    {
+      "character": "Dolorous Bear",
+      "text": "So we meet again! I cannot say I'm surprised to see you here."
+    },
+    {
+      "character": "Dolorous Bear",
+      "text": "You took the prize back in Limsa, but this time we will give you better sport, or I am no true adventurer!"
+    },
+    {
+      "character": "Kikina",
+      "text": "Think of our goal, sister! One day, our adventures will be the stuff of song, and it will all be worth it!"
+    },
+    {
+      "character": "E'manafa",
+      "text": "Gods, I hate mausoleums... It's not right to disturb the dead in their slumber..."
+    },
+    {
+      "character": "Alianne",
+      "text": "I shudder to think what might have happened to Isildaure had I not thought to pick the fruit I stumbled across on the way here."
+    },
+    {
+      "character": "Alianne",
+      "text": "Sometimes he has too much vigor for his own good. Age is supposed to mellow us, but if anything it has made him more impetuous."
+    },
+    {
+      "character": "Alianne",
+      "text": "I understand his desire to make use of the time left to him, but one misstep, and there won't be any."
+    },
+    {
+      "character": "Isildaure",
+      "text": "<pant> <pant> ...Childish curiosity prompted me to commit the most elementary of blunders."
+    },
+    {
+      "character": "Isildaure",
+      "text": "Were it not for the fruit that Alianne found, my adventures may well have ended in this forbidding place"
+    },
+    {
+      "character": "Isildaure",
+      "text": "Always look before you leap... In my haste, this most fundamental rule of adventuring slipped my mind. <sigh> I do believe I shall rest here awhile."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text": "You're Forename Surname , I take it? Thanks for helping us out, friend."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text": "No doubt the Bowlord has already informed you, but your task is to enter the Deepcroft and purge it of the Lambs of Dalamud."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text": "In case you're unfamiliar with them, the cult emerged shortly before the Calamity put an end to the Sixth Astral Era."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text": "The cultists took the lesser moon, Dalamud, for their god, believing that it would deliver them from the devastation."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text": "And so they were rather disappointed when Dalamud exploded into a thousand flaming pieces before it could complete its descent."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text": "Now, having seen their god turn to ash, one would think that the cultists might feel moved to question their faith. On the contrary, it served only to stoke the flames of their fanaticism."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text": "The Lambs of Dalamud are convinced that \"heretics\"—that is to say, everyone but them —interfered with the coming of their lord and savior, and that it's now their sacred duty to avenge him."
+    },
+    {
+      "character": "Gods' Quiver Bow",
+      "text": "Whatever it is they're doing in the Deepcroft, you may be sure that no good will come of it. For the sake of Gridania, and Eorzea at large, put an end to their madness."
+    },
+    {
+      "character": "Eager Conjurer",
+      "text": "We would do well not to disturb the dead."
+    },
+    {
+      "character": "Dalamud Priest",
+      "text": "Who dares disrupt the rite!?"
+    },
+    {
+      "character": "Eager Lancer",
+      "text": "Careful─another voidsent!"
+    },
+    {
+      "character": "Eager Thaumaturge",
+      "text": "Phew. The altar is clear."
+    },
+    {
+      "character": "Dalamud Priest",
+      "text": "I smell fresh blood!"
+    },
+    {
+      "character": "Octavel the Unforgiving",
+      "text": "The master will be pleased!"
+    },
+    {
+      "character": "Galvanth the Dominator",
+      "text": "Who summons me from the void to reside within this crude vessel?"
+    },
+    {
+      "character": "Galvanth the Dominator",
+      "text": "You seem surprised. Did you not cross our gates in search of blood?"
+    },
+    {
+      "character": "Galvanth the Dominator",
+      "text": "Come hither, children of the dawn. The undying master will drink deep tonight!"
+    },
+    {
+      "character": "Eager Conjurer",
+      "text": "That a body could be so defiled... It's unforgivable!"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Welcome back, Forename ! I'm reliably informed that your foray into the Deepcroft was a success."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Nor did I expect anything less. You've made such a habit of succeeding that it's difficult not to take your talents for granted. Rest assured, however: Mother is impressed, even if she isn't surprised."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Nor did I expect anything less. Baderon's ringing endorsement left me in little doubt as to your capabilites. Even so, you are to be commended."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Bowlord Lewin asked me to pass on his thanks."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "I must say, it's something of a relief to be able to call upon such a capable adventurer."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Sadly, death has become an ever more common occurrence within our fraternity of late. Times being what they are, the guild is constantly inundated with petitions, and we are hard-pressed to find enough hands to deal with them all."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "While this means no shortage of work for able sould such as yourself, it also provides ample opportunity for the inexperienced to overreach themselves—with predictable consequences. Ah...as if to illustrate the point..."
+    },
+    {
+      "character": "Liavinne",
+      "text": "Avere's gone, and it's all your fault! If it hadn't taken you an age to heal him, he would still be alive!"
+    },
+    {
+      "character": "Edda",
+      "text": "<sniff> B-But I tried! He bolted out of range before I could finish the spell!"
+    },
+    {
+      "character": "Edda",
+      "text": "<sob> He shouldn't have been so hard-pressed in the first place... We should've done more to lighten his burden..."
+    },
+    {
+      "character": "Paiyo Reiyo",
+      "text": "Bah! To the hells with this pathetic excuse for a party! I'm leaving, and it'd be too soon if I never see your faces again! Good-bye, and good riddance!"
+    },
+    {
+      "character": "Liavinne",
+      "text": "I'm leaving as well. I doubt this comes as any surprise, but I never liked you. I only suffered you for your healing, but you couldn't even do that one thing right. Cruel though this may sound, you brought this upon yourself."
+    },
+    {
+      "character": "Liavinne",
+      "text": "Oh, any by way of some parting advice...get rid of Avere's head. Bury it, cremate it, do whatever the hells you like with it—but for gods' sakes, stop carrying it around! It's...It's just... Just get rid of it, all right!?"
+    },
+    {
+      "character": "Edda",
+      "text": "W-Wait! Don't leave me alone! Please!"
+    },
+    {
+      "character": "Edda",
+      "text": "<sob> I'm so sorry, Avere... Please forgive me..."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Scenes like this have become all too common. That makes a dozen times in half as many days..."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Now you see why I'm grateful for adventurers of your experience. I can send men / women like you on a mission without worrying that you might not return—well, not so much, at any rate."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Speaking of missions, I would entrust you with another."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "About a bell ago, I received a message from my counterpart in Ul'dah. She seeks the services of a reliable adventurer, and you are nothing if not reliable."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "If you think you might be interested in this task, say the word, and I will be glad to share the details with you."
+    }
+  ]
+}

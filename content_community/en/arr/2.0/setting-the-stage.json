@@ -1,0 +1,11 @@
+{
+  "id": "setting-the-stage",
+  "wiki_path": "/wiki/Setting_the_Stage",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title": "Setting the Stage",
+  "level": "49",
+  "location": "Northern Thanalan(X:20,Y:22)",
+  "npc_start": "Edelstein",
+  "dialogues": []
+}

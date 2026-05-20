@@ -1,0 +1,208 @@
+{
+  "id": "sylph-management",
+  "wiki_path": "/wiki/Sylph-management",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/a/ae/Sylph-management_Image.png",
+  "patch": "2.0",
+  "title": "Sylph-management",
+  "level": "20",
+  "location": "The Waking Sands(X:6.9,Y:6.1)",
+  "npc_start": "Minfilia",
+  "dialogues": [
+    {
+      "character": "Minfilia",
+      "text": "Now, having set aside the formalities..."
+    },
+    {
+      "character": "Minfilia",
+      "text": "...We have a favor to ask of you."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Urianger. Have the documents arrived from the Students of Baldesion?"
+    },
+    {
+      "character": "Urianger",
+      "text": "Aye, my lady, they arrived but recently."
+    },
+    {
+      "character": "Minfilia",
+      "text": "We have conducted a study at the behest of the Order of the Twin Adder."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Papalymo, Yda─a synopsis, if you would."
+    },
+    {
+      "character": "Papalymo",
+      "text": "Our task was to survey the behavior of the sylphs, a beast tribe indigenous to the Twelveswood."
+    },
+    {
+      "character": "Yda",
+      "text": "Oh, how to describe them... They look like...gysahl greens? Floating ones! That worship the primal Ramuh."
+    },
+    {
+      "character": "Papalymo",
+      "text": "Ahem. Though technically a “beast tribe,” sylphs are blessed with a comparatively personable demeanor, conducive to peaceful communication."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Offering us an invaluable opportunity to learn what the beast tribes know of the primals."
+    },
+    {
+      "character": "Papalymo",
+      "text": "While Ramuh's existence is well documented, the sylphs do not─or perhaps, can not─summon the primal any longer, insofar as can be ascertained. Until such time as we know..."
+    },
+    {
+      "character": "Papalymo",
+      "text": "...It would be unwise to assume that the threat posed by the primal has passed."
+    },
+    {
+      "character": "Yda",
+      "text": "Which leaves Gridania with the added worry of not knowing what they should be worrying about!"
+    },
+    {
+      "character": "Papalymo",
+      "text": "In that regard, they are hardly alone. What we can say with absolute certainty is that Gridania has its hands full fending off Garuda."
+    },
+    {
+      "character": "Papalymo",
+      "text": "Who, I need hardly remind you, is among the most savage and terrible of all known primals."
+    },
+    {
+      "character": "Minfilia",
+      "text": "In short, it is essential that we approach the sylphs in as diplomatic a manner as possible."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Words and actions can be misconstrued. The only sure way to communicate our intentions is the Echo."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Winning the sylphs' favor may well bring us a step closer to mitigating the threat of the primals. Will you help us?"
+    },
+    {
+      "character": "Minfilia",
+      "text": "I am grateful."
+    },
+    {
+      "character": "Thancred",
+      "text": "Lovely! Well, as much as I'd like to help, I'm afraid I would be of little use to anyone in Gridania. A veritable babe in the woods."
+    },
+    {
+      "character": "Thancred",
+      "text": "Yda and Papalymo, however, should be able to see the forest for the trees. Is that not so, Minfilia?"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Indeed. You are willing?"
+    },
+    {
+      "character": "Yda",
+      "text": "Leave it to me!"
+    },
+    {
+      "character": "Papalymo",
+      "text": "Us , Yda. Us !"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Your mission is to make contact with the sylphs, with the ultimate goal of finding a peaceful resolution to the threat posed by Ramuh."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Be fairly warned: the sylphs are a unique people to say the least, and you may find yourself bewildered by their customs at first. Yet know that Yda and Papalymo will be on hand to support all your endeavors."
+    },
+    {
+      "character": "Thancred",
+      "text": "Traipsing around in the woods is hardly my forte. 'Tis only fitting that those two be the ones to assist you this time."
+    },
+    {
+      "character": "Thancred",
+      "text": "Lest you harbor concerns about me and my idle hands, know that I will be busy conducting my own independent investigation while you entreat the sylphs."
+    },
+    {
+      "character": "Biggs",
+      "text": "We haven't forgotten how you saved us, Forename . Don't worry—Wedge and I mean to repay the favor in kind."
+    },
+    {
+      "character": "Wedge",
+      "text": "I like it here! Safe, hidden—a bit dank and dingy, perhaps, but I've known worse. Plus the receptionist was rather charming, don't you think?"
+    },
+    {
+      "character": "Liavinne",
+      "text": "Once upon a time, I aspired to make my name as an adventurer. It all cam crashing down that fateful day when I lost the man who led my party—the man who had won my heart."
+    },
+    {
+      "character": "Liavinne",
+      "text": "If I could not protect my love, how could I hope to protect my realm? I sunk to the depths of despair."
+    },
+    {
+      "character": "Liavinne",
+      "text": "Pathetic, is it not? Others may have come to join some great cause, while I am here only because I have nowhere else to go."
+    },
+    {
+      "character": "Una Tayuun",
+      "text": "Guess what, Forename ? We found our third man! 'Twas bleedin' Satzfloh. Bugger me, how could I ever forget about Satzfloh?"
+    },
+    {
+      "character": "Una Tayuun",
+      "text": "Aye, the three of us was always together...I think."
+    },
+    {
+      "character": "Haribehrt",
+      "text": "The name's Haribehrt. I've taken up residence here...for reasons I'd prefer not to delve into."
+    },
+    {
+      "character": "Haribehrt",
+      "text": "I may not be of much use on the battlefield, but I know a thing or two about dealing with people. If you find yourself in a bind, you'd do well to avail yourself of my services."
+    },
+    {
+      "character": "Brennan",
+      "text": "The merchants told me it was Brendt that delivered their goods. Maybe if I wait a while, he'll come back with another shipment..."
+    },
+    {
+      "character": "Urianger",
+      "text": "Ramuh, beloved primal of the sylphs. Rooted is he in the laws of eld, the stern arbiter of the forest."
+    },
+    {
+      "character": "Urianger",
+      "text": "Legend hath it this thunderous entity appeareth in the guise of an elderly sage. Thus, doth history oft speaketh of the \"old man of the woods.\""
+    },
+    {
+      "character": "A'aba Tia",
+      "text": "They tell me ye were instrumental in Ifrit's defeat. Bravo, Forename , bravo!"
+    },
+    {
+      "character": "A'aba Tia",
+      "text": "Perhaps ye heard of my exploits? The Flames and I struck a decisive blow against the lizardmen by destroyin' and pillagin' their stores of crystals. Aye, they won't be summonin' their primal again any time soon!"
+    },
+    {
+      "character": "Arenvald",
+      "text": "(A'aba neglects to mention that our allied forces suffered heavy casualties. The operation succeeded, but at great cost.)"
+    },
+    {
+      "character": "Arenvald",
+      "text": "(With an outcome like that, should we truly consider it a victory? A'ada says we should, but I'm not so sure.)"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "With the addition of the two engineers you rescued, the Waking Sands has become lively indeed."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "Were you aware that entry to the Sands requires the fulfillment of certain conditions? One must either gain recognition from the Scions...or earn the approval of Tataru. Our Lalafellin clerk has quite a discerning eye for character."
+    },
+    {
+      "character": "Tataru",
+      "text": "Good morrow, Forename ! I trust your investigation is faring well!"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "We know far too little of the sylphs to lay any worthwhile plans. We must call upon the Scions once more if we are to─"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "Ah, beg pardons. 'Tis a terrible habit of mine to think aloud. But tell me, what brings you to the Adders' Nest?"
+    }
+  ]
+}

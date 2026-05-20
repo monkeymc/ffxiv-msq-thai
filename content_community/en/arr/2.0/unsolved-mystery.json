@@ -1,0 +1,60 @@
+{
+  "id": "unsolved-mystery",
+  "wiki_path": "/wiki/Unsolved_Mystery",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Unsolved Mystery",
+  "level": "17",
+  "location": "Eastern Thanalan(X:13.9,Y:23.6)",
+  "npc_start": "Isembard",
+  "dialogues": [
+    {
+      "character": "Isembard",
+      "text": "Let us get right to it, then. Minfilia names the Amalj'aa culprits in all this. You would do well to investigate them, first."
+    },
+    {
+      "character": "Isembard",
+      "text": "Much harm has been levied on these lands by Amalj'aa hands. The Flames burn where they might, but their light cannot stay the darkness in all places at all times."
+    },
+    {
+      "character": "Isembard",
+      "text": "There have been brutal murders of callers at the Church of Saint Adama Landama─innocents wishing no more than to pay their respects to the dead."
+    },
+    {
+      "character": "Isembard",
+      "text": "The poor souls deserve a proper burial. I would see to the deed before mongrels catch their scent, but I know not if the Amalj'aa still linger."
+    },
+    {
+      "character": "Isembard",
+      "text": "Would you secure their remains for me, friend? You will find them on the eastern road."
+    },
+    {
+      "character": "Isembard",
+      "text": "Twelve willing, you may even come to learn something of what the Amalj'aa seek in this area."
+    },
+    {
+      "character": "Isembard",
+      "text": "It is good to see you returned. Were you able to secure the remains of our fallen?"
+    },
+    {
+      "character": "Isembard",
+      "text": "With the bodies given back proper to the earth, the souls will find their way across to the other side. You have done a noble deed this day. I thank you."
+    },
+    {
+      "character": "Isembard",
+      "text": "Now, then, what of the Amalj'aa? Did you see any? Surely such massive monstrosities as they cannot conceal their presence, much less take their quarry unawares."
+    },
+    {
+      "character": "Isembard",
+      "text": "Ah, so there were Amalj'aa remaining, after all... I feared as much. Their part in the lowborn disappearing is all but confirmed. But I sense there is more to this than meets the eye."
+    },
+    {
+      "character": "Isembard",
+      "text": "The occasional Amalj'aa raiding party would not account for people going missing in these kinds of numbers. The total is too great, and the questions too many. It would not surprise me in the least to learn of another hand in this."
+    },
+    {
+      "character": "Isembard",
+      "text": "But whose? Countless travelers pass through Drybone every day. And even if it were one among them, how would we best discover who may be implicit in these vanishings?"
+    }
+  ]
+}

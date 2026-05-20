@@ -1,0 +1,11 @@
+{
+  "id": "ratting-it-out",
+  "wiki_path": "/wiki/Ratting_It_Out",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title": "Ratting It Out",
+  "level": "24",
+  "location": "Eastern Thanalan(X:20,Y:21)",
+  "npc_start": "Hihibaru",
+  "dialogues": []
+}

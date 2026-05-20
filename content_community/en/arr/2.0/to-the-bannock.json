@@ -1,0 +1,56 @@
+{
+  "id": "to-the-bannock",
+  "wiki_path": "/wiki/To_the_Bannock",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "To the Bannock",
+  "level": "4",
+  "location": "New Gridania(X:11.7,Y:13.5)",
+  "npc_start": "Mother Miounne",
+  "dialogues": [
+    {
+      "character": "Mother Miounne",
+      "text": "Forename , have you visited the Bannock on your wanderings?"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "It is a training ground found just outside the city where the soldiers of the Order of the Twin Adder are drilled in swordplay and other martial matters."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "I mention this because an acquaintance of mine -- a gentleman by the name of Galfrid -- is an instructor there, and I think you may be of use to him. Go and introduce yourself, and find out if there is anything you can do to help."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Mind you do not stray far from the path -- the Twelveswood is no place for merry strolls through the underbrush."
+    },
+    {
+      "character": "Galfrid",
+      "text": "Greetings, Forename . Miounne sent word to expect you."
+    },
+    {
+      "character": "Galfrid",
+      "text": "My name is Galfrid, and I am responsible for training our Twin Adder recruits."
+    },
+    {
+      "character": "Galfrid",
+      "text": "I thank you for volunteering your assistance. The Twelveswood is much changed since the calamitous arrival of the Seventh Umbral Era five years ago."
+    },
+    {
+      "character": "Galfrid",
+      "text": "The power of the elementals wanes, and the harmony of the forest gives way to chaos. A great abundance of life has been lost as the strong run rampant, stifling the weak and new-sprung."
+    },
+    {
+      "character": "Galfrid",
+      "text": "Though it may not appear so to the eyes of an outsider, the Twelveswood is ailing -- its once rich variety a fading memory."
+    },
+    {
+      "character": "Galfrid",
+      "text": "For the citizens of Gridania , the restoration of the forest is a sacred duty. And it is my hope that adventurers such as you will offer to aid them in their struggle."
+    },
+    {
+      "character": "Galfrid",
+      "text": "Listen to their requests, and do all that you can. May the elementals bless your endeavors, Forename ."
+    }
+  ]
+}

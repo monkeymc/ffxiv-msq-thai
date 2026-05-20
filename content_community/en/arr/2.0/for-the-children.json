@@ -1,0 +1,44 @@
+{
+  "id": "for-the-children",
+  "wiki_path": "/wiki/For_the_Children",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "For the Children",
+  "level": "19",
+  "location": "Eastern Thanalan(X:13.9,Y:23.6)",
+  "npc_start": "Isembard",
+  "dialogues": [
+    {
+      "character": "Isembard",
+      "text": "Sister Ourcen... It cannot be. Though, she is wont to travel to the Golden Bazaar on her own, and it is not uncommon to see her speaking to the children. But...no. It could not be she...could it?"
+    },
+    {
+      "character": "Isembard",
+      "text": "Hmmm... <sigh> I grow weary of these suspicions. I know there is one child in particular that she is fond of. Pray seek out the boy, Forename , and see if you cannot glean something from him about Ourcen's activities."
+    },
+    {
+      "character": "Uncombed Urchin",
+      "text": "Please help! Sister Ourcen went out all on her own and hasn't come back!"
+    },
+    {
+      "character": "Uncombed Urchin",
+      "text": "She always reads to me right here, about Thal and the Order and the other side. I told her I lost my shiny thing and she went looking for it. But what if the monsters outside hurt her? Please find her!"
+    },
+    {
+      "character": "Ourcen",
+      "text": "You... You are the one from the church. Thank goodness you arrived when you did. It seems my gratitude is yours yet again."
+    },
+    {
+      "character": "Ourcen",
+      "text": "You spoke with the child? Yes, well, I was able to find his lost trinket. It is a ring given him by his mother before she passed. I will see it safely back to him."
+    },
+    {
+      "character": "Isembard",
+      "text": "Sister Ourcen was attacked outside the Golden Bazaar? Gods forfend... I will secure a room at the inn for her should she require any rest."
+    },
+    {
+      "character": "Isembard",
+      "text": "Searching for the mementos of orphans? And risking her own well-being in the doing, no less? Certainly not the dastardly deeds Thancred would have us believe."
+    }
+  ]
+}

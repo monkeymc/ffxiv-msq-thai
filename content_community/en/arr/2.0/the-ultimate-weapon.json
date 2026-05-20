@@ -1,0 +1,1380 @@
+{
+  "id": "the-ultimate-weapon",
+  "wiki_path": "/wiki/The_Ultimate_Weapon",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/7/78/The_Ultimate_Weapon_Image.png",
+  "patch": "2.0",
+  "title": "The Ultimate Weapon",
+  "level": "50",
+  "location": "Northern Thanalan(X:15.5,Y:16.9)",
+  "npc_start": "Raubahn",
+  "dialogues": [
+    {
+      "character": "Raubahn",
+      "text": "For the final phase of the operation, my Flames will storm Castrum Meridianum and suppress what is left of the imperial garrison. If all goes well, this will allow you to reach the Praetorium unopposed─fit and ready for your encounter with the Ultima Weapon."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Yours is the most dangerous mission of all, but the best must bear the heaviest burden, and you're the best we have. There's not another soul in this realm that could see this deed done, and Merlwyb and Kan–E are of the same mind as me."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Though all hangs on your success, you must not let our plight make you desperate. Victory belongs to the bold, not the reckless. Bards are wont to sing of heroes who valued their life at naught next to honor, love, and liberty, but I tell you now: that which men value at naught, they sell cheap. Risk no more than you must, you hear me?"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Now, best you were off─we have work to do, the both of us. See that your preparations are in order, then report to Cid. He awaits you with the Enterprise at the Ceruleum Processing Plant. May Rhalgr grant you strength."
+    },
+    {
+      "character": "Cid",
+      "text": "The Enterprise is at your disposal. When you're ready to head for the Praetorium, you need only say the word."
+    },
+    {
+      "character": "Cid",
+      "text": "If we succeed in destroying the Ultima Weapon, it will deal a crippling blow to the Empire's hopes of conquest. After that, the XIVth Legion would not dare to move against us─barring the discovery of further Allagan doomsday devices, that is..."
+    },
+    {
+      "character": "Cid",
+      "text": "Let's be on our way, Forename ! Gaius and his plaything await!"
+    },
+    {
+      "character": "Cid",
+      "text": "So here we are..."
+    },
+    {
+      "character": "Cid",
+      "text": "The Ultima Weapon will almost certainly be housed in the depths of the complex."
+    },
+    {
+      "character": "Cid",
+      "text": "This is it, my friend!"
+    },
+    {
+      "character": "Flame Thaumaturge",
+      "text": "We need but stick to the plan, and all will be well."
+    },
+    {
+      "character": "Cid",
+      "text": "We need to make our way down. There ought to be a terminal for the lift up ahead."
+    },
+    {
+      "character": "Cid",
+      "text": "Here it is. If you'd care to take the van, I'll follow after I've had a look around."
+    },
+    {
+      "character": "Cid",
+      "text": "Gaius!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Ah, Cid, my boy... You are late."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "There is something I always meant to tell you, yet the time never seemed right. It concerns your father."
+    },
+    {
+      "character": "Cid",
+      "text": "...What of him?"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "In the winter of his years, Midas came to abhor his part in Meteor. He told me that he wanted nothing more than to wash his hands of the whole sordid business."
+    },
+    {
+      "character": "Cid",
+      "text": "But he did not wash his hands of it. He helmed the project until the day it killed him!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Come now, Cid...you must know that he did not have the luxury of choice. By the time he realized his error, it was too late. Meteor had him completely in its thrall."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Shortly before his...transformation, mayhap sensing that something was amiss, your father confided to me all the regrets of his life. Most of them concerned you ."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Early on in your career, he realized that while you had a talent for devising armaments, it would never fulfill you. Long before you knew your own mind, he saw that you would be far happier using your knowledge for peaceful purposes, and the thought touched him. He was a changed man for it, though he could not let it show."
+    },
+    {
+      "character": "Cid",
+      "text": "You ripped open walls in this place just so you could say this to me!? What is it you want, Gaius!?"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "I want you at my side, Cid. Take up your father's mantle, and become the Empire's lead engineer. It is your destiny."
+    },
+    {
+      "character": "Cid",
+      "text": "My father had a change of heart─you said so yourself! Besides, I have long known my destiny, and I assure you, it lies not with the Empire!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "A pity. And what of you, adventurer? Will you not consider making common cause with me?"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "With your powers joined to mine, we might do much for this realm. Together, we could bring order to Eorzea, and usher in a lasting peace."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "No? And I can expect no better answer than this? So be it. It was your strength that made me proffer my hand in friendship, and it is your strength that makes me proffer now my blade. Save as an ally, you are too dangerous to be let to remain."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Run, Cid. Or stay. It makes no matter. You cannot escape the past."
+    },
+    {
+      "character": "Cid",
+      "text": "Gaius, wait! ...Damn it!"
+    },
+    {
+      "character": "Storm Marauder",
+      "text": "Brace yourselves─more magitek!"
+    },
+    {
+      "character": "Cid",
+      "text": "Right, I'll examine the equipment for intelligence. Press on─I'll let you know if I learn anything."
+    },
+    {
+      "character": "Cid",
+      "text": "Well, well, would you look at this! It's the armor we borrowed for our mission at Castrum Centri!"
+    },
+    {
+      "character": "Flame Thaumaturge",
+      "text": "This magitek armor should do the job."
+    },
+    {
+      "character": "Cid",
+      "text": "If this isn't fate, I don't know what is! Go on, strap yourself in and raise hells!"
+    },
+    {
+      "character": "Cid",
+      "text": "That bulkhead is composed of a special alloy. Extremely tough. Ordinary fire won't leave a mark, I'm afraid."
+    },
+    {
+      "character": "Cid",
+      "text": "You'll need to divert all power to the magitek cannon, as I did at Castrum Meridianum."
+    },
+    {
+      "character": "Cid",
+      "text": "The armor's core is like to expire from the strain, but there's no help for it if we want to press on."
+    },
+    {
+      "character": "Cid",
+      "text": "Now, listen well. Press...<buzzzzzz>...the control...<fizzzzzz>...engage ancillary...then fire away. Don't mind the warning lights."
+    },
+    {
+      "character": "Cid",
+      "text": "You're a natural at this! All right, the way's clear, but it's just you and your own two feet now, so be careful."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "You have been leaving a fine mess in your wake, adventurer."
+    },
+    {
+      "character": "Cid",
+      "text": "Is someone there!?"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "Garlond, old friend. How it warms the heart to hear your voice again after all these years."
+    },
+    {
+      "character": "Cid",
+      "text": "...Nero? Is that you!?"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "You sound well. It would seem this savage land agrees with you."
+    },
+    {
+      "character": "Cid",
+      "text": "The highest ranking tribunus of the XIVth... It was you all this time?"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "Tell me, Garlond. How long do you intend to keep all the glory for yourself?"
+    },
+    {
+      "character": "Cid",
+      "text": "Uh...what? You've lost me."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "Don't play the fool with me. Ever since the Academy, I have been condemned to live in your shadow."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "By all objective measure, I was the more talented of the two of us, yet that fact counted for naught beside your privileged birth. You were admired as the young prodigy simply because your father was the great Midas nan Garlond!"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "When you defected, I felt sure my star would finally rise..."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "But by disappearing, you acquired the status of a legend─your reputed genius gaining credence merely by dint of your absence! Instead of cursing you for a traitor, the people actually came to think of you more fondly ! To this day, you are still the young prodigy of magitek!"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "I, meanwhile, have ever been made to feel second-rate─I who have continued to serve our nation faithfully. Whenever I fail to excel─why, it is only to be expected! Yet when I exceed all reasonable expectations, people proclaim that I walk in the footsteps of the great Cid nan bloody Garlond!"
+    },
+    {
+      "character": "Cid",
+      "text": "Nero, I...I don't know what to say."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "It matters not a whit what I achieve. Your existence has rendered mine worthless. Even Lord van Baelsar saw fit to offer you a place at his side─and this in spite of your betrayal! Did he extend any such offer to me─the man who has remained loyal to him for all these years? Why, no. He did not."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "Long have I endured this injustice...but no more."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "Lord van Baelsar is in the midst of activating the fully powered Ultima Weapon."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "It is my magnum opus─the creation that will win me the recognition I am due. I will not let anyone interfere."
+    },
+    {
+      "character": "Cid",
+      "text": "Nero! What are you─!?"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "Ever since I first set foot in this benighted land, I have watched you─every move you have made, every step you have taken."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "You have felled eikons, a feat made possible by the Echo, a peculiar power which shields you from their corrupting influence."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "It is of little wonder that my lord has taken an interest in you."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "As have I, if truth be told. It is my desire to harness your power for use in the Ultima Weapon."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "Should I succeed, Lord van Baelsar will surely take notice! Beside this, Garlond's achievements will be as child's play!"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "Come, adventurer, and yield to me the secrets of your power!"
+    },
+    {
+      "character": "Storm Marauder",
+      "text": "Blood crimson... A fitting color."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "I have taken the liberty of preparing an electrifying stage for you."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "I will lay Garlond low, but first I must break you!"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "Meet one of my creations. You might find it a handful ."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "<pant> I will not suffer...to be in another's shadow!"
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "This changes...nothing..."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "Ahahahaha! The Ultima Weapon is activated, and it brims with the power of eikons! Nothing can withstand its might!"
+    },
+    {
+      "character": "Cid",
+      "text": "Are you all right!?"
+    },
+    {
+      "character": "Cid",
+      "text": "What of Nero!? ...Fled!? Damn it!"
+    },
+    {
+      "character": "Cid",
+      "text": "In the instant prior to the blackout, the instruments detected a massive power surge from the deepest chamber."
+    },
+    {
+      "character": "Cid",
+      "text": "Gaius is certain to be there! We have no time to waste!"
+    },
+    {
+      "character": "Cid",
+      "text": "Word arrived from the Alliance a short while ago. It seems the Order of the Twin Adder has completed its blockade of Castrum Centri."
+    },
+    {
+      "character": "Cid",
+      "text": "What hands they can spare are hastening this way even as we speak, and likewise for the Maelstrom. All that's left is to destroy the Ultima Weapon!"
+    },
+    {
+      "character": "Cid",
+      "text": "...I should warn you: the chamber which houses the target appears to be saturated with aetheric energies. There's bound to be heavy interference."
+    },
+    {
+      "character": "Cid",
+      "text": "But even if we lose contact, you must go on. Just don't do anything I wouldn't do, all right?"
+    },
+    {
+      "character": "Cid",
+      "text": "Look for the lift's control panel─it'll be somewhere nearby."
+    },
+    {
+      "character": "Cid",
+      "text": "Take the lift down, and you should find yourself in the chamber of the Ultima Weapon."
+    },
+    {
+      "character": "Cid",
+      "text": "Keep your eyes peeled─Gaius could be waiting for you down there."
+    },
+    {
+      "character": "Cid",
+      "text": "Oh, and don't even think about dying. You're too bloody useful!"
+    },
+    {
+      "character": "Cid",
+      "text": "The interference is getting worse. I don't think the connection will last much─"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Tell me...for whom do you fight?"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Hmph! Do you believe in Eorzea?"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Eorzea's unity is forged of falsehoods. Its city-states are built on deceit. And its faith is an instrument of deception."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "It is naught but a cobweb of lies. To believe in Eorzea is to believe in nothing."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "In Eorzea, the beast tribes often summon gods to fight in their stead─though your comrades only rarely respond in kind. Which is strange, is it not?"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Are the “Twelve” otherwise engaged? I was given to understand they were your protectors. If you truly believe them your guardians, why do you not repeat the trick that served you so well at Carteneau, and call them down?"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "They will answer─so long as you lavish them with crystals and gorge them on aether."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Your gods are no different from those of the beasts─eikons every one. Accept but this, and you will see how Eorzea's faith is bleeding the land dry."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Nor is this unknown to your masters. Which prompts the question: why do they cling to these false deities? What drives even men of learning─even the great Louisoix─to grovel at their feet?"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "The answer? Your masters lack the strength to do otherwise!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "For the world of man to mean anything, man must own the world."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "To this end, he hath fought ever to raise himself through conflict─to grow rich through conquest."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "And when the dust of battle settles, it is ever the strong who dictate the fate of the weak."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Knowing this, but a single path is open to the impotent ruler─that of false worship. A path which leads to enervation and death."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Only a man of power can rightly steer the course of civilization. And in this land of creeping mendacity, that one truth will prove its salvation."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Come, champion of Eorzea, face me! Your defeat shall serve as proof of my readiness to rule!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "It is only right that I should take your realm. For none among you has the power to stop me!"
+    },
+    {
+      "character": "Serpent Conjurer",
+      "text": "This ends here, Black Wolf!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Let us dance, champion of Eorzea."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Know your place!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Impressive! Now it is my turn!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Come, we shall see if you can finish what you have started."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "If you will not yield, then you will be destroyed!"
+    },
+    {
+      "character": "Gaius van Baelsar (voice acted)",
+      "text": "Eorzea is mine by right!"
+    },
+    {
+      "character": "Gaius van Baelsar (voice acted)",
+      "text": "Yaaaaaargh!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "That you should still stand... Very well, then!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "I had not thought to be so hard-pressed."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Your strength is...most impressive. Such power befits a ruler!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Yet you lack the resolve to put it to proper use. A waste."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Allow me, then, hero, to do that which you will not!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Bear witness to the true power of the Ultima Weapon!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "The Ultima Weapon has partaken of the power of eikons! None can stand against it!"
+    },
+    {
+      "character": "Gaius van Baelsar (voice acted)",
+      "text": "Kneel to the might below!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "The land itself is mine to wield!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Be entombed in earth!"
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Hear... Feel... Think..."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Thy foe is Darkness clad in steel. If thou wouldst triumph, thou must look to the Light."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Titan's essence...torn from the Ultima Weapon!?"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "No matter─it still harbors the might of other eikons!"
+    },
+    {
+      "character": "Gaius van Baelsar (voice acted)",
+      "text": "Yield to the storm!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "The wind is at my beck and call!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Naught can pierce the raging tempest!"
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Once more, crystal bearer. Look to the Light to vanquish the Darkness."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Garuda's as well!? Impossible!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "But the Ultima Weapon is not spent of eikon power yet!"
+    },
+    {
+      "character": "Gaius van Baelsar (voice acted)",
+      "text": "Succumb to the flames!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "So this is the strength of the eikon-slayer..."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Very well, let us see how you fare when the Ultima Weapon's power inhibitor is disengaged!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Naught will remain of you but ash!"
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Yield not to the Darkness, my child. Pray to the Crystal with all thy being."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "No! How...how are you doing this!?"
+    },
+    {
+      "character": "Gaius van Baelsar (voice acted)",
+      "text": "This has gone on long enough."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "But the Ultima Weapon is all-powerful! Why does my enemy still stand!?"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Can his / her strength truly be so great?"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "It is the blessing of Light that confounds you."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Lahabrea."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Your foe acts under the protection of the Crystal she bears."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "So, this is what empowers him / her ."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Beyond mortal limits."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "If you are to prevail, the hammer of Darkness must needs be brought to bear upon the shield of Light."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "And so it shall, for the Ultima Weapon is host to a power of which you are as yet ignorant."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Speak plainly, Ascian."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "The Heart of Sabik. It is the Weapon's core─an enigma whose surface even the vaunted scholars of ancient Allag failed to scratch."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "The magic within has lain dormant for eons."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Of what magic do you speak?"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "A spell without parallel. Ultima."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "I sought the life force of the primals for no other reason but to quicken the core. For the true power of the Ultima Weapon lies within its now-beating Heart!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Lahabrea... What have you done?"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "No more than was necessary...for my god to be reborn."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Damn you, Ascian!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "The hour is at hand! Behold but a sliver of my god's power!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "And from the deepest pit of the seven hells to the very pinnacle of the heavens, the world shall tremble! Unleash Ultima!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Ahahahahahaha!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Such devastation... This was not my intention..."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Oh, Hydaelyn...it seems the task of keeping Your champion alive has exhausted what strength You had left."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Van Baelsar... Your enemy's shield is broken."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "The rest I leave to you."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "We will speak later, Ascian."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "But first, I must deal with you. The question of who is mightier remains!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Come, adventurer! Let us find the answer together!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "We settle this once and for all!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "I need not the power of eikons to defeat you! Gaze upon true power! [Note: The second sentence is voice acted]"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "This is most...unexpected. You are possessed of great might, this I will allow."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Yet yours is not the might of a ruler! Such is the difference between us─a difference that will assure my victory!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "U-Ultima!? Curse you, Ascian!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "How much destruction must be wreaked before you are sated!?"
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "I have not the strength...to shield thee again..."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Permit not the manifestation of that vile magick...lest Darkness prevail!"
+    },
+    {
+      "character": "Storm Marauder",
+      "text": "I can feel my strength returning!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "No... No, no, NO! Uh!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Heed me... The subjects of a weak ruler must needs look to a higher power for providence...and their dependence comes at a cost to the realm."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "The misguided elevate the frail... And the frail lead the people astray."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Unless a man of power wrests control...the cycle will never be broken."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "You... You of all people must see the truth in this. You who have the strength to rule..."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Pathetic."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "You boasted of unrivaled power. You were entrusted with the ultimate weapon. The ultimate magic !"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "And still you failed. So much for the glory of man."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "The growing imbalance afflicting the planet must be redressed."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "If it is permitted to worsen, the very laws of existence─both aetheric and physical─will be warped beyond all recognition."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Know you the root of this corruption? Hydaelyn!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Like a parasite, She must be burned out if the planet is to recover."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "And naught but the return of the one true god will ensure Her complete excision."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Yet to pave the way for the master's return, a chaotic confluence of untold proportions must needs be brought about. And that will necessitate the presence of the primals."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Needless to say, both you and your Scion accomplices can not be suffered to interfere in this endeavor."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "You will not leave this place alive."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "It is past time your flame was extinguished...“Bringer of Light.”"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "For the sake of the star, I will deal with you personally!"
+    },
+    {
+      "character": "Lahabrea (voice acted)",
+      "text": "Begone!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Searing flames, cleanse all in the name of the one true god!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Those tainted by Light cannot be suffered to live! Go forth, my shadows!"
+    },
+    {
+      "character": "Lahabrea (voice acted)",
+      "text": "Hahahaha!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "I will show you true magic! Fires of creation─arise!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "You have meddled enough! Farewell, servant of Light! [Note: The first sentence is voice acted.]"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Hmph. Yours was always a vain struggle."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Surrender not, my child. Look thee to the Light..."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "And receive of the power to banish the Darkness!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "That You should still have the strength to interfere... Damn You, Hydaelyn!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "No matter. Blessing or no, you imperfect beings cannot hope to defeat me!"
+    },
+    {
+      "character": "Lahabrea (voice acted)",
+      "text": "Begone!"
+    },
+    {
+      "character": "Lahabrea (text bubble)",
+      "text": "You withstood the Darkness!? Impossible!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "You are strong, I concede..."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Yet know that if I should perish, so too will the mortal within whose flesh I reside."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Mark not the Dark Minion's subtle words. Only Light may banish the Darkness!"
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "If thou wouldst pierce the shadows...make thee a blade of Light."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "What!?"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "The Light...it binds them... They are too many!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Aaaaaaaaarrrgh!!!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "And so my conquest ends, Cid."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "In smoke and ashes..."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Hear... Feel... Think..."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Warrior of Light. Beloved son / daughter ."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "The Darkness hath fled before the unclosed brilliance of thy spirit."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Yet it lingereth still beyond the sight of men, in forgotten corners of the world."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "In the depths of the abyss yet resideth the Dark One, watchful ever."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Till this evil be cast out, never shall the world know aught but a passing peace."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Yet for the present, a gentle light shineth o'er the realm of Eorzea."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "With thee at its heart."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "From sparkling mote shall it swell to glorious sun, and all the world shall bask in its warmth."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Blessings and joy be upon thee."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Go forth, my child, and be as a beacon of hope for Eorzea and the lands beyond, through all the days of thy life."
+    },
+    {
+      "character": "Serpent Scout",
+      "text": "My lady! All Twin Adder units have fallen back to the outer perimeter!"
+    },
+    {
+      "character": "Flame Scout",
+      "text": "The Flames have completed their withdrawal, General!"
+    },
+    {
+      "character": "Storm Scout",
+      "text": "Admiral! All hands accounted for!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "He's / She's still in there..."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Cid! Has there been no word?"
+    },
+    {
+      "character": "Cid",
+      "text": "Nothing. Nothing at all."
+    },
+    {
+      "character": "Papalymo",
+      "text": "Damnation!"
+    },
+    {
+      "character": "Yda",
+      "text": "He's / She's going to make it! I know he / she is!"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "Yda is right. We must have faith."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Cid! Can they not be evacuated aboard the Enterprise ?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "That adventurer and the Scions are as the Warriors of Light reborn."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "We cannot abandon them to their fate! Not again!"
+    },
+    {
+      "character": "Cid",
+      "text": "I wholeheartedly agree! But flying into the midst of that would only add to the fireworks!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "There must be something we can do!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Please, Mother Hydaelyn. Please light his / her way through the darkness..."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Look into the Light, my child. If thou wouldst see thy companions returned safe to thee, reach out to them now."
+    },
+    {
+      "character": "Minfilia",
+      "text": "There!"
+    },
+    {
+      "character": "Papalymo",
+      "text": "Oh!"
+    },
+    {
+      "character": "Yda",
+      "text": "Yay!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Our Warrior of Light..."
+    },
+    {
+      "character": "Cid",
+      "text": "Yes! The hero returns!"
+    },
+    {
+      "character": "Yda",
+      "text": "Look! Thancred is with him / her !"
+    },
+    {
+      "character": "Papalymo",
+      "text": "Thank the Twelve!"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "Thank Hydaelyn..."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Welcome home."
+    },
+    {
+      "character": "Yda",
+      "text": "You almost got us killed that one time, remember?"
+    },
+    {
+      "character": "Papalymo",
+      "text": "Now now, we both know that was your fault."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Thank the Twelve we're safe."
+    },
+    {
+      "character": "Cid",
+      "text": "Mind your horns there, manbull."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Ha! Mayhap when you mind your manners."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Though the Crystal that bound Thancred is no more, I doubt we can say the same of Lahabrea."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "And even if we could, we know that he is not alone. Confounded Ascians..."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Their god may be unknown to us, but their zeal is unquestionable."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Suffice it to say, it would be folly to assume that they no longer pose a threat."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Nevertheless..."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "For now we must savor what peace we have won, however ephemeral."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Do you see, Grandfather? Our first step towards realizing the dream for which you gave your life."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Friends! The dread night of imperial tyranny and Ascian machination is ended. A new day now begins in Eorzea."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "True to their name, the Scions of the Seventh Dawn, along with our champion, have delivered us from darkness."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Let their shared victory serve to remind us of our shared history."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "And let their bravery in the face of adversity inspire future generations."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Doubt not the ream will need bravery in the days to come."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Old rifts threaten to divide us within our walls, while hordes of beastmen claw at our gates."
+    },
+    {
+      "character": "Raubahn",
+      "text": "And though the Black Wolf be slain, the rest of the pack remains."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Yet no foe need we fear, so long as we stand as one..."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "So long as the Scions stand for peace..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "So long as our champion stands fast..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "For there exists no adversity over which we may not jointly prevail."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "No longer can we turn a blind eye to the suffering of our allies."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "No nation stands alone. If one should fall, so shall we all."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Eorzea is our shared home. For any one of us to know peace, so too must our neighbor."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Just as we join in solidarity before you this day..."
+    },
+    {
+      "character": "Raubahn",
+      "text": "...So too shall our Grand Companies be joined henceforth, to strive not only for the good of mere nations..."
+    },
+    {
+      "character": "Raubahn",
+      "text": "...But for the good of all the realm."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Change will not come overnight."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Yet I foresee a day, not so very far from now, when the lines that divide our lands fade..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "...And all of Eorzea is one."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "It has been but five short years since the Battle of Carteneau. Five years since the advent..."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "...Of the Seventh Umbral Era."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "No victory, however sweet, can wash away our bitter sorrows. No triumph can reclaim those we lost."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Yet do not presume you honor them by dwelling on the past."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "It was not the past they fought for. You would repay their sacrifice by looking to the future."
+    },
+    {
+      "character": "Raubahn",
+      "text": "A future united, as the Warriors of Light united in the champion."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Now is the time for us to rise as one, bearing all of Eorzea on our shoulders!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Five years ago, Eorzea bore witness to the end of the Sixth Astral Era."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Now the Seventh Umbral Era draws to a close. Yet we come together not to glory in it's end, but to mark a new beginning."
+    },
+    {
+      "character": "Leaders",
+      "text": "Let it be writ that on this day... by the light of the Crystal... Eorzea ushered in a NEW era!"
+    },
+    {
+      "character": "Leaders",
+      "text": "The Seventh Astral Era is come!"
+    },
+    {
+      "character": "Leaders",
+      "text": "And thus is ours a realm reborn!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "What is it?"
+    },
+    {
+      "character": "Papalymo",
+      "text": "What was that?"
+    },
+    {
+      "character": "???",
+      "text": "That roar... It can't be!"
+    },
+    {
+      "character": "???",
+      "text": "Did you hear that?"
+    },
+    {
+      "character": "Raubahn",
+      "text": "There's no time to spare!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Where is it coming from?"
+    },
+    {
+      "character": "Scout",
+      "text": "Dread tidings! Chaos and carnage..."
+    },
+    {
+      "character": "Scout",
+      "text": "It is an abomination—! A...primal! A primal has awakened!"
+    },
+    {
+      "character": "Pashtarot",
+      "text": "Bahamut stirs."
+    },
+    {
+      "character": "Igeyorhm",
+      "text": "As will the others ere long."
+    },
+    {
+      "character": "Nabriales",
+      "text": "'Tis not a question of whether Eorzea's champion shall yield, but of when."
+    },
+    {
+      "character": "Lahabrea",
+      "text": "And with each passing moment we draw closer to the Reckoning."
+    },
+    {
+      "character": "Ascians",
+      "text": "To the one true god!"
+    },
+    {
+      "character": "Ascians",
+      "text": "To Zodiark!"
+    },
+    {
+      "character": "Banner Text",
+      "text": "AND THUS DID DAWN BREAK ON A REALM REBORN"
+    },
+    {
+      "character": "Banner Text",
+      "text": "BUT WHERE THERE IS LIGHT, THERE IS ALWAYS SHADOW"
+    },
+    {
+      "character": "Minfilia",
+      "text": "The Archons have conducted a preliminary investigation into the origin of the roar that rang out during the celebration. Their findings strongly suggest that a new primal has appeared."
+    },
+    {
+      "character": "Minfilia",
+      "text": "The roar generated a distinctive wave pattern in the aether, a pattern observed only once before in history─five years ago, to be precise. I should like to think it mere coincidence, yet we cannot discount that possibility... Well, I trust I need say no more."
+    },
+    {
+      "character": "Minfilia",
+      "text": "At great sacrifice, we have delivered Eorzea from the threat posed by the Empire and the primals, and thereby secured peace. We cannot well allow the realm to be plunged into chaos once more."
+    },
+    {
+      "character": "Minfilia",
+      "text": "You have given your all for our cause, risking life and limb on I know not how many occasions, yet our struggle continues, and we need you now no less than before."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Please continue to stand with us, and together we shall safeguard the future of the realm─of this very star!"
+    },
+    {
+      "character": "Dariustel",
+      "text": "By the gods, to think that this ragtag band of idealists could lay the XIVth low. 'Tis a tale straight from a story book."
+    },
+    {
+      "character": "Dariustel",
+      "text": "I imagine my former associates would find it most appealing. After all, what young ruffian hasn't at one point fancie himself a hero in the making?"
+    },
+    {
+      "character": "Dariustel",
+      "text": "Aye, I think I may bring more than a few recruits back with me from the Twelveswood."
+    },
+    {
+      "character": "Bremondt",
+      "text": "Heh, you've come a long way since I first met you on that carriage to Gridania. Guess this means we're square, eh?"
+    },
+    {
+      "character": "Brennan",
+      "text": "Hah! You sure gave those imperials what for! I knew you were somethin' special, Forename !"
+    },
+    {
+      "character": "Brendt",
+      "text": "I reckon a lot more folk'll take up adventurin' after hearin' about what you've done. Brave men and women all hopin' to become the next Forename Surname ."
+    },
+    {
+      "character": "Iliud",
+      "text": "We held a vigil at the church until word came of your success. I cannot express to you how relieved I am by your safe return, Forename ."
+    },
+    {
+      "character": "Cid",
+      "text": "I think we could all do with a good rest, don't you? I know I could."
+    },
+    {
+      "character": "Cid",
+      "text": "I still haven't had time to think about everything that happened. About Nero...and Gaius..."
+    },
+    {
+      "character": "Biggs",
+      "text": "Watching you live the life of a free adventurer has helped me realize that I can't keep putting off my dreams forever."
+    },
+    {
+      "character": "Biggs",
+      "text": "I've been talking with Wedge about opening a workshop, independent of Garlond Ironworks. Maybe in Vylbrand, I don't know..."
+    },
+    {
+      "character": "Biggs",
+      "text": "Working with the chief is great and all, but someday I want to build my own Enterprise , you know?"
+    },
+    {
+      "character": "Wedge",
+      "text": "You're an inspiration to us all, Forename . An honest-to-gods hero that never gives up! Never gives in!"
+    },
+    {
+      "character": "Wedge",
+      "text": "(And neither will I. I'll win Tatru's heart! See if I don't!)"
+    },
+    {
+      "character": "Arenvald",
+      "text": "One day I hopw to become a hero to the people like you. A hero like A'aba and Aulie were to me."
+    },
+    {
+      "character": "Papalymo",
+      "text": "So a new era has begun... On such a momentous occasion, I find it good for the soul to tie up loose ends."
+    },
+    {
+      "character": "Papalymo",
+      "text": "Hm? What would I suggest you do? Why, the same thing you always do after accomplishing a task: report to Minfilia. It ends where it begins, my friend."
+    },
+    {
+      "character": "Yda",
+      "text": "Heehee! We all decided to give you a special surprise welcome, just like the ones in heroic epics!"
+    },
+    {
+      "character": "Yda",
+      "text": "Your story took many twists and turns, but you managed to get to the happy ending! Let's hope for more happy endings to come!"
+    },
+    {
+      "character": "Thancred",
+      "text": "I realize I have been the cause of tremendous consternation, and for that I deeply apologize."
+    },
+    {
+      "character": "Thancred",
+      "text": "Ah, but you haven't the time to waste chatting with me. Minfilia is expecting you."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "Welcome back, Warrior of Light. We, all of us, prayed for your safe return."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "The Seventh Astral Era has dawned, setting in motion a myraid of new beginnings. I suspect our paths will diverge for a time... Have you said your farewells to the Scions?"
+    },
+    {
+      "character": "Urianger",
+      "text": "The land my master sheltered from oblivions hath been delivered unto a new beginning by the hand of the Warrior of Light. Thus doth history mark the passing of an era."
+    },
+    {
+      "character": "Urianger",
+      "text": "The dawn doth brighten the sky, and shineth o'er this nascent age of hope. And though the clouds gather to mute the sun's rising glory, I would walk far with thee under its gentle glow."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "\"Where men go as one, there is life. And where there is life, there is cause to hope.\""
+    },
+    {
+      "character": "Alphinaud",
+      "text": "The light of hope shines brilliantly within you, Forename . I only wish my grandfather were here to see it."
+    }
+  ]
+}

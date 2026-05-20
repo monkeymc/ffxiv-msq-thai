@@ -1,0 +1,72 @@
+{
+  "id": "threat-level-elevated",
+  "wiki_path": "/wiki/Threat_Level_Elevated",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Threat Level Elevated",
+  "level": "11",
+  "location": "Central Shroud(X:18.9,Y:20.6)",
+  "npc_start": "Roseline",
+  "dialogues": [
+    {
+      "character": "Roseline",
+      "text": "We cannot allow other sentries to dismiss similar sightings—they must know what we have learned. To that end, I've prepared this letter containing everything we know about our mysterious stranger."
+    },
+    {
+      "character": "Roseline",
+      "text": "I need you to show it to my comrades throughout the Shroud. Once each sentry has committed the details to memory, have them write their name at the bottom for confirmation."
+    },
+    {
+      "character": "Roseline",
+      "text": "Start with Elmar at the Bannock, then find Bernard at the eastern gates of Bentbranch Meadows. They ought to relay the information to the others."
+    },
+    {
+      "character": "Roseline",
+      "text": "Finally, make sure Eylgar sees the letter. He stands watch within the stables, so if this stranger's aim is to harm the chocobos, Eylgar may have to personally put an end to it."
+    },
+    {
+      "character": "Elmar",
+      "text": "You don't look like you're here for training..."
+    },
+    {
+      "character": "Elmar",
+      "text": "A shadowy figure... Understood. I'll pass word to the recruits as well as the sentries."
+    },
+    {
+      "character": "Elmar",
+      "text": "Let me just make my mark...there, that should do."
+    },
+    {
+      "character": "Elmar",
+      "text": "If you follow the road south, you'll find Bernard by the bridge to Bentbranch. Godsspeed, adventurer."
+    },
+    {
+      "character": "Bernard",
+      "text": "You have business with me, adventurer?"
+    },
+    {
+      "character": "Bernard",
+      "text": "Roseline is right to be cautious. For this stranger to venture so close, yet to go to such great lengths to remain undetected, is highly suspicious. They clearly have designs on Bentbranch."
+    },
+    {
+      "character": "Bernard",
+      "text": "We appreciate the help. I should write my name here, yes?"
+    },
+    {
+      "character": "Bernard",
+      "text": "And...here, take it. You'll find Eylgar in the stables, past the aetheryte."
+    },
+    {
+      "character": "Eylgar",
+      "text": "Mind the birds, adventurer. They get nervous around strangers."
+    },
+    {
+      "character": "Eylgar",
+      "text": "What's this? A shadowy stranger near the Matron's Lethe... You've already shown this to Bernard and Elmar, I see. Good, good."
+    },
+    {
+      "character": "Eylgar",
+      "text": "Then all that's left is to inform the staff here. Not everyone here is a Wood Wailer, true, but even our stableboys wouldn't hesitate to take up arms to defend these chocobos."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "double-dealing",
+  "wiki_path": "/wiki/Double_Dealing",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Double Dealing",
+  "level": "8",
+  "location": "Middle La Noscea(X:25.6,Y:17.0)",
+  "npc_start": "Staelwyrn",
+  "dialogues": [
+    {
+      "character": "Staelwyrn",
+      "text": "Pains me to say, but all the gil in the world can't buy loyalty. There are some, like you, who can be trusted. But then there are others..."
+    },
+    {
+      "character": "Staelwyrn",
+      "text": "Until now, I've had no choice but to rely on that charlatan Sevrin, even though I am full aware he's been doin' shady deals behind my back. More than once I've heard tell of improper tradin' with goblins."
+    },
+    {
+      "character": "Staelwyrn",
+      "text": "I wouldn't be the least surprised if that were happenin' right now . Not a bell ago, a sack of oranges vanished, as did Sevrin. I want you to find and confront the bastard for me, Surname . I'm sure there's wrongdoin' afoot, so be sure to doubt anythin' that comes out of his mouth."
+    },
+    {
+      "character": "Sevrin",
+      "text": "Bloody hells! I'm up the strait without a paddle!"
+    },
+    {
+      "character": "Sevrin",
+      "text": "What's this now? Staelwyrn sent you for the oranges? Huh... So the old bugger had known all this time... Argh, what does it matter anyway?"
+    },
+    {
+      "character": "Sevrin",
+      "text": "Listen, you're one o' those goody-goody adventurer types, right? Go rescue me mates from those double-dealin' goblins! They're just over yonder by the bonfire."
+    },
+    {
+      "character": "Eyrimhus",
+      "text": "Sevrin sent you? Hah! The way he flew out of here, I was sure he'd sold us down the river!"
+    },
+    {
+      "character": "Sozai Rarzai",
+      "text": "If you hadn't come, my dodo would've been cooked! Mmm...cooked dodo."
+    },
+    {
+      "character": "Aylmer",
+      "text": "I owe you one. Would've gotten away meself if not fer Sevrin shovin' me aside."
+    },
+    {
+      "character": "Sevrin",
+      "text": "You saved me mates, and for that, I owe you."
+    },
+    {
+      "character": "Sevrin",
+      "text": "S'pose I should be ashamed I couldn't clean up my own mess..."
+    },
+    {
+      "character": "Sevrin",
+      "text": "...But a pirate knows no shame! I've no qualms about goin' back on my word! I'm only givin' you this sack 'cause I like the cut of your jib. Take it to Ossine, an' send him my regards."
+    },
+    {
+      "character": "Ossine",
+      "text": "What have we here? A delivery from Summerford Farms, and as scheduled? Hah! There's a first time for everything!"
+    },
+    {
+      "character": "Ossine",
+      "text": "Well, look at that... Not a single one missing, either! About the only things not here are those bagmen, and I don't miss them one bit."
+    },
+    {
+      "character": "Ossine",
+      "text": "Here's Staelwyrn's payment in full. With you , I can trust it'll reach him!"
+    },
+    {
+      "character": "Staelwyrn",
+      "text": "Back in one piece! That's a relief. How did you fare, Azim?"
+    },
+    {
+      "character": "Staelwyrn",
+      "text": "Ah, this is what I was aimin' for! Looks to be all I was owed, all right. Though, I'd be tellin' you false if I claimed I had not held out more hope for Sevrin."
+    },
+    {
+      "character": "Staelwyrn",
+      "text": "I was even willin' to overlook the skimmin' off the top, but to sell us all short in favor of those godsforsaken goblins... <sigh>"
+    },
+    {
+      "character": "Staelwyrn",
+      "text": "You'd do well to mind yourself around that two-gil cheat. If he'd leave his own mates for dead, there's no tellin' what he'd do to you ."
+    }
+  ]
+}

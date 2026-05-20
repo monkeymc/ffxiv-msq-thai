@@ -1,0 +1,256 @@
+{
+  "id": "close-to-home-limsa-lominsa",
+  "wiki_path": "/wiki/Close_to_Home_(Limsa_Lominsa)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/a/aa/Close_to_Home_%28Limsa_Lominsa%29_Image.png",
+  "patch": "2.0",
+  "title": "Close to Home",
+  "level": "1",
+  "location": "Limsa Lominsa Upper Decks(X:11,Y:11)",
+  "npc_start": "Baderon",
+  "dialogues": [
+    {
+      "character": "Baderon",
+      "text": "Right, then. Let's start ye off nice an' easy with three tasks what'll 'elp ye get used to life 'ere in Limsa."
+    },
+    {
+      "character": "Baderon",
+      "text": "Firstly, if ye 'ead down a floor then point yer nose to the west, ye'll get an eyeful o' the great glowin' crystal in the middle o' the courtyard."
+    },
+    {
+      "character": "Baderon",
+      "text": "That's an aetheryte─a device what can move ye from one place to another in the blink of an eye. Ain't no swifter way to travel─providin' there's an aetheryte where ye want to go, o' course."
+    },
+    {
+      "character": "Baderon",
+      "text": "'Ave a chat with the Yellowjacket on guard down there an' ye'll be treated to a lecture on the workin's o' the device. 'Fore ye do that, though, remember to touch the thing. Strange as it sounds, it won't work till you 'ave."
+    },
+    {
+      "character": "Baderon",
+      "text": "Second on the list is the marketplace. Ye'll find weapons and armor and all yer 'venturin' bits and pieces fer sale in the district what lies beyond the aetheryte."
+    },
+    {
+      "character": "Baderon",
+      "text": "Don't go throwin' yer gil around just yet, though, or ye'll get fleeced quicker'n ye can say, “Why's me coinpurse so light?” 'Ave a word with Swozblaet, instead. 'E's the 'ead o' the Merchants' League, by the way."
+    },
+    {
+      "character": "Baderon",
+      "text": "Give 'im this old octant, an' 'e'll treat ye well."
+    },
+    {
+      "character": "Baderon",
+      "text": "Fer the last o' me 'elpful 'ints, I suggest ye meet some fellow spell-slingers at the Arcanists' Guild."
+    },
+    {
+      "character": "Baderon",
+      "text": "I guarantee ye'll learn a few new tricks fer yer tome if ye decide to join their crew. Murie at the front desk is the one to get ye started."
+    },
+    {
+      "character": "Baderon",
+      "text": "Fer the last o' me 'elpful 'ints, I suggest ye meet some fellow axe-wielders at the Marauders' Guild."
+    },
+    {
+      "character": "Baderon",
+      "text": "I guarantee ye'll learn a few new tricks fer swingin' that 'ead-splitter o' yours if ye join their crew. Blauthota at the front desk is the one to get ye started."
+    },
+    {
+      "character": "Baderon",
+      "text": "Got all that, lad / lass ? Seein' to them three tasks'll take ye on a little jaunt 'round the city, an' 'elp ye work out where everythin' is. Now, I've best be gettin' on. Run along, eh?"
+    },
+    {
+      "character": "Baderon",
+      "text": "Bugger it! There I go, sendin' ye off without tellin' ye summat crucial. That bloody Calamity's made a right mess o' me memory, I swear. Well, that or the ale... Anyroad, while yer out, if ye 'appen to pass any poor sods what look like they might need yer 'elp, consider givin' their tale o' woe a listen, eh?"
+    },
+    {
+      "character": "Baderon",
+      "text": "Sounds like a chore, I admit, but ye never know what interestin' opportunities could be lurkin' out there, just waitin' fer ye to stumble on 'em. Fer example, Niniya over yonder's been castin' glances at ye since ye waltzed in. Why not lend an ear an' see what she 'as to say? Aye, yer like to find yerself runnin' odd errands in the beginnin', but once ye build a reputation as a man folk can trust, the jobs'll get 'arder an' the rewards more generous."
+    },
+    {
+      "character": "Baderon",
+      "text": "If ye've the time, I'd also seek the advice o' the Smith 'ere in the Wench. The lads as bear that title 'ave some fine advice fer them what're just startin' out in the profession. An' that , my lad / lass , is 'ow ye go about becomin' a legend among 'venturers."
+    },
+    {
+      "character": "Baderon",
+      "text": "Ye can get to the aetheryte by takin' the lift over to me left. Afore ye 'ead down, though, ye oughta introduce yerself to the lads an' lass 'ereabouts. Might be as they'll 'ave a juicy piece o' gossip to share with ye."
+    },
+    {
+      "character": "???",
+      "text": "Ah, another novice adventurer. Aye, Baderon has sent more than a few of your kind this way of late."
+    },
+    {
+      "character": "Sundhimal",
+      "text": "I am Sundhimal, one of the Yellowjackets tasked with keeping the peace in the city. It is also my charge to provide guidance in the use of this device. Fear not, I shall be brief."
+    },
+    {
+      "character": "Sundhimal",
+      "text": "Aetherytes are crystalline structures that tap into aetherial energies. They are primarily used as a means to travel swiftly from one place to another."
+    },
+    {
+      "character": "Sundhimal",
+      "text": "Return and Teleport─the most common transportation spells─make direct use of the aetherytes and their connection to the flow of aether."
+    },
+    {
+      "character": "Sundhimal",
+      "text": "And as these devices are found in almost every corner of Eorzea, any adventurer worthy of the name will wish to seek out and attune himself / herself to each one."
+    },
+    {
+      "character": "Sundhimal",
+      "text": "Once you have expanded your horizons beyond the walls of the city, you will soon find yourself performing the act of attunement as a matter of course."
+    },
+    {
+      "character": "Sundhimal",
+      "text": "There is, however, no need for unseemly haste. The aetherytes found in and around the city will be sufficient for the present, I assure you."
+    },
+    {
+      "character": "Sundhimal",
+      "text": "Should you wish to learn more about aetherytes or transportation magic, I will be here to answer your questions."
+    },
+    {
+      "character": "Murie",
+      "text": "Welcome to the Arcanists' Guild. It is here that we research and develop the field of arcanima."
+    },
+    {
+      "character": "Murie",
+      "text": "Arcanima is the science of employing “arcane geometries”─intricate patterns that map the unlocked mysteries of existence─to draw forth and manipulate the body's aetheric energies."
+    },
+    {
+      "character": "Murie",
+      "text": "Ah, but if I am not mistaken, you already possess some rudimentary understanding of the craft. Shall I deepen your knowledge of our history, as well?"
+    },
+    {
+      "character": "Murie",
+      "text": "The roots of arcanima can be traced back to the esoteric calculations practiced by the people of the south sea isles. It was these island folk that first discovered a method to express natural phenomena in mathematical terms."
+    },
+    {
+      "character": "Murie",
+      "text": "Building on this process, the existing mathematical formulae were further developed into arcane geometries─precise patterns that allowed a practitioner to weave aether into specific magical effects. The mages who invoked this new form of magic became known as “arcanists,” and the school of arcanima was born."
+    },
+    {
+      "character": "Murie",
+      "text": "Many such mages, wishing to expand their understanding of the world, took to the seas aboard trading vessels. Upon their arrival in Limsa Lominsa, arcanists found themselves welcomed into the academic elite, and soon secured positions in the realms of governance and counsel."
+    },
+    {
+      "character": "Murie",
+      "text": "The knowledge of an arcanist, however, is traditionally passed on from master to chosen disciple. As such, Admiral Merlwyb, counting several wielders of arcanima among her personal staff, became concerned that this exclusionary practice would lead to the eventual extinction of the art."
+    },
+    {
+      "character": "Murie",
+      "text": "So, at the Admiral's express orders, an official Arcanists' Guild was established, and funding was provided for research and training."
+    },
+    {
+      "character": "Murie",
+      "text": "The complex and demanding nature of arcanima, however, remains the greatest threat to its own future. If you would continue your study of this challenging discipline, then I must insist that you indicate your commitment to joining our guild."
+    },
+    {
+      "character": "Blauthota",
+      "text": "Ho there, adventurer. Curious about the Marauders' Guild, are ye?"
+    },
+    {
+      "character": "Blauthota",
+      "text": "Any axe worth swingin' needs two hands on the haft, an' has a blade what can make short work of a galley's mast. That's the kind o' weapon our members train to use with deceptive swiftness an' all too predictable force."
+    },
+    {
+      "character": "Blauthota",
+      "text": "Are ye interested in hearin' more, lad / lass ? Then why don't I give ye the short version o' the guild's foundin' history, an' we can go from there."
+    },
+    {
+      "character": "Blauthota",
+      "text": "It all started with ships, ye see. What've ships got to do with axes, ye ask? Well, buildin' 'em would be pretty bloody difficult without a sturdy tool to lop down trees for timber."
+    },
+    {
+      "character": "Blauthota",
+      "text": "An' since only the Navigator Herself knows when a ship'll run afoul of a storm or worse, it makes sense for the crew's carpenter to carry an axe on board. Aye, it all started with shipbuildin' an' ship repair. What? Am I borin' ye?"
+    },
+    {
+      "character": "Blauthota",
+      "text": "Hmph. As I was sayin', any tool on a ship can become a weapon, an' the axe was perfect for hookin' yerself over the rail of an enemy vessel, lettin' loose in a whirl o' steel, an' generally layin' waste to all about ye."
+    },
+    {
+      "character": "Blauthota",
+      "text": "As more seafarers took up the axe as their weapon o' choice, so did the bloody art o' the marauder begin to take shape─'specially among pirates, where strength an' skill decided yer place in the world."
+    },
+    {
+      "character": "Blauthota",
+      "text": "With an eye to assemblin' crews o' battle-ready raiders, the pirates started teachin' the proper way to wield a choppin' blade to their new recruits. An' that's how the Marauders' Guild first came to be."
+    },
+    {
+      "character": "Blauthota",
+      "text": "But once the Galadion Accord was signed to unite the Maelstrom an' the pirates against Limsa's enemies, the whole game changed."
+    },
+    {
+      "character": "Blauthota",
+      "text": "The accord itself was a dismal failure, o' course, but the Marauders' Guild was never the same─it was taken over, restructured, an' purged of its pirate elements. It had been reborn as an institution dedicated to naught but the teachin' of axe fightin'."
+    },
+    {
+      "character": "Blauthota",
+      "text": "The members o' this new Marauders' Guild weren't no greed-driven cutthroats, neither─they were warriors what sought to use their martial prowess for the good o' society."
+    },
+    {
+      "character": "Blauthota",
+      "text": "If masterin' the axe is yer heart's desire, then ye'll find no better arena in which to practice yer swings."
+    },
+    {
+      "character": "Blauthota",
+      "text": "Think it over, then let me know if ye fancy joinin' our ranks. I've a feelin' I'll be seein' more o' ye soon, lad / lass ."
+    },
+    {
+      "character": "Swozblaet",
+      "text": "A fine evening to you, sir / madam ! Welcome to the most replete marketplace in the grand realm of Eorzea, where every shelf groans under the weight of wonders borne from all four corners of the world!"
+    },
+    {
+      "character": "Swozblaet",
+      "text": "Pray browse the stalls until your eyeballs ache from ogling the overabundance of unbelievable bargains! Now, as much as I would love to elaborate upon the unrivaled quality of our merchandise, I must tend to some cargo but recently arrived at the docks─"
+    },
+    {
+      "character": "Swozblaet",
+      "text": "Hm? You bear a gift from Baderon? Whatever could it─ Ah! My octant! By the Navigator, I must have left it behind in the Wench─along with a week's pay and several bells' worth of intoxicated memories!"
+    },
+    {
+      "character": "Swozblaet",
+      "text": "I am most grateful to have it back! This tool is a keepsake from my days as a ship captain, you see. Needless to say, your good deed must be repaid, and what better recompense than the wisdom of a master merchant?"
+    },
+    {
+      "character": "Swozblaet",
+      "text": "If it is simple and sturdy adventuring equipment you seek, you need look no further than the East and West arms of Hawkers' Alley."
+    },
+    {
+      "character": "Swozblaet",
+      "text": "Lest you doubt, each gil you invest in arms and armor will be money well spent. Adventuring is, after all, a dangerous profession by its very nature."
+    },
+    {
+      "character": "Swozblaet",
+      "text": "It goes without saying that Hawkers' Alley boasts stalls specializing in the tools of every martial discipline imaginable."
+    },
+    {
+      "character": "Swozblaet",
+      "text": "And within but a few steps are bazaars and apothecaries that will most amply supply all your potion and perishable needs."
+    },
+    {
+      "character": "Swozblaet",
+      "text": "Our keen-eyed agents procure a frankly befuddling range of wares during their sojourns to distant shores, so it pays to become familiar with the type─and price─of the goods offered by each stall."
+    },
+    {
+      "character": "Swozblaet",
+      "text": "Such knowledge will serve you well if your purse is light or your time is short."
+    },
+    {
+      "character": "Swozblaet",
+      "text": "Ah, but verbal instruction of this kind will only profit you so much. Experience has ever been the surest teacher─if not the kindest. I invite you to explore the markets for yourself."
+    },
+    {
+      "character": "Baderon",
+      "text": "Ah, there ye are, Forename . Enjoy yer jaunt 'round the city, did ye?"
+    },
+    {
+      "character": "Baderon",
+      "text": "If ye mean to base yerself in Limsa Lominsa, that won't be the last time ye'll visit them three places."
+    },
+    {
+      "character": "Baderon",
+      "text": "An' now ye've got some idea o' what's where, ye can start explorin' the rest o' the town."
+    },
+    {
+      "character": "Baderon",
+      "text": "Ye've shown a good ear fer listenin', lad / lass . Stick with ol' Baderon, an' ye'll go far."
+    }
+  ]
+}

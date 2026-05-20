@@ -1,0 +1,124 @@
+{
+  "id": "the-things-we-do-for-cheese",
+  "wiki_path": "/wiki/The_Things_We_Do_for_Cheese",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/30/The_Things_We_Do_for_Cheese_Image.png",
+  "patch": "2.0",
+  "title": "The Things We Do for Cheese",
+  "level": "32",
+  "location": "Eastern La Noscea(X:32.6,Y:30.5)",
+  "npc_start": "Wheiskaet",
+  "dialogues": [
+    {
+      "character": "Wheiskaet",
+      "text": "Truth be told, I never intended for you to collect this last ingredient. Brayflox, my old quartermaster, wished to bring it to Costa del Sol herself."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "However, not long ago, she sent word that there's been some trouble at the Longstop, and that the delivery would be delayed indefinitely. She told me nothing of the incident itself, but I fear the situation may be dire."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "Though I would like nothing more than to aid her myself, I have no choice but to turn to you and your allies. Make haste to Hidden Falls docks and speak with Ozun Nazun. He will direct you to Raincatcher Gully, where Brayflox and her people have made their home."
+    },
+    {
+      "character": "Ozun Nazun",
+      "text": "What's the hurry, 'venturer? Eh? Somethin' happen over at the gobbie settlement?"
+    },
+    {
+      "character": "Ozun Nazun",
+      "text": "I dunno why yer so eager to help a bunch of beastmen, but go an' talk to the skipper over yonder. She'll ferry ye to Raincatcher Gully."
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "Pshhh... Shkohhh... Tongueflaps of Wheiskaet be reaching ears of Brayflox. Uplander is come for tastyfresh gobbietreats, yes?"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "Questprize of uplander deep in Longstop. Flighty-beast chased gobbieflock from homes. Gobbieflock needs goodly uplander give safety to Longstop with much hand-lending!"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "Pshhh... Shkohhh... Brayflox cannot give what Brayflox does not have! Uplander and gobbieflock must first backtake Longstop!"
+    },
+    {
+      "character": "Scion Thaumaturge",
+      "text": "Let's get going. We have to help them!"
+    },
+    {
+      "character": "Goblin Pathfinder",
+      "text": "Shkoh! Shkoh! Gobbieflock in danger! Uplanders take gatekey! Open Headgate!"
+    },
+    {
+      "character": "Scion Marauder",
+      "text": "I pray we're not too late."
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "Shkoh! Shkoh! More fastness! More fastness!"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "Shkoh! Brayflox shall see to thunderfoot!"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "Gobbie...boom?"
+    },
+    {
+      "character": "Scion Conjurer",
+      "text": "I was expecting Brayflox to be more...helpful."
+    },
+    {
+      "character": "Scion Conjurer",
+      "text": "Well, at least now the way forward is open."
+    },
+    {
+      "character": "Scion Thaumaturge",
+      "text": "The dragon! It won't escape this time!"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "Pshhh... Shkohhh... Goodly uplander has thanks of gobbieflock!"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "Flighty-beast was tricksy foe, but uplander outwitted with plansmaking. Uplander has goodly head for fighty-think."
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "Brayflox happygives tastyfresh gobbietreats to clever uplander!"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "Cheese is stinkysweet gobbietreat! Specialmake with secret gobbiearts!"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "No party complete without gobbie gouda, Brayflox everysay!"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "Pshhh... Shkohhh... Longstop is home of gobbieflock! Craftybuilt by gobbiehands!"
+    },
+    {
+      "character": "Brayflox Alltalks",
+      "text": "Then flighty-beast comes and claims Longstop as lair. Brayflox cannot abide—Brayflox and gobbieflock backtake with uplander hand-lending!"
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "<sniff> <sniff> ...I gather you solved Brayflox's little problem?"
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "By the gods, that unholy stench! This is─ugh─definitely goblin cheese."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "Judging from the smell, this should be quite flavorful."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "Hm? How is it made? Ah...it's best you remain ignorant of such things. I still remember when I learned what kind of milk they use... <shudder>"
+    }
+  ]
+}

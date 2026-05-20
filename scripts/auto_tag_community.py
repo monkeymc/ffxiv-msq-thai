@@ -25,7 +25,7 @@ def get_changed_community_files(base_ref: str) -> list[str]:
     )
     return [
         f for f in result.stdout.strip().splitlines()
-        if f.startswith("content_community/") and f.endswith(".json")
+        if f.startswith("content_community/th/") and f.endswith(".json")
     ]
 
 
@@ -51,18 +51,18 @@ def auto_tag_file(filepath: str, base_ref: str) -> bool:
     old: dict | None = get_base_content(filepath, base_ref)
     changed = False
 
-    # Tag title_th if it changed and status is still "AI"
-    new_title_th = new.get("title_th") or ""
-    old_title_th = (old or {}).get("title_th") or ""
-    if new_title_th and new_title_th != old_title_th and new.get("title_status") == "AI":
+    # Tag title if it changed and status is still "AI"
+    new_title = new.get("title") or ""
+    old_title = (old or {}).get("title") or ""
+    if new_title and new_title != old_title and new.get("title_status") == "AI":
         new["title_status"] = "Community"
         changed = True
 
-    # Tag each dialogue where text_th was modified and status is still "AI"
+    # Tag each dialogue where text was modified and status is still "AI"
     old_dialogues: list[dict] = (old or {}).get("dialogues") or []
     for i, dialogue in enumerate(new.get("dialogues") or []):
-        new_text_th = dialogue.get("text_th") or ""
-        old_text_th = old_dialogues[i].get("text_th", "") if i < len(old_dialogues) else ""
+        new_text_th = dialogue.get("text") or ""
+        old_text_th = old_dialogues[i].get("text", "") if i < len(old_dialogues) else ""
         if new_text_th and new_text_th != old_text_th and dialogue.get("status") == "AI":
             dialogue["status"] = "Community"
             changed = True

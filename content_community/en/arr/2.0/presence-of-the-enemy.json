@@ -1,0 +1,96 @@
+{
+  "id": "presence-of-the-enemy",
+  "wiki_path": "/wiki/Presence_of_the_Enemy",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Presence of the Enemy",
+  "level": "21",
+  "location": "East Shroud(X:21.9,Y:25.6)",
+  "npc_start": "Komuxio",
+  "dialogues": [
+    {
+      "character": "Komuxio",
+      "text": "This one asks dancing one for forgiveness. These ones have many troubles since walking ones last came to our abode. This one must be careful. Always careful."
+    },
+    {
+      "character": "Komuxio",
+      "text": "But dancing one is not like other walking ones. This one can trust dancing one. This one would ask dancing one for help."
+    },
+    {
+      "character": "Komuxio",
+      "text": "Strange walking ones with bodies of steel come to the home of these ones. This one thinks steel ones come from Empire."
+    },
+    {
+      "character": "Komuxio",
+      "text": "Where Empire goes, many living ones become dead ones. Trees fall and bushes burn. These ones' home is in danger. Danger!"
+    },
+    {
+      "character": "Komuxio",
+      "text": "This one begs of dancing one to help this one know more. Dancing one is friends with these ones and walking ones, yes? Dancing one must speak to these ones here and walking ones in hut-house and find out more."
+    },
+    {
+      "character": "Komuxio",
+      "text": "This one has bad feeling. This one fears steel ones are after something. But this one should speak no more. Go, dancing one. This one depends on kindness of dancing one."
+    },
+    {
+      "character": "Nathaxio",
+      "text": "Shush! Shush, this one says! Steel walking ones are scary, like touched ones... This one hates scary! And scary ones have scary friends..."
+    },
+    {
+      "character": "Pelixia",
+      "text": "Strange steel walking ones? Yes, this one has seen. Steel walking ones carry big boxes. Maybe walking ones hunt for shiny treasure? This one likes treasure!"
+    },
+    {
+      "character": "Victor",
+      "text": "Fearsome types clad head to toe in steel, you say? Imperial soldiers, no doubt. I couldn't tell you what they're plotting, but I'm sure it's nothing good."
+    },
+    {
+      "character": "Monne",
+      "text": "Men clad in strange armor? Why, now that you mention it, I did see some suspicious types of late. They were gathering deep in the forest. I simply assumed they were adventurers..."
+    },
+    {
+      "character": "Komuxio",
+      "text": "This one is happy to see dancing one return. What did dancing one learn?"
+    },
+    {
+      "character": "Komuxio",
+      "text": "This one sees. Steel walking ones come from Empire. Carry boxes, and go walking deep, deep through trees."
+    },
+    {
+      "character": "Komuxio",
+      "text": "As this one thought! Steel walking ones are up to nasty, no-good things."
+    },
+    {
+      "character": "Komuxio",
+      "text": "This one knows forest well. Steel walking ones try to hide, but this one will find them."
+    },
+    {
+      "character": "Komuxio",
+      "text": "This one would borrow dancing one's map. This one makes mark─right here! This is where steel ones hide, this one knows. Dancing one will go looking for steel ones, yes?"
+    },
+    {
+      "character": "Komuxio",
+      "text": "Dancing one is back. This one breathes sigh of relief. This one was worried. Hm? Dancing one found something?"
+    },
+    {
+      "character": "Komuxio",
+      "text": "Dancing one found paper inside of box? This is a message from Empire?"
+    },
+    {
+      "character": "Komuxio",
+      "text": "This one can read walking ones' symbols. Message-paper has names of food and rocks. Food and rocks were inside boxes, this one knows."
+    },
+    {
+      "character": "Komuxio",
+      "text": "But this one does not understand. Food and rocks mentioned all come from home of these ones. How do steel walking ones know to find them?"
+    },
+    {
+      "character": "Komuxio",
+      "text": "Is there sneaky one hiding behind this one's wings? Snooping one selling secrets to steel walking ones?"
+    },
+    {
+      "character": "Komuxio",
+      "text": "This one fears for this one's home. But dancing one has helped this one much today. Dancing one must promise to always be friend to these ones."
+    }
+  ]
+}

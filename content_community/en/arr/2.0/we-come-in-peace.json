@@ -1,0 +1,116 @@
+{
+  "id": "we-come-in-peace",
+  "wiki_path": "/wiki/We_Come_in_Peace",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/e/ec/We_Come_in_Peace_Image.png",
+  "patch": "2.0",
+  "title": "We Come in Peace",
+  "level": "20",
+  "location": "New Gridania(X:9.7,Y:11.1)",
+  "npc_start": "Vorsaile Heuloix",
+  "dialogues": [
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "Hail, adventurer. I bid you welcome to the Adders' Nest. Do you seek to entwine your destiny with the Twin Adder?"
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "Well! If it isn't [Rank] Surname , reporting for duty. That's the zeal I like to see from an enterprising young Serpent"
+    },
+    {
+      "character": "Yda",
+      "text": "Morning / Good day / Good evening , Commander! Sorry to disappoint you, but other business brings us here today."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "Yda and Papalymo, always a pleasure to see the two of you. My men tell me you quest in the name of the Scions of late."
+    },
+    {
+      "character": "Papalymo",
+      "text": "Quite so, Commander. A little bird told us that the Twin Adder was in need of our adventuring prowess."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "Aye, your little bird sings true. No doubt you've heard that we're investigating the sylphs─that curious beast tribe that calls the depths of the Twelveswood home."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "The sylphs are, for the most part, a peaceable bunch─much to the delight of the Elder Seedseer, who has no desire to see her people embroiled in yet another fruitless war."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "The Twin Adder is of the same mind, and 'tis precisely for this reason that the sylphs' relation to the primal Ramuh has raised a flag of warning amongst our ranks."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "Friendly as they may appear, beastmen will be beastmen."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "Should there be even a sliver of a chance that the summoning of the primal might disturb the balance between Gridania and the sylphic tribes, it is a possibility we cannot ignore."
+    },
+    {
+      "character": "Papalymo",
+      "text": "Better to be safe than sorry, indeed."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "Do we strike at Ramuh, or leave the sylphs to their own ways? That is the question, yet I find myself lacking ample knowledge to arrive at an answer."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "Opinions abound within Gridania, but to listen only to one's own is among the greatest mistakes a commander can make."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "I would hear from the other side─the sylphs themselves─and seek an impartial party to serve as my liaison. That is where you Scions come in."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "The sylphs of Little Solace remain untempered, and have held many a productive dialogue with our people. I would hear their candid thoughts on their tempered brethren."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "That said, I urge you to exercise due caution. Sylphic tradition and etiquette bear little resemblance to our own. It would not do to have any cross-cultural faux pas get in the way of a productive parley."
+    },
+    {
+      "character": "Vorsaile Heuloix",
+      "text": "En route to Little Solace, you will come upon the Hawthorne Hut. Our officer stationed there can enlighten you as to how to win the sylphs' favor. May your expedition be a worthwhile one."
+    },
+    {
+      "character": "Papalymo",
+      "text": "A friendly palaver with the sylphs? This should be a pleasant enough diversion."
+    },
+    {
+      "character": "Papalymo",
+      "text": "The Hawthorne Hut, was it? Why, I believe the ferry departing from Westshore Pier should take us straight there."
+    },
+    {
+      "character": "Yda",
+      "text": "A friendly palaver, indeed! I hope this will be as straightforward as you say, Papalymo."
+    },
+    {
+      "character": "Mitainie",
+      "text": "Aye, the ferry docked at the base of this hill will carry you across the lake to the East Shroud."
+    },
+    {
+      "character": "Mitainie",
+      "text": "Once you're ashore, head due east and you should find the Hawthorne Hut without much trouble."
+    },
+    {
+      "character": "Amelain",
+      "text": "Indeed, I am Amelain of the Twin Adder. I understand you're here to learn of the sylphs, yes?"
+    },
+    {
+      "character": "Amelain",
+      "text": "For all their whimsy, they are a wary lot. Particularly since the Empire has come to the Shroud."
+    },
+    {
+      "character": "Amelain",
+      "text": "Earn their trust, however, and they're as friendly as any folk. They have their quirks, but so do we all, no?"
+    },
+    {
+      "character": "Amelain",
+      "text": "Would you know more, you'd do well to speak with the master of this hut, Rolfe. He's forgotten more about the sylphs than I'll ever know."
+    }
+  ]
+}

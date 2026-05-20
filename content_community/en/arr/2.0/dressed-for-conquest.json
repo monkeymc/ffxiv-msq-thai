@@ -1,0 +1,112 @@
+{
+  "id": "dressed-for-conquest",
+  "wiki_path": "/wiki/Dressed_for_Conquest",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Dressed for Conquest",
+  "level": "46",
+  "location": "Mor Dhona(X:22.5,Y:7.5)",
+  "npc_start": "Sark Malark",
+  "dialogues": [
+    {
+      "character": "Sark Malark",
+      "text": "You are called Forename Surname , yes? I have heard of your plight from my friend Glaumunt. As a fellow adventurer and son of Eorzea both, I would offer you my assistance."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "In order to infiltrate Castrum Centri, you and your comrades must disguise yourselves as imperial soldiers. The question is how to go about acquiring the uniforms and helms."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "There are places a man might purchase them, but individuals who deal in such wares are not the sort to whom you would entrust your secrets."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "It would be more prudent, I believe, to procure what you need via traditional means─from the bodies of their recently deceased owners."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "The fortified area before Castrum Centri never lacks for imperial patrols. It ought not take long to obtain three sets of gear, one for each member of the infiltration team─Biggs, Wedge, and yourself."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "When you have what you need, please return here and allow me to inspect the spoils."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "Were you able to obtain three sets of imperial equipment?"
+    },
+    {
+      "character": "Sark Malark",
+      "text": "...Damaged, as I had suspected. In their present condition, I fear these uniforms and helms are like to draw suspicion."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "They must be repaired, if only superficially."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "Fortunately, the blacksmith Eginolf at the Diamond Forge in Rowena's House of Splendors should be able to hammer them into shape in no time."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "I've already sent word ahead, and have been assured that he is expecting you. Worry not─we have already impressed upon him the need for utmost secrecy as to the nature of your mission."
+    },
+    {
+      "character": "Eginolf",
+      "text": "Hm? So yer the 'venturer Sark Malark sent, are ye? I've been waitin' for ye. Now let's see what ye got for me."
+    },
+    {
+      "character": "Eginolf",
+      "text": "...I see. Ah, yes─I reckon I can hammer these back into shape for ye."
+    },
+    {
+      "character": "Eginolf",
+      "text": "After all, I owe yer friend Sark Malark a favor or two. Took good care of ol' Eginolf back in the days before I fell in with old Rowena, he did."
+    },
+    {
+      "character": "Eginolf",
+      "text": "Did ye know he's the son of one o' the wealthiest families in the sultanate? Wouldn't expect someone like that to end up in the life he did, but I s'pose he always felt the 'venturer's life callin' him."
+    },
+    {
+      "character": "Eginolf",
+      "text": "...But here I go blabberin' on when there's work to be done. Just hold yer horsebirds for a moment or two and the great Eginolf will have yer gear lookin' good as new."
+    },
+    {
+      "character": "Eginolf",
+      "text": "...And there we have it. Won't do ye much good in battle, mind ye, but from what I hear, that's not yer priority anyhow."
+    },
+    {
+      "character": "Eginolf",
+      "text": "Do send Sark Malark my regards, will ye?"
+    },
+    {
+      "character": "Sark Malark",
+      "text": "Have you had the uniforms and helms repaired?"
+    },
+    {
+      "character": "Sark Malark",
+      "text": "Yes, these will serve beautifully. The great Eginolf never fails to impress. The quality of these repairs would fool even a legatus."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "Thus equipped, you should not have any trouble blending in amongst imperial forces."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "Lest you fear that the Garleans might detect your “foreignness,” foreigners in fact form the greater part of the Garlean invasion force in Eorzea."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "You see, when the Empire subjugates new territory, it assimilates the people of that land into its armed forces. In turn, these conscripted forces are sent to subjugate faraway lands. In this way, Garlemald nips rebellion in the bud and expands its territory in one fell stroke."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "With that, my part in your mission is done. I am full glad to have been of assistance to your cause."
+    },
+    {
+      "character": "Sark Malark",
+      "text": "...Hm? Why would I, a wealthy merchant, wish to help you? I know not where you heard such a tale, but believe me when I say that I am but another humble adventurer, one who desires only to act in the best interests of the realm."
+    }
+  ]
+}

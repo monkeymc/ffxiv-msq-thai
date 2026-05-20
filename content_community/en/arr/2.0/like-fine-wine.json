@@ -1,0 +1,48 @@
+{
+  "id": "like-fine-wine",
+  "wiki_path": "/wiki/Like_Fine_Wine",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Like Fine Wine",
+  "level": "23",
+  "location": "Upper La Noscea(X:14.7,Y:24.4)",
+  "npc_start": "Teteroon",
+  "dialogues": [
+    {
+      "character": "Teteroon",
+      "text": "Teteroon make firewater! Good, good firewater! You take to Buscaroon. Good firewater for good Buscaroon."
+    },
+    {
+      "character": "Teteroon",
+      "text": "Tell Buscaroon no drink now. Tell put away one year. One year make best flavor."
+    },
+    {
+      "character": "Teteroon",
+      "text": "<sigh> Teteroon hopes Buscaroon happy. Teteroon gives Buscaroon thankies. Many, many thankies. You tell Buscaroon."
+    },
+    {
+      "character": "Teteroon",
+      "text": "Teteroon make big shop someday. Biggest shop in Eorzea. Make many, many sparklies. All thanks to good Buscaroon."
+    },
+    {
+      "character": "Teteroon",
+      "text": "Teteroon miss good Buscaroon. Must work hard. Must make many shinies. Then Teteroon go see Buscaroon!"
+    },
+    {
+      "character": "Buscarron",
+      "text": "Ah, you've returned. Thank you for seeing Teteroon's belongings to him. ...What's this? For me?"
+    },
+    {
+      "character": "Buscarron",
+      "text": "Qiqirn firewater! So he remembers my fondness for the drink, does he? Why that old... He... I... Aw, bloody hells! Who's cutting onions back there!?"
+    },
+    {
+      "character": "Buscarron",
+      "text": "He says to shelve it for a year, does he? Aye, that sounds about right. I hate to have to wait, but I reckon it'll be worth it. This stuff has an aroma and body unlike any other drink I know."
+    },
+    {
+      "character": "Buscarron",
+      "text": "It's going to be a looong year. What say you come back then, friend? We'll see if we can't make it through this bottle together."
+    }
+  ]
+}

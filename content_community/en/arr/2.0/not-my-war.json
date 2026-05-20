@@ -1,0 +1,11 @@
+{
+  "id": "not-my-war",
+  "wiki_path": "/wiki/Not_My_War",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title": "Not My War",
+  "level": "33",
+  "location": "Eastern La Noscea(X:14,Y:30)",
+  "npc_start": "Drest",
+  "dialogues": []
+}

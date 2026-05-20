@@ -1,0 +1,244 @@
+{
+  "id": "for-coin-and-country",
+  "wiki_path": "/wiki/For_Coin_and_Country",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/5c/For_Coin_and_Country_Image.png",
+  "patch": "2.0",
+  "title": "For Coin and Country",
+  "level": "20",
+  "location": "Ul'dah - Steps of Nald(X:8.3,Y:9.0)",
+  "npc_start": "Flame Personnel Officer",
+  "dialogues": [
+    {
+      "character": "Flame Personnel Officer",
+      "text": "Are you ready, Forename ? Then let us begin."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "Forename Surname ——you stand poised to enter a sacred trust."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "The Flames of Ul'dah burn bright, casting light where there is dark and purging evil wheresoever it lurks."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "We are ever ready to meet the nation's enemies in battle, be they beastmen, Garleans, or worse."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "And at a word from Flame General Raubahn Aldynn, we would gladly lay down our lives to maintain the peace and prosperity of Ul'dah."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "To join our ranks, you must forsake all other nations. Only then may you commit yourself to the fire and be reborn as an Immortal Flame."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "Burn as one of us, Forename Surname , and together we shall chase the darkness from Ul'dah!"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "Will you swear an oath to mark this occasion?"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "Spoken like a soldier! You'll do well here."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "And Ul'dah will have need of them in the days ahead. The knowledge and experience of well-traveled adventurers are valuable assets."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "Hah! The Flame General would lead the van in every battle if he could. 'Twouldn't surprise me if you had the chance to fight by his side one day!"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "I take it you would rather be judged by your deeds. I respect that. We want a man / woman of action, not words."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "Very well. Your resolve is plain. Forename Surname ——I hereby confer upon you the rank of flame private third class. Welcome to the Immortal Flames, Private."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "May you fight to the last for coin and country."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Can you hear me, Forename ? This is Minfilia."
+    },
+    {
+      "character": "Minfilia",
+      "text": "An officer of the Immortal Flames contacted me with news of your enlistment. My congratulations, Private Surname ."
+    },
+    {
+      "character": "Minfilia",
+      "text": "I have no doubt that you are eager to make the acquaintance of your new comrades, but I would ask that you pay a visit to your old ones first. Remember: though you are now a Flame of Ul'dah, you are no less a Scion! Pray return to the Waking Sands at your earliest convenience. There are some friends here whom I would very much like you to meet. We shall be waiting!"
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "It seems your presence is required elsewhere."
+    },
+    {
+      "character": "Flame Personnel Officer",
+      "text": "But before you leave, perhaps you could find a moment to speak with Commander Swift. He is not one to see new recruits go into the field unprepared."
+    },
+    {
+      "character": "Yda",
+      "text": "Let me see if I have this right—you're an adventurer...who's a Scion... and a Flame? Golly, how do you keep track of everything?"
+    },
+    {
+      "character": "Yda",
+      "text": "It must be fun pairing up with lots of different people, though! Me? I'm always with Papalymo. ...Come to think of it, why am I always with Papalymo?"
+    },
+    {
+      "character": "Papalymo",
+      "text": "Following the Calamity, each nation's armed forces underwent large-scale restructuring centered upon its Grand Company."
+    },
+    {
+      "character": "Papalymo",
+      "text": "In Gridania, the Order of the Twin Adder absorbed both the Wood Wailers and the Gods' Quiver, while the Lominsans enacted the complete merger of the Maelstrom and the Knights of the Barracuda."
+    },
+    {
+      "character": "Papalymo",
+      "text": "Ul'dah is the odd nation out, having made no notable changes to its armed forces. As before, and in the spirit of the sultanate, each entity retains a certain degree of independence."
+    },
+    {
+      "character": "Thancred",
+      "text": "The incident with the traitor still weighs heavily on everyone's minds—the Flame General's most of all."
+    },
+    {
+      "character": "Thancred",
+      "text": "And although he cannot be expected to know what evil lurks in the hearts of every man under his command, the revelation is nevertheless a devastating blow to his authority."
+    },
+    {
+      "character": "Thancred",
+      "text": "Even so, it warrants saying that you should not let this tragedy color your opinion of the man. In all my years working with the Flame General, I've never had reason to doubt his capacity to lead."
+    },
+    {
+      "character": "Brennan",
+      "text": "I heard tell one of me brothers came through not long ago. Looks like I just missed him, though."
+    },
+    {
+      "character": "Brennan",
+      "text": "I ain't seen either one of 'em since the Calamity—didn't even know if they were still alive. But after runnin' into folk who swore they knew me time an' again, I reckoned they had to be out there somewhere."
+    },
+    {
+      "character": "Brennan",
+      "text": "I've been travelin' an' peddlin' in the hopes I'd find me brothers ever since. If ye see a fella what looks like me, let him know that Brennan's lookin' for him, would you?"
+    },
+    {
+      "character": "Liavinne",
+      "text": "Have we met somewhere before? You must be quite the accomplished adventurer to be welcomed into these halls."
+    },
+    {
+      "character": "Liavinne",
+      "text": "Me? No one's ever expected much of me. And so far, I've done a fine job of living down to their expectations."
+    },
+    {
+      "character": "Una Tayuun",
+      "text": "I've been chattin' with Percevains an' we both swear there was another member of our crew. We still ain't figured out a way t'prove who we was, but just ye wait and see. It won't be long before everybody sees us for the heroes we is!"
+    },
+    {
+      "character": "Arenvald",
+      "text": "I hear you pledged yourself to a Grand Company. Me? I don't think I could do it. I'd never feel like one of them, no matter what the recruiters say."
+    },
+    {
+      "character": "Aulie",
+      "text": "I'm not sure I grasp the purpose of these remembrance ceremonies. Whether you remember of rewrite the past, what does it matter? It isn't as though you can repeat it."
+    },
+    {
+      "character": "Aulie",
+      "text": "Our present-day enemies ought to serve as sufficient motivation, don't you think? The only lesson I believe we should take from the Calamity is that far greater threats can and will appear."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "We will continue to focus our efforts on investigating the primals. The Amalj'aa are not the only tribe that has succeeded in summoning its deity."
+    },
+    {
+      "character": "Urianger",
+      "text": "Fate shall be thy guide. When our purposes become one, once again shall our paths lead us here..."
+    },
+    {
+      "character": "Urianger",
+      "text": "Our city of learning is now naught but shadows. Ere the light of dawn breaketh, shall we follow whither the sand blows."
+    },
+    {
+      "character": "Scion of the Seventh Dawn",
+      "text": "Welcome back, Forename ! Lady Minfilia awaits you within."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Welcome back! It seems you wasted no time putting your skills to work!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "How do I know? Why, the recruitment officer called to regale me with the tale of your heroics. The pride in his voice was palpable!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "We Scions are truly fortunate to have you with us, Forename ."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Now, when last we spoke, I said that I wanted you to meet some friends, did I not? Well, I neglected to mention that you have already met."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Tataru——please show them in."
+    },
+    {
+      "character": "Tataru",
+      "text": "This way, sirs!"
+    },
+    {
+      "character": "Biggs",
+      "text": "Thanks again for getting us out of that mess. We owe you our lives."
+    },
+    {
+      "character": "Biggs",
+      "text": "But I don't think we've properly introduced ourselves. I'm Biggs."
+    },
+    {
+      "character": "Wedge",
+      "text": "A-And I'm...I'm..."
+    },
+    {
+      "character": "Biggs",
+      "text": "Gods, man, spit it out, will you!?"
+    },
+    {
+      "character": "Wedge",
+      "text": "W-Wedge, at your service!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "I am pleased to say that Biggs and Wedge will be staying with us for a while."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Magitek-driven contraptions such as airships grow ever more vital to the city-states of Eorzea. As a neutral party, it was judged that we Scions should serve as the keepers of this technology."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Of course, for this we needed the knowledge of experts. And so we requested the assistance of Garlond Ironworks, who very kindly sent us two of their finest engineers."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Our happy family continues to grow. On behalf of the Scions, I bid you welcome to the Waking Sands!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Like every soul here, I love Eorzea."
+    },
+    {
+      "character": "Minfilia",
+      "text": "And I count myself blessed to have been given this chance to stand with you all and fight for the future of the realm."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Never have I known such fulfillment——such happiness."
+    }
+  ]
+}

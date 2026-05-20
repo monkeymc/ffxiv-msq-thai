@@ -1,0 +1,60 @@
+{
+  "id": "men-of-honor",
+  "wiki_path": "/wiki/Men_of_Honor",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Men of Honor",
+  "level": "36",
+  "location": "Coerthas Central Highlands(X:25.5,Y:29.8)",
+  "npc_start": "Jocea",
+  "dialogues": [
+    {
+      "character": "Jocea",
+      "text": "You there, sir / madam ! I could not help but overhear your conversation with the chief astrologian. There may be a way I can assist you, but it would require that you perform for me a favor in exchange."
+    },
+    {
+      "character": "Jocea",
+      "text": "An associate of mine has yet to return from his expedition to the cliffs east of the Observatorium. He was adamant that he could conduct his observations alone, despite the presence of Ixal in that vicinity. If you would seek out this astrologian and confirm that he is well, it would be a great comfort to me."
+    },
+    {
+      "character": "Established Astrologian",
+      "text": "What a relief to see someone other than a godsdamned birdman! I thought I could finish my work whilst the Ixal were away, but they returned far quicker than I anticipated. It was all I could do to hide and hope they might leave again before I froze to─"
+    },
+    {
+      "character": "Established Astrologian",
+      "text": "Wait, who are you!? You are not one of our knights!"
+    },
+    {
+      "character": "Established Astrologian",
+      "text": "A man of House Durendaire cannot be seen in the company of an unbeliever! Good day, sir / madam !"
+    },
+    {
+      "character": "Jocea",
+      "text": "The arrogant fool returned not long before you arrived, muttering about the disgrace of having been rescued by an unbeliever. Serves him right for underestimating the dangers our knights face every day."
+    },
+    {
+      "character": "Jocea",
+      "text": "Ah, but you are eager to locate your airship. It may surprise you that by saving him, you have already aided your own cause."
+    },
+    {
+      "character": "Jocea",
+      "text": "House Durendaire is quick to regard outsiders with suspicion, as it is their duty to sound the alarm at the first sign of Dravanian aggression. Yet you have already aided them twice, for which they are honor-bound to repay you."
+    },
+    {
+      "character": "Jocea",
+      "text": "Even so, they will not grant you access to the Observatorium's records. That is just as well, for there are other ways you might locate your missing airship."
+    },
+    {
+      "character": "Jocea",
+      "text": "What I propose is that you petition Lord Portelaine for an official introduction to the other High Houses. The word of House Durendaire carries tremendous weight in Ishgard. Should the captain consent, you would have little trouble obtaining information from the other High Houses."
+    },
+    {
+      "character": "Portelaine",
+      "text": "You've caused quite a stir in your short time here. First you slay two heretics and save a knight, and now I hear you have rescued a man of our house. I imagine you must desire something for your troubles."
+    },
+    {
+      "character": "Portelaine",
+      "text": "An introduction to the other High Houses? I cannot deny that you have given us no cause to distrust you. But while you have performed two acts, you would have me endorse you to three High Houses. It is only fitting that you aid us one final time, wouldn't you agree?"
+    }
+  ]
+}

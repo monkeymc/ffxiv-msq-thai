@@ -8,7 +8,7 @@ on:
   pull_request:
     types: [opened, synchronize]
     paths:
-      - 'content_community/**/*.json'
+      - 'content_community/th/**/*.json'
 
 permissions:
   contents: write

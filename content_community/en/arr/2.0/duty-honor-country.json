@@ -1,0 +1,464 @@
+{
+  "id": "duty-honor-country",
+  "wiki_path": "/wiki/Duty,_Honor,_Country",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/b2/Duty%2C_Honor%2C_Country_Image.png",
+  "patch": "2.0",
+  "title": "Duty, Honor, Country",
+  "level": "14",
+  "location": "Ul'dah - Steps of Nald(X:11.6,Y:9.6)",
+  "npc_start": "Momodi",
+  "dialogues": [
+    {
+      "character": "Momodi",
+      "text": "Can I count on your discretion, Forename ? If so, then listen closely..."
+    },
+    {
+      "character": "Momodi",
+      "text": "The outside world believes Ul'dah to be a sultanate, ruled by Sultana Nanamo Ul Namo. Truth is, though, it's the six wealthiest citizens that hold the most sway─the Syndicate."
+    },
+    {
+      "character": "Momodi",
+      "text": "Be that as it may, the sultana's still got the support of the people..."
+    },
+    {
+      "character": "Momodi",
+      "text": "But she might struggle to keep even that if a certain incident becomes public knowledge."
+    },
+    {
+      "character": "Momodi",
+      "text": "It pains me to say it, but Her Grace's crown, the symbol of the royal dynasty, has been stolen."
+    },
+    {
+      "character": "Momodi",
+      "text": "And Owyne...Owyne's the Sultansworn who was charged with guardin' it that night."
+    },
+    {
+      "character": "Momodi",
+      "text": "I'd bet anythin' this letter was written by the bastards who made off with the crown."
+    },
+    {
+      "character": "Momodi",
+      "text": "It can't be a coincidence that a man we know to have been fraternizin' with thieves had a letter for Owyne of all people, at this of all times."
+    },
+    {
+      "character": "Momodi",
+      "text": "You need to take this to the man himself, Forename . Tell him Momodi sent you, and that it concerns a lost heirloom."
+    },
+    {
+      "character": "Momodi",
+      "text": "If it looks as though the fellow needs help, I want you to lend it to him. The future of our fair city may depend on it."
+    },
+    {
+      "character": "Sultansworn Elite",
+      "text": "The Heart of the Sworn lies beyond. State your business. ...Pardon? Did you say a lost heirloom ? Ahem. Proceed."
+    },
+    {
+      "character": "Sultansworn Elite",
+      "text": "What are you playing at, adventurer? Did Momodi truly send you? If this is some sort of prank, there will be consequences!"
+    },
+    {
+      "character": "Owyne",
+      "text": "Well met, adventurer. What business brings you here this day?"
+    },
+    {
+      "character": "Owyne",
+      "text": "...A letter? Very well, let's see it."
+    },
+    {
+      "character": "Owyne",
+      "text": "...Have you read this, adventurer?"
+    },
+    {
+      "character": "Owyne",
+      "text": "I see. But you have some inkling as to its contents, I think."
+    },
+    {
+      "character": "Owyne",
+      "text": "Mistress Momodi has doubtless explained to you the significance of the crown, and what its loss could mean for Her Grace the sultana... <sigh> This theft shames the Sultansworn─and me most of all."
+    },
+    {
+      "character": "Owyne",
+      "text": "The blame is mine, you see. I grew lax in my duties, and in a moment of carelessness..."
+    },
+    {
+      "character": "Owyne",
+      "text": "No, it will do no good to recount the tale now."
+    },
+    {
+      "character": "Owyne",
+      "text": "Since the hour of the theft, we've searched frantically for any signs, any whispers as to the whereabouts of the crown. We have found nothing."
+    },
+    {
+      "character": "Owyne",
+      "text": "The identity of the thieves, and their motives, seemed fated to remain a mystery─until you arrived, bearing this ransom note."
+    },
+    {
+      "character": "Owyne",
+      "text": "In it, the criminals state their price for the return of Her Grace's crown."
+    },
+    {
+      "character": "Owyne",
+      "text": "And though it pains me to say it, I fear I have no choice but to acquiesce to their demands. Too much is at stake to do otherwise. The crown symbolizes Her Grace's birthright, and identifies her as the custodian of the Ul legacy. It must be recovered."
+    },
+    {
+      "character": "Owyne",
+      "text": "I will travel to the Unholy Heir and pay them their ransom."
+    },
+    {
+      "character": "Owyne",
+      "text": "Though I am not foolish enough to meet these men alone as they stipulate, I dare not bring a host of my comrades lest the thieves take fright. Friend─would you consent to be present for the exchange?"
+    },
+    {
+      "character": "Owyne",
+      "text": "Mistress Momodi has always spoken of you in the most glowing terms, and I have never yet had reason to question her judgment."
+    },
+    {
+      "character": "Owyne",
+      "text": "On behalf of all those still loyal to the sultana, I beseech you─help us in our hour of need."
+    },
+    {
+      "character": "Owyne",
+      "text": "Pray meet me at the Unholy Heir in central Thanalan, east of Black Brush Station. If the gods are good, the exchange will proceed without incident..."
+    },
+    {
+      "character": "Owyne",
+      "text": "I've come as agreed! Now, show me the crown!"
+    },
+    {
+      "character": "Garibald",
+      "text": "Aye, you'll have your precious crown─once we've been duly compensated."
+    },
+    {
+      "character": "Owyne",
+      "text": "Do you think me a fool!? What assurance have I that you will honor your part of the agreement?"
+    },
+    {
+      "character": "Garibald",
+      "text": "Now, now, Owyne...you're the least trustworthy man here. Not only was the crown stolen on your watch, but it looks to me as if you've violated the terms of our exchange. Did we not say that you were to come alone?"
+    },
+    {
+      "character": "Garibald",
+      "text": "And given that you are not alone, what guarantee have we that there isn't a company of archers surrounding us even as we speak, ready to feather me and my men the moment they catch a glimpse of the crown?"
+    },
+    {
+      "character": "Garibald",
+      "text": "You have made mock of our trust. The deal is off."
+    },
+    {
+      "character": "Owyne",
+      "text": "Wait! Here's your payment, as promised!"
+    },
+    {
+      "character": "Garibald",
+      "text": "<sniff> <sniff> ...Aye, 'tis the real thing."
+    },
+    {
+      "character": "Garibald",
+      "text": "Ahahaha! A thousand thanks to you, boy! You've succeeded where scores of thieves have failed!"
+    },
+    {
+      "character": "Garibald",
+      "text": "And now, at long last, we have it! The power to create an army of undying soldiers─ The Traders' Spurn !"
+    },
+    {
+      "character": "Garibald",
+      "text": "Surely you must have wondered what it was that you were handing over─what it was that seemed as valuable to us as the crown seemed to you? Or did you assume we were feeling charitable ?"
+    },
+    {
+      "character": "Garibald",
+      "text": "Ah, but you must feel terrible, knowing that you've brought us the doom of Sil'dih. Worry not, boy─we'll grant you a quick death and spare you further ignominy."
+    },
+    {
+      "character": "Owyne",
+      "text": "There's too many, Forename ! Run! Run while you still can! I...I will do my duty."
+    },
+    {
+      "character": "???",
+      "text": "It's your duty to serve the sultana, lad─and you'll be doing it for a good while yet!"
+    },
+    {
+      "character": "Papashan",
+      "text": "Sultansworn! Put these thieves to the sword and secure the crown!"
+    },
+    {
+      "character": "Garibald",
+      "text": "Sultansworn!? Hah! No matter! Kill them all!"
+    },
+    {
+      "character": "Papashan",
+      "text": "Fight for your sultana, boy! Fight for Ul'dah!"
+    },
+    {
+      "character": "Owyne",
+      "text": "As you command, Master Papashan! With me, Forename !"
+    },
+    {
+      "character": "Garibald the Fargone",
+      "text": "Old men shouldn't play with swords! I will cut your heart out, old man!"
+    },
+    {
+      "character": "Owyne",
+      "text": "Ugh...there are so many..."
+    },
+    {
+      "character": "Papashan",
+      "text": "Stand your ground, Sultansworn!"
+    },
+    {
+      "character": "Garibald the Fargone",
+      "text": "Meddlesome fools! You know not whom you face!"
+    },
+    {
+      "character": "Papashan",
+      "text": "Yield or be slain, thief! I will not ask again!"
+    },
+    {
+      "character": "Garibald the Fargone",
+      "text": "Hearken to me, denizen of the abyss! Slay these interlopers and feast upon their souls!"
+    },
+    {
+      "character": "Owyne",
+      "text": "Is that a voidsent !?"
+    },
+    {
+      "character": "Papashan",
+      "text": "Whatever happens, do not let them escape with the crown!"
+    },
+    {
+      "character": "Papashan",
+      "text": "Ugh...I have failed you..."
+    },
+    {
+      "character": "Owyne",
+      "text": "The crown... We must..."
+    },
+    {
+      "character": "Sultansworn Elite",
+      "text": "I...I cannot..."
+    },
+    {
+      "character": "Sultansworn Elite",
+      "text": "Forgive me, brothers..."
+    },
+    {
+      "character": "Owyne",
+      "text": "Master Papashan! But why...? How...?"
+    },
+    {
+      "character": "Papashan",
+      "text": "The General saw you sneak into the vaults, Owyne."
+    },
+    {
+      "character": "Papashan",
+      "text": "He suspected something was afoot and ordered us to keep an eye on you."
+    },
+    {
+      "character": "Owyne",
+      "text": "The Flame General...? He ordered you to look after me?"
+    },
+    {
+      "character": "Sultansworn Elite",
+      "text": "Master Papashan! More of them to the north!"
+    },
+    {
+      "character": "Papashan",
+      "text": "After them, Sultansworn─they have the crown! This lot sought only to delay us!"
+    },
+    {
+      "character": "Owyne",
+      "text": "Let us speak again back in the city!"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "The source of his / her strength becomes clear..."
+    },
+    {
+      "character": "Masked Mage",
+      "text": "You may have bested the golem, but you will not fare so well this day."
+    },
+    {
+      "character": "Masked Mage",
+      "text": "O mournful voice of creation! Send unto me a creature of the abyss, my thrall to command, that I may smite mine enemies!"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "Your very being imperils the plan. You cannot be suffered to live."
+    },
+    {
+      "character": "Masked Mage",
+      "text": "Soon, you shall take your vile gifts to the grave!"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "Whence springs this preternatural might!?"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "Mwahahaha! Writhe as the venom eats its way through your veins!"
+    },
+    {
+      "character": "Thancred",
+      "text": "You certainly have a knack for getting into trouble!"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "An unwelcome guest. No matter, all shall fall before me!"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "No mortal should possess such strength!"
+    },
+    {
+      "character": "Thancred",
+      "text": "Keep it up, Forename ! We almost have him!"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "Unnngh... That the wisdom of the Paragons should be brought low...by mere mortals..."
+    },
+    {
+      "character": "Thancred",
+      "text": "Paragons? This is indeed a disturbing revelation..."
+    },
+    {
+      "character": "Thancred",
+      "text": "We had long suspected the involvement of the Bringers of Chaos─ Ascians , to give them their true name."
+    },
+    {
+      "character": "Thancred",
+      "text": "But we could not be sure they were responsible for the recent disturbances until now. As if the sultanate needed any more enemies..."
+    },
+    {
+      "character": "Thancred",
+      "text": "Hm? Have we Sharlayans crossed paths with Ascians before? Well, we've certainly─ Wait. I don't recall telling you about my homeland."
+    },
+    {
+      "character": "Thancred",
+      "text": "Ah, yes, that's right─you're one of the gifted."
+    },
+    {
+      "character": "Thancred",
+      "text": "You know, this marks the third time I've found you in the midst of trouble. If I didn't know any better, I'd say you're a lodestone for it!"
+    },
+    {
+      "character": "Thancred",
+      "text": "Anyway, I'm glad I started following you around. Who knows what grand conspiracy you'll stumble upon next!?"
+    },
+    {
+      "character": "Thancred",
+      "text": "I jest, I jest... Had I truly been watching your every move, I wouldn't have taken so long to intervene in your latest altercation."
+    },
+    {
+      "character": "Thancred",
+      "text": "But all's well that ends well, eh? Our masked friend is no more, and while I very much doubt we've seen the last of his kind, his demise will likely grant us at least some respite. And on that note, I must away. Until next time, Forename ."
+    },
+    {
+      "character": "Sultansworn Elite",
+      "text": "Everyone is waiting for you, adventurer."
+    },
+    {
+      "character": "Sultansworn Elite",
+      "text": "Pray do not keep my comrades waiting."
+    },
+    {
+      "character": "Owyne",
+      "text": "You have my thanks, Forename , for helping to defend Her Grace's good name, and for sparing the Sultansworn further dishonor. I believe Master Papashan would like to thank you personally."
+    },
+    {
+      "character": "Papashan",
+      "text": "Does it surprise you to see me dressed so, Forename ? I was once a Sultansworn, you know, though it's been fifteen years since I put down my sword, and took up the role of stationmaster."
+    },
+    {
+      "character": "Papashan",
+      "text": "It is a capacity in which I am no less proud to serve, lest you doubt. Whenever Her Grace ventures outside the gates, I have the honor of protecting her person."
+    },
+    {
+      "character": "Papashan",
+      "text": "Never before had I seen her so despondent as when news of the crown's theft reached her ears."
+    },
+    {
+      "character": "Papashan",
+      "text": "But thanks to your valiant efforts, she is returned to her former vibrant self. You have the gratitude of every Sultansworn, Forename ."
+    },
+    {
+      "character": "Lady-in-waiting",
+      "text": "Exalted vessel of Nald'thal, guardian of Thanalan, seventeenth ascendant to the throne of Ul'dah, Her Royal Majesty Nanamo Ul Namo presides!"
+    },
+    {
+      "character": "Sultansworn Elite (multiple voices)",
+      "text": "Long live Nanamo! Glory to the Sultana! Forever may she reign!"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "They regaled me with tales of a champion amongst champions, one whose tireless service to the crown merited the highest honor we might bestow."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "Never did it occur to me that it might be you. Bring it forth!"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "Betokening our gratitude and esteem, I, Nanamo Ul Namo, Sultana of Ul'dah, confer upon you this gift."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "Raubahn."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Your Grace."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "See to it that our champion is my personal guest at the banquet."
+    },
+    {
+      "character": "Raubahn",
+      "text": "As you command, Your Grace."
+    },
+    {
+      "character": "Raubahn",
+      "text": "If what they say is true, Ul'dah owes you a great debt."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Strange that we should not have met before this day..."
+    },
+    {
+      "character": "Raubahn",
+      "text": "...I sense we are kindred spirits."
+    },
+    {
+      "character": "Raubahn",
+      "text": "I am not given to superstition, but I'll be sworn our tales belong in the same saga."
+    },
+    {
+      "character": "Raubahn",
+      "text": "I am Raubahn Aldynn. With the consent of Her Grace, I oversee the affairs of the sultanate."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Brave souls are few and far between in these times. I count my blessings when I find one."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Her Grace invites you to join her at the coming banquet. I trust I will see you there."
+    },
+    {
+      "character": "Sultansworn Elite (multiple voices)",
+      "text": "An honor indeed!"
+    },
+    {
+      "character": "Sultansworn Elite (multiple voices)",
+      "text": "Huzzah! Come, hero!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Until then."
+    },
+    {
+      "character": "Raubahn",
+      "text": "For the sake of Her Grace, and the glory of the sultanate, may you walk in the light of the Crystal."
+    }
+  ]
+}

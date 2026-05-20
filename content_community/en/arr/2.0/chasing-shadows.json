@@ -1,0 +1,288 @@
+{
+  "id": "chasing-shadows",
+  "wiki_path": "/wiki/Chasing_Shadows",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/a/a3/Chasing_Shadows_Image.png",
+  "patch": "2.0",
+  "title": "Chasing Shadows",
+  "level": "5",
+  "location": "Central Shroud(X:23.4,Y:19.9)",
+  "npc_start": "Galfrid",
+  "dialogues": [
+    {
+      "character": "Galfrid",
+      "text": "Ah, Forename . By your tireless efforts, you have proven yourself a friend to Gridania . I believe you can be trusted with sensitive intelligence."
+    },
+    {
+      "character": "Galfrid",
+      "text": "I would assign you a mission of considerable import, yet the need for secrecy prevents me from disclosing its details until you have pledged your participation. I am authorized to tell you only that it concerns suspicious activity in the Twelveswood . Say that you will lend us your aid, and I shall proceed with the briefing."
+    },
+    {
+      "character": "Galfrid",
+      "text": "Good. Time is of the essence, so listen well."
+    },
+    {
+      "character": "Galfrid",
+      "text": "You will by now have heard that a suspicious individual has been seen prowling the Twelveswood."
+    },
+    {
+      "character": "Galfrid",
+      "text": "And you may also be aware that Ixali activity has risen sharply in the region of late. What you may not know is that this increase coincided almost exactly with the first recorded sighting of the aforementioned individual."
+    },
+    {
+      "character": "Galfrid",
+      "text": "Suspecting a connection, we tightened our surveillance in hopes of tracking down our unknown visitor. Alas, our quarry is proving to be exceedingly elusive -- almost as if he knows our movements ahead of time."
+    },
+    {
+      "character": "Galfrid",
+      "text": "But where whole units have failed, a lone adventurer may yet succeed. Acting independently and covertly, you may be able to close in on our quarry unnoticed."
+    },
+    {
+      "character": "Galfrid",
+      "text": "Fear and anxiety are beginning to take their toll upon the citizenry, Forename . For their sake, I ask that you aid us in this investigation."
+    },
+    {
+      "character": "Galfrid",
+      "text": "You have my gratitude. With your help, I am hopeful we will shed light upon this mystery."
+    },
+    {
+      "character": "Galfrid",
+      "text": "Begin your search at Lifemend Stump . It is there that the majority of the sightings took place."
+    },
+    {
+      "character": "Galfrid",
+      "text": "Be forewarned: my people cannot offer you support, lest our quarry catch scent of our presence and evade us yet again. Proceed with caution."
+    },
+    {
+      "character": "???",
+      "text": "Look! Someone's already here!"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "Oh dear. Is that a sword in the stump? Bad idea. Really bad idea..."
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "It takes a lot less than that to incite the Greenwrath, you know. Why, the first time we came to the Twelveswood, we almost ended up as a treant 's dinner just for crashing our airship in the wrong place. It was all Papalymo 's fault, of course! Though, he'd sooner s--"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "Is this our dark stranger?"
+    },
+    {
+      "character": "Moogle",
+      "text": "No, no, not this one. Not even close, kupo!"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "Hm? You know him / her , Kuplo Kopp ?"
+    },
+    {
+      "character": "Kuplo Kopp",
+      "text": "Well, not exactly, but we did once share a carriage. Isn't that right?"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "How are the readings?"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "Same as the last. There is a disturbance here as well, and newly manifested at that."
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "Kuplo Kopp seems convinced of your innocence. But if this isn't your doing, whose is it?"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "Ever since the Calamity , the forest's been really sensitive."
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "The slightest disruption to the aetheric flow..."
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "And this sort of thing happens!"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "It seems we have little choice..."
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "Do you want to get eaten!? Hit them harder!"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "I'm trying, I'm trying!"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "There's more! Be careful!"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "If you value your life, stay close!"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "Well done! We're almost there!"
+    },
+    {
+      "character": "???",
+      "text": "Hear... Feel... Think..."
+    },
+    {
+      "character": "???",
+      "text": "Crystal bearer..."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "I am Hydaelyn . All made one."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "A Light there once was that shone throughout this realm... yet it hath since grown dim."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "And as it hath faltered, so hath Darkness risen up in its stead, presaging an end to Life."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "For the sake of all, I beseech thee: deliver us from this fate!"
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "The power to banish the Darkness dwelleth in the Crystals of Light. Journey forth and lay claim to them."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "By thy deeds shall the Crystals reveal themselves to thee."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Only believe, for the Light liveth in thy heart."
+    },
+    {
+      "character": "Hydaelyn",
+      "text": "Go now, my child, and shine thy Light on all creation."
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "You fainted. A surfeit of aether, no doubt."
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "Hm? And what have we here?"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "Our culprit, it would seem. An Ixal. And no ordinary Ixal, either -- a chieftain."
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "That they would venture this deep into enemy territory... The beastmen may indeed be acting under orders."
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "This is Papalymo. We found the culprit: It was an Ixali chieftain! ...Yes, we'll seek Brother E-Sumi-Yan 's cooperation in the matter. ... Yda ? Oh, loud, tactless! Much the same as always!"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "How are we feeling, then? Better? Good!"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "Giant crystals? Can't say I've seen any... Are you sure you're feeling better?"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "...Understood. Over and out."
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "Kuplo Kopp. Please bear word of these developments to Brother E-Sumi-Yan. We shall soon return to give a full report."
+    },
+    {
+      "character": "Kuplo Kopp",
+      "text": "Understood! Over and out, kupo!"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "Here is where we part ways. Till next time, take care!"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "I think that sword might be a clue! You should definitely pull it out and take it back to the Bannock!"
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "You don't suppose that adventurer could see Kuplo Kopp, do you!?"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "And this occurs to you NOW!?"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "Yes. It seemed that way. Time will tell..."
+    },
+    {
+      "character": "Animated Pugilist",
+      "text": "Well, time will have to, because you won't! You never tell me what's really going on! Unless... you don't know what's going on either!"
+    },
+    {
+      "character": "Short-tempered Thaumaturge",
+      "text": "Bah! You'd like that, wouldn't you!?"
+    },
+    {
+      "character": "Galfrid",
+      "text": "Forename ! It is good to see you back!"
+    },
+    {
+      "character": "Galfrid",
+      "text": "One of our patrols sent word that you had been spotted doing battle with enraged treants. I am relieved to find you none the worse for the experience."
+    },
+    {
+      "character": "Galfrid",
+      "text": "But tell me, what were you able to discover at Lifemend Stump?"
+    },
+    {
+      "character": "Galfrid",
+      "text": "A sword in the stump, and a dead Ixal? Hmmm..."
+    },
+    {
+      "character": "Galfrid",
+      "text": "I can say with absolute certainty that this blade is of Ixali origin. It is of a kind used exclusively in the beastmen's rituals."
+    },
+    {
+      "character": "Galfrid",
+      "text": "The Ixal rarely set foot in the Central Shroud , so tight is our guard over the area. What purpose could have driven them to take such a risk? I fear something is afoot..."
+    },
+    {
+      "character": "Galfrid",
+      "text": "What's that? A dubious couple sporting peculiar spectacles? Hah hah hah!"
+    },
+    {
+      "character": "Galfrid",
+      "text": "So you have finally been acquainted with Yda and Papalymo! Lay your suspicions to rest -- Gridania counts them among her staunchest allies. Both are scholars hailing from a distant land, and have been with us since before the Calamity."
+    },
+    {
+      "character": "Galfrid",
+      "text": "Their garb may appear outlandish, and their exchanges baffling, but never once have they given us cause to doubt them."
+    },
+    {
+      "character": "Galfrid",
+      "text": "Indeed, they often assist the Gods' Quiver and the Wood Wailers in their work -- much as I hope you will in the days to come, Forename ."
+    },
+    {
+      "character": "Galfrid",
+      "text": "Although our unknown visitor eludes us still, owing to your efforts, we have acquired important intelligence on the Ixali threat. You have my gratitude."
+    },
+    {
+      "character": "Galfrid",
+      "text": "We are fortunate indeed to have a capable adventurer such as you aiding us. I pray you will continue to serve the people of Gridania in whatever capacity you are able."
+    }
+  ]
+}

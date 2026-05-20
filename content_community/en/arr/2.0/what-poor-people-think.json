@@ -1,0 +1,72 @@
+{
+  "id": "what-poor-people-think",
+  "wiki_path": "/wiki/What_Poor_People_Think",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "What Poor People Think",
+  "level": "18",
+  "location": "Eastern Thanalan(X:13.9,Y:23.6)",
+  "npc_start": "Isembard",
+  "dialogues": [
+    {
+      "character": "Isembard",
+      "text": "What say we turn an eye to the commonfolk themselves? It may be among them that we find the reasons for these vanishings, Twelve forbid it be so."
+    },
+    {
+      "character": "Isembard",
+      "text": "There is a merchant by the name of Ungust who was born here in Drybone and grew up in the Golden Bazaar. A...rough character, but he knows the people here better than anyone else."
+    },
+    {
+      "character": "Isembard",
+      "text": "I'd wager he's at the inn, quaffing away the day's earnings. Here, I'll write a note for you to show him, else he's not like to speak to you."
+    },
+    {
+      "character": "Ungust",
+      "text": "<belch> Well, gods be damned! You're that bloody adventurer who threatened me back in Ul'dah! What in the seven hells do you want with me now!?"
+    },
+    {
+      "character": "Ungust",
+      "text": "“Dear friend... <belch> Missing people... Please help... <hiccup> Yours, Isembard.”"
+    },
+    {
+      "character": "Ungust",
+      "text": "Folk around here are as wary as they come. They'll turn tail and run if you so much as pass wind nearby. Played them all for fools and coaxed some hard labor out of them, I did."
+    },
+    {
+      "character": "Ungust",
+      "text": "If anything, they're even more timid than before, what with all the disappearances. You can go talk to 'em yourself if you don't believe me."
+    },
+    {
+      "character": "Ungust",
+      "text": "The folk around here are more timid now than ever before, what with all the disappearances. You can go talk to 'em yourself if you don't believe me."
+    },
+    {
+      "character": "Hungry Beggar",
+      "text": "P-Please, sir / miss , just leave me be..."
+    },
+    {
+      "character": "Devious Derelict",
+      "text": "I've nothing to say but this: Thal take who─or what ever's been feeding off us low folk."
+    },
+    {
+      "character": "Petrified Pauper",
+      "text": "Wh-What do you want from me!? I d-don't know anything, I swear! Please don't kill me!"
+    },
+    {
+      "character": "Ungust",
+      "text": "Just as I told you, wasn't it? The whole lot of them are terrified. <hiccup>"
+    },
+    {
+      "character": "Ungust",
+      "text": "There's been talk of folk getting abducted, but if you ask me, they simply up and moved on to a better place. This place isn't exactly Costa del Sol, if you know what I'm saying."
+    },
+    {
+      "character": "Isembard",
+      "text": "Welcome back, Forename . Have you learned aught of import?"
+    },
+    {
+      "character": "Isembard",
+      "text": "I see... I suppose I should have expected as much from Ungust. Well, another thought occurred to me in your absence. The commonfolk are nothing if not fervent in their religious beliefs. Perhaps if they speak freely to their gods, then the clergy may know something of use."
+    }
+  ]
+}

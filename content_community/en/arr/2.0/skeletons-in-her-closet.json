@@ -1,0 +1,160 @@
+{
+  "id": "skeletons-in-her-closet",
+  "wiki_path": "/wiki/Skeletons_in_Her_Closet",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/4/42/Skeletons_in_Her_Closet_Image.png",
+  "patch": "2.0",
+  "title": "Skeletons in Her Closet",
+  "level": "28",
+  "location": "Old Gridania(X:11.9,Y:4.5)",
+  "npc_start": "Ursandel",
+  "dialogues": [
+    {
+      "character": "Ursandel",
+      "text": "I was once a manservant in the employ of one of the oldest and proudest families in Gridania─the Dartancours. During that time, I had the honor of waiting upon Lady Amandine, mistress of the household. Fair as summer was she, and possessed of a heart befitting her radiance."
+    },
+    {
+      "character": "Ursandel",
+      "text": "Alas, the Calamity wrought a great change in her. Though my lady escaped with her life, death may well have been a kinder fate. Never will I forget the day her bandages were removed, and she beheld her disfigured face for the first time. At that moment, the kindly woman I knew ceased to be."
+    },
+    {
+      "character": "Ursandel",
+      "text": "Unable to bear the thought of being seen, my lady sequestered herself within her chambers and refused all company. This continued for many uneasy moons, until one day, without warning, she began receiving queer guests. None among us knew whence they came, these masked men, but my lady believed that they would help her to regain that which she had lost. So began the “rites of rejuvenation.”"
+    },
+    {
+      "character": "Ursandel",
+      "text": "These rituals seemed innocent enough in the beginning, but grew ever more grotesque as time went by. Eventually, there came a day when my lady bound one of her handmaidens to her bed, and...and proceeded to mutilate the poor girl's face. Suffice it to say, she did not survive the ordeal. It fell to me to dispose of her body."
+    },
+    {
+      "character": "Ursandel",
+      "text": "I performed the dreadful task as bade, obedient servant that I was, but when the time came to return to the house, my legs refused to move. I knew then that I could not go back to that place, not after the nightmare I had witnessed. So it was that I left Haukke Manor, my home for nigh on half a century."
+    },
+    {
+      "character": "Ursandel",
+      "text": "Long did I weep for the girl who was slain, and longer still for the woman that Lady Amandine had been. Yet one cannot weep forever, and I endeavored to put the matter behind me. Indeed, I had resolved never to speak of my experience...until you appeared before me."
+    },
+    {
+      "character": "Ursandel",
+      "text": "My lady's madness must be ended, lest more innocent lives be lost. Lay her tormented soul to rest, as you swore to me you would. She awaits you at Haukke Manor, on the western edge of the Central Shroud. Go now. Go and do what must be done."
+    },
+    {
+      "character": "Scion Marauder",
+      "text": "On your guard, everyone."
+    },
+    {
+      "character": "Scion Conjurer",
+      "text": "Dark forces are at work here."
+    },
+    {
+      "character": "Scion Conjurer",
+      "text": "Do you suppose there's anything useful in that room?"
+    },
+    {
+      "character": "Scion Marauder",
+      "text": "Let's not waste any time with this one."
+    },
+    {
+      "character": "Scion Thaumaturge",
+      "text": "I think we can use this flow of magic to return to the manor entrance."
+    },
+    {
+      "character": "Scion Conjurer",
+      "text": "Let us put this wayward soul to rest."
+    },
+    {
+      "character": "???",
+      "text": "Darkness has taken root within these halls..."
+    },
+    {
+      "character": "???",
+      "text": "...Sprung from the most unlikely of seeds."
+    },
+    {
+      "character": "???",
+      "text": "One cannot help but admire the irrepressible spirit that quickened it to life."
+    },
+    {
+      "character": "Ascian of the Twelfth Staff",
+      "text": "It is a pleasure to meet you at last, adventurer. You are every bit as intriguing as our master gave us to believe."
+    },
+    {
+      "character": "Ascian of the Twelfth Sword",
+      "text": "It is no ordinary mortal who can acquire one Crystal of Light...much less three ."
+    },
+    {
+      "character": "Ascian of the Twelfth Sword",
+      "text": "The Crystals make you strong, and it is to that strength that the Light is drawn."
+    },
+    {
+      "character": "Ascian of the Twelfth Staff",
+      "text": "Hydaelyn chose well."
+    },
+    {
+      "character": "Ascian of the Twelfth Sword",
+      "text": "...A pity that your existence is irreconcilable with our own. We cannot well allow you to continue upon your present course."
+    },
+    {
+      "character": "Ascian of the Twelfth Staff",
+      "text": "Alas, we came here not to play, but to take the measure of your strength for Master Lahabrea. That task now accomplished, we take our leave of you."
+    },
+    {
+      "character": "Ascian of the Twelfth Sword",
+      "text": "Fare you well, Bringer of Light."
+    },
+    {
+      "character": "Ursandel",
+      "text": "You are returned! What sights awaited you within the manor? What has become of Lady Amandine? You must tell me all!"
+    },
+    {
+      "character": "Ursandel",
+      "text": "...So she went so far as to consort with devils. Would that I could have done more to prevent her fall. May she finally find peace in the beyond."
+    },
+    {
+      "character": "Ursandel",
+      "text": "I know not whether the masked men you encountered are the same pair that first led my lady astray, but it is plain that they are of the same vile brood. Should the chance ever present itself, promise me that you will visit upon them tenfold the woe they have brought upon others."
+    },
+    {
+      "character": "Ursandel",
+      "text": "But who am I to speak of punishment? By my silence, I allowed I know not how many innocent young women to die in unspeakable circumstances... It matters not wherefore─through misplaced loyalty, cowardice, or both, I am an abettor to a gross crime. I will surrender myself to the authorities and accept whatever punishment they deem just. I only pray that the gods will have mercy on my soul."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Welcome back, Forename . Full glad am I to see you safely returned. Tell me, how fared you on your sojourn in the Twelveswood?"
+    },
+    {
+      "character": "Minfilia",
+      "text": "...Two of Lahabrea's minions? ...And they sought to measure your strength... by their own admission ?"
+    },
+    {
+      "character": "Minfilia",
+      "text": "The devils taunt us... It is beyond doubt, then─the Ascians have begun to move in earnest. Would that we knew to what end."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Yet I will not bemoan our plight. Thanks to your tireless efforts, we are at least aware of the encroaching Darkness."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Alas, we can only do so much. It is clear to me now that we Scions are too few to protect the realm against this threat unaided."
+    },
+    {
+      "character": "Minfilia",
+      "text": "We must needs alert the three nations to the presence of this elusive enemy, and recommend that they heighten their vigil."
+    },
+    {
+      "character": "Minfilia",
+      "text": "There is no shortage of misery in the world that the Ascians might exploit. We have an arduous struggle ahead of us."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Yet come what may, we must not allow ourselves to become lost to hope, for that is precisely what the enemy desires."
+    },
+    {
+      "character": "Minfilia",
+      "text": "We have gleaned all we can from the information available to us. Let us set this investigation aside for the present."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Another matter has arisen that requires your attention. Let me know when you are ready to be briefed, and I will summon the others."
+    }
+  ]
+}

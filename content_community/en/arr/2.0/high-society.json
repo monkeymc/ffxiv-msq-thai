@@ -1,0 +1,96 @@
+{
+  "id": "high-society",
+  "wiki_path": "/wiki/High_Society",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "High Society",
+  "level": "14",
+  "location": "Limsa Lominsa Upper Decks(X:11.1,Y:6.0)",
+  "npc_start": "Reyner",
+  "dialogues": [
+    {
+      "character": "Reyner",
+      "text": "I am not sure you understand just how unusual it is for the Admiral to invite an adventurer to a state banquet."
+    },
+    {
+      "character": "Reyner",
+      "text": "It is a highly coveted honor. Why, even the officers under her direct command are rarely afforded such recognition!"
+    },
+    {
+      "character": "Reyner",
+      "text": "But I will not deny you have earned it. Many of the tasks you have performed in service to the thalassocracy have been both difficult and dangerous."
+    },
+    {
+      "character": "Reyner",
+      "text": "This is a reward for all of your efforts─a nod to your many achievements, both large and small."
+    },
+    {
+      "character": "Reyner",
+      "text": "Has the enormity of this moment yet to sink in? Perchance you will realize its significance when you stand before the assembled dignitaries of Limsa Lominsa! ...And now that I have imagined the scene, I realize that you will require attire suitable for the occasion."
+    },
+    {
+      "character": "Reyner",
+      "text": "I suggest you visit the Wench and see what Baderon can arrange. He is surprisingly knowledgeable about such things."
+    },
+    {
+      "character": "Baderon",
+      "text": "Well, well...if it ain't Merlwyb's guest of 'onor! 'Obnobbin' with the 'igh an' mighty, now, is it?"
+    },
+    {
+      "character": "Baderon",
+      "text": "I tell ye, lad / lass , I damn near snorted ale out me nose when I 'eard the news. Ye've come a long bloody way, you 'ave, an' that's the truth."
+    },
+    {
+      "character": "Baderon",
+      "text": "Well, one thing's fer sure─ye'll not want fer decent grub. These banquets are catered by the bleedin' Bismarck, no less."
+    },
+    {
+      "character": "Baderon",
+      "text": "'Tis a grand chance to fill yer belly to burstin' with fine an'─more importantly─free food."
+    },
+    {
+      "character": "Baderon",
+      "text": "But we can't have ye turnin' up in yer shite-caked 'venturin' gear."
+    },
+    {
+      "character": "Baderon",
+      "text": "No, the 'ero o' the hour needs to 'ave a touch o' refinement about 'im / 'er ─if only to stop folk complainin' when 'e / she stuffs 'is / 'er face with cake. Take yerself over to the Octant an' speak to J'nasshym o' the Brugaire Consortium. She'll furnish ye with summat gentlemanly / ladylike to wear."
+    },
+    {
+      "character": "Baderon",
+      "text": "I've already 'ad a word with 'er, so all ye need do is pick up the goods, then bring 'em back 'ere, so as I can tell ye what's what."
+    },
+    {
+      "character": "J'nasshym",
+      "text": "Good morning / day / evening , sir / miss . I assume you're the underdressed “ gentleman / lady ” Baderon mentioned?"
+    },
+    {
+      "character": "J'nasshym",
+      "text": "<sniff> I see he was not exaggerating..."
+    },
+    {
+      "character": "J'nasshym",
+      "text": "Ahem. I've chosen these especially for your debut in polite society. Fear not, I'm certain you will absolutely adore them."
+    },
+    {
+      "character": "Baderon",
+      "text": "Been to see J'nasshym, 'ave ye? Let's 'ave that box, then."
+    },
+    {
+      "character": "Baderon",
+      "text": "'Ere we go...a nice pair o' dress shoes fer ye."
+    },
+    {
+      "character": "Baderon",
+      "text": "A bloke / lass mightn't 'ave much else to 'is / 'er name, but so long as 'e's / she's got a decent pair o' shoes on 'is / 'er feet, there ain't nowhere 'e / she can't go."
+    },
+    {
+      "character": "Baderon",
+      "text": "Think of 'em as a gift from me an' all the other folk ye've done right by along the way."
+    },
+    {
+      "character": "Baderon",
+      "text": "Aye, aye...'tis a very movin' gesture, I know. Just don't go wellin' up on me, eh? Wouldn't do fer Limsa's new 'ero to turn up at the banquet soaked in 'is / 'er own tears an' snot. Anyroad, that's yer garb sorted. Now, ye just need to settle yer nerves. Tell me when yer ready, an' I'll tell ye where yer meant to go."
+    }
+  ]
+}

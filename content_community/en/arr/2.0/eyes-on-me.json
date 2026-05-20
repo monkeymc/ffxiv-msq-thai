@@ -1,0 +1,184 @@
+{
+  "id": "eyes-on-me",
+  "wiki_path": "/wiki/Eyes_on_Me",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/c/c3/Eyes_on_Me_Image.png",
+  "patch": "2.0",
+  "title": "Eyes on Me",
+  "level": "35",
+  "location": "Eastern Thanalan(X:11.2,Y:21.3)",
+  "npc_start": "Marques",
+  "dialogues": [
+    {
+      "character": "Marques",
+      "text": "I...I'm not imagining it, Forename . I know I'm being watched..."
+    },
+    {
+      "character": "Marques",
+      "text": "This is different─sinister. It is as if I am...under observation."
+    },
+    {
+      "character": "Marques",
+      "text": "The feeling comes and goes...but I felt it when last I ventured outside. Yes. I know I felt it. Will you look outside for me... please ? It will only take a moment."
+    },
+    {
+      "character": "Marques",
+      "text": "You were attacked, weren't you? Are you unharmed? Thank the gods."
+    },
+    {
+      "character": "Marques",
+      "text": "I knew it. He was watching me. ...But why was he watching me?"
+    },
+    {
+      "character": "Marques",
+      "text": "What did he want with me? Did he, perhaps...know something of my past? If only I could have asked him..."
+    },
+    {
+      "character": "Marques",
+      "text": "I...I need to think. Please, allow me a moment alone. Wait. Father Iliud must hear of this. Will you tell him for me? It's important. I think others may come for me again."
+    },
+    {
+      "character": "Iliud",
+      "text": "Heavens forfend... That such a thing should happen on holy ground! Do you have any idea who this man was? Did you notice anything distinctive about his garb or possessions?"
+    },
+    {
+      "character": "Iliud",
+      "text": "This...this is Garlean steel. Which means the man who was watching Marques was..."
+    },
+    {
+      "character": "Iliud",
+      "text": "Make haste to Camp Drybone at once! We must summon the Immortal Flames before more imperials come!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Hmph. I fondly hoped that I might be the first to speak with you... Would that I had been so fortunate."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "At ease, adventurer─I come not on behalf of the Empire. On the contrary, I mean to revive the Scions of the Seventh Dawn."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "And to that end..."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "I have come in search of a legend─the greatest engineer of our time. Master Cid Garlond─I have come for you."
+    },
+    {
+      "character": "Iliud",
+      "text": "I fear you are mistaken, child. He is but a poor soul who bore witness to the horrors at Carteneau."
+    },
+    {
+      "character": "Iliud",
+      "text": "I beg of you, leave us in peace..."
+    },
+    {
+      "character": "Marques",
+      "text": "Wait... I..."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Hear me, Cid! Eorzea needs you!"
+    },
+    {
+      "character": "Marques",
+      "text": "You... so familiar... We... It's...all a blue."
+    },
+    {
+      "character": "Iliud",
+      "text": "Cid, was it? Here...these belong to you."
+    },
+    {
+      "character": "Iliud",
+      "text": "I thought you bore the mark of greatness... It seems that I was right."
+    },
+    {
+      "character": "Iliud",
+      "text": "Our time together was all too brief, but it felt as though my son had returned to me. You have brought joy to an old man's life."
+    },
+    {
+      "character": "Iliud",
+      "text": "But it is time for you to help those who truly need you."
+    },
+    {
+      "character": "Cid",
+      "text": "Who...are you?"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Alphinaud Leveilleur, at your service."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "As a Scion of the Seventh Dawn, I stand against our primal and imperial foes─as my grandfather once did."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "'Tis no secret what befell our order at the Waking Sands. Word has already spread across Eorzea."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "The repercussions are far greater than you realize. In the wake of the Calamity, the three city–states focused their efforts solely on reconstruction."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Leaving the Scions to combat the primal threat unaided."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "And lo, we are all but destroyed. Yet even as the nations mourn our demise, and abandon what little hope they have left, we cannot forsake our duty─now least of all."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "The Ixal have summoned Garuda once more, and she torments the people of Coerthas as we speak."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Her appetite for destruction far exceeds that of other primals."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Worse, in her present incarnation, our Baldesion colleagues believe she surpasses both Ifrit and Titan in strength."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Yet therein lies an opportunity. Were we somehow to defeat Garuda, it would serve as a warning to the other beast tribes that even their mightiest gods can be felled."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "If we are to face our foe, we must first circumvent the tempest that shields her sanctuary."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "And for that, we need an airship─ your airship, Cid."
+    },
+    {
+      "character": "Cid",
+      "text": "I...I have...an airship?"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Yes, Cid, you do. Your very own airship."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "It was last seen in the skies over Gridania, not long before the Calamity, so let us begin our search there."
+    },
+    {
+      "character": "Cid",
+      "text": "A-An airship...? My airship...?"
+    },
+    {
+      "character": "Cid",
+      "text": "W-Wait..."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Come, let us put an end to the primals! Together, we will show the world that the Scions are still a force to be reckoned with!"
+    },
+    {
+      "character": "Cid",
+      "text": "They need my airship... They need...me."
+    }
+  ]
+}

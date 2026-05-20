@@ -1,0 +1,116 @@
+{
+  "id": "into-the-eye-of-the-storm",
+  "wiki_path": "/wiki/Into_the_Eye_of_the_Storm",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/9/95/Into_the_Eye_of_the_Storm_Image.png",
+  "patch": "2.0",
+  "title": "Into the Eye of the Storm",
+  "level": "41",
+  "location": "New Gridania(X:11.3,Y:13.6)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text": "It calms me to look at her."
+    },
+    {
+      "character": "Cid",
+      "text": "It's as though I've been reunited with a part of me I never knew was missing..."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Hardly surprising. You did design and build her."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "I bear good news! The Seedseers have granted our request to house the Enterprise . We may take as long as we require to repair her."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Of course, it would be rank folly to take one moment more than we require. Garuda, lest we forget, grows stronger by the hour. If we are to have any hope of wresting this benighted realm from her talons, it must needs be soon ."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Though I am no expert on the workings of airships, it seems plain to me that the Enterprise suffered much from her time in the wilderness. Am I not correct, Cid?"
+    },
+    {
+      "character": "Cid",
+      "text": "You are. Frankly, it's a miracle she carried us this far."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "As you know, the Howling Eye is encircled by a raging tempest, apt to turn proud trees to matchwood. Our battle will end before it begins if the Enterprise cannot weather the storm."
+    },
+    {
+      "character": "Cid",
+      "text": "Given time, I believe I can fully repair her..."
+    },
+    {
+      "character": "Cid",
+      "text": "But if this tempest is as fearsome as you say, even that may not be enough."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "<sigh> Confound it. There must be a way...a way to brave the fury of the elements..."
+    },
+    {
+      "character": "Cid",
+      "text": "...The elements . But of course! That's it!"
+    },
+    {
+      "character": "Cid",
+      "text": "We work upon the element itself! Using the power of a corrupted crystal, we could clear a path through the storm, and spare the Enterprise a battering!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "I see! You propose to utilize the properties of a crystal to alter the elemental aspect of the barrier! It seems so childishly simple in retrospect!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Though mayhap not to you , Forename . We speak of the manifestations of over-aspected aether that can be found throughout Eorzea."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Since the Calamity disrupted the land's aetheric currents, such crystals have become comparatively commonplace."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "...Which has been a cause of great woe, as they are known to warp aetheric energies, including those of living organisms."
+    },
+    {
+      "character": "Cid",
+      "text": "The point is, we could theoretically use a corrupted crystal to convert the wind-aspected aether comprising Garuda's barrier into aether of another aspect─one she cannot control."
+    },
+    {
+      "character": "Cid",
+      "text": "With certain modifications, the Enterprise should be able to deliver us to the Howling Eye in comfort, however hard Garuda blows..."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "But we are getting ahead of ourselves. All of this rests upon our ability to procure a crystal with the necessary properties. Have you any idea where we might acquire one?"
+    },
+    {
+      "character": "Cid",
+      "text": "No. But I know a man who might. A scholar by the name of Lamberteint, who resides in Camp Drybone."
+    },
+    {
+      "character": "Cid",
+      "text": "Strange as it may sound, I met him during my time at the church. Well, Marques met him, I suppose. Whether out of pity, or for want of a more willing listener, he would talk to me for hours at a time about his aetheric studies, corrupted crystals being his pet subject. It was as a result of these conversations that poor Marques was observed to possess an uncommon knack for theoretical science..."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Forename , I need you to return to Thanalan and seek out this scholar. Cid and I will set about repairing the Enterprise in your absence."
+    },
+    {
+      "character": "Cid",
+      "text": "When I look at her, I feel as though I've come home. I can think of no other way to express it."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Why do you tarry, Forename ? Our work is not yet finished! We must press onward, until the harpy queen lies broken at our feet!"
+    },
+    {
+      "character": "Lamberteint",
+      "text": "Hm? Why yes, I am Professor Lamberteint. Beg pardon? You wish to hear about my research on corrupted crystals? ... Truly ? Well, nothing would give me greater pleasure than to discuss my work with a fellow man / woman of science!"
+    }
+  ]
+}

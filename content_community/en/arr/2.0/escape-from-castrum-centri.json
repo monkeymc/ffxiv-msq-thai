@@ -1,0 +1,908 @@
+{
+  "id": "escape-from-castrum-centri",
+  "wiki_path": "/wiki/Escape_from_Castrum_Centri",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/f3/Escape_from_Castrum_Centri_Image.png",
+  "patch": "2.0",
+  "title": "Escape from Castrum Centri",
+  "level": "46",
+  "location": "Mor Dhona(X:6.0,Y:6.0)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text": "How go your preparations, Forename ? We leave as soon as you're ready."
+    },
+    {
+      "character": "Cid",
+      "text": "Glaumunt! You came!"
+    },
+    {
+      "character": "Glaumunt",
+      "text": "Aye─thought I'd give you all a roarin' send-off. 'Tis the least I can do for the fine men an' women what're about to make my lifelong wish come true."
+    },
+    {
+      "character": "Cid",
+      "text": "Well, we'll do our best! Hmmm... It occurs to me, for all the help you've afforded us, we know little and less about you. What did the Empire do to earn your ire? ...Ah, but I fear I've put curiosity before consideration. I quite understand if you'd rather not relive those memories."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "No, no, I don't mind, really. Truth be told, a part o' me was itchin' to tell you my tale. Mind you, 'tis hardly novel─I ain't the first to suffer at imperial hands."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "Like most folk, I used to have a mother. She was a sweet, carin' woman with a smile never far from her face. There was a sister too. Pretty little thing, she was─gentle as a lamb, but tough as nails. We were poor folk livin' simple lives, but we knew happiness just the same."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "An' then the imperials came an' took it all away. When Ala Mhigo fell, they put my family in a camp. Bein' a lad, I was made to do hard labor, while my mother an' sister were forced to do far worse... They hid their sufferin' from me as best they could, but I knew , an' the thought of it drove me mad. We had to escape. An' so I hatched a plan to get us out o' the city."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "We were pickin' our way around a gorge not far outside the walls when they caught up with us... An' rather than allow 'emselves to be taken again, my mother an' sister leaped over the edge before my very eyes. Heartbroken as I was, I didn't put up a fight when the imperials clapped me in chains an' dragged me back."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "'Twas some years after that I escaped again, an' that time, I got away. I swore then that I'd get revenge on the Empire, an' became an adventurer so as to hone my skills an' earn the coin I needed. But nigh on two decades've since gone by, an' what've I achieved? Bugger all, that's what."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "Not like you lot. You ain't been here ten minutes, an' you've already done more'n I managed in ten bloody years ."
+    },
+    {
+      "character": "Cid",
+      "text": "You give us too much credit, Glaumunt. We seek only to rescue our friends."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "Well, what's more important than that? An' anyroad, after you've got your friends back, you're plannin' on goin' after the Empire, an' don't pretend you ain't."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "I've helped a few folk take on the imperials over the years, an' every time I have, it's helped stave off my appetite for revenge. But summat tells me I won't be goin' hungry for a while what with everythin' you've got planned."
+    },
+    {
+      "character": "Cid",
+      "text": "And you are sure that will satisfy you? If you wish to strike back at the Empire with your own hand, you need only say the word. We would be glad to have you with us."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "Temptin' though your offer is, I'm afeared I must decline."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "I swore I'd get revenge on the Empire, 'tis true, but I've long since realized that the front lines are no place for a man like me."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "Aye, there's some as would call me craven, but I prefer to think o' myself as a realist. My talents lie in schemin', ye see, not swordplay. Helpin' folk like you is how I can make the most difference."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "...But that's quite enough storytellin' for one day. Best not keep your friends waitin' any longer. I'll be prayin' for your safety an' success. May Rhalgr give you strength!"
+    },
+    {
+      "character": "Cid",
+      "text": "Wherever the Empire goes, misery invariably follows in its wake."
+    },
+    {
+      "character": "Cid",
+      "text": "For the sake of all who call Eorzea home, we must put an end to Gaius's ambitions."
+    },
+    {
+      "character": "Cid",
+      "text": "But first, we have friends to rescue."
+    },
+    {
+      "character": "Cid",
+      "text": "Biggs, Wedge, and I will lie in wait east of Castrum Centri, just outside the stronghold's patrol perimeter."
+    },
+    {
+      "character": "Cid",
+      "text": "Join us when you're ready. Oh, and don't forget to wear your disguise, or this will be the shortest rescue mission in history."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "To survive in this uncertain world, a man's gotta know both his talents an' his limits. I've done my part in the fight—the rest is up to you an' yours, my friend."
+    },
+    {
+      "character": "Cid",
+      "text": "There you are. A patrol should be heading back to the castrum any moment now, so for gods' sakes, don your disguise."
+    },
+    {
+      "character": "Cid",
+      "text": "If you've misplaced your disguise, hurry back to Revenant's Toll. Glaumunt told me that he'd acquired some additional helms and robes for just such an eventuality. Whatever you do, though, do it swiftly. We need you here and in imperial uniform if this plan is going to work."
+    },
+    {
+      "character": "Glaumunt",
+      "text": "...Eh? Lost your imperial disguise? You daft sod! 'Tis lucky I thought to acquire some spares... In case you've forgotten, these ain't exactly easy to get hold of. Be more careful with 'em this time."
+    },
+    {
+      "character": "Cid",
+      "text": "Forgive me for saying so, but you look rather fine in imperial black and crimson! Definitely your colors! Ahhh, but now is not the time for jests."
+    },
+    {
+      "character": "Cid",
+      "text": "Forgive me for saying so, but you cut quite a dashing figure in imperial black and crimson! Ahhh, but now is not the time for jests."
+    },
+    {
+      "character": "Cid",
+      "text": "Let's review the infiltration plan. Castrum Centri lies just beyond."
+    },
+    {
+      "character": "Cid",
+      "text": "A short while ago, an imperial patrol left to do its rounds."
+    },
+    {
+      "character": "Cid",
+      "text": "Alphinaud and I will create a diversion out here and keep them occupied for as long as we are able. Meanwhile, the three of you will enter the stronghold, posing as the patrol returning from duty."
+    },
+    {
+      "character": "Cid",
+      "text": "Should Alphinaud and I prove less distracting than hoped, I will contact you via linkpearl. Be ready to beat a hasty retreat."
+    },
+    {
+      "character": "Cid",
+      "text": "Wedge will lead the way in the reaper. Stay close to him."
+    },
+    {
+      "character": "Cid",
+      "text": "And I hardly need tell you this, but don't do anything suspicious!"
+    },
+    {
+      "character": "Cid",
+      "text": "Oh, and lest you wonder, Yda and Y'shtola left shortly before you arrived. We had planned that they should linger in the vicinity, to cover our retreat in the event that Alphinaud and I attracted too much attention─but the approach of an imperial vehicle forced us to improvise."
+    },
+    {
+      "character": "Cid",
+      "text": "Don't be too disappointed─they did at least leave a message for you. Something along the lines of “don't do anything reckless,” if memory serves. Wise words."
+    },
+    {
+      "character": "Cid",
+      "text": "All right, the imperial patrol should be returning any moment now. You'd best be off."
+    },
+    {
+      "character": "Cid",
+      "text": "Good luck, Forename ! May the Twelve keep you!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Ugh!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "You have spirit, that I will allow. Yet you struggle to the benefit of none, least of all yourself."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "This “Echo” of yours intrigues us. We desire only to understand it. And for that, we need your help."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "You wish to be rid of the eikons, do you not?"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "You would have saved yourself a great deal of torment had you accepted our aid from the beginning."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Ugggh! Ugh..."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Tell me everything, and I shall end it quickly. Refuse, and though you beg for death, you shall not have it."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Which will it be?"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "As you wish, my dear Minfilia."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Unpleasant though it will be for all concerned, you leave us no choice but to employ more rigorous methods of study."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Be so kind as to deliver the prisoners to Castrum Meridianum."
+    },
+    {
+      "character": "Imperial Soldier",
+      "text": "Yes, milady!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "<whimper> <moan>"
+    },
+    {
+      "character": "Imperial Courier",
+      "text": "Huh? Doesn't your senior officer have anything to say about your outfit? Not that I'm complaining, by the way─I for one would appreciate a bit more variety. I'm so used to seeing this uniform, I've caught myself saluting reflective surfaces."
+    },
+    {
+      "character": "Imperial Courier",
+      "text": "I'd best get back to my duties. The supplies aren't going to move themselves─and neither are the prisoners, come to that."
+    },
+    {
+      "character": "Imperial Courier",
+      "text": "Ah, your spirited salute reminds me that, uniform or no, we are all proud soldiers of the Garlean Empire. Everything we do is for the greater glory of Garlemald, be it scrubbing the privy floor or arranging for prisoners to be transported."
+    },
+    {
+      "character": "Imperial Courier",
+      "text": "The officers constantly tell me that I have the sloppiest salute in all the western lands, but in you I'd say I've finally met my match. Perhaps we could practice together?"
+    },
+    {
+      "character": "Imperial Courier",
+      "text": "Oh, my apologies! I didn't notice you there, so engrossed was I in my task. You'd be engrossed, too, had the tribunus commanded you to arrange for the prisoners to be transported."
+    },
+    {
+      "character": "Imperial Courier",
+      "text": "What prisoners do I speak of? ...You mean you haven't heard? Only the infamous “Scions of the Seventh Dawn,” captured by the tribunus herself! If you don't believe me, have a look in the storage tower when next you pass that way."
+    },
+    {
+      "character": "Imperial Courier",
+      "text": "As if I didn't already have my hands full moving goods around, now I have to move people ? <sigh> I really need to ask for a transfer..."
+    },
+    {
+      "character": "Imperial Decurion",
+      "text": "Why aren't you in uniform!? Dressed as you are, you're like to be mistaken for an adventurer!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text": "Part of the maintenance crew from Occidens, are you? I don't know what they teach you over there, but being an engineer does not exempt you from saluting your superiors!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text": "Hm, that's a fine salute...but why aren't you in uniform? As you are, you're like to be mistaken for an adventurer!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text": "What was that supposed to be? A salute? I'll have you know, being an engineer does not give you license to be sloppy! Do it till you get it right!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text": "Hm, that's a fine salute. Part of the maintenance crew from Occidens, are you? Welcome to Castrum Centri, engineer."
+    },
+    {
+      "character": "Imperial Decurion",
+      "text": "What? Prisoners? Ah, you've heard the rumors, then. Yes, they're being held in the storage tower─but I strongly suggest you pay them no mind."
+    },
+    {
+      "character": "Imperial Decurion",
+      "text": "You were summoned here to work, not to gawp at Eorzea's defeated heroes. Now show a bit of enthusiasm, or I'll have you reported."
+    },
+    {
+      "character": "Imperial Decurion",
+      "text": "What do you think you're doing? Get back to your station, or I'll report you to the centurion!"
+    },
+    {
+      "character": "Imperial Guard",
+      "text": "Whoa... Where did you leave your uniform!? If one of the brass hats sees you, you'll be in for the dressing-down of your life!"
+    },
+    {
+      "character": "Imperial Guard",
+      "text": "Hm? Shouldn't I be at my post? <sigh> I suppose so, but such things don't seem to matter anymore. I've...I've fallen for one of the prisoners. She's all I can think about of late. Am I...am I a deviant for wanting her to salute me?"
+    },
+    {
+      "character": "Imperial Guard",
+      "text": "No, no, no! You're doing it all wrong! Unless you can master a good old-fashioned imperial salute, you'll never amount to anything in this army. Take the centurion, for example: his every salute's the same. It's no wonder he's been entrusted with such responsibility. Which is probably why he's been trusted with the keys to the storage tower."
+    },
+    {
+      "character": "Imperial Guard",
+      "text": "Greetings, comrade. Forgive me for asking, but you haven't visited the storage tower recently, have you? I only ask because I dropped something in there, and...um... Oh, who am I fooling!? I've fallen for one of the prisoners, all right!? I daresay you know the one I mean. ...Eh? The svelte blonde? Goodness, no!"
+    },
+    {
+      "character": "Imperial Guard",
+      "text": "It's the Lalafellin lass I'm smitten with! She's so adorable, it hurts! I want to sweep her up into my arms and squeeze her till my arms ache! What do you reckon it would take to convince the centurion to lend me the key so I can see her?"
+    },
+    {
+      "character": "Imperial Guard",
+      "text": "<sigh> Would that I could hold you in my arms...Alas we aren't meant to be..."
+    },
+    {
+      "character": "Wedge",
+      "text": "H–How do I look, Forename ? Do I cut an imposing f–figure as a Garlean s–soldier?"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text": "Castrum Centri has been placed under high alert. Those found where they do not belong will be summarily punished."
+    },
+    {
+      "character": "Biggs",
+      "text": "Security's tight, just as we expected. We're going to need a special key if we want to get past this bulkhead."
+    },
+    {
+      "character": "Imperial Centurion",
+      "text": "Unless you can explain why you are not in uniform, and during a period of heightened security, to boot, you have earned yourself time in a black cell."
+    },
+    {
+      "character": "Imperial Centurion",
+      "text": "Why are you not at your post? If you have business, salute me before opening your mouth."
+    },
+    {
+      "character": "Imperial Centurion",
+      "text": "What mummery is this? You have just earned yourself a fortnight in a black cell. Report to detention at the end of your shift."
+    },
+    {
+      "character": "Imperial Centurion",
+      "text": "What's this? You need access to the storage tower? What business have you there?"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text": "...At the tribunus's behest, you say? This is highly irregular, but it would not do to make my lady wroth. Take my identification key. See that it is returned when your errand is concluded."
+    },
+    {
+      "character": "Biggs",
+      "text": "Security's tight, just as we expected. We're going to need a special key if we want to get past this bulkhead."
+    },
+    {
+      "character": "Affable Imperial",
+      "text": "The prisoners? They are being held in the storage tower...as you should know, soldier."
+    },
+    {
+      "character": "Minfilia",
+      "text": "No!"
+    },
+    {
+      "character": "Biggs",
+      "text": "Minfilia...and the rest! Thank goodness they're safe!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "I am the one you want! Leave the others be!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "If you harm my friends, I swear I shall take my own life─and you shall answer to your mistress!"
+    },
+    {
+      "character": "Wedge",
+      "text": "<gasp> T-Tataru! We must do something!"
+    },
+    {
+      "character": "Biggs",
+      "text": "We risk letting the entire castrum know we're here."
+    },
+    {
+      "character": "Biggs",
+      "text": "Aye...you're right. We may not get a better chance."
+    },
+    {
+      "character": "Imperial Signaler",
+      "text": "This is the third squadron. What is it?"
+    },
+    {
+      "character": "Imperial Signaler",
+      "text": "...A reaper? Seized when ?"
+    },
+    {
+      "character": "Imperial Signaler",
+      "text": "...And this came to light only NOW!?"
+    },
+    {
+      "character": "Imperial Signaler",
+      "text": "The culprits will have left a trail. Take as many men as you need and scour the area! I want that reaper found!"
+    },
+    {
+      "character": "Biggs",
+      "text": "Now's our chance!"
+    },
+    {
+      "character": "Imperial Signaler",
+      "text": "What the─!? Strike my last!"
+    },
+    {
+      "character": "Imperial Signaler",
+      "text": "Eliminate the intruders!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "You came!"
+    },
+    {
+      "character": "Tataru",
+      "text": "Uwaaah!"
+    },
+    {
+      "character": "Wedge",
+      "text": "I'm coming!"
+    },
+    {
+      "character": "Urianger",
+      "text": "Unbind us, Forename . Together we may yet win free."
+    },
+    {
+      "character": "Papalymo",
+      "text": "Forename ! Get these shackles off us, quickly!"
+    },
+    {
+      "character": "5th Cohort Hoplomachus",
+      "text": "Take them, whatever the cost!"
+    },
+    {
+      "character": "Tataru",
+      "text": "I won't give up!"
+    },
+    {
+      "character": "Tataru",
+      "text": "<whimper> Forename ! I was so scared!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "It was foolish of you to come here. You might have been killed!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "But...thank you. I shudder to think what might have happened had you not arrived when you did."
+    },
+    {
+      "character": "Papalymo",
+      "text": "I say, did you not see Thancred anywhere? I'm beginning to fear for the fellow..."
+    },
+    {
+      "character": "Papalymo",
+      "text": "To linger here shall yield us no answer. Let us away, ere the window to our liberty closes shut."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "...What did you say? Escaped ?"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Then recapture them ! Fail and I shall have your head."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "...And what have we here?"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "...The tribunus herself, just as you said. You have the eye of an ahriman, Yda."
+    },
+    {
+      "character": "Yda",
+      "text": "Well...she's kind of hard to miss in that showy armor of hers."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Accursed Scions... How did you slip our defenses?"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "With unexpected ease, if truth be told. There chanced to be a commotion outside the castrum's walls which allowed us to avail ourselves of the comforts of your vehicle."
+    },
+    {
+      "character": "Yda",
+      "text": "Y'shtola's just being polite. That was one of the most uncomfortable things I've ever stowed away in. It's no wonder it's called the Phantom Train ─no passenger would be seen dead on it!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "So you scuttled in amidst the freight, like the vermin you are. I shall be sure to have words with our ratcatcher. Such negligence is unforgivable."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "That is far from your most pressing concern. First, you must answer for your own wrongdoing, Livia sas Junius."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "'Twas you who led the raid on the Waking Sands─you who butchered unarmed men and women for the crime of being unworthy of capture."
+    },
+    {
+      "character": "Yda",
+      "text": "You killed our friends! We'll never forgive you!"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "Nor shall we suffer you to plague Eorzea a day longer. Betake you to your guard."
+    },
+    {
+      "character": "Imperial Sentry",
+      "text": "More intruders! Protect the tribunus!"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "Confound it! Yda, with me!"
+    },
+    {
+      "character": "Imperial Sentry",
+      "text": "After them!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Where is His Excellency?"
+    },
+    {
+      "character": "Imperial Sentry",
+      "text": "In the hangar, my lady─in discussion with our guest!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Alert him at once!"
+    },
+    {
+      "character": "Imperial Sentry",
+      "text": "Yes, my lady!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "No! No, no, NO!"
+    },
+    {
+      "character": "Imperial Sentry",
+      "text": "There they are! Fan out and surround them!"
+    },
+    {
+      "character": "Wedge",
+      "text": "Must...protect...Tataru! Biggs─I'm going in! See everyone to safety!"
+    },
+    {
+      "character": "Biggs",
+      "text": "No! Wedge─don't do it!"
+    },
+    {
+      "character": "Biggs",
+      "text": "Oh, no... Forename ─hold them off! I'll look after Minfilia and Tataru!"
+    },
+    {
+      "character": "5th Cohort Hoplomachus",
+      "text": "All units, to emergency stations! Do not let the prisoners escape!"
+    },
+    {
+      "character": "Urianger",
+      "text": "This infernal creation is shielded by energies not its own."
+    },
+    {
+      "character": "Papalymo",
+      "text": "Whatever is generating its shield must be near! Find it, Forename !"
+    },
+    {
+      "character": "Papalymo",
+      "text": "Ack! There's no end to them!"
+    },
+    {
+      "character": "Urianger",
+      "text": "We labor in vain! Till the beast be divested of its shield, our blows shall not find their mark."
+    },
+    {
+      "character": "5th Cohort Optio",
+      "text": "You're not getting away! Bring forth the colossus!"
+    },
+    {
+      "character": "Biggs",
+      "text": "What in the hells...? A new design!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Have care!"
+    },
+    {
+      "character": "Urianger",
+      "text": "Ware the unknown foe."
+    },
+    {
+      "character": "Papalymo",
+      "text": "So that's a colossus, is it!? More like a colossal waste of iron!"
+    },
+    {
+      "character": "Papalymo",
+      "text": "Ungh... Confound it..."
+    },
+    {
+      "character": "Urianger",
+      "text": "Mine eyes...darken..."
+    },
+    {
+      "character": "Wedge",
+      "text": "Tataru... Forgive me..."
+    },
+    {
+      "character": "Biggs",
+      "text": "I...I couldn't... Ungh..."
+    },
+    {
+      "character": "Imperial Centurion",
+      "text": "Take the leader! Kill the rest!"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text": "What the─!?"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Y'shtola!"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "Pray forgive us our delay!"
+    },
+    {
+      "character": "Yda",
+      "text": "Papalymo! Minfilia!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Yda!"
+    },
+    {
+      "character": "Papalymo",
+      "text": "What took you so long!?"
+    },
+    {
+      "character": "Yda",
+      "text": "Well, it's nice to see you too!"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "The reunion must wait!"
+    },
+    {
+      "character": "Yda",
+      "text": "Right! First things first!"
+    },
+    {
+      "character": "Papalymo",
+      "text": "Yes, let's get back to being heavily outnumbered..."
+    },
+    {
+      "character": "Wedge",
+      "text": "Uwaaaaaah!"
+    },
+    {
+      "character": "Biggs",
+      "text": "You ditched your magitek armor!? Fool of a Lalafell!"
+    },
+    {
+      "character": "Wedge",
+      "text": "Well, excuse me ! She's all yours if you think you can do any better!"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text": "<gasp>"
+    },
+    {
+      "character": "Imperial Centurion",
+      "text": "But there's no one in there!"
+    },
+    {
+      "character": "Cid",
+      "text": "This is Cid! Can you hear me!?"
+    },
+    {
+      "character": "Cid",
+      "text": "I need you to count to five, then jump! Understood!?"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "One..."
+    },
+    {
+      "character": "Yda",
+      "text": "Two!"
+    },
+    {
+      "character": "Papalymo",
+      "text": "Three!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Four!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "I know not which is more pitiful: the charlatans who rule Eorzea..."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "...or the masses that clamor for their implausible panaceas."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "I see that which they cannot. This realm founders for want of a ruler with true power─the power to cast down eikons."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "If you continue to deny this truth, it is the people who will suffer. Embrace reason."
+    },
+    {
+      "character": "Cid",
+      "text": "<gasp>"
+    },
+    {
+      "character": "Cid",
+      "text": "What in the seven hells─!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Oh no... It's here!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Twelve preserve us... They finished it. Ultima Weapon..."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "So it has a name..."
+    },
+    {
+      "character": "Minfilia",
+      "text": "It is a relic of ancient Allag, excavated from its resting place deep beneath Ala Mhigo."
+    },
+    {
+      "character": "Minfilia",
+      "text": "The Allagans used it to crush primal and foe alike...and now the Garleans mean to do the same!"
+    },
+    {
+      "character": "Cid",
+      "text": "Damn you, Gaius!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Look! There, beside the Black Wolf!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "An Ascian!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "An overlord, no less. His garb attests to that."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Lahabrea! It could only be him!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Thancred!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "He was Lahabrea...? No... No, this cannot be!"
+    },
+    {
+      "character": "Cid",
+      "text": "We have to go now! Hang on!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Thancred! NOOOOOO!"
+    },
+    {
+      "character": "Lahabrea",
+      "text": "Ahahaha... Muahahahahaha!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "All that time, the enemy was beside me, and I never even suspected."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "And to think that it was I who suggested that Thancred investigate the Ascians! How could I have been so blind!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Small wonder the enemy knew our every move─ and where to find us! Confound it all!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "No... No, this is not the time for self-doubt. The Alliance leaders staked their hopes on the Scions, but now they believe us all dead or missing."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "When they learn of the Empire's new weapon, we cannot be certain what they will do."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "We must go and offer them what assurances we can that defeat is not inevitable!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Krile? This is Minfilia. I am in some haste, so forgive me if I seem brusque. The item I requested─is it ready? Wonderful! I am sorry to press, but we need it urgently. How soon can it be delivered? ...I am in your debt, my friend."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "The situation may have taken an ill turn..."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "But the battle is far from over. And so long as we stand together, there shall ever be hope of victory."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "The people of Eorzea falter for want of such hope. Let us provide it. Let us bear to them the tidings that the Scions of the Seventh Dawn are returned!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Matters are coming to a head. I hope we can count on you."
+    },
+    {
+      "character": "Minfilia",
+      "text": "...My regards to Grandfather."
+    },
+    {
+      "character": "Minfilia",
+      "text": "I am ready. Let us pay a visit to the council of the Alliance leadership."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Hells take the Black Wolf and his new toy..."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Rally all available forces. I want them ready to move upon my word."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "And relay to Slafyrsyn the order to sail. That is all."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "The Maelstrom stands ready. What of the Flames?"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Ready as we're like to be. I need only give the word to Roaille."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Has there been no word from Ishgard?"
+    },
+    {
+      "character": "Raubahn",
+      "text": "None. The dragons have got their tongues."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Silent to the last. I was unwise to hope for better."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "What would stir the archbishop to open his holy mouth, if not this!? And he claims the Fury for his god... 'Tis bad comedy!"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "The Holy See has made its choice. We will proceed without its cooperation."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "I believe we are all acquainted with the terms of the Black Wolf's ultimatum."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "We must agree upon a course of action. Naught less than the fate of Eorzea hangs upon the decision of this council."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Van Baelsar claims to wield the power to smite primals."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Should we yield to him, he pledges to rid the realm of its false gods. Yet offer resistance, and he swears that we shall share the primals' fate."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Pardon me my bluntness, but I like not these choices."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "This is too great a decision for any one of our nations to make alone."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text": "Choose we surrender or resistance, we must answer as one, for if but one surrenders, the rest shall surely fall. Let us pray for the wisdom to do right by all our peoples."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Thancred's plight troubles us all, yet we cannot allow anything to come between us and our goal."
+    },
+    {
+      "character": "Minfilia",
+      "text": "So long as the Ultima Weapon exists, Eorzea will never know peace."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Let us go to the Alliance leaders, Forename , and help them to make the right decision."
+    }
+  ]
+}

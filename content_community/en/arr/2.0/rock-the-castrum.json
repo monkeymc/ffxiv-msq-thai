@@ -1,0 +1,352 @@
+{
+  "id": "rock-the-castrum",
+  "wiki_path": "/wiki/Rock_the_Castrum",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/15/Rock_the_Castrum_Image.png",
+  "patch": "2.0",
+  "title": "Rock the Castrum",
+  "level": "50",
+  "location": "Northern Thanalan(X:20.8,Y:22.1)",
+  "npc_start": "Edelstein",
+  "dialogues": [
+    {
+      "character": "Edelstein",
+      "text": "You have rekindled the flames of courage that burn within our brave men and women's hearts, and for this, I thank you."
+    },
+    {
+      "character": "Edelstein",
+      "text": "And now, the time for battle is nigh. We must march forth with no worries or regrets."
+    },
+    {
+      "character": "Edelstein",
+      "text": "General Raubahn awaits you at Castrum Meridianum. The battle will not be an easy one, but I trust that you are up to the task. Godsspeed, GC Rank Surname !"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Our hero returns. I trust that your visit has done much to lift the spirits of our garrison on the eve of our greatest battle yet."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Time is of the essence. Let us commence the briefing at once."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Brothers and sisters of the Alliance! I would share with you glad tidings!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Doubtless spurred on by news of the siege of Castrum Oriens, the Maelstrom has struck a double blow! Castrum Occidens and Castrum Marinum are now under blockade!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Phase two of Operation Archon is a success!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Reports tell us that the Garleans offered fierce resistance─but that the Admiral yielded them not one ilm."
+    },
+    {
+      "character": "Raubahn",
+      "text": "With Occidens, Marinum, and Oriens thus suppressed, the third phase may begin in earnest!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Even as we speak, the Order of the Twin Adder moves to block the railway leading hither from Castrum Centri. And that can mean but one thing..."
+    },
+    {
+      "character": "Raubahn",
+      "text": "The hour is come to strike at the heart of the Garlean invasion force!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "...Castrum Meridianum, the den of the Black Wolf!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "My fellow Eorzeans. I am Minfilia, Mistress of the Scions of the Seventh Dawn."
+    },
+    {
+      "character": "Minfilia",
+      "text": "There exist myriad barriers that divide us─those of race and nation, language and creed, to name but a few."
+    },
+    {
+      "character": "Minfilia",
+      "text": "Such barriers serve to isolate us from our neighbors...yet they also serve to define who we are. Shorn of them, there would be little to distinguish one from another, and the rich variety of our lives would give way to sterile orthodoxy."
+    },
+    {
+      "character": "Minfilia",
+      "text": "These barriers can never truly be broken down, of course─not so long as there is liberty in the world─but they can be transcended!"
+    },
+    {
+      "character": "Minfilia",
+      "text": "Verily, we do so now in coming together for this grand endeavor, to fight side by side in defense of our shared home!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Before me stands the adventurer Forename Surname . You all know him / her as the man / woman who will lead the unit tasked with destroying the Ultima Weapon."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "We Scions know a different Forename , however. We know him / her as a dear friend who has endured untold hardship on our behalf─a true hero who has ever blazed a path for us to follow. And why do I tell you this? I tell you, friends, because it is time for us to blaze a path for him / her !"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Our objective is to wreak such havoc outside the walls of Meridianum as to afford Forename and his / her comrades the time they need to disable the magitek field generator within."
+    },
+    {
+      "character": "Raubahn",
+      "text": "With the path thus cleared, we may finally turn our minds to the true goal of this operation─the destruction of the Ultima Weapon! All troops, prepare for battle!"
+    },
+    {
+      "character": "Cid",
+      "text": "I fear I can't accompany you this time. The unenviable task of facilitating communications between our forces has been entrusted to the Ironworks, you see. Know, though, that I will be praying for your safe return."
+    },
+    {
+      "character": "Minfilia",
+      "text": "See that you come back to us, my friend. May the Crystal bless you and keep you."
+    },
+    {
+      "character": "Raubahn",
+      "text": "We will suffer the Black Wolf to prowl our lands no more! Let us teach the hunter what it is to be hunted!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Forward, comrades! For Eorzea!"
+    },
+    {
+      "character": "All",
+      "text": "FOR EORZEA!"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Go now, Forename , and bring us one step closer to the dawn!"
+    },
+    {
+      "character": "Storm Marauder",
+      "text": "We cannot afford missteps against the Garleans."
+    },
+    {
+      "character": "Flame Thaumaturge",
+      "text": "I fear my nerves may get the best of me."
+    },
+    {
+      "character": "Cid",
+      "text": "This is Cid. To review, our goal is to deactivate the magitek field."
+    },
+    {
+      "character": "Cid",
+      "text": "If you could create a diversion─that's to say, wreak lots of havoc─I'll search for the field generator."
+    },
+    {
+      "character": "Storm Marauder",
+      "text": "They will need more than magitek to stop us."
+    },
+    {
+      "character": "The Black Eft",
+      "text": "We must hold the enemy here! All units─attack!"
+    },
+    {
+      "character": "The Black Eft",
+      "text": "The central crossing is overrun! Requesting immediate reinforcements!"
+    },
+    {
+      "character": "The Black Eft",
+      "text": "Gah, damn these savages! Deploy the reserve colossi!"
+    },
+    {
+      "character": "The Black Eft",
+      "text": "How can this be...? R-Reinforcements! We need more reinforcements!"
+    },
+    {
+      "character": "Cid",
+      "text": "Forename , how are you faring? ...Reached a dead end, you say? I believe I know where you are."
+    },
+    {
+      "character": "Cid",
+      "text": "There's a disposal chute nearby. Find it and jump in, and you'll emerge in a different sector."
+    },
+    {
+      "character": "Cid",
+      "text": "Forename , assault crafts are near! Watch out for incoming fire!"
+    },
+    {
+      "character": "Flame Thaumaturge",
+      "text": "Stand clear of its arms."
+    },
+    {
+      "character": "Cid",
+      "text": "I've located the controls for the security system. A moment while I disable the barriers."
+    },
+    {
+      "character": "Cid",
+      "text": "I'm also pleased to say I've found a suit of armor. Press on─I'll meet you just ahead."
+    },
+    {
+      "character": "Cid",
+      "text": "Another bulkhead, eh? Fortunately I'm equipped for the task. Stand back!"
+    },
+    {
+      "character": "Cid",
+      "text": "Come on, the field generator should be just up ahead!"
+    },
+    {
+      "character": "Cid",
+      "text": "There it is! Keep the enemy occupied while I take it out of commission!"
+    },
+    {
+      "character": "Cid",
+      "text": "Damn, reinforcements! Take care of them, would you?"
+    },
+    {
+      "character": "Cid",
+      "text": "Diverting all power to cannons!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "My lord was quite taken with you and the power you possess─the “Echo.” Naturally, I could not help but wonder whom this prince among men / princess among women might be..."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Only to discover that you are but another adventurer. No better than the multitude."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Yet in spite of this, the masses hold you their champion, and shower honors upon your head. It defies all reason."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "How is it that you could be such a thorn in our side? Wherever you appear, you leave havoc in your wake. You even slew Rhitahtyn, one of our very finest."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Well...I will not speculate. Truth be told, I couldn't care less how you have done these things. What matters to me is the fact that you have done them."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "If you are allowed to continue, you will eventually deprive me of all that I have toiled for─all that is mine by right!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "My minions, my comrades...even my lord Gaius!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Well, you cannot have him !"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "His dreams and ambitions, his body and soul─they are mine , do you hear me!? All mine !"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "I lost everything once before! I will not suffer it to happen again!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "I will kill you, adventurer! Only your death can bring me peace!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "You will not take any more from me!"
+    },
+    {
+      "character": "Serpent Conjurer",
+      "text": "I'll see to your wounds. Just focus on the tribunus!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "The pain I have suffered, I shall visit upon you a hundredfold!"
+    },
+    {
+      "character": "Livia sas Junius (text bubble)",
+      "text": "To dust with you!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "You have made me wroth !"
+    },
+    {
+      "character": "Livia sas Junius (voice acted, no subtitle)",
+      "text": "You're mine!"
+    },
+    {
+      "character": "Livia sas Junius (text bubble)",
+      "text": "It's over!"
+    },
+    {
+      "character": "Livia sas Junius (text bubble)",
+      "text": "Begone!"
+    },
+    {
+      "character": "Livia sas Junius (text bubble)",
+      "text": "Vermin!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Hmph, you're tough, I grant you that."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "But I will break you soon enough!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "You will not defeat me! You will not !"
+    },
+    {
+      "character": "Livia sas Junius (text bubble)",
+      "text": "Die, damn you!"
+    },
+    {
+      "character": "Livia sas Junius (text bubble)",
+      "text": "Die, die, DIE!"
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "No... <sob> It's happening...all over again..."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "Please... I cannot bear it... <sob> Don't take him...away from me..."
+    },
+    {
+      "character": "Livia sas Junius",
+      "text": "My lord Gaius!!!"
+    },
+    {
+      "character": "Cid",
+      "text": "Another poor fool who craved Gaius's affection over all else... May her soul know rest."
+    },
+    {
+      "character": "Cid",
+      "text": "'Tis a miracle no harm has come to you, my friend. One for which I will happily give thanks."
+    },
+    {
+      "character": "Cid",
+      "text": "And thanks to your fine diversionary work, we've succeeded in bringing down the generator tower─and with it, the magitek field!"
+    },
+    {
+      "character": "Cid",
+      "text": "The way to the Praetorium now lies open. The only problem is, we can't reach it on foot."
+    },
+    {
+      "character": "Cid",
+      "text": "Nay, we'll need to take the Enterprise . I left her at the Ceruleum Processing Plant, so let's regroup there."
+    },
+    {
+      "character": "Cid",
+      "text": "This is it, Forename ! The final confrontation awaits!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "I knew you wouldn't let us down, soldier!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "With the Praetorium stripped of its defenses, the way to the Ultima Weapon lies open."
+    },
+    {
+      "character": "Raubahn",
+      "text": "The time is come for the final phase of Operation Archon!"
+    }
+  ]
+}

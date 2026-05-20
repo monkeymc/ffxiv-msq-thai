@@ -1,0 +1,96 @@
+{
+  "id": "the-unending-war",
+  "wiki_path": "/wiki/The_Unending_War",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/8/8b/The_Unending_War_Image.png",
+  "patch": "2.0",
+  "title": "The Unending War",
+  "level": "36",
+  "location": "Coerthas Central Highlands(X:24.9,Y:28.5)",
+  "npc_start": "Ludovoix",
+  "dialogues": [
+    {
+      "character": "Ludovoix",
+      "text": "Halone have mercy, are you still here? You may take shelter within our walls if you insist, but do not distract me while I am on duty. We're stretched thin as it is."
+    },
+    {
+      "character": "Ludovoix",
+      "text": "And where in the hells is that knight I sent out on patrol? He should have returned ages ago!"
+    },
+    {
+      "character": "Ludovoix",
+      "text": "Hmmm... Perhaps I have a use for you, after all. If you still wish to aid us, search the wilds to the west for my missing man. You will know him by his uniform─that of House Durendaire, as is mine."
+    },
+    {
+      "character": "Keeled-over Knight",
+      "text": "If it wasn't for you, sir / miss , I reckon they would've finished me off."
+    },
+    {
+      "character": "Keeled-over Knight",
+      "text": "Despicable dragon-loving bastards. <spit> Death was a mercy they didn't deserve."
+    },
+    {
+      "character": "Keeled-over Knight",
+      "text": "I prayed the rumors were mistaken, but this confirms the worst. I must immediately inform my superiors that the heretics are operating within this region. Fare thee well, friend."
+    },
+    {
+      "character": "Ludovoix",
+      "text": "I must say, I didn't actually expect you to find my knight, much less rescue him! I see I may have been premature in my judgment, sir / miss ."
+    },
+    {
+      "character": "Ludovoix",
+      "text": "We are a proud people, beholden to tradition, but that does not mean we are without humility."
+    },
+    {
+      "character": "Ludovoix",
+      "text": "I shall instruct the astrologians to entertain your request. However, understand that it is ultimately their decision whether or not you may peruse their records. Pray proceed to the Observatorium and introduce yourself to Edmelle."
+    },
+    {
+      "character": "Edmelle",
+      "text": "Ah, the gentleman / lady come in search of the airship. This is highly unorthodox... What ever could Ser Ludovoix be thinking?"
+    },
+    {
+      "character": "Edmelle",
+      "text": "It is true that we maintain meticulous records which stretch back generations. However, because this information is used to chart Dravanian activity, access is strictly controlled. One can never be too careful with heretics and their sympathizers lurking about."
+    },
+    {
+      "character": "Edmelle",
+      "text": "If you would persist with your inquiries, pray seek an audience with Chief Astrologian Forlemort up above."
+    },
+    {
+      "character": "Forlemort",
+      "text": "No. Absolutely not. Have you any inkling what it is you ask?"
+    },
+    {
+      "character": "Forlemort",
+      "text": "Were our records to fall into the wrong hands, it could change the course of a war which has raged for generations! I speak not of some mere spat between southron nations. Ours is a holy crusade, and we are the arbiters of Halone's will!"
+    },
+    {
+      "character": "Forlemort",
+      "text": "I will not put our great nation at risk─certainly not to help a foreigner locate a missing airship, of all things!"
+    },
+    {
+      "character": "Guillaime",
+      "text": "Pardon the intrusion, Forlemort. I wished to speak with you regarding the recent─ Oh, I did not realize you had a guest."
+    },
+    {
+      "character": "Forlemort",
+      "text": "Inquisitor Guillaime! Y-You honor us with your presence, sir. The gentleman / lady was just leaving."
+    },
+    {
+      "character": "Guillaime",
+      "text": "Ahhh, you must be the one who rescued House Durendaire's knight from those heretics. Doubtless they feel indebted to you. I am told you seek an airship last seen in Coerthas five years ago, yes?"
+    },
+    {
+      "character": "Guillaime",
+      "text": "You come to us at an inconvenient time, I fear. Much has changed in the intervening years, and little for the better. While I wish you the best of luck in your search, I would also strongly advise caution."
+    },
+    {
+      "character": "Guillaime",
+      "text": "The snows can come quickly in Coerthas. One moment you may feel as though you have a firm grasp on your surroundings, safe and secure in your knowledge, and the next you may find yourself in a wholly unfamiliar situation, blind to the dangers hidden by the blizzard. It would be wise for you to focus on a single landmark whilst traveling. Do not give in to temptation and deviate from your course."
+    },
+    {
+      "character": "Forlemort",
+      "text": "I was not aware you aided House Durendaire in that fashion. Thank you, sir / madam . Nevertheless, my decision stands. I cannot give you what you seek."
+    }
+  ]
+}

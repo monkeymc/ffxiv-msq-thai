@@ -1,0 +1,92 @@
+{
+  "id": "bringing-out-the-dead",
+  "wiki_path": "/wiki/Bringing_out_the_Dead",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Bringing out the Dead",
+  "level": "35",
+  "location": "Eastern Thanalan(X:11.5,Y:22.2)",
+  "npc_start": "Eluned",
+  "dialogues": [
+    {
+      "character": "Eluned",
+      "text": "I recognize you now, Forename . Allow me to express my deepest condolences for those who lost their lives in the attack."
+    },
+    {
+      "character": "Eluned",
+      "text": "I apologize if discussing this upsets you, but...you should know that the bodies of your comrades are presently being removed from the Waking Sands and prepared for transport here."
+    },
+    {
+      "character": "Eluned",
+      "text": "If you wish to leave this work to others, I understand. However, taking part might help you to find closure."
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text": "Eh? Ye don't look like one of them church fellas. Not that I'll turn ye away, no sir."
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text": "As ye can see, we've got a pile of unidentified bodies over yonder. No one's come to claim 'em, so off to the lichyard they go."
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text": "Be thankful ye didn't have to go inside and see the carnage for yerself. 'Twas the stuff of nightmares, I tell ye. Godsdamned imperials. <spit>"
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text": "I don't know what quarrel they had with these folks, and I sure as hells don't want to know. The sooner we put this behind us, the better."
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text": "Say...ain't I seen you 'round here afore? Or do ye just have one of them faces? Ah, never mind..."
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text": "Anyroad, there's a carriage come to haul the bodies to the lichyard, out by the east gate."
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text": "There's only eight left to load up, but seein' as I'm exhausted from carryin' all the others, I've a mind to leave the remainder to you."
+    },
+    {
+      "character": "Vesper Bay Shopkeep",
+      "text": "Might want to cover yer nose while ye work. Some of these folk're startin' to turn..."
+    },
+    {
+      "character": "Disconcerted Coachman",
+      "text": "What happened to the big fella? Ah, forget it. Just bring the next batch and toss 'em in the back─ain't like they'll complain if you're rough!"
+    },
+    {
+      "character": "Disconcerted Coachman",
+      "text": "Well, ain't you a strong one. Four in one trip! Reckon there's no need for me to lend you a hand with the rest, then."
+    },
+    {
+      "character": "Disconcerted Coachman",
+      "text": "Come on, come on! Let's finish this before I die of old age."
+    },
+    {
+      "character": "Disconcerted Coachman",
+      "text": "That should be all of 'em! Thanks for the help."
+    },
+    {
+      "character": "Disconcerted Coachman",
+      "text": "Reckon it won't take too long to deliver all the corpses to the lichyard. Even so, you might want to hurry back an' tell 'em that our work here is done."
+    },
+    {
+      "character": "Disconcerted Coachman",
+      "text": "What? Wondering why I'm still here? Hells, I don't need to rush. Ain't like these folk have pressing appointments to keep, you know."
+    },
+    {
+      "character": "Eluned",
+      "text": "I see that you decided to heed my advice. I pray that, in doing so, you found some small measure of peace."
+    },
+    {
+      "character": "Eluned",
+      "text": "The first carriage from Vesper Bay arrived not long ago, and we have begun preparing your comrades for burial. I had a hand in the initial rites, and I...I would like you to know that, for many, death came quickly."
+    },
+    {
+      "character": "Eluned",
+      "text": "Rest assured that we will treat them with the utmost respect, and do everything we can to shepherd them to Thal's realm."
+    }
+  ]
+}

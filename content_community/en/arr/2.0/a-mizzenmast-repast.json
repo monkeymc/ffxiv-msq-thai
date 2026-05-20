@@ -1,0 +1,388 @@
+{
+  "id": "a-mizzenmast-repast",
+  "wiki_path": "/wiki/A_Mizzenmast_Repast",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/b1/A_Mizzenmast_Repast_Image.png",
+  "patch": "2.0",
+  "title": "A Mizzenmast Repast",
+  "level": "14",
+  "location": "Limsa Lominsa Upper Decks(X:11.6,Y:11.1)",
+  "npc_start": "Baderon",
+  "dialogues": [
+    {
+      "character": "Baderon",
+      "text": "Yer ready, then, are ye? Good. The banquet'll be startin' soon. If ye'd waited any longer, I'd've considered it me civic duty to 'it ye over the 'ead an' drag ye there."
+    },
+    {
+      "character": "Baderon",
+      "text": "Now, make sure yer wearin' them fancy shoes when ye turn up, all right? Carryin' 'em won't do no good. They're meant to make ye look like a ladygentleman, remember, not a gentleman / lady 's bleedin' lackey."
+    },
+    {
+      "character": "Baderon",
+      "text": "As fer directions, the feast's bein' 'eld on the Bridge, in the Admiral's briefin' room."
+    },
+    {
+      "character": "Baderon",
+      "text": "Speak with Zanthael in Bulwark Hall, an' 'e'll show ye the way."
+    },
+    {
+      "character": "Baderon",
+      "text": "Just keep that 'ead 'eld 'igh, lasslad. After everythin' ye've done fer Limsa, ye've good reason to be proud─an' don't let no 'ighborn bugger tell ye different."
+    },
+    {
+      "character": "Zanthael",
+      "text": "Dress shoes... Fancy dress shoes. An adventurer wearing fancy dress shoes..."
+    },
+    {
+      "character": "Zanthael",
+      "text": "Godsdammit, Baderon, why could you not have told me this mysterious guest's name, or their hair color, or even their bloody gender !? I'd have settled for a distinctive facial scar! I know nothing about shoes, much less fancy─ What? You say you're the adventurer I'm looking for?"
+    },
+    {
+      "character": "Zanthael",
+      "text": "Then where are these “fancy dress shoes” that Baderon described to me in such excruciatingly unhelpful detail? Surely you didn't...? Ahem. He mentioned that if you were so careless as to misplace them, I was supposed to tell you to “get your arse back to J'nasshym, and beg fer another pair.” I never imagined I'd actually have to say it, though..."
+    },
+    {
+      "character": "Zanthael",
+      "text": "Oh! Now those are some fancy dress shoes. Come, adventurer, I will show you to the briefing room."
+    },
+    {
+      "character": "J'nasshym",
+      "text": "What's this? Are you struggling to tell me you have lost the fine pair of shoes I chose especially for you?"
+    },
+    {
+      "character": "J'nasshym",
+      "text": "Fortunately, I have another such pair available. You may have them out of the kindness of my heart...and the loathing in my soul I bear for your usual “attire.”"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Brothers and sisters of the sea!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Join me now in honoring this man / woman for his / her services to our great nation!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "May the Navigator guide and protect him / her on his / her journey till sea swallows all!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "These pirates you encountered with the tattooed faces... They call themselves the “Serpent Reavers.” Their ranks are formed of cutthroats and madmen who have pledged themselves body and soul to the primal Leviathan."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "From what we have gathered, they sought to swell their numbers by spiriting away any soul unfortunate enough to cross their path."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "I need not tell you the depth of the animosity between us and the Sahagin. How any seaman worth his salt could devote himself to the fishbacks' god is a question for a more temperate mind than mine."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "But thanks to you, our citizens may once more go about their daily lives, safe in the knowledge that they will not be dragged into the darkness by those execrable curs."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "Such an extraordinary glow..."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "This...is one of the Crystals of Light."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "By the Navigator..."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "After our encounter with the goobbue, you had a vision, did you not? Of a towering crystal?"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "You bathed in Her Light..."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Y'shtola's conclusion is clear, and I see no reason to doubt it. You are the vessel of a higher power."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "This...being from your vision was the Mothercrystal. Your description matches what little we know of Her."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "And if She has chosen you, then your deeds may yet shape the fate of nations."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "As once did the deeds of the Warriors of Light."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Know you the tale? Like you, they were not of these lands, yet they fought to protect us all 'gainst the corruption of the primals."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "When the Garlean Empire began its conquest of the realm, these heroes joined the Grand Companies, and helped reforge the Eorzean Alliance."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "And at the Battle of Carteneau, they took the field beneath our banners, to fight for everything we hold dear."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "It was on that day, in the midst of that hell...that we lost them."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Every soul who survived that battle will never forget how it was to fight beside them. We are proud to call them our comrades."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Yet, whenever we try to shout their names, the sound dies in our throats."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "And whenever we strain to see their faces with our mind's eye, naught but their shadows appear to us, set against a blinding light."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Ask any true Eorzean who knew them, and the story will be the same. It is for this reason that we call them “the Warriors of Light.”"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "When I look upon you, I cannot help but be reminded of them."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Keep that Crystal safe."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "In time, I believe the Mothercrystal will make clear Her reasons for bestowing it upon you."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Heed well Her words, adventurer. For it is Hydaelyn Herself who speaks."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Flames, to the fore!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Victory belongs to the bold! Show those imperial whoresons what we're made of!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "The left flank buckles! Divert the Barracudas!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Bid 'em hold that position though it cost 'em their lives!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The Yellow Serpents are in need of succor. Pray send the White Wolves to their aid."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The adventurers risk life and limb for our cause. We must not fail them."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Is aught amiss?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "No... It is nothing."
+    },
+    {
+      "character": "Raubahn",
+      "text": "The barrier won't go down so easily! Eyes forward!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "We are being watched..."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Raging Bull calling Blood Thorn! Blood Thorn, respond! Respond, damn you!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Arrrgh!!!"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text": "Raging Bull! This is Mad Snake! Respond!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Ryder!? This is Raging Bull! What news!?"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text": "We're surrounded by a blaze! There's no way out! Gods preserve, what is that thing!?"
+    },
+    {
+      "character": "Raubahn",
+      "text": "What's going on!? Speak to me!"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text": "Godsdammit! We cannot hold much longer!"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text": "AaaaaaAAAAAAAAAH!!!!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Mad Snake!? Mad Snaaaaaake! Answer me!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Damn it! Damn it all to the seventh hell!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "What of the Barracudas? Can they not be reached?"
+    },
+    {
+      "character": "Storm Runner",
+      "text": "Sorry, Admiral—shell's not workin'!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "What of our own?"
+    },
+    {
+      "character": "Serpent Runner",
+      "text": "I cannot say, my lady! That monstrosity appears to be disrupting our communications!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "We must keep trying. Call till they respond."
+    },
+    {
+      "character": "Serpent Runner",
+      "text": "Yes, my lady!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Admiral, General—we can do no more. We must give the order to withdraw."
+    },
+    {
+      "character": "Raubahn",
+      "text": "I will not forsake Louisoix!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "General, please! Victory may belong to the bold, but there will be no victor this day!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "You know this to be true. Let us not sacrifice lives in vain."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The adventurers fight bravely, but to no avail. Let them withdraw, and let us be the ones to stand with Louisoix."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Belay previous orders! All Maelstrom units are commanded to fall back, effective immediately!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Give the Foreign Levy priority! Let the main host cover their retreat, and bring up the rear!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Damn it... Relay the order: all Flames are to withdraw. I don't care if our linkshells are useless!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "You still have a working pair of legs, don't you? Well, use 'em , you bloody half-wit!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The outcome of this battle was long since decided."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Better to retreat now, than risk a massacre."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "This dark, stifling presence... Who...or what...?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "We go to take our place beside Archon Louisoix! To your positions!"
+    },
+    {
+      "character": "???",
+      "text": "That I should live to behold Bahamut once more..."
+    },
+    {
+      "character": "???",
+      "text": "Magnificent. The eons of imprisonment have only made him hungrier."
+    },
+    {
+      "character": "???",
+      "text": "I am aware of them. Pay them no mind. They are powerless to act."
+    },
+    {
+      "character": "???",
+      "text": "It has begun. Soon the planet will regain its true form."
+    },
+    {
+      "character": "???",
+      "text": "Ahahaha... Ahahahahaha!"
+    },
+    {
+      "character": "Baderon",
+      "text": "Mornin', sunshine. All a bit much fer ye, was it?"
+    },
+    {
+      "character": "Baderon",
+      "text": "...What 'appened? Ah, ye don't remember, then."
+    },
+    {
+      "character": "Baderon",
+      "text": "Ye keeled over in the middle o' the banquet, an' caused a right stir. 'Ad to carry ye back to the Wench meself. Well, I say “carry”...'twas more a matter o' draggin' an' rollin'. Too much cake, I reckon."
+    },
+    {
+      "character": "Baderon",
+      "text": "Anyroad, don't fret─'tis little wonder ye was exhausted after everythin' ye've been through lately."
+    },
+    {
+      "character": "Baderon",
+      "text": "Yer little nap seems to 'ave put some color back in yer cheeks, though, so I'll leave ye to it."
+    },
+    {
+      "character": "Baderon",
+      "text": "...Bugger! I almost forgot: the Admiral wants to 'ave a word with ye."
+    },
+    {
+      "character": "Baderon",
+      "text": "When ye feel up to it, talk to Zanthael an' 'e'll let ye in to the command room. Oh, an' stay awake, eh? I'm told ol' Merlwyb was in the middle o' tellin' ye a story when ye started snorin' last time, an' I doubt she'd look kindly on it if ye repeated the trick!"
+    },
+    {
+      "character": "Zanthael",
+      "text": "Greetings, Forename . Admiral Bloefhiswyn awaits you in the command room. Shall I announce you?"
+    },
+    {
+      "character": "Zanthael",
+      "text": "Still not recovered from your...er...sudden illness? I find a brisk walk along the waterfront always helps to blow away the cobwebs. The smell down there could wake the dead..."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Ah, Forename , it is good to see you on your feet again. You are recovered?"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Then let us waste no time. I have a task that needs doing─one I would entrust to no other."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "meeting-with-the-resistance",
+  "wiki_path": "/wiki/Meeting_with_the_Resistance",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Meeting with the Resistance",
+  "level": "26",
+  "location": "The Waking Sands(X:6.9,Y:6.1)",
+  "npc_start": "Minfilia",
+  "dialogues": [
+    {
+      "character": "Minfilia",
+      "text": "Your Ala Mhigan comrade is named Haribehrt . He joined our cause in the hopes that he might find a way to liberate his homeland."
+    },
+    {
+      "character": "Minfilia",
+      "text": "While he spares no effort towards that endeavor, I have no doubt that he would be glad to assist you."
+    },
+    {
+      "character": "Minfilia",
+      "text": "If I recall correctly, Haribehrt is currently between missions. Try looking for him in the storage area."
+    },
+    {
+      "character": "Haribehrt",
+      "text": "If it isn't Forename , the Scions ' rising star! Is there aught I can do for you?"
+    },
+    {
+      "character": "Haribehrt",
+      "text": "You wish to win the trust of the people of Little Ala Mhigo ! That is a daunting task, my friend, even for our own countrymen."
+    },
+    {
+      "character": "Haribehrt",
+      "text": "I would like nothing more than to help, but I'm afraid my name no longer carries weight with that lot."
+    },
+    {
+      "character": "Haribehrt",
+      "text": "I used to be a member of the Ala Mhigan Resistance , you see, but I left in favor of joining the Scions."
+    },
+    {
+      "character": "Haribehrt",
+      "text": "Though my allegiance may have shifted, my purpose remains ever the same -- the liberation of Ala Mhigo. Yet whatever my reasons were, I abandoned my comrades, and they'll have nothing to do with me."
+    },
+    {
+      "character": "Haribehrt",
+      "text": "Now, while I may have no more friends in the Resistance, I know someone who does. Her name is Albreda , and she is a resident of Quarrymill . Say my name when you meet her, and she won't lead you astray."
+    },
+    {
+      "character": "Albreda",
+      "text": "Eh? You want me to introduce you to the Resistance? Hah! Why the hells should I do that? Give me just one reason!"
+    },
+    {
+      "character": "Albreda",
+      "text": "H-Haribehrt send you!? Grrr, that worthless whoreson... He abandons his comrades -- his woman -- and now he has the gall to ask me for a favor!? Simply incredible..."
+    },
+    {
+      "character": "Albreda",
+      "text": "I just... I mean... <sigh> Ugh. I realize Haribehrt was only doing what he felt was right. He's a good man. And if he trusts you, then that's all I need to know. You see that bloke there? That's Meffrid , a captain of the Resistance. I hope he can give you what you need."
+    }
+  ]
+}

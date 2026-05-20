@@ -1,0 +1,368 @@
+{
+  "id": "renewing-the-covenant",
+  "wiki_path": "/wiki/Renewing_the_Covenant",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/9/9b/Renewing_the_Covenant_Image.png",
+  "patch": "2.0",
+  "title": "Renewing the Covenant",
+  "level": "14",
+  "location": "New Gridania(X:11.7,Y:13.5)",
+  "npc_start": "Mother Miounne",
+  "dialogues": [
+    {
+      "character": "Mother Miounne",
+      "text": "Now that you have the Monoa mask, all that's left is to participate in the ceremony."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Perchance you are feeling nervous, but never fear—despite all the pomp surrounding the role, there really is nothing to being Emissary."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "All you are required to do is wear the mask, stand up straight, and look dignified. The more involved aspects of the proceedings will be handled by others. Simple, no?"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "The ceremony will be held at Mih Khetto's Amphitheatre. When you are ready, make yourself known to the caretaker there—a woman named Estaine."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Oh, and be sure to wear your mask or she may not recognize you. Now, off you go, Forename , and good luck!"
+    },
+    {
+      "character": "Estaine",
+      "text": "Ah, you must be the Emissary."
+    },
+    {
+      "character": "Estaine",
+      "text": "I have been instructed to escort you to your place. You just need to put on the Monoa mask, and the ceremony may commence."
+    },
+    {
+      "character": "Estaine",
+      "text": "You do have the mask, don't you? If you have misplaced it, you must needs speak with Timbermaster Beatin at once . And gods help you if you don't have a compelling excuse..."
+    },
+    {
+      "character": "Estaine",
+      "text": "I see you have come prepared. That is well."
+    },
+    {
+      "character": "Estaine",
+      "text": "I have been instructed to escort you to your place. Please follow me."
+    },
+    {
+      "character": "Beatin",
+      "text": "Twelve as my witness... I will not bother speculating how you lost the mask, though I find it hard to believe it was not intentional ."
+    },
+    {
+      "character": "Beatin",
+      "text": "See that you don't lose this one. Now stop wasting time and continue your quest. This minstrel's tale cannot reach its climax till all the players be assembled."
+    },
+    {
+      "character": "Unnamed Man A",
+      "text": "Look!"
+    },
+    {
+      "character": "Unnamed Man B",
+      "text": "The Elder Seedseer!"
+    },
+    {
+      "character": "Unnamed Woman",
+      "text": "Twelve bless her heart!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "May he / she find favor with the elementals!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "This radiance..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Could it be...a Crystal of Light?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Tell me true—has the Mothercrystal revealed Herself to you? Did you bask in Her Light?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Have you perchance experienced sensations akin to aether sickness of late?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "That Hydaelyn would speak directly to this man / woman ..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "There once were dauntless adventurers who fought in the name of Eorzea."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "When the primals threatened to bleed the land dry, these brave men and women rose to face them. When the Garlean Empire resumed its war of conquest, they rushed to the realm's defense."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "And when it was foretold that Dalamud would fall, they fought with all their strength to deliver us from certain doom."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Yet as strong and as brave as they were, they—like so many—disappeared amidst the flames at Cartenau."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "None have forgotten the heroes who gave all for the sake of a realm not their own."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Yet when we try to recall their names, we find the pages of our memories are blank, as if bleached by the sun."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "And when we try to recall their faces, we see them only in silhouette, as if they stood betwixt us and a blinding glare."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Hence have these heroes come to be known as the Warriors of Light."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Beholding you, illuminated by the glow of the Crystal, I could not help but be reminded of them."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The Crystal has chosen you for a purpose."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Trust to its guiding light, and all shall be revealed to you in good time."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Though none can say for certain what the future will bring, it is my belief that you may yet play a telling role in the tale of this great realm."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "...For the power of the Echo resides within you."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Flames, to the fore!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Victory belongs to the bold! Show those imperial whoresons what we're made of!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "The left flank buckles! Divert the Barracudas!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Bid 'em hold that position though it cost 'em their lives!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The Yellow Serpents are in need of succor. Pray send the White Wolves to their aid."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The adventurers risk life and limb for our cause. We must not fail them."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Is aught amiss?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "No... It is nothing."
+    },
+    {
+      "character": "Raubahn",
+      "text": "The barrier won't go down so easily! Eyes forward!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "We are being watched..."
+    },
+    {
+      "character": "Raubahn",
+      "text": "Raging Bull calling Blood Thorn! Blood Thorn, respond! Respond, damn you!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Arrrgh!!!"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text": "Raging Bull! This is Mad Snake! Respond!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Ryder!? This is Raging Bull! What news!?"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text": "We're surrounded by a blaze! There's no way out! Gods preserve, what is that thing!?"
+    },
+    {
+      "character": "Raubahn",
+      "text": "What's going on!? Speak to me!"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text": "Godsdammit! We cannot hold much longer!"
+    },
+    {
+      "character": "Jakys Ryder",
+      "text": "AaaaaaAAAAAAAAAH!!!!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Mad Snake!? Mad Snaaaaaake! Answer me!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Damn it! Damn it all to the seventh hell!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "What of the Barracudas? Can they not be reached?"
+    },
+    {
+      "character": "Storm Runner",
+      "text": "Sorry, Admiral—shell's not workin'!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "What of our own?"
+    },
+    {
+      "character": "Serpent Runner",
+      "text": "I cannot say, my lady! That monstrosity appears to be disrupting our communications!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "We must keep trying. Call till they respond."
+    },
+    {
+      "character": "Serpent Runner",
+      "text": "Yes, my lady!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Admiral, General—we can do no more. We must give the order to withdraw."
+    },
+    {
+      "character": "Raubahn",
+      "text": "I will not forsake Louisoix!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "General, please! Victory may belong to the bold, but there will be no victor this day!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "You know this to be true. Let us not sacrifice lives in vain."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The adventurers fight bravely, but to no avail. Let them withdraw, and let us be the ones to stand with Louisoix."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Belay previous orders! All Maelstrom units are commanded to fall back, effective immediately!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Give the Foreign Levy priority! Let the main host cover their retreat, and bring up the rear!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "Damn it... Relay the order: all Flames are to withdraw. I don't care if our linkshells are useless!"
+    },
+    {
+      "character": "Raubahn",
+      "text": "You still have a working pair of legs, don't you? Well, use 'em , you bloody half-wit!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "The outcome of this battle was long since decided."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "Better to retreat now, than risk a massacre."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "This dark, stifling presence... Who...or what...?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "We go to take our place beside Archon Louisoix! To your positions!"
+    },
+    {
+      "character": "???",
+      "text": "That I should live to behold Bahamut once more..."
+    },
+    {
+      "character": "???",
+      "text": "Magnificent. The eons of imprisonment have only made him hungrier."
+    },
+    {
+      "character": "???",
+      "text": "I am aware of them. Pay them no mind. They are powerless to act."
+    },
+    {
+      "character": "???",
+      "text": "It has begun. Soon the planet will regain its true form."
+    },
+    {
+      "character": "???",
+      "text": "Ahahaha... Ahahahahaha!"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Ah! Look who's back in the land of the living!"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Hm? You mean to say you don't remember a thing?"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "You collapsed in the middle of the ceremony—gave us all a good fright. So we carried you back here. I must say, you're heavier than you look!"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "You've hardly stopped of late—your exertions must have caught up with you."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "But you adventurers are nothing if not resilient! Seeing as the worst is past, I shall take my leave and return to my duties."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Oh, I almost forgot—the Elder Seedseer told me she'd like to see you when you felt well enough."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "The gentle soul was almost as worried about you as I was, bless her. When you're back on your feet, be sure and visit her at the Lotus Stand."
+    },
+    {
+      "character": "Silent Conjurer",
+      "text": "Ah, you are Forename Surname , are you not? I bid you welcome, sir / my lady . The Elder Seedseer left word that you would be joining her at the Lotus Stand. May I show you in?"
+    },
+    {
+      "character": "Silent Conjurer",
+      "text": "Very well. Yet know that it is not meet to keep the Elder Seedseer waiting."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "I have looked forward to your coming, Forename . But tell me, are you recovered?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text": "I am most glad of that. Now, I hope you will not doubt the earnestness of my concern...but I would ask a favor of you. Nor can I deny that I summoned you here in part with this in mind. Know, however, that I proceed only upon the understanding that you are rested and well."
+    }
+  ]
+}

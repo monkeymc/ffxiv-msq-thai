@@ -1,0 +1,48 @@
+{
+  "id": "drowning-out-the-voices",
+  "wiki_path": "/wiki/Drowning_Out_the_Voices",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Drowning Out the Voices",
+  "level": "46",
+  "location": "Mor Dhona(X:22.0,Y:7.7)",
+  "npc_start": "Cid",
+  "dialogues": [
+    {
+      "character": "Cid",
+      "text": "While Glaumunt goes about devising his plan, we need to see to some preparation of our own."
+    },
+    {
+      "character": "Cid",
+      "text": "It wouldn't do if the imperials were to discover that they're short an armor."
+    },
+    {
+      "character": "Cid",
+      "text": "To prevent this from happening, I'm going to put together a makeshift communications-jamming device. The explanation is like to get a bit technical, so bear with me."
+    },
+    {
+      "character": "Cid",
+      "text": "Imperial forces communicate at a distance via electromagnetic waves. Simply put, voices are borne upon aetheric lightning energy that permeates the air."
+    },
+    {
+      "character": "Cid",
+      "text": "Now, the hill-sized cluster of corrupted crystals to the west has been observed to amplify the selfsame energy. By making use of this property, we should be able to drown out imperial voices."
+    },
+    {
+      "character": "Cid",
+      "text": "To ensure that we have enough amplification, we must identify the most potent crystals among the cluster. For this, I need you to go there and use this device to take readings. I'll mark the likely places on your map."
+    },
+    {
+      "character": "Cid",
+      "text": "Oh, and just so you know, plasmoids are drawn to lightning energy. Don't be surprised if you run into a few."
+    },
+    {
+      "character": "Cid",
+      "text": "You have the readings? Excellent. Here, let me see the numbers."
+    },
+    {
+      "character": "Cid",
+      "text": "...Yes, four of these crystals should suit our purpose, though I pray that we won't have need of their power. My thanks, Forename ."
+    }
+  ]
+}

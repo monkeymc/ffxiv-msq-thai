@@ -1,0 +1,44 @@
+{
+  "id": "call-of-the-sea-ul-dah",
+  "wiki_path": "/wiki/Call_of_the_Sea_(Ul%27dah)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Call of the Sea",
+  "level": "15",
+  "location": "Old Gridania(X:8.0,Y:11.1)",
+  "npc_start": "Serpent Officer",
+  "dialogues": [
+    {
+      "character": "Serpent Officer",
+      "text": "I pray your meeting with the Elder Seedseer went well, my lord / lady envoy. Correct me if I'm mistaken, but did you not also deliver a message to Admiral Merlwyb Bloefhiswyn of Limsa Lominsa?"
+    },
+    {
+      "character": "Serpent Officer",
+      "text": "While you were there, did you happen to meet Baderon, the proprietor of the Drowning Wench? Gregarious gentleman, always happy to help his fellow man."
+    },
+    {
+      "character": "Serpent Officer",
+      "text": "Well, I am told that he has a task for a capable adventurer. I know not what the task entails, but I daresay the Flame General's personal envoy would make a fine candidate. If you are interested in learning more, pray speak with Baderon at his establishment."
+    },
+    {
+      "character": "Serpent Officer",
+      "text": "Should you decide to visit Limsa Lominsa, pray speak with Baderon at the Drowning Wench. The man has a task for a capable adventurer, and I daresay the Flame General's personal envoy would make a fine candidate."
+    },
+    {
+      "character": "Baderon",
+      "text": "Welcome to the Drownin' Wench! Sit wherever ye like, mate / lass . I'll be with ye in a—"
+    },
+    {
+      "character": "Baderon",
+      "text": "Hm? Aye, I'm Baderon, all right. Who's askin'?"
+    },
+    {
+      "character": "Baderon",
+      "text": "Ah, 'eard as I've got a job fer a capable 'venturer, ye say? Well, yer bloody right!"
+    },
+    {
+      "character": "Baderon",
+      "text": "Just so yer fairly warned, though, this ain't no job fer the faint of 'eart. Things're liable to get downright bleedin' 'airy. But if ye think yer still interested, let me know, an' I'll fill ye in on the details."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "in-the-eyes-of-gods-and-men",
+  "wiki_path": "/wiki/In_the_Eyes_of_Gods_and_Men",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/fe/In_the_Eyes_of_Gods_and_Men_Image.png",
+  "patch": "2.0",
+  "title": "In the Eyes of Gods and Men",
+  "level": "38",
+  "location": "Coerthas Central Highlands(X:26.7,Y:17.4)",
+  "npc_start": "Haurchefant",
+  "dialogues": [
+    {
+      "character": "Haurchefant",
+      "text": "From the very first, I knew it could not be that so many members of House Haillenarte were heretics. At last, we can give the lie to these poisonous allegations, and put an end to this travesty!"
+    },
+    {
+      "character": "Haurchefant",
+      "text": "I will need to prepare a formal statement regarding these developments for the Holy See. In the meantime, I would have you bear my words to Inquisitor Brigie. Tell her that House Fortemps asks─nay, demands that Lord Francel's trial be postponed until a full investigation has been conducted!"
+    },
+    {
+      "character": "Brigie",
+      "text": "What is it, my child? Hm? Lord Haurchefant would have the inquisitors do what?"
+    },
+    {
+      "character": "Brigie",
+      "text": "But that is not possible. Inquisitor Guillaime presides over Lord Francel's trial at Witchdrop even as we speak."
+    },
+    {
+      "character": "Brigie",
+      "text": "Fear not: if Lord Francel is indeed innocent, he shall walk in Halone's halls with the fallen heroes of Ishgard."
+    },
+    {
+      "character": "Haurchefant",
+      "text": "They have taken Lord Francel to Witchdrop !? This is madness! The inquisitor does not have sufficient grounds to subject him to that manner of trial!"
+    },
+    {
+      "character": "Haurchefant",
+      "text": "I will not stand idly by and allow an innocent man to die. Forename , I would dispatch you and one of my knights to Witchdrop to forestall the proceedings until such time as I am able to join you and petition Inquisitor Guillaime in person. I will endeavor not to keep you waiting too long."
+    },
+    {
+      "character": "Haurchefant",
+      "text": "Do whatever you must to keep Lord Francel alive!"
+    },
+    {
+      "character": "Hourlinet",
+      "text": "Hail, Forename . As you can see, Lord Francel yet lives. We must try to reason with the inquisitor─but if his guards judge us a threat, we must also be prepared to defend ourselves."
+    },
+    {
+      "character": "Guillaime",
+      "text": "Joacin Charlemend Francel de Haillenarte─you stand accused of heresy against the Holy See of Ishgard. Is there aught you wish to say in your defense?"
+    },
+    {
+      "character": "Francel",
+      "text": "Hear me, brothers─these charges are false! The men and women of my line have ever opposed the Dravanians, and I am no different! Since the very birth of our nation, we have gladly shed blood in service to the Holy See! Condemn me and you will strike a blow for the enemies of Ishgard!"
+    },
+    {
+      "character": "Guillaime",
+      "text": "It is for Halone to judge if you speak the truth."
+    },
+    {
+      "character": "Guillaime",
+      "text": "Prove your innocence in the eyes of gods and men. Leap from the cliff and entrust your fate to the Fury."
+    },
+    {
+      "character": "Guillaime",
+      "text": "The righteous shall take their place in Halone's halls, while the wicked shall reveal their drachen forms and be put to the sword!"
+    },
+    {
+      "character": "Hourlinet",
+      "text": "In the name of House Fortemps, I beseech you─stay your hand!"
+    },
+    {
+      "character": "Hourlinet",
+      "text": "Inquisitor, we are come on behalf of Lord Haurchefant. My lord has uncovered evidence which suggests that the charges against Lord Francel are without merit."
+    },
+    {
+      "character": "Hourlinet",
+      "text": "We humbly request that these proceedings be suspended until such time as a full reexamination of the facts has been conducted."
+    },
+    {
+      "character": "Guillaime",
+      "text": "Lord Haurchefant has allowed his personal relationship with the accused to cloud his judgment. That he should harbor private doubts, I might have allowed...but that he would dare interfere in legal proceedings sanctioned by the Holy See, I cannot."
+    },
+    {
+      "character": "Guillaime",
+      "text": "To defy the will of an inquisitor is to commit heresy! A crime for which there is but one punishment!"
+    },
+    {
+      "character": "Hourlinet",
+      "text": "We must hold them until Lord Haurchefant arrives, Forename ! And remember─no harm can come to the inquisitor!"
+    },
+    {
+      "character": "Hourlinet the Devout",
+      "text": "Your shield bears no sigil, ser! Do you serve the Holy See or one of the High Houses?"
+    },
+    {
+      "character": "Alderique the Unyielding",
+      "text": "I serve a higher power!"
+    },
+    {
+      "character": "Hourlinet the Devout",
+      "text": "Look, look! Lord Haurchefant is come!"
+    },
+    {
+      "character": "Haurchefant of the Silver Fuller",
+      "text": "In the name of House Fortemps, I demand that you lay down your arms!"
+    },
+    {
+      "character": "Guillaime",
+      "text": "By this deed, you do disgrace your line, Lord Haurchefant!"
+    },
+    {
+      "character": "Alderique the Unyielding",
+      "text": "Ishgardian scum! Today you shall answer for your sins!"
+    },
+    {
+      "character": "Haurchefant of the Silver Fuller",
+      "text": "A wyvern!? But there were no reports of Dravanian activity!"
+    },
+    {
+      "character": "Guillaime",
+      "text": "You would call upon your allies to save you!? At last, your treachery is laid bare!"
+    },
+    {
+      "character": "Alderique the Unyielding",
+      "text": "This...this will not be forgotten..."
+    },
+    {
+      "character": "Hourlinet the Devout",
+      "text": "Forgive my weakness..."
+    },
+    {
+      "character": "Haurchefant of the Silver Fuller",
+      "text": "Ugh... It cannot end this way...it mustn't..."
+    },
+    {
+      "character": "Haurchefant",
+      "text": "It is not our intention to defy the will of the archbishop."
+    },
+    {
+      "character": "Haurchefant",
+      "text": "But this trial─like many others, I fear─has been orchestrated by enemies of House Haillenarte. They have used you and your fellows to sow discord, Inquisitor─to set brother against brother, that we may tear ourselves apart."
+    },
+    {
+      "character": "Guillaime",
+      "text": "...The fevered imaginings of a desperate man. What proof have you of this?"
+    },
+    {
+      "character": "Haurchefant",
+      "text": "By the Fury...a draconian rosary! Then the knight who refused to yield─it was he who summoned the wyvern!"
+    },
+    {
+      "character": "Guillaime",
+      "text": "A heretic in the ranks of the Temple Knights. This has grave implications..."
+    },
+    {
+      "character": "Guillaime",
+      "text": "Your claims...would appear to have merit, Lord Haurchefant. I shall withdraw my charges against Lord Francel, pending further investigation."
+    },
+    {
+      "character": "Guillaime",
+      "text": "I trust you have not lost sight of that which first brought you to Coerthas, Forename . Pray locate your errant airship...and use it."
+    },
+    {
+      "character": "Francel",
+      "text": "Lord Haurchefant, I have not the words to express my gratitude. But why would you risk your reputation to save mine?"
+    },
+    {
+      "character": "Haurchefant",
+      "text": "Because I know you, boy. You're too loyal to betray Ishgard, and too devout to question your sentence. Had we been any slower, you'd have jumped of your own free will."
+    },
+    {
+      "character": "Francel",
+      "text": "I...I would have done whatever it took to redeem House Haillenarte."
+    },
+    {
+      "character": "Haurchefant",
+      "text": "Praise Halone it did not come to that. But it profits us little to dwell on what might have been."
+    },
+    {
+      "character": "Haurchefant",
+      "text": "Let us quit this place, Forename . Pray visit me at Camp Dragonhead once you have recuperated."
+    },
+    {
+      "character": "Haurchefant",
+      "text": "You look well, Forename . May I say what a pleasure it was to fight alongside such a fearless and skillful warrior."
+    },
+    {
+      "character": "Haurchefant",
+      "text": "Were it not for you, Lord Francel would surely have died defending the honor of his house─and I might well have perished at the hands of a heretic and his wyvern."
+    },
+    {
+      "character": "Haurchefant",
+      "text": "House Fortemps and House Haillenarte shall never forget your service. Now, let us return to the matter of your missing Enterprise !"
+    }
+  ]
+}

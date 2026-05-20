@@ -1,0 +1,172 @@
+{
+  "id": "nouveau-riche",
+  "wiki_path": "/wiki/Nouveau_Riche",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/9/94/Nouveau_Riche_Image.png",
+  "patch": "2.0",
+  "title": "Nouveau Riche",
+  "level": "23",
+  "location": "South Shroud(X:18.1,Y:19.8)",
+  "npc_start": "Buscarron",
+  "dialogues": [
+    {
+      "character": "Buscarron",
+      "text": "I'm glad you've come, friend. There's something I want to talk to you about. You know I said I thought we might have a traitor in our midst─someone as was aiding the Garleans? Well, I'm thinking I may have identified our suspect."
+    },
+    {
+      "character": "Buscarron",
+      "text": "There's a regular of mine who used to dine on thin soup, and sip his pint on account of not being able to afford another. But of late, he's taken to ordering my best wines and the finest cuts of meat I can lay my hands on."
+    },
+    {
+      "character": "Buscarron",
+      "text": "Were he a merchant, I'd prob'ly think nothing of it, but this lad's a Wood Wailer."
+    },
+    {
+      "character": "Buscarron",
+      "text": "...And Wood Wailers don't earn that kind of coin. By chance, I was musing on where the money was coming from when you first told me about the Garleans in the forest, and I couldn't help putting two and two together."
+    },
+    {
+      "character": "Buscarron",
+      "text": "Suffice it to say, if a Wailer's working for the Empire, none of us is safe."
+    },
+    {
+      "character": "Buscarron",
+      "text": "The lad I'm talking about goes by the name of Laurentius. Last I heard, he was in the South Shroud. Find him, Forename , and if he is up to no good, put an end to it─and him, if it comes to that."
+    },
+    {
+      "character": "Laurentius",
+      "text": "Can you not see I am on patrol? Be gone. If you have business with the Wailers, take it to the Barracks."
+    },
+    {
+      "character": "Laurentius",
+      "text": "Not long now... Hmph. To think patrol routes and rations would fetch such a price..."
+    },
+    {
+      "character": "Laurentius",
+      "text": "No more than I deserve, though. 'Tis little wonder the Empire has risen to such heights. If only the Wailers paid men their worth..."
+    },
+    {
+      "character": "Laurentius",
+      "text": "Y-You! What did you─? How long have you─? Help. Help! Heeelp!"
+    },
+    {
+      "character": "Laurentius",
+      "text": "Please! Come quick, my friends! It is I, Laurentius! I am under attack!"
+    },
+    {
+      "character": "Laurentius",
+      "text": "How...? How did you...? You just... I-I know nothing! I was on patrol. He just appeared! I...I thought you were working for the Garleans!"
+    },
+    {
+      "character": "Laurentius",
+      "text": "How long do you mean to keep this up? What is it you imagine I've done? Enough! Enough, I say!"
+    },
+    {
+      "character": "Laurentius",
+      "text": "It's... It's over, then. Aye, I sold maps and rations to the Empire. It was I. I meant no harm. I only wanted the coin."
+    },
+    {
+      "character": "Laurentius",
+      "text": "The Wailers are good. Strong. I was proud to join their ranks. Am proud. But... They do not provide. They preach justice, honor, duty. But in the end, it is those with money who do as they will. Who live as they will."
+    },
+    {
+      "character": "Laurentius",
+      "text": "...So I sought an opportunity to change my fortunes, and took it. All I've done, I've done for money. Endangered myself, my home, everything and everyone I love... Why, my actions have put your life in danger, too..."
+    },
+    {
+      "character": "Laurentius",
+      "text": "...Though you do not yet realize how much. Heh heh heh! Bloody idiot─did you imagine that you had cornered me? It is not I who is cornered."
+    },
+    {
+      "character": "Laurentius",
+      "text": "Garleans! I've brought the [Race] bastard / bitch !"
+    },
+    {
+      "character": "Laurentius",
+      "text": "Permit me a question, if you will. Are all adventurers so deluded as to believe they can challenge the power of Garlemald?"
+    },
+    {
+      "character": "Laurentius",
+      "text": "You would need a veritable mountain of gil to fund such an endeavor! Such is the cost of fighting great power. Or of making it. Or of remaking it, as we will Gridania."
+    },
+    {
+      "character": "Redbelly Gutter",
+      "text": "So that's the way of it. Swapped your hard bunk at the Barracks for a feather bed in Garlemald, did ye? <spit>"
+    },
+    {
+      "character": "Redbelly Gutter",
+      "text": "You there, [Race]. You stand here at ol' Busc's wish, no? Then you don't stand alone."
+    },
+    {
+      "character": "Legless Laurentius",
+      "text": "You mean to stand against the might of the Empire with this Redbelly rabble at your side? Hah!"
+    },
+    {
+      "character": "Redbelly Gutter",
+      "text": "Your eyes betray your words, coward. You know full well the Wailers fear the Wasps' sting."
+    },
+    {
+      "character": "3rd Cohort Decurion",
+      "text": "After these trees drink your blood, I will see to it they are cut down and burned."
+    },
+    {
+      "character": "Legless Laurentius",
+      "text": "Show them what happens to those who oppose the Empire!"
+    },
+    {
+      "character": "Coeurlclaw Hunter",
+      "text": "If this is a fight Buscarron wants won, then the Coeurlclaws will fight it."
+    },
+    {
+      "character": "3rd Cohort Decurion",
+      "text": "So, this is to be my end..."
+    },
+    {
+      "character": "Legless Laurentius",
+      "text": "How? Why!? You scum have no allegiances!"
+    },
+    {
+      "character": "Legless Laurentius",
+      "text": "How...? How has it come to this?"
+    },
+    {
+      "character": "Laurentius",
+      "text": "Impossible... How did you best the Empire's finest? And with bandits and poachers at your side!? They are your sworn enemies! Why do they fight with you and not against you!?"
+    },
+    {
+      "character": "Laurentius",
+      "text": "...Ah, but I know the answer only too well. Buscarron. This is his doing. His words are wont to inspire men to act. Better men than I... Gods, what have I become? What have I done ?"
+    },
+    {
+      "character": "Laurentius",
+      "text": "I... I am sorry. No more will I pursue this folly. No more lies. No more bribes. I will go to the Order of the Twin Adder and confess my crimes."
+    },
+    {
+      "character": "Laurentius",
+      "text": "There is something I would like you to tell Buscarron. Tell him Laurentius the fool says “thank you.” I feel as though a veil has been lifted from before my eyes."
+    },
+    {
+      "character": "Buscarron",
+      "text": "Aye, Laurentius confessed to his crimes. I just had word from the Twin Adder. Seems he marched straight into the Nest and gave himself up."
+    },
+    {
+      "character": "Buscarron",
+      "text": "The lad's had quite a life, you know... His mother was killed by a brigand when he was only small. As a young man, he joined the Wailers, hoping to spare his fellow Gridanians the misery he'd known growing up."
+    },
+    {
+      "character": "Buscarron",
+      "text": "Trouble is, protecting Gridania's too big a job for one man, and he came to believe that he couldn't make a difference─that it was hopeless."
+    },
+    {
+      "character": "Buscarron",
+      "text": "There are few things more dangerous than desperation, and a man lost in the dark is easily drawn to the glimmer of coin. I reckon he thought that if he couldn't change the lot of his fellow man, he might as well change his own. Thing is, he was making a difference─just not on his own. Somehow, he'd failed to grasp one simple truth─that those things we cannot do alone, we must do together."
+    },
+    {
+      "character": "Buscarron",
+      "text": "...Eh? He asked you to thank me, did he? Then there's good in him yet. I just hope them at the Adders' Nest are able to see it... What he's done ain't easy to forgive, but I'd like to think he'd be afforded a chance to make amends."
+    },
+    {
+      "character": "Buscarron",
+      "text": "But let us leave fates to the Twelve. I have other news for you, Forename . The sylph elder has been found!"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "that-weight",
+  "wiki_path": "/wiki/That_Weight",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "That Weight",
+  "level": "33",
+  "location": "Eastern La Noscea(X:14.0,Y:30.3)",
+  "npc_start": "Drest",
+  "dialogues": [
+    {
+      "character": "Drest",
+      "text": "Can't...can't sleep... They won't let me sleep...the midges... The buzzing...it keeps me awake..."
+    },
+    {
+      "character": "Drest",
+      "text": "I'm not... I...I never wanted to hurt anyone. I won't fight. I don't want to fight!"
+    },
+    {
+      "character": "Drest",
+      "text": "Please, make the buzzing stop! Make the midges go away!"
+    },
+    {
+      "character": "Drest",
+      "text": "Somehow... Someday... I'll... I'll find my way back to you..."
+    },
+    {
+      "character": "Drest",
+      "text": "It's not so loud anymore. Did...did you do that? Thank you. You...you helped me. Even after what my comrades and I did to your country..."
+    },
+    {
+      "character": "Drest",
+      "text": "You were on a reconnaissance mission when the Maelstrom caught us by surprise. We tried to escape, but the others... N-No one else survived."
+    },
+    {
+      "character": "Drest",
+      "text": "I didn't ask for this, dammit! I'm not even Garlean! They conquered my lands just like they tried to conquer yours!"
+    },
+    {
+      "character": "Drest",
+      "text": "I...I don't want to die in some blasted jungle halfway around the world..."
+    },
+    {
+      "character": "Drest",
+      "text": "I just...I just want to go home..."
+    }
+  ]
+}

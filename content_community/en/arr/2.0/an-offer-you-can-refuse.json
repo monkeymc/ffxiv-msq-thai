@@ -1,0 +1,60 @@
+{
+  "id": "an-offer-you-can-refuse",
+  "wiki_path": "/wiki/An_Offer_You_Can_Refuse",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "An Offer You Can Refuse",
+  "level": "32",
+  "location": "Eastern La Noscea(X:21.6,Y:21.1)",
+  "npc_start": "Shamani Lohmani",
+  "dialogues": [
+    {
+      "character": "Shamani Lohmani",
+      "text": "Life can be so delightfully unpredictable. I always had a passion for wine, but it wasn't until I was forced to retire that I could pursue it as more than a mere hobby."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "It wouldn't have been possible if not for the savings I amassed during my time as a mercenary, of course. Say what you will about the nature of that work─none can deny that it pays well."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "Ah, but you grow impatient, and Wheiskaet must have his wine. Herein lies the problem: nothing in my possession is of sufficient quality for this occasion."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "The best vintages in town are hoarded by Byrglaent, who owns and operates the largest winery in Vylbrand."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "Somehow, I doubt he will be receptive to your request, but given these circumstances we must needs beg his assistance."
+    },
+    {
+      "character": "Byrglaent",
+      "text": "What rank amateur bottled this wine? The impurities have rendered it nigh undrinkable. Dismissal is too good for the man responsible─he should be made to drink every drop of his polluted swill!"
+    },
+    {
+      "character": "Byrglaent",
+      "text": "What is it? I am in the middle of an important discussion, and I do not care for interruptions. Hm? That neophyte vintner bid you speak with me? Hah!"
+    },
+    {
+      "character": "Byrglaent",
+      "text": "Neither you nor your friend has the palate to appreciate the subtle qualities of my private stock."
+    },
+    {
+      "character": "Byrglaent",
+      "text": "I would sooner serve you goobbue urine than sell you my worst vintage. Begone from my sight."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "I take it he said no? ...Really, in those words? Hm, well, I cannot say that I am surprised."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "While there's no denying his passion and skill, the Wine Baron of Limsa Lominsa is not a man known for his tact."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "Very well. We shall have to take an alternative approach."
+    }
+  ]
+}

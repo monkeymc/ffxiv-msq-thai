@@ -1,0 +1,444 @@
+{
+  "id": "way-down-in-the-hole",
+  "wiki_path": "/wiki/Way_Down_in_the_Hole",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/6/6a/Way_Down_in_the_Hole_Image.png",
+  "patch": "2.0",
+  "title": "Way Down in the Hole",
+  "level": "9",
+  "location": "Central Thanalan(X:20.7,Y:18.3)",
+  "npc_start": "Zuzumeda",
+  "dialogues": [
+    {
+      "character": "Zuzumeda",
+      "text": "Ah, the altruistic adventurer! I was hoping we'd bump into each other. Why? Because the most fascinating piece of news recently reached my ears, and I'm eager to share it! May I?"
+    },
+    {
+      "character": "Zuzumeda",
+      "text": "Rumor has it that there is a vast, untapped vein of ore beneath the ruins of Sil'dih."
+    },
+    {
+      "character": "Zuzumeda",
+      "text": "But that is not all! Inconceivably, the Concern appears to be entirely ignorant of its existence. And even as we speak, a young upstart─a self-made merchant from Stonesthrow of all places─is moving to claim it!"
+    },
+    {
+      "character": "Zuzumeda",
+      "text": "The fellow's name is Wystan, and he is a very, very ambitious young man. Not only does he intend to secure exclusive excavation rights, but they say his master plan is to use his new fortune to curry favor with the Sacrarium."
+    },
+    {
+      "character": "Zuzumeda",
+      "text": "Of course, the thaumaturges only consider the opinions of the most wealthy when drafting the laws of Ul'dah. If you would have your voice heard, you must be prepared to pay a sultan's ransom."
+    },
+    {
+      "character": "Zuzumeda",
+      "text": "One voice which is invariably heard belongs to Lord Lolorito. He has long lavished gil upon the thaumaturges, and some claim that he devises new laws with the express intention of ruining his competitors while protecting his own interests."
+    },
+    {
+      "character": "Zuzumeda",
+      "text": "Suffice it to say, if Wystan thinks he can compete with the likes of the Syndicate, he's in for a rude awakening. But that eventuality may yet be a little way off. For the present, he is moving ahead with his plans, and assembling a team to survey the site."
+    },
+    {
+      "character": "Zuzumeda",
+      "text": "I'm told he's at the Coffer & Coffin right now, recruiting able-bodied adventurers to escort his prospectors."
+    },
+    {
+      "character": "Zuzumeda",
+      "text": "Warin said you were looking for work. Mayhap you should meet Wystan and volunteer for his expedition?"
+    },
+    {
+      "character": "Wystan",
+      "text": "Come to join? Sorry, but you're too late."
+    },
+    {
+      "character": "Wystan",
+      "text": "Some Brass Blades looking for extra coin volunteered, and the team's already en route to the ruins."
+    },
+    {
+      "character": "Wystan",
+      "text": "But look, I know it's not easy to find work these days. If you're interested, there's something else you can do for me."
+    },
+    {
+      "character": "Wystan",
+      "text": "There are these children outside─little ones from Stonesthrow. I look after them when I've time to spare, and so they've taken to following me around, even when I tell them not to."
+    },
+    {
+      "character": "Wystan",
+      "text": "But what with overseeing the search for the vein, I barely have a chance to visit the privy at the moment, much less entertain younglings. Can you give them these ginger cookies and convince them to go home for me?"
+    },
+    {
+      "character": "Wystan",
+      "text": "Give the children those cookies and convince them to go home without me. I'll see that you're rewarded for your trouble."
+    },
+    {
+      "character": "Starveling Child A",
+      "text": "I like playing with Wystan. He makes sure no one bullies us."
+    },
+    {
+      "character": "Starveling Child A",
+      "text": "Wystan's worried about us? Oh, I don't want to make him worried. I'm a good girl, so I'll go home."
+    },
+    {
+      "character": "Starveling Child B",
+      "text": "I ain't goin' nowhere, mister / missus ! I'm too hungry to move, besides, so you'll have to carry me!"
+    },
+    {
+      "character": "Starveling Child B",
+      "text": "A cookie!? ...Well, if Wystan really wants me to go home, then all right. But I want two next time!"
+    },
+    {
+      "character": "Starveling Child C",
+      "text": "But Wystan always plays with us! Why won't he come out and play?"
+    },
+    {
+      "character": "Starveling Child C",
+      "text": "Wow, a ginger cookie! I'd better save some for my brother. I know─I'll go home and eat it with him!"
+    },
+    {
+      "character": "Starveling Child D",
+      "text": "Wystan's kind to us. I like him."
+    },
+    {
+      "character": "Starveling Child D",
+      "text": "This is for me? I want to eat it, but then again I don't, because then it'd be gone."
+    },
+    {
+      "character": "Starveling Child D",
+      "text": "Tell Wystan thanks, and...tell him I'm sorry for getting in the way."
+    },
+    {
+      "character": "Wystan",
+      "text": "Thank you, adventurer. I only wish I could do more. Stonesthrow is no place for a child."
+    },
+    {
+      "character": "Wystan",
+      "text": "...Not that my childhood was much happier. Never enough food to go around, nor work to earn it─but no shortage of contempt from the great and the good."
+    },
+    {
+      "character": "Wystan",
+      "text": "I remember thinking things could only get better... Yet now, after the Calamity and everything else...for us refugees to be forced to live outside the gates like bloody beastmen is a disgrace."
+    },
+    {
+      "character": "Wystan",
+      "text": "They say with enough money you can change the laws here. So I'm going to make a fortune and do just that!"
+    },
+    {
+      "character": "Wystan",
+      "text": "I'll buy the excavation rights and start my own mining business. Then I'll give my fellow refugees the work they're crying out for, and pay them fairly !"
+    },
+    {
+      "character": "Wystan",
+      "text": "The mining companies have profited from our suffering for too long. But in their hubris they've grown complacent─presenting us with a golden opportunity."
+    },
+    {
+      "character": "Wystan",
+      "text": "And we will take it, adventurer─we will reclaim our dignity, and with it our place within those walls."
+    },
+    {
+      "character": "Brass Blade",
+      "text": "We found her! We found the vein! Wystan, ye must come an' see!"
+    },
+    {
+      "character": "Wystan",
+      "text": "Already!? Amazing! We leave at once!"
+    },
+    {
+      "character": "Wystan",
+      "text": "You should join me, my friend! Come and bear witness to history in the making!"
+    },
+    {
+      "character": "Brass Blade",
+      "text": "Thal's balls, son! A vein of ore in the middle of a ruined bloody city? Godsdamned idiot!"
+    },
+    {
+      "character": "Brass Blade",
+      "text": "What did ye think was gonna happen? That ye'd strike it rich and get cozy with the Order, while the masters of Ul'dah looked on? No one crosses the Syndicate!"
+    },
+    {
+      "character": "Wystan",
+      "text": "<pant> <pant> The...the Syndicate!?"
+    },
+    {
+      "character": "Brass Blade",
+      "text": "Hah! Finally sunk in, has it?"
+    },
+    {
+      "character": "Brass Blade",
+      "text": "Well look at this! Not all yer friends've deserted ye, it seems... Lucky boy! Now ye won't have to die alone!"
+    },
+    {
+      "character": "???",
+      "text": "O mournful voice of creation! Grant ye this humble stone a soul, that it may wake to life!"
+    },
+    {
+      "character": "Brass Blade",
+      "text": "Who's that spoutin' gibberish!? Show yerself!"
+    },
+    {
+      "character": "Brass Blade",
+      "text": "This ain't part o' the plan! Bloody hells, does Lord Lolorito mean to kill us too!?"
+    },
+    {
+      "character": "???",
+      "text": "You are strong. But are you strong enough to withstand this ?"
+    },
+    {
+      "character": "???",
+      "text": "Impossible! Never has the golem been so sorely tested!"
+    },
+    {
+      "character": "???",
+      "text": "That the golem could be vanquished..."
+    },
+    {
+      "character": "???",
+      "text": "That man / woman is no ordinary adventurer."
+    },
+    {
+      "character": "Thancred",
+      "text": "Damn, seems I've missed all the fun."
+    },
+    {
+      "character": "Thancred",
+      "text": "I see you didn't need my help this time."
+    },
+    {
+      "character": "Thancred",
+      "text": "I would compose a ballad in your honor, but I fear no words would do you justice. The Songstress of Ul'dah herself could not rival your beauty."
+    },
+    {
+      "character": "Mirthful Maiden",
+      "text": "Oh, stop it!"
+    },
+    {
+      "character": "Thancred",
+      "text": "I have oft heard it said that a blossom's beauty can move a man to love and long, but I never truly believed it until I met you two desert roses."
+    },
+    {
+      "character": "Sunbaked Merchant",
+      "text": "I hear they attacked another caravan..."
+    },
+    {
+      "character": "Tireless Trader",
+      "text": "Aye, an' business is sufferin' for it. Bloody Amalj'aa... What's stirred 'em up, do you reckon?"
+    },
+    {
+      "character": "Thancred",
+      "text": "Another raid...and I'll wager that caravan was carrying crystals, much like the last."
+    },
+    {
+      "character": "Thancred",
+      "text": "If they truly mean to summon a primal, we must act quickly."
+    },
+    {
+      "character": "Mirthful Maiden",
+      "text": "Are you coming, love?"
+    },
+    {
+      "character": "Forward Fille",
+      "text": "You wouldn't keep a girl waiting, would you!?"
+    },
+    {
+      "character": "Thancred",
+      "text": "Perish the thought!"
+    },
+    {
+      "character": "Thancred",
+      "text": "So tell me, where in this marvel of a city might you lovely ladies be staying?"
+    },
+    {
+      "character": "Thancred",
+      "text": "At this rate, grain will soon be more precious than gold."
+    },
+    {
+      "character": "Thancred",
+      "text": "A result of the uncommonly bad harvests, to be sure..."
+    },
+    {
+      "character": "Thancred",
+      "text": "And we have you to thank for them, do we not?"
+    },
+    {
+      "character": "Thancred",
+      "text": "Aye, this weakening of the aetheric flow must surely be linked to Dalamud's descent."
+    },
+    {
+      "character": "Thancred",
+      "text": "And, of course, to the primals."
+    },
+    {
+      "character": "Thancred",
+      "text": "A fine mess. But we must not lose hope."
+    },
+    {
+      "character": "Thancred",
+      "text": "Louisoix will know what to do. We need only trust in his judgment."
+    },
+    {
+      "character": "Thancred",
+      "text": "Truly a marvel of Sharlayan ingenuity... It's as if I could reach out and touch the aether."
+    },
+    {
+      "character": "Thancred",
+      "text": "Time to focus... No more gallivanting about like before. The Scions are counting on you."
+    },
+    {
+      "character": "Thancred",
+      "text": "Have faith. Just have faith. You can do this."
+    },
+    {
+      "character": "Thancred",
+      "text": "Hmmm... This disturbance is recent."
+    },
+    {
+      "character": "Thancred",
+      "text": "The Sultantree? Maybe Papashan will know something of it."
+    },
+    {
+      "character": "Thancred",
+      "text": "Looks like they gave you quite a thrashing. Can you walk?"
+    },
+    {
+      "character": "Thancred",
+      "text": "It's me. I was too late. Our person of interest had already quit the scene. The General? Very well. I shall be there anon."
+    },
+    {
+      "character": "Thancred",
+      "text": "My colleagues went to great lengths to provide me with the means to detect aetheric disturbances, but every time I find one, you seem to be in the middle of it. I'm starting to wonder if it might not be simpler just to follow you around. Sadly, I have business elsewhere."
+    },
+    {
+      "character": "Thancred",
+      "text": "Tread softly, my friend. The carefully laid trap you dismantled was clearly sanctioned by Lord Lolorito. I heard the Blades mention him as they fled. Believe me when I tell you that he is not a man to be trifled with."
+    },
+    {
+      "character": "Thancred",
+      "text": "The sultana's enemies grow bolder by the day, and I suspect they have the support of outside forces."
+    },
+    {
+      "character": "Wystan",
+      "text": "Thank you. If you hadn't come along, those bastards would surely have slaughtered us all."
+    },
+    {
+      "character": "Wystan",
+      "text": "I would speak with you further, but it isn't safe for us to linger here."
+    },
+    {
+      "character": "Wystan",
+      "text": "Find me at the Coffer & Coffin later. Until then, stay safe."
+    },
+    {
+      "character": "Thancred",
+      "text": "I shall accompany Wystan and his men. They need protection─and I need more information."
+    },
+    {
+      "character": "Thancred",
+      "text": "Ah, but where are my manners? I have yet to properly introduce myself. I am Thancred, a humble scholar surveying the flow of aether in Thanalan."
+    },
+    {
+      "character": "Thancred",
+      "text": "It is an honor and a privilege to make your acquaintance. I hope when next we meet it is under more auspicious circumstances. Farewell!"
+    },
+    {
+      "character": "Thancred",
+      "text": "...Ah. Wait a moment. It occurs to me that we may have..."
+    },
+    {
+      "character": "Thancred",
+      "text": "Never mind. Fare thee well!"
+    },
+    {
+      "character": "Wystan",
+      "text": "Twelve bless you, my friend. You risked your life to save ours."
+    },
+    {
+      "character": "Wystan",
+      "text": "Betrayed by my own guards... Gods, I was a fool to trust those men."
+    },
+    {
+      "character": "Wystan",
+      "text": "Lolorito owns the godsdamned Brass Blades. I should've questioned their motives from the start."
+    },
+    {
+      "character": "Wystan",
+      "text": "Even so, I could hardly have predicted that the wealthiest man in Ul'dah would want me dead for the heinous crime of seeking to change the law! I'm just a merchant, for gods' sakes!"
+    },
+    {
+      "character": "Wystan",
+      "text": "That ruthless bastard! And what of that monstrosity? Those were his own men ! It beggars belief!"
+    },
+    {
+      "character": "Wystan",
+      "text": "Well, that's it. I'm finished. If I stay in Ul'dah any longer, I'm as good as dead."
+    },
+    {
+      "character": "Wystan",
+      "text": "My associates, my friends─gods, even the children may not be safe if I don't disappear. And you...godsdammit, if Lolorito learns of your involvement, you'll be next."
+    },
+    {
+      "character": "Wystan",
+      "text": "I'll speak with the others and make sure your part in this stays secret. Beyond that, I don't know what to suggest... Maybe you should seek the counsel of Mistress Momodi."
+    },
+    {
+      "character": "Wystan",
+      "text": "She's helped countless adventurers in her time. Mayhap she'll know what to do."
+    },
+    {
+      "character": "Wystan",
+      "text": "Go quickly now, my friend. Lolorito's spies may be watching."
+    },
+    {
+      "character": "Momodi",
+      "text": "Settle down, Forename . You've got nothin' to worry about. No one seems to know you were at the ruins."
+    },
+    {
+      "character": "Momodi",
+      "text": "Wystan, on the other hand, is now a pariah─about as welcome 'round here as a rabid wolf, poor bugger. Suffice to say, that boy risked the wrath of the wrong man."
+    },
+    {
+      "character": "Momodi",
+      "text": "Lord Lolorito: chairman of the East Aldenard Trading Company, generous contributor to the Order of Nald'thal, and member of the Syndicate."
+    },
+    {
+      "character": "Momodi",
+      "text": "Didn't get where he is by leavin' loose ends, that one."
+    },
+    {
+      "character": "Momodi",
+      "text": "Which is why he ain't above killin' his own men."
+    },
+    {
+      "character": "Momodi",
+      "text": "Hells, even if those Blades knew what was comin', it's not like they could refuse to do their benefactor's biddin'."
+    },
+    {
+      "character": "Momodi",
+      "text": "<sigh> Don't let this color your view of Ul'dah, Forename ... It's true that there are some here who ain't afraid to crack a few skulls if it gets 'em what they want. But most of us are decent folk just tryin' to make ends meet."
+    },
+    {
+      "character": "Momodi",
+      "text": "You know, a lot of people would call you a damn fool for riskin' your life to save a marked man..."
+    },
+    {
+      "character": "Momodi",
+      "text": "But I believe you did a good thing, Forename , and for that you have my respect."
+    },
+    {
+      "character": "Momodi",
+      "text": "Listen: you've been through a lot lately. Why don't you rest a spell?"
+    },
+    {
+      "character": "Momodi",
+      "text": "I'll have the boys at the Hourglass set you up with a room, my treat. Just have a word with Otopa Pottopa whenever you feel like stayin'."
+    },
+    {
+      "character": "Momodi",
+      "text": "And when you've got your appetite for adventurin' back, consider takin' on a guildleve or two."
+    },
+    {
+      "character": "Momodi",
+      "text": "We've a lot of requests from locals lookin' to hire adventurers for various jobs. It'd be a good way for you to earn yourself some extra gil."
+    },
+    {
+      "character": "Momodi",
+      "text": "Eustace can tell you more about how the system works, so go and speak with him if you're interested."
+    }
+  ]
+}

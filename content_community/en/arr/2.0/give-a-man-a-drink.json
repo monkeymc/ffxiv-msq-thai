@@ -1,0 +1,56 @@
+{
+  "id": "give-a-man-a-drink",
+  "wiki_path": "/wiki/Give_a_Man_a_Drink",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Give a Man a Drink",
+  "level": "33",
+  "location": "Eastern La Noscea(X:21.6,Y:21.1)",
+  "npc_start": "Shamani Lohmani",
+  "dialogues": [
+    {
+      "character": "Shamani Lohmani",
+      "text": "I must say, this talk of Bacchus wine has made me rather nostalgic. Indeed, there is much I miss about my life with the Company of Heroes."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "After everything the captain has done for me, I could not bear to disappoint him..."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "Aye, have no fear. I swear that I shall find a suitable wine for the banquet─though I may need some time to think of a solution."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "In the meantime, there is a favor I would ask of you."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "Two years ago, in the deepest depths of my despair, I stumbled across Vylbrand as a vagabond drunk. I suspect I was looking for a place to die, because I very nearly found one not far from here."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "It was there that a man named Drest took me in and nursed me back to health. And it was he who gave me my first taste of Bacchus wine, which helped me to find my new calling. Though I am still a novice in the arts of winemaking, I would like him to know that I am pursuing my dream."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "This wine is my own original creation, and I would be most grateful if you delivered it to him in my stead. Drest sometimes works at the Raincatcher Gully docks, so perhaps Rhitskylt can tell you where to find him."
+    },
+    {
+      "character": "Rhitskylt",
+      "text": "Drest? Oh, you mean the hermit. Aye, I toss him a few gil when we need an extra pair of hands. He doesn't talk about himself, and I sure as hells don't ask."
+    },
+    {
+      "character": "Rhitskylt",
+      "text": "When a man's got a face with scars like that, you best leave well enough alone, I say. If you've a mind to find him, though, then head southwest to the Severed String."
+    },
+    {
+      "character": "Drest",
+      "text": "What...what do you want?"
+    },
+    {
+      "character": "Drest",
+      "text": "W-Wine? I...I didn't ask for this! Who sent you!? I...I... <groan>"
+    }
+  ]
+}

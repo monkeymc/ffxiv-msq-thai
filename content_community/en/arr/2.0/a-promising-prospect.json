@@ -1,0 +1,56 @@
+{
+  "id": "a-promising-prospect",
+  "wiki_path": "/wiki/A_Promising_Prospect",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "A Promising Prospect",
+  "level": "41",
+  "location": "Eastern Thanalan(X:12.7,Y:23.4)",
+  "npc_start": "Lamberteint",
+  "dialogues": [
+    {
+      "character": "Lamberteint",
+      "text": "Corrupted crystals of sufficient size and strength are not all that common, I fear. Fortunately, one of my other students, Ceana, claims to have discovered another promising site in eastern La Noscea."
+    },
+    {
+      "character": "Lamberteint",
+      "text": "Wait, that's not correct. Eastern La Noscea was where she was nearly killed when wandering too close to an imperial castrum. Hah hah, now that made for an amusing anecdote!"
+    },
+    {
+      "character": "Lamberteint",
+      "text": "It was western La Noscea─Pharos Sirius, on the Isles of Umbra, to be precise."
+    },
+    {
+      "character": "Lamberteint",
+      "text": "I can't recall her exact reasoning─something to do with one of Dalamud's Talons or some such nonsense. What I can say for certain is that she is still in Aleport, attempting to gain access to the isles."
+    },
+    {
+      "character": "Lamberteint",
+      "text": "Why not travel there and see if Ceana's inquiries bear fruit? If you can look past the crass and violent ways of the local pirates, you might find your time there to be quite pleasurable. Oh, and do not forget to take your makeshift warded pot, lest she think you unprepared for the task."
+    },
+    {
+      "character": "Lamberteint",
+      "text": "Hush, man / woman . I cannot focus on the flow of aether when your breathing is so loud!"
+    },
+    {
+      "character": "Lamberteint",
+      "text": "If you intend to remain in my presence, I must insist that you hold your breath."
+    },
+    {
+      "character": "Ceana",
+      "text": "Eh? Corrupted crystals!? Sir / Madam , I've no interest in being the butt of your jokes, so if you've no other reason for addressing me, kindly leave me be."
+    },
+    {
+      "character": "Ceana",
+      "text": "Well, I'll be damned, Professor Lamberteint did send you! Beg your pardon, it seems we got off on the wrong foot."
+    },
+    {
+      "character": "Ceana",
+      "text": "I'm Ceana─greatest of the professor's pupils, which is doubtless why he bid you seek me out. Indeed, I am an accomplished scholar with an extensive background in─"
+    },
+    {
+      "character": "Ceana",
+      "text": "<yawn> Oh gods , just listen to me prattle on and on. I must have given this introduction a dozen times by now..."
+    }
+  ]
+}

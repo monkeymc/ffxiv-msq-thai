@@ -47,12 +47,17 @@ export const EXPANSIONS: Expansion[] = [
 ];
 
 /* ────────────────────────────────────────────────────────────
-   File system — community data lives at /content_community/
+   File system
+   GitLocalize Source : content_community/en/{exp}/{patch}/
+   GitLocalize Target : content_community/th/{exp}/{patch}/
 ───────────────────────────────────────────────────────────── */
 const ROOT = join(process.cwd(), '..');
 
-function communityDir(exp: Expansion) {
-  return join(ROOT, 'content_community', exp.id, exp.patch);
+function communityEnDir(exp: Expansion) {
+  return join(ROOT, 'content_community', 'en', exp.id, exp.patch);
+}
+function communityThDir(exp: Expansion) {
+  return join(ROOT, 'content_community', 'th', exp.id, exp.patch);
 }
 
 function readJson<T>(path: string): T | null {
@@ -60,45 +65,47 @@ function readJson<T>(path: string): T | null {
   return JSON.parse(readFileSync(path, 'utf-8')) as T;
 }
 
-interface CommunityDialogue {
-  character: string;
-  text_en: string;
-  text_th: string;
-  status: 'AI' | 'Community' | 'none';
-}
-
-interface CommunityQuest {
+// en/ schema — blueprint + English text
+interface EnQuest {
   id: string;
   wiki_path: string;
   wiki_image_url: string;
   patch: string;
-  title_en: string;
-  title_th: string;
-  title_status: 'AI' | 'Community' | 'none';
+  title: string;
   level: string;
   location: string;
   npc_start: string;
-  dialogues: CommunityDialogue[];
+  dialogues: { character: string; text: string }[];
+}
+
+// th/ schema — Thai translations + community review status
+interface ThQuest {
+  title: string;
+  title_status: 'AI' | 'Community' | 'none';
+  dialogues: { text: string; status: 'AI' | 'Community' | 'none' }[];
 }
 
 function loadQuest(exp: Expansion, filename: string): Quest {
-  const cq = readJson<CommunityQuest>(join(communityDir(exp), filename))!;
+  const en = readJson<EnQuest>(join(communityEnDir(exp), filename))!;
+  const th = readJson<ThQuest>(join(communityThDir(exp), filename));
 
-  const dialogues: Dialogue[] = cq.dialogues.map(d => ({
+  const dialogues: Dialogue[] = en.dialogues.map((d, i) => ({
     character: d.character,
-    text_en: d.text_en,
-    text_th: d.text_th,
-    status: d.status,
+    text_en: d.text,
+    text_th: th?.dialogues[i]?.text ?? '',
+    status: th?.dialogues[i]?.status ?? 'none',
   }));
+
+  const title_th = th?.title ?? '';
+  const title_status = th?.title_status ?? 'none';
 
   const total = dialogues.length;
   const communityCount = dialogues.filter(d => d.status === 'Community').length;
   const communityPct = total > 0 ? Math.round((communityCount / total) * 100) : 0;
 
-  const hasAnyTranslation = !!cq.title_th || dialogues.some(d => !!d.text_th);
+  const hasAnyTranslation = !!title_th || dialogues.some(d => !!d.text_th);
   const isFullyCommunity =
-    cq.title_status === 'Community' &&
-    (total === 0 || communityPct === 100);
+    title_status === 'Community' && (total === 0 || communityPct === 100);
   const source: Quest['source'] = isFullyCommunity
     ? 'contributor'
     : hasAnyTranslation
@@ -106,16 +113,16 @@ function loadQuest(exp: Expansion, filename: string): Quest {
     : 'none';
 
   return {
-    id: cq.id,
-    wiki_path: cq.wiki_path,
-    wiki_image_url: cq.wiki_image_url,
-    patch: cq.patch,
-    title_en: cq.title_en,
-    title_th: cq.title_th,
-    title_status: cq.title_status,
-    level: cq.level,
-    location: cq.location,
-    npc_start: cq.npc_start,
+    id: en.id,
+    wiki_path: en.wiki_path,
+    wiki_image_url: en.wiki_image_url,
+    patch: en.patch,
+    title_en: en.title,
+    title_th,
+    title_status,
+    level: en.level,
+    location: en.location,
+    npc_start: en.npc_start,
     dialogues,
     source,
     expansion: exp.id,
@@ -127,7 +134,7 @@ export function getAllQuests(expansionId: string = 'arr'): Quest[] {
   const exp = EXPANSIONS.find(e => e.id === expansionId);
   if (!exp || !exp.available) return [];
 
-  const dir = communityDir(exp);
+  const dir = communityEnDir(exp);
   if (!existsSync(dir)) return [];
 
   const files = readdirSync(dir).filter(f => f.endsWith('.json'));

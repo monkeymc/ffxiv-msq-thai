@@ -1,0 +1,184 @@
+{
+  "id": "casing-the-castrum",
+  "wiki_path": "/wiki/Casing_the_Castrum",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/d4/Casing_the_Castrum_Image.png",
+  "patch": "2.0",
+  "title": "Casing the Castrum",
+  "level": "44",
+  "location": "The Waking Sands(X:6.8,Y:6.1)",
+  "npc_start": "Y'shtola",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text": "The rescue of our allies will be no small undertaking, Forename ."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "Even under normal circumstances, breaching the defenses of an imperial castrum would be a highly dangerous proposition."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "But now that Castrum Centri houses prisoners whom the Garleans deem valuable, we may be confident that they have taken additional measures to ensure the stronghold's security."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "If we are to free our friends, we will require an effective strategy. And if we are to formulate an effective strategy, we will require intelligence."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "I believe I know a man who may be able to assist us in this: Lord Portelaine of House Durendaire. He is stationed at the Observatorium in Coerthas. Let us go to him, and beseech his aid."
+    },
+    {
+      "character": "Cid",
+      "text": "Gaius may have called it a weapon of ancient Allag, but I saw extensive magitek modifications..."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "An imperial castrum... 'Twas to be expected, I suppose."
+    },
+    {
+      "character": "Yda",
+      "text": "All right, let's do this! Let's go and rescue Minifilia and the others!"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "It is fortunate indeed that we were able to regroup here—I did not care much for my chances of surviving a foray into an imperial stronghold alone. But I am certain that together, we will find a way to rescue our fellow Scions."
+    },
+    {
+      "character": "Portelaine",
+      "text": "Ah, Forename ─the man / woman who unmasked the heretic in our midst! To what do I owe the pleasure of your company?"
+    },
+    {
+      "character": "Portelaine",
+      "text": "You are an associate of Y'shtola? But of course. Lord Drillemont confided to me that you were a Scion of the Seventh Dawn..."
+    },
+    {
+      "character": "Portelaine",
+      "text": "Castrum Centri? What interest have you all in the imperials?"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "They hold several of our number─whom we intend to free. Any information you can provide would be greatly appreciated."
+    },
+    {
+      "character": "Portelaine",
+      "text": "I see. That might explain our scouts' reports..."
+    },
+    {
+      "character": "Portelaine",
+      "text": "They observed four prisoners being led into the castrum: a Hyuran woman, an Elezen man, and two Lalafells─one male, one female."
+    },
+    {
+      "character": "Yda",
+      "text": "It's them! It has to be! Minfilia, Urianger, Papalymo, and Tataru!"
+    },
+    {
+      "character": "Portelaine",
+      "text": "If that scant morsel is of use to you, you may also be interested to hear about a more recent incident."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "Incident?"
+    },
+    {
+      "character": "Portelaine",
+      "text": "An imperial airship made an emergency landing here in Coerthas not long ago. Two men believed to be prisoners─a Roegadyn and a Lalafell─were seen fleeing the craft."
+    },
+    {
+      "character": "Cid",
+      "text": "What did you say?"
+    },
+    {
+      "character": "Portelaine",
+      "text": "A Roegadyn and a Lalafell, Master Garlond. Neither wore imperial dress, and both seemed disinclined to wait for rescue, hence our assumption that they were prisoners."
+    },
+    {
+      "character": "Cid",
+      "text": "Well, I'll be damned...it's Biggs and Wedge! Trust those two rascals to escape..."
+    },
+    {
+      "character": "Cid",
+      "text": "We must find them, Forename , and soon!"
+    },
+    {
+      "character": "Cid",
+      "text": "The imperials will not rest until they are captured or killed, and if Biggs were given the choice, I fear he'd take the latter."
+    },
+    {
+      "character": "Portelaine",
+      "text": "Freeing those held in Castrum Centri will require substantial planning and preparation. As such, it is an endeavor that will admit some slight delay."
+    },
+    {
+      "character": "Portelaine",
+      "text": "The matter of the escapees, by contrast, will not. Shortly after the prisoners vacated the airship, our scouts observed imperial troops setting off in pursuit. It is likely only a matter of time before they catch them."
+    },
+    {
+      "character": "Portelaine",
+      "text": "If you wish to see your comrades again, you had best act now."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "If, as has been suggested, the Garleans took our fellow Scions prisoner in hopes of understanding the Echo, it seems reasonable to assume that they will not be executed until such time as the study is complete."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "But Biggs and Wedge are not Scions, nor do they know aught of the Echo. As Lord Portelaine said, this may prove our only chance to rescue them. I say we seize it."
+    },
+    {
+      "character": "Cid",
+      "text": "Thank you, everyone! You won't regret this."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "Final preparations are almost complete, my lord."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "There stands the culmination of five long years of painstaking work. But all our efforts will be vindicated when the Emperor's vision becomes reality."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "At last, we have the power to purge this land of its false gods."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "We shall give the ignorant children of Eorzea the security and stability they so desperately crave─and which their spineless leaders have so palpably failed to provide."
+    },
+    {
+      "character": "Nero tol Scaeva",
+      "text": "As you say, my lord. Rest assured, our engineers will not rest until the weapon is fully armed and operational."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "Rhitahtyn. You depart for Castrum Occidens at midnight."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "You will command the western front in Vylbrand."
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "The Eorzeans will attempt to interfere with our plans. You will see that they do not."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text": "My lord, if this be your will, I shall carry it out to the best of my ability. I live only to serve the Empire."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text": "Yet...forgive my impudence, but is it proper to give command of half our forces to a─"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "I have given you nothing, Praefectus. You have earned it. That will be all. Dismissed."
+    },
+    {
+      "character": "Rhitahtyn sas Arvina",
+      "text": "Yes, my lord!"
+    },
+    {
+      "character": "Gaius van Baelsar",
+      "text": "...My quarters, one hour."
+    }
+  ]
+}

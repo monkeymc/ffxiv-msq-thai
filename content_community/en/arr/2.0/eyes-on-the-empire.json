@@ -1,0 +1,56 @@
+{
+  "id": "eyes-on-the-empire",
+  "wiki_path": "/wiki/Eyes_on_the_Empire",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Eyes on the Empire",
+  "level": "44",
+  "location": "Coerthas Central Highlands(X:24.8,Y:28.8)",
+  "npc_start": "Portelaine",
+  "dialogues": [
+    {
+      "character": "Portelaine",
+      "text": "My purpose here is to reconnoiter Garlean activity along Abalathia's Spine. Owing to this, I have the honor of being acquainted with Y'shtola."
+    },
+    {
+      "character": "Portelaine",
+      "text": "Now, the report of the imperial airship's emergency landing came to us by way of Dzemael Darkhold, situated to the west."
+    },
+    {
+      "character": "Portelaine",
+      "text": "Our man stationed at the entrance, a knight named Bricelt, may be able to tell you more. So as to expedite your mission, I shall furnish you with a letter of introduction."
+    },
+    {
+      "character": "Portelaine",
+      "text": "I pray that you will soon be reunited with your comrades. May the Fury grant you strength."
+    },
+    {
+      "character": "Bricelt",
+      "text": "You stand before Dzemael Darkhold, the subterranean fortress excavated by the great Ishgardian house of the same name. None but authorized personnel may enter."
+    },
+    {
+      "character": "Bricelt",
+      "text": "A letter from Lord Portelaine? ...So you have come about the imperial airship."
+    },
+    {
+      "character": "Bricelt",
+      "text": "According to our scouts, the vessel had scarce touched the ground when a pair of men─captives, by all accounts─burst forth and bolted. Imperial soldiers have since been sighted in the area, seeking to recapture them."
+    },
+    {
+      "character": "Bricelt",
+      "text": "What? The captives are like to be your friends, you say? Then let us pray that they are yet a step ahead of their pursuers..."
+    },
+    {
+      "character": "Bricelt",
+      "text": "The emergency landing reportedly took place near the Aurum Vale, situated south and west of here. I suggest you take your search there. Seek out a knight named Pierremons─he should be able to assist you."
+    },
+    {
+      "character": "Pierremons",
+      "text": "...The imperial airship? Aye, I saw it approach to land with mine own two eyes."
+    },
+    {
+      "character": "Pierremons",
+      "text": "I hastened to the landing site, arriving just in time to see the vessel take to the skies again, but not before it had deployed a detachment of troops. Gruff orders were being barked, and there was an air of consternation about them."
+    }
+  ]
+}

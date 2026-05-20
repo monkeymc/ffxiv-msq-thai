@@ -1,0 +1,112 @@
+{
+  "id": "never-forget",
+  "wiki_path": "/wiki/Never_Forget",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Never Forget",
+  "level": "23",
+  "location": "South Shroud(X:18.1,Y:19.8)",
+  "npc_start": "Buscarron",
+  "dialogues": [
+    {
+      "character": "Buscarron",
+      "text": "I appreciate all the good you've done for our patrons. If you aren't disinclined, I have a favor of my own to ask you."
+    },
+    {
+      "character": "Buscarron",
+      "text": "There's a Qiqirn friend of mine, you see─name of Teteroon . A good lad. It was right after the Calamity that I came across him fallen in the Shroud . He nearly died in all the havoc. So, I took him in and nursed him back to health best I could."
+    },
+    {
+      "character": "Buscarron",
+      "text": "He worked here at my Druthers for a spell after that. Got to talking about striking out on his own, he did, and not long after cast his lot with a merchant bound for La Noscea ."
+    },
+    {
+      "character": "Buscarron",
+      "text": "Well, it just so happens I got to cleaning up around here and came across something of his─this scarlet earring . I know he was fond of the thing, but he must have just forgotten it when he left. So, I'd like to see that it gets to him."
+    },
+    {
+      "character": "Buscarron",
+      "text": "Can't say for sure where he ended up, but might be a friend of mine can. A Roegadyn fellow named Baensyng . You can find him on Hawkers' Alley in Limsa Lominsa . He knows everything of the comings and goings of merchants there."
+    },
+    {
+      "character": "Baensyng",
+      "text": "Ye found yer way to 'Awkers' Alley, friend."
+    },
+    {
+      "character": "Baensyng",
+      "text": "...Hm? A Qiqirn what worked at the Druthers? Aye, ye speak of Teteroon."
+    },
+    {
+      "character": "Baensyng",
+      "text": "Related to that Kyokyoroon bloke just o'er there by some blood or another. Two of 'em put in together an' were makin' good coin. But ol' Teteroon up an' left Limsa not long ago. Couldn't say as to why or where."
+    },
+    {
+      "character": "Baensyng",
+      "text": "Yer better off askin' Kyokyoroon himself. He can be tight of lip, though, I warn ye. Best to take this chicken egg with ye. Li'l bastard loves the bloody things."
+    },
+    {
+      "character": "Baensyng",
+      "text": "Heh... Good to hear about ol' Busc, though. Sounds as though he ain't changed a bit. Just like him to send a 'venturer along. Too shy to come his own self. Gods, I miss drinkin' with that fool."
+    },
+    {
+      "character": "Kyokyoroon",
+      "text": "Customer, be welcome! Not customer? Not come with custom? Kyokyoroon busy with business. Too busy for blather."
+    },
+    {
+      "character": "Kyokyoroon",
+      "text": "Chicken egg! Kyokyoroon love chicken egg! Love chicken egg more than love customer!"
+    },
+    {
+      "character": "Kyokyoroon",
+      "text": "Looking for Teteroon? Teteroon no here no more. Teteroon leave Limsa. Teteroon go look for sparklies."
+    },
+    {
+      "character": "Kyokyoroon",
+      "text": "Now working at trading post . Good trading post. Forget where trading post is."
+    },
+    {
+      "character": "Kyokyoroon",
+      "text": "Wineburg know Teteroon. Wineburg know trading post. Wineburg at ferry docks . You go to ferry docks."
+    },
+    {
+      "character": "Kyokyoroon",
+      "text": "Kyokyoroon forget things. Wineburg remember things. You talk to Wineburg, not Kyokyoroon."
+    },
+    {
+      "character": "Wineburg",
+      "text": "Teteroon? Aye, I seen him. That is to say, I saw him."
+    },
+    {
+      "character": "Wineburg",
+      "text": "He was headed somewhere up north, by way of the ferry to Aleport . Might as well head there and see what ye can suss out. The skipper here can take you there."
+    },
+    {
+      "character": "Wineburg",
+      "text": "When ye arrive, I'd start by askin' Ahldfoet . He's an old hand what knows a great deal about a great many things."
+    },
+    {
+      "character": "Ahldfoet",
+      "text": "Teteroon? Aye, I saw him. That is to say, I seen him."
+    },
+    {
+      "character": "Ahldfoet",
+      "text": "He took himself north, through Skull Valley , into Oakwood . Was lookin' for a place run by his fellow Qiqirn."
+    },
+    {
+      "character": "Ahldfoet",
+      "text": "I reckon he meant the one right on the shore of Bronze Lake ─ Memeroon's Trading Post . Follow the road and yer sure to find it."
+    },
+    {
+      "character": "Teteroon",
+      "text": "Customer, be welcome! Not customer? Not come with custom? Bring something for Teteroon?"
+    },
+    {
+      "character": "Teteroon",
+      "text": "Teteroon forget this! Forget at Druthers. Teteroon swore would never forget earring...but never forget forgot. Teteroon thank! Teteroon thank!"
+    },
+    {
+      "character": "Teteroon",
+      "text": "Good Buscaroon doing good? Good Buscaroon good to Teteroon. Teteroon miss good Buscaroon... <sigh>"
+    }
+  ]
+}

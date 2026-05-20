@@ -1,0 +1,60 @@
+{
+  "id": "a-modest-proposal",
+  "wiki_path": "/wiki/A_Modest_Proposal",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "A Modest Proposal",
+  "level": "30",
+  "location": "Eastern La Noscea(X:32.6,Y:30.5)",
+  "npc_start": "Wheiskaet",
+  "dialogues": [
+    {
+      "character": "Wheiskaet",
+      "text": "Two highly distinguished individuals are scheduled to visit Costa del Sol in the near future, and Master Gegeruju wishes to welcome them with an elaborate banquet."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "But while money is no object, not everything Master Gegeruju desires can be so easily purchased."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "It is to be an extremely exotic feast. And so, Forename , your mission is to seek out and obtain the rare ingredients our chef requires."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "Naturally, such fine dining must be accompanied with a suitable wine. And by “suitable,” I mean “the very best there is.” That, however, can wait for the time being, as I believe you have enough on your plate as it is."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "It will be a long and arduous journey, but you need not toil alone. Many of the mercenaries who once served under my command still live, and they will guide you in your quest. For the first ingredient, I would have you travel to the South Shroud and speak with Landenel at Camp Tranquil."
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "...What? Do you mean to tell me that you cannot afford to waste time, as your associate did?"
+    },
+    {
+      "character": "Wheiskaet",
+      "text": "Adventurer, if you have not the endurance to complete this mission, how do you expect me to believe you can outlast the Lord of Crags? Either do it or don't─I have work to do."
+    },
+    {
+      "character": "Landenel",
+      "text": "Do you require assistance, adventurer?"
+    },
+    {
+      "character": "Landenel",
+      "text": "...So this is the one who would challenge Titan. I've been expecting you, Forename ."
+    },
+    {
+      "character": "Landenel",
+      "text": "The ingredient you seek is the egg of a giant adamantoise."
+    },
+    {
+      "character": "Landenel",
+      "text": "The method of acquisition should be obvious─you steal it from the beast's nest, of course. Simple in theory, but difficult in execution. Most who try die in the attempt."
+    },
+    {
+      "character": "Landenel",
+      "text": "Will I help you get it? Hah, you amuse me. I will not jeopardize my position by openly assisting you. From me you will receive only information. What you do with it is your choice."
+    }
+  ]
+}

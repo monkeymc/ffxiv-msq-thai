@@ -1,0 +1,72 @@
+{
+  "id": "dread-is-in-the-air",
+  "wiki_path": "/wiki/Dread_Is_in_the_Air",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Dread Is in the Air",
+  "level": "14",
+  "location": "Central Shroud(X:20.2,Y:21.6)",
+  "npc_start": "Luquelot",
+  "dialogues": [
+    {
+      "character": "Luquelot",
+      "text": "My thanks for your kindness earlier. I hate to impose again, but I have need of your assistance in another matter─one of grave import, I fear."
+    },
+    {
+      "character": "Luquelot",
+      "text": "Of late, I have noticed that Ixali dirigibles have been appearing over the Twelveswood with increasing regularity. The frequency, however, does not bother me near so much as where they choose to fly─the patch of sky directly above the Guardian Tree."
+    },
+    {
+      "character": "Luquelot",
+      "text": "The tree is a sacred site, or so I was given to believe when first I came to Gridania, and thus I naturally assumed that the elementals would not suffer the Ixal to profane it. Yet the birdmen have been coming and going as they please, with nary a sign of protest from the guardians of the Twelveswood."
+    },
+    {
+      "character": "Luquelot",
+      "text": "And it was that which set me to thinking... Ever since the appearance of the much-talked-about “suspicious individual,” many and more strange things have been occurring in the forest. Could it be that he did something to the elementals?"
+    },
+    {
+      "character": "Luquelot",
+      "text": "In case it proved useful, I have committed the details of my sightings to parchment, and would ask that you deliver the document to Mother Miounne."
+    },
+    {
+      "character": "Luquelot",
+      "text": "Please make all haste─I have an irrepressible feeling that something terrible is about to happen."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Hello there, Forename . Word of your tireless efforts at Bentbranch Meadows has reached my ears. The folk there have naught but the highest praise for you!"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "You certainly have a knack for making Mother proud."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Keep up the good work, you hear?"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Hm? A letter...from Luquelot?"
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "I haven't the slightest inkling what this could be about..."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Gods be good..."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "I have a mission for you, Forename . Suffice it to say, it is urgent."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "I fear it may also prove dangerous, however, so you must be prepared."
+    },
+    {
+      "character": "Mother Miounne",
+      "text": "Make what arrangements you can, and report back to me the moment you are ready."
+    }
+  ]
+}

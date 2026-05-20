@@ -1,0 +1,11 @@
+{
+  "id": "a-final-ignominy",
+  "wiki_path": "/wiki/A_Final_Ignominy",
+  "wiki_image_url": "",
+  "patch": "2.0",
+  "title": "A Final Ignominy",
+  "level": "33",
+  "location": "Eastern La Noscea(X:32,Y:30)",
+  "npc_start": "Wheiskaet",
+  "dialogues": []
+}

@@ -1,0 +1,104 @@
+{
+  "id": "blood-for-blood",
+  "wiki_path": "/wiki/Blood_for_Blood",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Blood for Blood",
+  "level": "40",
+  "location": "Coerthas Central Highlands(X:12.7,Y:16.5)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text": "Since Lord Drillemont has already been turned against us, I fear that this encyclical alone will not serve to convince him of our claims."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "But what might persuade a man so quick to disregard the endorsements of two High Houses?"
+    },
+    {
+      "character": "Alphinaud",
+      "text": "The cook did say that the lord listens to and respects the opinions of his knights. If a certain knight were to provide testimony that supports our claim..."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "Yes, mayhap that is the only way left to us. Confront Ser Joellaut with the evidence you discovered and see if it helps him to recall the truth of that night."
+    },
+    {
+      "character": "Alphinaud",
+      "text": "As a man of faith, he may find it difficult to cope with such a horrifying revelation. Nevertheless, we must do everything within our power to secure the Enterprise ."
+    },
+    {
+      "character": "Joellaut",
+      "text": "Oh, you have returned. Is there something else you wanted to ask?"
+    },
+    {
+      "character": "Joellaut",
+      "text": "The inquisitor is an impostor? Don't be preposterous, that could not possibly be true!"
+    },
+    {
+      "character": "Joellaut",
+      "text": "He is a paragon of virtue, a dedicated servant of the Fury! You would have me believe that is all a lie!?"
+    },
+    {
+      "character": "Joellaut",
+      "text": "If you are so certain that your ludicrous story is true, then go and speak with Ser Prunilla! She was at the eastern gate that night, and she helped the inquisitor carry me here. But I will never speak against the man who saved my life!"
+    },
+    {
+      "character": "Prunilla",
+      "text": "You ! I...I do not believe I know you, sir / madam . Pray move along and trouble me no more."
+    },
+    {
+      "character": "Prunilla",
+      "text": "Are you in the habit of handing bloody documents to strangers? Why would you show me such a dreadful thing? I know naught of it, naught at all!"
+    },
+    {
+      "character": "Prunilla",
+      "text": "...What? Do you doubt my words? Away with you─I will suffer your slander no more."
+    },
+    {
+      "character": "Prunilla",
+      "text": "You know , don't you? Fury take me, I prayed this day would come..."
+    },
+    {
+      "character": "Prunilla",
+      "text": "When Ser Joellaut gave chase, I followed close behind. He didn't fall─one of those Dravanian abominations lashed out at him, nearly killed him right then and there. I drew my sword and rushed to his side, straining to see the enemy. But what came from the dark was not a beast, but a voice."
+    },
+    {
+      "character": "Prunilla",
+      "text": "He...he knew things about me, about my family. Secrets I had never told another. He said that if I kept his confidence, Ser Joellaut and I would be spared. But, if I defied him...everyone I loved would suffer unimaginable horrors before they died."
+    },
+    {
+      "character": "Prunilla",
+      "text": "When at last I agreed to his terms, the man came forward. His robes marked him as an inquisitor, but I knew him to be false. Together, we carried Ser Joellaut to the infirmary, and on his first night in Whitebrim Front “Inquisitor Guillaime” was heralded as a hero..."
+    },
+    {
+      "character": "Prunilla",
+      "text": "Soon after came the accusations─countless men and women of good moral standing, seized whilst in possession of draconian rosaries. As I feared, he was condemning the innocent to death. I wanted to confess to Lord Drillemont, wanted to put an end to the madness─but then I would remember the inquisitor's threats. And so I did nothing...until Lord Francel was accused."
+    },
+    {
+      "character": "Prunilla",
+      "text": "Some time ago, I followed the inquisitor and found that he kept draconian rosaries in a chest hidden southeast of Whitebrim Front. So, I took several from his chest and planted them in shipments bound for Skyfire Locks. As I hoped, they were discovered and considered evidence of a conspiracy against House Haillenarte, thus exonerating Lord Francel and casting doubt on the other recent trials. And that is the entire truth, I swear. Halone forgive me for not acting sooner..."
+    },
+    {
+      "character": "Prunilla",
+      "text": "Do not make me say it aloud again, I beg of you. Even now he could be watching, listening to every word. It may already be too late for us..."
+    },
+    {
+      "character": "Drillemont",
+      "text": "Why do you persist in this folly? I will not grant you three access to the Stone Vigil. Do not make me repeat myself."
+    },
+    {
+      "character": "Drillemont",
+      "text": "There had better be a very good explanation for why you were carrying these rosaries. And where did you find this papal encyclical?"
+    },
+    {
+      "character": "Drillemont",
+      "text": "Fury take me, the inquisitor is a heretic !? Never before have I heard such an unbelievable tale...but this evidence and your testimony could have no other explanation..."
+    },
+    {
+      "character": "Drillemont",
+      "text": "I have misjudged you and your friends, Forename , and for that I deeply apologize. I will permit you to enter the outpost─but first, I must needs beg your assistance. Help me and my knights bring this infernal impostor to justice!"
+    }
+  ]
+}

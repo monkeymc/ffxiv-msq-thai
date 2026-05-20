@@ -1,0 +1,240 @@
+{
+  "id": "oh-captain-my-captain",
+  "wiki_path": "/wiki/Oh_Captain,_My_Captain",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/6/67/Oh_Captain%2C_My_Captain_Image.png",
+  "patch": "2.0",
+  "title": "Oh Captain, My Captain",
+  "level": "14",
+  "location": "Western Thanalan(X:14.9,Y:18.9)",
+  "npc_start": "Merilda",
+  "dialogues": [
+    {
+      "character": "Olyver",
+      "text": "I ain't afraid o' no bleedin' bandits! If I could just get my hands on a good blade, I'd get rid of 'em myself, I would!"
+    },
+    {
+      "character": "Merilda",
+      "text": "You are an adventurer, are you not? I know this is sudden, but I have no one else to turn to."
+    },
+    {
+      "character": "Merilda",
+      "text": "Last night, a gang of bandits from the Quiveron Manse were in their cups, and I overheard them discussing their plans..."
+    },
+    {
+      "character": "Merilda",
+      "text": "It seems they've come to collect gemstones stolen from Copperbell Mines. Nashachite, I think I heard one say. They are to meet with their co-conspirator soon, at the Footfalls─"
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Wh-Wh-What did you say!?"
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Illicit exchanges and shadowy dealings! The Brass Blades cannot abide such malfeasance!"
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Forgive my eavesdropping, Forename ─I came to Crescent Cove merely to thank you in person."
+    },
+    {
+      "character": "Fufulupa",
+      "text": "I never imagined I'd uncover a criminal conspiracy right outside Horizon's gates!"
+    },
+    {
+      "character": "Fufulupa",
+      "text": "We must act quickly if we are to apprehend these thieves! I will notify Captain Baldewyn at once!"
+    },
+    {
+      "character": "Merilda",
+      "text": "No, wait! You mustn't! Oh, gods..."
+    },
+    {
+      "character": "Merilda",
+      "text": "You must stop him before it's too late! Captain Baldewyn himself is working with the bandits!"
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Captain Baldewyn, sir! I've discovered something shocking, something horrible!"
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Someone has been stealing gemstones from Copperbell Mines and─"
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Wait, those gauntlets, those boots─why, you're one of Quiveron's men! Sir, that man is a thief and a scoundrel!"
+    },
+    {
+      "character": "Baldewyn",
+      "text": "...And? What of it? His coin's good, and that's what counts."
+    },
+    {
+      "character": "Fufulupa",
+      "text": "What!? Captain Baldewyn...are you working with these men!? It cannot be..."
+    },
+    {
+      "character": "Baldewyn",
+      "text": "I told you to stay in Horizon, Fufulupa. It didn't have to be like this..."
+    },
+    {
+      "character": "Baldewyn",
+      "text": "They'd get their Nashachite, I'd get my gil, and none would be the wiser."
+    },
+    {
+      "character": "Fufulupa",
+      "text": "B-B-But, sir, what if your crimes are uncovered!? What if Lord Lolorito finds out!?"
+    },
+    {
+      "character": "Baldewyn",
+      "text": "You godsdamned fool, don't you see!?"
+    },
+    {
+      "character": "Baldewyn",
+      "text": "I am acting under the authority of Lord Lolorito himself!"
+    },
+    {
+      "character": "Fufulupa",
+      "text": "No... No! That can't be true..."
+    },
+    {
+      "character": "Baldewyn",
+      "text": "Why do you think people join the Brass Blades, Fufulupa? To serve and protect? Hah!"
+    },
+    {
+      "character": "Baldewyn",
+      "text": "We're not the bloody Flames here! We do this for the coin!"
+    },
+    {
+      "character": "Ser Baron von Quiveron IV Esquire",
+      "text": "You there, adventurer! Do you remember me? Well, I remember you!"
+    },
+    {
+      "character": "Ser Baron von Quiveron IV Esquire",
+      "text": "I am Ser Baron von Quiveron IV Esquire! You killed my brother, and now I'm going to return the favor!"
+    },
+    {
+      "character": "Baldewyn",
+      "text": "Well, that settles it! It's clearly in everyone's best interests that both of you die!"
+    },
+    {
+      "character": "Baldewyn Four Yalms",
+      "text": "It's time to do your duty, Fufulupa! Time to die for your country!"
+    },
+    {
+      "character": "Fufulupa the Unbending",
+      "text": "Why, Captain, why!? I trusted you!"
+    },
+    {
+      "character": "Baldewyn Four Yalms",
+      "text": "Heh, you're stronger than I thought!"
+    },
+    {
+      "character": "Baldewyn Four Yalms",
+      "text": "Damn you both, you're ruining everything!"
+    },
+    {
+      "character": "Fufulupa the Unbending",
+      "text": "Ware his spear, Forename !"
+    },
+    {
+      "character": "Leofric",
+      "text": "That's enough, Baldewyn!"
+    },
+    {
+      "character": "Leofric",
+      "text": "Your partner is dead and your plans are undone. You've no reason left to fight."
+    },
+    {
+      "character": "Baldewyn",
+      "text": "Stay out of this, Leofric! I don't take orders from you!"
+    },
+    {
+      "character": "Baldewyn",
+      "text": "I may have spared your life before, but if you interfere, I will not show you mercy!"
+    },
+    {
+      "character": "Leofric",
+      "text": "And what mercy will he show you, I wonder? You who have done so much in another man's name."
+    },
+    {
+      "character": "Baldewyn",
+      "text": "What are you blathering on about!?"
+    },
+    {
+      "character": "Leofric",
+      "text": "Every fisherman in Crescent Cove knew about your meeting, you arrogant fool. Quiveron's men couldn't keep their mouths shut."
+    },
+    {
+      "character": "Leofric",
+      "text": "Imagine Lord Lolorito's surprise when he learned that a rank-and-file Brass Blade was using his name to advance a personal agenda..."
+    },
+    {
+      "character": "Baldewyn",
+      "text": "He knows!? Seven hells! But I'm a captain, he wouldn't─"
+    },
+    {
+      "character": "Leofric",
+      "text": "I was once a captain too, remember? And we both know what happened to me."
+    },
+    {
+      "character": "Leofric",
+      "text": "Well fought, boy. You've done the Brass Blades of the Rose proud."
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Captain Leofric! Captain Baldewyn, he...he said that Lord Lolorito─"
+    },
+    {
+      "character": "Leofric",
+      "text": "Lord Lolorito wouldn't waste his time on a small-scale smuggling operation. This is all Baldewyn's doing."
+    },
+    {
+      "character": "Leofric",
+      "text": "What else did he say? That all our brethren are no better, and that each and every one cares for naught but coin? Hah! Mere excuses to justify his schemes."
+    },
+    {
+      "character": "Leofric",
+      "text": "Aye, we've no shortage of greedy sods, some who'd probably sell their own mothers into slavery if the price was right."
+    },
+    {
+      "character": "Leofric",
+      "text": "But there are men like you, Fufulupa─men good and true, whom the smallfolk respect."
+    },
+    {
+      "character": "Leofric",
+      "text": "Which is why I gave you the dagger. The Brass Blades of the Rose need a leader with honor, and you're the most honorable man I know."
+    },
+    {
+      "character": "Fufulupa",
+      "text": "<sniffle> <sob> Captaaaaaain!"
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Thank you for all your help, Forename ! The captain and I will escort Captain Baldewyn back to Horizon."
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Pray visit me in town when next you return!"
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Welcome back, Forename ! So much has happened!"
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Captain─ahem, Baldewyn has been arrested and stripped of rank, which means the Brass Blades of the Rose no longer have a captain."
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Until a new one is designated, I've been ordered to serve as acting captain of the Horizon garrison."
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Though doubtless this is only a temporary arrangement, I will do my utmost to represent my brethren and protect the people of Horizon!"
+    },
+    {
+      "character": "Fufulupa",
+      "text": "Thank you, Forename , for your service to the sultanate. You are a true hero!"
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "id": "feint-and-strike",
+  "wiki_path": "/wiki/Feint_and_Strike",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/d7/Feint_and_Strike_Image.png",
+  "patch": "2.0",
+  "title": "Feint and Strike",
+  "level": "14",
+  "location": "Limsa Lominsa Upper Decks(X:11.6,Y:11.1)",
+  "npc_start": "Baderon",
+  "dialogues": [
+    {
+      "character": "Baderon",
+      "text": "Good to 'ave ye aboard, lad / lass . Now then...where to start?"
+    },
+    {
+      "character": "Baderon",
+      "text": "Back when I was younger an' nastier, I earned me livin' as a sellsword. In that business, if ye wanted to know what yer enemy was up to, you 'ad to learn to read the orders ye prised from the cold dead 'ands of 'is mates. That's 'ow I came to know 'ow to read yer message."
+    },
+    {
+      "character": "Baderon",
+      "text": "Truth be told, the script was only too bloody familiar. Them's Sahagin letters, lad / lass . An' I should know─I've gutted more fishback messengers than I can count."
+    },
+    {
+      "character": "Baderon",
+      "text": "It gets worse, though... The plan to blow up the Victory is all in 'ere, right down to the fine details. Looks like they meant to raise eight kinds of 'ell in western La Noscea, then 'it the Maelstrom's new flagship in the confusion."
+    },
+    {
+      "character": "Baderon",
+      "text": "The point bein', the attack on the Victory weren't the act of a few rebellious pirates─'twas a key part o' some canny bastard's grand plan."
+    },
+    {
+      "character": "Baderon",
+      "text": "But if I'm readin' this aright, the attack itself came much too early. I'll wager they panicked when they saw ye was on to 'em, rushed in to do the job, an' buggered it up."
+    },
+    {
+      "character": "Baderon",
+      "text": "Hmmm... Them tattoo-faced bastards as they say was payin' Ahtbyrm's old man, they're with the Serpent Reavers, right? ...But none o' their crew was there, was they? Did they 'ave summat better to do, or what?"
+    },
+    {
+      "character": "Baderon",
+      "text": "...Seven 'ells! I've got it all backwards! That mess at the Victory ─that was meant to be the bloody distraction!"
+    },
+    {
+      "character": "Baderon",
+      "text": "The fishbacks ain't interested in the Maelstrom's baby! They're after men, just like they've always been. They're sendin' their pirate lackeys after a civilian target."
+    },
+    {
+      "character": "Baderon",
+      "text": "This bit about raisin' 'ell in western La Noscea...that's where it'll be. Summat tells me Swiftperch is about to get 'it, an' 'it 'ard!"
+    },
+    {
+      "character": "Baderon",
+      "text": "'Ere's a rough translation o' the message."
+    },
+    {
+      "character": "Baderon",
+      "text": "Take it to Commodore Reyner at the Coral Tower, an' tell 'im 'e's in fer a busy day."
+    },
+    {
+      "character": "Baderon",
+      "text": "Oh, an' give 'im an 'and, eh? Ye can be damn sure 'e'll need one."
+    },
+    {
+      "character": "Reyner",
+      "text": "Yes, I am Reyner. Ah, you must be the adventurer whose name seems to be on everyone's lips."
+    },
+    {
+      "character": "Reyner",
+      "text": "You are to be commended for your part in thwarting the plot to destroy the Victory . Now, what can I do for you this day?"
+    },
+    {
+      "character": "Reyner",
+      "text": "You bear an urgent message from Baderon? Why do I get the feeling that my hopes for a quiet morning / afternoon / evening are about to be cruelly dashed? Tell me, what is afoot?"
+    },
+    {
+      "character": "Reyner",
+      "text": "An assault on Swiftperch!? But we've seen nothing to suggest the Serpent Reavers are massing for an attack."
+    },
+    {
+      "character": "Reyner",
+      "text": "Even so, it would be foolish to discount the possibility─Baderon is rarely wrong about such matters."
+    },
+    {
+      "character": "Reyner",
+      "text": "I will marshal the Yellowjackets for battle immediately."
+    },
+    {
+      "character": "Reyner",
+      "text": "The only question is where to send them. While I concur with Baderon's assessment that the attack on the Drydocks was intended as a diversion, Swiftperch is but one of several possible targets for the main thrust."
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "Commodore, sir!"
+    },
+    {
+      "character": "Reyner",
+      "text": "Report."
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "It's the Sahagin, sir! They've mounted a large-scale assault on South Tidegate, and threaten to overwhelm our defenses within the day. The garrison requests immediate reinforcements."
+    },
+    {
+      "character": "Reyner",
+      "text": "By the Navigator... It seems my decision has been made for me."
+    },
+    {
+      "character": "Reyner",
+      "text": "Muster the troops and give the order to march."
+    },
+    {
+      "character": "Reyner",
+      "text": "Aye, the Serpent Reavers are in league with the Sahagin."
+    },
+    {
+      "character": "Reyner",
+      "text": "...Which means there is every chance this assault on Tidegate may yet prove to be another feint. The fact remains, however, that we can ill afford to ignore it. And that leaves Swiftperch vulnerable to those pirate traitors."
+    },
+    {
+      "character": "Reyner",
+      "text": "It is at times such as these that I wish the Warriors of Light yet walked among us. But wishes will avail us naught. Surname , you must serve in their absence. Make for Swiftperch with all haste and lend your strength to the squads I can spare for the settlement's defense."
+    },
+    {
+      "character": "Glazrael",
+      "text": "Feint after bloody feint! Those pirates are getting too damn clever by half!"
+    },
+    {
+      "character": "Yellowjacket A",
+      "text": "You've come to aid with the defense? Then well met, and well come!"
+    },
+    {
+      "character": "Yellowjacket B",
+      "text": "Come on, you gutless bastards! Let's see how you fare against trained soldiers!"
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "Commodore Reyner sent word we'd be getting reinforcements, but I didn't expect him to send you! You certainly look like you've seen your share of action, though─you bear little resemblance to the wide-eyed whelp I met fresh off the ferry."
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "In any case, do you know what you're fighting for here? This place─Swiftperch─it was rebuilt by folk who stood strong in the face of every hardship the Calamity threw their way."
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "And we're not about to let some fish-fancying scum claim the honor of being the ones who finally broke their spirits. Don't give those pirate bastards one bloody ilm, you hear me?"
+    },
+    {
+      "character": "Glazrael",
+      "text": "Here they come!"
+    },
+    {
+      "character": "Serpent Reaver Deckhand",
+      "text": "'Ere now, I thought all them Yellowjacket worms was meant to be busy. That useless scrag ain't followed the plan, 'as 'e?"
+    },
+    {
+      "character": "Serpent Reaver Deckhand",
+      "text": "Now what? Pull back and wait for our Sahagin brothers?"
+    },
+    {
+      "character": "Baenryss",
+      "text": "Piss on that! We ain't turnin' back empty-handed!"
+    },
+    {
+      "character": "Baenryss",
+      "text": "Remember, no killin' the smallfolk, or it'll be your blood what stains Lord Leviathan's altars!"
+    },
+    {
+      "character": "Baenryss",
+      "text": "The Yellowbellies ye can butcher at will! Them dirt-eatin' slugs'll be crushed under the full might o' the Serpent Reavers!"
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "Seems Swiftperch was the main target after all, eh?"
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "Squads One and Two, protect the townsfolk! Squad Three, you're our rear guard!"
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "The rest of you─we meet their charge where we stand! Let us bear the commodore word of our victory, or no word at all!"
+    },
+    {
+      "character": "Yellowjacket Infantry",
+      "text": "For Limsa Lominsa!"
+    },
+    {
+      "character": "Baenryss",
+      "text": "Rargh! I'll gut all you Yellowbellies an' dance on yer gizzards!"
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "Leave no pirate scum standing! Show 'em how a Yellowjacket fights!"
+    },
+    {
+      "character": "Glazrael Saltwind",
+      "text": "Bwahaha! Time to split some heads, adventurer! Let's start with the frontline fodder!"
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "More of the bastards!? Come on, then!"
+    },
+    {
+      "character": "Baenryss of the Deep",
+      "text": "All right, ye scurvy bastards... Here's a trick to make ye soil yer breeches!"
+    },
+    {
+      "character": "Glazrael Saltwind",
+      "text": "Keep on pummeling him! He can't take much more of this!"
+    },
+    {
+      "character": "Baenryss of the Deep",
+      "text": "Dweller o' the Abyss, yer master calls! Heed me words an' smite me foes!"
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "Is that a bloody voidsent !? Hold steady, lads!"
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "Damn..."
+    },
+    {
+      "character": "Glazrael Saltwind",
+      "text": "Least I went down fighting.."
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "So cold..."
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "I'm done for..."
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "Well fought─the Reavers are beaten and scattered."
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "I'll take some men and hunt down the stragglers. Oh, but there may be more of them lurking about, so don't let your guard down just yet."
+    },
+    {
+      "character": "Masked Mage",
+      "text": "The source of his / her strength becomes clear..."
+    },
+    {
+      "character": "Masked Mage",
+      "text": "You may have bested the golem, but you will not fare so well this day."
+    },
+    {
+      "character": "Masked Mage",
+      "text": "O mournful voice of creation! Send unto me a creature of the abyss, my thrall to command, that I may smite mine enemies!"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "Your very being imperils the plan. You cannot be suffered to live."
+    },
+    {
+      "character": "Masked Mage",
+      "text": "Soon, you shall take your vile gifts to the grave!"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "Whence springs this preternatural might!?"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "Mwahahaha! Writhe as the venom eats its way through your veins!"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "A fearsome opponent...against whom you shall not stand alone!"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "An unwelcome guest. No matter, all shall fall before me!"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "No mortal should possess such strength!"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "His power wanes! Afford him no chance to recover!"
+    },
+    {
+      "character": "Masked Mage",
+      "text": "Unnngh... That the wisdom of the Paragons should be brought low...by mere mortals..."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "\"Paragons,\" did he say? Then it is as I feared."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "They are known as the Bringers of Chaos...or Ascians , to give them their proper name."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "It would seem our suspicions were correct─it is they who have been manipulating the beast tribes."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "Pardon? You would know if we Sharlayans have encountered Ascians before?"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "...I have never spoken to you of my homeland. How did you know whence I hail?"
+    },
+    {
+      "character": "Y'shtola",
+      "text": "Wait. I do begin to see. You have been blessed with a special gift."
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "Are you all right, lad!? If I'd known a mean bugger like that was hiding in the bushes, I would've left a squad or six to keep you company."
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "Well, at least now we can call this kidnapping investigation to a close. Those Reavers were the ones spiriting folk away in the dead of night, and this bastard here was pulling all the strings."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "A trifle simplistic, but not inaccurate."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "I came as soon as I sensed his presence, but I never thought to find such a scene of carnage. Yet we prevailed. And thanks to your heroic actions, I have learned much."
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "Aye, \"heroic\" is the word. I don't want to think about what would've happened if you hadn't been here, friend."
+    },
+    {
+      "character": "Ryssfloh",
+      "text": "And your assistance is much appreciated, too, Lady Y'shtola. Please give our regards to the Scions."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "I am glad to have played a role in bringing what I hope is an end to this disturbing spate of abductions."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "The thread of your fate forms a part of a most intriguing tapestry. Mayhap we will be afforded the chance to speak more in the near future."
+    },
+    {
+      "character": "Y'shtola",
+      "text": "For now, however, you must see this particular tale to its conclusion. Pray send my greetings to Commodore Reyner."
+    },
+    {
+      "character": "Reyner",
+      "text": "Surname , eagerly have I awaited your return!"
+    },
+    {
+      "character": "Reyner",
+      "text": "Word of your exploits is already spreading through the ranks. My troops and I owe you a great debt of gratitude for your timely assistance."
+    },
+    {
+      "character": "Reyner",
+      "text": "You have shown yourself to be possessed of a sure arm, a strong spirit, and sound judgment. Would that Limsa Lominsa had more of your like."
+    },
+    {
+      "character": "Reyner",
+      "text": "I have little doubt that you shall one day join the ranks of Eorzea's greatest adventurers. It is but a matter of time."
+    },
+    {
+      "character": "Reyner",
+      "text": "Clearly, Baderon's eye for potential remains as sharp as ever, though I doubt even he imagined you capable of such feats."
+    },
+    {
+      "character": "Reyner",
+      "text": "Might you favor me with your own account of the day's events? Such victories bear retelling!"
+    },
+    {
+      "character": "Reyner",
+      "text": "Y'shtola has been working with us for quite some time, you see."
+    },
+    {
+      "character": "Reyner",
+      "text": "And she was only too willing to assist the Yellowjackets in the kidnapping investigation, proving herself a stalwart ally of Limsa Lominsa yet again."
+    },
+    {
+      "character": "Reyner",
+      "text": "Needless to say, after your part in thwarting the attempted sabotage of the Victory , and the small matter of your deeds at Swiftperch, you too have proven yourself a valued friend of the thalassocracy."
+    },
+    {
+      "character": "Yellowjacket",
+      "text": "Admiral!"
+    },
+    {
+      "character": "Reyner",
+      "text": "May I present to you Admiral Bloefhiswyn."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "So this is the adventurer I've been reading about in the field reports."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "You seem familiar. Have we met? Mayhap at a medal presentation or some such?"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "No? Have you kin in the Maelstrom?"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "I'll be sworn I─ But it is of little matter. To business."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "I am Merlwyb Bloefhiswyn, Admiral of Limsa Lominsa."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "On behalf of my people, I bid you thanks for the deeds you have done this day."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "A token of our gratitude. What worth is high regard without just reward, after all? Ha!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Since you first set foot in our city, my good friend Baderon and Commodore Reyner have taken turns of regaling me with tales of your exploits."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Safe to say, they left an impression. Join me at the coming banquet."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "A seat of honor at the celebratory feast is the least I can offer the man who foiled the Sahagin."
+    },
+    {
+      "character": "Yellowjacket A",
+      "text": "Oho!"
+    },
+    {
+      "character": "Yellowjacket B",
+      "text": "A seat at the feast!"
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Oh, and don't be late."
+    },
+    {
+      "character": "Merlwyb",
+      "text": "Your fellow guests will be eager to take the measure of their newest hero, and some do not take kindly to being kept waiting. Till then, may you walk in the light of the Crystal."
+    }
+  ]
+}

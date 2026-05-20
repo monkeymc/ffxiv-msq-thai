@@ -1,0 +1,44 @@
+{
+  "id": "battle-scars",
+  "wiki_path": "/wiki/Battle_Scars",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Battle Scars",
+  "level": "33",
+  "location": "Eastern La Noscea(X:14.0,Y:30.3)",
+  "npc_start": "Drest",
+  "dialogues": [
+    {
+      "character": "Drest",
+      "text": "I...I wish to thank Shamani for the wine. That...that was overly kind... Would you be willing to bear a gift back to him?"
+    },
+    {
+      "character": "Drest",
+      "text": "Last night / Earlier today at Red Mantis Falls, I collected the sap from nearby palm trees. If...if placed in coconut shells and stored for a few bells' time, it...it makes for a fine wine, see... It should be ready by now."
+    },
+    {
+      "character": "Drest",
+      "text": "I left three shells out there. Please, take them to Shamani for me. I'm...I'm glad he's moved on with his life. I hope to one day do the same..."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "It has been some time, Forename . What news do you have of Drest?"
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "<sniff> <sniff> Ah, yes, I recall he did have some knowledge of winemaking. A simplistic but nevertheless effective method that utilizes the natural properties of palm sap. I shall have to enjoy this batch before it spoils."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "We are not so different, Drest and I. Two men who have long struggled not to let our scars define us..."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "I worry that he has been alone with his thoughts for far too long."
+    },
+    {
+      "character": "Shamani Lohmani",
+      "text": "Aye, it is past time I paid him a visit. Thank you for looking after him, Forename ."
+    }
+  ]
+}

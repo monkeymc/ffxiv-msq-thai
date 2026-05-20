@@ -1,0 +1,44 @@
+{
+  "id": "a-hearer-is-often-late",
+  "wiki_path": "/wiki/A_Hearer_Is_Often_Late",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "A Hearer Is Often Late",
+  "level": "13",
+  "location": "Central Shroud(X:22.4,Y:26.0)",
+  "npc_start": "Lothaire",
+  "dialogues": [
+    {
+      "character": "Lothaire",
+      "text": "I have another task for you, adventurer. I need you to head to the Hedgetree to the southwest of here and speak with Hearer Leonnie."
+    },
+    {
+      "character": "Lothaire",
+      "text": "After tending to the Hedgetree, the Hearer was scheduled to board a boat from the Mirror Planks... Well, the vessel's departure time has come and gone, but there is still no sign of her."
+    },
+    {
+      "character": "Lothaire",
+      "text": "Knowing how absorbed the Hearer becomes in her work, I am not unduly concerned. Armelle, however, was responsible for organizing Leonnie's transportation and is likely wondering if her wayward passenger is ever going to arrive. Perhaps a gentle reminder is in order?"
+    },
+    {
+      "character": "Leonnie",
+      "text": "Yes, what troubles you, my de─? Ah. Yes. The boat. I had quite forgotten."
+    },
+    {
+      "character": "Leonnie",
+      "text": "Hm? Oh, my task with the Hedgetree is well and finished, but the elementals murmur of a malevolent presence in the vicinity of the Tam-Tara Deepcroft."
+    },
+    {
+      "character": "Leonnie",
+      "text": "I must abide a while longer, that I might better divine the source of the elementals' distress. Please inform Armelle that I shall be late in arriving."
+    },
+    {
+      "character": "Armelle",
+      "text": "You bear a message from Hearer Leonnie? An evil presence in the Deepcroft? That does sound grave, indeed."
+    },
+    {
+      "character": "Armelle",
+      "text": "I shall organize a vessel for a later time, then. Perhaps a bell from now? Two? Better make it three, just to be safe. Thank you for your trouble."
+    }
+  ]
+}

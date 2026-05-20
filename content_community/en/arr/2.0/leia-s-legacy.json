@@ -1,0 +1,208 @@
+{
+  "id": "leia-s-legacy",
+  "wiki_path": "/wiki/Leia%27s_Legacy",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/b4/Leia%27s_Legacy_Image.png",
+  "patch": "2.0",
+  "title": "Leia's Legacy",
+  "level": "14",
+  "location": "Central Shroud(X:20.2,Y:21.6)",
+  "npc_start": "Luquelot",
+  "dialogues": [
+    {
+      "character": "Luquelot",
+      "text": "No! Oh, please gods, no! Leia's egg!"
+    },
+    {
+      "character": "Luquelot",
+      "text": "Forename , you must help me! I stepped out of the stables for but a moment, and when I returned it was gone !"
+    },
+    {
+      "character": "Luquelot",
+      "text": "I— What was gone? An egg! Sorry? You are sure the chocobos will lay another!? Gah! You do not understand—the egg is extremely valuable! I must find it!"
+    },
+    {
+      "character": "Luquelot",
+      "text": "You will help me, won't you, Forename ? Oh, thank you, thank you!"
+    },
+    {
+      "character": "Luquelot",
+      "text": "Someone must have made off with it. There can be no other explanation. I shall scour every ilm of the stable once more just to be sure. While I do so, I should be very grateful if you would ask the others if they noticed anything unusual."
+    },
+    {
+      "character": "Bernard",
+      "text": "Have I seen any odd characters about? Aside from yourself, you mean? Not that I recall."
+    },
+    {
+      "character": "Bernard",
+      "text": "I did see someone calming the birds, but only from a distance. I assumed it was Luquelot..."
+    },
+    {
+      "character": "Bernard",
+      "text": "But if you say he was away from the stables at the time...then who was that with the chocobos?"
+    },
+    {
+      "character": "Leodaire",
+      "text": "A chocobo egg has gone missing? Hm, well let me think."
+    },
+    {
+      "character": "Leodaire",
+      "text": "Now that you mention it, the chocobos were making quite a racket earlier. So much so, in fact, that I ran over to check on them, almost flattening a passing peddler in my haste. I didn't find anything out of the ordinary, though."
+    },
+    {
+      "character": "Leodaire",
+      "text": "Hm? Could I describe the peddler? Oh...he was an Elezen fellow—didn't recognize his face. Seemed awfully twitchy. Oh gods , you don't think he...? Why in the hells didn't I accost him!?"
+    },
+    {
+      "character": "Ewmond",
+      "text": "See anyone actin' suspicious? I most certainly did, lad / lass . A man, it was, runnin' off towards the Tam-Tara Deepcroft."
+    },
+    {
+      "character": "Ewmond",
+      "text": "Hm? You say an egg was took? Then I'd say that there was yer culprit."
+    },
+    {
+      "character": "Ewmond",
+      "text": "But why would anyone pinch a chocobo egg? Without the proper learnin', it's damn near impossible to get one to hatch."
+    },
+    {
+      "character": "Luquelot",
+      "text": "There can be no mistake, then. The egg was indeed stolen."
+    },
+    {
+      "character": "Luquelot",
+      "text": "And from what you have told me, this was no simple robbery."
+    },
+    {
+      "character": "Luquelot",
+      "text": "That the culprit should take only Leia's egg and disregard all the rest tells me we are dealing with someone well versed in chocobo breeding. I am sorry to say that the individual in question is like to be a citizen of my native Ishgard."
+    },
+    {
+      "character": "Luquelot",
+      "text": "Leia, you see, is of the blood line of Ouranos—one of the greatest birds to ever grace an Ishgardian stable."
+    },
+    {
+      "character": "Luquelot",
+      "text": "Many a man in my homeland would give his right arm to possess one of Leia's eggs... Gods, I should have foreseen this! We must give chase at once!"
+    },
+    {
+      "character": "Keitha",
+      "text": "Hold your chocobos, Luquelot! If this egg thief's from Ishgard, like you say, why'd he go runnin' off towards the Tam-Tara Deepcroft? Unless I've got me mental map upside down, that's the opposite direction."
+    },
+    {
+      "character": "Luquelot",
+      "text": "W-Well, yes, but...he may seek to lay a false trail, or...uh... Bah! The why of it is not important! Leia's egg is all that matters! Adventurer, I beg of you, hunt the scoundrel down and take back what he stole!"
+    },
+    {
+      "character": "Keitha",
+      "text": "Well, at least you ain't plannin' on chasin' after him yourself...wherever he's from."
+    },
+    {
+      "character": "Keitha",
+      "text": "We may work wonders with our birds, Forename , but acts of derrin'-do ain't exactly our field. If you don't mind, we'll leave that end of things to you."
+    },
+    {
+      "character": "Luquelot",
+      "text": "With luck, you may catch the thief on the road to the Tam-Tara Deepcroft, but do be careful—we cannot be certain he is working alone in this."
+    },
+    {
+      "character": "Janremi Blackheart",
+      "text": "<pant> <wheeze> I have caught you at last, you spiteful imp! Now hand over the egg!"
+    },
+    {
+      "character": "Kuplu Kopo",
+      "text": "You can't have it, kupo! This egg belongs to Luquelot!"
+    },
+    {
+      "character": "Janremi Blackheart",
+      "text": "Who in Halone's bloody fury are you? Ah, those sops at Bentbranch hired themselves an adventurer, did they?"
+    },
+    {
+      "character": "Janremi Blackheart",
+      "text": "Yet another complication. This farce has gone on long enough. Kill the moogle and the farmers' hireling, and bring me that damned egg!"
+    },
+    {
+      "character": "Kuplu Kopo",
+      "text": "Thank you, kupo."
+    },
+    {
+      "character": "Kuplu Kopo",
+      "text": "What's that, kupo? How did I come to be out here?"
+    },
+    {
+      "character": "Kuplu Kopo",
+      "text": "Ah, well, this egg here is Leia's. Leia is a very special chocobo, in case you didn't know."
+    },
+    {
+      "character": "Kuplu Kopo",
+      "text": "Anyway, I was having a nap in the stables when that nasty fellow crept in and tried to steal it, kupo!"
+    },
+    {
+      "character": "Kuplu Kopo",
+      "text": "So I snatched it up as quickly as I could and made a run for it. I was planning to take it back to Bentbranch Meadows myself, but it might be safer if you did it. I'm sure Luquelot will be very happy to see you, kupo!"
+    },
+    {
+      "character": "Luquelot",
+      "text": "Do you have the egg!? Is it safe!?"
+    },
+    {
+      "character": "Luquelot",
+      "text": "Yes, it has the right coloring, the right weight... It is most definitely Leia's egg ."
+    },
+    {
+      "character": "Luquelot",
+      "text": "I know not how to thank you."
+    },
+    {
+      "character": "Keitha",
+      "text": "You had me worried for a bit there, Forename . 'Tis good to see you and the egg back safe and sound."
+    },
+    {
+      "character": "Luquelot",
+      "text": "...So I was correct in my assumption that an Ishgardian was involved—albeit one who did not, in fact, make off with the egg. Well, I could hardly have anticipated the intervention of a moogle!"
+    },
+    {
+      "character": "Keitha",
+      "text": "Bugger me... It couldn't be the same one...could it?"
+    },
+    {
+      "character": "Luquelot",
+      "text": "Might you have encountered our unlikely savior before, Keitha?"
+    },
+    {
+      "character": "Keitha",
+      "text": "Could be, aye. One of 'em saved my hide back when the Calamity struck."
+    },
+    {
+      "character": "Keitha",
+      "text": "I was in a part of the woods what we now call the Standin' Corses that day. Seemed like the whole bleedin' forest was ablaze, and I couldn't see a yalm in front of me for all the smoke. Well-nigh given up hope, I had."
+    },
+    {
+      "character": "Keitha",
+      "text": "Then, all of a sudden, a moogle appears out of nowhere, tugs at me smolderin' sleeve, and leads me straight to a bit of the wood where the fire hadn't taken hold."
+    },
+    {
+      "character": "Keitha",
+      "text": "And now you know why the business is named \"Moogle's Gift Mounts.\" Seemed like the least I could do. I'd be dead if it weren't for that plucky little bugger."
+    },
+    {
+      "character": "Luquelot",
+      "text": "Incredible. It may well be that the moogle has stood vigil over us ever since that day..."
+    },
+    {
+      "character": "Keitha",
+      "text": "Ha! We'd better get back to work, then. Wouldn't want to go lettin' our guardian angel down, would we? Forename , you have our thanks. Oh, and I believe Luquelot wants to give you a little somethin' for your troubles."
+    },
+    {
+      "character": "Luquelot",
+      "text": "Leia's egg is irreplaceable. I cannot well express to you the depth of my gratitude."
+    },
+    {
+      "character": "Luquelot",
+      "text": "And yet, I find that I am still troubled... While this whole regrettable episode unfolded, I bore witness to a sight that greatly concerned me..."
+    },
+    {
+      "character": "Luquelot",
+      "text": "Have I mentioned that Leia's egg has hatched? We have yet to settle on a name, but the chick is healthy, spirited, and incurably inquisitive. She will receive the finest care, and shall one day grow into an exceptional chocobo."
+    }
+  ]
+}

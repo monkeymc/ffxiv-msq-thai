@@ -1,0 +1,84 @@
+{
+  "id": "dance-dance-diplomacy",
+  "wiki_path": "/wiki/Dance_Dance_Diplomacy",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "2.0",
+  "title": "Dance Dance Diplomacy",
+  "level": "21",
+  "location": "East Shroud(X:21.9,Y:25.6)",
+  "npc_start": "Yda",
+  "dialogues": [
+    {
+      "character": "Yda",
+      "text": "Say, Forename . Are you in the mood for dancing?"
+    },
+    {
+      "character": "Yda",
+      "text": "That's right: dancing! You went through all that trouble to learn the sylphs' traditional greeting, but you've greeted hardly any of them."
+    },
+    {
+      "character": "Yda",
+      "text": "Why, if I were a sylph, I'd be beside myself with delight to see an adventurer expressing an interest in my culture! Me? Of course I'd be happy to join─ow, ow! There go those bloody leg cramps of mine acting up again!"
+    },
+    {
+      "character": "Komuxio",
+      "text": "Kind walking ones—listening ones and masked ones—protect these ones, protect Little Solace from nasty ones who would steal these ones' home."
+    },
+    {
+      "character": "Komuxio",
+      "text": "Walking ones are kind and strong, but these ones cannot rely on walking ones alone. No, all ones must work together, that one day these ones may return home..."
+    },
+    {
+      "character": "Papalymo",
+      "text": "By virtue of the crystal trade, the sylphs have maintained friendly terms with most every race in Eorzea. Alas, the appearance of Ramuh has been as a storm cloud over relations."
+    },
+    {
+      "character": "Papalymo",
+      "text": "If peace is to be secured, we must reopen a dialogue with the sylphs before they have the chance to summon their god again."
+    },
+    {
+      "character": "Yda",
+      "text": "No need to overthink things! So long as your heart is in it, the sylphs will understand you!"
+    },
+    {
+      "character": "Knolexia",
+      "text": "Walking one makes strange motions. Strange motions make this one ill at ease. Go away! Shoo, shoo!"
+    },
+    {
+      "character": "Ameexia",
+      "text": "This one is weaving cloth. Walking one would know more? This one does not trust walking ones who do not show respect."
+    },
+    {
+      "character": "Dellexia",
+      "text": "What does walking one want with this one? Elder one warned this one not to get too friendly with walking ones..."
+    },
+    {
+      "character": "Knolexia",
+      "text": "Walking one's belly is rumbling? This one is not making a meal! This one is boiling bark and flower seeds to dye thread. Color must be jolly, and so must greet-making."
+    },
+    {
+      "character": "Ameexia",
+      "text": "Walking one is strange. This one has nothing to teach to strange ones."
+    },
+    {
+      "character": "Dellexia",
+      "text": "Is that how walking ones greet other walking ones? If walking one wants to find other walking ones, maybe walking one should go home."
+    },
+    {
+      "character": "Knolexia",
+      "text": "Oooh, walking one knows jolly dance! Jolly dance fills this one with good cheer! Let these two be friends!"
+    },
+    {
+      "character": "Ameexia",
+      "text": "Walking one would be a friend to these ones? This one is overjoyed! But this one keeps the ways of weaving a secret. Even if walking one learned the secret, walking one could not weave in the same way."
+    },
+    {
+      "character": "Dellexia",
+      "text": "Ah, walking one is a friend to these ones! Friendly like gracious elder one of forest city. Knows how to dance into these ones' hearts!"
+    },
+    {
+      "character": "Yda",
+      "text": "Forename ! Would you like to hear the good news, or the better news? The good news is that your lovely dancing has brought smiles and high spirits to all of Little Solace! The better news? Why, I've thoroughly recovered from those accursed leg cramps! Onward to our next adventure!"
+    }
+  ]
+}

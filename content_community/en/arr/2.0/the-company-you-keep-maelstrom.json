@@ -1,0 +1,264 @@
+{
+  "id": "the-company-you-keep-maelstrom",
+  "wiki_path": "/wiki/The_Company_You_Keep_(Maelstrom)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/b7/The_Company_You_Keep_%28Maelstrom%29_Image.png",
+  "patch": "2.0",
+  "title": "The Company You Keep (Maelstrom)",
+  "level": "20",
+  "location": "The Waking Sands(X:6.8,Y:6.2)",
+  "npc_start": "Storm Officer",
+  "dialogues": [
+    {
+      "character": "Storm Officer",
+      "text": "How was the Admiral's speech? Ah, but you need not explain─that you stand before me now is answer enough. You have resolved to join the Maelstrom, have you not?"
+    },
+    {
+      "character": "Storm Officer",
+      "text": "...Well, I daresay you have your reasons. But mark me: in stormy seas, the strong of arm and stout of heart must pull together or the vessel will founder. And when a ship goes down, the passengers always share the fate of the crew. Remember that."
+    },
+    {
+      "character": "Storm Officer",
+      "text": "That's the spirit, lad / lass ! With allies like you, how much stronger is our crew! Let us brave the seas together, friend!"
+    },
+    {
+      "character": "Storm Officer",
+      "text": "Now the choice is made, it is time to add your name to our rolls. Make your way to Maelstrom Command back in Limsa."
+    },
+    {
+      "character": "Storm Officer",
+      "text": "'Tis on the upper decks, in case you have forgotten. I will send word to our personnel officer to expect you."
+    },
+    {
+      "character": "Storm Officer",
+      "text": "That's the spirit, lad / lass ! With allies like you, how much stronger is our crew! Let us brave the seas together, friend!"
+    },
+    {
+      "character": "Storm Officer",
+      "text": "Now the choice is made, it is time to add your name to our rolls. Make your way to Limsa Lominsa and seek out our Grand Company's headquarters."
+    },
+    {
+      "character": "Storm Officer",
+      "text": "Maelstrom Command is located on the upper decks. I will send word to our personnel officer to expect you."
+    },
+    {
+      "character": "Storm Officer",
+      "text": "The duties of a Maelstrom soldier can be both arduous and challenging, but I promise you: you will not regret this choice. May your passage be swift and your bearings sure."
+    },
+    {
+      "character": "Serpent Officer",
+      "text": "Pray keep in mind that you are at liberty to transfer between Grand Companies. Should you ever experience a change of heart, the Order of the Twin Adder would be proud to have you."
+    },
+    {
+      "character": "Flame Officer",
+      "text": "What's this!? You mean to take up with the Maelstrom !? B-But...did the awe-inspiring figure of General Raubahn not stir you? He can seem a trifle intimidating...but I'm sure you'd warm to him, given time."
+    },
+    {
+      "character": "Storm Officer",
+      "text": "Report to Maelstrom Command to be officially sworn in to our ranks. And do not tarry. There is much work to be done─work to which your skills are well suited."
+    },
+    {
+      "character": "Storm Officer",
+      "text": "Report to Maelstrom Command in Limsa Lominsa to be officially sworn in to our ranks. And do not tarry. There is much work to be done─work to which your skills are well suited."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Hail, adventurer. What business have you at Maelstrom Command?"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Forename Surname ! Aye, our recruitment officer sent word of your coming. It shall be my honor to induct you into the ranks of the Maelstrom."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Then well met, and welcome to the Maelstrom. I'll need a name for the roll, so─ Wait a moment. You're her, aren't you? Forename Surname ! Aye, you're just as our recruitment officer described. Glad to have you aboard, friend!"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Now, before I can accept your oath, you must be made aware of several─"
+    },
+    {
+      "character": "Storm Private",
+      "text": "Sir!"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "What is it, Private? And this had better be important."
+    },
+    {
+      "character": "Storm Private",
+      "text": "Sir! We've received a report from a lookout in lower La Noscea, sir! Imperial forces have fired upon a Highwind Skyways airship."
+    },
+    {
+      "character": "Storm Private",
+      "text": "The vessel is in a bad way, sir, and appears to be banking for an emergency landing in Cedarwood."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Cedarwood? Damn it. We have no troops available in that area. The bulk of our infantry is bogged down on the coast, skirmishing with the fishbacks."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Surname ─this is highly irregular, but I fear your first duty in service to the Maelstrom must needs be unofficial."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "If our man in lower La Noscea is correct, the airship will come down in territory crawling with imperial scouts. If there are any survivors, we must reach them before the Garleans do."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Make haste to Cedarwood, locate the airship, and if any of its occupants are alive, make sure they come to no further harm. We'll see about swearing you in upon your return."
+    },
+    {
+      "character": "Airship Crewman",
+      "text": "An adventurer!? What're you doing out here? No, wait─let's find some cover first..."
+    },
+    {
+      "character": "Airship Crewman",
+      "text": "Maelstrom Command sent you? How do I know you're not an imperial spy? You don't even have a uniform!"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text": "Be at ease, sir. We are of the Maelstrom. You're a Garlond Ironworks engineer, yes? One of our lookouts reported the attack on your craft─we're here to rescue you."
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text": "You must be Surname . Good work on reaching our friend here before the imperials."
+    },
+    {
+      "character": "Imperial Soldier",
+      "text": "I've never seen a craft of this design... It must be Garlond's work. Is there no end to the man's treachery?"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text": "The secrets of magitek belong in imperial hands. They are not to be squandered on Eorzean savages!"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text": "We are taking this craft back to the fortress! Dismantle it if you must! And bring the engineer! Someone must pay for Garlond's crimes."
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text": "...Hm. Scouting party from Castrum Occidens, I'd say. Seems they want your ship, engineer."
+    },
+    {
+      "character": "Airship Crewman",
+      "text": "Wedge! You have to help him! That fool of a Lalafell was hiding inside the Tiny Bronco !"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text": "The Tiny Bronco ? Isn't that the new design people have been whispering about?"
+    },
+    {
+      "character": "Airship Crewman",
+      "text": "It's the first airship we've built since the Calamity─the first since Master Garlond...well, since he went missing."
+    },
+    {
+      "character": "Airship Crewman",
+      "text": "After years of work, she was finally ready for her first test flight. And she was soaring , she really was─till those bastards blasted her out of the sky!"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text": "All right, pay attention: we're going to hit these imperials hard and fast. If they want a souvenir from Eorzea, they can have a knife in the gut, but they're not getting that ship. Oh, and...don't forget to save the Lalafell."
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text": "What say you, Surname ? Ready to give those curs a hiding?"
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text": "Like a tidal wave, lads! Charge!"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text": "An ambush! To arms!"
+    },
+    {
+      "character": "Storm Marauder",
+      "text": "Gut the bastards!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text": "Keep them away from the airship!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text": "Savages! You cannot stand against the might of the Empire!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text": "This has gone on long enough!"
+    },
+    {
+      "character": "Imperial Decurion",
+      "text": "Exterminate these barbarians! Teach them the futility of resistance!"
+    },
+    {
+      "character": "Wedge",
+      "text": "Biggs!"
+    },
+    {
+      "character": "Biggs",
+      "text": "Wedge! You shouldn't have stayed with the ship!"
+    },
+    {
+      "character": "Wedge",
+      "text": "Th-That was a close one!"
+    },
+    {
+      "character": "Biggs",
+      "text": "Too damn close. So...how's she look, anyway?"
+    },
+    {
+      "character": "Wedge",
+      "text": "The auxiliary propeller is a dead loss, but I think we can wring enough thrust from the main propeller to get us airborne."
+    },
+    {
+      "character": "Biggs",
+      "text": "A few minor modifications and we should be able to fly the Tiny Bronco home."
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text": "We'll stand watch until the ship is ready to take off. The imperials will come looking for their scouts eventually, but I doubt they'll get here for a good while yet."
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text": "Surname ─you're free to return to Maelstrom Command and complete your induction."
+    },
+    {
+      "character": "Storm Lieutenant",
+      "text": "Ordinarily, I'd ask you to stay, but I think we'd all feel better knowing an adventurer of your ability was safely sworn in and ready for the next mission! Rest assured, I'll inform Command of the part you played today."
+    },
+    {
+      "character": "Biggs",
+      "text": "I, um...just wanted to say sorry...you know, for calling you an imperial spy and all that... Got that one wrong, didn't I!? Ha ha! Seriously, though─if it hadn't been for you and the Twin Adder lads there, we'd be chained up in a dungeon by now. I'm in your debt, friend─we both are."
+    },
+    {
+      "character": "Biggs",
+      "text": "Wedge!"
+    },
+    {
+      "character": "Wedge",
+      "text": "Thank you! We're very grateful!"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Welcome back, Surname . I just heard the report."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "You needn't be concerned about the engineers─they completed their return trip without further imperial interference."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "...I must admit, I had my doubts at first, but it seems the stories about you are true."
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "I look forward to seeing what else you're capable of...after you're properly inducted into the Maelstrom, of course!"
+    },
+    {
+      "character": "Storm Personnel Officer",
+      "text": "Now, speaking of your induction..."
+    }
+  ]
+}
