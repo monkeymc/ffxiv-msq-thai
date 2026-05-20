@@ -3,90 +3,90 @@
   "wiki_path": "/wiki/Power_of_Deduction",
   "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/6/6b/Power_of_Deduction_Image.png",
   "patch": "2.0",
-  "title": "พลังแห่งการอนุมาน",
+  "title": "Power of Deduction",
   "level": "28",
   "location": "North Shroud(X:21.7,Y:26.7)",
   "npc_start": "Medrod",
   "dialogues": [
     {
       "character": "Medrod",
-      "text": "<ถอนหายใจ> ไม่มีเบาะแสอะไรน่าสนใจเกี่ยวกับคดีฆาตกรรมนี่เลย ฉันแทบจะไม่ได้หลับไม่ได้นอนเลยล่ะ พอรู้ว่าฆาตกรยังคงลอยนวลอยู่น่ะ"
+      "text": "<sigh> There've been no promising leads in the murders. I can scarce get a wink of sleep, knowing that the killer is still at large."
     },
     {
       "character": "Medrod",
-      "text": "ดูจากคิ้วที่ขมวดเข้าหากันของคุณแล้ว ฉันเดาว่าเรื่องน่าเศร้านี้คงจะกวนใจคุณพอๆ กับฉันสินะ"
+      "text": "Judging by your furrowed brows, I take it this sorry business troubles you as much as it does me."
     },
     {
       "character": "Ivaurault",
-      "text": "ข้าก็มัวแต่ขบคิดถึงเรื่องที่เจอมานั่นแหละ ข้าเคยไม่แน่ใจอยู่พักนึงนะ แต่มันไม่ต้องสงสัยเลยล่ะ สิ่งที่ข้าเห็นมันคือลูกตาติดปีกจริงๆ นะ เป็นไปไม่ได้เลยที่ข้าจะจำสัตว์ประหลาดที่มีเอกลักษณ์ขนาดนั้นผิดว่าเป็นพวก banemite ไปได้"
+      "text": "I had been pondering my encounter. I was uncertain for a time, but there can be no doubt: it was a winged eyeball that I witnessed. It's implausible that I could have mistaken so distinct a creature for a banemite."
     },
     {
       "character": "Medrod",
-      "text": "แต่คุณกับฉันอยู่ห่างกันตั้งหลายไมล์เลยนะ เราจะเห็นมันพร้อมกันเป๊ะๆ ได้ยังไงล่ะ?"
+      "text": "But you and I were malms apart. How could we have both seen it at precisely the same time?"
     },
     {
       "character": "Medrod",
-      "text": "แถมเพื่อนนักผจญภัยของเราคนนี้ก็ไปเจอไอ้ banemite ตรงจุดเดียวกับที่คุณอ้างว่าเห็นไอ้ลูกตานรกนั่นด้วยไม่ใช่รึไง? ใช่ไหมล่ะ?"
+      "text": "What's more, our adventurer friend here had a run-in with the banemite at the very spot you claimed to see that fiendish eyeball. Isn't that right?"
     },
     {
       "character": "Ivaurault",
-      "text": "มันต้องมีคำอธิบายสิ! ข้ารู้ว่าข้าเห็นลูกตาติดปีกจริงๆ นะ─ข้าเอาทาร์ตแอปเปิ้ลเป็นเดิมพันเลยเอ้า!"
+      "text": "There must be an explanation! I know I saw an eyeball with wings─I would wager an apple tart on it!"
     },
     {
       "character": "Aideen",
-      "text": "อูย เขาเอาจริงแฮะ แต่ฟังนะ บางทีมันอาจจะไม่ได้ลึกลับอย่างที่เราคิดกันไปเองก็ได้นะ ไม่มีเหตุผลอะไรเลยที่มันจะไม่มี─"
+      "text": "Oooh, he's serious. But listen, mayhap it's not as mysterious as we're making it out to be. There's no reason why there couldn't be─"
     },
     {
       "character": "Aideen",
-      "text": "<หายใจเฮือก> พระเจ้า แน่นอนสิ... มันต้องมีมากกว่าหนึ่งตัวแน่ๆ! อึ๋ย มันชัดเจนจะตาย แต่ถ้าเป็นแบบนั้น... ในเมื่อมีคนเห็นไอ้สัตว์ประหลาดพวกนี้หลายครั้ง... งั้นก็ต้องมีเหยื่อที่ยังไม่ถูกค้นพบอีกเยอะเลยสินะ..."
+      "text": "<gasp> Gods, of course... There must be more than one of the buggers! Ugh, it's so obvious. But then that means...since there have been repeated sightings of these fiends...then there must be even more victims as yet undiscovered..."
     },
     {
       "character": "All",
-      "text": "<กลืนน้ำลาย>"
+      "text": "<gulp>"
     },
     {
       "character": "Medrod",
-      "text": "ฉ-ฉันว่าเราคงรับมือไม่ไหวแล้วล่ะ เราควรจะปล่อยให้เป็นหน้าที่ของผู้เชี่ยวชาญจัดการต่อดีกว่านะ"
+      "text": "I-I do believe we're out of our depth. We ought to leave the rest to the expert."
     },
     {
       "character": "Aideen",
-      "text": "ช-ใช่ เรามันก็แค่ประชาชนคนธรรมดานี่นะ โชคดีนะนักผจญภัย ยินดีที่ได้รู้จักนะ!"
+      "text": "Y-Yes, we're just civilians, after all. Good luck, adventurer. It was a pleasure knowing you!"
     },
     {
       "character": "Ivaurault",
-      "text": "ถึงข้าจะอยากรู้ความจริงใจจะขาดก็เถอะ แต่บางเรื่องก็ปล่อยให้มันเป็นความลับต่อไปจะดีกว่า เผื่อเจ้าจะลืมไปนะ ข้าไปเจอมันที่บริเวณโขดหินทางทิศตะวันตกน่ะ"
+      "text": "While I burn to know the truth, some things are best left unknown. Lest you have forgotten, it was at the rocky area to the west that I had my encounter."
     },
     {
       "character": "Ivaurault",
-      "text": "ถ้าเจ้าค้นพบอะไรที่น่าสนใจล่ะก็ เจ้าคงอยากจะแจ้งให้ทางการรู้ด้วยนะ มีป้อมยามอยู่ใกล้ๆ แถวนี้แหละ พวก Serpent ที่นั่นน่าจะยินดีรับข้อมูลทุกอย่างที่เกี่ยวข้องกับความปลอดภัยของพื้นที่นี้นะ"
+      "text": "Should you discover aught of note, you will want to alert the authorities. There is a guardhouse nearby. The Serpents there should be pleased for any information that pertains to the security of the region."
     },
     {
       "character": "Aethelmaer",
-      "text": "สวัสดี นักผจญภัย มีอะไรให้ข้าช่วยไหม?"
+      "text": "Greetings, adventurer. Is there aught I might assist you with?"
     },
     {
       "character": "Aethelmaer",
-      "text": "พระเจ้าช่วย ไม่เอาน่า..."
+      "text": "Gods be good, not again..."
     },
     {
       "character": "Aethelmaer",
-      "text": "ไม่ว่าข้าจะเห็นศพมามากแค่ไหน ข้าก็ดูเหมือนจะไม่ชินกับภาพอันน่าสยดสยองนี่สักที ผู้หญิงที่น่าสงสาร..."
+      "text": "No matter how many bodies I see, I cannot seem to get used to the horrid sight. Poor woman..."
     },
     {
       "character": "Aethelmaer",
-      "text": "มีรายงานการเสียชีวิตในลักษณะเดียวกันนี้ใน Central Shroud ด้วยนะ ถึงแม้คนแปลกหน้าสวมหน้ากากที่เจ้าตามหาอยู่จะไม่ได้ปรากฏอยู่ในรายงานไหนเลยก็เถอะ แต่ก็มีคนพบเห็นไอ้ลูกตาติดปีกนั่นบ่อยๆ นะ สัตว์ประหลาดตัวนั้นดูเหมือนจะกำลังเคลื่อนย้ายศพ แต่เพื่ออะไรนั้น ก็ไม่มีใครบอกได้หรอกนะ"
+      "text": "Identical deaths have been reported in the Central Shroud. While the masked stranger you seek does not seem to feature in any, sightings of the winged eyeball are common enough. The creature appears to be moving the bodies, but to what end, none can say."
     },
     {
       "character": "Aethelmaer",
-      "text": "เหยื่อทั้งหมดล้วนเป็นหญิงสาว และทั้งหมดก็ถูกพบในสภาพที่ใบหน้าถูกทำลายจนจำไม่ได้เลยล่ะ การจะระบุตัวตนก็เลยเป็นเรื่องยาก จะได้แจ้งให้ญาติทราบก็ลำบากไปอีก─"
+      "text": "The victims have all been young women. All are found with their faces mutilated beyond recognition. It's been difficult to identify them, so as to notify their next of─"
     },
     {
       "character": "Aethelmaer",
-      "text": "หืม? กระดุมเม็ดนี้ ที่มีลายดอกลิลลี่สลักอยู่... ของชิ้นเดียวกันนี้ก็ถูกพบที่เหยื่ออีกรายนึงเหมือนกัน ตราสัญลักษณ์ประจำตระกูล หรืออาจจะเป็นขององค์กรอะไรสักอย่างล่ะมั้ง?"
+      "text": "Hm? This button, engraved with a lily motif... The very same object was found upon another victim. A family sigil, or that of an organization, perhaps?"
     },
     {
       "character": "Aethelmaer",
-      "text": "จะทางไหนก็เถอะ ข้าก็แอบหวังนะว่าของชิ้นนี้จะเป็นกุญแจสำคัญในการไขคดีฆาตกรรมครั้งนี้น่ะ"
+      "text": "Either way, I dare to hope that this find will prove pivotal in solving the murders."
     }
   ]
 }

@@ -3,50 +3,50 @@
   "wiki_path": "/wiki/Tales_from_the_Tidus_Slayer",
   "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/32/Tales_from_the_Tidus_Slayer_Image.png",
   "patch": "2.0",
-  "title": "นิทานจากผู้พิชิต Tidus",
+  "title": "Tales from the Tidus Slayer",
   "level": "30",
   "location": "Lower La Noscea(X:35.6,Y:15.9)",
   "npc_start": "Trachtoum",
   "dialogues": [
     {
       "character": "Trachtoum",
-      "text": "ก๊าก ฮะ ฮะ! งั้นเจ้าก็อยากจะฟังเรื่องที่กลุ่ม Company of Heroes ล้ม primal ได้สินะ?"
+      "text": "Gah hah hah! So, ye want to hear the tale of how the Company of Heroes bested a primal, do ye?"
     },
     {
       "character": "Trachtoum",
-      "text": "ให้ข้าเดานะ: เจ้าหมายถึงไอ้สารเลว Tidus นั่นใช่ไหมล่ะ?"
+      "text": "Let me guess: ye mean that bastard Tidus, aye?"
     },
     {
       "character": "Trachtoum",
-      "text": "โอ้ ถ้าเจ้าได้อยู่ที่นั่นและได้เห็นกับตาตัวเองล่ะก็!"
+      "text": "Oh, if only ye'd been there to see it!"
     },
     {
       "character": "Trachtoum",
-      "text": "มันเป็นการต่อสู้ที่ดุเดือดมากเลยล่ะ เหมือนกับตำนานสมัยก่อนเลย!"
+      "text": "'Twas a mighty struggle, like the legends of old!"
     },
     {
       "character": "Trachtoum",
-      "text": "ข้ากับพวกพ้องต่อสู้กับมันถึงสามวันสามคืนเลยล่ะ จะบอกให้!"
+      "text": "Me an' the boys fought him for three days an' nights, we did!"
     },
     {
       "character": "Trachtoum",
-      "text": "พื้นดินสั่นสะเทือนทุกครั้งที่ไอ้ Tidus ก้าวเดิน และตอนที่มันซัดเจ้านะ พ่อหนุ่ม / แม่หนู มันรู้สึกเหมือนโดนลูกปืนใหญ่กระแทกเข้าที่พุงเต็มๆ เลย อั๊กกกก! แบบนั้นเลยล่ะ!"
+      "text": "The ground trembled with every step Tidus took, an' when he hit ye, boy / girl , it felt like a cannonball to the gut. Uggghhh! Just like that!"
     },
     {
       "character": "Trachtoum",
-      "text": "เฮ้ย มองแบบนั้นหมายความว่าไงฟะ? ข้าเป็นถึงวีรบุรุษเลยนะเว้ย จะบอกให้! ชาวบ้านแถวนี้เขาร้องเพลงสรรเสริญข้ากันทั้งนั้น! อย่ามาบอกนะว่าเจ้าสนใจแต่จะมาล้วงความลับแผนการที่เราใช้ล้มเจ้า Tidus น่ะ..."
+      "text": "Oi, what's that look for? I'm a godsdamned hero, I'll have you know! The people 'round here sing me praises! Don't tell me ye only care about learnin' the secret tactics we used to beat ol' Tidus..."
     },
     {
       "character": "Trachtoum",
-      "text": "ฮึ่ม! งั้นก็เสียใจด้วยนะ เพราะตอนนี้ข้ากำลังรู้สึกไม่อยากจะใจดีซะด้วยสิ ถ้าเจ้าอยากรู้มากนักล่ะก็ ทำไมไม่ช่วยทำอะไรให้ข้าสักอย่าง แล้วไปจัดการไอ้พวกหนูที่มันไปทำรังอยู่ตรงกังหันลมทางใต้ของที่นี่ให้ทีล่ะ? เออ ไปจัดการมันซะ แล้วเราค่อยมาคุยกัน!"
+      "text": "Hmph! Well, too bad, 'cause now I'm not feelin' charitable. If yer so damn desperate, then why don't ye do me a favor an' kill those rats that've made a nest by the windmill just south of here? Aye, do that, then we'll talk!"
     },
     {
       "character": "Trachtoum",
-      "text": "หา? ไอ้พวกสัตว์ร้ายนั่นตายหมดแล้วงั้นรึ? ทำได้ดีมากเลยไอ้นักผจญภัย!"
+      "text": "Eh? So the beasties are dead, are they? Nice work, 'venturer!"
     },
     {
       "character": "Trachtoum",
-      "text": "ช่วยประหยัดเวลาข้าไปได้เยอะเลย─อ่า ช่างมันเถอะ"
+      "text": "Saved me the hassle of─ah, never mind."
     }
   ]
 }

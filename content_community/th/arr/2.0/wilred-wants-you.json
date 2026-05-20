@@ -3,54 +3,54 @@
   "wiki_path": "/wiki/Wilred_Wants_You",
   "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
   "patch": "2.0",
-  "title": "วิลเรดต้องการคุณ",
+  "title": "Wilred Wants You",
   "level": "27",
   "location": "Southern Thanalan(X:16.9,Y:14.3)",
   "npc_start": "Hremfing",
   "dialogues": [
     {
       "character": "Hremfing",
-      "text": ""
+      "text": "Hey, adventurer. You done talking with the old bear?"
     },
     {
       "character": "Hremfing",
-      "text": ""
+      "text": "I've got a message for you from Wilred. Lad's something of a leader among the young ones here."
     },
     {
       "character": "Hremfing",
-      "text": ""
+      "text": "He's impressed that you've won over Gundobald, and wants a word with you. Says he'll be waiting over at the craggy area north of here."
     },
     {
       "character": "Wilred",
-      "text": ""
+      "text": "Thanks for coming, friend. 'Tis no ordinary outsider who can gain the trust of the old bear. That's why I wanted to meet you, to discuss something in private."
     },
     {
       "character": "Wilred",
-      "text": ""
+      "text": "Tell me...why are you snooping about? Did the Empire send you? Or someone else?"
     },
     {
       "character": "Wilred",
-      "text": ""
+      "text": "Coeurl got your tongue? Hmph, no matter. Whoever it is you work for, your meddling ends here. Get him / her !"
     },
     {
       "character": "Wilred",
-      "text": ""
+      "text": "Y-You're stronger than you look..."
     },
     {
       "character": "Wilred",
-      "text": ""
+      "text": "This changes nothing! Threaten us, beat us bloody all you like...but nothing short of death can make us give up our fight!"
     },
     {
       "character": "Wilred",
-      "text": ""
+      "text": "We're going to obtain the power to bring down the Empire, and with it we'll reclaim our homeland!"
     },
     {
       "character": "Gundobald",
-      "text": ""
+      "text": "Attacked by Wilred and his cronies!? That they would go to such lengths for the sake of this plan of theirs..."
     },
     {
       "character": "Gundobald",
-      "text": ""
+      "text": "Left to their own devices, the young fools are like to harm others, if not themselves. We must uncover their agenda and put an end to this madness."
     }
   ]
 }
