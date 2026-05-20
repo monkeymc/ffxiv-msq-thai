@@ -35,18 +35,6 @@ const groups = groupQuestsByLevel(quests);
     </div>
   </div>
 
-  <div class="toc-summary">
-    แปลแล้ว <strong>{stats.contrib + stats.ai}</strong> จาก <strong>{stats.total}</strong> quest (ชุมชน {stats.contrib}, AI {stats.ai})
-  </div>
-
-  <div class="toc-filters" id="tocFilters">
-    <span class="label">ตัวกรอง:</span>
-    <button class="chip on" data-filter="all">ทั้งหมด <span class="chip-n">{stats.total}</span></button>
-    {stats.contrib > 0 && <button class="chip" data-filter="contributor">ชุมชนแปล <span class="chip-n">{stats.contrib}</span></button>}
-    {stats.ai > 0 && <button class="chip" data-filter="ai">AI แปล <span class="chip-n">{stats.ai}</span></button>}
-    {stats.pending > 0 && <button class="chip" data-filter="none">รอแปล <span class="chip-n">{stats.pending}</span></button>}
-  </div>
-
   {groups.map(g => (
     <div class="toc-section" data-section>
       <div class="toc-section-head">
@@ -116,27 +104,6 @@ const groups = groupQuestsByLevel(quests);
         });
       }
 
-      var chips = document.querySelectorAll('#tocFilters .chip');
-      chips.forEach(function (c) {
-        c.addEventListener('click', function () {
-          chips.forEach(function (x) { x.classList.remove('on'); });
-          c.classList.add('on');
-          var f = c.getAttribute('data-filter');
-          document.querySelectorAll('.quest-card').forEach(function (card) {
-            var s = card.getAttribute('data-source');
-            if (f === 'all' || s === f) card.classList.remove('hidden');
-            else card.classList.add('hidden');
-          });
-          document.querySelectorAll('[data-subsection]').forEach(function (sub) {
-            var visible = sub.querySelectorAll('.quest-card:not(.hidden)').length;
-            sub.style.display = visible ? '' : 'none';
-          });
-          document.querySelectorAll('[data-section]').forEach(function (sec) {
-            var visible = sec.querySelectorAll('.quest-card:not(.hidden)').length;
-            sec.style.display = visible ? '' : 'none';
-          });
-        });
-      });
     }());
   </script>
 </Layout>
