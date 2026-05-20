@@ -3,62 +3,62 @@
   "wiki_path": "/wiki/Back_to_Square_One",
   "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/6/6f/Back_to_Square_One_Image.png",
   "patch": "2.0",
-  "title": "Back to Square One",
+  "title": "กลับไปที่จุดเริ่มต้น",
   "level": "27",
   "location": "Southern Thanalan(X:16.9,Y:14.4)",
   "npc_start": "Gundobald",
   "dialogues": [
     {
       "character": "Gundobald",
-      "text": "Would that we had more information to offer, but what Wilred told you is the extent of our knowledge of the masked stranger."
+      "text": "ฉันอยากจะมีข้อมูลให้มากกว่านี้นะ แต่สิ่งที่ Wilred บอกเธอไปนั่นคือทั้งหมดที่เรารู้เกี่ยวกับชายสวมหน้ากากแล้วล่ะ"
     },
     {
       "character": "Gundobald",
-      "text": "Left unchecked, that man will bring about great pain and suffering. I pray that you'll find and put a swift end to the creature─for the sake of the young ones who died by his poisoned words."
+      "text": "ถ้าปล่อยไว้ ชายคนนั้นจะนำมาซึ่งความเจ็บปวดและความทุกข์ทรมานอย่างใหญ่หลวง ฉันภาวนาให้เธอหาตัวมันให้เจอแล้วก็จัดการมันซะให้เร็วที่สุด─เพื่อเห็นแก่เด็กๆ ที่ต้องตายเพราะคำพูดอาบยาพิษของมัน"
     },
     {
       "character": "Gundobald",
-      "text": "How fare your travels, adventurer? Though it barely begins to repay the debt you are owed, you will always find a safe haven here."
+      "text": "การเดินทางเป็นยังไงบ้าง นักผจญภัย? ถึงแม้มันจะเทียบไม่ได้เลยกับหนี้บุญคุณที่เราติดเธออยู่ แต่เธอจะมีที่พักพิงที่ปลอดภัยที่นี่เสมอเลยนะ"
     },
     {
       "character": "Gundobald",
-      "text": "And you need not be concerned with young Wilred. The pain and regret he feels is a common burden amongst Ala Mhigans, and one we willingly bear—it reminds us to always strive for a better life."
+      "text": "และเธอไม่ต้องเป็นห่วง Wilred หรอก ความเจ็บปวดและความเสียใจที่เขารู้สึกเป็นภาระที่ชาว Ala Mhigan คุ้นเคยกันดี และเป็นสิ่งที่เราเต็มใจจะแบกรับไว้—มันเตือนให้เราพยายามดิ้นรนเพื่อชีวิตที่ดีกว่าเสมอ"
     },
     {
       "character": "Minfilia",
-      "text": "Welcome back, Forename ! I'm reliably informed the investigation took you to Quarrymill and Little Ala Mhigo."
+      "text": "ยินดีต้อนรับกลับนะ [ชื่อ]! ฉันได้รับรายงานที่เชื่อถือได้ว่าการสืบสวนพาเธอไปถึง Quarrymill แล้วก็ Little Ala Mhigo เลยสิ"
     },
     {
       "character": "Minfilia",
-      "text": "So tell me, were you able to learn aught of Lahabrea?"
+      "text": "บอกฉันทีเถอะ เธอรู้อะไรเกี่ยวกับ Lahabrea บ้างไหม?"
     },
     {
       "character": "Minfilia",
-      "text": "Planted the knowledge of summoning in impressionable young minds, you say? Precisely the kind of deception the Ascians would employ..."
+      "text": "ฝังความรู้เรื่องการอัญเชิญลงในความคิดของเด็กวัยรุ่นที่ถูกชักจูงง่ายงั้นเหรอ? เป็นวิธีหลอกลวงที่พวก Ascian ชอบใช้เป๊ะเลย..."
     },
     {
       "character": "Minfilia",
-      "text": "While many of the ills that ail the land can be attributed to the Calamity, some are being brought about by a malign will."
+      "text": "ในขณะที่ความเลวร้ายหลายอย่างที่เกิดขึ้นกับดินแดนนี้สามารถโทษว่าเป็นผลจาก Calamity ได้ แต่บางอย่างก็เกิดจากเจตนาร้ายของใครบางคน"
     },
     {
       "character": "Minfilia",
-      "text": "We must needs delve deeper into this, while things remain quiet on the primal front."
+      "text": "เราต้องเจาะลึกเรื่องนี้ให้มากขึ้น ในช่วงที่พวกไพรมอลยังไม่เคลื่อนไหวนี่แหละ"
     },
     {
       "character": "Tataru",
-      "text": "All work and no play makes Minfilia a dull Scion."
+      "text": "เอาแต่ทำงานไม่พักผ่อน จะทำให้ Minfilia กลายเป็น Scion ที่น่าเบื่อนะ"
     },
     {
       "character": "Minfilia",
-      "text": "Hm? Did you say something?"
+      "text": "หืม? เธอพูดอะไรหรือเปล่านะ?"
     },
     {
       "character": "Tataru",
-      "text": "N-Nothing, my lady!"
+      "text": "ม-ไม่มีอะไรค่ะ ท่านหญิง!"
     },
     {
       "character": "Minfilia",
-      "text": "Ahem. Mayhap we ought to rest awhile before speaking further of the investigation."
+      "text": "อะแฮ่ม บางทีเราน่าจะพักกันสักหน่อยก่อนจะคุยเรื่องการสืบสวนต่อนะ"
     }
   ]
 }

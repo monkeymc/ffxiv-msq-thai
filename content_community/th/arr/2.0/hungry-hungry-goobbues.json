@@ -3,42 +3,42 @@
   "wiki_path": "/wiki/Hungry_Hungry_Goobbues",
   "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
   "patch": "2.0",
-  "title": "Hungry Hungry Goobbues",
+  "title": "กูบบู้ผู้หิวโหย",
   "level": "30",
   "location": "Lower La Noscea(X:35.6,Y:15.9)",
   "npc_start": "Trachtoum",
   "dialogues": [
     {
       "character": "Trachtoum",
-      "text": "...What? Ye still askin' about how we beat Tidus? I dunno, 'venturer...it was a pretty risky strategy, the kind only a veteran of ten score battles could rely upon."
+      "text": "...อะไรนะ? เจ้ายังถามเรื่องที่เราเอาชนะ Tidus อยู่อีกเหรอ? ข้าก็ไม่รู้สินะ นักผจญภัย... มันเป็นกลยุทธ์ที่เสี่ยงมาก มีแต่นักรบที่ผ่านศึกมานับร้อยนับพันครั้งเท่านั้นแหละถึงจะพึ่งพาวิธีนี้ได้"
     },
     {
       "character": "Trachtoum",
-      "text": "I want to teach ye, I truly do! But unless ye prove ye have what it takes to face that fat bastard, I can't in good conscience tell you a damn thing!"
+      "text": "ข้าอยากจะสอนเจ้านะ อยากสอนจริงๆ ! แต่ถ้าเจ้าพิสูจน์ให้เห็นไม่ได้ว่าเจ้าคู่ควรที่จะไปสู้กับไอ้อ้วนสารเลวนั่น ข้าก็บอกอะไรเจ้าไม่ได้หรอก มโนธรรมข้ามันค้ำคออยู่น่ะ!"
     },
     {
       "character": "Trachtoum",
-      "text": "At the very least, ye'd need to be capable of slayin', say, a goobbue..."
+      "text": "อย่างน้อย เจ้าก็ต้องมีฝีมือพอที่จะล้ม... เอาเป็น goobbue สักตัวก็แล้วกัน..."
     },
     {
       "character": "Trachtoum",
-      "text": "Come to think of it, that ain't a bad idea. Them creatures have a taste for the flour milled here, so ye ought to have no trouble findin' one in the vicinity."
+      "text": "จะว่าไป มันก็เป็นความคิดที่ไม่เลวเลยนะ พวกนั้นมันชอบกินแป้งที่โม่ที่นี่อยู่แล้ว เจ้าก็น่าจะหาได้ไม่ยากหรอกแถวๆ นี้"
     },
     {
       "character": "Trachtoum",
-      "text": "'Course, I ain't askin' ye to cut one down quick as a skilled axeman like meself!"
+      "text": "แน่นอน ข้าไม่ได้คาดหวังให้เจ้าโค่นมันลงได้เร็วเหมือนนักขวานฝีมือฉกาจอย่างข้าหรอกนะ!"
     },
     {
       "character": "Trachtoum",
-      "text": "Anyroad, why don't ye try headin' due west an' standin' lookout 'case a goobbue comes callin'? Slay it, an' I might consider tellin' ye more about ol' Tidus."
+      "text": "เอาเป็นว่า ลองไปดักรออยู่ทางทิศตะวันตกดูนะ เผื่อมี goobbue หลงมา ฆ่ามันซะ แล้วข้าอาจจะพิจารณาเล่าเรื่องตาเฒ่า Tidus ให้เจ้าฟังเพิ่มก็ได้"
     },
     {
       "character": "Trachtoum",
-      "text": "Eh? You again? Then that goobbue that was harassin' the millers is dead?"
+      "text": "หา? เจ้าอีกแล้วเหรอ? งั้นไอ้ goobbue ที่มากวนพวกช่างโม่แป้งนั่นก็ตายแล้วสินะ?"
     },
     {
       "character": "Trachtoum",
-      "text": "Didn't think ye had it in ye, 'venturer. Still, you took forever an' a day to get the job done. I'm still not sure if I should tell you our secrets..."
+      "text": "ไม่คิดเลยนะว่าเจ้าจะมีน้ำยาขนาดนี้ นักผจญภัย แต่เจ้านี่ใช้เวลาจัดการนานเป็นชาติเลยนะ ข้าชักไม่แน่ใจแล้วสิว่าจะบอกความลับของเราให้เจ้าฟังดีไหม..."
     }
   ]
 }

@@ -3,34 +3,34 @@
   "wiki_path": "/wiki/Rock_of_Rancor",
   "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
   "patch": "2.0",
-  "title": "Rock of Rancor",
+  "title": "ศิลาแห่งความพยาบาท",
   "level": "28",
   "location": "North Shroud(X:21.8,Y:26.7)",
   "npc_start": "Aideen",
   "dialogues": [
     {
       "character": "Aideen",
-      "text": "There's something else I heard about the deaths. It appears all the victims have been comely maidens. I'd better watch myself, eh!? Heh heh heh!"
+      "text": "ฉันได้ยินเรื่องคนตายพวกนี้มาอีกอย่างนะ ดูเหมือนเหยื่อทุกคนจะเป็นหญิงสาวหน้าตาดีทั้งนั้นเลย ฉันคงต้องระวังตัวไว้บ้างแล้วล่ะสิ เนอะ!? หึ หึ หึ!"
     },
     {
       "character": "Aideen",
-      "text": "<sigh> Unseemly japes aside, there's a rumor been going around. There's some as whisper that, after each victim died, her rancor went into the great big rock southwest of here, causing it to flash and moan."
+      "text": "<ถอนหายใจ> นอกเรื่องตลกที่ไม่เข้าท่าไปก่อนนะ มันมีข่าวลือแพร่สะพัดไปทั่วเลยล่ะ มีคนกระซิบกันว่า หลังจากที่เหยื่อแต่ละรายสิ้นใจ ความอาฆาตแค้นของพวกเธอก็จะพุ่งเข้าไปในก้อนหินยักษ์ทางตะวันตกเฉียงใต้ของที่นี่ ทำให้มันมีแสงวาบและมีเสียงครางออกมาด้วยล่ะ"
     },
     {
       "character": "Aideen",
-      "text": "This bears investigating, I reckon. I'm going to give you a firesand stick to blow off a piece of that crag. The stick doesn't come with a fuse or anything, so you'll have to throw the thing. Once you've torn the rock a new one, bring back some of the fragments, and I'll give them a gander."
+      "text": "ฉันว่าเรื่องนี้น่าจะลองไปตรวจสอบดูหน่อยนะ ฉันจะให้ดินปืนนาย / เธอไปแท่งนึง เอาไประเบิดเศษหินนั่นออกมา แท่งนี่มันไม่มีสายชนวนหรืออะไรเลยนะ เพราะงั้นนาย / เธอต้องขว้างมันเอานะ พอระเบิดหินออกมาเป็นรูกลวงได้แล้ว ก็เอาเศษหินพวกนั้นกลับมาให้ฉันที ฉันจะได้ตรวจสอบดู"
     },
     {
       "character": "Aideen",
-      "text": "Most folk are too scared to go within a hundred yalms of the Rock of Rancor ─aye, it has a name. But what's a few vengeful spirits to a dauntless adventurer like you, eh?"
+      "text": "คนส่วนใหญ่กลัวจนไม่กล้าเข้าใกล้ศิลาแห่งความพยาบาทนั่นในรัศมีร้อยหลาเลยล่ะ ─ใช่ มันมีชื่อเรียกด้วยนะ แต่วิญญาณอาฆาตแค้นแค่ไม่กี่ดวง มันจะไปทำอะไรนักผจญภัยที่กล้าหาญอย่างนาย / เธอได้ล่ะ จริงไหม?"
     },
     {
       "character": "Aideen",
-      "text": "...Huh? Why, these are just your garden-variety crystals! 'Tis a bit hard to tell beneath all the dirt and grime, but they're definitely lightning-aspected."
+      "text": "...หา? เอ๊ะ นี่มันก็แค่คริสตัลธรรมดาๆ ที่หาได้ตามสวนทั่วไปนี่นา! ถึงมันจะดูยากหน่อยเพราะมีดินกับคราบสกปรกเกาะอยู่เต็มไปหมดก็เถอะ แต่มันคือคริสตัลธาตุสายฟ้าแน่นอน"
     },
     {
       "character": "Aideen",
-      "text": "I almost hate to say it, but that explains the flashing and moaning. Nothing to do with the masked stranger. Looks like I've gone and wasted both your time and a perfectly good firesand stick. Oh, well..."
+      "text": "ฉันล่ะเกลียดที่จะต้องพูดแบบนี้จริงๆ แต่มันก็อธิบายเรื่องแสงวาบกับเสียงครางนั่นได้หมดเลย ไม่ได้เกี่ยวอะไรกับคนแปลกหน้าสวมหน้ากากนั่นเลยสักนิด ดูเหมือนฉันจะทำให้นาย / เธอเสียเวลาไปเปล่าๆ แถมยังเสียดินปืนดีๆ ไปฟรีๆ อีกแท่งนึงด้วย เฮ้อ ช่างมันเถอะ..."
     }
   ]
 }

@@ -3,70 +3,70 @@
   "wiki_path": "/wiki/Trial_by_Turtle",
   "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
   "patch": "2.0",
-  "title": "Trial by Turtle",
+  "title": "บทพิสูจน์แห่งเต่า",
   "level": "30",
   "location": "South Shroud(X:16.8,Y:28.2)",
   "npc_start": "Landenel",
   "dialogues": [
     {
       "character": "Landenel",
-      "text": "Let me be clear: this business between you, me, and the captain must remain a secret."
+      "text": "ฉันขอพูดให้ชัดเจนเลยนะ เรื่องระหว่างฉัน คุณ และก็กัปตันต้องเป็นความลับ"
     },
     {
       "character": "Landenel",
-      "text": "See, I don't regret my time spent with the Company in the slightest. Traveling the world, meeting interesting people, killing them─it was all jolly good fun."
+      "text": "คืออย่างนี้นะ ฉันไม่เคยเสียใจเลยสักนิดที่ได้ใช้เวลากับ Company ได้เดินทางรอบโลก ได้เจอผู้คนที่น่าสนใจ แล้วก็ฆ่าพวกเขาทิ้ง... มันสนุกมากเลยล่ะ"
     },
     {
       "character": "Landenel",
-      "text": "Alas, Gridanians are, by and large, an unforgiving lot─Detoh here being a rare exception."
+      "text": "แต่ก็นะ โดยรวมแล้วชาว Gridania ส่วนใหญ่เป็นพวกที่ไม่ค่อยยอมให้อภัยใครหรอกนะ... Detoh นี่ถือเป็นข้อยกเว้นเลย"
     },
     {
       "character": "Landenel",
-      "text": "I've had to go to great lengths to ensure that I am seen as a model citizen, with no taste for drinking, whoring, gambling, and all those other activities I so dearly miss."
+      "text": "ฉันต้องพยายามอย่างหนักมากเพื่อทำให้แน่ใจว่าฉันถูกมองว่าเป็นพลเมืองดี ไม่มีพฤติกรรมชอบดื่มเหล้า เที่ยวผู้หญิง เล่นการพนัน หรือกิจกรรมอื่นๆ ที่ฉันคิดถึงใจจะขาดพวกนั้น"
     },
     {
       "character": "Landenel",
-      "text": "So understand that if you ruin my little charade by wagging your tongue, I'll fashion a noose with your entrails and hang you from the nearest heavenspillar."
+      "text": "เพราะฉะนั้น เข้าใจไว้ด้วยนะว่า ถ้าคุณทำให้การแสดงละครฉากเล็กๆ ของฉันพังลงเพียงเพราะปากสว่างล่ะก็ ฉันจะเอาไส้ของคุณมาผูกเป็นเชือก แล้วแขวนคอคุณไว้ที่ยอดตึก heavenspillar ที่ใกล้ที่สุดเลยคอยดู"
     },
     {
       "character": "Landenel",
-      "text": "Well, what are you waiting for? There's a perfectly good adamantoise egg in a nest to the east of here, just ripe for the taking."
+      "text": "เอ้า มัวรออะไรอยู่ล่ะ? มีไข่อดาแมนทอยส์ (adamantoise) สภาพสมบูรณ์อยู่ในรังทางตะวันออกของที่นี่ รอให้คุณไปเก็บอยู่เนี่ย"
     },
     {
       "character": "Landenel",
-      "text": "Not that I expect you to live long enough to claim it!"
+      "text": "ไม่ได้คาดหวังว่าคุณจะรอดชีวิตไปเก็บมันได้หรอกนะ!"
     },
     {
       "character": "Landenel",
-      "text": "The mother never strays far from the child, and you will surely be attacked the moment you lay hands upon the egg."
+      "text": "แม่ของมันไม่เคยห่างจากลูกน้อยเลย และรับรองได้เลยว่าคุณจะถูกโจมตีทันทีที่คุณเอามือแตะไข่นั่น"
     },
     {
       "character": "Landenel",
-      "text": "...There will be other heroes, Forename . You do not need to challenge Titan. Abandon your quest, or your corpse will rot in this swamp."
+      "text": "...เดี๋ยวก็มีฮีโร่คนอื่นโผล่มาเองแหละ Forename คุณไม่ต้องไปท้าทาย Titan หรอก ล้มเลิกภารกิจซะ ไม่งั้นศพคุณได้เน่าเปื่อยอยู่ในหนองน้ำนี่แน่"
     },
     {
       "character": "Landenel",
-      "text": "I thought you might have the good sense to leave this place. By your continued presence, I take it you intend to persevere to the bitter end?"
+      "text": "ฉันนึกว่าคุณจะมีสติสัมปชัญญะพอที่จะหนีไปจากที่นี่แล้วซะอีกนะ การที่คุณยังอยู่ แปลว่าคุณตั้งใจจะดื้อด้านให้ถึงที่สุดสินะ?"
     },
     {
       "character": "Landenel",
-      "text": "Ahahaha! Such bravery, such recklessness! That will serve you well against Titan."
+      "text": "อ๊ะฮะฮะฮะฮะ! ช่างกล้าหาญ ช่างบ้าบิ่นอะไรขนาดนี้! แบบนั้นแหละที่จะเป็นประโยชน์เวลาสู้กับ Titan"
     },
     {
       "character": "Landenel",
-      "text": "Leave the egg with me─I'll see that it gets to the captain. You should make haste to southern Thanalan."
+      "text": "ทิ้งไข่ไว้กับฉันเถอะ เดี๋ยวฉันจะเอาไปให้กัปตันเอง คุณรีบไปที่ทางใต้ของ Thanalan เถอะ"
     },
     {
       "character": "Landenel",
-      "text": "In Forgotten Springs, you will find a man named U'odh Nunh. He will be your next guide. Safe travels, Forename ."
+      "text": "ที่ Forgotten Springs คุณจะได้พบกับชายคนหนึ่งที่ชื่อ U'odh Nunh เขาจะเป็นไกด์คนต่อไปให้คุณ เดินทางปลอดภัยนะ Forename"
     },
     {
       "character": "U'odh Nunh",
-      "text": "State your business, adventurerrr. <snort> Hah hah hah! So this is the one Wheiskaet sends me."
+      "text": "แจ้งธุระของเจ้ามา นักผจญภัย <ครืด> ฮ่า ฮ่า ฮ่า! นี่คือคนที่ Wheiskaet ส่งมาสินะ"
     },
     {
       "character": "U'odh Nunh",
-      "text": "I haven't the foggiest what he sees in you─and until I do, you will rrreceive no aid from me."
+      "text": "ข้าไม่รู้เลยว่าเขามองเห็นอะไรในตัวเจ้า... และจนกว่าข้าจะรู้ เจ้าจะไม่ได้รับความช่วยเหลือใดๆ จากข้า"
     }
   ]
 }

@@ -3,234 +3,234 @@
   "wiki_path": "/wiki/Big_Trouble_in_Little_Ala_Mhigo",
   "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/da/Big_Trouble_in_Little_Ala_Mhigo_Image.png",
   "patch": "2.0",
-  "title": "Big Trouble in Little Ala Mhigo",
+  "title": "ปัญหาใหญ่ใน Little Ala Mhigo",
   "level": "27",
   "location": "Southern Thanalan(X:16.9,Y:14.4)",
   "npc_start": "Gundobald",
   "dialogues": [
     {
       "character": "Gundobald",
-      "text": "Wilred mentioned obtaining the power to bring down the Empire. Of what power could he be speaking...?"
+      "text": "Wilred พูดถึงการได้มาซึ่งพลังเพื่อโค่นล้มพวก Empire พลังที่เขาพูดถึงมันคืออะไรกันแน่...?"
     },
     {
       "character": "???",
-      "text": "Gun...Gundobald... <groan> I-I..."
+      "text": "Gun...Gundobald... <โอดครวญ> ฉ-ฉัน..."
     },
     {
       "character": "Gundobald",
-      "text": "Bertliana!? Gods preserve! What happened!?"
+      "text": "Bertliana!? พระเจ้าช่วย! เกิดอะไรขึ้นเนี่ย!?"
     },
     {
       "character": "Bertliana",
-      "text": "I was out foraging...when the Corpse Brigade came... They took me to their hideout...and they...they... <sob>"
+      "text": "ฉันออกไปหาของป่า... แล้วพวก Corpse Brigade ก็มา... พวกมันจับฉันไปที่รังของพวกมัน... แล้วพวกมันก็... พวกมัน... <สะอื้น>"
     },
     {
       "character": "Bertliana",
-      "text": "The whole while, they laughed at me... <sob> They said that I suffer... b-because I cling on to hope... <sob>"
+      "text": "พวกมันหัวเราะเยาะฉันตลอดเวลาเลย... <สะอื้น> พวกมันบอกว่าฉันต้องทนทุกข์... ก-ก็เพราะฉันยังมีความหวังไงล่ะ... <สะอื้น>"
     },
     {
       "character": "Bertliana",
-      "text": "Is it wrong to dream of home? Is it wrong to call ourselves Ala Mhigans?"
+      "text": "มันผิดงั้นเหรอที่เราจะฝันถึงบ้านเกิด? มันผิดงั้นเหรอที่เราจะเรียกตัวเองว่าชาว Ala Mhigan?"
     },
     {
       "character": "Gundobald",
-      "text": "Do not heed such poisonous notions, child. Our dreams are what sustain us. Be strong─I swear to you, those villains will answer for their crimes in due time. But tell me...does anyone else know of this?"
+      "text": "อย่าไปสนใจคำพูดอาบยาพิษพวกนั้นเลยแม่หนู ความฝันของเราต่างหากที่หล่อเลี้ยงพวกเราไว้ เข้มแข็งเข้านะ─ฉันสาบานเลยว่าพวกคนชั่วพวกนั้นจะต้องชดใช้ในความผิดของพวกมันเมื่อถึงเวลาที่เหมาะสม แต่บอกฉันทีสิ... มีคนอื่นรู้เรื่องนี้อีกไหม?"
     },
     {
       "character": "Bertliana",
-      "text": "Wilred... He saw me outside... He was so angry..."
+      "text": "Wilred... เขาเห็นฉันอยู่ข้างนอก... เขาโกรธมากเลย..."
     },
     {
       "character": "Gundobald",
-      "text": "I must tend to Bertliana. In the meantime, I need you to find out what the young ones make of this. I fear that they may do something rash."
+      "text": "ฉันต้องดูแล Bertliana ก่อน ระหว่างนี้ ฉันอยากให้เธอไปดูหน่อยว่าพวกวัยรุ่นคิดยังไงกับเรื่องนี้ ฉันกลัวว่าพวกนั้นอาจจะทำอะไรบุ่มบ่ามน่ะ"
     },
     {
       "character": "Bertliana",
-      "text": "...Don't worry about me. Just being near everyone again eases my heart..."
+      "text": "...ไม่ต้องเป็นห่วงฉันหรอก แค่ได้อยู่ใกล้ทุกคนอีกครั้ง ฉันก็สบายใจขึ้นแล้วล่ะ..."
     },
     {
       "character": "Riled Lass",
-      "text": "What those animals did to Bertliana is unforgivable! And to think they look down on us!"
+      "text": "สิ่งที่พวกสัตว์ป่านั่นทำกับ Bertliana มันให้อภัยไม่ได้! แล้วมาคิดว่าพวกมันดูถูกพวกเราขนาดนี้!"
     },
     {
       "character": "Riled Lass",
-      "text": "Well, I'll suffer this humiliation no more! I'm with Wilred to the bitter end! I'm not afraid of a few lizards!"
+      "text": "ฉันจะไม่ทนกับความอัปยศนี้อีกต่อไปแล้ว! ฉันจะไปกับ Wilred ให้ถึงที่สุด! ฉันไม่กลัวพวกกิ้งก่านั่นหรอกนะ!"
     },
     {
       "character": "Wilred",
-      "text": "O mighty Rhalgr, Lord of Destruction...we implore You, lend us Your strength and put an end to the suffering of Your people..."
+      "text": "โอ้ องค์ Rhalgr ผู้ทรงอานุภาพ เจ้าแห่งการทำลายล้าง... พวกเราขอวิงวอนท่าน โปรดมอบพลังให้เราและยุติความทุกข์ทรมานของชาวเมืองของท่านด้วยเถิด..."
     },
     {
       "character": "Wilred",
-      "text": "Hmph, here to interfere again? Well, you're too late. Our plan is already in motion."
+      "text": "เฮอะ จะมาขวางทางพวกเราอีกแล้วเหรอ? ช้าไปแล้วล่ะ แผนของเรากำลังดำเนินการอยู่"
     },
     {
       "character": "Wilred",
-      "text": "Once we have the crystals, our enemies will pay for their crimes, and no one will dare oppress us ever again!"
+      "text": "ทันทีที่เราได้คริสตัลมา พวกศัตรูของเราจะต้องชดใช้สำหรับความผิดของพวกมัน และจะไม่มีใครกล้ามากดขี่เราอีกต่อไป!"
     },
     {
       "character": "Riled Youth",
-      "text": "If this plan succeeds, we'll have the power to lay the Empire low! To change the world for the better!"
+      "text": "ถ้าแผนนี้สำเร็จ เราก็จะมีพลังพอที่จะโค่น Empire ให้ราบคาบเลยล่ะ! เพื่อเปลี่ยนโลกนี้ให้ดีขึ้นไง!"
     },
     {
       "character": "Riled Youth",
-      "text": "Might be as Gundobald's content to eke out an existence in this musty old cave, but I'll be damned if I'm going to spend the rest of my life here. Now, where in the seven hells did I put that bloody map?"
+      "text": "Gundobald อาจจะพอใจที่ต้องมาทนอยู่ในถ้ำเก่าๆ เหม็นอับนี่ แต่ฉันยอมตายดีกว่าถ้าจะต้องใช้ชีวิตที่เหลืออยู่ที่นี่ แล้วฉันเอาแผนที่บ้าๆ นั่นไปไว้ที่ไหนในนรกทั้งเจ็ดขุมเนี่ย?"
     },
     {
       "character": "Gundobald",
-      "text": "...Gone? The whole lot of them? Then it is as I feared─they mean to take matters into their own hands. But what exactly is it that they mean to do?"
+      "text": "...หายไปแล้วงั้นเหรอ? หายไปหมดทุกคนเลยเหรอ? ถ้าอย่างนั้นก็เป็นอย่างที่ฉันกลัวจริงๆ ด้วย─พวกนั้นตั้งใจจะจัดการเรื่องนี้ด้วยตัวเอง แต่พวกนั้นตั้งใจจะทำอะไรกันแน่ล่ะ?"
     },
     {
       "character": "Gundobald",
-      "text": "What's this? A hunting knife...and a map of Zanr'ak? ...Wait. You said Wilred spoke of crystals, did you not? But they couldn't possibly mean to─ By the gods, this is rank madness..."
+      "text": "นี่มันอะไรเนี่ย? มีดล่าสัตว์... แล้วก็แผนที่ของ Zanr'ak? ...เดี๋ยวนะ เธอพอบอกว่า Wilred พูดถึงคริสตัลใช่ไหม? แต่พวกนั้นคงไม่คิดจะ─ พระเจ้าช่วย นี่มันบ้าไปแล้ว..."
     },
     {
       "character": "Gundobald",
-      "text": "The young fools are untrained and unblooded, all. They have no notion of how dangerous the Amalj'aa are. They'll be butchered before they get within a hundred yalms of the crystals."
+      "text": "ไอ้พวกเด็กโง่พวกนั้นไม่เคยได้รับการฝึกฝนแล้วก็ไม่เคยผ่านศึกมาเลย พวกเขาไม่รู้เลยว่าพวก Amalj'aa มันอันตรายขนาดไหน พวกเขาจะต้องถูกฆ่าตายก่อนจะเข้าใกล้คริสตัลในระยะร้อยหลาเสียอีก"
     },
     {
       "character": "Gundobald",
-      "text": "They are headed east. If we hurry, we may yet find them before it's too late."
+      "text": "พวกเขามุ่งหน้าไปทางตะวันออก ถ้าเรารีบไป อาจจะตามทันก่อนที่จะสายเกินแก้"
     },
     {
       "character": "Gundobald",
-      "text": "Wilred... Did no others survive?"
+      "text": "Wilred... ไม่มีใครรอดเลยเหรอ?"
     },
     {
       "character": "Wilred",
-      "text": "This is all wrong... Getting the crystals was supposed to be the start... We were going to reclaim our homeland... We were... We..."
+      "text": "มันผิดไปหมดเลย... การได้คริสตัลมามันน่าจะเป็นแค่จุดเริ่มต้น... เรากำลังจะได้บ้านเกิดกลับคืนมา... เรากำลังจะ... เรา..."
     },
     {
       "character": "Gundobald",
-      "text": "Pull yourself together, lad!"
+      "text": "ตั้งสติหน่อยสิพ่อหนุ่ม!"
     },
     {
       "character": "Wilred",
-      "text": "W-We were going to make an offering of crystals to Rhalgr─to summon Him, j-just like the masked man taught us."
+      "text": "พ-พวกเรากำลังจะนำคริสตัลไปถวายแด่เทพ Rhalgr─เพื่ออัญเชิญพระองค์ อ-อย่างที่ชายสวมหน้ากากสอนเราไงล่ะ"
     },
     {
       "character": "Wilred",
-      "text": "We plotted to sneak into Zanr'ak and make off with the lizardmen's cache, b-but they caught us and...and... So many dead... Gods forgive me..."
+      "text": "เราวางแผนแอบเข้าไปใน Zanr'ak แล้วก็ขโมยคลังสมบัติของมนุษย์กิ้งก่า ต-แต่พวกมันจับเราได้ แล้วก็... แล้วก็... ตายไปตั้งเยอะแยะ... พระเจ้าโปรดยกโทษให้ฉันด้วย..."
     },
     {
       "character": "???",
-      "text": "Heathens! You shall pay for your crimes with your souls!"
+      "text": "ไอ้พวกนอกรีต! พวกแกต้องชดใช้ความผิดด้วยวิญญาณของพวกแก!"
     },
     {
       "character": "Gundobald",
-      "text": "I regret our young ones' transgressions, but a soul is too high a price for youthful folly."
+      "text": "ฉันเสียใจกับการกระทำผิดของวัยรุ่นกลุ่มนี้ แต่วิญญาณก็เป็นราคาที่แพงเกินไปสำหรับความเขลาในวัยเยาว์นะ"
     },
     {
       "character": "Gundobald",
-      "text": "For all their failings, they are the hope of the Ala Mhigan people. This hope I will guard with my life."
+      "text": "ถึงแม้ว่าพวกเขาจะทำผิดพลาดไป แต่พวกเขาก็คือความหวังของชาว Ala Mhigan ความหวังนี้ฉันจะปกป้องไว้ด้วยชีวิตของฉันเอง"
     },
     {
       "character": "Wilred of the Falling Petal",
-      "text": "Forgive us... We...we only wanted..."
+      "text": "ยกโทษให้พวกเราด้วย... พวกเรา... พวกเราก็แค่ต้องการ..."
     },
     {
       "character": "Gundobald the Resolute",
-      "text": "The excuses will keep!"
+      "text": "ข้ออ้างเก็บไว้ทีหลังเถอะ!"
     },
     {
       "character": "Lavafang Hemozz Teh",
-      "text": "The whelps must pay for their crimes!"
+      "text": "ไอ้พวกลูกหมาจะต้องชดใช้ความผิดของพวกมัน!"
     },
     {
       "character": "Gundobald the Resolute",
-      "text": "I will not let you harm them!"
+      "text": "ฉันจะไม่ยอมให้แกทำร้ายพวกเขาหรอก!"
     },
     {
       "character": "Gundobald the Resolute",
-      "text": "Adventurer, stay close to Wilred!"
+      "text": "นักผจญภัย อยู่ใกล้ๆ Wilred ไว้นะ!"
     },
     {
       "character": "Lavafang Hemozz Teh",
-      "text": "Come, ye blessed of our Lord's breath!"
+      "text": "มาเถอะ เหล่าผู้ที่ได้รับพรจากลมหายใจของพระเจ้า!"
     },
     {
       "character": "Strapping Lad",
-      "text": "Mummy!!!"
+      "text": "แม่จ๋า!!!"
     },
     {
       "character": "Gundobald the Resolute",
-      "text": "We almost have them!"
+      "text": "เราเกือบจะได้ตัวพวกมันแล้ว!"
     },
     {
       "character": "Gundobald the Resolute",
-      "text": "Urgh... Is this...it?"
+      "text": "อึก... จบแค่นี้... งั้นเหรอ?"
     },
     {
       "character": "Wilred of the Falling Petal",
-      "text": "It wasn't meant to end...like this..."
+      "text": "มันไม่น่าจะจบลง... แบบนี้เลย..."
     },
     {
       "character": "Strapping Lad",
-      "text": "No! I don't want to die!"
+      "text": "ไม่นะ! ฉันยังไม่อยากตาย!"
     },
     {
       "character": "Gundobald",
-      "text": "Your skill at arms is impressive, adventurer. Our wayward youths could learn much from a man / woman like you."
+      "text": "ฝีมือการต่อสู้ของเธอน่าประทับใจมาก นักผจญภัย วัยรุ่นที่หลงผิดของเราคงได้เรียนรู้อะไรเยอะแยะจาก ชาย / หญิง อย่างเธอเลยล่ะ"
     },
     {
       "character": "Gundobald",
-      "text": "The battle is won, but it would be unwise to linger here. Let us return to Little Ala Mhigo."
+      "text": "เราชนะศึกนี้แล้วก็จริง แต่การอ้อยอิ่งอยู่ที่นี่คงไม่ใช่เรื่องฉลาดนัก เรากลับ Little Ala Mhigo กันเถอะ"
     },
     {
       "character": "Wilred",
-      "text": "W-Wait! We've come all this way─we have to get the crystals! They're right there, ripe for the picking!"
+      "text": "ด-เดี๋ยวก่อน! เราอุตส่าห์ดั้นด้นมาตั้งไกล─เราต้องเอาคริสตัลไปให้ได้นะ! มันอยู่ตรงนั้นไง รอให้เราไปหยิบอยู่เลย!"
     },
     {
       "character": "Gundobald",
-      "text": "Have you learned nothing, Wilred? Did you not see those tempered wretches?"
+      "text": "เธอไม่ได้เรียนรู้อะไรเลยเหรอ Wilred? ไม่เห็นไอ้พวกผู้ถูกครอบงำน่าเวทนานั่นหรือไง?"
     },
     {
       "character": "Gundobald",
-      "text": "Such is the fate of those who are touched by a god. Is that what you desire for yourself and your friends?"
+      "text": "นั่นแหละคือชะตากรรมของคนที่ถูกเทพเจ้าสัมผัสล่ะ นั่นคือสิ่งที่เธอต้องการให้ตัวเองและเพื่อนๆ ของเธอเป็นเหรอ?"
     },
     {
       "character": "Wilred",
-      "text": "What!? N-No one said anything about─ The masked man told us we could defeat the Empire if we summoned Rhalgr! He swore─"
+      "text": "อะไรนะ!? ม-ไม่มีใครบอกเรื่อง─ ชายสวมหน้ากากบอกว่าเราจะเอาชนะ Empire ได้ถ้าเราอัญเชิญ Rhalgr มา! เขาสาบานเลยนะ─"
     },
     {
       "character": "Gundobald",
-      "text": "Enough. I will hear the rest of this sorry tale back in Little Ala Mhigo. I daresay Forename will wish to hear it as well."
+      "text": "พอได้แล้ว ฉันจะไปฟังเรื่องเศร้าที่เหลือนี้ต่อที่ Little Ala Mhigo ก็แล้วกัน ฉันกล้าพูดเลยว่า [ชื่อ] ก็คงอยากจะฟังเหมือนกัน"
     },
     {
       "character": "Gundobald",
-      "text": "No more lies, Wilred. Tell us everything."
+      "text": "ไม่มีคำโกหกอีกต่อไปแล้วนะ Wilred เล่าทุกอย่างให้เราฟังมา"
     },
     {
       "character": "Wilred",
-      "text": "I was outside with the others when he appeared─the masked stranger."
+      "text": "ฉันอยู่ข้างนอกกับคนอื่นๆ ตอนที่เขาปรากฏตัวขึ้น─ชายสวมหน้ากากนั่นแหละ"
     },
     {
       "character": "Wilred",
-      "text": "He told us about summoning Rhalgr, about using crystals, and then just...vanished. We never saw him again."
+      "text": "เขาบอกพวกเราเรื่องการอัญเชิญ Rhalgr เรื่องการใช้คริสตัล แล้วก็... หายตัวไปเลย เราไม่เคยเจอเขาอีกเลย"
     },
     {
       "character": "Wilred",
-      "text": "I wanted so desperately to believe that we could raise ourselves from this squalor that I never stopped to question his motives. But I should have known─there's no solution, nothing we can do to change our lot. Our people are doomed to live and die like beasts..."
+      "text": "ฉันอยากจะเชื่อจนสุดหัวใจว่าพวกเราสามารถยกระดับตัวเองขึ้นจากความสกปรกนี้ได้ ฉันก็เลยไม่เคยหยุดคิดเลยว่าเขามีจุดประสงค์อะไร แต่ฉันน่าจะรู้─มันไม่มีทางแก้ปัญหาได้หรอก เราทำอะไรเพื่อเปลี่ยนโชคชะตาของเราไม่ได้เลย คนของเราถูกสาปให้ใช้ชีวิตและตายเหมือนสัตว์ป่า..."
     },
     {
       "character": "Gundobald",
-      "text": "Listen to me, Wilred. Our home may be lost to us, but it takes more than stones and mortar to define who we are. No matter where we may be, Ala Mhigo lives on within us all."
+      "text": "ฟังฉันนะ Wilred บ้านของเราอาจจะสูญเสียไปแล้วก็จริง แต่เราไม่ได้ถูกกำหนดด้วยอิฐและหินพวกนั้นหรอกนะ ไม่ว่าเราจะอยู่ที่ไหน Ala Mhigo จะยังคงอยู่ในใจพวกเราทุกคนเสมอ"
     },
     {
       "character": "Gundobald",
-      "text": "It is for you to decide what to make of this legacy. But whatever you choose to do with your life, never forget that you owe it to this adventurer─an outsider ."
+      "text": "มันขึ้นอยู่กับเธอแล้วว่าจะสานต่อมรดกนี้ยังไง แต่ไม่ว่าเธอจะเลือกทำอะไรกับชีวิตของเธอ อย่าลืมนะว่าเธอเป็นหนี้ชีวิตนักผจญภัยคนนี้─คนนอก แท้ๆ เลย"
     },
     {
       "character": "Wilred",
-      "text": "I...I won't. I promise."
+      "text": "ฉัน... ฉันจะไม่ลืมหรอก ฉันสัญญา"
     },
     {
       "character": "Wilred",
-      "text": "Thank you for saving me. And...sorry I tried to kill you."
+      "text": "ขอบคุณที่ช่วยชีวิตฉันไว้นะ แล้วก็... ขอโทษที่ฉันพยายามจะฆ่าเธอนะ"
     },
     {
       "character": "Gundobald",
-      "text": "My thanks as well, friend. It gives us hope to know that there are kind souls such as you out there. Little Ala Mhigo may not have much in the way of comfort, but you will always be welcome here."
+      "text": "ฉันขอขอบคุณด้วยอีกคนนะเพื่อนเอ๋ย มันทำให้เรามีความหวังขึ้นมาบ้างเมื่อรู้ว่ามีคนใจดีอย่างเธออยู่ข้างนอกนั่น Little Ala Mhigo อาจจะไม่ได้มีความสะดวกสบายอะไรมากมาย แต่เธอจะได้รับการต้อนรับที่นี่เสมอเลยนะ"
     }
   ]
 }
