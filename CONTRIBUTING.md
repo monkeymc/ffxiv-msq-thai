@@ -14,7 +14,7 @@
 
 ### 2. เข้า GitLocalize
 
-1. เปิดลิงก์ GitLocalize ของโปรเจกต์นี้: **[gitlocalize.com/repo/10779](https://gitlocalize.com/repo/10779)**
+1. เปิดลิงก์ GitLocalize ของโปรเจกต์นี้: **[gitlocalize.com/repo/10780](https://gitlocalize.com/repo/10780)**
 2. กด **Sign in with GitHub** แล้วอนุญาตให้ GitLocalize เข้าถึง GitHub ของคุณ
 3. ระบบจะพาคุณเข้าหน้าแปลโดยอัตโนมัติ
 
