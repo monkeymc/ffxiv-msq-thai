@@ -892,6 +892,32 @@ body.overlay-open { overflow: hidden; }
   font-weight: 400;
   line-height: 1.45;
 }
+.th-title-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+.th-title-row > a {
+  flex-shrink: 0;
+  margin-top: 0.15rem;
+}
+
+/* ── GitLocalize translate button ───────────────────────────── */
+.gl-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  color: var(--accent-strong);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent);
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  text-decoration: none;
+  white-space: nowrap;
+}
 
 .quest-banner {
   width: 100%;

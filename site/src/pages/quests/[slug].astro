@@ -16,6 +16,7 @@ export async function getStaticPaths() {
 interface Props { expansionId: string; }
 const { expansionId } = Astro.props;
 const { slug } = Astro.params;
+const glBaseUrl = 'https://gitlocalize.com/repo/10780/th/content_community/en';
 
 const quests = getAllQuests(expansionId);
 const quest = quests.find(q => q.id === slug)!;
@@ -59,7 +60,14 @@ const showProgress = totalDialogues > 0;
         <span class="pill"><span class="pl-k">NPC</span> {quest.npc_start}</span>
       </div>
       <h1 class="qh-title-en">{quest.title_en}</h1>
-      {quest.title_th && <p class="qh-title-th">{quest.title_th}</p>}
+      {quest.title_th && (
+        <div class="th-title-row">
+          <p class="qh-title-th">{quest.title_th}</p>
+          <a class="gl-btn" href={`${glBaseUrl}/${expansionId}/${quest.patch}/${slug}.json`} target="_blank" rel="noopener">
+            ช่วยแปล
+          </a>
+        </div>
+      )}
     </div>
 
     {showBanner && (
