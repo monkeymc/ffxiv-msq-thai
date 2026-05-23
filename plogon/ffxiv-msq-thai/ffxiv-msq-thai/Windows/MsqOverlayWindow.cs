@@ -23,6 +23,7 @@ public sealed class MsqOverlayWindow : Window, IDisposable
     private const float PadH        = 15f;
     private const float PadV        = 10f;
     private const float WrapSafeMargin = 20f; // buffer against Thai glyph right-edge clipping
+    private const float CutsceneOverlayWidth = 1000f; // wider for cutscene subtitles
 
     private readonly TalkHook _talkHook;
     private readonly IGameGui _gameGui;
@@ -197,10 +198,20 @@ public sealed class MsqOverlayWindow : Window, IDisposable
 
     private unsafe void ComputeLayout()
     {
-        var ptr = _gameGui.GetAddonByName("Talk");
+        var addonName = _talkHook.ActiveAddonName;
+        var ptr = _gameGui.GetAddonByName(addonName);
+        var io = ImGui.GetIO();
+        var screenW = io.DisplaySize.X;
+        var screenH = io.DisplaySize.Y;
+
+          // Fallback: center on screen if addon not found
+        var isCutscene = addonName is "TalkSubtitle" or "CutSceneSubtitle" or "CutsceneDialogue";
         if (ptr.Address == nint.Zero)
         {
-            _targetW = 600f;
+            var fallbackW = isCutscene ? CutsceneOverlayWidth : Math.Min(900f, screenW * 0.75f);
+            _targetW = fallbackW;
+            _targetX = (screenW - _targetW) / 2f;
+            _targetY = screenH * 0.82f;
             return;
         }
 
@@ -208,9 +219,23 @@ public sealed class MsqOverlayWindow : Window, IDisposable
         var scale  = addon->Scale;
         var addonX = (float)addon->X;
         var addonY = (float)addon->Y;
-        _targetW   = addon->GetScaledWidth(true);
+        _targetW   = isCutscene ? CutsceneOverlayWidth : addon->GetScaledWidth(true);
 
-        var textNode = addon->GetNodeById(TextNodeId);
+        // Get text node based on addon type
+        AtkResNode* textNode = null;
+        if (addonName == "Talk")
+        {
+            textNode = addon->GetNodeById(TextNodeId);
+        }
+        else if (addonName == "TalkSubtitle" || addonName == "CutSceneSubtitle" || addonName == "CutsceneDialogue")
+        {
+            textNode = addon->GetNodeById(NameNodeId);
+        }
+        else
+        {
+            textNode = FindTextNode(addon->RootNode);
+        }
+
         if (textNode != null)
         {
             _targetX = addonX + PadH;
@@ -223,5 +248,30 @@ public sealed class MsqOverlayWindow : Window, IDisposable
         }
 
         _targetW -= PadH * 2f;
+
+       // Safeguard: if addon position is invalid, use screen-centered fallback
+        if (_targetW <= 100f || _targetY <= 100f || textNode == null)
+        {
+            var fallbackW = isCutscene ? CutsceneOverlayWidth : Math.Min(900f, screenW * 0.75f);
+            _targetW = fallbackW;
+            _targetX = (screenW - _targetW) / 2f;
+            _targetY = screenH * 0.82f;
+        }
+        else if (_targetW < 400f)
+        {
+            _targetW = isCutscene ? CutsceneOverlayWidth : 600f;
+            _targetX = addonX + (addon->GetScaledWidth(true) - _targetW) / 2f;
+        }
+    }
+
+    private unsafe AtkResNode* FindTextNode(AtkResNode* node)
+    {
+        if (node == null) return null;
+        if ((int)node->Type == 3) return node;
+
+        var child = FindTextNode(node->ChildNode);
+        if (child != null) return child;
+
+        return FindTextNode(node->NextSiblingNode);
     }
 }

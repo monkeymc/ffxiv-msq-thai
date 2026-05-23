@@ -44,7 +44,8 @@ public sealed class Plugin : IDalamudPlugin
         _windowSystem.AddWindow(_overlay);
         _windowSystem.AddWindow(_anchor);
 
-        PluginInterface.UiBuilder.Draw        += _windowSystem.Draw;
+        PluginInterface.UiBuilder.DisableCutsceneUiHide = true;
+        PluginInterface.UiBuilder.Draw                  += _windowSystem.Draw;
         PluginInterface.UiBuilder.OpenConfigUi += _anchor.Toggle;
 
         CommandManager.AddHandler(ToggleCommand, new CommandInfo(OnToggleCommand)
