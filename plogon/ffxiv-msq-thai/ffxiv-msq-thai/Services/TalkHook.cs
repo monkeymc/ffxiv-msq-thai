@@ -11,9 +11,7 @@ namespace FfxivMsqThai.Services;
 public sealed class TalkHook : IDisposable
 {
     private const string AddonName = "Talk";
-    private const string NamePlaceholder = "Forename Surname";
 
-    // ── Text sanitization ────────────────────────────────────────────────────
     // Strip lines that are purely dashes/hyphens (AI "no-translation" markers)
     private static readonly Regex DashOnlyLine =
         new(@"^[\-–—\s]+$", RegexOptions.Compiled);
@@ -27,29 +25,33 @@ public sealed class TalkHook : IDisposable
         new(@"[\x02][\s\S]{1,4}[\x03]|[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]",
             RegexOptions.Compiled);
 
-    // ────────────────────────────────────────────────────────────────────────
-
     private readonly IAddonLifecycle _addonLifecycle;
     private readonly DialogueDictionary _dictionary;
-    private readonly IPluginLog _log;
+    private readonly IClientState _clientState;
+    private readonly IObjectTable _objectTable;
 
     public string[] CurrentTokens { get; private set; } = Array.Empty<string>();
 
-    public TalkHook(IAddonLifecycle addonLifecycle, DialogueDictionary dictionary, IPluginLog log)
+    public TalkHook(
+        IAddonLifecycle addonLifecycle,
+        DialogueDictionary dictionary,
+        IClientState clientState,
+        IObjectTable objectTable)
     {
         _addonLifecycle = addonLifecycle;
-        _dictionary = dictionary;
-        _log = log;
+        _dictionary     = dictionary;
+        _clientState    = clientState;
+        _objectTable    = objectTable;
 
         _addonLifecycle.RegisterListener(AddonEvent.PreRefresh, AddonName, OnPreRefresh);
-        _addonLifecycle.RegisterListener(AddonEvent.PreHide, AddonName, OnHide);
+        _addonLifecycle.RegisterListener(AddonEvent.PreHide,    AddonName, OnHide);
         _addonLifecycle.RegisterListener(AddonEvent.PreFinalize, AddonName, OnHide);
     }
 
     public void Dispose()
     {
         _addonLifecycle.UnregisterListener(AddonEvent.PreRefresh, AddonName, OnPreRefresh);
-        _addonLifecycle.UnregisterListener(AddonEvent.PreHide, AddonName, OnHide);
+        _addonLifecycle.UnregisterListener(AddonEvent.PreHide,    AddonName, OnHide);
         _addonLifecycle.UnregisterListener(AddonEvent.PreFinalize, AddonName, OnHide);
     }
 
@@ -66,30 +68,67 @@ public sealed class TalkHook : IDisposable
         var textEn = MemoryHelper.ReadSeStringAsString(out _, textPtr);
         if (string.IsNullOrWhiteSpace(textEn)) { CurrentTokens = Array.Empty<string>(); return; }
 
-        // displayEn: human-readable form used for the English fallback token
-        var displayEn = DialogueDictionary.NormalizeEnglishKey(textEn);
-        if (displayEn.Length == 0) { CurrentTokens = Array.Empty<string>(); return; }
+        // Normalize and strip the player's character name so our generic JSON
+        // placeholder ("Forename Surname" / "Forename") aligns with whatever the player chose.
+        var displayEn  = DialogueDictionary.NormalizeEnglishKey(textEn);
+        var fullName   = _objectTable.LocalPlayer?.Name.ToString() ?? string.Empty;
+        var firstName  = !string.IsNullOrEmpty(fullName) ? fullName.Split(' ')[0] : string.Empty;
 
-        // lookupKey: letters + digits only, lowercase — immune to punctuation/space/quote variance
-        var lookupKey = DialogueDictionary.ToPureAlphanumericKey(displayEn);
-
-        // TODO: replace NamePlaceholder with real player name once ClientStructs API confirmed
-        if (!_dictionary.TryGetThai(lookupKey, out var raw) &&
-            !_dictionary.TryGetThaiFuzzy(lookupKey, out raw))
+        if (!string.IsNullOrEmpty(fullName) && displayEn.Contains(fullName))
         {
-            CurrentTokens = new[] { displayEn };
+            displayEn = displayEn.Replace(fullName, "Forename Surname");
+        }
+        else if (!string.IsNullOrEmpty(firstName) && displayEn.Contains(firstName))
+        {
+            displayEn = displayEn.Replace(firstName, "Forename");
+        }
+
+        if (displayEn.Length == 0)
+        {
+            CurrentTokens = Array.Empty<string>();
             return;
         }
 
-        var clean = SanitizeThai(raw);
+        var lookupKey = DialogueDictionary.ToPureAlphanumericKey(displayEn);
+
+        string? rawThai = null;
+
+        // Step A: Strict Exact Probing (100%)
+        if (_dictionary.TryGetThai(lookupKey, out var exactTh))
+        {
+            rawThai = exactTh;
+        }
+        // Step B: Conditional Name-Gated Fuzzy Probing (85%)
+        else
+        {
+            bool textContainsPlayerName = (!string.IsNullOrEmpty(fullName) && textEn.Contains(fullName, StringComparison.OrdinalIgnoreCase)) ||
+                                          (!string.IsNullOrEmpty(firstName) && textEn.Contains(firstName, StringComparison.OrdinalIgnoreCase));
+
+            if (textContainsPlayerName)
+            {
+                var fuzzyResult = _dictionary.FindFuzzyMatch(lookupKey, threshold: 0.85f);
+                if (fuzzyResult != null)
+                {
+                    rawThai = fuzzyResult.ThaiText;
+                }
+            }
+        }
+
+        // Step C: Absolute Miss Gate (The Suppress Rule)
+        if (rawThai == null)
+        {
+            CurrentTokens = Array.Empty<string>();
+            return;
+        }
+
+        var clean = SanitizeThai(rawThai);
         if (string.IsNullOrWhiteSpace(clean))
         {
-            CurrentTokens = new[] { displayEn };
+            CurrentTokens = Array.Empty<string>();
             return;
         }
 
         CurrentTokens = ThaiWordSegmenter.Segment(clean);
-        _log.Debug($"[ffxiv-msq-thai] {displayEn[..Math.Min(40, displayEn.Length)]}…");
     }
 
     private void OnHide(AddonEvent type, AddonArgs args)
@@ -102,11 +141,10 @@ public sealed class TalkHook : IDisposable
     {
         if (string.IsNullOrWhiteSpace(text)) return string.Empty;
 
-        // Drop the whole string if it is nothing but dashes (AI placeholder)
         if (DashOnlyLine.IsMatch(text)) return string.Empty;
 
-        text = SeControl.Replace(text, string.Empty);     // control codes
-        text = InlineDashRun.Replace(text, string.Empty); // "------" runs
+        text = SeControl.Replace(text, string.Empty);
+        text = InlineDashRun.Replace(text, string.Empty);
         return text.Trim();
     }
 }

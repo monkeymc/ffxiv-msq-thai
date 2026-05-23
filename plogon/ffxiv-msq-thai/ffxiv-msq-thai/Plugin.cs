@@ -1,4 +1,5 @@
 using Dalamud.Game.Addon.Lifecycle;
+using Dalamud.Game.ClientState.Objects;
 using Dalamud.Game.Command;
 using Dalamud.Interface.Windowing;
 using Dalamud.IoC;
@@ -16,6 +17,9 @@ public sealed class Plugin : IDalamudPlugin
     [PluginService] internal static IAddonLifecycle AddonLifecycle { get; private set; } = null!;
     [PluginService] internal static IGameGui GameGui { get; private set; } = null!;
     [PluginService] internal static ICommandManager CommandManager { get; private set; } = null!;
+    [PluginService] internal static IObjectTable ObjectTable { get; private set; } = null!;
+    [PluginService] internal static IDataManager DataManager { get; private set; } = null!;
+    [PluginService] internal static IClientState ClientState { get; private set; } = null!;
 
     private const string ToggleCommand = "/msqth";
 
@@ -33,7 +37,7 @@ public sealed class Plugin : IDalamudPlugin
         ThaiWordSegmenter.LoadDictionary(assemblyDir, Log);
         var contentRoot = string.IsNullOrEmpty(_config.ContentRoot) ? assemblyDir : _config.ContentRoot;
         _dictionary = new DialogueDictionary(contentRoot, Log);
-        _talkHook   = new TalkHook(AddonLifecycle, _dictionary, Log);
+        _talkHook   = new TalkHook(AddonLifecycle, _dictionary, ClientState, ObjectTable);
         _overlay    = new MsqOverlayWindow(_talkHook, GameGui, PluginInterface, _config);
         _anchor     = new TalkAnchorWidget(_config, PluginInterface, GameGui);
 

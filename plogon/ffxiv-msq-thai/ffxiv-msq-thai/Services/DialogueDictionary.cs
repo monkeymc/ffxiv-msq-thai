@@ -12,8 +12,11 @@ namespace FfxivMsqThai.Services;
 public class DialogueDictionary
 {
     private readonly Dictionary<string, string> _lookup = new(StringComparer.Ordinal);
+    private readonly HashSet<string> _knownQuestSlugs = new(StringComparer.Ordinal);
 
     public int Count => _lookup.Count;
+
+    public bool HasQuest(string questSlug) => _knownQuestSlugs.Contains(questSlug);
 
     public DialogueDictionary(string contentRoot, IPluginLog log)
     {
@@ -75,6 +78,17 @@ public class DialogueDictionary
             return true;
         }
         return false;
+    }
+
+    public record FuzzyMatchResult(string ThaiText);
+
+    public FuzzyMatchResult? FindFuzzyMatch(string lookupKey, double threshold = 0.95)
+    {
+        if (TryGetThaiFuzzy(lookupKey, out var textTh, threshold))
+        {
+            return new FuzzyMatchResult(textTh);
+        }
+        return null;
     }
 
     private static int LevenshteinDistance(string a, string b)
@@ -140,7 +154,9 @@ public class DialogueDictionary
         var en = Read<QuestFile>(enFile);
         if (en?.Dialogues == null) return;
 
-        var th = File.Exists(thFile) ? Read<QuestFile>(thFile) : null;
+        var th       = File.Exists(thFile) ? Read<QuestFile>(thFile) : null;
+        var questSlug = ToPureAlphanumericKey(Path.GetFileNameWithoutExtension(enFile));
+        _knownQuestSlugs.Add(questSlug);
 
         for (var i = 0; i < en.Dialogues.Count; i++)
         {
@@ -154,7 +170,14 @@ public class DialogueDictionary
             {
                 var textTh = th.Dialogues[i].Text;
                 if (!string.IsNullOrWhiteSpace(textTh))
-                    _lookup[key] = textTh;
+                {
+                    // Tier 1: quest-scoped compound key — highest priority
+                    _lookup[$"{questSlug}_{key}"] = textTh;
+
+                    // Tier 2: global key — first-write-wins so a later quest's
+                    // translation never silently overwrites an earlier one
+                    _lookup.TryAdd(key, textTh);
+                }
             }
         }
     }
