@@ -1,0 +1,12 @@
+{
+  "Author": "monkeymc",
+  "Name": "ffxiv-msq-thai",
+  "Punchline": "Shows a hello, world overlay.",
+  "Description": "A minimal plugin that renders a hello, world overlay on screen.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "overlay",
+    "hello",
+    "sample"
+  ]
+}

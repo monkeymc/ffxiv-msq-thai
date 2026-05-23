@@ -1,0 +1,71 @@
+using Dalamud.Game.Addon.Lifecycle;
+using Dalamud.Game.Command;
+using Dalamud.Interface.Windowing;
+using Dalamud.IoC;
+using Dalamud.Plugin;
+using Dalamud.Plugin.Services;
+using FfxivMsqThai.Services;
+using FfxivMsqThai.Windows;
+
+namespace FfxivMsqThai;
+
+public sealed class Plugin : IDalamudPlugin
+{
+    [PluginService] internal static IDalamudPluginInterface PluginInterface { get; private set; } = null!;
+    [PluginService] internal static IPluginLog Log { get; private set; } = null!;
+    [PluginService] internal static IAddonLifecycle AddonLifecycle { get; private set; } = null!;
+    [PluginService] internal static IGameGui GameGui { get; private set; } = null!;
+    [PluginService] internal static ICommandManager CommandManager { get; private set; } = null!;
+
+    private const string ToggleCommand = "/msqth";
+
+    private readonly WindowSystem _windowSystem = new("ffxiv-msq-thai");
+    private readonly PluginConfig _config;
+    private readonly DialogueDictionary _dictionary;
+    private readonly TalkHook _talkHook;
+    private readonly MsqOverlayWindow _overlay;
+    private readonly TalkAnchorWidget _anchor;
+
+    public Plugin()
+    {
+        _config     = PluginInterface.GetPluginConfig() as PluginConfig ?? new PluginConfig();
+        var assemblyDir = PluginInterface.AssemblyLocation.Directory!.FullName;
+        ThaiWordSegmenter.LoadDictionary(assemblyDir, Log);
+        var contentRoot = string.IsNullOrEmpty(_config.ContentRoot) ? assemblyDir : _config.ContentRoot;
+        _dictionary = new DialogueDictionary(contentRoot, Log);
+        _talkHook   = new TalkHook(AddonLifecycle, _dictionary, Log);
+        _overlay    = new MsqOverlayWindow(_talkHook, GameGui, PluginInterface, _config);
+        _anchor     = new TalkAnchorWidget(_config, PluginInterface, GameGui);
+
+        _windowSystem.AddWindow(_overlay);
+        _windowSystem.AddWindow(_anchor);
+
+        PluginInterface.UiBuilder.Draw        += _windowSystem.Draw;
+        PluginInterface.UiBuilder.OpenConfigUi += _anchor.Toggle;
+
+        CommandManager.AddHandler(ToggleCommand, new CommandInfo(OnToggleCommand)
+        {
+            HelpMessage = "/msqth — toggle overlay"
+        });
+
+        Log.Information($"[ffxiv-msq-thai] Ready — {_dictionary.Count} entries.");
+    }
+
+    public void Dispose()
+    {
+        CommandManager.RemoveHandler(ToggleCommand);
+        PluginInterface.UiBuilder.OpenConfigUi -= _anchor.Toggle;
+        PluginInterface.UiBuilder.Draw         -= _windowSystem.Draw;
+        _windowSystem.RemoveAllWindows();
+        _overlay.Dispose();
+        _anchor.Dispose();
+        _talkHook.Dispose();
+    }
+
+    private void OnToggleCommand(string command, string args)
+    {
+        _config.Enabled = !_config.Enabled;
+        _config.Save();
+        Log.Information($"[ffxiv-msq-thai] Overlay {(_config.Enabled ? "ON" : "OFF")}.");
+    }
+}
