@@ -1,12 +1,13 @@
 {
   "Author": "monkeymc",
-  "Name": "ffxiv-msq-thai",
-  "Punchline": "Shows a hello, world overlay.",
-  "Description": "A minimal plugin that renders a hello, world overlay on screen.",
+  "Name": "MSQThai",
+  "Punchline": "enjoy MSQ in Thai language!",
+  "Description": "Translates FFXIV Main Scenario Quest (MSQ) dialogues and cutscenes into Thai. Enjoy the story in your native language! / แปลเนื้อเรื่องหลัก FFXIV และบทสนทนาเป็นภาษาไทย!",
   "ApplicableVersion": "any",
   "Tags": [
+    "translation",
     "overlay",
-    "hello",
-    "sample"
+    "msq",
+    "thai"
   ]
 }
