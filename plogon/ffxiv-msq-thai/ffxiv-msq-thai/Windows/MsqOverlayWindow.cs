@@ -139,8 +139,14 @@ public sealed class MsqOverlayWindow : Window, IDisposable
             var centerX = screenW / 2.0f;
             ImGui.SetNextWindowPos(new Vector2(centerX, screenH - 180.0f), ImGuiCond.Always, new Vector2(0.5f, 0.5f));
 
-            // Allow the box to shrink for short texts, but cap the maximum width at 1100px so it never blows out of the screen
-            ImGui.SetNextWindowSizeConstraints(new Vector2(300f, 100f), new Vector2(1100f, 250f));
+            // TalkSubtitle and CutSceneSubtitle expanded by +30% (1144px), CutsceneDialogue is 1100px (+25%)
+            var maxW = addonName switch
+            {
+                "TalkSubtitle" or "CutSceneSubtitle" => 1144f,
+                "CutsceneDialogue" => 1100f,
+                _ => 880f
+            };
+            ImGui.SetNextWindowSizeConstraints(new Vector2(300f, 100f), new Vector2(maxW, 250f));
         }
         else
         {
@@ -191,9 +197,13 @@ public sealed class MsqOverlayWindow : Window, IDisposable
 
             // Token-by-token render loop: each word is a separate ImGui.Text()
             // call so ​ is never needed (avoiding missing-glyph ? artefacts).
-            var wrapWidth = isCutscene
-                ? (1100f - PadH * 2f - WrapSafeMargin)
-                : (_targetW - PadH * 2f - WrapSafeMargin);
+            var maxW = isCutscene ? (addonName switch
+            {
+                "TalkSubtitle" or "CutSceneSubtitle" => 1144f,
+                "CutsceneDialogue" => 1100f,
+                _ => 880f
+            }) : _targetW;
+            var wrapWidth = maxW - PadH * 2f - WrapSafeMargin;
             var tokens    = _talkHook.CurrentTokens;
 
             // Group tokens into lines based on wrap width
@@ -335,6 +345,14 @@ public sealed class MsqOverlayWindow : Window, IDisposable
             {
                 _targetW = 600f;
                 _targetX = addonX + (addon->GetScaledWidth(true) - _targetW) / 2f;
+            }
+
+            if (addonName == "Talk")
+            {
+                var originalW = _targetW;
+                _targetW *= 1.20f;
+                var deltaW = _targetW - originalW;
+                _targetX -= deltaW * 0.5f;
             }
         }
     }
