@@ -1,0 +1,113 @@
+---
+import '../styles/global.css';
+import dtQuests from '../data/dt-quests.json';
+
+const patchLabels: Record<string, string> = {
+  '7.0': 'Dawntrail',
+  '7.1': 'The New Dawn',
+  '7.2': 'Crossroads',
+  '7.3': 'The Promise of Tomorrow',
+  '7.4': 'Into the Mist',
+  '7.5': 'Trail to the Heavens',
+};
+
+const patchOrder = ['7.0', '7.1', '7.2', '7.3', '7.4', '7.5'];
+const patches: Record<string, typeof dtQuests> = {};
+for (const q of dtQuests) {
+  if (!patches[q.patch]) patches[q.patch] = [];
+  patches[q.patch].push(q);
+}
+
+const patchesArray = patchOrder
+  .filter(p => patches[p] && patches[p].length)
+  .map(p => ({ patch: p, quests: patches[p] }));
+
+// Build a flat ordered list of all quests for "Next" navigation
+const allQuests = [];
+for (const pa of patchesArray) {
+  allQuests.push(...pa.quests);
+}
+const nextMap = new Map();
+const prevMap = new Map();
+for (let i = 0; i < allQuests.length - 1; i++) {
+  const curr = allQuests[i];
+  const next = allQuests[i + 1];
+  const currId = 'quest-' + curr.title.replace(/\s+/g, '-').replace(/'/g, '');
+  const nextId = 'quest-' + next.title.replace(/\s+/g, '-').replace(/'/g, '');
+  nextMap.set(currId, nextId);
+  prevMap.set(nextId, currId);
+}
+---
+
+<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dawntrail Quests — MSQ Thai</title>
+  </head>
+  <body>
+    <main class="dawntrail">
+      <header class="dawntrail-header">
+        <a href="/" class="back-link">&#8592; BACK</a>
+        <h1>Dawntrail MSQ</h1>
+        <p class="subtitle">Dawntrail MSQ &#8212; {dtQuests.length} quests across {patchOrder.length} patches</p>
+      </header>
+
+      {patchesArray.map((pa, patchIdx) => {
+        const { patch, quests } = pa;
+        return (
+        <section class="patch-section">
+          <div class="patch-header">
+            <h2><span class="patch-badge">{patch}</span> {patchLabels[patch]}</h2>
+            <span class="patch-count">{quests.length} quests</span>
+          </div>
+
+          <table class="quest-table">
+            <thead>
+              <tr>
+                <th class="col-num">#</th>
+                <th class="col-banner">Banner Link</th>
+                <th class="col-title">Quest Name</th>
+                <th class="col-wiki">Wiki</th>
+                <th class="col-prev">Back</th>
+                <th class="col-next">Next</th>
+              </tr>
+            </thead>
+            <tbody>
+              {quests.map((q, i) => {
+                const nextId = nextMap.get('quest-' + q.title.replace(/\s+/g, '-').replace(/'/g, ''));
+                return (
+                <tr id={'quest-' + q.title.replace(/\s+/g, '-').replace(/'/g, '')}>
+                  <td class="col-num">{i + 1}</td>
+                  <td class="col-banner">
+                    {(() => {
+                      const url = q.wiki_image_url || '';
+                      const isGeneric = url.includes('Mainscenarioquest') || url.includes('Main_Scenario_Quest_icon');
+                      return isGeneric ? '-' : <a href={url} target="_blank" rel="noopener">Link</a>;
+                    })()}
+                  </td>
+                  <td class="col-title"><span class="quest-title">{q.title}</span></td>
+                  <td class="col-wiki">
+                    <a href={`https://ffxiv.consolegameswiki.com${q.wiki_path}`} target="_blank" rel="noopener">Wiki</a>
+                  </td>
+                  <td class="col-prev">
+                    {(() => {
+                      const rowId = 'quest-' + q.title.replace(/\s+/g, '-').replace(/'/g, '');
+                      const prevId = prevMap.get(rowId);
+                      return prevId ? <a href={'#' + prevId}>Back</a> : '-';
+                    })()}
+                  </td>
+                  <td class="col-next">
+                    {nextId ? <a href={'#' + nextId}>Next</a> : '-'}
+                  </td>
+                </tr>
+              )})}
+            </tbody>
+          </table>
+        </section>
+        );
+      })}
+    </main>
+  </body>
+</html>

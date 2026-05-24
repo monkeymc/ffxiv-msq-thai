@@ -39,6 +39,9 @@ public sealed class TalkHook : IDisposable
     private readonly IObjectTable _objectTable;
     private readonly IPluginLog _log = Plugin.Log;
 
+    private string _lastTextEn = string.Empty;
+    private string _lastAddonName = string.Empty;
+
     public string[] CurrentTokens { get; private set; } = Array.Empty<string>();
 
     public TalkHook(
@@ -125,7 +128,12 @@ public sealed class TalkHook : IDisposable
         {
             return;
         }
-       if (string.IsNullOrWhiteSpace(textEn)) { CurrentTokens = Array.Empty<string>(); return; }
+
+        if (textEn == _lastTextEn && args.AddonName == _lastAddonName) return;
+        _lastTextEn = textEn;
+        _lastAddonName = args.AddonName;
+
+        if (string.IsNullOrWhiteSpace(textEn)) { CurrentTokens = Array.Empty<string>(); return; }
 
         _log.Information($"[MSQ-Thai-UI] TEXT: '{textEn}' (addon={args.AddonName})");
 
@@ -161,41 +169,71 @@ public sealed class TalkHook : IDisposable
         {
             rawThai = exactTh;
             _log.Information($"[MSQ-Thai-UI] MATCH: exact '{lookupKey}' -> '{rawThai}'");
+            
+            var clean = SanitizeThai(rawThai);
+            if (string.IsNullOrWhiteSpace(clean))
+            {
+                CurrentTokens = Array.Empty<string>();
+                return;
+            }
+            CurrentTokens = ThaiWordSegmenter.Segment(clean);
         }
-      // Step B: Fuzzy Probing (75%) — try regardless of player name
+        // Step B: Fuzzy Probing (75%) — try regardless of player name
         else
         {
-            var fuzzyResult = _dictionary.FindFuzzyMatch(lookupKey, threshold: 0.75f);
-            if (fuzzyResult != null)
+            if (_dictionary.TryGetCachedFuzzyMatch(lookupKey, out var cachedTh))
             {
-                rawThai = fuzzyResult.ThaiText;
-                _log.Information($"[MSQ-Thai-UI] MATCH: fuzzy '{lookupKey}' -> '{rawThai}'");
+                if (cachedTh != null)
+                {
+                    _log.Information($"[MSQ-Thai-UI] MATCH (Cached): fuzzy '{lookupKey}' -> '{cachedTh}'");
+                    var clean = SanitizeThai(cachedTh);
+                    CurrentTokens = string.IsNullOrWhiteSpace(clean) ? Array.Empty<string>() : ThaiWordSegmenter.Segment(clean);
+                }
+                else
+                {
+                    _log.Debug($"[MSQ-Thai-UI] NO MATCH (Cached): '{lookupKey}'");
+                    CurrentTokens = Array.Empty<string>();
+                }
             }
             else
             {
-                _log.Debug($"[MSQ-Thai-UI] NO MATCH: '{lookupKey}' — no match above 0.75");
+                // Cache miss: clear token list and run Levenshtein async
+                CurrentTokens = Array.Empty<string>();
+                var currentTextEn = textEn;
+                var currentAddonName = args.AddonName;
+
+                System.Threading.Tasks.Task.Run(() =>
+                {
+                    var fuzzyResult = _dictionary.FindFuzzyMatch(lookupKey, threshold: 0.75f);
+                    
+                    // Assign match to UI thread if the player is still on the same dialogue line
+                    if (_lastTextEn == currentTextEn && _lastAddonName == currentAddonName)
+                    {
+                        if (fuzzyResult != null)
+                        {
+                            _log.Information($"[MSQ-Thai-UI] MATCH (Async): fuzzy '{lookupKey}' -> '{fuzzyResult.ThaiText}'");
+                            var clean = SanitizeThai(fuzzyResult.ThaiText);
+                            if (!string.IsNullOrWhiteSpace(clean))
+                            {
+                                CurrentTokens = ThaiWordSegmenter.Segment(clean);
+                            }
+                        }
+                        else
+                        {
+                            _log.Debug($"[MSQ-Thai-UI] NO MATCH (Async): '{lookupKey}' — no match above 0.75");
+                        }
+                    }
+                });
             }
         }
-
-        // Step C: Absolute Miss Gate (The Suppress Rule)
-        if (rawThai == null)
-        {
-            CurrentTokens = Array.Empty<string>();
-            return;
-        }
-
-        var clean = SanitizeThai(rawThai);
-        if (string.IsNullOrWhiteSpace(clean))
-        {
-            CurrentTokens = Array.Empty<string>();
-            return;
-        }
-
-        CurrentTokens = ThaiWordSegmenter.Segment(clean);
     }
 
     private void OnHide(AddonEvent type, AddonArgs args)
-        => CurrentTokens = Array.Empty<string>();
+    {
+        CurrentTokens = Array.Empty<string>();
+        _lastTextEn = string.Empty;
+        _lastAddonName = string.Empty;
+    }
 
     /// <summary>
     /// Strips game artefacts and AI "no-translation" markers from Thai output.

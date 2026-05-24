@@ -1,0 +1,1375 @@
+[
+  {
+    "title": "A New World to Explore",
+    "level": "90",
+    "wiki_path": "/wiki/A_New_World_to_Explore",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/8/86/A_New_World_to_Explore.png/280px-A_New_World_to_Explore.png",
+    "patch": "7.0",
+    "chain": "mqc",
+    "chain_title": "Main Quest Chain",
+    "chain_index": 0,
+    "chain_total": 5
+  },
+  {
+    "title": "The Nation of Tuliyollal",
+    "level": "90",
+    "wiki_path": "/wiki/The_Nation_of_Tuliyollal",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/8/8a/The_Nation_of_Tuliyollal.png/280px-The_Nation_of_Tuliyollal.png",
+    "patch": "7.0",
+    "chain": "mqc",
+    "chain_title": "Main Quest Chain",
+    "chain_index": 1,
+    "chain_total": 5
+  },
+  {
+    "title": "A City of Stairs",
+    "level": "90",
+    "wiki_path": "/wiki/A_City_of_Stairs",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "mqc",
+    "chain_title": "Main Quest Chain",
+    "chain_index": 2,
+    "chain_total": 5
+  },
+  {
+    "title": "A Saga in Stone",
+    "level": "90",
+    "wiki_path": "/wiki/A_Saga_in_Stone",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "mqc",
+    "chain_title": "Main Quest Chain",
+    "chain_index": 3,
+    "chain_total": 5
+  },
+  {
+    "title": "The Rite of Succession",
+    "level": "90",
+    "wiki_path": "/wiki/The_Rite_of_Succession",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "mqc",
+    "chain_title": "Main Quest Chain",
+    "chain_index": 4,
+    "chain_total": 5
+  },
+  {
+    "title": "To Kozama'uka",
+    "level": "90",
+    "wiki_path": "/wiki/To_Kozama%27uka",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/8/83/To_Kozama%27uka.png/280px-To_Kozama%27uka.png",
+    "patch": "7.0",
+    "chain": "koz",
+    "chain_title": "Kozama'uka Quest Chain",
+    "chain_index": 0,
+    "chain_total": 6
+  },
+  {
+    "title": "A Festive People",
+    "level": "90",
+    "wiki_path": "/wiki/A_Festive_People",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "koz",
+    "chain_title": "Kozama'uka Quest Chain",
+    "chain_index": 1,
+    "chain_total": 6
+  },
+  {
+    "title": "The Feat of Reeds",
+    "level": "90",
+    "wiki_path": "/wiki/The_Feat_of_Reeds",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "koz",
+    "chain_title": "Kozama'uka Quest Chain",
+    "chain_index": 2,
+    "chain_total": 6
+  },
+  {
+    "title": "A Well-mannered Shipwright",
+    "level": "90",
+    "wiki_path": "/wiki/A_Well-mannered_Shipwright",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "koz",
+    "chain_title": "Kozama'uka Quest Chain",
+    "chain_index": 3,
+    "chain_total": 6
+  },
+  {
+    "title": "The Lifting of Wings",
+    "level": "90",
+    "wiki_path": "/wiki/The_Lifting_of_Wings",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "koz",
+    "chain_title": "Kozama'uka Quest Chain",
+    "chain_index": 4,
+    "chain_total": 6
+  },
+  {
+    "title": "Knowing the Hanuhanu",
+    "level": "90",
+    "wiki_path": "/wiki/Knowing_the_Hanuhanu",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/a/af/Knowing_the_Hanuhanu.png/280px-Knowing_the_Hanuhanu.png",
+    "patch": "7.0",
+    "chain": "koz",
+    "chain_title": "Kozama'uka Quest Chain",
+    "chain_index": 5,
+    "chain_total": 6
+  },
+  {
+    "title": "To Urqopacha",
+    "level": "90",
+    "wiki_path": "/wiki/To_Urqopacha",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/1/1d/To_Urqopacha.png/280px-To_Urqopacha.png",
+    "patch": "7.0",
+    "chain": "urq",
+    "chain_title": "Urqopacha Quest Chain",
+    "chain_index": 0,
+    "chain_total": 7
+  },
+  {
+    "title": "Traders of Happiness",
+    "level": "90",
+    "wiki_path": "/wiki/Traders_of_Happiness",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "urq",
+    "chain_title": "Urqopacha Quest Chain",
+    "chain_index": 1,
+    "chain_total": 7
+  },
+  {
+    "title": "The Feat of Gold",
+    "level": "90",
+    "wiki_path": "/wiki/The_Feat_of_Gold",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "urq",
+    "chain_title": "Urqopacha Quest Chain",
+    "chain_index": 2,
+    "chain_total": 7
+  },
+  {
+    "title": "Mablu's Dream",
+    "level": "90",
+    "wiki_path": "/wiki/Mablu%27s_Dream",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "urq",
+    "chain_title": "Urqopacha Quest Chain",
+    "chain_index": 3,
+    "chain_total": 7
+  },
+  {
+    "title": "A Premium Deal",
+    "level": "90",
+    "wiki_path": "/wiki/A_Premium_Deal",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "urq",
+    "chain_title": "Urqopacha Quest Chain",
+    "chain_index": 4,
+    "chain_total": 7
+  },
+  {
+    "title": "Wuk Lamat in the Saddle",
+    "level": "90",
+    "wiki_path": "/wiki/Wuk_Lamat_in_the_Saddle",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "urq",
+    "chain_title": "Urqopacha Quest Chain",
+    "chain_index": 5,
+    "chain_total": 7
+  },
+  {
+    "title": "Knowing the Pelupelu",
+    "level": "90",
+    "wiki_path": "/wiki/Knowing_the_Pelupelu",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/77/Knowing_the_Pelupelu.png/280px-Knowing_the_Pelupelu.png",
+    "patch": "7.0",
+    "chain": "urq",
+    "chain_title": "Urqopacha Quest Chain",
+    "chain_index": 6,
+    "chain_total": 7
+  },
+  {
+    "title": "The Success of Others",
+    "level": "91",
+    "wiki_path": "/wiki/The_Success_of_Others",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "mqc2",
+    "chain_title": "Main Quest Chain (Continued)",
+    "chain_index": 0,
+    "chain_total": 2
+  },
+  {
+    "title": "For All Turali",
+    "level": "91",
+    "wiki_path": "/wiki/For_All_Turali",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/77/For_All_Turali.png/280px-For_All_Turali.png",
+    "patch": "7.0",
+    "chain": "mqc2",
+    "chain_title": "Main Quest Chain (Continued)",
+    "chain_index": 1,
+    "chain_total": 2
+  },
+  {
+    "title": "A Leaking Workpot",
+    "level": "92",
+    "wiki_path": "/wiki/A_Leaking_Workpot",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Lending a Helphand",
+    "level": "92",
+    "wiki_path": "/wiki/Lending_a_Helphand",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/3/36/Lending_a_Helphand.png/280px-Lending_a_Helphand.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Feat of Pots",
+    "level": "92",
+    "wiki_path": "/wiki/The_Feat_of_Pots",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "A Father First",
+    "level": "92",
+    "wiki_path": "/wiki/A_Father_First",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/2/24/A_Father_First.png/280px-A_Father_First.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Shape of Peace",
+    "level": "92",
+    "wiki_path": "/wiki/The_Shape_of_Peace",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Lost Promise",
+    "level": "92",
+    "wiki_path": "/wiki/Lost_Promise",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "A Brother's Duty",
+    "level": "92",
+    "wiki_path": "/wiki/A_Brother%27s_Duty",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Feeding the River",
+    "level": "92",
+    "wiki_path": "/wiki/Feeding_the_River",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Sibling Rescue",
+    "level": "92",
+    "wiki_path": "/wiki/Sibling_Rescue",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "History's Keepers",
+    "level": "93",
+    "wiki_path": "/wiki/History%27s_Keepers",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/d/d7/History%27s_Keepers.png/280px-History%27s_Keepers.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Feat of Proof",
+    "level": "93",
+    "wiki_path": "/wiki/The_Feat_of_Proof",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The High Luminary",
+    "level": "93",
+    "wiki_path": "/wiki/The_High_Luminary",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/3/3f/The_High_Luminary.png/280px-The_High_Luminary.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "An Echo of Madness",
+    "level": "93",
+    "wiki_path": "/wiki/An_Echo_of_Madness",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Pointing the Way",
+    "level": "93",
+    "wiki_path": "/wiki/Pointing_the_Way",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Skyruin",
+    "level": "93",
+    "wiki_path": "/wiki/The_Skyruin",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/1/1b/The_Skyruin.png/280px-The_Skyruin.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Feat of Ice",
+    "level": "93",
+    "wiki_path": "/wiki/The_Feat_of_Ice",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Promise of Peace",
+    "level": "93",
+    "wiki_path": "/wiki/The_Promise_of_Peace",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Leap to Yak T'el",
+    "level": "94",
+    "wiki_path": "/wiki/The_Leap_to_Yak_T%27el",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Village of the Hunt",
+    "level": "94",
+    "wiki_path": "/wiki/Village_of_the_Hunt",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/1/18/Village_of_the_Hunt.png/280px-Village_of_the_Hunt.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "A History of Violence",
+    "level": "94",
+    "wiki_path": "/wiki/A_History_of_Violence",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Feat of Repast",
+    "level": "94",
+    "wiki_path": "/wiki/The_Feat_of_Repast",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "A Father's Grief",
+    "level": "94",
+    "wiki_path": "/wiki/A_Father%27s_Grief",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Taking a Stand",
+    "level": "94",
+    "wiki_path": "/wiki/Taking_a_Stand",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/6/65/Taking_a_Stand.png/280px-Taking_a_Stand.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Into the Traverse",
+    "level": "94",
+    "wiki_path": "/wiki/Into_the_Traverse",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "City of Silence",
+    "level": "94",
+    "wiki_path": "/wiki/City_of_Silence",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/1/1b/City_of_Silence.png/280px-City_of_Silence.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Blessed Siblings",
+    "level": "94",
+    "wiki_path": "/wiki/Blessed_Siblings",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Scale of Trust",
+    "level": "94",
+    "wiki_path": "/wiki/Scale_of_Trust",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Mamook Speaks",
+    "level": "95",
+    "wiki_path": "/wiki/Mamook_Speaks",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Feat of the Brotherhood",
+    "level": "95",
+    "wiki_path": "/wiki/The_Feat_of_the_Brotherhood",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Road to the Golden City",
+    "level": "95",
+    "wiki_path": "/wiki/Road_to_the_Golden_City",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/1/12/Road_to_the_Golden_City.png/280px-Road_to_the_Golden_City.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Dawn of a New Tomorrow",
+    "level": "95",
+    "wiki_path": "/wiki/Dawn_of_a_New_Tomorrow",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Ever Greater, Ever Brighter",
+    "level": "95",
+    "wiki_path": "/wiki/Ever_Greater,_Ever_Brighter",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Long Road to Xak Tural",
+    "level": "95",
+    "wiki_path": "/wiki/The_Long_Road_to_Xak_Tural",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/3/3f/The_Long_Road_to_Xak_Tural.png/280px-The_Long_Road_to_Xak_Tural.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Saddled Up",
+    "level": "95",
+    "wiki_path": "/wiki/Saddled_Up",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Braced for Trouble",
+    "level": "95",
+    "wiki_path": "/wiki/Braced_for_Trouble",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Blowing Smoke",
+    "level": "95",
+    "wiki_path": "/wiki/Blowing_Smoke",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Law of the Land",
+    "level": "95",
+    "wiki_path": "/wiki/Law_of_the_Land",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/c/c3/Law_of_the_Land.png/280px-Law_of_the_Land.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "On Track",
+    "level": "95",
+    "wiki_path": "/wiki/On_Track_(Dawntrail)",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "One with Nature",
+    "level": "96",
+    "wiki_path": "/wiki/One_with_Nature",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "And the Land Would Tremble",
+    "level": "96",
+    "wiki_path": "/wiki/And_the_Land_Would_Tremble",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/a/a6/And_the_Land_Would_Tremble.png/280px-And_the_Land_Would_Tremble.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "No Time for Tears",
+    "level": "96",
+    "wiki_path": "/wiki/No_Time_for_Tears",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/2/2c/No_Time_for_Tears.png/280px-No_Time_for_Tears.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Pick up the Pieces",
+    "level": "96",
+    "wiki_path": "/wiki/Pick_up_the_Pieces",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Together as One",
+    "level": "96",
+    "wiki_path": "/wiki/Together_as_One",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "In Yyasulani's Shadow",
+    "level": "96",
+    "wiki_path": "/wiki/In_Yyasulani%27s_Shadow",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Putting Plans into Locomotion",
+    "level": "96",
+    "wiki_path": "/wiki/Putting_Plans_into_Locomotion",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "A Hot Commodity",
+    "level": "96",
+    "wiki_path": "/wiki/A_Hot_Commodity",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "All Aboard",
+    "level": "97",
+    "wiki_path": "/wiki/All_Aboard",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/f/fd/All_Aboard.png/280px-All_Aboard.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Land of Levin",
+    "level": "97",
+    "wiki_path": "/wiki/The_Land_of_Levin",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/c/c8/The_Land_of_Levin.png/280px-The_Land_of_Levin.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "A Royal Welcome",
+    "level": "97",
+    "wiki_path": "/wiki/A_Royal_Welcome",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "A Day in the Life",
+    "level": "97",
+    "wiki_path": "/wiki/A_Day_in_the_Life",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "On the Cloud",
+    "level": "97",
+    "wiki_path": "/wiki/On_the_Cloud",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Gone and Forgotten",
+    "level": "97",
+    "wiki_path": "/wiki/Gone_and_Forgotten",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Embracing Oblivion",
+    "level": "97",
+    "wiki_path": "/wiki/Embracing_Oblivion",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/8/8b/Embracing_Oblivion.png/280px-Embracing_Oblivion.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Solution Nine",
+    "level": "97",
+    "wiki_path": "/wiki/Solution_Nine_(Quest)",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Queen's Tour",
+    "level": "97",
+    "wiki_path": "/wiki/The_Queen%27s_Tour",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/d/d3/The_Queen%27s_Tour.png/280px-The_Queen%27s_Tour.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Her People, Her Family",
+    "level": "98",
+    "wiki_path": "/wiki/Her_People,_Her_Family",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Scales of Blue",
+    "level": "98",
+    "wiki_path": "/wiki/Scales_of_Blue",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Gives You Teeth",
+    "level": "98",
+    "wiki_path": "/wiki/Gives_You_Teeth",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/2/20/Gives_You_Teeth.png/280px-Gives_You_Teeth.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Little Footfalls",
+    "level": "98",
+    "wiki_path": "/wiki/Little_Footfalls",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Drowned Vestiges",
+    "level": "98",
+    "wiki_path": "/wiki/Drowned_Vestiges",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Memories of a Knight",
+    "level": "98",
+    "wiki_path": "/wiki/Memories_of_a_Knight",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/5/50/Memories_of_a_Knight.png/280px-Memories_of_a_Knight.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "At a Crossroads",
+    "level": "98",
+    "wiki_path": "/wiki/At_a_Crossroads",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Protector and the Destroyer",
+    "level": "98",
+    "wiki_path": "/wiki/The_Protector_and_the_Destroyer",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/e/e9/The_Protector_and_the_Destroyer.png/280px-The_Protector_and_the_Destroyer.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "A Comforting Hand",
+    "level": "99",
+    "wiki_path": "/wiki/A_Comforting_Hand",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Unto the Summit",
+    "level": "99",
+    "wiki_path": "/wiki/Unto_the_Summit",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Resilient Son",
+    "level": "99",
+    "wiki_path": "/wiki/The_Resilient_Son",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/d/d0/The_Resilient_Son.png/280px-The_Resilient_Son.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "A New Family",
+    "level": "99",
+    "wiki_path": "/wiki/A_New_Family",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "In Pursuit of Sphene",
+    "level": "99",
+    "wiki_path": "/wiki/In_Pursuit_of_Sphene",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Through the Gate of Gold",
+    "level": "99",
+    "wiki_path": "/wiki/Through_the_Gate_of_Gold",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/b/b7/Through_the_Gate_of_Gold.png/280px-Through_the_Gate_of_Gold.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Those Who Live Forever",
+    "level": "99",
+    "wiki_path": "/wiki/Those_Who_Live_Forever",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/1/18/Those_Who_Live_Forever.png/280px-Those_Who_Live_Forever.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "In Serenity and Sorrow",
+    "level": "99",
+    "wiki_path": "/wiki/In_Serenity_and_Sorrow",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Land of Dreams",
+    "level": "99",
+    "wiki_path": "/wiki/The_Land_of_Dreams",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "A Knight of Alexandria",
+    "level": "99",
+    "wiki_path": "/wiki/A_Knight_of_Alexandria",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/8/84/A_Knight_of_Alexandria.png/280px-A_Knight_of_Alexandria.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Sanctuary of the Strong",
+    "level": "100",
+    "wiki_path": "/wiki/The_Sanctuary_of_the_Strong",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "The Taste of Family",
+    "level": "100",
+    "wiki_path": "/wiki/The_Taste_of_Family",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/f/f8/The_Taste_of_Family.png/280px-The_Taste_of_Family.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Leafing through the Past",
+    "level": "100",
+    "wiki_path": "/wiki/Leafing_through_the_Past",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "An Explorer's Delight",
+    "level": "100",
+    "wiki_path": "/wiki/An_Explorer%27s_Delight",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "In Search of Discovery",
+    "level": "100",
+    "wiki_path": "/wiki/In_Search_of_Discovery",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/c/c9/In_Search_of_Discovery.png/280px-In_Search_of_Discovery.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "A Journey Never-ending",
+    "level": "100",
+    "wiki_path": "/wiki/A_Journey_Never-ending",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "Dawntrail",
+    "level": "100",
+    "wiki_path": "/wiki/Dawntrail_(Quest)",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/06/Mainscenarioquest.png/30px-Mainscenarioquest.png",
+    "patch": "7.0",
+    "chain": "other",
+    "chain_title": "",
+    "chain_index": 0,
+    "chain_total": 0
+  },
+  {
+    "title": "A Royal Invitation",
+    "level": "100",
+    "wiki_path": "/wiki/A_Royal_Invitation",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/7f/A_Royal_Invitation_%28Quest%29.png/280px-A_Royal_Invitation_%28Quest%29.png",
+    "patch": "7.1"
+  },
+  {
+    "title": "Alexandria Mourns",
+    "level": "100",
+    "wiki_path": "/wiki/Alexandria_Mourns",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.1"
+  },
+  {
+    "title": "In Search of the Past",
+    "level": "100",
+    "wiki_path": "/wiki/In_Search_of_the_Past",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/9/9d/In_Search_of_the_Past_1.png/280px-In_Search_of_the_Past_1.png",
+    "patch": "7.1"
+  },
+  {
+    "title": "Among the Abandoned",
+    "level": "100",
+    "wiki_path": "/wiki/Among_the_Abandoned",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.1"
+  },
+  {
+    "title": "Guidance of the Hhetso",
+    "level": "100",
+    "wiki_path": "/wiki/Guidance_of_the_Hhetso",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.1"
+  },
+  {
+    "title": "The Warmth of Family",
+    "level": "100",
+    "wiki_path": "/wiki/The_Warmth_of_Family",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/3/31/The_Warmth_of_Family.png/280px-The_Warmth_of_Family.png",
+    "patch": "7.1"
+  },
+  {
+    "title": "Crossroads",
+    "level": "100",
+    "wiki_path": "/wiki/Crossroads_(Quest)",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.1"
+  },
+  {
+    "title": "A Glimmer of the Past",
+    "level": "100",
+    "wiki_path": "/wiki/A_Glimmer_of_the_Past",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/6/6e/A_Glimmer_of_the_Past.png/280px-A_Glimmer_of_the_Past.png",
+    "patch": "7.2"
+  },
+  {
+    "title": "Memories of a Bygone Age",
+    "level": "100",
+    "wiki_path": "/wiki/Memories_of_a_Bygone_Age",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.2"
+  },
+  {
+    "title": "In Search of Meaning",
+    "level": "100",
+    "wiki_path": "/wiki/In_Search_of_Meaning",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.2"
+  },
+  {
+    "title": "A Jewel Shattered",
+    "level": "100",
+    "wiki_path": "/wiki/A_Jewel_Shattered",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.2"
+  },
+  {
+    "title": "The Meeting",
+    "level": "100",
+    "wiki_path": "/wiki/The_Meeting",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.2"
+  },
+  {
+    "title": "Descent to the Foundation",
+    "level": "100",
+    "wiki_path": "/wiki/Descent_to_the_Foundation",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.2"
+  },
+  {
+    "title": "Shared Paths",
+    "level": "100",
+    "wiki_path": "/wiki/Shared_Paths",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.2"
+  },
+  {
+    "title": "Seekers of Eternity",
+    "level": "100",
+    "wiki_path": "/wiki/Seekers_of_Eternity",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/c/c6/Seekers_of_Eternity.png/280px-Seekers_of_Eternity.png",
+    "patch": "7.2"
+  },
+  {
+    "title": "Targeted Tragedy",
+    "level": "100",
+    "wiki_path": "/wiki/Targeted_Tragedy",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/4/4c/Targeted_tragedy1.png/280px-Targeted_tragedy1.png",
+    "patch": "7.3"
+  },
+  {
+    "title": "The Endless Choice",
+    "level": "100",
+    "wiki_path": "/wiki/The_Endless_Choice",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.3"
+  },
+  {
+    "title": "My Memories and Yours",
+    "level": "100",
+    "wiki_path": "/wiki/My_Memories_and_Yours",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.3"
+  },
+  {
+    "title": "A Darkness in the Heart",
+    "level": "100",
+    "wiki_path": "/wiki/A_Darkness_in_the_Heart",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.3"
+  },
+  {
+    "title": "Preservation Their Purpose",
+    "level": "100",
+    "wiki_path": "/wiki/Preservation_Their_Purpose",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.3"
+  },
+  {
+    "title": "A Calculated Evolution",
+    "level": "100",
+    "wiki_path": "/wiki/A_Calculated_Evolution",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.3"
+  },
+  {
+    "title": "One of Our Own",
+    "level": "100",
+    "wiki_path": "/wiki/One_of_Our_Own",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.3"
+  },
+  {
+    "title": "A Terminal Invitation",
+    "level": "100",
+    "wiki_path": "/wiki/A_Terminal_Invitation",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.3"
+  },
+  {
+    "title": "Blades in Waiting",
+    "level": "100",
+    "wiki_path": "/wiki/Blades_in_Waiting",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/a/a8/Blades_in_Waiting.png/280px-Blades_in_Waiting.png",
+    "patch": "7.3"
+  },
+  {
+    "title": "The Promise of Tomorrow",
+    "level": "100",
+    "wiki_path": "/wiki/The_Promise_of_Tomorrow",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/b/bb/The_Promise_of_Tomorrow.png/280px-The_Promise_of_Tomorrow.png",
+    "patch": "7.3"
+  },
+  {
+    "title": "With the Winds",
+    "level": "100",
+    "wiki_path": "/wiki/With_the_Winds",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/b/bf/With_the_winds1.png/280px-With_the_winds1.png",
+    "patch": "7.4"
+  },
+  {
+    "title": "Through the Thunder",
+    "level": "100",
+    "wiki_path": "/wiki/Through_the_Thunder",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.4"
+  },
+  {
+    "title": "Beyond the Mountains",
+    "level": "100",
+    "wiki_path": "/wiki/Beyond_the_Mountains",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/7d/Beyond_the_mountains1.png/280px-Beyond_the_mountains1.png",
+    "patch": "7.4"
+  },
+  {
+    "title": "Around the City",
+    "level": "100",
+    "wiki_path": "/wiki/Around_the_City",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.4"
+  },
+  {
+    "title": "To Work",
+    "level": "100",
+    "wiki_path": "/wiki/To_Work",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.4"
+  },
+  {
+    "title": "In Her Heart",
+    "level": "100",
+    "wiki_path": "/wiki/In_Her_Heart",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.4"
+  },
+  {
+    "title": "Toward Trouble",
+    "level": "100",
+    "wiki_path": "/wiki/Toward_Trouble",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.4"
+  },
+  {
+    "title": "Where We Call Home",
+    "level": "100",
+    "wiki_path": "/wiki/Where_We_Call_Home",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/c/c3/Where_we_call_home1.png/280px-Where_we_call_home1.png",
+    "patch": "7.4"
+  },
+  {
+    "title": "Into the Mist",
+    "level": "100",
+    "wiki_path": "/wiki/Into_the_Mist_(Quest)",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.4"
+  },
+  {
+    "title": "In Fate's Footsteps",
+    "level": "100",
+    "wiki_path": "/wiki/In_Fate%27s_Footsteps",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/d/d4/In_fate%27s_footsteps1.png/280px-In_fate%27s_footsteps1.png",
+    "patch": "7.5"
+  },
+  {
+    "title": "Two Worlds Entwined",
+    "level": "100",
+    "wiki_path": "/wiki/Two_Worlds_Entwined",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/9/91/Two_worlds_entwined1.png/280px-Two_worlds_entwined1.png",
+    "patch": "7.5"
+  },
+  {
+    "title": "A Grave Presentiment",
+    "level": "100",
+    "wiki_path": "/wiki/A_Grave_Presentiment",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/e/e6/A_grave_presentiment1.png/280px-A_grave_presentiment1.png",
+    "patch": "7.5"
+  },
+  {
+    "title": "A Beacon from Beyond",
+    "level": "100",
+    "wiki_path": "/wiki/A_Beacon_from_Beyond",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/0/06/Mainscenarioquest.png",
+    "patch": "7.5"
+  },
+  {
+    "title": "Trail to the Heavens",
+    "level": "100",
+    "wiki_path": "/wiki/Trail_to_the_Heavens_(Quest)",
+    "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/71/Trail_to_the_heavens_%28quest%291.png/280px-Trail_to_the_heavens_%28quest%291.png",
+    "patch": "7.5"
+  }
+]

@@ -1,0 +1,130 @@
+---
+import '../styles/global.css';
+
+const expansions = [
+  { name: 'ARR (2.x)',  scraped: 214, total: 214, color: '#d4a853' },
+  { name: 'Heavensward (3.x)', scraped: 0,  total: 0,  color: '#9ca3af' },
+  { name: 'Stormblood (4.x)',  scraped: 0,  total: 0,  color: '#9ca3af' },
+  { name: 'Shadowbringers (5.x)', scraped: 0, total: 0, color: '#9ca3af' },
+  { name: 'Endwalker (6.x)',   scraped: 0,  total: 0,  color: '#9ca3af' },
+  { name: 'Dawntrail (7.x)',   scraped: 39, total: 39, color: '#e8944a' },
+];
+
+const totalScraped = expansions.reduce((s, e) => s + e.scraped, 0);
+const totalExpected = expansions.reduce((s, e) => s + e.total, 0);
+const overallPct = totalExpected > 0 ? Math.round((totalScraped / totalExpected) * 100) : 0;
+
+let expansionHtml = '';
+for (const exp of expansions) {
+  const pct = exp.total > 0 ? Math.round((exp.scraped / exp.total) * 100) : 0;
+  const barWidth = exp.total > 0 ? (exp.scraped / exp.total) * 100 : 0;
+  const totalStr = exp.total > 0 ? String(exp.total) : '?';
+  expansionHtml += '<div class="expansion-card">' +
+    '<div class="expansion-header">' +
+    '<span class="expansion-name">' + exp.name + '</span>' +
+    '<span class="expansion-pct">' + pct + '%</span>' +
+    '</div>' +
+    '<div class="expansion-bar">' +
+    '<div class="expansion-bar-fill" style="width: ' + barWidth + '%; background: ' + exp.color + '"></div>' +
+    '</div>' +
+    '<div class="expansion-count">' + exp.scraped + ' / ' + totalStr + ' quests</div>' +
+    '</div>';
+}
+
+const steps = [
+  { done: true, title: 'Data scraping & collection', desc: 'Scrape quest data from Console Games Wiki using <code>scripts/scrape.py</code>. Organize into <code>content/arr/</code> (ARR) and <code>content/dt/</code> (Dawntrail).' },
+  { done: true, title: 'Thai translation pipeline', desc: 'Run <code>scripts/translate.py</code> to generate AI-translated Thai text. Store in <code>content_ai/</code> layer.' },
+  { done: true, title: 'Dalamud plugin (overlay)', desc: 'Build <code>ffxiv-msq-thai</code> plugin: parse addon text nodes, match to quest dialogues, display Thai overlay in-game.' },
+  { done: false, title: 'Web viewer / documentation site', desc: 'Build Astro-based site to browse quests, read dialogue trees, and view translations.' },
+  { done: false, title: 'Knowledge graph (graphify)', desc: 'Build AST-based knowledge graph of quests, characters, and cross-references.' },
+  { done: false, title: 'Community contribution workflow', desc: 'Enable community PRs for translation overrides. Merge logic: contributor > AI > English fallback.' },
+  { done: false, title: 'Cutscene subtitle support', desc: 'Extend matching to handle CutSceneSubtitle and CutsceneDialogue addons.' },
+  { done: false, title: 'Release & distribution', desc: 'Package plugin for Dalamud repository. Set up CI/CD and user documentation.' },
+];
+
+let stepsHtml = '';
+for (let i = 0; i < steps.length; i++) {
+  const s = steps[i];
+  const badge = s.done ? '<span class="step-badge done">&#10003;</span>' : '<span class="step-badge">-</span>';
+  stepsHtml += '<li class="step">' + badge + '<div class="step-content"><strong class="step-title">' + s.title + '</strong><p>' + s.desc + '</p></div></li>';
+}
+---
+
+<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Scenario Plan — MSQ Thai</title>
+  </head>
+  <body>
+    <main class="scenario">
+      <header class="scenario-header">
+        <h1>MSQ Thai — Scenario</h1>
+        <p class="subtitle">Step-by-step plan to build the Thai MSQ reading experience</p>
+      </header>
+
+      <section class="progress-overview">
+        <h2>Data Scraping Progress</h2>
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: ${overallPct}%"></div>
+          <span class="progress-label">${overallPct}% complete (${totalScraped}/${totalExpected} quests)</span>
+        </div>
+        ${expansionHtml}
+      </section>
+
+      <section class="steps">
+        <h2>Implementation Steps</h2>
+        <ol class="step-list">${stepsHtml}</ol>
+      </section>
+
+      <section class="data-structure">
+        <h2>Data Architecture</h2>
+        <pre class="code-block"><code>content/
+&#8857; SCHEMA.md                  # Schema documentation
+&#8857; arr/2.0/                   # ARR quests (214 files)
+&#8857; dt/7.x/                    # Dawntrail quests (39 files)
+&#8857; content_ai/                # AI-translated layer
+&#8857; content_community/         # Community overrides</code></pre>
+      </section>
+
+      <section class="tech-stack">
+        <h2>Tech Stack</h2>
+        <div class="stack-grid">
+          <div class="stack-card">
+            <h3>In-Game</h3>
+            <ul>
+              <li>Dalamud plugin (C#)</li>
+              <li>ImGui overlay</li>
+              <li>TalkHook / addon matching</li>
+            </ul>
+          </div>
+          <div class="stack-card">
+            <h3>Scripts</h3>
+            <ul>
+              <li>Python 3 (scrape, translate)</li>
+              <li>BeautifulSoup 4</li>
+              <li>JSON data pipeline</li>
+            </ul>
+          </div>
+          <div class="stack-card">
+            <h3>Web</h3>
+            <ul>
+              <li>Astro 5 (SSG)</li>
+              <li>TypeScript</li>
+              <li>CSS custom properties</li>
+            </ul>
+          </div>
+          <div class="stack-card">
+            <h3>Knowledge Graph</h3>
+            <ul>
+              <li>AST extraction</li>
+              <li>Graph inference</li>
+              <li>CLI queries</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

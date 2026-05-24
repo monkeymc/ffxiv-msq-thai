@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
@@ -13,6 +14,7 @@ public class DialogueDictionary
 {
     private readonly Dictionary<string, string> _lookup = new(StringComparer.Ordinal);
     private readonly HashSet<string> _knownQuestSlugs = new(StringComparer.Ordinal);
+    private readonly ConcurrentDictionary<string, string?> _fuzzyCache = new(StringComparer.Ordinal);
 
     public int Count => _lookup.Count;
 
@@ -64,10 +66,15 @@ public class DialogueDictionary
         foreach (var key in _lookup.Keys)
         {
             var maxLen = Math.Max(key.Length, lookupKey.Length);
-            var minLen = Math.Min(key.Length, lookupKey.Length);
-            if ((double)minLen / maxLen < threshold) continue; // length ratio prune
+            // Cap maximum allowed edits to 10 characters to maintain interactive performance
+            // on the main UI thread during dialogue refreshes.
+            var maxDist = Math.Min(10, (int)(maxLen * (1.0 - threshold)));
 
-            var dist = LevenshteinDistance(key, lookupKey);
+            if (Math.Abs(key.Length - lookupKey.Length) > maxDist) continue;
+
+            var dist = LevenshteinDistance(key, lookupKey, maxDist);
+            if (dist > maxDist) continue;
+
             var sim  = 1.0 - (double)dist / maxLen;
             if (sim > bestSim) { bestSim = sim; bestKey = key; }
         }
@@ -80,26 +87,44 @@ public class DialogueDictionary
         return false;
     }
 
+    public bool TryGetCachedFuzzyMatch(string lookupKey, out string? cachedThai)
+        => _fuzzyCache.TryGetValue(lookupKey, out cachedThai);
+
     public record FuzzyMatchResult(string ThaiText);
 
     public FuzzyMatchResult? FindFuzzyMatch(string lookupKey, double threshold = 0.95)
     {
+        if (_fuzzyCache.TryGetValue(lookupKey, out var cachedThai))
+        {
+            return cachedThai != null ? new FuzzyMatchResult(cachedThai) : null;
+        }
+
         if (TryGetThaiFuzzy(lookupKey, out var textTh, threshold))
         {
+            _fuzzyCache[lookupKey] = textTh;
             return new FuzzyMatchResult(textTh);
         }
+
+        _fuzzyCache[lookupKey] = null;
         return null;
     }
 
-    private static int LevenshteinDistance(string a, string b)
+    private static int LevenshteinDistance(string a, string b, int maxDist)
     {
-        var m   = a.Length;
-        var n   = b.Length;
+        if (a == b) return 0;
+        var m = a.Length;
+        var n = b.Length;
+
+        if (Math.Abs(m - n) > maxDist) return maxDist + 1;
+
         var row = new int[n + 1];
         for (var j = 0; j <= n; j++) row[j] = j;
+
         for (var i = 1; i <= m; i++)
         {
             var prev = i;
+            var minInRow = i;
+
             for (var j = 1; j <= n; j++)
             {
                 var curr = a[i - 1] == b[j - 1]
@@ -107,8 +132,11 @@ public class DialogueDictionary
                     : 1 + Math.Min(row[j - 1], Math.Min(row[j], prev));
                 row[j - 1] = prev;
                 prev = curr;
+                if (curr < minInRow) minInRow = curr;
             }
             row[n] = prev;
+
+            if (minInRow > maxDist) return maxDist + 1;
         }
         return row[n];
     }

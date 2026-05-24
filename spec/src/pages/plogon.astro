@@ -1,0 +1,176 @@
+---
+import '../styles/global.css';
+
+const pluginInfo = {
+  name: 'MSQThai',
+  internalName: 'ffxiv-msq-thai',
+  author: 'monkeymc',
+  version: '1.1.0.0',
+  apiLevel: '15',
+  compatibility: 'FFXIV Dawntrail 7.x (any)',
+  command: '/msqth',
+  downloadUrl: 'https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/Release/latest.zip'
+};
+
+const changelog = [
+  {
+    version: 'v1.1.0.0',
+    date: '2026-05-24',
+    changes: [
+      'Critical Performance Hotfix - Eliminate Game Stuttering/Shuttering on NPC Talk Addon.',
+      'Asynchronous Fuzzy Matching: Offloaded Levenshtein distance calculations to background ThreadPool tasks.',
+      'Thread-Safe Caching: Upgraded fuzzy match cache to ConcurrentDictionary to support async concurrent lookups.',
+      'Guaranteed 0ms UI Thread Overhead: Bypassed heavy computations on the rendering thread entirely.'
+    ]
+  },
+  {
+    version: 'v1.0.0.0',
+    date: '2026-05-24',
+    changes: [
+      'Initial release of the Thai MSQ Translation Plugin.',
+      'Integrated dialogue dictionary covering ARR and Dawntrail quests.',
+      'Dynamic font loading (TH Sarabun New) for clean Thai text rendering in ImGui overlay.',
+      'Anchor widgets to drag and position the overlay over the default game talk dialog.',
+      'Toggle overlay visibility using `/msqth` command.',
+    ]
+  },
+  {
+    version: 'v0.9.0.0 (Beta)',
+    date: '2026-05-15',
+    changes: [
+      'First closed testing build.',
+      'Basic TalkHook dialogue interceptor.',
+      'Implemented local word-segmentation for proper Thai word wrapping in ImGui.'
+    ]
+  }
+];
+
+const issues = [
+  {
+    id: '#1',
+    title: 'Thai text wrapping & clipping in some screen sizes',
+    status: 'fixed',
+    statusText: 'Fixed',
+    notes: 'Implemented ThaiWordSegmenter dictionary-based word wrapping.'
+  },
+  {
+    id: '#2',
+    title: 'Option to adjust font size and opacity in config UI',
+    status: 'fixed',
+    statusText: 'Fixed',
+    notes: 'Config UI settings added to anchor widget config window.'
+  },
+  {
+    id: '#3',
+    title: 'Cutscene dialogue matching',
+    status: 'fixed',
+    statusText: 'Fixed',
+    notes: 'Successfully matched and display translations on CutSceneSubtitle and CutsceneDialogue addons.'
+  },
+  {
+    id: '#4',
+    title: 'Critical Performance Hotfix - Eliminate Game Stuttering/Shuttering on NPC Talk Addon',
+    status: 'fixed',
+    statusText: 'Fixed',
+    notes: 'Implemented Asynchronous Fuzzy Matching using background Task.Run and ConcurrentDictionary cache, ensuring 0ms main thread impact.'
+  }
+];
+---
+
+<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dalamud Plugin — MSQ Thai</title>
+  </head>
+  <body>
+    <main class="plogon">
+      <header class="plogon-header">
+        <a href="/" class="back-link">&#8592; BACK</a>
+        <h1>MSQ Thai — Plogon</h1>
+        <p class="subtitle">Dalamud plugin versioning, compatibility details, and changelog tracker</p>
+      </header>
+
+      <section class="version-section">
+        <h2>Plugin Version & Compatibility</h2>
+        <div class="version-grid">
+          <div class="version-card">
+            <h3>Plugin Name</h3>
+            <span class="version-value">{pluginInfo.name}</span>
+            <span class="version-desc">Internal ID: {pluginInfo.internalName}</span>
+          </div>
+          <div class="version-card">
+            <h3>Latest Version</h3>
+            <span class="version-value">v{pluginInfo.version}</span>
+            <span class="version-desc">Dalamud API Level {pluginInfo.apiLevel}</span>
+          </div>
+          <div class="version-card">
+            <h3>Game Compatibility</h3>
+            <span class="version-value">7.x</span>
+            <span class="version-desc">{pluginInfo.compatibility}</span>
+          </div>
+          <div class="version-card">
+            <h3>Console Command</h3>
+            <span class="version-value">{pluginInfo.command}</span>
+            <span class="version-desc">Toggles translation overlay overlay</span>
+          </div>
+        </div>
+
+        <div style="margin-bottom: 3rem; text-align: center;">
+          <a href={pluginInfo.downloadUrl} class="download-btn" target="_blank" rel="noopener">
+            <span>&#128229; Download Latest ZIP</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="changelog-section">
+        <h2>Changelog</h2>
+        <div class="timeline">
+          {changelog.map((item) => (
+            <div class="timeline-item">
+              <div class="timeline-badge"></div>
+              <div class="timeline-header">
+                <span class="timeline-version">{item.version}</span>
+                <span class="timeline-date">{item.date}</span>
+              </div>
+              <div class="timeline-body">
+                <ul>
+                  {item.changes.map((change) => (
+                    <li>{change}</li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section class="issues-section">
+        <h2>Issue Progress & Roadmap</h2>
+        <table class="quest-table">
+          <thead>
+            <tr>
+              <th class="col-num" style="width: 80px;">Issue ID</th>
+              <th class="col-title">Description</th>
+              <th class="col-level" style="width: 150px; text-align: center;">Status</th>
+              <th style="color: var(--text-secondary);">Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            {issues.map((issue) => (
+              <tr>
+                <td class="col-num" style="font-family: 'JetBrains Mono', monospace;">{issue.id}</td>
+                <td class="col-title" style="color: var(--text);">{issue.title}</td>
+                <td class="col-level" style="text-align: center;">
+                  <span class={`status-badge ${issue.status}`}>{issue.statusText}</span>
+                </td>
+                <td style="color: var(--text-secondary); font-size: 0.9rem;">{issue.notes}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </section>
+    </main>
+  </body>
+</html>
