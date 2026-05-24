@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "monkeymc",
+    "Name": "MSQThai",
+    "InternalName": "ffxiv-msq-thai",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Translates FFXIV Main Scenario Quest (MSQ) dialogues and cutscenes into Thai. Enjoy the story in your native language!",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "translation",
+      "overlay",
+      "msq",
+      "thai"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "enjoy MSQ in Thai language!",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/repo/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/repo/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/repo/latest.zip"
+  }
+]
