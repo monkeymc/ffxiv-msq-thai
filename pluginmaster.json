@@ -19,8 +19,8 @@
     "LoadPriority": 0,
     "Punchline": "enjoy MSQ in Thai language!",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/repo/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/repo/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/repo/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/Release/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/Release/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/Release/latest.zip"
   }
 ]

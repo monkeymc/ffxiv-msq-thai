@@ -5,8 +5,8 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'repo.json'
-      - 'repo/**'
+      - 'pluginmaster.json'
+      - 'Release/**'
       - '.github/workflows/**'
       - 'site/**'
 
@@ -37,14 +37,14 @@ jobs:
       - name: Build Plugin
         run: dotnet build -c Release plogon/ffxiv-msq-thai/ffxiv-msq-thai.sln
 
-      - name: Package Plugin Zip and Generate repo.json
+      - name: Package Plugin Zip and Generate pluginmaster.json
         run: |
           python3 -c "
           import zipfile, os, json
           # 1. Package zip file
           files_to_zip = ['ffxiv-msq-thai.dll', 'ffxiv-msq-thai.json', 'THSarabunNew-Bold.ttf', 'thai_dict.txt']
-          os.makedirs('../../../../../repo', exist_ok=True)
-          with zipfile.ZipFile('../../../../../repo/latest.zip', 'w', zipfile.ZIP_DEFLATED) as zipf:
+          os.makedirs('../../../../../Release', exist_ok=True)
+          with zipfile.ZipFile('../../../../../Release/latest.zip', 'w', zipfile.ZIP_DEFLATED) as zipf:
               for file in files_to_zip:
                   if os.path.exists(file):
                       zipf.write(file, file)
@@ -53,14 +53,14 @@ jobs:
                       filepath = os.path.join(root, file)
                       zipf.write(filepath, filepath)
           
-          # 2. Update repo.json at root
+          # 2. Update pluginmaster.json at root
           with open('ffxiv-msq-thai.json', 'r', encoding='utf-8') as f:
               manifest = json.load(f)
-          zip_url = 'https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/repo/latest.zip'
+          zip_url = 'https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/Release/latest.zip'
           manifest['DownloadLinkInstall'] = zip_url
           manifest['DownloadLinkUpdate'] = zip_url
           manifest['DownloadLinkTesting'] = zip_url
-          with open('../../../../../repo.json', 'w', encoding='utf-8') as f:
+          with open('../../../../../pluginmaster.json', 'w', encoding='utf-8') as f:
               json.dump([manifest], f, indent=2, ensure_ascii=False)
           "
         working-directory: plogon/ffxiv-msq-thai/ffxiv-msq-thai/bin/Release
@@ -69,5 +69,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add repo.json repo/latest.zip
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update repo.json and release zip [skip ci]" && git push)
+          git add pluginmaster.json Release/latest.zip
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update pluginmaster.json and release zip [skip ci]" && git push)
