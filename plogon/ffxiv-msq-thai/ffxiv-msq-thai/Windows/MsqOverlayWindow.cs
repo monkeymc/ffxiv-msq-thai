@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.Numerics;
 using Dalamud.Bindings.ImGui;
 using Dalamud.Interface.ManagedFontAtlas;
@@ -31,6 +32,7 @@ public sealed class MsqOverlayWindow : Window, IDisposable
     private readonly IFontHandle _thaiFont;
 
     private float _targetX, _targetY, _targetW;
+    private bool _isFallbackLayout;
 
     public MsqOverlayWindow(
         TalkHook talkHook,
@@ -125,17 +127,37 @@ public sealed class MsqOverlayWindow : Window, IDisposable
     {
         ComputeLayout();
 
-        Position          = new Vector2(_targetX, _targetY);
-        PositionCondition = ImGuiCond.Always;
+        var addonName = _talkHook.ActiveAddonName;
+        var isCutscene = addonName is "TalkSubtitle" or "CutSceneSubtitle" or "CutsceneDialogue";
 
-        ImGui.SetNextWindowSizeConstraints(
-            new Vector2(_targetW, 0f),
-            new Vector2(_targetW, float.MaxValue));
+        if (isCutscene)
+        {
+            Position = null;
+            var io = ImGui.GetIO();
+            var screenW = io.DisplaySize.X;
+            var screenH = io.DisplaySize.Y;
+            var centerX = screenW / 2.0f;
+            ImGui.SetNextWindowPos(new Vector2(centerX, screenH - 180.0f), ImGuiCond.Always, new Vector2(0.5f, 0.5f));
+
+            // Allow the box to shrink for short texts, but cap the maximum width at 1100px so it never blows out of the screen
+            ImGui.SetNextWindowSizeConstraints(new Vector2(300f, 100f), new Vector2(1100f, 250f));
+        }
+        else
+        {
+            Position          = new Vector2(_targetX, _targetY);
+            PositionCondition = ImGuiCond.Always;
+
+            ImGui.SetNextWindowSizeConstraints(
+                new Vector2(_targetW, 0f),
+                new Vector2(_targetW, float.MaxValue));
+        }
 
         ImGui.PushStyleColor(ImGuiCol.WindowBg, BgColor);
         ImGui.PushStyleColor(ImGuiCol.Border,   BorderColor);
         ImGui.PushStyleVar(ImGuiStyleVar.WindowBorderSize, 1.5f);
-        ImGui.PushStyleVar(ImGuiStyleVar.WindowPadding, new Vector2(PadH, PadV));
+
+        var paddingV = isCutscene ? 14f : PadV;
+        ImGui.PushStyleVar(ImGuiStyleVar.WindowPadding, new Vector2(PadH, paddingV));
     }
 
     public override void PostDraw()
@@ -156,37 +178,85 @@ public sealed class MsqOverlayWindow : Window, IDisposable
 
         using (_thaiFont.Push())
         {
-            // Expand clip rect upward so -6f tone marks on line 1 are not cut.
+            // Expand clip rect upward and downward so -6f tone marks and shifted lower characters are not cut.
             var winPos = ImGui.GetWindowPos();
             var winSz  = ImGui.GetWindowSize();
             ImGui.PushClipRect(
                 new Vector2(winPos.X, winPos.Y - ClipOvershoot),
-                winPos + winSz,
+                new Vector2(winPos.X + winSz.X, winPos.Y + winSz.Y + ClipOvershoot),
                 false);
+
+            var addonName = _talkHook.ActiveAddonName;
+            var isCutscene = addonName is "TalkSubtitle" or "CutSceneSubtitle" or "CutsceneDialogue";
 
             // Token-by-token render loop: each word is a separate ImGui.Text()
             // call so ​ is never needed (avoiding missing-glyph ? artefacts).
-            // We track curX manually and call SameLine(0,0) when the next token
-            // fits, or let ImGui start a new line when it doesn't.
-            var wrapWidth = _targetW - PadH * 2f - WrapSafeMargin;
-            var curX      = 0f;
+            var wrapWidth = isCutscene
+                ? (1100f - PadH * 2f - WrapSafeMargin)
+                : (_targetW - PadH * 2f - WrapSafeMargin);
             var tokens    = _talkHook.CurrentTokens;
 
-            for (var i = 0; i < tokens.Length; i++)
-            {
-                var tokenW = ImGui.CalcTextSize(tokens[i]).X;
+            // Group tokens into lines based on wrap width
+            var lines = new List<(List<string> Tokens, float Width)>();
+            var currentLine = new List<string>();
+            var lineW = 0f;
 
-                if (i > 0 && curX + tokenW <= wrapWidth)
+            foreach (var token in tokens)
+            {
+                var tokenW = ImGui.CalcTextSize(token).X;
+                if (currentLine.Count > 0 && lineW + tokenW <= wrapWidth)
                 {
-                    ImGui.SameLine(0, 0);
-                    curX += tokenW;
+                    currentLine.Add(token);
+                    lineW += tokenW;
                 }
                 else
                 {
-                    curX = tokenW;
+                    if (currentLine.Count > 0)
+                    {
+                        lines.Add((currentLine, lineW));
+                    }
+                    currentLine = new List<string> { token };
+                    lineW = tokenW;
+                }
+            }
+            if (currentLine.Count > 0)
+            {
+                lines.Add((currentLine, lineW));
+            }
+
+            if (isCutscene)
+            {
+                // Vertically center the text block inside the window
+                var windowHeight = ImGui.GetWindowSize().Y;
+                var linesCount = lines.Count;
+                var textHeight = linesCount * _config.FontSize + (linesCount - 1) * 14f;
+                var remainingSpace = windowHeight - textHeight;
+                if (remainingSpace > 0f)
+                {
+                    ImGui.SetCursorPosY(remainingSpace * 0.5f);
+                }
+            }
+
+            var windowWidth = ImGui.GetWindowSize().X;
+            var shouldCenter = _isFallbackLayout || isCutscene;
+
+            foreach (var line in lines)
+            {
+                if (shouldCenter)
+                {
+                    // Enforce center alignment for fallback and cutscenes
+                    var startX = (windowWidth - line.Width) * 0.5f;
+                    ImGui.SetCursorPosX(startX);
                 }
 
-                ImGui.Text(tokens[i]);
+                for (var j = 0; j < line.Tokens.Count; j++)
+                {
+                    if (j > 0)
+                    {
+                        ImGui.SameLine(0, 0);
+                    }
+                    ImGui.Text(line.Tokens[j]);
+                }
             }
 
             ImGui.PopClipRect();
@@ -204,14 +274,15 @@ public sealed class MsqOverlayWindow : Window, IDisposable
         var screenW = io.DisplaySize.X;
         var screenH = io.DisplaySize.Y;
 
-          // Fallback: center on screen if addon not found
         var isCutscene = addonName is "TalkSubtitle" or "CutSceneSubtitle" or "CutsceneDialogue";
+
+        // Fallback: center on screen if addon not found
         if (ptr.Address == nint.Zero)
         {
-            var fallbackW = isCutscene ? CutsceneOverlayWidth : Math.Min(900f, screenW * 0.75f);
-            _targetW = fallbackW;
+            _targetW = Math.Min(900f, screenW * 0.75f);
             _targetX = (screenW - _targetW) / 2f;
             _targetY = screenH * 0.82f;
+            _isFallbackLayout = true;
             return;
         }
 
@@ -219,7 +290,7 @@ public sealed class MsqOverlayWindow : Window, IDisposable
         var scale  = addon->Scale;
         var addonX = (float)addon->X;
         var addonY = (float)addon->Y;
-        _targetW   = isCutscene ? CutsceneOverlayWidth : addon->GetScaledWidth(true);
+        _targetW   = addon->GetScaledWidth(true);
 
         // Get text node based on addon type
         AtkResNode* textNode = null;
@@ -249,18 +320,22 @@ public sealed class MsqOverlayWindow : Window, IDisposable
 
         _targetW -= PadH * 2f;
 
-       // Safeguard: if addon position is invalid, use screen-centered fallback
+        // Safeguard: if addon position is invalid, use screen-centered fallback
         if (_targetW <= 100f || _targetY <= 100f || textNode == null)
         {
-            var fallbackW = isCutscene ? CutsceneOverlayWidth : Math.Min(900f, screenW * 0.75f);
-            _targetW = fallbackW;
+            _targetW = Math.Min(900f, screenW * 0.75f);
             _targetX = (screenW - _targetW) / 2f;
             _targetY = screenH * 0.82f;
+            _isFallbackLayout = true;
         }
-        else if (_targetW < 400f)
+        else
         {
-            _targetW = isCutscene ? CutsceneOverlayWidth : 600f;
-            _targetX = addonX + (addon->GetScaledWidth(true) - _targetW) / 2f;
+            _isFallbackLayout = false;
+            if (_targetW < 400f)
+            {
+                _targetW = 600f;
+                _targetX = addonX + (addon->GetScaledWidth(true) - _targetW) / 2f;
+            }
         }
     }
 
