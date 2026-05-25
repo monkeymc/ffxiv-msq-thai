@@ -40,6 +40,14 @@ import '../styles/global.css';
             <p>Dalamud Plugin, Changelog, และสถานะบั๊ก</p>
           </div>
         </a>
+
+        <a href="https://github.com/monkeymc/ffxiv-msq-thai" class="nav-card nav-card--github" target="_blank" rel="noopener">
+          <div class="nav-card-icon">&#128008;</div>
+          <div class="nav-card-body">
+            <h2>GitHub</h2>
+            <p>Source code, releases, และ issue tracker</p>
+          </div>
+        </a>
       </nav>
 
       <section class="stats">
@@ -55,3 +63,13 @@ import '../styles/global.css';
     </main>
   </body>
 </html>
+
+<style>
+  .nav-card--github:hover {
+    border-color: #8b949e;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3), 0 0 40px rgba(139, 148, 158, 0.2);
+  }
+  .nav-card--github::before {
+    background: radial-gradient(ellipse at top left, rgba(139, 148, 158, 0.08) 0%, transparent 70%);
+  }
+</style>

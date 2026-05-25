@@ -67,9 +67,25 @@ const builds = [
   },
   {
     label: 'Release',
-    description: 'Builds a release zip via DalamudPackager. Must be run from inside WSL.',
+    description: 'Step 1 — Compile release DLL via DalamudPackager.',
     command: 'wsl -e bash -c "cd /home/chatja/ffxiv-msq-thai/plogon/ffxiv-msq-thai && dotnet build ffxiv-msq-thai.sln -c Release"',
     output: 'plogon/ffxiv-msq-thai/ffxiv-msq-thai/bin/Release/'
+  },
+  {
+    label: 'Package',
+    description: 'Step 2 — Zip DLL + assets + content_community, regenerate pluginmaster.json.',
+    command: `wsl -e bash -c "cd /home/chatja/ffxiv-msq-thai/plogon/ffxiv-msq-thai/ffxiv-msq-thai/bin/Release && python3 -c \\"
+import zipfile, os, json
+files = ['ffxiv-msq-thai.dll','ffxiv-msq-thai.json','THSarabunNew-Bold.ttf','thai_dict.txt']
+with zipfile.ZipFile('../../../../../Release/latest.zip','w',zipfile.ZIP_DEFLATED) as z:
+    [z.write(f,f) for f in files if os.path.exists(f)]
+    [z.write(os.path.join(r,f),os.path.join(r,f)) for r,_,fs in os.walk('content_community') for f in fs]
+m=json.load(open('ffxiv-msq-thai.json',encoding='utf-8'))
+u='https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/Release/latest.zip'
+m.update({'DownloadLinkInstall':u,'DownloadLinkUpdate':u,'DownloadLinkTesting':u})
+json.dump([m],open('../../../../../pluginmaster.json','w',encoding='utf-8'),indent=2,ensure_ascii=False)
+\\""`,
+    output: 'Release/latest.zip  +  pluginmaster.json'
   }
 ];
 
@@ -267,6 +283,12 @@ const issues = [
     background: rgba(34, 197, 94, 0.12);
     color: #4ade80;
     border: 1px solid rgba(34, 197, 94, 0.25);
+  }
+
+  .build-badge.package {
+    background: rgba(168, 85, 247, 0.12);
+    color: #c084fc;
+    border: 1px solid rgba(168, 85, 247, 0.25);
   }
 
   .build-desc {
