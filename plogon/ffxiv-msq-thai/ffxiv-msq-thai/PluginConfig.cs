@@ -13,7 +13,7 @@ public class PluginConfig : IPluginConfiguration
     public string ContentRoot { get; set; } = "";
 
     public bool Enabled { get; set; } = true;
-    public float FontSize { get; set; } = 18f;
+    public float FontSize { get; set; } = 36f;
 
     public void Save() => Plugin.PluginInterface.SavePluginConfig(this);
 }

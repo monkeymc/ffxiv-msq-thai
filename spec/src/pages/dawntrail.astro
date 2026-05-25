@@ -1,6 +1,12 @@
 ---
 import '../styles/global.css';
 import dtQuests from '../data/dt-quests.json';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const patchLabels: Record<string, string> = {
   '7.0': 'Dawntrail',
@@ -12,8 +18,34 @@ const patchLabels: Record<string, string> = {
 };
 
 const patchOrder = ['7.0', '7.1', '7.2', '7.3', '7.4', '7.5'];
-const patches: Record<string, typeof dtQuests> = {};
-for (const q of dtQuests) {
+
+const getSlug = (wikiPath: string) => {
+  const name = decodeURIComponent(wikiPath.split('/wiki/')[1] || '');
+  const baseName = name.replace(/\([qQ]uest\)$/, '').trim();
+  return baseName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+};
+
+const contentDir = path.resolve(__dirname, '../../../content/dt/7.x');
+const aiDir = path.resolve(__dirname, '../../../content_ai/dt/7.x');
+const communityDir = path.resolve(__dirname, '../../../content_community/th/dt/7.x');
+
+const questsWithStatus = dtQuests.map(q => {
+  const slug = getSlug(q.wiki_path);
+  const contentExists = fs.existsSync(path.join(contentDir, `${slug}.json`));
+  const aiExists = fs.existsSync(path.join(aiDir, `${slug}.json`));
+  const communityExists = fs.existsSync(path.join(communityDir, `${slug}.json`));
+
+  return {
+    ...q,
+    slug,
+    contentExists,
+    aiExists,
+    communityExists,
+  };
+});
+
+const patches: Record<string, any[]> = {};
+for (const q of questsWithStatus) {
   if (!patches[q.patch]) patches[q.patch] = [];
   patches[q.patch].push(q);
 }
@@ -63,51 +95,97 @@ for (let i = 0; i < allQuests.length - 1; i++) {
             <span class="patch-count">{quests.length} quests</span>
           </div>
 
-          <table class="quest-table">
-            <thead>
-              <tr>
-                <th class="col-num">#</th>
-                <th class="col-banner">Banner Link</th>
-                <th class="col-title">Quest Name</th>
-                <th class="col-wiki">Wiki</th>
-                <th class="col-prev">Back</th>
-                <th class="col-next">Next</th>
-              </tr>
-            </thead>
-            <tbody>
-              {quests.map((q, i) => {
-                const nextId = nextMap.get('quest-' + q.title.replace(/\s+/g, '-').replace(/'/g, ''));
-                return (
-                <tr id={'quest-' + q.title.replace(/\s+/g, '-').replace(/'/g, '')}>
-                  <td class="col-num">{i + 1}</td>
-                  <td class="col-banner">
-                    {(() => {
-                      const url = q.wiki_image_url || '';
-                      const isGeneric = url.includes('Mainscenarioquest') || url.includes('Main_Scenario_Quest_icon');
-                      return isGeneric ? '-' : <a href={url} target="_blank" rel="noopener">Link</a>;
-                    })()}
-                  </td>
-                  <td class="col-title"><span class="quest-title">{q.title}</span></td>
-                  <td class="col-wiki">
-                    <a href={`https://ffxiv.consolegameswiki.com${q.wiki_path}`} target="_blank" rel="noopener">Wiki</a>
-                  </td>
-                  <td class="col-prev">
-                    {(() => {
-                      const rowId = 'quest-' + q.title.replace(/\s+/g, '-').replace(/'/g, '');
-                      const prevId = prevMap.get(rowId);
-                      return prevId ? <a href={'#' + prevId}>Back</a> : '-';
-                    })()}
-                  </td>
-                  <td class="col-next">
-                    {nextId ? <a href={'#' + nextId}>Next</a> : '-'}
-                  </td>
+          <div class="table-container">
+            <table class="quest-table">
+              <thead>
+                <tr>
+                  <th class="col-num">#</th>
+                  <th class="col-banner">Banner Link</th>
+                  <th class="col-title">Quest Name</th>
+                  <th class="col-wiki">Wiki</th>
+                  <th class="col-content">Content</th>
+                  <th class="col-ai">AI</th>
+                  <th class="col-community">Community</th>
+                  <th class="col-prev">Back</th>
+                  <th class="col-next">Next</th>
                 </tr>
-              )})}
-            </tbody>
-          </table>
+              </thead>
+              <tbody>
+                {quests.map((q, i) => {
+                  const nextId = nextMap.get('quest-' + q.title.replace(/\s+/g, '-').replace(/'/g, ''));
+                  return (
+                  <tr id={'quest-' + q.title.replace(/\s+/g, '-').replace(/'/g, '')}>
+                    <td class="col-num">{i + 1}</td>
+                    <td class="col-banner">
+                      {(() => {
+                        const url = q.wiki_image_url || '';
+                        const isGeneric = url.includes('Mainscenarioquest') || url.includes('Main_Scenario_Quest_icon');
+                        return isGeneric ? '-' : <a href={url} target="_blank" rel="noopener">Link</a>;
+                      })()}
+                    </td>
+                    <td class="col-title"><span class="quest-title">{q.title}</span></td>
+                    <td class="col-wiki">
+                      <a href={`https://ffxiv.consolegameswiki.com${q.wiki_path}`} target="_blank" rel="noopener">Wiki</a>
+                    </td>
+                    <td class="col-content">
+                      {q.contentExists ? (
+                        <span class="status-badge fixed">✓</span>
+                      ) : (
+                        <span class="status-badge missing">✗</span>
+                      )}
+                    </td>
+                    <td class="col-ai">
+                      {q.aiExists ? (
+                        <span class="status-badge fixed">✓</span>
+                      ) : (
+                        <span class="status-badge missing">✗</span>
+                      )}
+                    </td>
+                    <td class="col-community">
+                      {q.communityExists ? (
+                        <span class="status-badge fixed">✓</span>
+                      ) : (
+                        <span class="status-badge missing">✗</span>
+                      )}
+                    </td>
+                    <td class="col-prev">
+                      {(() => {
+                        const rowId = 'quest-' + q.title.replace(/\s+/g, '-').replace(/'/g, '');
+                        const prevId = prevMap.get(rowId);
+                        return prevId ? <a href={'#' + prevId}>Back</a> : '-';
+                      })()}
+                    </td>
+                    <td class="col-next">
+                      {nextId ? <a href={'#' + nextId}>Next</a> : '-'}
+                    </td>
+                  </tr>
+                )})}
+              </tbody>
+            </table>
+          </div>
         </section>
         );
       })}
     </main>
   </body>
 </html>
+
+<style>
+  .table-container {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .col-content,
+  .col-ai,
+  .col-community {
+    text-align: center;
+    width: 90px;
+  }
+
+  .status-badge.missing {
+    background: rgba(244, 63, 94, 0.1);
+    color: #f43f5e;
+    border: 1px solid rgba(244, 63, 94, 0.2);
+  }
+</style>

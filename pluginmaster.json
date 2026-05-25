@@ -1,9 +1,10 @@
 [
   {
     "Author": "monkeymc",
+    "IconUrl": "https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/images/icon.png",
     "Name": "MSQThai",
     "InternalName": "ffxiv-msq-thai",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.2.0.0",
     "Description": "Translates FFXIV Main Scenario Quest (MSQ) dialogues and cutscenes into Thai. Enjoy the story in your native language!",
     "ApplicableVersion": "any",
     "Tags": [

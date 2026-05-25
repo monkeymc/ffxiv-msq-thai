@@ -146,7 +146,7 @@ public sealed class MsqOverlayWindow : Window, IDisposable
                 "CutsceneDialogue" => 1100f,
                 _ => 880f
             };
-            ImGui.SetNextWindowSizeConstraints(new Vector2(300f, 100f), new Vector2(maxW, 250f));
+            ImGui.SetNextWindowSizeConstraints(new Vector2(300f, 50f), new Vector2(maxW, 250f));
         }
         else
         {
@@ -291,7 +291,7 @@ public sealed class MsqOverlayWindow : Window, IDisposable
         {
             _targetW = Math.Min(900f, screenW * 0.75f);
             _targetX = (screenW - _targetW) / 2f;
-            _targetY = screenH * 0.82f;
+            _targetY = screenH * 0.90f;
             _isFallbackLayout = true;
             return;
         }
@@ -335,7 +335,7 @@ public sealed class MsqOverlayWindow : Window, IDisposable
         {
             _targetW = Math.Min(900f, screenW * 0.75f);
             _targetX = (screenW - _targetW) / 2f;
-            _targetY = screenH * 0.82f;
+            _targetY = screenH * 0.90f;
             _isFallbackLayout = true;
         }
         else

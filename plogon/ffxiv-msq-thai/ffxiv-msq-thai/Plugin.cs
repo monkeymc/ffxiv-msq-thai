@@ -1,6 +1,9 @@
+using System;
 using Dalamud.Game.Addon.Lifecycle;
 using Dalamud.Game.ClientState.Objects;
 using Dalamud.Game.Command;
+using Dalamud.Game.Text;
+using Dalamud.Game.Text.SeStringHandling;
 using Dalamud.Interface.Windowing;
 using Dalamud.IoC;
 using Dalamud.Plugin;
@@ -20,8 +23,10 @@ public sealed class Plugin : IDalamudPlugin
     [PluginService] internal static IObjectTable ObjectTable { get; private set; } = null!;
     [PluginService] internal static IDataManager DataManager { get; private set; } = null!;
     [PluginService] internal static IClientState ClientState { get; private set; } = null!;
+    [PluginService] internal static IChatGui ChatGui { get; private set; } = null!;
 
-    private const string ToggleCommand = "/msqth";
+    private const string ToggleCommand = "/th";
+    private const string FontCommand   = "/thf";
 
     private readonly WindowSystem _windowSystem = new("ffxiv-msq-thai");
     private readonly PluginConfig _config;
@@ -50,7 +55,11 @@ public sealed class Plugin : IDalamudPlugin
 
         CommandManager.AddHandler(ToggleCommand, new CommandInfo(OnToggleCommand)
         {
-            HelpMessage = "/msqth — toggle overlay"
+            HelpMessage = "/th — toggle Thai overlay"
+        });
+        CommandManager.AddHandler(FontCommand, new CommandInfo(OnFontCommand)
+        {
+            HelpMessage = "/thf <size> — set overlay font size (10–60)"
         });
 
         Log.Information($"[ffxiv-msq-thai] Ready — {_dictionary.Count} entries.");
@@ -59,6 +68,7 @@ public sealed class Plugin : IDalamudPlugin
     public void Dispose()
     {
         CommandManager.RemoveHandler(ToggleCommand);
+        CommandManager.RemoveHandler(FontCommand);
         PluginInterface.UiBuilder.OpenConfigUi -= _anchor.Toggle;
         PluginInterface.UiBuilder.Draw         -= _windowSystem.Draw;
         _windowSystem.RemoveAllWindows();
@@ -71,6 +81,32 @@ public sealed class Plugin : IDalamudPlugin
     {
         _config.Enabled = !_config.Enabled;
         _config.Save();
+        ChatGui.Print(new XivChatEntry
+        {
+            Message = new SeStringBuilder().AddText($"[msq-thai] Turn → {(_config.Enabled ? "ON" : "OFF")}").Build(),
+            Type    = XivChatType.Debug,
+        });
         Log.Information($"[ffxiv-msq-thai] Overlay {(_config.Enabled ? "ON" : "OFF")}.");
+    }
+
+    private void OnFontCommand(string command, string args)
+    {
+        if (float.TryParse(args.Trim(), System.Globalization.NumberStyles.Float,
+                           System.Globalization.CultureInfo.InvariantCulture, out var size))
+        {
+            _config.FontSize = Math.Clamp(size, 10f, 60f);
+            _config.Save();
+            PluginInterface.UiBuilder.FontAtlas.BuildFontsAsync();
+            ChatGui.Print(new XivChatEntry
+            {
+                Message = new SeStringBuilder().AddText($"[msq-thai] Font Size → {_config.FontSize} px").Build(),
+                Type    = XivChatType.Debug,
+            });
+            Log.Information($"[ffxiv-msq-thai] Font size set to {_config.FontSize} px.");
+        }
+        else
+        {
+            Log.Information("[ffxiv-msq-thai] Usage: /thf <size>  (valid range 10–60)");
+        }
     }
 }

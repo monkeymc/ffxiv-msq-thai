@@ -5,14 +5,26 @@ const pluginInfo = {
   name: 'MSQThai',
   internalName: 'ffxiv-msq-thai',
   author: 'monkeymc',
-  version: '1.1.0.0',
+  version: '1.2.0.0',
   apiLevel: '15',
   compatibility: 'FFXIV Dawntrail 7.x (any)',
-  command: '/msqth',
+  command: '/th',
   downloadUrl: 'https://raw.githubusercontent.com/monkeymc/ffxiv-msq-thai/main/Release/latest.zip'
 };
 
 const changelog = [
+  {
+    version: 'v1.2.0.0',
+    date: '2026-05-25',
+    changes: [
+      'Renamed commands: /msqth → /th, added /thf <size> to set font size (10–60) in-game.',
+      'In-game debug channel feedback: /th prints Turn → ON/OFF, /thf prints Font Size → X px.',
+      'Plugin icon added (gold TH emblem) — visible in Dalamud plugin browser and installer.',
+      'Default font size increased from 18 px to 36 px for improved readability.',
+      'Fallback overlay position raised to 90% screen height (was 82%).',
+      'Cutscene overlay minimum height reduced from 100 px to 50 px.',
+    ]
+  },
   {
     version: 'v1.1.0.0',
     date: '2026-05-24',
@@ -31,7 +43,7 @@ const changelog = [
       'Integrated dialogue dictionary covering ARR and Dawntrail quests.',
       'Dynamic font loading (TH Sarabun New) for clean Thai text rendering in ImGui overlay.',
       'Anchor widgets to drag and position the overlay over the default game talk dialog.',
-      'Toggle overlay visibility using `/msqth` command.',
+      'Toggle overlay visibility using `/th` command.',
     ]
   },
   {
