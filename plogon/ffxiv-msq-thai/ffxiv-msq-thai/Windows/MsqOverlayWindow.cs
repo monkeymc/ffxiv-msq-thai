@@ -34,6 +34,11 @@ public sealed class MsqOverlayWindow : Window, IDisposable
     private float _targetX, _targetY, _targetW;
     private bool _isFallbackLayout;
 
+    // Last rendered position/size — read by TalkAnchorWidget to place the button
+    // at the right edge of this overlay for cutscene addons.
+    public Vector2 LastPos  { get; private set; }
+    public Vector2 LastSize { get; private set; }
+
     public MsqOverlayWindow(
         TalkHook talkHook,
         IGameGui gameGui,
@@ -178,6 +183,10 @@ public sealed class MsqOverlayWindow : Window, IDisposable
 
     public override void Draw()
     {
+        // Capture position/size for TalkAnchorWidget cutscene layout
+        LastPos  = ImGui.GetWindowPos();
+        LastSize = ImGui.GetWindowSize();
+
         ImGui.PushStyleColor(ImGuiCol.Text, TextColor);
         // Extra row gap so upward-shifted tone marks don't crowd the line above.
         ImGui.PushStyleVar(ImGuiStyleVar.ItemSpacing, new Vector2(0f, 14f));

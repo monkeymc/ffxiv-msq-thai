@@ -44,7 +44,7 @@ public sealed class Plugin : IDalamudPlugin
         _dictionary = new DialogueDictionary(contentRoot, Log);
         _talkHook   = new TalkHook(AddonLifecycle, _dictionary, ClientState, ObjectTable);
         _overlay    = new MsqOverlayWindow(_talkHook, GameGui, PluginInterface, _config);
-        _anchor     = new TalkAnchorWidget(_config, PluginInterface, GameGui);
+        _anchor     = new TalkAnchorWidget(_config, PluginInterface, GameGui, _overlay);
 
         _windowSystem.AddWindow(_overlay);
         _windowSystem.AddWindow(_anchor);

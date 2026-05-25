@@ -23,6 +23,7 @@ const changelog = [
       'Default font size increased from 18 px to 36 px for improved readability.',
       'Fallback overlay position raised to 90% screen height (was 82%).',
       'Cutscene overlay minimum height reduced from 100 px to 50 px.',
+      'Cutscene anchor button repositioned above the overlay panel (was inside top-right corner).',
     ]
   },
   {
@@ -54,6 +55,21 @@ const changelog = [
       'Basic TalkHook dialogue interceptor.',
       'Implemented local word-segmentation for proper Thai word wrapping in ImGui.'
     ]
+  }
+];
+
+const builds = [
+  {
+    label: 'Debug',
+    description: 'Builds and deploys directly to XIVLauncher devPlugins folder.',
+    command: 'wsl -e bash -c "cd /home/chatja/ffxiv-msq-thai/plogon/ffxiv-msq-thai/ffxiv-msq-thai && dotnet build ffxiv-msq-thai.csproj -c Debug -o /mnt/c/Users/mcdai/AppData/Roaming/XIVLauncher/devPlugins/ffxiv-msq-thai"',
+    output: 'C:\\Users\\mcdai\\AppData\\Roaming\\XIVLauncher\\devPlugins\\ffxiv-msq-thai\\'
+  },
+  {
+    label: 'Release',
+    description: 'Builds a release zip via DalamudPackager. Must be run from inside WSL.',
+    command: 'wsl -e bash -c "cd /home/chatja/ffxiv-msq-thai/plogon/ffxiv-msq-thai && dotnet build ffxiv-msq-thai.sln -c Release"',
+    output: 'plogon/ffxiv-msq-thai/ffxiv-msq-thai/bin/Release/'
   }
 ];
 
@@ -136,6 +152,25 @@ const issues = [
         </div>
       </section>
 
+      <section class="build-section">
+        <h2>Build Scripts</h2>
+        <div class="build-grid">
+          {builds.map((b) => (
+            <div class="build-card">
+              <div class="build-header">
+                <span class={`build-badge ${b.label.toLowerCase()}`}>{b.label}</span>
+                <span class="build-desc">{b.description}</span>
+              </div>
+              <pre class="build-cmd"><code>{b.command}</code></pre>
+              <div class="build-output">
+                <span class="build-output-label">Output →</span>
+                <code>{b.output}</code>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
       <section class="changelog-section">
         <h2>Changelog</h2>
         <div class="timeline">
@@ -186,3 +221,90 @@ const issues = [
     </main>
   </body>
 </html>
+
+<style>
+  .build-section {
+    margin-bottom: 3rem;
+  }
+
+  .build-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  .build-card {
+    background: var(--surface, #1a1a1a);
+    border: 1px solid var(--border, #333);
+    border-radius: 8px;
+    padding: 1.25rem 1.5rem;
+  }
+
+  .build-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.85rem;
+  }
+
+  .build-badge {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    white-space: nowrap;
+  }
+
+  .build-badge.debug {
+    background: rgba(59, 130, 246, 0.15);
+    color: #60a5fa;
+    border: 1px solid rgba(59, 130, 246, 0.3);
+  }
+
+  .build-badge.release {
+    background: rgba(34, 197, 94, 0.12);
+    color: #4ade80;
+    border: 1px solid rgba(34, 197, 94, 0.25);
+  }
+
+  .build-desc {
+    color: var(--text-secondary, #888);
+    font-size: 0.9rem;
+  }
+
+  .build-cmd {
+    background: var(--bg, #111);
+    border: 1px solid var(--border, #2a2a2a);
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+    margin: 0 0 0.75rem;
+    overflow-x: auto;
+    font-size: 0.82rem;
+    line-height: 1.5;
+  }
+
+  .build-cmd code {
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+    color: #e2c97e;
+    white-space: pre;
+  }
+
+  .build-output {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.82rem;
+  }
+
+  .build-output-label {
+    color: var(--text-secondary, #888);
+    white-space: nowrap;
+  }
+
+  .build-output code {
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+    color: var(--text-secondary, #aaa);
+  }
+</style>

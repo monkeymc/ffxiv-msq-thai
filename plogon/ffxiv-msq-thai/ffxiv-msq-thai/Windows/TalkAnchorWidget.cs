@@ -45,14 +45,24 @@ public sealed class TalkAnchorWidget : Window, IDisposable
     private readonly PluginConfig _config;
     private readonly IDalamudPluginInterface _pi;
     private readonly IGameGui _gameGui;
+    private readonly MsqOverlayWindow _overlay;
 
     // Fixed 16 px Thai font — menu labels only, independent of overlay font size
     private readonly IFontHandle _menuFont;
 
+    // ── Diagnostics ───────────────────────────────────────────────────────────
+    private static readonly string[] _diagAddons =
+        { "Talk", "TalkSubtitle", "CutSceneSubtitle", "CutsceneDialogue" };
+    private static readonly string[] _cutsceneAddons =
+        { "TalkSubtitle", "CutSceneSubtitle", "CutsceneDialogue" };
+    private bool   _lastDrawCondition = false;
+    private string _activeAddon = "Talk";
+
     public TalkAnchorWidget(
         PluginConfig config,
         IDalamudPluginInterface pi,
-        IGameGui gameGui)
+        IGameGui gameGui,
+        MsqOverlayWindow overlay)
         : base("##msq-th-anchor",
             ImGuiWindowFlags.NoTitleBar        |
             ImGuiWindowFlags.NoResize          |
@@ -69,6 +79,7 @@ public sealed class TalkAnchorWidget : Window, IDisposable
         _config  = config;
         _pi      = pi;
         _gameGui = gameGui;
+        _overlay = overlay;
 
         var fontPath = Path.Combine(
             pi.AssemblyLocation.Directory!.FullName,
@@ -87,29 +98,103 @@ public sealed class TalkAnchorWidget : Window, IDisposable
 
     public override unsafe bool DrawConditions()
     {
-        var ptr = _gameGui.GetAddonByName("Talk");
-        if (ptr.Address == nint.Zero) return false;
-        return ((AtkUnitBase*)ptr.Address)->IsVisible;
+        // Priority: Talk > cutscene addons
+        var talkPtr = _gameGui.GetAddonByName("Talk");
+        bool result;
+        string newAddon;
+
+        if (talkPtr.Address != nint.Zero && ((AtkUnitBase*)talkPtr.Address)->IsVisible)
+        {
+            result   = true;
+            newAddon = "Talk";
+        }
+        else
+        {
+            result   = false;
+            newAddon = "Talk";
+            foreach (var name in _cutsceneAddons)
+            {
+                var p = _gameGui.GetAddonByName(name);
+                if (p.Address != nint.Zero && ((AtkUnitBase*)p.Address)->IsVisible)
+                {
+                    result   = true;
+                    newAddon = name;
+                    break;
+                }
+            }
+        }
+
+        // Log full addon snapshot on any visibility or active-addon change
+        if (result != _lastDrawCondition || newAddon != _activeAddon)
+        {
+            Plugin.Log.Debug($"[TalkAnchorWidget] visible → {result}  addon={newAddon}  (was {_lastDrawCondition}/{_activeAddon})");
+            foreach (var name in _diagAddons)
+            {
+                var p = _gameGui.GetAddonByName(name);
+                if (p.Address == nint.Zero)
+                    Plugin.Log.Debug($"[TalkAnchorWidget]   {name,-22} not found");
+                else
+                {
+                    var a = (AtkUnitBase*)p.Address;
+                    Plugin.Log.Debug($"[TalkAnchorWidget]   {name,-22} found  visible={a->IsVisible}  pos=({a->X},{a->Y})  scale={a->Scale:F2}");
+                }
+            }
+            _lastDrawCondition = result;
+            _activeAddon       = newAddon;
+        }
+
+        return result;
     }
 
     public override unsafe void PreDraw()
     {
-        var ptr    = _gameGui.GetAddonByName("Talk");
-        var addonX = 0f;
-        var addonY = 0f;
-        var addonW = BtnW + MarginH * 2f;
+        var isCutscene = _activeAddon is "TalkSubtitle" or "CutSceneSubtitle" or "CutsceneDialogue";
 
-        if (ptr.Address != nint.Zero)
+        if (isCutscene)
         {
-            var a  = (AtkUnitBase*)ptr.Address;
-            addonX = (float)a->X;
-            addonY = (float)a->Y;
-            addonW = a->GetScaledWidth(true);
+            // Position the button at the right edge of the MsqOverlayWindow text panel.
+            // _overlay draws before _anchor in WindowSystem (added first), so LastPos/LastSize
+            // are already set for this frame.
+            Vector2 overlayPos, overlaySize;
+            if (_overlay.LastSize.X > 0f)
+            {
+                overlayPos  = _overlay.LastPos;
+                overlaySize = _overlay.LastSize;
+            }
+            else
+            {
+                // Fallback estimate if overlay hasn't drawn yet (first frame, plugin disabled, etc.)
+                var io       = ImGui.GetIO();
+                overlaySize  = new Vector2(Math.Min(1144f, io.DisplaySize.X * 0.85f), 80f);
+                overlayPos   = new Vector2(
+                    (io.DisplaySize.X - overlaySize.X) / 2f,
+                    io.DisplaySize.Y - 180f - overlaySize.Y / 2f);
+            }
+
+            Position          = new Vector2(overlayPos.X + overlaySize.X - BtnW - MarginH, overlayPos.Y - BtnH - MarginV);
+            PositionCondition = ImGuiCond.Always;
+        }
+        else
+        {
+            // Normal Talk addon — anchor to the native dialogue box
+            var ptr    = _gameGui.GetAddonByName("Talk");
+            var addonX = 0f;
+            var addonY = 0f;
+            var addonW = BtnW + MarginH * 2f;
+
+            if (ptr.Address != nint.Zero)
+            {
+                var a  = (AtkUnitBase*)ptr.Address;
+                addonX = (float)a->X;
+                addonY = (float)a->Y;
+                addonW = a->GetScaledWidth(true);
+            }
+
+            Position          = new Vector2(addonX + addonW - BtnW - MarginH, addonY + MarginV);
+            PositionCondition = ImGuiCond.Always;
         }
 
-        Position          = new Vector2(addonX + addonW - BtnW - MarginH, addonY + MarginV);
-        PositionCondition = ImGuiCond.Always;
-        SizeConstraints   = new WindowSizeConstraints
+        SizeConstraints = new WindowSizeConstraints
         {
             MinimumSize = new Vector2(BtnW, BtnH),
             MaximumSize = new Vector2(BtnW, BtnH)
