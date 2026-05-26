@@ -1,0 +1,516 @@
+{
+  "id": "a-new-family",
+  "wiki_path": "/wiki/A_New_Family",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A New Family",
+  "level": "99",
+  "location": "The Backroom(X:6.0,Y:6.3)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll be fine. You don't need to worry about me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm really sorry, but we're not sure what happened to Cahciua. The others are trying to learn what they can."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Oh, Cahciua... We'd known that such a day would come, but I wish we could've at least said good-bye..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You knew, then. That she was already gone."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We did. We all did."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Cahciua forbade us from saying anything. She wanted to tell you herself when the time was right."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I expect she was torn over how to reveal the truth to Erenville."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see... I don't think anyone can blame her for keeping quiet."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But tell me—how are the people faring? Have they forgotten Zoraal Ja already?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "No, they still remember him. We wonder if this might be the result of the gate at the summit being closed."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Most are unaware of developments. They'll be relieved to hear that the king has been defeated, but at the same time, they're like to panic if they learn that the queen has disappeared."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Right now, Geode is making contact with the various government bodies, but it'd probably be best to keep it all under wraps for a time."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Agreed. Once we've resolved matters, I'll explain everything to the people. I consider it my duty."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As to Zoraal Ja's mechanical army, what's become of them now that he's gone?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ah yes, about that..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "At the time we suspect that Zoraal Ja passed, the king's authority appears to have been transferred to Gulool Ja."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You mean to say Gulool Ja is the new king!?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "While a coronation is required to make it official, for the moment, the system recognizes him as his father's successor."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But...I don't want this. I don't want to be king."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's not a decision you have to make right away. But given that the authority comes with command of the army, you can't give it up lightly either."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We can think on it together later, but for now, I want you to hold on to it. To what your father has left you..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "...If you say so."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Um...are you alright, Lamaty'i?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh, what is this? Why can't I... Gah!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Despite everything that's happened—all the terrible things my brother did—I still don't know how to feel towards him... What's wrong with me?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You think so? I'll take your word for it..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "For now, we have things under control. Why not return to Tuliyollal and rest up while the others handle the investigation?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You know, I think I'll do that. It'll be good to see how things are at home and catch up with Koana."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, why don't the two of you come too?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But...won't everyone hate me?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course not. They might be a little unsure at first, but I'll set them straight."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Besides, I want to introduce you to Koana. As new family."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "R-Really!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Really! That is, if you're fine with it?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I am! I am!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then let's be off! We'll head directly to the palace to see Koana."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Please have a good rest—you've earned it. I'll keep things low-key for a while myself."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You are returned!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Wait there, I'm coming down!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Where's Lamaty'i? What happened inside the dome?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "So my brother is gone..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Yet the danger remains, and you must soon sally forth unto an unknown reality..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey! Koana!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i... Is this boy perhaps...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is Zoraal Ja's son, Gulool Ja."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I see. Time did flow differently inside the dome."
+    },
+    {
+      "character": "Koana",
+      "text_en": "If he is our brother's child, then..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Gulool Ja, was it? My name is Koana, and I am Lamaty'i's brother."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "You're her brother...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You'll find none more dependable than Koana. He's family, and he'll take good care of you."
+    },
+    {
+      "character": "Koana",
+      "text_en": "A pleasure to meet you, Gulool Ja."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "A pleasure to meet you too, uh...Uncle Koana."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Well, I suppose I am your uncle..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But simply Koana will do."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're all confused, and little wonder. Rest assured all will be explained in due course."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But for now, I want to make one thing clear."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gulool Ja is his own person. He had no part in his father's crimes."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you have anger towards Zoraal Ja you need to express, Koana and I will gladly hear you. But you will treat Gulool Ja as you would any child—with kindness."
+    },
+    {
+      "character": "Convinced Man",
+      "text_en": "As we should. The boy's done no wrong."
+    },
+    {
+      "character": "Approving Woman",
+      "text_en": "Yes, the Vow of Resolve speaks true!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "So...will you tell me what happened? G'raha Tia has given me a summary, but I would hear your detailed accounts."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Can we walk while we chat? I want to see how things are in the city."
+    },
+    {
+      "character": "Koana",
+      "text_en": "In that case, let us make our way to Brightploom Post."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Our soldiers remain on high alert, but if the threat of invasion has passed, I will bid them take a well-earned rest."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm my own person... I am!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Even though I knew all was well, I'm still comforted to see Lamaty'i with my own eyes."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It was indeed Zoraal Ja's realm inside the dome."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A realm he ruled jointly with Sphene. He as the King of Resolve, and she the Queen of Reason."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just like you and me here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Their people live very different lives compared to ours. But like us, they live them to the fullest."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And Sphene is a big part of that. She's a considerate and approachable ruler who treats everyone as family."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You and her must've gotten along well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We did... But out of love for her people, she's chosen the wrong path."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They're a good folk, the Alexandrians... They welcomed us into their homes, and treated us with kindness and respect."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But Zoraal Ja slaughtered them. Slaughtered those he was meant to protect, for his own ends."
+    },
+    {
+      "character": "Koana",
+      "text_en": "By the gods... Tell me how this came to pass."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Father..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "That a king should harm his own people..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When his attack on Tuliyollal failed, Zoraal Ja sought to gain more power. So he ordered his people executed and harvested their souls."
+    },
+    {
+      "character": "Koana",
+      "text_en": "What drove him to commit such an atrocity?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He claimed he wanted to bring the entire world under his dominion. But that was just a means to achieve his true desire."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "My grandfather... He was a great person, right?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Maybe...maybe my father wanted to prove he was his own person. That he wasn't just a great person's son."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I daresay you are right. As the Resilient Son, our father's trueborn heir, he bore the weight of expectation. That weight was clearly greater than any of us had imagined."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "That's probably why he was who he was. And why he didn't want me..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn it all... If only we had tried harder to reach out to him..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "<sigh> Let's keep moving."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What my father did was wrong. He had to be stopped. But...I'm glad I could learn a little about the person he was."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Growing up, I envied my brother. But that envy may have added to his burdens."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja had become unimaginably powerful. It was only with Forename 's help that we managed to defeat him."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And now I have a responsibility to the people of Alexandria. And above all to Gulool Ja."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "...!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I promised, didn't I? I wanted us to become family. And it isn't only out of obligation. Since I've gotten to know you, I've come to really like you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You might not be my nephew by blood, but we're family to the end. We'll always be there to help each other, isn't that right?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Right!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You too, Forename . After everything we've been through, we're already as good as family."
+    },
+    {
+      "character": "Koana",
+      "text_en": "What!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What do you mean, “what”? The more family you have, the merrier, don't you think? Come on, let's head into the barracks!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'd like to be family with you too, Forename !"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Like Papa did by taking us in, I want to make my family bigger! You wouldn't mind some extra family too, right, Forename ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I'm glad I could hear what happened in the dome."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But I'm sorry that you had to bear such a heavy burden, Lamaty'i..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't be. As Vow of Resolve, it was something that I had to do."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Besides, it was your ingenious strategy that kept Tuliyollal safe!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Asking you to rule with me was definitely one of my better ideas!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "It was because we all fought as one that we could repel the invaders—and then only with the aid of Vrtra and his kin."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Thanks to Alphinaud and Estinien interceding for us, we were able to swiftly forge an alliance with Radz-at-Han."
+    },
+    {
+      "character": "Koana",
+      "text_en": "And when the dragons appeared in our skies, I felt that this was it—the Tuliyollal you had envisioned."
+    },
+    {
+      "character": "Koana",
+      "text_en": "We owe our new allies a great debt, and I hope that we can repay them one day."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Indeed. Once I've dealt with matters, we should go and thank them in person."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Forename had told me as much, but you still have work to do, yes?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes. I need to find Sphene."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "She harmed our people so that her own might live. But as I was raging at her deeds, I realized something."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just because Tuliyollal is safe doesn't mean I can ignore what becomes of Alexandria. That's the kind of thinking that led to conflict in the old days."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I want to help the Alexandrian people live in peace and happiness. And the only way to do that is to stop Sphene from walking her path."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Very well, Lamaty'i. Just promise me you will take care."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I promise, Koana."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I wish there was something I could do to help..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's nice to be home, even if only for a while. Thanks for coming with me, Forename ."
+    },
+    {
+      "character": "Koana",
+      "text_en": "<sigh> While I had anticipated this, I still can't help but worry."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sorry that I have to go away again so soon."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But even setting Sphene aside, some of our own people may be among the Endless."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't just sit around and leave everything to the others."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I understand. I have matters here well in hand, so do what you must."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Forename . For all you've done for us—for our nation and our family—I fear I can never express sufficient gratitude. But thank you, from the bottom of my heart."
+    }
+  ]
+}

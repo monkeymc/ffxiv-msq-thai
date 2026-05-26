@@ -1,0 +1,316 @@
+{
+  "id": "lending-a-helphand",
+  "wiki_path": "/wiki/Lending_a_Helphand",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/36/Lending_a_Helphand.png",
+  "patch": "7.0",
+  "title_en": "Lending a Helphand",
+  "level": "92",
+  "location": "Kozama'uka(X:12.0,Y:28.3)",
+  "npc_start": "Rakorok",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "First we'll solve this problem for the Moblins, then we'll see about completing their feat!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Pfffkohhh... What Rakorok needs is for new helphands to create goodliving for potsworn Kaahe."
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "The helphand assigned to Kaahe was hurt during the rockrain, so Rakorok took over...but he knows nothing of Kaahe."
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "What does Kaahe want? What does Kaahe need? Helphands do not bother the potsworn with straightasks! Our job is to observe and anticipate─to prepare things with guessthink!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Please, guessthink with Rakorok. Find out what Kaahe is lacking so we can provide it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You can count on us!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Kaahe is only one of many potsworn in need of caretaking. We work through the night with no sleep and no rest, but there are too few of us to go around!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is where Kaahe works, is it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's take a peek inside, then."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That must be Kaahe. It'd be a lot quicker if we could just talk to him, but that's not the way they do things around here, apparently."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll have to leave him be, and try our hand at some “guessthink.”"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, he has no shortage of crafting materials. There must be something else he's missing."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He's barely touched his meal! That dish is meant to be eaten hot, or it loses its savor..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He must be boiling sitting so close to the furnace, and there's no airflow to speak of. How could anyone work in that stifling heat?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Those tools are looking pretty worn down. Maybe it's time for some new ones...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright, after taking a good look, I think I have an idea of what things Kaahe might want to improve his working conditions."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's head back outside and talk to Rakorok."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, let's share what we observed with Rakorok!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Kohhh... You made your observations? What did you guessthink?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "First off, I noticed Kaahe hasn't touched his food, and an empty belly can't be good for his concentration."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Maybe the cooking isn't to his liking?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "But our food is very mouthpleasing! Why wouldn't he want to eat it?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Argh, but Rakorok is sure of nothing when it comes to Kaahe's tastes!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can help you with that. My brother Koana is also Hhetsarro, and while everyone has their personal preferences, there are some they tend to share."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Like an aversion to piping hot dishes. If it was brought to him like that, Kaahe probably wouldn't have been able to eat until it cooled down, and by the time he came back to it, he might've found it cold and unappetizing."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The simplest solution is to serve dishes that taste good no matter the temperature!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Rakorok never would have thought of that! Would the Third Promise mind explaining these things to our cook?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not at all. But I don't think that was the only reason Kaahe couldn't concentrate."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Hhetsarro homeland is hot and dry, but even Kaahe seemed to be suffering in front of that furnace. Is there any way you could cool down the workshop?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Oh, we could try a draftyshard. They make a lovely breeze!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Do you know where we can get one of those?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "You can gather them from the Shoals of No Return. There are many old boats there, abandoned by those who gave up on their search for the golden city."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So we salvage them from the wrecks. Could you handle that for us, Forename ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, and one more thing. From what I could tell, Kaahe's files and saws and things were very worn down─maybe a new set of tools is in order?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Ahhh! Rakorok was too preoccupied with stocking materials─a serious oversight which he will rectify! Supplying good tools for goodliving is a helphand's responsibility!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then we all have work to do! We can meet back here when our tasks are done."
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "The Shoals of No Return are past the crags, through a tunnel southeast of here. You should be able to spot the passage from just outside the village!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "You're Forename , aren't you? What brings you out here?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Ah, the issue with caring for the potsworn."
+    },
+    {
+      "character": "Koana",
+      "text_en": "When they approached me with that same problem, I suggested they commission artisans in Sharlayan instead. The quality of craftsmanship would be guaranteed, after all."
+    },
+    {
+      "character": "Koana",
+      "text_en": "However, the Moblins did not care for the idea."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Surely, it would be more effective to engage a uniformly trained collective. I cannot understand their fixation on individual contracts..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Perhaps the custom will make more sense once we begin the Feat of Pots."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Until then, we've been deemed unfit to assist in the matter of “helphands,” and are instead tasked with tending the injured. We were on our way back from procuring herbs for Urianger, in fact."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Settlements in Kozama'uka, too, have been isolated by the storm's destruction. What would have become of the wounded had we not found a way here?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Should I become Dawnservant, one of my first acts will be to establish reliable trade routes to the capital. When I imagine how much good we can achieve with Sharlayan technology..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "My apologies─I have much to consider."
+    },
+    {
+      "character": "Koana",
+      "text_en": "If you will excuse us."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We'll meet again soon, I'm sure. Take care, Forename ."
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Pfffkohhh... Is that a cool breeze Rakorok feels?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Yes! Thank you for seekfinding a draftyshard! Rakorok will add it to the new set of tools he brought."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And I come bearing good food tidings! The cook has prepared a feast fit for the most discerning Hhetsarro, and it's on its way even as we speak!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's go in and see what Kaahe thinks of our efforts."
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "I was wondering what occasion called for me to receive so many visitors..."
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "A fine meal, new tools, and a welcome source of cool air─now I remember why I signed a potpact!"
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "I am grateful for your kind considerations. Allow me a moment or two, and I'll reciprocate with a piece worthy of a potsworn."
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "An oil lamp to brighten the halls of Vollok Shoonsa. The craftsmanship satisfies Earthenshire's reputation for quality, I trust?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Kohhh... Such luster! Such brilliance! Truly a gift fit for the Dawnservant!"
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "I'm glad you like it. Considering the time I've wasted till now, I hope to continue crafting at this improved pace."
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "I have a contract to fulfill, after all!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Forgive my interruption."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i, I am told the elector has deemed the crisis past, and is prepared to task us with the feat."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's great news! Thank you for letting me know!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "So this is the craft of a potsworn. It is indeed a masterful piece."
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "Thank you for your words of praise, Second Promise. I drew inspiration from Kozama'uka's natural beauty and sought to capture it in my work."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I wondered why the Moblins did not simply build a workshop in the city, and now I have my answer..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Even Sharlayan goldsmiths could not easily replicate such exquisite artistry."
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "One cannot create great things if one lacks creative impetus. Tuliyollal, fortunately, does not want for inspiration. Anyone wishing to learn the basics of a craft would do well to study it there."
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "I was raised among Hhetsarro more traditional than most, and the shared ingenuity of Tural's various peoples was eye-opening."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You lived as a traditional Hhetsarro? I have few fond memories of nomadic life..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I tried a serving of the dish we prepared for Kaahe. It was so good, I had a second helping!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Would that I could forget that time..."
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "Now my workspace is just the way I like it, I have inspiration oozing from every pore! Think that lantern was nice? Just wait until my next masterpiece..."
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Pfffkohhh... Rakorok is very grateful to you!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "I thank you for both your hard work and clever guessthink. When it comes to helphanding, knowing the potsworn really is important!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, that's true for pretty much everyone you meet. It's a lesson I've had drummed into me several times already on this journey."
+    }
+  ]
+}

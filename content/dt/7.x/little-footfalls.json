@@ -1,0 +1,204 @@
+{
+  "id": "little-footfalls",
+  "wiki_path": "/wiki/Little_Footfalls",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Little Footfalls",
+  "level": "98",
+  "location": "The Backroom(X:6.2,Y:6.3)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Regardless of the circumstances, Zoraal Ja is Gulool Ja's father. The boy is bound to be confused."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If Gulool Ja is outside the tower, we need to find him as quickly as possible!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even if he's used to getting around on his own, the wilds are still no place for a child."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Agreed. While Krile and Raha continue reviewing the data, the three of us should devote ourselves to the search."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright, let's head to the base of the tower and take it from there!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Heritage Found is a large area. Splitting up would allow us to cover more ground."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, here we are outside, but where do we even begin?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Perhaps someone has caught sight of Gulool Ja. Let's make inquiries nearby."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Good idea. Could you handle the outskirts, Alisaie?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In the meantime, Forename and I will head beyond that big wall."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Where have you gone, little one...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You spotted those people too, yes? Perhaps they've seen something. Come on."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Hm... I'm not familiar with your footfalls."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Looks like some sort of salvage yard... Well, let's ask after Gulool Ja."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Gulool Ja isn't here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You know the boy? Have you seen him?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh. Forgive me, I didn't know you were..."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "No offense taken. My name is Taapu. My eyes may be useless, but my ears are sharper for it. I can recognize people by their footfalls, including Gulool Ja."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So he didn't come this way... Where in the world could he be?"
+    },
+    {
+      "character": "Taapu",
+      "text_en": "I do not know your voices. Who are you to Gulool Ja, and why do you search for him?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm...family. Though we're not related by blood, his father is my brother."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've only just met Gulool Ja, and we haven't had the chance to talk properly."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But I'm about to do something that will make him hate me, and I wanted the chance to explain."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "His father is your brother? Then that means you're..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes. I'm Wuk Lamat, Vow of Resolve of Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And I've journeyed here to bring my brother Zoraal Ja to account for murdering our people and our father."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When all is said and done, Gulool Ja may want nothing to do with me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Nonetheless, I'll always consider him family. I'll always be there for him, and I want him to know that."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "It tears you apart to do what you must. The quiver in your voice tells the tale."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Gulool Ja was headed south. There, he has a place that is as close to a home as he knows."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Find and bare your heart to him."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Should he in turn bare his heart to you, accept and respect his wishes. As Queen Sphene respected ours when she granted us a place in her realm."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will, don't worry."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But, uh...what do you mean when you say Sphene respected your wishes?"
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Out of concern for our well-being, Her Majesty had urged us to reside inside Everkeep."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "When we declined, not only did she gracefully accept our decision—she granted us the necessary supplies to make our home here."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "And since then, she has paid us regular visits to see how we fare."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, that sounds like Sphene alright..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, thanks for telling me about Gulool Ja. I'll find him, and then we'll have a good talk."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We continue south, it seems. Let's keep our eyes peeled as we make our way."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Gulool Ja appears to prefer solitude, but deep down he is lonely. Small wonder given his abandonment."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Take good care of him, will you? I myself am quite fond of the boy."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's a town..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And half of it is submerged!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The architecture looks nothing like what we've seen so far. It's more...Sharlayan."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah! There he is, among the ruins!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I only caught a glimpse, but there's no mistaking that tiny silhouette."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's hurry after him. It'd be a disaster if a building collapsed while he's inside!"
+    }
+  ]
+}

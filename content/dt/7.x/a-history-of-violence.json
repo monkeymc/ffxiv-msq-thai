@@ -1,0 +1,508 @@
+{
+  "id": "a-history-of-violence",
+  "wiki_path": "/wiki/A_History_of_Violence",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A History of Violence",
+  "level": "94",
+  "location": "Yak T'el(X:11.0,Y:13.0)",
+  "npc_start": "Koana",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Spiced ibruq wrapped in najool leaves? That sounds like a winning combination to me!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Let us see if there are najool leaves to be had in town."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Perhaps the cook Urianger mentioned might be persuaded to spare us a few."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "An underground oven! This must be the cook Urianger was talking about."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Hmm... The earth here is indeed fashioned into an oven of sorts. Fascinating."
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Oh, hello again! Did you need something?"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Najool leaves! For purposes other than xibruq pibil, naturally..."
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Unfortunately, I've just used up my last. You'll have to travel to the lower forests for more."
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Golmajiik Grove is the source of the finest najool leaves you'll find. Wild variants you sometimes see in city markets can't compare."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I see... I had hoped to avoid such a lengthy venture, but if there's no other way to obtain our ingredient, then to the Ja Tiika Heartland we shall go."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Allow me to save you the trip."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Traveling there requires that you go through the Ty'iinbek Traverse, but it has caved in. Due to the recent storm, I expect."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What? But that means we can't get our najool leaves!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "...But we can , can't we? If there were no other way of procuring them, you would have suspended this feat, or else altered its objective."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Perhaps..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Anyway, I apologize for the interruption, but having overheard your conversation, I felt compelled to chime in."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's very kind of you. Any last-minute advice you'd be willing to share?"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Only to undertake the Feat of Repast with an empty stomach. You may find xibruq pibil to be a delicious but daunting dish to finish."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh! I can't wait!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Still...if there are no leaves here, and we can't travel for more, how are we supposed to gather all our ingredients?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "These feats are meant to deepen our understanding of the peoples and cultures of Tuliyollal."
+    },
+    {
+      "character": "Koana",
+      "text_en": "So perhaps there is something about xibruq pibil that we have yet to learn. Something of significance other than its recipe or ingredients."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, I see... Like who was the first to make it─its history, that sort of thing!"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Ahem! If it's Yak T'el's history you're interested in, you should start with the old war."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Between the Xbr'aal and the Mamool Ja, right?"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "These forests have borne witness to centuries of warfare, the evidence of which remains a scar upon the earth."
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "To know the end of that bloodshed is to know xibruq pibil."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh? What does steamed ibruq have to do with bloodshed?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Precisely the question we must answer. Vexing though such a detour may seem, I can think of no other way to approach this feat."
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "In that case, you may wish to visit the site of a settlement ruined by the war. The village of Ilyon Asoh─it lies a short distance to the east."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The village of Ilyon Asoh? Understood! Thank you for your help."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come, let's go and see this place!"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "I was told not to talk about xibruq pibil. The history of our people and the─<cough>─ important developments therein are another matter."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone knows there was a war between the Mamool Ja and Xbr'aal. But I, uh...may have forgotten some of the details."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The village of Ilyon Asoh must be further east."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Let us continue with haste. For all we know, our competitors may be on our heels."
+    },
+    {
+      "character": "Koana",
+      "text_en": "This place feels forgotten by time..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So this is the village of Ilyon Asoh...or what's left of it."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "It was a place of light and life. My great-grandfather called it home, in fact."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wuk Evu! I didn't know you were in Yak T'el!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I was picking up lumber from Iq Br'aax when I heard the Third Promise was on her way to this site of deep historical significance."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I immediately saw another opportunity to be of service, and so followed you here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wuk Evu is a shipwright who came to our aid during the Feat of Reeds."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "A pleasure. You are a member of the Third Promise's retinue, I presume?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "For the moment, I suppose I am. My name is Koana. Pleased to make your acquaintance."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Koana! Now that's a good name. A familiar name! Where have I heard..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Koana!? As in the Second Promise of Tuliyollal!?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "To think that I addressed the Dawnservant's own son as some common retainer! Such disrespect cannot be excused. Please, take up your gun and─"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, come on, not this again!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I take no offense, so please do not dwell on it."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "All right, then. I shan't dwell on it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A-And right on cue... At least he's consistent?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I understand you wish to learn about xibruq pibil. While I am forbidden by the Xbr'aax Rax to divulge any information regarding its preparation, I would be happy to share what I know of Yak T'el's history."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'd appreciate that!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "In its most basic sense, the conflict between the Xbr'aal and Mamool Ja was one of land."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "The Mamool Ja live in the lower forest, where the thick canopy obscures the sun and the soil is unforgiving to crops. This drove them to covet the upper forest─the home of the Xbr'aal─and they launched a determined campaign to seize it for themselves."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Yet advantage ever favors higher ground, and the Xbr'aal forces held the upper hand against the invaders, rebuffing them time and again."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But as the state of this village would attest, the tide eventually turned. What brought it about?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Something you know all too well: blessed siblings."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "You must understand. The Mamool Ja were once a people as much at war with themselves as they were with others."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "The Hoobigo, Boonewa, and Doppro each sought to assert dominance over the others, even as they engaged the Xbr'aal in battle."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "In an effort to strengthen bonds and discourage infighting, Hoobigo and Boonewa leaders arranged a marriage between their children. However, this political measure altered the course of history in ways no one could have ever imagined."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "It was long believed that partners of differing clans could not have children together."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "But then it happened. A child arrived who shared the blood of Hoobigo and Boonewa both─a two-headed Mamool Ja."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Blessed with tremendous physical strength and magical prowess, he grew into a mighty warrior before eventually arising as the first Autarch─ruler of all three clans."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Such qualities would dispose anyone to leadership. Character notwithstanding."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Under the Autarch's rule, the newly united Mamool Ja became a force to be feared, and the war soon came to a head."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I think it best you see the results firsthand. Let us visit another battlefield from that time, and there I shall continue the tale."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What happened here...?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "By the Twelve..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "This is where most battles were fought between the Xbr'aal and Mamool Ja─the Xobr'it Cinderfield."
+    },
+    {
+      "character": "Koana",
+      "text_en": "A field of cinders, indeed... How fierce their clashes must have been."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "The war over these lands began after the Yok Huy's departure some five hundred years ago."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "And for four centuries thereafter, the two enemies repaid violence with violence. A constant stream of minor skirmishes punctuated by massive slaughter."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Until Father ended their endless conflict eighty years ago."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Accompanied by a retinue of only six, the Dawnservant opposed both armies and brought the fighting to a standstill."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "First they seal Valigarmanda at full strength, and now this..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "It was during this armistice that both sides gathered for negotiations at the Dawnservant's behest."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "For too long you have been bound by your ancestors' violent legacy. It is past time you broke free of it!"
+    },
+    {
+      "character": "Fierce Hunter",
+      "text_en": "Tell that to the scale-scum! We fight to protect what is rightfully ours. If not for their greed, we'd be living in peace!"
+    },
+    {
+      "character": "Forceful Warrior",
+      "text_en": "Puff your tails and scurry off, then! Cowards like you ill deserve the bounty of this forest."
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Even should one of you succeed in vanquishing the other, your triumph will last only until a new invader arrives."
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Tell me─do you know of the vast continent that lies far to the east, where numerous nations vie for dominance?"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "You do not─and why should you? Affairs beyond the salt we have no intention to cross are of no consequence to us."
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Not until those affairs come to Tural─like our honored visitor here."
+    },
+    {
+      "character": "Fierce Hunter",
+      "text_en": "He's from across the ocean?"
+    },
+    {
+      "character": "Forceful Warrior",
+      "text_en": "I've been to the ocean before, and it's nothing but water farther than the eye can see! What sort of vessel could possibly reach its end?"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "That such technology exists is indisputable─as is foreign powers' awareness of Tural."
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "If any such country were to develop a taste for Turali soil, and bring to bear the might of innovations we can only imagine─what do you suppose happens then?"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "You do not know the warlords of the east. But you know that if they came, they would not settle for a single forest."
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "By joining hands, we might create a unified front─an alliance capable of repelling them or any other foe."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "There is no greater proof of this than my companions and I. Alone we are weak, but together we triumphed over Valigarmanda."
+    },
+    {
+      "character": "Forceful Warrior",
+      "text_en": "What!? You defeated the Skyruin!?"
+    },
+    {
+      "character": "Forceful Warrior",
+      "text_en": "I'd take you for a liar if the sting of our own defeat wasn't still fresh."
+    },
+    {
+      "character": "Fierce Hunter",
+      "text_en": "Their coordination was indeed impressive. How the Pelupelu stymied our efforts to cripple the Yok Huy's legs and defend our ballistas..."
+    },
+    {
+      "character": "Fierce Hunter",
+      "text_en": "And when we withdrew to strike again from a distance, the Hanuhanu called the winds to make our arrows miss their marks. In seeking to exploit their weaknesses, we only subjected ourselves to their strengths."
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Those strengths are born of cooperation─the guiding principle of the nation we envision."
+    },
+    {
+      "character": "Fierce Hunter",
+      "text_en": "But our feud has lasted for centuries. How do you expect us to join hands now?"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Give us an evening to convince you."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "And so began that legendary banquet."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "One would not expect sworn enemies to abruptly drink to each other's health. And indeed, a tense silence hung over the venue."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "But then the Dawnservant called for the exchange of traditional cuisine. So it was that the Mamool Ja partook of spiced meat, and the Xbr'aal steamed najool."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Before long, delight manifested upon the faces of those present, each side impressed by the other's dish. Seeing this, the Dawnservant laughed and declared once more."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Their flavors, he said, would be even better combined. And he proceeded to help them prepare the new creation."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's xibruq pibil, I'd wager!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "It is a marriage of Xbr'aal and Mamool Ja cultures, and proof of their newfound cooperation."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "The Dawnservant had asked for a single evening, but the feasting is said to have lasted three days and three nights, so delicious was their repast."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "In the end, a peace accord was reached, and the Dawnservant's words at that time still illuminate our way forward."
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Ignorance begets strife."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Understanding begets fellowship."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ahahahahahaha!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry, sorry..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's just...to think that he ended an age-old conflict with food... It's all so absurd, yet somehow so very Papa, I couldn't help but laugh."
+    },
+    {
+      "character": "Koana",
+      "text_en": "\"Ignorance begets strife. Understanding begets fellowship“..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Now then, I trust you understand the significance of xibruq pibil and the history it has written?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Absolutely! Thank you for sharing the story with us."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's wrong?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Someone was there, you say?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Perhaps our competition is cooking up some scheme or another."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Something bitter and half-baked, no doubt..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I hope I have been of sufficient service to the Third Promise."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I never imagined our father was instrumental to xibruq pibil's invention..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa really did live up to his words. He traveled the land and learned about our people's myriad cultures."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And we're doing the same now..."
+    }
+  ]
+}

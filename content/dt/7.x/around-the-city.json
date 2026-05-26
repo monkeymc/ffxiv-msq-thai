@@ -1,0 +1,352 @@
+{
+  "id": "around-the-city",
+  "wiki_path": "/wiki/Around_the_City",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.4",
+  "title_en": "Around the City",
+  "level": "100",
+  "location": "Treno(X:11.4,Y:11.5)",
+  "npc_start": "Lumull",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "I see how drinking that would be...unifying. And it is impressive that they have maintained the tradition here, so far from the Milalla's native lands."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Given its ability to counteract lightning's influence on the body, that remedy could be of use to the people of Alexandria as well. I am certain Lumull would be more than happy to offer it to them..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Ah yes, the repairs..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Are you certain you want to be put to work? If you've come all the way out to visit us, you must have had more important things in mind. And you've already helped protect the city..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Actually, our goal was to ascertain the present state of the Mist Continent."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "The whole continent!? Did you come from across the sea?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not exactly..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We've actually come from Alexandria."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Alexandria? Are you quite, quite sure?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "...No, sorry, of course you're sure. Would be rude of me to doubt you."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "It's just, it's not every day that we get visitors, let alone from a nation that up and vanished!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I know that it must come as something of a shock."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But this is our first time in Treno, and we should like to get to know the city and its people. That is why we proposed lending a hand to those in need."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I see! In that case..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Why don't you help distribute this remedy to the rest of our people?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Ordinarily, everyone would've already come for a cup, but the fiends made quite a mess this time. Might be a while before some can step away from their work."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Never fear, though─even if their hands are busy, they'll be more than happy to spare a few words for fascinating folks from afar."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We would appreciate that. Thank you, Lumull."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "You're the ones doing me a favor, honestly! Here, take this batch."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I'll deliver some to town hall, so you can attend to areas you haven't seen yet!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Like Miayli, Lumull seemed taken aback by mention of Alexandria. Perhaps they had friends or loved ones who disappeared along with it."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If we split up, we can spend more time speaking with the locals while ensuring everyone receives the remedy promptly. Could you each take a portion?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I too should be glad to dole out a few servings."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wonderful! Let me divide this up..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Forename , why don't you make rounds of the southern part of the city? Raha and I shall tend to the north."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Right, let's go and acquire some insights!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So the taste is challenging even when one is accustomed to it..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is that so? This city is remarkably self-sufficient."
+    },
+    {
+      "character": "Dauntless Laborer",
+      "text_en": "You must be one of those visitors Lumull mentioned. Odd place to be visiting, though."
+    },
+    {
+      "character": "Dauntless Laborer",
+      "text_en": "Oh, you came to deliver the remedy? Thank you kindly. I was hauling beast carcasses in for processing and copped a good dose of discharged energy for my troubles. It brought on the levin sickness something fierce..."
+    },
+    {
+      "character": "Dauntless Laborer",
+      "text_en": "Still, we don't go hunting outside the barrier, so we don't want to waste any part of the creatures that find their way in."
+    },
+    {
+      "character": "Dauntless Laborer",
+      "text_en": "Pelts that're highly charged with lightning aether are the most valuable, of course. Tan them with the right stuff, and you can turn them into protective clothing that keeps you from getting zapped."
+    },
+    {
+      "character": "Dauntless Laborer",
+      "text_en": "The beasts you felled will all be put to good use. Thanks again!"
+    },
+    {
+      "character": "Dauntless Laborer",
+      "text_en": "Our histories say that when large creatures broke through the barrier, our bravest fighters would launch themselves onto their backs with the trebuchet. We have you to thank for not needing to revive that tradition today!"
+    },
+    {
+      "character": "Reflective Fighter",
+      "text_en": "You're that mighty monster-slayer I saw earlier! It's an honor."
+    },
+    {
+      "character": "Reflective Fighter",
+      "text_en": "And you've brought Sleepless Rhapsody! Bless you─I'm dead on my feet after that battle. We don't usually have that many beasts breaking through at once."
+    },
+    {
+      "character": "Reflective Fighter",
+      "text_en": "Practice keeps one's skills sharp, though, so in a way I'm glad for it. And I learned a thing or two from watching you."
+    },
+    {
+      "character": "Reflective Fighter",
+      "text_en": "Oh, I can hardly wait to get to work on my grimoire! I have a number of ideas for improved geometries..."
+    },
+    {
+      "character": "Reflective Fighter",
+      "text_en": "The thoughtful application of new learning is what keeps our ancestors' magic alive and flourishing!"
+    },
+    {
+      "character": "Reflective Fighter",
+      "text_en": "Now I must face my true nemesis: circles. They're so hard to draw without making them all wobbly!"
+    },
+    {
+      "character": "Diligent Inspector",
+      "text_en": "There's a fresh face if ever I saw one... And what's that in your hand?"
+    },
+    {
+      "character": "Diligent Inspector",
+      "text_en": "Oh, don't mind if I do! Safety inspections take priority, but the battle doesn't feel over until I've had a cup of Sleepless Rhapsody..."
+    },
+    {
+      "character": "Diligent Inspector",
+      "text_en": "I'm proud to say that I have some small part in preparing it, too. The herbs come from my very own growery."
+    },
+    {
+      "character": "Diligent Inspector",
+      "text_en": "One of the greatest discoveries of our time is that seeds carried in by invading creatures can be cultivated into remarkable plants. Plants with the potential to mitigate the lightning's effects!"
+    },
+    {
+      "character": "Diligent Inspector",
+      "text_en": "And with as many hides as we have this time─not to mention stomachs!─it's entirely possible we'll find new varieties of herbs among our harvest."
+    },
+    {
+      "character": "Diligent Inspector",
+      "text_en": "The flowers around the city also sprouted from seeds that creatures carried in. So truth be told, I find it difficult to begrudge them their trespass."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Finished with your supply of remedy as well, have you? I expect the scent will linger on our clothing for days..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Between the three of us, we ought to have covered every area aside from Lumull's."
+    },
+    {
+      "character": "Krile",
+      "text_en": "One of the people I spoke with asked me to pass something along to him, but he hasn't returned yet."
+    },
+    {
+      "character": "Krile",
+      "text_en": "In the meantime, shall we discuss what we've learned?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Fascinating. I appreciate your thoroughness in recounting the details."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I too learned much, as I helped to treat the injured's wounds."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The Milalla's curative magicks appear identical to Sphene's. This means that either her tutor was a Milalla as well, or that the art had spread all throughout the Ninth."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then there are the symbols and tomes, which are highly reminiscent of arcanima. If these elements indeed originated with the arcane geometries of the south sea isles, as in the Source, 'tis curious that they have developed in so similar a manner on this shard."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Mind you don't share that with any other graduates of the Faculty of the Arcane, lest they beat you to publication."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Did you learn aught of note, Raha?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I spoke with one of Treno's storekeepers about how they obtain their supplies."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though they are few and far between, other settlements yet exist on the Mist Continent, with a rail system facilitating the flow of goods between them."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Unfortunately, barrier breaches trigger an emergency failsafe on the main line, so the train is presently stopped at a midway point until operations can resume."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There are also maritime routes, but they see only occasional use. Often, as now, Treno must make do with what is to hand."
+    },
+    {
+      "character": "Krile",
+      "text_en": "In addition to this constant state of scarcity, much of Treno's populace suffers from levin sickness─not to mention the frequent attacks on the city and the resulting casualties."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yet everyone we've spoken with seems undaunted by these hardships. They are not only surviving─they are happy, in spite of it all."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Where there is life, there is hope."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And when one believes in a better future─a tomorrow even the slightest bit brighter than today─there is naught to be done but build it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Until, stone by stone, a city rises."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A noble city, with noble purpose."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is aught the matter, Lumull?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I think I've dropped something and now I can't find it anywhere. I...I'm doomed."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh! Is it this, by chance?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "While I was distributing the remedy, I was asked to pass it along to you."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Yeees! That's it! Yes! I'm not doomed."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is that a tracking device?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "You've a keen eye for technology! This thing picks up on the aether of the creatures that get through the barrier."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That explains how you knew when they'd been vanquished."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Exactly! It shouldn't show anything now, but I can switch it on like so..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Nooo! No! Nonono! She's going to kill me!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Uh... Say, how'd you like to meet my sister Eyaney? She's an electrope engineer, so she knows all sorts of interesting stuff..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I take it she also built that device?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Oh, yes. That's my sister! She's a genius, everyone says so."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "And she won't kill me in front of other people. Probably."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I mean, wouldn't it be interesting to watch her work? Maybe you can even help! It'd be, you know...edifying?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Please, I beg you! Pleeeaaase!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I suppose that's that, then."
+    },
+    {
+      "character": "Krile",
+      "text_en": "One wonders how fearsome this Eyaney truly is..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If Treno's barrier is similar in design to Alexandria's, should we assume that electrope technology is standard here as well?"
+    }
+  ]
+}

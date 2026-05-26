@@ -1,0 +1,360 @@
+{
+  "id": "the-endless-choice",
+  "wiki_path": "/wiki/The_Endless_Choice",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.3",
+  "title_en": "The Endless Choice",
+  "level": "100",
+  "location": "Solution Nine(X:4.2,Y:18.9)",
+  "npc_start": "Wayakkwe",
+  "dialogues": [
+    {
+      "character": "Sphene",
+      "text_en": "For their sakes, I have to remain calm..."
+    },
+    {
+      "character": "Milos",
+      "text_en": "When I was sick and couldn't move, my mother was always at my side, always keeping me company. And I'm going to do the same for her!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'll take care of this gentleman. Go and check on Isadora and Milos!"
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "Why...? Why is this happening...?"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Our comrade...you think he may have been struck down?"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "If he is wounded or worse, I should go to him..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wait! Please. It isn't safe and you still need rest. Would you stay with Milos and watch over Isadora for me?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We will tend to your friend."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "I... Thank you. Please be careful yourself."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Isadora and Milos had completed their applications to leave the dome and were practically out the door when...all this happened. We'll make sure they're taken care of the moment Isadora is ready to travel."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That man, he... This is awful."
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "Why...? Why is this happening...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "...Isadora is going to be alright, then? I'm so glad."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've just finished my ministrations here."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Our Oblivion comrade was beyond saving, I'm afraid..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That brave soul. He gave his life to save another..."
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "He died protecting me... I don't understand why any of this is happening!"
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "That sentry was behaving normally, like any other. Then, all of a sudden, it...it tried to kill me!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Weapons or no, Calyx commanded them to commit murder..."
+    },
+    {
+      "character": "Hopeful Oblivion Member",
+      "text_en": "Is it over!? We came as soon as Wayakkwe sent word..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I am sorry... By the time we arrived, it was already too late."
+    },
+    {
+      "character": "Anxious Oblivion Member",
+      "text_en": "...Then Geode could be in trouble, too. Once we have this radius locked down, we need to find him."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But why...? Has something happened!?"
+    },
+    {
+      "character": "Anxious Oblivion Member",
+      "text_en": "Possibly. We're not sure what, but he stopped responding to our communications."
+    },
+    {
+      "character": "Hopeful Oblivion Member",
+      "text_en": "We need to prioritize securing the residential sector, though, at least until we regain control over the sentries..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Then we should search for Geode."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I agree. Since most Oblivion members have sworn off regulators, if our theory holds true, then they could be prime targets for the next attack."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Please do what you can to shepherd the residents to safety, but avoid the sentries at all costs."
+    },
+    {
+      "character": "Anxious Oblivion Member",
+      "text_en": "Our thanks. Here, take these communicators."
+    },
+    {
+      "character": "Anxious Oblivion Member",
+      "text_en": "We've made modifications to them to prevent Calyx from intercepting the signal, and have been using them to coordinate movements with allies in the vicinity."
+    },
+    {
+      "character": "Anxious Oblivion Member",
+      "text_en": "Wayakkwe has one too, so I'll ask her to keep hailing Geode."
+    },
+    {
+      "character": "Hopeful Oblivion Member",
+      "text_en": "Good luck, and stay safe!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Geode said he would sweep the surrounding area, so he shouldn't have ventured too far. Let's get going!"
+    },
+    {
+      "character": "Anxious Oblivion Member",
+      "text_en": "Leave matters here to us. We'll see to our fallen comrade, and make sure no one else comes to harm."
+    },
+    {
+      "character": "Hopeful Oblivion Member",
+      "text_en": "I hope you find Geode soon. I know he's probably saving people with one hand and fighting off threats with the other, but I can't help but worry..."
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "Pray thank your Milalla friend for me. I would still be a helpless mess if not for her encouragement..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Please, Geode... Please be safe..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let's search around the apartments first!"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Geode! Geode, answer me!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "This is the only place left. Let them be safe..."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Geode, are you there? Answer me, please!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "I'm here. Sorry for the long silence─I've been busy."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "You're alive! Thank the gods..."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Where are you now!?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "The radius next door. The lobby is secure."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I'll scout the second floor, then I'll join..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "That dust..."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "“Dust”? What are you talking about? What's happening?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "They're not just collecting souls. They're draining the bodies of corporeal aether."
+    },
+    {
+      "character": "Geode",
+      "text_en": "The “dust” that we saw was all that was left of the victims. They must have modified the soul cells..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Shit!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "<grunts>"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Damn you!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "You can't be here! You need to run─now!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "A trap!?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Heh."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Take care of the others, eh?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No sign of him so far. This way, maybe...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Geode...!?"
+    },
+    {
+      "character": "???",
+      "text_en": "A shame. I had hoped to leave here with at least one more cell's worth of aether."
+    },
+    {
+      "character": "???",
+      "text_en": "But seeing how eager you are to interfere, I shall cut this foray short."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What could you possibly stand to gain from these...these atrocities!?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Aether sufficient to generate five thousand Endless. How would you acquire it?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "How would I...?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Until I have the key, the reflections are closed to me. Thus do I make do with the sources at hand."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Seven percent of Alexandria's current population will yield the energy to convert five thousand into Endless. With eleven percent, operations could continue unabated for eight hundred years."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Our bodies are fated to decay, sooner or later. These ones refused the gift of eternal life, so what difference does it make if I return them to aether now?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I will not waste time and resources on meaningless conflict. This unit cannot offer you worthwhile resistance."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Instead, I pose a question: would you hand over the key if I promised to halt my harvest?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "It was foolish of me to even ask."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I return to my work, then. There is much to do if I must take the key by force."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can't... There are no words..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This pile of dust. These...ashes..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And the soul cell he left behind... Was that his twisted way of returning Geode to us?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Damn you, Calyx... Damn you and your careless cruelty!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He was our friend..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Even so. Some might say every death was justified if it meant five thousand Endless could continue their immortal lives."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And if a reflection's stolen aether allowed for many more Endless? Why, that too would be a noble sacrifice for the greater good..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Who could think that!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not I!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "...Certainly not I."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We know only too well... There is naught noble in this sacrifice."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We have to stop him. We have to find Calyx, and put an end to this madness as soon as possible..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And under no circumstances can we let the key fall into his possession, Forename ."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It falls to us. We must─we will thwart his plans here in Alexandria before he can terrorize innocents in reflections elsewhere..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I will hold on to Geode's gun... If you could take the soul cell, please..."
+    }
+  ]
+}

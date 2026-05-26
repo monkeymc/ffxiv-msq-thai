@@ -1,0 +1,1012 @@
+{
+  "id": "in-search-of-the-past",
+  "wiki_path": "/wiki/In_Search_of_the_Past",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/9/9d/In_Search_of_the_Past_1.png",
+  "patch": "7.1",
+  "title_en": "In Search of the Past",
+  "level": "100",
+  "location": "Solution Nine(X:6.2,Y:15.2)",
+  "npc_start": "G'raha Tia",
+  "dialogues": [
+    {
+      "character": "Gulool Ja",
+      "text_en": "We might learn more about my father, too? I hadn't thought of that."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can very much relate to his feelings. I pray Gulool Ja finds what he seeks."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If no records remain of Gulool Ja's mother, then where do we begin our search?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I understand all too well Gulool Ja's desire. For the longest time I found my own father's actions inexplicable..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If this is what Gulool Ja wants, then I'll help him however I can. After all, we're family!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Assuming neither memories nor records of Gulool Ja's mother remain, we must cast as wide a net as possible. I suggest we split into groups."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Forename ─if you could make inquiries outside in the outskirts, the rest of us will do the same in Solution Nine."
+    },
+    {
+      "character": "Middle-aged Tonawawta",
+      "text_en": "Sorry, but I've never heard of a Mamool Ja woman living in these parts, much less one connected to Zoraal Ja."
+    },
+    {
+      "character": "Middle-aged Tonawawta",
+      "text_en": "You might have better luck talking to the people over at a Tonawawtan settlement to the north of Everkeep, in a place called Yuweyawata."
+    },
+    {
+      "character": "Middle-aged Tonawawta",
+      "text_en": "The Resilient Son won their loyalty when he saved them from some crisis or another, or so the story goes. If I remember correctly, their chief's name was Kanilokka."
+    },
+    {
+      "character": "Chatty Shetona",
+      "text_en": "A Mamool Ja woman? Hmmm, their people have never been a common sight around here..."
+    },
+    {
+      "character": "Chatty Shetona",
+      "text_en": "Why, the last time I saw one would have been before the dome came down over our heads."
+    },
+    {
+      "character": "Chatty Shetona",
+      "text_en": "She was among an entourage of Landsguard that was dispatched here. I assume they all returned to Tuliyollal after their mission."
+    },
+    {
+      "character": "Chatty Shetona",
+      "text_en": "But if any remained, I suppose they could've been trapped in here with the rest of us."
+    },
+    {
+      "character": "Chatty Shetona",
+      "text_en": "I haven't seen the Mamool Ja woman or any of the other Landsguard since then, but I suppose it's possible some of them were trapped here with the rest of us."
+    },
+    {
+      "character": "Fresh-faced Tonawawta",
+      "text_en": "You're looking for a Mamool Ja woman?"
+    },
+    {
+      "character": "Fresh-faced Tonawawta",
+      "text_en": "Oh, Gulool Ja's mother... I can't help you there, I'm afraid."
+    },
+    {
+      "character": "Fresh-faced Tonawawta",
+      "text_en": "I only know a little about Zoraal Ja, and then only what my father told me."
+    },
+    {
+      "character": "Fresh-faced Tonawawta",
+      "text_en": "He said that before the dome cut us off from the outside world, a tural vidraal had appeared and was terrorizing the region."
+    },
+    {
+      "character": "Fresh-faced Tonawawta",
+      "text_en": "In response, Zoraal Ja assembled a party of warriors, and with them confronted and felled the beast. It was interesting to hear of the king's feat in the past."
+    },
+    {
+      "character": "Fresh-faced Tonawawta",
+      "text_en": "What a battle it must've been, between the king's men and the tural vidraal. And all without regulators, too..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Ah, you're back too! I told Shale all about your search."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Zoraal Ja rarely made public appearances, so the people had no idea how he spent most of his time. Yet I believe therein lies the key to the answers we seek."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Solution Nine is vast indeed. Even with the teleporters, we could cover but a small portion of it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sorry, but I couldn't find out anything useful. None of the people I questioned had heard of a Mamool Ja woman before..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Lamaty'i didn't seem to have much luck. How did you fare?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While I failed to learn anything directly related to Gulool Ja's mother, I did find information which may shed some light upon Zoraal Ja."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Gulool Ja has told me all. We've previously tried to track down records of his mother, but came up empty-handed."
+    },
+    {
+      "character": "Shale",
+      "text_en": "With everyone's help, hopefully we can get somewhere this time..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ah, so you spoke with quite a few different people as well. Let's combine all our findings and see what conclusions we might draw."
+    },
+    {
+      "character": "Shale",
+      "text_en": "So, Zoraal Ja brought a retinue of Landsguard to Yyasulani, among whom was a female Mamool Ja."
+    },
+    {
+      "character": "Shale",
+      "text_en": "His mission was to rid the region of a tural vidraal, and I believe it safe to say that that was the “crisis” in Yuweyawata he resolved."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If some of his troops stuck around for a time, perhaps to assist the villagers with recovery efforts, then they could've indeed gotten trapped in the dome."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We also heard stories about the settlement in Yuweyawata. People lived there until nearly a decade ago, and Zoraal Ja made regular visits."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If he required secrecy, a location home to his most loyal followers would be ideal. And if this Mamool Ja woman had remained there, they would have had occasion to come in contact."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I see. But what could Zoraal Ja have been doing in that village?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I think we can answer that question."
+    },
+    {
+      "character": "Krile",
+      "text_en": "In order to retrace Zoraal Ja's steps, Raha and I spoke with a researcher who worked at Origenics."
+    },
+    {
+      "character": "Krile",
+      "text_en": "He said that, approximately twenty years ago, a number of his colleagues were transferred to a research facility outside Everkeep─per the king's direct order."
+    },
+    {
+      "character": "Shale",
+      "text_en": "This is the first I've heard of such a facility. Only Vanguard was believed to have been under the king's jurisdiction..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It was apparently being used to develop a new kind of weapon, but I'm afraid that was all we could learn."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's plenty to go on. Even if the work there was classified, any materials and equipment needed would have been manufactured within Everkeep."
+    },
+    {
+      "character": "Shale",
+      "text_en": "So if we look into transportation records..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "There it is."
+    },
+    {
+      "character": "Shale",
+      "text_en": "The routes are full of detours and attempts at obfuscation, but large deliveries were being made to Yuweyawata. Far too large for a mere village."
+    },
+    {
+      "character": "Shale",
+      "text_en": "There hasn't been any activity for years, though. It's likely the facility has been decommissioned."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Do you think that's where my mother was?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We can't say for certain just yet, but I reckon there's a good chance!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "This is amazing! Even though no one remembers her, you managed to figure all of this out!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Each piece of the puzzle may reveal little on its own, but when we put several together, a picture begins to form."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And even should memories fade, footprints remain to mark the path of those who walked before."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A lesson I learned in another life."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So we'll be investigating this secret facility in Yuweyawata, then."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And this time, I want you to come along, Gulool Ja."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Yuweyawata is on the other side of the lake. To get there, you'll need to take a hover cargo from the driftdowns."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Alright. Thank you, Shale!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Make your way to the driftdowns when you're ready. Kiluwsa will have a hover cargo ready for you."
+    },
+    {
+      "character": "Kiluwsa",
+      "text_en": "I'll remain nearby after dropping you off. Just let me know when you're ready to head back."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've seen how much has changed for the part of Yyasulani that's on this side of the dome. I wonder what it's like on the other..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Someone would have noticed if Zoraal Ja traveled from the driftdowns. I expect he utilized a flying vehicle."
+    },
+    {
+      "character": "Krile",
+      "text_en": "While the researcher we spoke with remembered that he had colleagues, he couldn't recall details about any specific individuals. Not their names nor what they were like..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Weapons developed in secret with the aid of devoted followers... Nothing good will have come of this."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The settlement in the outskirts─that was originally Tonawawtan as well, yes? I wonder if Yuweyawata is similar to it."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "So the hover cargo will take us across the lake... I've never been over there before."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's still inside the dome, so I don't expect it'll be too different from here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll likely encounter dangerous beasts, so the rest of us will go first. You follow when it's safe to do so, alright?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Alright. Be careful, everyone!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I promised to look after Gulool Ja, but I've spent hardly any time with him. I'm going to make up for that."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While I alone haven't seen much of the dome, I am no stranger to braving the unknown. I will not slow us down."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We've seen the havoc that Valigarmanda wreaked on Urqopacha. I wonder what this other tural vidraal might have left in its wake."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If the facility was used to research new weaponry, then it will have had tight security. Even if it has been closed down, let us proceed with caution."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I can't help but be reminded of our foray into Origenics. And of Cahciua..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Don't worry about me. I'm good at hiding from beasts."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "My father must've come here for a reason..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There are beasts here, too!?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "You did it!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "This one looks mean. Be careful!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "So the facility is still here..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What kind of research did they do here?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Ah! What are those!?"
+    },
+    {
+      "character": "Rotten Hound A (text bubble)",
+      "text_en": "Graaagh!"
+    },
+    {
+      "character": "Rotten Hound B (text bubble)",
+      "text_en": "Grr...!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "They're...they're moving!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What happened here?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Aaah!"
+    },
+    {
+      "character": "Rotten Researcher A (text bubble)",
+      "text_en": "Groaaar!"
+    },
+    {
+      "character": "Rotten Researcher B (text bubble)",
+      "text_en": "Unnngh..."
+    },
+    {
+      "character": "Rotten Researcher C (text bubble)",
+      "text_en": "Ugh..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "More of them!"
+    },
+    {
+      "character": "Station Specter (text bubble)",
+      "text_en": "Ahhhg..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What was Father doing here?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I have a bad feeling about this..."
+    },
+    {
+      "character": "Overseer Kanilokka",
+      "text_en": "You... Surrender your souls...to King Zoraal Ja."
+    },
+    {
+      "character": "Overseer Kanilokka",
+      "text_en": "Come forth, my dear souls..."
+    },
+    {
+      "character": "Overseer Kanilokka",
+      "text_en": "I won't let...precious samples escape..."
+    },
+    {
+      "character": "Overseer Kanilokka",
+      "text_en": "Discard the flesh...extract the soul..."
+    },
+    {
+      "character": "Overseer Kanilokka",
+      "text_en": "Why not serve a greater purpose...? The King of Resolve's purpose..."
+    },
+    {
+      "character": "Overseer Kanilokka",
+      "text_en": "Relinquish your souls... For the glory of Alexandria!"
+    },
+    {
+      "character": "Overseer Kanilokka",
+      "text_en": "More...more souls... The work demands more souls!"
+    },
+    {
+      "character": "Overseer Kanilokka",
+      "text_en": "Would that we could tame the beast... But the seal is already..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Is that...a storm?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Something's wrong... Don't rush ahead!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What was that roar? Did it come from inside the storm!?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Has that thing been sealed away all this time!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Phew... We did it. Somehow."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's still breathing, if only faintly..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I felt the earth shake all the way from the cliff!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That was too close!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It mustn't have been easy to imprison such a creature..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A tyrant of Tural...truly a fitting description."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The lighting hasn't let up here either."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Even the creatures here are electrified..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To think we'd find a place like this so far from Everkeep."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Bolts can strike anywhere—step lightly!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Oh my!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The lightning rods are still operational..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Not exactly a leisurely trek..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Really? Again!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The wrath of the heavens is frightening indeed."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I guess we've stepped into its territory."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We've no choice but to press on!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm ready for you!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Quite the mouthful of fangs. Don't get too close!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's it doing!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Is it...consuming the aether?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What do we do?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It's pierced the pillar with its tusks!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's infusing the rocks with aether!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's trying something different!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What's it up to now?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Careful!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is it gathering power?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've seen that trick before!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Look! The ground!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've seen that trick before!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It's fond of that tactic."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Again!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We have to dodge!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We won't fall prey to the same attack!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "An easy win!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You are a credit to your title, Vow of Resolve."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let us proceed."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, it all worked out."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A remote facility with a secret purpose..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hardly any signs there was ever a village here..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "In we go!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Quite imposing, isn't it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "These are people, right...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How dreadful..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "They were experimenting on their own...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "There's something unsettling about the aether here."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What happened to them?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is this the man in charge?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We won't be passing through without a fight."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What now!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are these...souls?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This bodes ill..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So many..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "They're gathering..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I...I can't move!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Keep your wits about you."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What's he got up his sleeve this time?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ungh... My head is spinning..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Stay calm and keep your distance!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Enough of that!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Even worse than before..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There's that chill again..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "More of them?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Here they come..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The seal? The beast? What was he talking about?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It keeps going. So should we."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let us delve further."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let us pray these souls are now at peace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By the gods... What is that !?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I can hardly believe my eyes..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let's get a closer look!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We may soon face our fiercest foe yet."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "All the more reason to deal with it here and now!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah... I think I know what awaits us."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Is there any way to stop it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A tural vidraal...no doubt about it."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We must slay it before it breaks free!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Its strength of will is overwhelming..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Such strength!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Something moves beneath us!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Careful!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm getting tired of this..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How is it still standing!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Patience will lead us to victory!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Not a moment's peace..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They're like giant earthworms!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What disgusting creatures!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "They almost look alive."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Keep your distance!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I think we've made it angry."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Spread out!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It's up to something... On your guard!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This next attack will be fierce. Stay alert!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That doesn't look good!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It opened a hole in the ground!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Fall, and I won't be able to save you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't even see the bottom!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "How deep does this hole go?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Watch your step!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "For all the talk of my brother felling this beast, he only imprisoned it, like Valigarmanda."
+    },
+    {
+      "character": "Krile",
+      "text_en": "From what I could tell, they sought to transfer people's souls and memories into bestial vessels at that facility."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The tural vidraal explains the need for a remote location. It was doubtless their prime subject."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Though I expect Zoraal Ja did not foresee the opportunities it presented when he imprisoned the creature..."
+    },
+    {
+      "character": "Kanilokka",
+      "text_en": "...And so, in order to prevent the breakdown of the individual, I instead seek to transfer their soul into the body of the beast."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "This would allow one to wield the power of a tural vidraal?"
+    },
+    {
+      "character": "Kanilokka",
+      "text_en": "In theory. Our initial experiments will involve lesser creatures, but in time I am confident we will be able to bring even the mightiest under our control."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "And what becomes of those who offer their souls?"
+    },
+    {
+      "character": "Kanilokka",
+      "text_en": "As they won't be able to return to their original forms, we must consider them lost. But the sacrifice will be worthwhile, for the army you stand to gain will far surpass any composed of mechanical soldiers."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Very well. Recruit volunteers and begin at once."
+    },
+    {
+      "character": "Kanilokka",
+      "text_en": "Thank you, Your Majesty. I shall return to the observatory and see to the necessary preparations."
+    },
+    {
+      "character": "Mamool Ja Woman",
+      "text_en": "So you've given him permission."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Teeshal Ja. You will assist Kanilokka."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "As one of the Landsguard's finest chirurgeons, your knowledge may be of use in his experiments."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You will also watch him. Closely. And what you learn, you will report to me."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You object to his project? Or are you incapable of performing this duty?"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "No, Your Majesty..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "Whether we shelter within the dome or expand beyond it, we require great power."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "But with no one to rely upon, we must take that power for ourselves. Even if the means are questionable."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I will do as you command."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "But if Kanilokka's work bears fruit, I wish to beg a boon."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "What do you desire?"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "Something that I had accepted I would never have in Tuliyollal."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "That I believed would forever be beyond me─that it was foolish to covet..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "But here─here and now, it is close..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "So very, very close..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Perform your duty to my satisfaction, and anything you desire is yours."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "That which I seek does not lie within this dome. Here, I cannot prove the miracle."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "But if what you seek is at hand, then you may claim it. For it has no value to me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are you alright?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Teeshal Ja... Could she be my mother?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Like the people in the outskirts said, few Mamool Ja lived in Yyasulani. I can't imagine many other Hoobigo women were trapped in the dome."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That being the case, she could well be the one."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This observatory Kanilokka returned to─could it not be part of the research facility? We might learn something about Teeshal Ja there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's where we're going next, then."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Now that the danger is behind us, it's started sinking in just how unsettling this place is. Hard to believe it used to be a village."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That you should be able to peer into the tural vidraal's past... I wonder what that implies for the beast's consciousness while it was sealed away."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Teeshal Ja, you said her name was? I wonder what her story is..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The villagers were likely monitoring the imprisoned tural vidraal at Zoraal Ja's behest. And at some point, they became involved in the research of souls..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It seems this Kanilokka was in charge here. From your recounting, he was quite dedicated to Zoraal Ja."
+    },
+    {
+      "character": "Kiluwsa",
+      "text_en": "I'll launch the hover cargo whenever you're ready. Just say the word."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I wish I could see into the past like you. Then I could see people who are gone."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Because there aren't any other Mamool Ja women here, for a long time I couldn't even imagine what my mother looked like."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But when I visited Tuliyollal and saw some, I was finally able to picture her in my mind."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "And one day, I hope I can see what she actually looked like as well."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Is it alright if I go around by myself now?"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "id": "unto-the-summit",
+  "wiki_path": "/wiki/Unto_the_Summit",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Unto the Summit",
+  "level": "99",
+  "location": "The Backroom(X:5.9,Y:6.2)",
+  "npc_start": "Cahciua",
+  "dialogues": [
+    {
+      "character": "Cahciua",
+      "text_en": "Had enough rest, have you? Then let's round up everyone!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "During your confrontation with him, Zoraal Ja bade Wuk Lamat come to the tower's summit."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Problem is, the elevators have been locked down due to the state of emergency."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We've been working to lift the access restrictions, but frankly it's not looking promising."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are there any other ways we can get to Zoraal Ja?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "We believe so."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As you know, Solution Nine occupies Everkeep's ninth level."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The summit, meanwhile, is the twelfth."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The map appears to be cut off."
+    },
+    {
+      "character": "Shale",
+      "text_en": "While the king and queen's residence is believed to be located there, the details are highly classified. Hence the lack of map data."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "We do, however, have reliable intelligence concerning everything up to the eleventh level."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What is this place?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "That is Origenics, the facility where souls are separated and refined for use."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The process begins at the base with the extraction of souls from regulators and fiends."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Those souls are then transported up to the aetheric separator, where they are cleansed of memories."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Finally, they are packed within soul cells for distribution."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Twelve forfend... They've recreated the process by which souls are broken down in the aetherial sea..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "An affront to nature, I know, but ethical discussions must wait."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The salient point is that the facility extends vertically from the first to the eleventh level."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Now, if Zoraal Ja intends to strengthen himself with the people's souls, as we strongly suspect..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then the facility will be operating to process and transport those souls directly to him—on the twelfth level!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So in order to reach Zoraal Ja, we make our way through Origenics!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Precisely."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As the facility sustains the Alexandrian way of life, security will be extremely tight."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "But if you are willing to brave the route, we'll back you up as best we can. What say you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It goes without saying that we're going!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "<chuckle> I never had any doubt."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I'm coming too. You'll need guidance on-site, and this body makes me best suited."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Hold it. Before you set off, I have to ask."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "All this time, you've known that Sphene is an Endless, haven't you?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Yes, we have."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Why didn't you tell us?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Honestly...it didn't seem relevant to the matters at hand? More complicated to explain than it was worth, and a distraction from our efforts to deal with Zoraal Ja."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Speaking of which, we should get moving. Those who are sallying forth, we gather in front of the tower!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "We can count on you to provide support from here, yes?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Of course."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We'll provide all the support we can. Please be careful out there."
+    },
+    {
+      "character": "Genolt",
+      "text_en": "I'm glade me weapons were of use in the battle. But at the same time, I wish we didn't have need fer 'em..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I need to talk to you about... Never mind. It can wait."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Lest you wonder, I have no objections to remaining here. Someone needs to keep those in Tuliyollal informed."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Best of luck to you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Let's keep our minds on the mission for now. Other matters can wait."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja is no king. Not anymore. For the sake of Tuliyollal—of the world—we must put an end to his madness."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I've spoken with Alphinaud. Apparently, the dragons came to Tuliyollal's aid!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm coming too, of course. This is what I've worked so hard to be a part of."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The summit of Everkeep... Finally, we shall see what the clouds conceal."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "All present and accounted for? Excellent."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "We make for the summit in one push. This will be a grueling climb, so see to it you spare no preparation."
+    }
+  ]
+}

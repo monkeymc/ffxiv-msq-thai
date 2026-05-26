@@ -1,0 +1,304 @@
+{
+  "id": "a-premium-deal",
+  "wiki_path": "/wiki/A_Premium_Deal",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Premium Deal",
+  "level": "90",
+  "location": "Urqopacha(X:13.4,Y:12.1)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Mablu",
+      "text_en": "I've never been one to take it slow. Once I have a goal in mind, it's full speed ahead! That's who I am!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Before we go, let me give you the mate leaves. I don't need to risk proving Erenville's point..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Ready, then? Our next stop is the mezcal distillery!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oof, the smell of mezcal is overpowering. The fumes alone are making me dizzy..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "We'll want to speak with a man by the name of Gobli. Even among his fellow distillers, he's regarded as a master of the craft."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "He knows the value of his product, so if we're to convince him to trade for twice what the leaves are worth, we're going to need targeted information. That means asking around and taking in the gossip!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "If you could talk to people here in the distillery, Forename , perhaps Wuk Lamat could do the same at the village entrance."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Meanwhile, I'll head to the north side and see what I can learn!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Glean any useful information?"
+    },
+    {
+      "character": "Bebeel Ja",
+      "text_en": "Me? I'm a chef from Tuliyollal. I often come here to buy Gobli's mezcal─the finest in Tural, according to my customers."
+    },
+    {
+      "character": "Bebeel Ja",
+      "text_en": "He always brings out a jug during our dealings, but I can't handle the stuff too well myself..."
+    },
+    {
+      "character": "Bebeel Ja",
+      "text_en": "I take small sips─not wanting to be impolite, you understand─but still end up so addled as to agree to whatever price he quotes me."
+    },
+    {
+      "character": "Bebeel Ja",
+      "text_en": "It would be nice to have less, uh, potent refreshments during such conversations. Else I might have to seriously reconsider our arrangement..."
+    },
+    {
+      "character": "Tsuvli",
+      "text_en": "Gobli might be a deft hand at distilling, but he's got no sense when it comes to appearances."
+    },
+    {
+      "character": "Tsuvli",
+      "text_en": "Rumor has it he's been invited to the palace for business negotiations. If he presents himself to the court wearing his usual rumpled attire, though, he'll be laughed out of Sunperch."
+    },
+    {
+      "character": "Raplu",
+      "text_en": "There's not much I can say about Gobli, but I can tell you what Gobli's been saying..."
+    },
+    {
+      "character": "Raplu",
+      "text_en": "The other day, he was muttering about monsters prowling around Agave Jaws─that's the field where they gather ingredients for the mezcal."
+    },
+    {
+      "character": "Raplu",
+      "text_en": "Their presence has made it harder to procure said ingredients, and thus driven up the price of his product─a boon, some might argue, but it's hard to celebrate when it affects the work as it does. Can't rightly bring joy to people if you can't keep making the thing they love."
+    },
+    {
+      "character": "Bebeel Ja",
+      "text_en": "His spirits are excellent, I agree, but they're simply too strong for me..."
+    },
+    {
+      "character": "Tsuvli",
+      "text_en": "Most Pelupelu have at least one set of especially fine garments. The success of a deal can hinge on how you present yourself, so it pays to dress to impress."
+    },
+    {
+      "character": "Raplu",
+      "text_en": "Hiring mercenaries to come and cull the threats would eat into profits. I bet Gobli would be glad to find a less expensive solution..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "So, what did you find out?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Oh, we can make use of all of those tidbits! The deal is as good as sealed!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "As for me, I found out where Gobli is working─there's a millstone at the top of the slope behind the distillery. You go on ahead and I'll bring Wuk Lamat!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "You have business with me, sir / madam ? Why don't we talk down below so as not to distract the alpaca from his work."
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Now, what's this about? Keep it brief, if you would. I'm a busy man."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're in the market for a three-year-old jug of premium mezcal. Assuming you have any on hand, that is."
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Ah, an excellent choice. I must warn you, though: it doesn't come cheap."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We don't have pel...but we can offer a sack of mate leaves in exchange! It's top-grade stuff, like the mezcal!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "No deal. Mate leaves are well and good, but I don't have any use for them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "“No deal”!? Just like that!?"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Still, I'd hate to send you away empty-handed. Why don't we sit and chat awhile over a cup of mezcal?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Now the real bargaining begins. Which of our cards do you want to play first?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Let's hold on to that one. We need to consider our timing!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Let's hold on to that one. We need to consider our timing!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I appreciate your hospitality, but I'm afraid I can't hold my drink. I've heard one of your regular customers─a Hoobigo chef─is the same."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Seeing as not everyone can enjoy mezcal, I wonder if you might benefit from having other refreshments to offer..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Something like mate tea, for instance. And brewed from the finest leaves, of course!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Ah, you're right─absolutely right! I had noticed a growing reluctance on the part of my Hoobigo friend, but did not realize I myself was to blame. I must endeavor to be a better host. Still, even with that added value in mind, no sack of leaves is worth the mezcal you're after."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "(Should we offer to cull the monsters causing them trouble?)"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "(Not yet! We'll keep that card up our sleeve until we need it.)"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "As I expect you're aware, the rite of succession is currently taking place. That's why the Third Promise has graced us with her presence."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "When the contest is decided, the subsequent ascension ceremony and banquet will be a prestigious affair. If your mezcal were to be served there, it would bring your distillery immeasurable fame!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Wait... Could it be that your rumored invitation to the palace is to discuss that very possibility?"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "As a matter of fact, yes... I must admit, I'm still reeling from the abruptness of it all. It would be a great honor and opportunity...if I can secure the deal."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Well, I should think your exceptional mezcal would speak for itself! That said, there's no such thing as being too prepared, and first impressions last. You'll want to be wearing your very best when you walk into Vollok Shoonsa."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "It would be such a shame to miss this chance of a lifetime simply for want of proper garments..."
+    },
+    {
+      "character": "Gobli",
+      "text_en": "That it would... Are you saying you have garments to offer? Something ideal for court?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "We have no garments on hand, I'm afraid, but we can provide you with the next best thing: an introduction to a weaver. His name is Bol Noq', and his works are highly regarded in Tuliyollal!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "As a supporter of Wuk Lamat and keen observer of palace politics, he will doubtless be happy to guide you in the selection of an outfit to fit this golden occasion."
+    },
+    {
+      "character": "Gobli",
+      "text_en": "That is certainly a tempting proposal, and one of which I should like to take full advantage. But the scales still aren't quite balancing."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Say, weren't there monsters running amok in Agave Jaws? That's a problem we could easily solve for you!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Truly? I would be most grateful for your immediate assistance. I was resigned to hiring sellswords to clear them out."
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Factoring in that saved expense and an introduction to a trusted weaver, this is shaping up to be a sound bargain. Alright! You have a deal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, I knew you'd come around! Give us a moment, and Forename and I will take care of those prowling nuisances!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "In the meantime, I'll use the time to pen an introductory letter to Bol Noq'."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "The fields you're looking for are just north of Wachunpelo. Be safe!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Please be careful out there!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "That young woman is one formidable trader."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That should be Agave Jaws, just over there. This'll go faster if we split up. Come and find me once you've finished clearing out your share of the pests!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Easy as picking mate leaves!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Compared to the creatures I hunted with Papa, this was no challenge at all."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, let's head back to the distillery. All that's left is to give Mablu the sack of leaves so she can seal the deal!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Go on, give Mablu the sack of leaves so she can seal the deal!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Finished already? Even hardened mercenaries would have taken longer!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Those monsters were no trouble for you, it seems! Now, if I could just have the sack of leaves..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Thank you for looking after our precious trading goods!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Your monster problem has been resolved, Master Gobli! Here are the mate leaves and a written introduction to Bol Noq', as agreed."
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Then the deal is done. Here. Your jug of premium mezcal, aged three years. Please accept it with my compliments."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes! We finally have the mezcal! Great work─especially you, Mablu!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "You were the one that inspired me to come this far, Third Promise. But let's not celebrate until we have the saddle in hand!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Mablu, is it? You drive a hard bargain, young peddler. I look forward to doing business with you in the future."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Thank you, but...truth be told, I'm just a ranch hand. For now. Should I ever become a proper merchant, though, I'll be back to strike more deals with you!"
+    }
+  ]
+}

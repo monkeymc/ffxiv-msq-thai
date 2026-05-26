@@ -1,0 +1,304 @@
+{
+  "id": "the-promise-of-peace",
+  "wiki_path": "/wiki/The_Promise_of_Peace",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Promise of Peace",
+  "level": "93",
+  "location": "Urqopacha(X:28.7,Y:33.5)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right! Time to track down the next elector!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A heavenly land, suffused with a golden glow..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "With only two keystones remaining, we've at last begun to gain a fuller picture of the legend of the golden city."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What a turn of events─we were only meant to strengthen the ice, but Bakool Ja Ja's idiocy forced us to do them one better."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Long has it been since any from Chirwagur Saltern have deigned to enter Worlar's Echo. A day for unusual visitors, indeed."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Watching Vorporlor get caught up in Wuk Lamat's unstoppable wake reminds me of my younger days..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I think it's time we returned to Tuliyollal. After scaling Tural's tallest mountain and battling a legendary beast to the death, even dauntless heroes like you could probably use a rest."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "In any case, there are preparations to be made before we can visit the next destination laid out in the saga."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The respite would be most welcome. I believe I hear the For'ard Cabins calling our names."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll take the opportunity to think on some things."
+    },
+    {
+      "character": "Krile",
+      "text_en": "No sooner did we set foot back in Tuliyollal than I felt the weight of recent events set in all at once. I am definitely due for a long nap."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "<yawn> I won't say no to clean sheets and a soft pillow."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There are still two feats left to go. We want to face them refreshed and ready for action."
+    },
+    {
+      "character": "Peshekwa",
+      "text_en": "Welcome back to Tuliyollal. Your cabins are waiting for you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Rest well, everyone. We can meet back here later on."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I have a small errand to run in the city, so I'll leave you to recover."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Will you be heading to the palace, Wuk Lamat?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Wuk Lamat, did you hear me?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Lost in her own little world, it seems. Well, no matter─I'll be back soon enough."
+    },
+    {
+      "character": "Peshekwa",
+      "text_en": "An attendant is standing by to unlock your cabin. Enjoy your stay!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The best way I know..."
+    },
+    {
+      "character": "Peshekwa",
+      "text_en": "The rite of succession must be an absolutely exhausting endeavor. The comforts of our cabins are at your disposal whenever you wish to retire, madam / sir ."
+    },
+    {
+      "character": "Cabin Attendant",
+      "text_en": "Welcome back, Mistress / Master Surname . Your cabin is just as you left it─minus a light layer of dust!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You have a moment?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's something I wanted to talk to you about..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So...I, uh..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yaargh!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's just too...stuffy in here, that's what."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We should go outside! Aye, a nice walk in the fresh air─that's what we need!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry to drag you away from your nice, comfortable cabin, but I could feel the walls closing in."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, I know! I'll take you to one of my favorite places in Tuliyollal─that should help me get my thoughts in order."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll go to the Resplendent Quarter and make our way up from there!"
+    },
+    {
+      "character": "Peshiwa",
+      "text_en": "Oh, hello, dear. You're one of Wuk Lamat's new friends...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Peshiwa, what are you doing up and about? Is your back feeling better?"
+    },
+    {
+      "character": "Peshiwa",
+      "text_en": "It's much healed now, so don't make a fuss. Besides, I can't be lounging in bed all day when you're out there fighting your hardest to win the throne."
+    },
+    {
+      "character": "Peshiwa",
+      "text_en": "You're the claimant with the greatest love for peace."
+    },
+    {
+      "character": "Peshiwa",
+      "text_en": "I love this nation of ours, and lending you my support is the least I can do."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When I see you smile like that, how can I not be encouraged?"
+    },
+    {
+      "character": "Peshiwa",
+      "text_en": "Oh ho ho, there's plenty more who believe in your cause. I can recruit a whole battalion of smiling faces if you think it'll help!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yours alone is more than enough. Thank you, Peshiwa!"
+    },
+    {
+      "character": "Peshiwa",
+      "text_en": "And thank you, Third Promise. I shall pray for your success in the contest."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All those smiling faces..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Ah, sorry, Forename ! I'm getting distracted."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's just that with the progress we've made in the contest, even these everyday encounters feel that much more special."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Do you think we can take our time, and maybe wander around a little first? Then we can head to that spot I was thinking of."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is much better."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I used to come here all the time when I was little. I would look out over the whole city, and whatever worries I had would seem so small."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Do you remember what I said at the top of Worqor Zormor...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That I would fight to preserve Papa's peaceful Tural?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, I've been thinking a lot since then."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "About what “peace” really means. If it's just...the absence of war."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And it brought to mind all the best parts of our journey so far."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I realized: nothing gives me greater joy than the happiness of others."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Life has its ups and downs, but the company of family and friends, and the music of their laughter is what makes it worth living."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And as silly as it might sound, I've come to believe that those smiling faces are the best measure of peace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, really? I feel proud somehow."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's an answer I arrived at by trying to be true to myself. That you think I succeeded... It means a lot."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With eternal life and no struggle or conflict? It's certainly an ideal worth striving for."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Who knows if we could make such a world a reality─but renouncing war and conquest seems like a good place to start."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I understand that making everyone happy isn't practical or even possible."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But that doesn't mean we shouldn't try!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, this is my plan..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When I become Dawnservant, I'll build on Papa's peace! Our people will live together in harmony!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's just like Krile said."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By taking the time to hear their concerns, understand their feelings, and consider how best to serve... With each passing day, I'll be that much closer to becoming the leader I want to be."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's hard for me to say how much I've changed since the contest began, but there's one thing I can say with confidence."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I wouldn't have come this far without you as allies!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If it wasn't for you all listening and feeling and thinking along with me, I would have never learned so much, and in so short a time."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There are two keystones left. After everything that's happened─and imagining what could happen─are you still willing to walk this path with me?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, thank the gods for that."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, I've nothing else to get off my chest! I need to head to the palace, but I'll see you back at the cabins."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You look to be in good spirits. I assume your leisure time was well spent."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I was glad to snatch some quality sleep, myself. After all, it will soon be back to the road for us!"
+    }
+  ]
+}

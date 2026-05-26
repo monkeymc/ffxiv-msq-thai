@@ -1,0 +1,380 @@
+{
+  "id": "a-brother-s-duty",
+  "wiki_path": "/wiki/A_Brother%27s_Duty",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Brother's Duty",
+  "level": "92",
+  "location": "Kozama'uka(X:32.3,Y:24.5)",
+  "npc_start": "Koana",
+  "dialogues": [
+    {
+      "character": "Koana",
+      "text_en": "Let us execute the final stage of the plan."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I will set out towards Earthenshire alone and unarmed, the better to sell the act of a defenseless merchant. Assuming Wawkesa is watching, he will likely wait for some quiet stretch of the road before accosting me."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I'll be relying on you to follow closely behind, remaining hidden until the time comes to spring the trap on our bandit king. Just remember: we need him alive."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Wawkesa will tell us what he's done with Lamaty'i."
+    },
+    {
+      "character": "Wawkesa",
+      "text_en": "I hear business has been good to you, master merchant. How about you share some of the profits?"
+    },
+    {
+      "character": "Wawkesa",
+      "text_en": "And by “some,” I mean every coin you have!"
+    },
+    {
+      "character": "Wawkesa",
+      "text_en": "Y-You're that gemstone collector... Oh, I see what this is. We've been tricked!"
+    },
+    {
+      "character": "Wawkesa",
+      "text_en": "Spit in your eye! Men─kill these vidraal!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Slippery vermin. We'll have to interrogate his underlings instead."
+    },
+    {
+      "character": "Koana",
+      "text_en": "If you would be so kind, Forename . Pray leave them capable of speech."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I would assist you, but alas, I am unarmed."
+    },
+    {
+      "character": "Bandit Swordsman (text bubble)",
+      "text_en": "She / He 's too strong..."
+    },
+    {
+      "character": "Bandit Marauder (text bubble)",
+      "text_en": "Gah!"
+    },
+    {
+      "character": "Bandit Archer (text bubble)",
+      "text_en": "Ugh..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I was hoping to talk with your boss, but I suppose you three will have to do."
+    },
+    {
+      "character": "Shetona Bandit",
+      "text_en": "Wait... That's the Second Promise! What do you want with us!?"
+    },
+    {
+      "character": "Hhetsarro Bandit",
+      "text_en": "Think I'm scared of a fancy title? I'll take your royal ears as a trophy...as soon as I get free of these ropes!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I know your gang is behind my sister's abduction. Tell me where she is."
+    },
+    {
+      "character": "Shetona Bandit",
+      "text_en": "Eat 'paca shit, saltlover! You'll get not answers from us!"
+    },
+    {
+      "character": "Hhetsarro Bandit",
+      "text_en": "That's right! We don't serve you!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Do not play games with me. Where is Wuk Lamat!?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I am fast losing patience. Talk now or die. The choice is yours."
+    },
+    {
+      "character": "Hhetsarro Bandit",
+      "text_en": "<gulp> W-We were hired to nab the Third Promise, that's all. We don't know where they took her..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Hired? By whom?"
+    },
+    {
+      "character": "Hhetsarro Bandit",
+      "text_en": "We weren't told that either. Only Wawkesa knows─he's the one who took the job."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Well, it seems we needed their leader, after all."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Once I've arranged for the Landsguard to take custody of these criminals, I'll call on Thancred and his tracking skills. But perhaps you could pursue Wawkesa in the meantime?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The bandit was running in an easterly direction. Should you locate him, I suggest you shadow him rather than force a confrontation─he might lead us to where Lamaty'i is being held."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Go after Wawkesa. I'll watch these miscreants until they can be taken into Landsguard custody."
+    },
+    {
+      "character": "Wawkesa (text bubble)",
+      "text_en": "I can't believe I didn't see it..."
+    },
+    {
+      "character": "Wawkesa (text bubble)",
+      "text_en": "I knew that man / woman looked familiar."
+    },
+    {
+      "character": "Wawkesa (text bubble)",
+      "text_en": "This job's more trouble than it's worth."
+    },
+    {
+      "character": "Wawkesa (text bubble)",
+      "text_en": "What was that?"
+    },
+    {
+      "character": "Wawkesa (text bubble)",
+      "text_en": "This was meant to be easy..."
+    },
+    {
+      "character": "Wawkesa (text bubble)",
+      "text_en": "Huh!?"
+    },
+    {
+      "character": "Wawkesa (text bubble)",
+      "text_en": "Damn nerves..."
+    },
+    {
+      "character": "Wawkesa (text bubble)",
+      "text_en": "Should be safe enough now."
+    },
+    {
+      "character": "Wawkesa (text bubble)",
+      "text_en": "He said to meet him in front of the hideout..."
+    },
+    {
+      "character": "Wawkesa (text bubble)",
+      "text_en": "Where's that damn Hoobigo?"
+    },
+    {
+      "character": "Wawkesa",
+      "text_en": "Finally! My money─give it to me now. The Landsguard may be hunting us already!"
+    },
+    {
+      "character": "Shady Hoobigo",
+      "text_en": "Calm yourself. We had our own troubles finding a suitable hideaway."
+    },
+    {
+      "character": "Wawkesa",
+      "text_en": "R-Right..."
+    },
+    {
+      "character": "Wawkesa",
+      "text_en": "We're finished. Take your prize and leave me out of the rest!"
+    },
+    {
+      "character": "Shady Hoobigo",
+      "text_en": "Such hostility. You were hurting for coin, and I offered you gainful employment out of the kindness of my heart."
+    },
+    {
+      "character": "Wawkesa",
+      "text_en": "Kindness!? You brought a blackened tempest upon us!"
+    },
+    {
+      "character": "Wawkesa",
+      "text_en": "One look, and I could tell that woman / man was a killer. A butcher. A salted devil in the flesh."
+    },
+    {
+      "character": "Shady Hoobigo",
+      "text_en": "Oh, spare me your fearful bleating. Go on! Scamper away now before the scary mercenary comes to claim your head."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Koana told me the news. You've found the abductor, then? What's the situation?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And you think the bandits were hired by this Hoobigo?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Alright, new strategy. Forget Wawkesa and stay on the Mamool Ja's tail. We don't want to endanger the Third Promise, so keep your distance until we're certain they have her."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I'll catch up to you as soon as I'm able."
+    },
+    {
+      "character": "Shady Hoobigo (text bubble)",
+      "text_en": "Hrm?"
+    },
+    {
+      "character": "Shady Hoobigo (text bubble)",
+      "text_en": "I'm hearing things..."
+    },
+    {
+      "character": "Shady Hoobigo (text bubble)",
+      "text_en": "One last precaution...just in case."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Better late than never."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That Mamool Ja─he's the one who kidnapped Wuk Lamat?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So we're still unsure. If we can follow him a bit longer─confirm his connection to the abductors..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That will complicate matters."
+    },
+    {
+      "character": "Koana",
+      "text_en": "[LABORED BREATHING AFTER RUNNING EXERT]"
+    },
+    {
+      "character": "Koana",
+      "text_en": "...Confound it!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "If I set out now, I can trail them along the riverbank."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Do it!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Even if it costs you the contest?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "What worth is the throne if I lose my sister to win it!?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Very well, then. I'll send word when I locate her."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Till then, I suggest you save your strength. A rescue attempt could turn ugly."
+    },
+    {
+      "character": "Koana",
+      "text_en": "That Hoobigo just now... I swear I've seen him with Bakool Ja Ja."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Knowing the way that monster works, he probably hired bandits to kidnap her so he could steal her keystones."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But even alone, my sister is more than a match for a gang of untrained ruffians. She must have been ambushed or deceived."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I should have been there! If those bastards have hurt her..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "How can I be calm when─!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I do trust him, but─!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "And what exactly is that supposed to─!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "...Forgive me. Snapping at you won't get my sister back."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I'm afraid I've always been like this when it comes to Lamaty'i. The thought of her being in danger sends me into a panic..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But isn't that how families should be?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "These days, Turali Miqo'te live however they please, but the clan into which I was born kept to the nomadic traditions of our ancestors."
+    },
+    {
+      "character": "Koana",
+      "text_en": "They herded their rroneek across the plains, always moving with the seasons..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "During one such migration, my birth parents left me behind. A child, all alone. Without a single word of explanation!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A chance encounter with a kind Pelu merchant was the only reason I survived. Taking pity on me, he taught me his trade that I might fend for myself."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I became a stallkeeper in Tuliyollal's markets, and that is where the Dawnservant found and adopted me."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I had already been in the palace some time when Lamaty'i came to join us."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Like me, she had been cast aside by her parents. I knew the pain of solitude, and wanted to spare her that suffering."
+    },
+    {
+      "character": "Koana",
+      "text_en": "As this tiny child's new brother, I swore: I would always be there for her."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...So, as you might now understand, I will stop at nothing to rescue her."
+    },
+    {
+      "character": "Koana",
+      "text_en": "While we await word from Thancred, I suggest we prepare ourselves to travel downriver. You have a boat, yes...?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Why release the punutiy if not to delay pursuit? If we were unsure of their guilt before, then this surely proves it."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Before we act, however, let us regroup with your comrades. Would you mind making the call?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Understood. We'll meet you at Many Fires."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I may have put rescuing Lamaty'i ahead of my own progress, but do not take that to mean I've given up on the contest."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You understand how important she is to me. Yet regardless of how close we were, I would have made this same choice."
+    },
+    {
+      "character": "Koana",
+      "text_en": "After all, if I am incapable of saving my sister while also winning the throne, then I am not fit to inherit our father's heavy mantle."
+    }
+  ]
+}

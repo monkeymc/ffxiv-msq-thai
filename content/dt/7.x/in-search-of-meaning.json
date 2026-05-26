@@ -1,0 +1,420 @@
+{
+  "id": "in-search-of-meaning",
+  "wiki_path": "/wiki/In_Search_of_Meaning",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.2",
+  "title_en": "In Search of Meaning",
+  "level": "100",
+  "location": "Solution Nine(X:5.5,Y:13.9)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Gulool Ja",
+      "text_en": "They were worried about not having neo regulators, but Lamaty'i cheered them up."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you have any troubles or anything else you want to talk about, I'm always here to lend an ear."
+    },
+    {
+      "character": "Delia",
+      "text_en": "Come again any time."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Forgive me. I didn't mean to darken the mood."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Still, I feel better for having shared my feelings with you. Thank you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sorry I'm not being much of a guide. I don't usually get approached this often."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's quite all right. The people have been through so much. It's only natural for them to seek comfort and assurance from someone they trust."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Besides, I was able to relax with a delicious cup of coffee and have a lovely chat with Forename ."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I appreciate your understanding."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, where to next... We could take a look inside the Nexus Arcade, but it can probably wait for when we actually need something."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "In that case, let's head back to the recreation zone. There's plenty to see on True Vue."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He was this way when we arrived..."
+    },
+    {
+      "character": "Stricken Citizen",
+      "text_en": "Ungh..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, are you alright?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "He looks pale... We need to find a place for him to rest."
+    },
+    {
+      "character": "Stricken Citizen",
+      "text_en": "<pant> Thank you..."
+    },
+    {
+      "character": "Stricken Citizen",
+      "text_en": "I was on my way to attend to some business...when the memory of being killed here came flooding back... The danger has passed, I know, but the terror lingers..."
+    },
+    {
+      "character": "Stricken Citizen",
+      "text_en": "<sigh> For all the comfort I've offered others in my work, I can't seem to comfort myself..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The regulators and souls they used to spare themselves the horror of death ended up subjecting them to it over and over again. If only we'd come to their aid sooner..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But we're here now. We can offer this man the comfort he can't give himself."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I see... When the soldiers attacked, he..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He may be physically none the worse for wear, but unseen wounds also require time to heal..."
+    },
+    {
+      "character": "Stricken Citizen",
+      "text_en": "Try as I might, I can't shake this fear... My courage has completely deserted me..."
+    },
+    {
+      "character": "Stricken Citizen",
+      "text_en": "Thank you, I feel better already... Your encouragement was exactly what I needed..."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Ah, but where are my manners? My name is Malachite, and I am an usher."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "An usher? They're the ones who came to those without long to live, right?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But given everything that's happened, I expect your duties have changed."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "That's correct. We no longer attend to the dying. It is only after they have passed away in their families' care that we convey their remains to a government storage facility."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A storage facility? What for?"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Henceforth we must inter the deceased─but as the specifics are undecided, the bodies must be kept in cold storage for the time being."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I didn't know... I'd heard there were graveyards over by the submerged city, but like funerals, burial customs must be long forgotten."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Did you have usher duties? If so, we could help."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "I'm not actually here in an official capacity, so I am loath to trouble you further. But since you asked, I shall explain why I've come."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "I've taken to delivering the personal effects of the departed to their families. Even though their memories have been entrusted to the cloud, I still remember where they once lived."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "The rule was to dispose of any belongings─to do anything else was strictly forbidden. But it saddened me to see them discarded like waste, so I began secreting away what I could."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Of course, I understand that not everyone shares my sentiments, and I leave it to the families to decide what to do with these items. Some accept my deliveries, others reject them."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Whether I'm doing the right thing, I cannot say, but I feel the families should be given the choice."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Oh... They didn't have it before, then..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It's important to think about what people leave to us. I want to help."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Do you want to help too, Forename ?"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "I'm truly grateful. Now, there are four items to be delivered here in the recreation zone. I leave them in your care."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "In the meantime, I will head to the residential sector to make deliveries there. After you've finished, please meet me back here─I would like to know the families' reaction."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You know, there've been people in Tuliyollal who had similar episodes due to the trauma of the siege..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Would you mind if I went with Malachite, just to keep an eye on him? Only if you can handle those deliveries without me, of course."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It's fine, it's fine! I'm sure he'll be happy for the company."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Come, let's deliver these keepsakes to the families!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Come, let's deliver these keepsakes to the families!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So, there are four items in total to deliver?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Right. Three for people on True Vue, and one for someone over by the Neon Stein. Let's visit them in that order."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Might I trouble you to do the talking, Forename ? I fear my voice may betray my identity..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Lead the way. We'll be right behind you."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Even though they're gone, the mementos of our loved ones give us the means to reconnect with them in spirit. I'm sure the people who receive these items will treasure them greatly."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I heard before about ushers clearing out the homes of the departed. No wonder he started thinking about their belongings."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Has something come up? Alright, we'll wait for you back where we started."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If you have urgent matters, then please see to them. I'll take in the view in the meantime."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There you are! Come on, let's deliver the keepsakes."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Taken care of business, have you? Then let us be about our business."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The way the buildings are all in a row reminds me of the old castle town. Lively as it is here, I can see why Oblivion can blend in."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The people around True Vue seemed scary at first, but most of them are really kind."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "When I see someone passed out on the street now, I worry if they'll be alright..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So you can purchase beverages from these machines? That's wonderful. I've always believed that technology should be developed for the benefit of the people."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Genolt's favorite energy tonic is a special formula, not like the ones they sell here. I wanted to try one, but Shale wouldn't let me."
+    },
+    {
+      "character": "Energetic Citizen",
+      "text_en": "Hm? Is there something you need?"
+    },
+    {
+      "character": "Energetic Citizen",
+      "text_en": "Ah, so Malachite sent you! He was very considerate. When he offered to bring me the keepsake, he stressed that I didn't have to accept it if I felt uncomfortable."
+    },
+    {
+      "character": "Energetic Citizen",
+      "text_en": "I see why some would say no, but I couldn't do that. Not when it's something that belonged to my parents...who I understand now I will never see again."
+    },
+    {
+      "character": "Energetic Citizen",
+      "text_en": "Having spare souls won't save us from the inevitable. That's always been the case. But now, I find myself wondering about this and that. Like how much longer can I afford to muck around with my brothers..."
+    },
+    {
+      "character": "Energetic Citizen",
+      "text_en": "...But I won't bore you with my ramblings. Thanks for bringing me the keepsake, and give my regards to Malachite!"
+    },
+    {
+      "character": "Brooding Citizen",
+      "text_en": "What is it? If you're trying to sell me something, I'm not interested."
+    },
+    {
+      "character": "Brooding Citizen",
+      "text_en": "Ohhh, you brought the keepsake. Thank you. I've been looking forward to this, hoping that it might help me remember...but no such luck, it seems."
+    },
+    {
+      "character": "Brooding Citizen",
+      "text_en": "The owner is dead, and they'll never become one of these “Endless” Queen Sphene tells us about. It's a sad thought..."
+    },
+    {
+      "character": "Brooding Citizen",
+      "text_en": "Even so, I'm not sure I want to become Endless myself. If they're made by putting your memories into a new body made of aether, doesn't that mean you yourself still have to die first?"
+    },
+    {
+      "character": "Brooding Citizen",
+      "text_en": "The thought of not having to worry about souls was appealing, so I was happy to receive a neo regulator, but I've only had doubts since then..."
+    },
+    {
+      "character": "Brooding Citizen",
+      "text_en": "If Queen Sphene herself recommends it, I want to believe that all will be well, but still... <sigh> Sorry, I need to clear my head."
+    },
+    {
+      "character": "Disconcerted Citizen",
+      "text_en": "Oh, hello. Do I know you?"
+    },
+    {
+      "character": "Disconcerted Citizen",
+      "text_en": "Ah, so this is the keepsake... Truth be told, I've been wavering as to whether or not I should accept it. I mean, it belonged to someone that died..."
+    },
+    {
+      "character": "Disconcerted Citizen",
+      "text_en": "It's got me thinking about what we did to Tuliyollal. I didn't even know we'd killed so many of their people, not until the funeral... What if they decide to retaliate?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Lamaty'i─Wuk Lamat would never do that. She and everyone in Tuliyollal know that my father was to blame for the attack, not the Alexandrian people."
+    },
+    {
+      "character": "Disconcerted Citizen",
+      "text_en": "Oh dear, I'm sorry... I didn't mean to make you speak ill of your father."
+    },
+    {
+      "character": "Disconcerted Citizen",
+      "text_en": "It's just...I can't stop worrying about death, and hearing that they're running out of neo regulators makes it worse. I don't know what to do anymore..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "That's everyone on True Vue. Let's go to the Neon Stein."
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "Hm? Are you talking to me?"
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "Oh, right, this. I can't say it stirs any memories...but it does feel familiar somehow."
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "You know, you look familiar yourself. Where do I know you from...?"
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "Ah, of course! You're the unenhanced challenger─no, champion !"
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "I can't stress how incredible it is, what you've achieved without using feral souls. It's a genuine honor to meet you─though not for the first time, I realize..."
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "Ahhh, I remember now."
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "It was at the infusion station in the government sector...and it wasn't my finest moment, as you might recall."
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "That's right... I'm sorry you had to see me like that."
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "I-I apologized, didn't I? I was so desperate then, I wasn't thinking straight..."
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "Ah, well... Never mind. It's fine if you don't remember me being desperate and rude."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Anyway, seeing as we're meeting properly now, the name's Lithander."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "I used to fight in the Arcadion, but not anymore. I took Queen Sphene's words to heart and found a new job, one where I can put my knowledge of physical conditioning to use."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "As you know, lots of people were badly hurt when the mechanical soldiers malfunctioned, and I've been assisting with their rehabilitation. It's not something I ever imagined myself doing, but here we are."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Not many people can help others like you can. I think it's great what you're doing."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Heh, thanks. It's encouraging to hear that."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "There's this fellow who has to learn how to walk all over again. Becoming Endless would solve his problems, but he's determined to overcome them the hard way, with the body he's got."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Seeing that gave me a newfound appreciation for my own body. It's a gift from my parents─a sturdy thing that's survived the arena─and I need to take better care of it."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm the only blue-scaled Hoobigo besides my father. Lamaty'i once told me that."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I don't know how my father felt about it. And there are times when it hurts to think about the things we share."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Still, I don't want to lose that. Even if I could look the same as an Endless, I would never throw away this body."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Most people would find it hard to do so, I imagine. Just the thought makes me feel uncomfortable about the whole becoming Endless affair..."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Ah, but I need to get back to work. Was nice talking to you─and thanks for the delivery."
+    }
+  ]
+}

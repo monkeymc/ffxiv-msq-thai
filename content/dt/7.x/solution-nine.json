@@ -1,0 +1,392 @@
+{
+  "id": "solution-nine",
+  "wiki_path": "/wiki/Solution_Nine_(Quest)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Solution Nine",
+  "level": "97",
+  "location": "Earthen Sky Hideout(X:6.0,Y:6.2)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Nostalgia and Wayakkwe remind me of Alphinaud and myself. Similar but so very different. We should chat sometime, trade twin tales."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It takes no small amount of courage to oppose Zoraal Ja and his army. The members of Oblivion must be driven indeed."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "At long last, we're entering the tower! ...N-Not that I'm excited or anything. Not unduly ."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Twelve help her if she's mentioned anything embarrassing."
+    },
+    {
+      "character": "Geode",
+      "text_en": "By the way, you'll want to watch yourselves around the mechanical soldiers roaming outside. They're malfunctioning and may attack unprovoked."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "My sister is something of an introvert, so I take it on myself to watch over her."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "By the same token, though, she's extremely cautious and observant. That makes her great at reconnaissance."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "They say the sky outside the barrier is truly beautiful. I'd love to see it one day..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, Cahciua is waiting. Let's head to the tower."
+    },
+    {
+      "character": "Mechanical Sentry",
+      "text_en": "The core system is presently updating registesred user data."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Ah, there you are!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If Queen Sphene has registered you as guests, you should be able to march right in."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And if she hasn't?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Then you may have a swarm of Zoraal Ja's minions to deal with."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Nothing for it but to see if Sphene has betrayed us, eh?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Thank you for your diligent service, friends. My companions and I would like to pass, if you'd be so kind?"
+    },
+    {
+      "character": "Mechanical Sentry",
+      "text_en": "Outrunner guide unit identified. Registration number...verified."
+    },
+    {
+      "character": "Mechanical Sentry",
+      "text_en": "Six accompanying civilians identified. Verifying credentials..."
+    },
+    {
+      "character": "Mechanical Sentry",
+      "text_en": "Credentials verified. Welcome, guests of Queen Sphene."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What a relief..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "There you have it. It seems the queen was true to her word."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Follow me, everyone. Solution Nine awaits!"
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Everkeep, a tower of electrope piercing a perpetual shroud of storm clouds."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Occupying the ninth level of this twelve-tiered structure is a residential district called Solution Nine."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "In so naming their home, what hopes did its founders harbor for it? And did it prove the answer they sought?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Spectacular, isn't it?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "There are more districts throughout the tower, including industrial ones, but Solution Nine is the largest."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just being here makes my head spin..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Hehe, a perfectly natural reaction."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "A city of shimmering electrope, replete with strange technologies that cater to every conceivable need. We never dreamed of the like back home in Tuliyollal."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Now, while I go and explain the situation to those in the Backroom, why not take a moment to explore?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I believe lived experiences are far more educational than dry explanations."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And you want to know more about Sphene and Zoraal Ja's dominion, do you not?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, I had a feeling you'd be keen."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's no less than our duty."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Just to confirm—while we have been allowed inside, are we also permitted to roam?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Absolutely. As Sphene's registered guests, you'll find you're exempt from the sentries' scrutiny."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Ah—the elevator to the uppermost level. I wouldn't go near that , but other areas should be fine provided you act like you belong."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Alright, then. We'll show ourselves around."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Yes. Familiarizing ourselves with the technology here will help us prepare for the battles to come."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Try not to enjoy yourselves too much, or you're liable to attract attention."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Once you've explored to your satisfaction, come to the entrance to True Vue in the eastern sector."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The way from there is a little complicated, so I'll send someone to guide you."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Understood. We'll see you later."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I shall speak with the residents. Perhaps one of them will recognize the earring."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's with this place? How can this all be the inside of a tower?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...So, what aren't you telling me? Where are you?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "That, I can't reveal yet—precautions, you understand. Just know that I'm safe."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "But come, tell me about your adventurer friend. You seem to have a great deal of faith in him / her ."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You must have been through a lot together."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You might say that. For instance, we found the entrance to the golden city."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Wait...what? You did?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Elene'shpya! Why didn't you mention this sooner!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Um... You want to explore together?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's not that I'm scared or anything... Everything is just so different from home, is all!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Towers inside a tower... I see it but I still can't believe it..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hmm... For now, I say we proceed straight ahead! If we feel like we're getting lost, we can always turn around and go back the way we came."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh, a crossroads already? This place is too much... I've no idea where I should go..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, I've made up my mind! Let's head to that building there!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah! There you are, Lamaty'i!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I was worried you might have had trouble at the checkpoint, but I see everything went according to plan."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, that's thanks to you."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Now, I know you've scarcely arrived...but I have a request to make of you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh. A request, you say?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes. An important one."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'll say it plain. I want you to make peace with Zoraal Ja."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What? I thought you said you weren't on his side."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We have come no closer to seeing eye to eye. Nor do I condone his methods."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Be that as it may, I don't want you to fight him. I don't want you to regret a decision made in anger and haste."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Unequipped with regulators as you are, the risk is too great."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I appreciate your concern, but you ask the impossible."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja murdered our father. His minions slaughtered our countrymen. He will never renounce his war. As Vow of Resolve, it falls to me to stop him."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know you love your people too, and so you must understand how I feel. Why I cannot—will not—back down."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I do understand. All too well..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Let me say only this, then."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Zoraal Ja will use any means to win. If you would protect your people, return to them at once and prepare. Prepare as best you can."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It may ring hollow, coming from the queen of an enemy nation..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But unlike me, you still have the power to determine your own fate."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You really are a curious one."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look, you needn't worry for us. We have dependable comrades holding the fort in Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They'll keep everyone safe, so we can devote our attention to affairs here."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Please...!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So you have comrades on whom you can rely..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I envy you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You know, we'd like to learn more about you."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "About me?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To be frank, we're still not sure whether or not you're trustworthy."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So if you have a moment, would you show us around the district? That way, we can get to know you better."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Hehehe... You're asking me—the queen—to “show you around”?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh, but I jest. I'm flattered that you've taken an interest in me."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Very well, I shall be your guide. You're my guests, after all, and teaching you about my realm would be a pleasure in and of itself."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If you like, I can introduce you to my citizens, too. I consider them family, as you do yours."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By all means! We're in your capable hands."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That you are. This will be an enjoyable and enlightening tour, I promise!"
+    }
+  ]
+}

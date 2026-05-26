@@ -1,0 +1,356 @@
+{
+  "id": "at-a-crossroads",
+  "wiki_path": "/wiki/At_a_Crossroads",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "At a Crossroads",
+  "level": "98",
+  "location": "Heritage Found(X:12.2,Y:27.8)",
+  "npc_start": "Otis",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll have to ask Cahciua what she knows. And if she's been hiding things from us, we need to know why."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As many Endless as those who have died... So where are they? And how have they been “living” up until now?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Why are you all making those serious faces...?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Although the mood became a tad subdued at the end, I thoroughly enjoyed our repast together!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We did too, Otis. To hear about the Endless was something of a shock, but we likewise enjoyed your company."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Above all, I'm glad that you and I could talk, Gulool Ja. We're going to get along great, I just know it!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "You...you think so?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Hahaha! I'm happy for you, my boy!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Now then, I presume you will be returning to Everkeep. Permit me to accompany you at least a part of the way."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "About Sphene..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It doesn't matter to me if she's an Endless. Whether she's “alive” like you and me or not."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've seen enough to know that she has a good heart."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What worries me is the burden she bears. We still don't know what it is."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I expect there are things she can't tell us. Not with Zoraal Ja watching. But at the very least, I'd like to know what the Endless are to her."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Sorry, I didn't mean to delay us. I just felt the urge to share my thoughts with you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, on the way back, let's make a quick stop at the driftdowns. I want to tell Taapu how it went."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gods, but that yam stew was good..."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Ah, you are returned. Were you able to find Gulool Ja?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We were thanks to you. All's well with the boy."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "I'm relieved to hear that."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "And to know that he has family who worries for him. Gulool Ja too must be glad."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, I hope so. I'll try not to rush or force anything, though. It's for him to decide what I am to him."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My, what a pleasant surprise it is to meet you in these parts."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene! What are you doing here?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Visiting my people. Are you doing the same, perchance?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I suppose we are, yes..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Listen, there's something we'd like to talk to you about. Could we have a word in private?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...So you know about the Endless."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "While we may not discuss it openly, my people will have surely noticed that I haven't changed for hundreds of years. I've made no attempt to conceal my nature."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If I may ask, though, who was it that told you about the Endless? Only a few should be familiar with the concept."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm afraid I can't say..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I bear no ill will towards this mystery individual, lest that be your concern. I'm merely curious."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Tell me, Sphene. You care for your people, that much is plain. And I assume you care for the Endless too."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Earlier, in Everkeep, there was something that you wanted to tell us. Was it to do with them?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The Endless are as dear to me as my living citizens. They are as much my family."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But they can only be sustained by meeting certain exacting requirements. Thus far we've managed to do so, but should more people die, I fear we would be pushed beyond our limit."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Their preservation demands vast amounts of energy..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Energy? I don't understand the workings of it all, but is there something we can do to help?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Then..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Would you be willing to become Alexandrian citizens?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wh-What!? I have my nation—my people—to protect. I can't just become Alexandrian..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Indeed...I suppose you cannot."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "First you tell us to make peace, then you tell us to go home... What exactly is it that you want?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The same as you, of course. To protect my people."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That...I cannot say. I do not ask that you understand or like me. But I wish..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I wish we had been born on the same side of it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, what do you mean by that? Wait! Sphene!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn it..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, I think we've kept everyone waiting long enough. Let's continue on to Everkeep."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And let's not tell Otis about our conversation with Sphene. I don't want to risk causing him pain."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've gone ahead and apologized for us."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A lot has happened, but the important thing is Gulool Ja is safe and well. Cahciua has been worried, so let's hurry back."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Eating together was fun. I hope we can do it again."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Thank you for stopping by to share the news. It gladdens me to know that Gulool Ja is in good hands."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Why don't you come with us? You might get to see Sphene."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Ah. 'Tis a magnanimous and much appreciated offer, but I must decline."
+    },
+    {
+      "character": "Otis",
+      "text_en": "A part of me longs for an audience with Her Majesty, it is true. Yet though it be in my previous life, I failed to protect my queen."
+    },
+    {
+      "character": "Otis",
+      "text_en": "I couldn't bear to show my face before her...and such an uncomely one besides!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "[FORCED LAUGHTER “Hahaha”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright. If that's how you feel, we won't force you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But rest assured we'll visit with Gulool Ja, and we hope you'll cook for us again."
+    },
+    {
+      "character": "Otis",
+      "text_en": "'Twould be my pleasure. You are welcome to bring other comrades, should you so desire. The more the merrier!"
+    },
+    {
+      "character": "???",
+      "text_en": "I've been looking all over for you!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Nostalgia, was it? What's the matter?"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "[LABORED BREATHING]"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "It's Zoraal Ja! He marches to Vanguard!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So he's done waiting... But why weren't we alerted sooner?"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Our transmissions are being jammed. The lookouts couldn't get through to us."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Wayakkwe is at Vanguard too, but I can't reach her... Oh, what are we to do?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Stay calm. Cahciua has yet to be alerted, yes? Take word to the Backroom as fast as you can."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Our linkpearls may still work. I'll try contacting those in Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Otis—I need you to keep Gulool Ja safe."
+    },
+    {
+      "character": "Otis",
+      "text_en": "You needn't ask."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I want to go with you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Absolutely not. A battle's no place for you."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Gulool Ja, the people of the outskirts must be evacuated. For this crucial task, I require your assistance."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Remember: when battle is at hand, anything can happen. Caution is as valuable as any blade."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Yes, sir!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I managed to get hold of Alphinaud. He'll inform Koana."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Good. How's the situation in Tuliyollal?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There's nothing to worry about...or so my brother assured me. With such short notice, though, I doubt they'll be fully prepared."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They'll be ready, I'm sure of it. The Vow of Reason is not to be underestimated."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm coming, Zoraal Ja...and we will finish this once and for all!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Lamaty'i is right. Let's have faith in everyone and do what we can."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the moment of truth. We have to hold Zoraal Ja here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And I know exactly how to do that!"
+    }
+  ]
+}

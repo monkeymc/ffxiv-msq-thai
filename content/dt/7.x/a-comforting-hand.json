@@ -1,0 +1,336 @@
+{
+  "id": "a-comforting-hand",
+  "wiki_path": "/wiki/A_Comforting_Hand",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Comforting Hand",
+  "level": "99",
+  "location": "Solution Nine(X:19.4,Y:14.3)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Thank you, Otis... I pray your soul is at peace."
+    },
+    {
+      "character": "Krile",
+      "text_en": "To slaughter his adopted people too... Is there no end to his villainy?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I did not expect that such carnage would unfold here..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've been thinking... By wearing regulators, the people of Alexandria had been spared the fear of death."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's because the device not only resurrects you—it also erases your memories of the departed. The very notion of dying would have become vague, if not forgotten."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To be killed over and over... I can't imagine how traumatized the survivors must be. Even if they're not physically hurt, they would still need care."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "At a time like this, the citizens need their queen to console them. But where has she gone?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't know. There are other districts, so perhaps she's checking on them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In any case, it's too much for her to handle alone..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Countless people will be distraught, and we ought to provide them with what comfort we can."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So while Cahciua and her crew tend to those with physical injuries, let's seek out those whose wounds are emotional."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Understood. If you and Forename want to concentrate on True Vue, the rest of us will see to the other areas."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sounds like a plan. Alright, everyone—we'll meet up in the Backroom after."
+    },
+    {
+      "character": "Stunned Woman",
+      "text_en": "It...it's over? I'm still alive...?"
+    },
+    {
+      "character": "Stunned Woman",
+      "text_en": "Ahhh, thank goodness... <sniff> <sob>"
+    },
+    {
+      "character": "Stunned Woman",
+      "text_en": "It makes no sense... What right did the king have to destroy our lives like this?"
+    },
+    {
+      "character": "Stunned Woman",
+      "text_en": "Give us back our peace... Leave us out of your damned war... <sob>"
+    },
+    {
+      "character": "Stunned Woman",
+      "text_en": "I want no part in it. I just want peace again..."
+    },
+    {
+      "character": "Trembling Man",
+      "text_en": "<shudder> Never have I been so scared in my life... I'd died in an accident before, but it was nothing compared to this..."
+    },
+    {
+      "character": "Trembling Man",
+      "text_en": "To be killed again, and again, and again... It was a living nightmare. And King Zoraal Ja was behind it, you say?"
+    },
+    {
+      "character": "Trembling Man",
+      "text_en": "Since he suddenly appeared, he's done nothing good for us. He thinks only of war—ordered more soldiers be produced. And now he unleashes them on us..."
+    },
+    {
+      "character": "Trembling Man",
+      "text_en": "He's no king of mine! He's a murderer, and someone needs to make him pay!"
+    },
+    {
+      "character": "Trembling Man",
+      "text_en": "Zoraal Ja must answer for his crimes! The false king must be ripped from his throne!"
+    },
+    {
+      "character": "Exhausted Man",
+      "text_en": "Th-Thank you... I'm all right, I think..."
+    },
+    {
+      "character": "Exhausted Man",
+      "text_en": "Say, you were fighting with Queen Sphene, weren't you? Are the rumors true, then?"
+    },
+    {
+      "character": "Exhausted Man",
+      "text_en": "That Her Majesty isn't a living person. That her actual body is elsewhere—in the cloud or some such—and she uses a special power to appear before us."
+    },
+    {
+      "character": "Exhausted Man",
+      "text_en": "I'd always wondered why the Alexandrians never questioned her true nature, but now I think I understand why."
+    },
+    {
+      "character": "Exhausted Man",
+      "text_en": "She personally fought to protect us. That's enough for me to know she's a worthy ruler. It doesn't matter what she is."
+    },
+    {
+      "character": "Exhausted Man",
+      "text_en": "To fight for her people is proof of her dedication to her people. Whatever she may be, she is our queen."
+    },
+    {
+      "character": "Melancholy",
+      "text_en": "I was scared out of my wits when the machines started attacking, and I'm still shaking... But seeing you makes me feel better. Thanks for coming by."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We've managed to seal off access routes to all levels. Any remaining soldiers should be contained now."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We couldn't have done it without you and yours out there fighting. Thank you."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "We've helped those we could in Solution Nine. We're now looking to send people to the other levels."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It seems things are somewhat under control. While Alisaie and the others are still out there..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I couldn't help but worry about Gulool Ja."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "He hasn't uttered a word. And small wonder given his ordeal..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm going to talk to him. About everything."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bright as he is, there's no use hiding it. He'd eventually find out, and it'd hurt him more."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Very well. Above all, he needs to know that he isn't alone."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "To make your own child suffer so... I cannot comprehend the heartlessness."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll leave nothing out. Neither what's happened, nor what's still to come..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are you all right, Gulool Ja?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Lots of people are dead because of my father, aren't they?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "That's..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "And Otis... He's gone too, isn't he?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sorry."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "My father is a bad man. That's why you're going to kill him, aren't you?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Oh, sweetheart... Look..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Forget it."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I don't care anymore."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Listen to me, Gulool Ja."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're right. We're going to confront your father."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He invaded Tuliyollal and hurt my people. As Vow of Resolve, it's my duty to bring him to justice."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Don't you think of him as family anymore?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "After the attack, I was filled with rage. I told myself over and over that he's no brother of mine."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But it isn't so simple. No matter what I feel or say, all those years I spent striving to live up to his example... They won't just disappear."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's more, it's because we're family that we have to correct each other when someone goes astray."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's why I must confront my brother. Like your grandfather did, even though it cost him his life."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But...Otis is gone now."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "If my father was gone too..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Then I'd have no one..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "What are you saying, Gulool Ja? Take a look around."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Ah..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You have us, Gulool Ja— all of us. We'll be with you, through thick and thin."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're not alone. You'll never be alone again."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "[EXTENDED CRYING]"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "They had been keeping a lot inside, both Gulool Ja and Wuk Lamat..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm sorry I didn't listen and followed you."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But...I wanted to stop my father. And to maybe understand why he did what he did."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You should get some rest, Gulool Ja. You've been through a lot."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I do feel a bit sleepy..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "There's a room in the back you can use. Could you take Gulool Ja there?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will, thank you."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The things I would say to Zoraal Ja as a mother... But I'd better not get started."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Instead, let me thank you. We couldn't have gotten through this without you and yours."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Until the others return, you ought to take what rest you can as well. It isn't over yet, after all."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You could head...<buzzz>...prepare for...<buzzz> Otherwise feel free...<buzzz>...the Backroom."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "A fuzzy image, you say? Is it still happening?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Well, it's an old worn thing. There's bound to be a few hitches."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It's nothing to worry about, though. We'll have a meeting to discuss our next move in a little while, so until then!"
+    }
+  ]
+}

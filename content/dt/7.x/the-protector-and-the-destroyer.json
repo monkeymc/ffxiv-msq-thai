@@ -1,0 +1,1268 @@
+{
+  "id": "the-protector-and-the-destroyer",
+  "wiki_path": "/wiki/The_Protector_and_the_Destroyer",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/e/e9/The_Protector_and_the_Destroyer.png",
+  "patch": "7.0",
+  "title_en": "The Protector and the Destroyer",
+  "level": "98",
+  "location": "Heritage Found(X:15.5,Y:8.0)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Lamaty'i is right. Let's have faith in everyone and do what we can."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Before we get going, I have a request to make of you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When we confront Zoraal Ja, you must let me face him alone."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What!? No, that's far too dangerous! Why put you at such risk if we don't have to?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We have two priorities."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The first is to hold Zoraal Ja within the dome and protect Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The second is to free Wayakkwe if she's been captured."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To make sure we succeed, I need to play the worthy foe for Zoraal Ja."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If I come at him with help, he'll likely lose interest and proceed with his attack on the city. That's why it needs to be a duel."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Even if Tuliyollal is better prepared this time, it's true that it would be best to avoid another battle. And failing that, we might at least weaken Zoraal Ja..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Rest assured I'm not going into this without a strategy. Our time in the dome has given us invaluable insights into Alexandrian culture."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The use of regulators, for one. The secret to Zoraal Ja's strength."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then you mean to..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's right. If I destroy his regulator, he'll be unable to draw upon souls. We'll see how much he wants a duel after that."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, will you leave Zoraal Ja to me?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, Forename !"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's true that this is your fight, and how you choose to handle it is your decision."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But if we see you struggling, or Zoraal Ja attempts to call upon his minions, we will go to your aid!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, fair enough! Knowing you'll be there, I can give it my all."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Together with Koana, I'll keep Tuliyollal safe!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja!"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "H-Hello!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You disappoint me, Wuk Lamat. We are foes, yet you had my admiration for defeating Father and claiming the throne."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "But instead of coming for me, you gallivant with the resistance. Do I intimidate you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I am here, Brother. I did not run, nor hide. I have come to kill you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let her go. Your quarrel is with me."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "And will you settle it one-on-one? Or call upon all and sundry yet again?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Not that it would make any difference."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No. Like Papa did, I'll face you alone."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Really? You believe you stand a chance? Have you forgotten how it ended for Father?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I remember you couldn't win without relying on other people's souls. Alone I may be weak, but so are you!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "So be it. Do not regret your decision."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Release her."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Oh, thank you!"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "I thought I was done for..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "[LEAPING EXERT]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No you don't!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "[DERISIVE SNORT “Hmph”]"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Had you let her die, you could have dealt me a telling blow. Your compassion will be the end of you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm not letting anyone else die!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And you—you will never surpass Papa!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "But I have. With these very hands I slew him."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "His body may be gone, but his spirit lives on in us!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "The Yok Huy's delusion is catching, I see."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's no delusion. Papa's love for Tuliyollal gives me strength even now!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "[SWINGING AXE ROAR “Yaaargh!]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come—let's get this over with! For my people and Sphene's!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "How gullible you are. All of this is Sphene's doing."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Her objective is to harvest all life outside the barrier. Our interests happened to align, hence our alliance."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Liar! Sphene would never do that!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The King of Resolve speaks the truth."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How did she—!?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The attack on Tural was no less my desire than Zoraal Ja's."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You said you wanted none of this. It was a farce from the very start!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes. I used you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So it was all just a lie, then? What you said about loving your people as family, about wanting to see them smile..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I do this for them!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For what it's worth, I'm sorry I deceived you. But I had no choice."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If I'm to save my people, I must take the lives of yours!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "[SHOCKED GASP]"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Behold, Wuk Lamat! The benevolent Queen Sphene."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "An illusion that orchestrated a massacre."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Endless or machine, or whatever you are now, you bear the memories of the person you once were! You should still have a heart!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When you speak of slaughtering my people, do you feel nothing?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Nothing is dearer to me than my people. It matters not whether they are living or Endless."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As queen, I will do anything to protect them!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If it were you, could you have found another way? With your strength, could you have held fast to that which is dear without sacrifice?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What exactly do you seek to do? What are you protecting your people from?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You waste your words. There is no turning back."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "[SLASHING WITH SWORD EXERT “Hah”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "[STRUCK BY BLOW EXERT “Ugh”]"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Is this the strength that the love of Tuliyollal lends you?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "A weak ruler walks a path of ruin. Tell me—which of us is worthy of their throne?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I already know...it will never be you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As long as you think only of yourself, you'll never be worthy! You'll never surpass Father—or me!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "[ANNOYED GRUNT “Hmph”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You can't rely on souls anymore. It's over."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Don't think you've won yet. Oh no, far from it."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Give the order to the fleet: raze Tuliyollal to the ground and harvest every last soul!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "It is over—for Tuliyollal. Your works, your people—all will be ash before the day is done."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't tell me you've forgotten? I'm not the only Dawnservant."
+    },
+    {
+      "character": "Dustwatch Officer",
+      "text_en": "Th-They're coming!"
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "[LONG, STEADYING EXHALE]"
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "Well come on then, you tin bastards!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If I didn't know better, I'd say you're enjoying yourself."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "I'm Hhetsarro. Nothing gets a hunter's blood pumping like a little danger."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Well now, it seems we have that in common. I haven't felt this alive in a good while."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "[CASTING SPELL EXERT “Haaah!”]"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "That's the spirit! We promised Vow Koana we'd deliver him a mountain of scrap—and I'm not about to let these hollow men make a liar out of me!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Hey, kid. The ones below are yours."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "You got it!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Wait... What do you mean “below”?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "[LEAPING INTO THE AIR EXERT]"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "[LAUNCHING AT ENEMY EXERT “Haaah!”]"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "[IMPRESSED WHISTLING]"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Don't see that every day!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Hardly sporting. And this despite our best efforts to thin the enemy ranks."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "While it's not quite what we had planned, I'm glad we chose to remain in Tural."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As am I. 'Twas an unexpected but welcome opportunity to join in the defense of this realm."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And to his credit, Koana did ask very nicely. Still, it's a pity his brother had to delay our pleasure jaunt. But business always comes first."
+    },
+    {
+      "character": "Mamool Ja Landsguard",
+      "text_en": "Damn it! Come no closer, you bastards!"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[LEAPING INTO THE FRAY EXERT]"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[SLASHING ENEMIES EXERT “Yaaah!”]"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Gehehehe!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "That was a near thing. Are you all right?"
+    },
+    {
+      "character": "Mamool Ja Landsguard",
+      "text_en": "Y-You..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Saved your life? Yes, I know. Don't squander it!"
+    },
+    {
+      "character": "Mamool Ja Landsguard",
+      "text_en": "I never thought you of all people would come to my rescue, Bakool Ja Ja. Thank you."
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[UNCERTAIN] Huh..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Still rings odd in my ears, the “thank you”s..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "But I could get used to it."
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Gehehehe!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Right, we're not done yet!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "[CASTING SPELL EXERT “Hah!”]"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "[CHARGING ROAR “Yaaargh!”]"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "[SLASHING SWORD EXERT “Hah!]"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "[SLASHING SWORD EXERT “Yah!]"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "[SLASHING SWORD EXERT “Hyah!]"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "We're holdin' our own against their infantry, but what of that monstrosity and its escort?"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "If they start bombardin' us with cannon fire, we'll have no means of fightin' back!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Worry not, we have a countermeasure."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "A bleedin' dragon!?"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "What in the Navigator's name is it doin' here?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Tuliyollal has entered into an alliance with Radz-at-Han. A wise and timely decision on Vow Koana's part."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Right in the nick... Tuliyollal shall never forget this debt."
+    },
+    {
+      "character": "Koana",
+      "text_en": "We will hold out, Lamaty'i."
+    },
+    {
+      "character": "Koana",
+      "text_en": "So keep your eyes forward and do what only you can do."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Finish this, and return home—safe and sound."
+    },
+    {
+      "character": "Alexandrian Signaler",
+      "text_en": "Report from the fleet. The enemy has offered unexpected resistance. We've been forced to withdraw."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "[HEAVY SIGH]"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Useless. All of you."
+    },
+    {
+      "character": "Alexandrian Signaler",
+      "text_en": "[CUT DOWN EXERT “Argh!”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Stop!"
+    },
+    {
+      "character": "Alexandrian Signaler",
+      "text_en": "Y-Your Majesty...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Enough of this! Enough!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You swore you wouldn't harm my people!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Out of my way!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "[CUT DOWN EXERT “Ungh”]"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Have you gone mad!?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "When the army fails in its duty, it is the charge of the King of Resolve to clean up its mess."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "To achieve victory by any means necessary."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Zoraal Ja to Everkeep. Initiate Code Blood."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Execute all civilians and commandeer their souls!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn you."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Stop!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Please, Father! Stop!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gulool Ja! I told you not to come!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "“Gulool Ja”?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "You must flee, Gulool Ja! It isn't safe!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm not going anywhere! I have to stop my father!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I am not your father!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "[CHOKED, STRUGGLING FOR BREATH “Ugh... Ungh...”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let him go!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Using a child as a shield!? Have you no shame!?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Release him at once, or you shall answer to me!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Pitiful relic. Kneel before your king!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Otis? What's wrong?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Find me at the top of Everkeep."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "There we will determine who is fit to rule."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I must protect them..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That he should take his own child hostage..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We must hurry back to Everkeep!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja thinks nothing of others' lives. He will kill his own people!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Chances are we'll have to face a good part of his army, with Otis among them..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's take all care!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Come, let's protect the people!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are you ready, Forename ?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Owww..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I have no more use for you. Begone."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Father, wait! Father!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Otis... Lamaty'i... You have to stop him... You have to..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What have you done?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene! Can't you order them to stand down!?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The King of Resolve holds military authority. I cannot overrule his commands."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If there's something you can do, then do it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Your crimes are beyond forgiveness, but your people are innocent."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "[OVERWHELMED, SHARP EXHALE]"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "[OVERWHELMED EXHALE “Ah...”]"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I deceived you all, and still..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The talk can wait. When you said that you wanted to protect your people, I trust you weren't lying?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Of course not! There's nothing I wouldn't do for them!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then let's split up and get to work!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Do what you can do..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Please everyone, lend me your strength."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The citizens... This is horrible..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The way's blocked!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I have authority enough to move structures. A moment!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's gone!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're good to go!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There... Now, please help as many as you can!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's deal with these ones first!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll clean them all out!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is awful..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "How terrified you must have been..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm truly in your debt..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There are still those we can save! We keep moving!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I will make us a path. O Everkeep, hearken to me!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This saves us a detour."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Excellent! Let's press on!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So many still crying out in fear and in pain... Please hold on!"
+    },
+    {
+      "character": "Scrambling Citizen 1",
+      "text_en": "Heeelp!"
+    },
+    {
+      "character": "Scrambling Citizen 2",
+      "text_en": "Uwaaah!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No..."
+    },
+    {
+      "character": "Scrambling Citizen 1",
+      "text_en": "Ugh..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm sorry...I'm so sorry..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Fiends too? Damn you, Zoraal Ja!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's up to us to stop them!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Look! Survivors!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's check on them."
+    },
+    {
+      "character": "Milalla Oblivion Member",
+      "text_en": "Where's the support we called for!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're safe now!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are you alright?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You're safe now. Be at ease."
+    },
+    {
+      "character": "Distraught Evacuee 1",
+      "text_en": "I-I have no souls left... If I get killed again, I...I..."
+    },
+    {
+      "character": "Distraught Evacuee 1",
+      "text_en": "Haaah... Haaah... I'm still alive... I'm still alive..."
+    },
+    {
+      "character": "Distraught Evacuee 1",
+      "text_en": "I-It's nothing serious. I fell down, that's all. I'll be fine."
+    },
+    {
+      "character": "Distraught Evacuee 1",
+      "text_en": "All my souls, gone in a blink... This is a nightmare..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm sorry for putting you through such an ordeal... It will soon be over, so please stay strong."
+    },
+    {
+      "character": "Distraught Evacuee (Background 1)",
+      "text_en": "We won't give up, Your Majesty!"
+    },
+    {
+      "character": "Distraught Evacuee (Background 2)",
+      "text_en": "Aye! We'll get through this!"
+    },
+    {
+      "character": "Distraught Evacuee (Background 3)",
+      "text_en": "It's not over till it's over!"
+    },
+    {
+      "character": "Distraught Evacuee 2",
+      "text_en": "Oh, thank you for coming to save us! It's such a relief to see Her Majesty is unharmed..."
+    },
+    {
+      "character": "Distraught Evacuee 2",
+      "text_en": "It's only a graze. You needn't worry about me─just help those who are still out there."
+    },
+    {
+      "character": "Distraught Evacuee 2",
+      "text_en": "We're in your debt! We'll try to get to safety before more of them come."
+    },
+    {
+      "character": "Distraught Evacuee 2",
+      "text_en": "We'll get through this! We will!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "They should be fine here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's press on!"
+    },
+    {
+      "character": "Oblivion Member",
+      "text_en": "More machines over there!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You came!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We must hold them off!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "More of them!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Confound it..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that all of them?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Looks like that does it for this area."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Look—the king's forces are on the move!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There are still civilians on True Vue!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, we can't leave the wounded. Let's divide into two groups."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Krile, Raha—please stay here and render aid."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The rest of us will go and deal with the machines!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Otis! You've got to wake up!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "“Otis”...?"
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "For the honor of the royal knights! Forward!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Snap out of it, Otis! Don't you recognize us!?"
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "First formation! Show them a knight's valor!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We need to spread out!"
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "For honor!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The machines obey him!"
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "Second formation! Seize the glory of victory!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Everyone, gather close!"
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "We will not fall!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Something about him is familiar... But...it couldn't be..."
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "Third formation! Onward, for Alexandria!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It is him—the captain of the knights!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't like the looks of this...Everyone, keep your guard up!"
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "Feel the sting of my blade!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn it... How do we bring him to his senses!?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If he still remembers me, then perhaps..."
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "...protect...Her Majesty..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, he's deactivated."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It should be safe to approach."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Otis! No!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I remember you, Otis. So please, remember yourself."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You're a proud knight of Alexandria. A man who lives to serve the kingdom and its subjects!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Otis!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Pray stand back, Your Majesty."
+    },
+    {
+      "character": "Otis",
+      "text_en": "I am Ser Otis Velona, lord captain of the royal knights of Alexandria!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Upon mine honor, you shall harm neither my fair queen nor our citizens!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Apologies for the trouble I've caused."
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "So long as this body holds, I shall fight with you!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "'Tis but a flesh wound!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's building up energy! Have care!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "For queen and country!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "It gathers lightning to itself!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's split up and deal with them!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hmph! Not holding anything back, are we?"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Leave this to me!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Behold the bladework of a royal knight!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is it over...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Dare I hope...?"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Such tremendous lightning!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So many... This is going to be tough."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh no..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Watch out!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "I...cannot move..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Not good... At this rate..."
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Upon mine honor, we shall weather this storm!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Now! Lay the fiend low!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Otis, you must stop! Your body can't survive this!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Nay, I cannot yield...even should it cost me my life!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Otiiis!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "My queen... Are you unharmed?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Otis..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, Lord Captain. For the delicious repast. For everything."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The old units do not have regulators. Their souls cannot be recovered."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He is gone... The Otis who so valiantly fought for us..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm truly grateful for your help. Would that I had the time to thank you properly..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But I'm afraid I cannot linger."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There are urgent duties I must perform."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, wait!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Is everyone all right!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're fine, but Otis is..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "So he's the one who was looking after Gulool Ja..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Thanks to you, Solution Nine has been spared the worst, but the situation on the other levels is grim."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "We're currently assessing the full extent of the casualties. In the meantime, could you help us treat the wounded?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Thank you, Otis... I pray your soul is at peace."
+    },
+    {
+      "character": "Krile",
+      "text_en": "To slaughter his adopted people too... Is there no end to his villainy?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I did not expect that such carnage would unfold here..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Godsdammit... What is Zoraal Ja trying to achieve by slaughtering his own people!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That he's still bent on surpassing Papa is clear, but why this massacre? I don't understand..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Right now we can only guess at his intent, but his obsession must be strong indeed to endure after thirty years..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But now isn't the time to ponder such things. The people need our help."
+    }
+  ]
+}

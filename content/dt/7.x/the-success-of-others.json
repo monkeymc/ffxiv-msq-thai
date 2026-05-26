@@ -1,0 +1,328 @@
+{
+  "id": "the-success-of-others",
+  "wiki_path": "/wiki/The_Success_of_Others",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Success of Others",
+  "level": "91",
+  "location": "Tuliyollal(X:12.7,Y:13.8)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "I have not forgotten our obligations to Wuk Lamat, but it's moments like these─when we can immerse ourselves in the cultures of others─that fill me with anticipation for the new experiences this adventure will bring us."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We've made a good start on these challenges. Hopefully we can keep it up."
+    },
+    {
+      "character": "Krile",
+      "text_en": "In a contest like this one, 'tis only a matter of time until the claimants are pitted against each other in direct competition."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Traveling with so large and diverse a group is...unfamiliar to me. If she could see me now..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've now won keystones from both the Feat of Reeds and the Feat of Gold. Surely that means our approach to the contest was the right one?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So it would seem. By continuing to retrace Gulool Ja Ja's journey as presented in the saga, we should find the remaining electors in turn."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then let's visit the giants next! Like Krile said, the fact that they were searching for the golden city might mean they know something useful."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The home of the Yok Huy is in the upper reaches of Urqopacha. Unless you're keen on scaling the cliffs, we'll have to take the long way around─through Kozama'uka."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This route will take us close to the Moblin village...which is another important location in the saga."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Since we'll need all the keystones eventually, it makes sense to pay them a visit while we're passing through."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So we call on the Moblins first, then. Let's head there right now!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm afraid “right now” is going to be a problem..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Flight of We Wingless, the great stairs leading to the Moblin settlement, collapsed in the storm."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What are we to do, then?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There is an alternative, but it requires preparation. Until it's ready, you could rest at the cabins or see more of the city. Whatever you prefer."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Just to be sure: you'll accept any method of travel as long as it gets us to our destination?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course. Who do you take me for?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Hmm. Then as your guide, I will see to the arrangements."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, it seems we have some free time on our hands. Let us make the most of it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I need to get my axe repaired. I nicked the blade pretty badly when I took a swing at Bakool Ja Ja."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That reminds me, I never got around to introducing you to Ropli, did I? He's the man in charge of Wachumeqimeqi, and a good person to know. Want to come along?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's go, then!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ready? The markets of Wachumeqimeqi are to the east, on the other side of Bayside Bevy."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wachumeqimeqi is everything that Tuliyollal was built to be."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Something you eat not agree with you? Well, I'll be waiting by Xbalyav Ty'e whenever you're ready!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Feeling better? Let's get back to it, then!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is Aunt Tii's Tacos, named for its owner here, the lovely Tiisol."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you're after the best tacos in Tuliyollal, this place sits at the top with Xbalyav Ty'e."
+    },
+    {
+      "character": "Tiisol Ja",
+      "text_en": "You say that, Third Promise, but you only ever eat old Br'uk Evu's food! Come and buy mine for a change!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry, Tiisol! It has been a while, hasn't it? I swear I'll stop for a bite once the contest is over."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Apologies, but I'm rather busy at the moment. Please come back later."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "My, my, the Third Promise. How might I assist you this fine morning / day / evening ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well met, Ropli! I need to buff a nasty nick out of my axe blade."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Yes, it's been chipped quite terribly. Trying to cleave rocks again, were we?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Er, something like that. Think you can fix it?"
+    },
+    {
+      "character": "Ropli",
+      "text_en": "You stand among Tural's most prestigious gathering of artisans and ask this question? 'Tis child's play. We'll have it repaired for you in two shakes of an alpaca's tail."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Good to hear! I leave it in your capable hands."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Who's your companion, if I may ask?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is Forename , a great adventurer I recruited from across the salt!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I brought him / her here to meet you, actually. Thought he / she might have reason to visit Wachumeqimeqi sooner or later."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Then allow me to introduce myself. I am Ropli, humble representative of this grand center of trade. A pleasure to meet you, Forename ."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "You there! Stop dithering in the shadows and announce your business already!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hrm, I've seen that man somewhere before..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A jewelry maker you met on the voyage over?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, I remember─I spoke with him, too! Fonjean...taine? Yes, that was his name!"
+    },
+    {
+      "character": "Ropli",
+      "text_en": "You've been loitering like a flighty admirer who can't pluck up the courage to confess his feelings. Out with it, then. Why are you here?"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I, uh... That is to say..."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "<sigh> And we're no closer to solving that enigma."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hrm, I wonder if he could use someone to talk to... I say we go and ask! Let me know by linkpearl if you find him first."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Our nervous man of mystery fled westwards...never to be seen again?"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "You were conversing with Master Ropli... But wait─we've met before, haven't we? On the ship..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You've found him? Good, I'll be right there!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Why did you run off like that? Did you have business with Ropli or not?"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Please, you needn't concern yourselves with my affairs! I'm undeserving of such attention!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh? What are you going on about?"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I beg of you, do not ask me to explain! Do not!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry, but the more you tell me not to, the more curious I become. Besides, you look like you need a friend."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "<sigh> You are too kind... So be it. I suppose I can share with you a morsel of my misery..."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Before I came to Tuliyollal, I worked as a goldsmith at the most prestigious jewelry maker in all of Ul'dah─Eshtaime's Aesthetics. Oh, it started off well enough, but as the days passed, everything began to go wrong!"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Compared to the masterpieces of my talented colleagues, my products were lacking. Mediocre ! I lost all confidence. Crippling doubt had possessed me, and any veneer of bravado I tried to put forth soon cracked beneath its weight!"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Thus did I take ship, hoping to find a fresh beginning on new shores. Yet as you witnessed, I lack the courage to even approach a potential employer. You stand before a man wallowing in the wreckage of his ill-spent existence!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Uh...alright, then. You offered a “morsel,” then served us the full course."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You must've really wanted someone to hear your story. If you like, I could try to give you a few words of advice."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Then...you have experience with my predicament? Of feeling terribly inadequate compared to your undeniably superior peers?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well...when you put it that way, I, uh..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah...hahaha, not me! I'm Wuk Lamat, Third Promise of Tuliyollal!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Daughter of the Dawnservant..."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "O-Oh, of course, you're a member of the royal family! Please forgive my presumptuousness!"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "But what of you? Have you ever measured your work against that of your colleagues and found yourself wanting...?"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "How can I not? Should my work not meet the same exacting standards, no new commissions will be forthcoming! What then was the point of my becoming a goldsmith...?"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "If even an ally handpicked by the Third Promise can feel such doubt, then what hope is there for me? I must question why I bothered to become a goldsmith in the first place..."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Hmmm... Looking back, 'twas my father who inspired me to take up the trade. His exquisite creations brought radiant smiles to the faces of his clients, and I admired him deeply for it."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "But in the course of striving to be as great a goldsmith as him, I lost sight of my original motivation..."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "All I ever wanted was to spread joy through my craft, as he did."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Perhaps...perhaps I will give this one last try. Thank you both for reminding me of what is truly important!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is truly important..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, sorry, Forename ! I didn't mean to ignore you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But, yes─I'm glad to see Fonjeantaine is giving himself another chance!"
+    }
+  ]
+}

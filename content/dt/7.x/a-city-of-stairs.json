@@ -1,0 +1,216 @@
+{
+  "id": "a-city-of-stairs",
+  "wiki_path": "/wiki/A_City_of_Stairs",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A City of Stairs",
+  "level": "90",
+  "location": "Tuliyollal(X:14.1,Y:2.7)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "Creation stories are often rooted in true events. Given the similarities, could it be that Tural's legend was inspired by Hydaelyn's clash with Zodiark?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll head west next, towards the Arch of the Dawn. The dirigible landing is on the way."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You have dirigibles, too? Tuliyollal certainly doesn't want for methods of travel."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We get by! Now, if you've seen enough of this area, let me know and we'll continue on."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Arch of the Dawn is on the other side of the city, so speak up if you see something that interests you as we walk!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I hope you aren't too tired. Tuliyollal still has plenty of sights to see!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We should heed Erenville's suggestion and take it slow where we can. I imagine we'll need our full strength for the contest to come."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A private matter? We'll be waiting for you by the skygate, then!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Understood. We'll meet you by the skygate."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I wasn't sure you were coming back... Not that I was worried, mind you. Just a little restless, is all!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Finished what you needed to do? Then let's resume our tour!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm still struggling to conceive how one could construct an entire city on the side of a mountain."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This was originally the site of a Yok Huy temple. The giants built it when they were first making the bridge to Xak Tural, to appease the god who slumbers in the great ocean trench."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "After the Yok Huy withdrew, the temple stood empty for centuries. So when Papa was establishing his new nation, he saw a structure he could refurbish into a palace, sitting practically in the center of Tural."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He gathered artisans to do the work, and the houses they built for themselves became the foundation of the city you see today!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Speaking of houses, we'll be passing through the Resplendent Quarter, the biggest residential district in Tuliyollal. We climb these sets of stairs here─all the way up!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The stairs leading up to the peak can get pretty steep. Careful you don't fall─I've been one step away from death more than a few times!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So this was once a place of worship... The Yok Huy seem a fascinating people, but I've not seen any in the city. I wonder when we'll have the chance to meet them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa's palace is called Vollok Shoonsa, which roughly translates to “invincible resilience.”"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You probably want to take a closer look, but we'll be coming back here later. Let's move on for now."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The sheer scale of this place is incredible. I wonder what that carving at the top represents..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So, this is the Resplendent Quarter. What manner of people live here?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, we have residents from all the Yok Tural clans: Mamool Ja, Xbr'aal, Pelupelu, Moblin, Hanuhanu..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We also have Tonawawta, Hhetsarro, and Shetona who moved south from their ancestral lands in Xak Tural."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In essence, it's a gathering of people from every corner of Tural."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A true representation of Tuliyollal's diverse character... The adornments on each building contribute to the eclectic cultural aesthetic. It's all so beautiful!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm glad you think so! Come, we continue down the stairs."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You might hear the Hyur in Tural referred to as “Tonawawta,” one of our major clans. As for Erenville, he belongs to a Viera clan known as the “Shetona.”"
+    },
+    {
+      "character": "Krile",
+      "text_en": "One need only look to the children playing for a sense of how peaceful things must be here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That big drum there is called the Dawnherald. They play it for formal occasions, like when honoring the Landsguard's return from a dangerous duty."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I tried hitting it with my axe once and ripped the skin. Earned me a proper scolding, let me tell you! I think that was the time Papa held me upside down by the ankle..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've never seen such an enormous drum. What would one even use to beat such an instrument?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And here are our dirigibles! Not bad, eh?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I hear other nations use airships to sail the skies, but you'll only find balloons in Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We have them for the exact same reason as the aetherytes. Koana brought back the plans from Sharlayan, and Papa thought them fantastic and commissioned their construction. This was around three years ago."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Since that time, we've added flights to other settlements. Trade with frontier communities has never been easier."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But that's enough about dirigibles. The Arch of the Dawn awaits!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Balloons are all well and good, but flying through the air is not for me. It's not that I'm afraid, of course, it just seems...unnatural."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hearing about dirigibles reminds me of the Ixal and their flying vessels. But whereas their designs use several bladders, it seems the Turali craft rely on one large envelope to lift them into the air."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is it: the Arch of the Dawn."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When the giants were still here, it was known as the Yok Tural landgate. But when Papa founded Tuliyollal, everyone began using its present name in honor of his great achievement."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Through this gate is Kozama'uka, the wetlands south of the city. Depending on what the rite of succession asks of us, we might end up going in that direction."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Kozama'uka... The name alone is intriguing."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Speaking of which, what were those fluffy animals we passed earlier?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah... Those are alpacas. Fearsome, four-legged fiends."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Fearsome? They seemed quite placid to me..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You'll learn soon enough, Krile. You'll learn soon enough..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But forget the alpacas─I have something far more important to show you. Come along!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Are these pillars what Wuk Lamat wanted to show us?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you wish to learn the history of Tuliyollal, then look no further!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "These stone pillars, you mean...?"
+    }
+  ]
+}

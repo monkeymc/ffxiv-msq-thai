@@ -1,0 +1,320 @@
+{
+  "id": "braced-for-trouble",
+  "wiki_path": "/wiki/Braced_for_Trouble",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Braced for Trouble",
+  "level": "95",
+  "location": "Shaaloani(X:15.1,Y:17.9)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Namikka",
+      "text_en": "I'm so sorry. I didn't mean for you to get involved in this."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "If the Dustwatch can't be bothered to do their jobs, they can piss off!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Alright, let's go and recover that bracelet."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "While I have nothing but contempt for these bandits, as this involves a gift from Wuk Lamat, we must be mindful how our actions might reflect upon her."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I doubt Namikka would find joy in the return of said gift if lives were taken in the process."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If it comes to violence, I ask that you stop short of killing them. The rest, we can leave to the Dustwatch."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Well now, that makes me think you're strong. Really strong. Are you?"
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "You saved the star!? That's a bold claim to make, but if true, that certainly speaks to your strength!"
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Aren't we humble now? But the matter-of-fact way you say it makes me think it's a tremendous understatement."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "L-Lest you misunderstand, I'm not questioning your abilities. As a matter of fact, that silence is the sort of response I'd expect from a peerless warrior!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If your curiosity has been sated, then please indulge mine─is there anything you can tell us about these bandits?"
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Let's see..."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Well, of late there's been talk about some unsavory types coming and going from Tonatenyawi to the southwest."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Is that the old mining town that was abandoned?"
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "That's the one. Now that ceruleum extraction is big business, no one wants to waste their time picking at the dried-up veins there."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Sounds like a perfect lair for bandits─not to mention that the one with the bracelet fled in that direction."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "So you'll be investigating the place? I can let the Dustwatch know, if you like."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No, not yet. It would be best if we went alone."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There's something I'd like to ascertain. If you've no objections?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Right then, let's be off."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "If you sense trouble, promise me you'll put yourself first."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "You find those bandits and you beat 'em bloody, you hear?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It seems the bandits have claimed this place for themselves."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They've made no attempt to conceal their presence. How can the Dustwatch not have noticed by now?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A question for another time. First, we must find the bracelet."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I don't see the bandit who had it. Perhaps they're in one of the buildings."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ramshackle as they are, it should prove a simple thing to eavesdrop on anyone inside."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If you would go and have a look about, I'll keep watch for trouble."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The bandits who took the bracelet may be in this building. Have a listen and see what you can find out."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The bandits could be in any of these buildings. I'll keep watch here while you go and check them out."
+    },
+    {
+      "character": "Brash Bandit",
+      "text_en": "...Dunno where we'd be without him. Probably shoveling sand, praying we'd strike it rich."
+    },
+    {
+      "character": "Ratty Bandit",
+      "text_en": "Ain't that the truth. Only an idiot would work the mines with easier money to be had."
+    },
+    {
+      "character": "Ratty Bandit",
+      "text_en": "Not when we've got a boss who can keep the Dustwatch off our backs, hah!"
+    },
+    {
+      "character": "Brash Bandit",
+      "text_en": "Hey, watch what you say! The wind's got a way of carrying secrets to the wrong ears."
+    },
+    {
+      "character": "Ratty Bandit",
+      "text_en": "Maybe so, but who'd ever believe one of them sainted souls was running our crew?"
+    },
+    {
+      "character": "Brash Bandit",
+      "text_en": "That drunk who bought your story about the gold-shitting alpaca, am I right?"
+    },
+    {
+      "character": "Band of Bandits",
+      "text_en": "Hahahahaha!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Let me out of here, you bastard!"
+    },
+    {
+      "character": "Nettled Bandit",
+      "text_en": "Shut your mouth, you sniveling little brat!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Make me! I'll get you all back for framing my friends!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "The Vulture most of all! You tell him he can eat shit!"
+    },
+    {
+      "character": "Nettled Bandit",
+      "text_en": "Heh. How about we give you the chance to tell him yourself? We'll see how tough you are then."
+    },
+    {
+      "character": "Craven Bandit",
+      "text_en": "I've brought back a prize you're gonna love, boss!"
+    },
+    {
+      "character": "Craven Bandit",
+      "text_en": "Have a look at this bracelet─beautiful, ain't it? Bet it was made by a famous artisan!"
+    },
+    {
+      "character": "Ruthless Ringleader",
+      "text_en": "You idiot! How are we supposed to move something like this without attracting attention!?"
+    },
+    {
+      "character": "Craven Bandit",
+      "text_en": "Boss, please! Please! I-I'm sorry!"
+    },
+    {
+      "character": "Ruthless Ringleader",
+      "text_en": "<sigh> Reckon we could find a sailor who won't ask questions. Sell it for a song."
+    },
+    {
+      "character": "Ruthless Ringleader",
+      "text_en": "Here, your reward. And don't bring me this kind of grief again."
+    },
+    {
+      "character": "Craven Bandit",
+      "text_en": "I-I won't, boss. Thank you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Finished, are you? Let's retreat for now."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "So, were you able to learn anything?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Their leader is a man of the Dustwatch!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That would explain why these bandits have been able to do as they please. And you say they gave the bracelet to him?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It seems we have our work cut out for us. Did you hear anything else of note?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Zekowa? That's the boy who confronted one of the officers in town, isn't it?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "And you say they threatened to take him to speak with “the Vulture”? Their leader's alias, no doubt."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Fitting for a man who preys on the helpless."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Well then. Not only do we have a better idea of who's behind the recent rash of robberies in Hhusatahwi, but we also know he has the bracelet."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Retrieving it without bloodshed will prove difficult, though, if he's that quick to point a gun at his own underlings..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You're right. If we confront him with his henchmen around, a violent outcome is all but guaranteed."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The direct approach may have served you well in the past, but it won't suffice here. Wihuwte is the deputy chief of the Dustwatch. He could claim we're the criminals in all this, and no few people would believe him."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Hmmm... I might have a plan."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There's a small settlement to the southeast of here─Luwateninyawawsa. Meet me there and I'll explain everything."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If we're to retrieve the bracelet without conflict, it won't be done barging in through the front door. We'll have to lure him out."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "To do that, we'll avail ourselves of yeheheceyaa─dragon-like creatures that live to the south of here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's their breeding season, you see, and the males will flock to the scent of a female in heat."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "With a few ingredients, and a sample of their feces, I can create an attractant that resembles this scent when burned."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We can then lure the yeheheceyaa into the bandits' hideout, flushing out the Vulture and his gang."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Then, while they contend with our flying friends, we can sneak in and search for the bracelet."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm afraid I must ask that you collect the excrement. While you see to that, I will go and procure the remaining ingredients."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...And before you say anything, I do not ask this because of any aversion to feces. It would simply be easier for me to find the specific species of wild plants we require."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Here. Take this pouch, see it filled, and I will handle the rest."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Finished already, are we?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Excellent, this will do nicely."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "All that's left is to mix the feces with tumbleclaw fibers, dried nopalitender root, and a generous helping of animal fat."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Come. Let's get back to Tonatenyawi."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Everything is ready. Time to set our plan into motion."
+    }
+  ]
+}

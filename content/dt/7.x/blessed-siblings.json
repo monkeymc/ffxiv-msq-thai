@@ -1,0 +1,380 @@
+{
+  "id": "blessed-siblings",
+  "wiki_path": "/wiki/Blessed_Siblings",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Blessed Siblings",
+  "level": "94",
+  "location": "Yak T'el(X:26.1,Y:34.3)",
+  "npc_start": "Miilal Ja",
+  "dialogues": [
+    {
+      "character": "Erenville",
+      "text_en": "What I know about Mamool Ja extremism is limited to what I've heard through rumors. The same is true for most who hail from Xak Tural."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I expect it was for his devotees that Bakool Ja Ja joined the rite of succession."
+    },
+    {
+      "character": "Krile",
+      "text_en": "“The price we pay”... Is she referring to the marriages between the Hoobigo and Boonewa clans?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If I can use my status as the Dawnservant's daughter to help the people of Mamook, I'm happy to do so. But I'd like to better understand Miilal Ja's motivations first."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Gulool Ja Ja labored to break down walls. That his very existence would instead lead some to raise them is unfortunate..."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "There is a place that will help you to understand our plight."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "It lies far to the west of here. Follow me."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You won't find sights like these anywhere else."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is that a meteorite up there?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Aye. And judging by their attachment, that tree must benefit from the meteorite's unique aether."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Anyway, we should press on. Miilal Ja was anxious for us to see whatever it is she has to show us."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The canopy blocks out the sun so completely, it's as if we're in a room without windows..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A hunting camp, like as not."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'd love to talk to Mamool Ja hunters and learn about their ways, except they'd probably ignore me..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The others have continued on. Let's catch up to them."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Having seen how dark this forest is, I can understand why so many Mamool Ja chose to live in Tuliyollal instead."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What are we looking at, then?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I was not aware that such tunnels could be found in the Ja Tiika Heartland. A well-kept secret indeed..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A cavern. And it looks deep..."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "The place I would show you is just ahead."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the place you wanted to show us?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "It lies just beyond this passage."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Entry to these grounds is not permitted even to the devout."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Nonetheless, I would reveal our secrets to you. Rest assured I shall take full responsibility."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Come. See for yourself the truth of the blessed."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I shouldn't have looked down..."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "The stone pier yonder... That is our destination."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To erect it there would have been no small feat."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "The work of Yok Huy hands, built long, long ago. Our forebears merely altered the entrance."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Altered? To what end?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "It will be quicker to show you. We have beasts that can carry us below."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bakool Ja Ja?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "...What, couldn't wait to laugh at the failure?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "You've always come here to cry. Ever since you were little."
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Mother!"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "The Third Promise seeks to learn about Mamook. She may be our chance to finally end what we have been powerless to stop."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Talk with her. Tell her...what we have done."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Fine. Perhaps it's only right that we be the ones to speak of it. “Blessed” as we are..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Here."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "This vessel holds the remains of a two-headed Mamool Ja. An infant."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "We converted the ruins into a cenotaph so the souls of these children wouldn't return as vengeful spirits."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Do you know how blessed siblings are made?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've heard that they are born to Hoobigo and Boonewa parents."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Such unions between clans were originally arranged to stop infighting. The war against the Xbr'aal was going poorly, and we needed to be united."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Then one day, a child was born. One blessed with two heads...and tremendous power."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "When this child grew old enough to lead our army, we became unstoppable. The Xbr'aal had no answer, and we drove them all the way back to the trees above."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "That taste of victory awakened our greed. We became obsessed with conceiving more and more of these superior children. No matter the cost..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Of the countless born, most die...trapped in their shells."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Only one in a hundred survive."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "If we are “blessed,” it is only because we yet live. Unlike our brothers and sisters who were sacrificed for the glory of Mamook."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's...horrible..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Of course it's horrible! It's an atrocity we can never take back!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Those children died so that we could live! So we had to succeed, no matter what! To fail would mean it was all for nothing! ... Nothing !"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "...But I did fail. I squandered their sacrifice."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I...I should never have been born."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're wrong."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You didn't ask to be born as you are, and─you aren't responsible for your siblings' deaths."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The people obsessed with blessed siblings are. They made their choices...but they don't make yours!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Since when do you let others push you around, Bakool Ja Ja? What do you want? Say it!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I...want it to end."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I don't want any more to die."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then you have my word. We'll put a stop to this madness."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Blessed siblings are revered by their supporters as a means to achieve dominance in Tural."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If we understand why they harbor such aspirations in the first place, we would be better equipped to treat with them."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Indeed. I just hope they will be open to discourse..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Take me with you. Those fanatics treat my words as gospel."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "No. There will be trouble if your father finds out you're still here."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Moxutural Zooj─there we will gather the people, and ask anything the Third Promise wishes to know."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Then take one of my scales, one that blends the Hoobigo and Boonewa coloring. It'll serve as proof that you have our trust."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "People will do as you say if you show it to them."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'm sorry. For what I've said...and done. I don't expect your forgiveness."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You had your reasons. I'm glad I could know them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Which is to say...you're not a complete alpaca's ass."
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[Laughs]"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Thanks, Wuk Lamat."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, maybe it's for the best. Hatred is exhausting, after all."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. So let us make the most of our newfound friendship and bring together the people of Mamook. We have much to discover."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, Forename ... Before we rejoin the others, can we talk for a moment?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I really hated him, you know. Bakool Ja Ja. With every fiber of my being."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He tried to ruin Ihih'hana, sabotaged us on the river, kidnapped me for my keystone, and released the most vicious tural vidraal of all time! Anything he could do to cause us pain, he did!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Never in a million years would I forgive him..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But the moment I understood why he did what he did─the pain he's been carrying this whole time─all my anger just...evaporated."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I hear you. Bakool Ja Ja's motives don't absolve him of his crimes. He must answer for them, like anyone else."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But right now, my duty is to ensure that no one in Mamook feels desperate enough to go to such lengths ever again."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Anyway, thanks for listening. Now that I've voiced that, I feel readier for the challenges ahead. Come on, let's head back to the city!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "To think that there was such a dark secret behind blessed siblings... Even among the Mamool Ja, I cannot imagine many know the whole truth─especially not those who reside in the capital."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I had no idea Bakool Ja Ja was bearing such a burden. Had he but chosen a different path..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Still, I believe our true character is demonstrated not by right action, but rather by our conduct upon recognizing our faults. It is a struggle I know all too well..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's amazing how Wuk Lamat can connect with anyone. She has an incredible gift."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Sometimes it's best to just forgive and move on. It can be difficult─gods, don't I know it─but that's all the more reason to try your damndest to look past how you were wronged and let bygones be bygones."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bakool Ja Ja's scale represents his faith in us."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We won't fail him or his people."
+    }
+  ]
+}

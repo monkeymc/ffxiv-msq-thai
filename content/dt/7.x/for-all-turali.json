@@ -1,0 +1,1260 @@
+{
+  "id": "for-all-turali",
+  "wiki_path": "/wiki/For_All_Turali",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/7/77/For_All_Turali.png",
+  "patch": "7.0",
+  "title_en": "For All Turali",
+  "level": "91",
+  "location": "Tuliyollal(X:11.1,Y:15.0)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't help but wonder if Fonjeantaine will follow through. Let's see if he's actually gone to talk with Ropli!"
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Our lurker seems a changed man. I'm not sure it even is the same man."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You can do this, Fonjeantaine!"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "'Twas kind of you to come, but you needn't worry. I've found my courage!"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Pray accept my apologies for my earlier behavior."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "My name is Fonjeantaine, and I am a goldsmith from Ul'dah in faraway Eorzea."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I realize this is a bold request, but I should like to continue practicing my trade here in Wachumeqimeqi─if you will have me! I ask only for the opportunity to bring happiness to others with my creations."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "So that's what it was about. You were looking for work."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Consider yourself hired. Wachumeqimeqi is always in need of skilled craftsmen and women."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "I'll handle the necessary paperwork. Can you start tomorrow?"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Yes! Yes, of course!"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I must thank you both again for your sage and timely advice."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't know that I was all that helpful..."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "But you were. Had you not come to speak with me, I would not have had that moment of much-needed self-reflection."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The arrangements have been made. Come and meet me at the entrance of High Tide Harbor."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, I almost forgot. Do you have my axe ready, Ropli?"
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Ready and waiting. Behold the sublime touch of a Wachumeqimeqi artisan."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oho, it's as sharp and deadly as the first day I held it! Thank you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, good luck to you, Fonjeantaine. Let me know if that doubt creeps back in─I'd be happy to talk you out of it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As for us, we should head for the harbor. Wouldn't want to keep Erenville waiting!"
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Always a happy day to add a new artisan to the ranks. Do let me know if there's anything else I can help you with."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I know better than to hold myself to an impossible standard. The only thing that matters is the joy my craft can bring to others."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I wonder what Erenville's alternate means of travel is..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I wandered through the bayside markets and found earrings almost identical to mine. They indeed seem to be a common travel charm, just as Mablu described."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I went to reexamine the Tuliyollal Saga. Should we continue apace, we shall soon come face-to-face─or rather, face-to-knee─with those enormous Yok Huy. I am told some of them tower over even the hulking Gulool Ja Ja."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "All that waiting was making me hungry, so I tried a taco from both Xbalyav Ty'e and Aunt Tii's. I think I prefer Tiisol's spicier flavors."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Enough with the secrecy─what's this big plan of yours!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Look there. That is my big plan."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What...what is that!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's a punutiy. She'll be pulling our boat upriver."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How do we know she won't thrash about and sink us instead...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They're gentle and timid creatures. For the most part. She's unlikely to cause a fuss unless you give her reason to."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "First alpacas, now punutiys. We're relying a lot on animals for this journey."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We should be thankful we have an animal expert as our guide, then."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But did it have to be my old nemesis? Another boat..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Well, I took you for someone who was up to the challenge. Was I wrong?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Long ago, when fighting still raged between the clans, the inhabitants of Kozama'uka rode these riverboats to move swiftly through hostile territory."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But the vessels see little use with Tural now at peace, so I was able to borrow one of the few which remain."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I did consider a dirigible, but the pilots warned me that the updrafts near the falls would make landing difficult."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You said you borrowed “one,” yet there appear to be several on the water..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i. Traveling up the river, I presume?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seems that way. Does this mean you've earned two keystones already? I can't believe how well you've managed despite undertaking the contest alone."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I was never alone. I've had my own entourage with me since the beginning."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "My friends, it's been...well, not that long."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Thancred! Urianger! What are you doing here!?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Escorting a Promise, the same as you."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I'd heard much of the incomparable Archons during my time at the Studium. As soon as the contest was confirmed, I thought who better to recruit to my cause? I contacted the scholarch, who arranged an introduction to these two gentlemen."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The Second Promise had specific requirements: they who would be his assistants must boast both proven survival skills and mastery of the arcane arts."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Thus did Thancred and I receive the summons."
+    },
+    {
+      "character": "Koana",
+      "text_en": "My own studies concentrated on technology which our people could readily use, such as inventions born of magitek or clever engineering."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Where magic was concerned, I covered only the foundation."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Knowing you two, I expect you had other reasons for accepting the job?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A few. The nation of Tuliyollal spans an entire continent. Depending on who wins the throne, the world may be plunged into instability once more."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ever have we striven to preserve peace. Where is our place, if not here and now?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We did our due diligence, of course, and made sure of who we were working with before agreeing to this endeavor. He's even more opaque than Urianger at times, but is surprisingly─"
+    },
+    {
+      "character": "Koana",
+      "text_en": "That's quite enough of that! We must be on our way!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Wait. I have one question before you leave."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Koana and Wuk Lamat are vying for the throne. As Koana's entourage, does that mean you're resolved to defeat all his opponents...including us?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We're sworn to do all in our power to win this contest for Koana─even if it means competing against our own comrades."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We intend to hold nothing back, and expect you to do the same."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And we won't disappoint you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I thought you were taking a boat..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "If even you have been forced to travel on water, then the others will be doing the same. I would rather walk than risk confrontation on a leaky barge with no possibility of retreat."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's true that I can't stand boats..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But I trust the route Erenville has chosen for us!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Leave the handling of the punutiy to me. Should other wildlife attack us, however, I may have difficulty keeping her under control. Do your best to draw them away─as far from the front of the boat as possible."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then we shall remain on deck and stand guard. Although it may be wise to have at least one of us sit up front with Erenville, just in case."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'd like to stay on the deck. I'm eager to put my pictomancy to the proof..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And I'll take any chance to show you that I can hold my own on the battlefield!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then Krile will stand on guard with Forename ."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'll keep Erenville company, then. With my blade, I can respond more quickly to threats than Alphinaud."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Thank you. If a fight breaks out, I'll try to stay out of your way."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then I shall endeavor to provide aid where it is needed."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can do that as well!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That should cover most eventualities. Secure your gear, and board the boat when you're ready."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Gehehehe..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Let the hunt begin!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We can't stand here all day debating the dangers ahead─we have a contest to win!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As Koana said, once we're on the boat, there'll be little room to fight and nowhere to run. We must be prepared for all manner of threats."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This should be a good opportunity for you to see how far my training has progressed!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We'll take this smaller boat to board the big vessel with the punutiy."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Koana decided the river route was too risky, but I wonder how the other claimants are planning to travel..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There was a boat like ours up ahead. Could be Zoraal Ja, or... Oh gods, is it Bakool Ja Ja?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Forget who else is on the river right now—we have company!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So much for a tranquil boat ride!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We're in for some rain, it seems..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That is Bakool Ja Ja ahead of us! Be ready for anything!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I knew it..."
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Yes, come closer! We have something for you..."
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "A gift! Courtesy of the blessed siblings!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "He was waiting for us!"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Gehehehe! Enjoy our present!"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Gah, this is not going to plan! We'll just have to improvise..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The harness!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Afraid of a fair fight!?"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "See you upriver...if you make it that far!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Crippling our boat was a cowardly move..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Erenville! We're losing speed!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I can't command the punutiy like this..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The harness is broken. I'm sorry, but we have to pull over to the bank."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Seems Bakool Ja Ja got his way..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We won't be going anywhere until we can make repairs..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "See if there's a route overland. We'll try to catch up to you later!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We have to mend this damage. If you could help me, Alisaie...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Of course. Whatever you need."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "What strange happenstance. Hath some misfortune befallen thy vessel?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Apologies, friends—it seems you'll be taking the long way around!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's the biggest bug I've ever seen!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, Koana has gotten ahead of us now."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I hope Alisaie and Erenville are all right..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right! Let's sweep this deck clean!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Time to show off my brushstrokes!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We stand ready!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It's an ambush!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Scheming bastard!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "He lay in wait for us..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn you, Bakool Ja Ja!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "He's broken the boat!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That doesn't look good!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis the mother of all punutiy!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's huge !"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Do they usually grow that large...?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The sheer force..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's pulling in everything!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't get caught in it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You see what it did!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The jungle itself was laid waste..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Unbelievable..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll never look at a punutiy the same way again!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Such monstrous lungs that creature had..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I thought punutiy were meant to be timid..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Some manner of mineshaft?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whatever it is, the path lead onwards!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This is the only path..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Such cheek!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We'll have to find another route."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is going on!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "They've copied our forms!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wait... That's us!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We can't simply sneak by...can we?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not likely!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This fellow seems quite at home..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gah! They're coming from below!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is he...dancing!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He's watering the seeds with aether..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Are they still growing!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look out! They're much bigger now!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Watch where the roots are facing!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What now!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ew! He's spat something up!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The mimics from before..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "They've copied us again!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh my, that is unsettling..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Smash them! Whatever face they wear!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Another victory for us!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Out of the tunnels we go!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So much for that..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We've emerged somewhere upriver."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then let's press on!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's so much brighter outside!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "These creatures were killed..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Some territorial dispute?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What happened here...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gods below! What was that ?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Some species of vilekin?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh! Good gracious me!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's the vilekin we saw earlier."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "My axe for a giant boot!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Careful now. This fiend's a vicious one."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've got pumas coming in!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "They don't seem interested in us..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "After a rival predator, it seems."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's eating them!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Such ferocity!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Everything is food to this creature..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Careful! It's much faster now!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Because it fed!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It must take the qualities of its prey!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now what? Giant worms!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "They were burrowing beneath us!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's one thing after another!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh, it's feeding again!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Its appetite is endless..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ware its adaptations!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is as far as we can go on foot, it seems. We'll have to head back and see about fixing the boat..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hey! Everyone all right?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I was worried we might not catch up to you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Those caverns you traversed were dug by the Yok Huy in their search for gold. Remnants of their excavations can be found throughout this region."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "While I appreciate the lesson, O wise guide, are we...ulp...landing this boat any time soon?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Our river journey is almost over. For proof of that, you need only look ahead..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The falls were impressive enough from a distance, but it's almost too much now..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, amazing... Now please let me off..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No...no more boats..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Are you...? Oh, you're not alright."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I should be surprised if she was. Even without the nausea, we're all spent."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There is a mountain shelter nearby─a resting spot for those who've ascended the stairs. I suggest we make use of it."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That would be a welcome respite."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Have you the strength for a short walk, Wuk Lamat? We can rest along the way, too..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn it all..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A Promise is meant to lead from the front, not mewl and moan like a sick kitten..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wuk Lamat..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Ignore me, it's the nausea talking. I'm fine, really. Lead on. I'll follow."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Very well. But if I might say one thing..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Just because you're a Promise or a claimant for the throne doesn't mean you can't be seen to struggle. You needn't bear this burden alone, so please don't hesitate to talk to us. We're always willing to lend an ear."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But, Krile, I..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You as well, Forename ...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've always believed this is my problem alone, but perhaps you have the right of it..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright. I'll talk about...things. Just give me a moment to collect my thoughts."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Of course. As long as you need."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We'll be waiting at the shelter when you're ready."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've long felt that I could never tell anyone when I was confused or hurting─that admitting to weakness would bring shame to Papa's name."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But if you say you're willing to listen, then...there are things I'd like to talk about."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, let's catch up to the others."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now that I've decided to share, I feel so nervous..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This place is called Many Fires for the constant stream of peddlers and travelers who make camp here after climbing the stairs."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This seems a cozy spot for Wuk Lamat to let her guard down. I know it can't be easy for her."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This side of the region is so different from where the Hanu live. The striking colors of the vegetation alone..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We should stop here for the night."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I understand the desire to rush ahead, but we need to recuperate from our punishing river adventure."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Then let's settle in. We'll need a cookfire, and there's meal preparation to be done."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I've been meaning to ask, but...how does one become the adopted child of the Dawnservant?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I was but a ball of fuzz at the time, so I don't remember much. My earliest memories are of life in the palace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All I know is that I was born in Iq Br'aax, a village in Yak T'el. But I've never bothered to return there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As far as I'm concerned, Gulool Ja Ja is my only parent."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I quite understand. I have no memories of my birth parents either."
+    },
+    {
+      "character": "Krile",
+      "text_en": "For a while, I wanted to learn who they were, but over time that curiosity waned. Galuf was my dear grandfather, and he was all I needed."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So our situations were quite similar."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even though Papa already had a trueborn son, he raised me and Koana with no less love."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "One time, I'd wandered off alone into the forest and gotten lost. Before I became a meal for some beast, Papa dropped everything and came to my rescue."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I was scared and sobbing and ready for a scolding, but the Head of Resolve praised me for surviving the ordeal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I did get my lecture from the Head of Reason, though! He went on and on about the dangers of the jungle, and all the horrible ways I could've died..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Growing up, Papa was kind and patient, but a tyrant when it came to training. Now, of course, I realize he was preparing me for my duties as a Promise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "For all the good it did..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's so much I failed to learn about my own country. Whether it's alpacas or Ihih'hana, I hardly know anything!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've lived such a sheltered life, yet convinced myself I understood Tural and its people!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't have Koana's education or Zoraal Ja's strength. I'm all bluff and bravado, not fit to bear my title..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't compare myself to my siblings, you mean?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Why? Because my father built a nation where everyone can live in peace, and I want to keep it that way."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I... I think I see what you're saying."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "My reasons for joining the contest have nothing to do with my brothers."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's always been about the Turali, and what I can do for them!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "You said it yourself, how important it is to properly “know” something..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "To hear the voices of others, empathize with how they feel, and think how best to serve... In so doing, you'll come ever closer to being the person you wish to be."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sorry, everyone. I've been a fool."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "From this moment on, I'll stop trying to be the Promise I'm not. I won't feign strength to hide my weaknesses!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Step by step, I'll learn all there is to know and love about Tuliyollal and my fellow Turali."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It might not be the smoothest path, but it'll be a path of my own making!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will find the city of gold, for all of us! Along with the answers you seek about your grandfather, Krile. I swear."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I appreciate it, Wuk Lamat. But you needn't take on that burden as well."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Galuf Baldesion dedicated his life to protecting people from all manner of threats."
+    },
+    {
+      "character": "Krile",
+      "text_en": "As his granddaughter, I wouldn't wish to endanger others for the sake of a personal investigation."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So let's just concentrate on winning the contest. We have a shared goal, and if at all possible, I'd rather we enjoy the journey!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hear, hear. We are companions on the same road, bound for the same destination. With our combined talents, nothing will stop us from reaching the golden city!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you─thank you all. I am proud to call you my friends!"
+    },
+    {
+      "character": "Wuk Lamat (in distance)",
+      "text_en": "Thank you─thank you all. I am proud to call you my friends!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "They seem to be enjoying themselves. Are you sure you don't want to go and say a word to your sister?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Nay, there is no need for that."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But what of you two? Wuk Lamat's allies are your comrades. It must feel strange to be rivals."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Helping you has made us rivals, aye, but we're not about to break into fisticuffs over it."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Unless of course it is a matter of winning or losing the contest. Then I'll have no qualms about putting Alisaie on her rear."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Despite our long history, never have I been given the chance to test myself against our companions. The thought stirreth within me a most unexpected sense of competition."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i has surrounded herself with distinguished figures indeed. One of the Studium's finest graduates. The head of the Students of Baldesion..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "And then there's Eorzea's vaunted champion. If shehe's half the hero you say, then the odds are stacked against us."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Not that I've any intention of bowing out."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Our time in Urqopacha only served to strengthen my resolve. We saw how a single storm cut off the alpaca routes and threw my peoples' lives into disarray."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Such uncertainties are why I advocate for the adoption of Sharlayan innovations, that Tuliyollal might know greater stability and prosperity."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Our nation can change for the better...and I will be the man to change it."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well, it's a start."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I imagine your experiences on this journey─all the things you'll hear, and feel, and think─will help you refine that approach."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But to return to the subject of the rite, I'm a touch concerned by the condition for victory."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The claimant who breaks the seal becomes Dawnservant─not the one who performed the seven feats first."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The would-be victor need only possess the seven keystones..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "That is correct. As the contest wears on, we must brace ourselves for greater conflict."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Your rivals still lag behind."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "The Second and Third Promise may have recruited competent lackeys, but none compare to you."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "How can they hope to compete with the Resilient Son, the only child ever sired by a two-head!"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Only the ignorant or foolish could fail to see that you were born to be Dawnservant!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Such titles mean nothing."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Ah, I neglected to mention... When I first heard the rumors that the contest involved the golden city, I spoke in confidence with Gulool Ja Ja's inner circle."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "They all agreed on one thing..."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Whoever reaches the city of gold will attain a power so great it can dictate the course of history."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "If this power truly exists, then I humbly beg a fair share of it."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Time is passing, and I would put my plans in motion without delay. The useless tool is cast aside, after all."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "And just so there is no misunderstanding... You consent to this course no matter who is made to suffer?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "In battle, everyone bleeds. The Dawn's Promise is no exception."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "What better lesson to teach our people the folly of war."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I was hoping for a good scrap, but this bloated sack of bile was no challenge at all."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Hmmm... I wonder if the house cat is dead yet..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Be a shame to lose a plaything, but we'd still have two more. Heh heh."
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "If I may ask, chosen one, what are your plans for Tuliyollal after you take the throne?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Plans? What makes you think we care about all that?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "We care only about the contest, and proving our superiority."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "That would surely please Mother and Father."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Yes, and when we become Dawnservant, we'll drive out the weakling masses and invite our kin to live in the city."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Aha, a fine idea! Our family deserves better than that rotten jungle!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Back to it, then! We must catch up to that one-headed pretender and remind him of the natural order!"
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "I made it..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I thought we were missing someone. Where have you been?"
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "I feared I was done for when I fell from the boat, yet somehow I made it..."
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "Oh, my arms...I can barely lift them. I-If I could just rest a moment..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "You expect us to wait for you ? Those who can't keep up will be left behind."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "My brother has spoken. March, or be fodder for the beasts."
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "...But I followed the teachings! Everything I've done─everything I've sacrificed─all has been for the blessed siblings!"
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "Wait! Don't leave me behind... I'm begging you!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It is good to see Wuk Lamat more sure of herself."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm glad we could take a moment to talk things through. Wuk Lamat seems much happier for it."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I have some small experience with the pressures of leadership─and crumbling beneath its weight, as you well know. If anything good can be said to have come of my failures, I hope it is my capacity to help others avoid similar mistakes."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It doesn't matter if Wuk Lamat's scared of alpacas or gets sick on boats. It doesn't change who she is or what she means to her people."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Being able to say those things has brought me such relief. It's like a stone has been lifted off my chest, and I can take a full breath at last."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't want to encumber myself like that again. I want to be better─ will be better. For myself and for my people."
+    }
+  ]
+}

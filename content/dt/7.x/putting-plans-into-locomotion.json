@@ -1,0 +1,320 @@
+{
+  "id": "putting-plans-into-locomotion",
+  "wiki_path": "/wiki/Putting_Plans_into_Locomotion",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Putting Plans into Locomotion",
+  "level": "96",
+  "location": "Shaaloani(X:18.1,Y:14.2)",
+  "npc_start": "G'raha Tia",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "To use this train as an explosive is a brazen plan. We'll have but one attempt, so we had best make it count!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I hope Namikka is safe..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, we have our plan. Now let's finish this train and blast our way into the dome."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll make this plan work—see if we don't!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "While I have no objections to the plan itself, I have one concern."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "How can we be certain Zoraal Ja will not strike Tuliyollal in retaliation?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I considered the possibility."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But when my brother told me to come and prove myself, he meant it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He wants to show that his kingdom is superior to Tuliyollal, and it'll give him no satisfaction to attack when he knows I'm not there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, he'll be waiting inside the dome. Waiting for us to challenge him so he can crush us and prove his strength."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Indeed... If anything, we're more likely to put Tuliyollal in danger by not taking the fight to him."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So we indulge Zoraal Ja. At least, until Tuliyollal has shored up its defenses."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right. We'll charge in from the front and keep his eyes on us."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "During which time Koana will find a way to fortify Tuliyollal."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If you believe this is the best course, then we shall trust in your judgment."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I expect there will be no small amount of enemy resistance, but we will do all in our power to assist you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, time is of the essence. Let's go and see what's left to be done for the train."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone's hard at work on the train. I can't wait to see how it turns out."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Hmmm. Where to begin?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Shenza has given me a list of materials. We'll see to it they have everything they need!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's a shame Cid and his engineers aren't here to help. If they were here, I expect they'd turn it into a flying train."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Zoraal Ja's forces remain quiet for now. If there is any movement, I'll alert everyone immediately."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Looks like work is getting underway. We'll finish in no time at all!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So what can we do to help? No need to hold back!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "As I understand it, the two of you met your fair share of craftsmen during the rite of succession."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Would you happen to know a few who'd be willing to come and help us complete modifications to the train?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course! What sort of craftsmen did you have in mind?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Let's see now..."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Perhaps my greatest concern is keeping the train safe from enemy attacks."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Even with you all aboard to fend them off, it'd be over in an instant if they managed to get just one good hit on the ceruleum tanks."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "According to eyewitnesses, the soldiers use lightning-based weapons, so I've a mind to install grounding rods. Would you happen to know a carpenter who could handle that?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "A master carpenter from Ok'hanu, eh? If they'd be willing, we'd be glad to have them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No objections from me. Just be sure not to forget their traditional greeting..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, you mean Wuk Evu. While he has his quirks, there's no questioning his carpentry!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "A master carpenter from Ok'hanu, eh? If they'd be willing, we'd be glad to have them."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "But we'll need more than just a carpenter if we want this done in a timely fashion."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "We've got a lot of equipment that needs moving. Heavy equipment. I don't suppose you know anyone up to the task?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Fonjeantaine? That's...certainly a choice."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But I wouldn't exactly call him strong. For a task like this, I think we should ask someone like, say, Zurmurwur."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zurmurwur would be perfect! We'd be hard-pressed to find folks stronger than the Yok Huy, and I'm sure he'd be willing to help."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "You're friends with the Yok Huy? I'll be damned. We'll not want for strength with help like that."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Next, I'd like to outfit the train with some powerful weaponry of its own."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Like as not, the soldiers will be riding their flying vessels. We'll need countermeasures to deal with them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's true... I for one can't use magic, nor am I handy with a firearm like my brother."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Any ideas for ranged weapons we can use?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Guns, eh? While they'd be suitable in theory, it takes no ordinary marksman to hit a flying target."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "So it'd need to be something that doesn't require that level of skill and precision. But weapons aren't exactly my field of expertise..."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Ballistas, eh? While they'd be powerful, it seems to me it'd take too long to reload between shots."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "If there were some sort of ballista that could reload quickly, then that might work. But weapons aren't exactly my field of expertise..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Perhaps I can be of assistance."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The Crystarium employed aetheric cannons for its defenses, and I see no reason why the design cannot be adopted for your train."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "While I did not conceive them myself, I know their design. It should be possible to build them here, provided we have the requisite materials and skilled smiths."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now, that sounds like something Fonjeantaine can help with. What are the materials we need?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The barrel can be fashioned from any metal, so long as it's highly conductive to aether. To power the cannon, we will require fire-aspected crystals of the highest purity."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Fire crystals, eh? Might be as the miners over at the Springs can help with that."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Then if I could leave the crystals and smiths in everyone's hands, I shall get started drawing up the schematics."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Right then, I'll secure us the smiths."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "In the meantime, could you deal with the materials? Shenza is in charge of our supplies, so it might be good to talk to him about it first."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Well, I think we're set for a plan! Thanks for the consultation!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Now let's get this train dressed up, and give her the proper farewell she deserves!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hehe, the plan's coming together!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To make good speed, I'm going to try and enlist some more help from among our friends back in Yok Tural."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll leave the materials in your care. I think I saw Shenza over to the southeast."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "That should be enough lumber for the armor. What else do we need...?"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Oh! Sorry, I didn't see you there. What can I do for you?"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Aetheric cannons? Interesting. I have an idea where we can get the conductive metal, so I'll take care of it."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "I'm not sure about the fire crystals, though. Might be best if you spoke directly with a miner. Can I leave that to you?"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Great!"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "You're friends with Iyaate, aren't you? One of the best miners around. If anyone can get you the crystals you're after, it's her."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's a shame Cid and his engineers aren't here to help. If they were here, I expect they'd turn it into a flying train."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Shenza has given me a list of materials. We'll see to it they have everything they need!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Right. Time to put my knowledge gained in the First to use."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Iyaate is sure to get you all the fire crystals you'd ever want, and then some."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Oh, Forename . What brings you around these parts?"
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "The purest fire crystals, you say?"
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "I think I heard tell about them before, but what was that about...?"
+    }
+  ]
+}

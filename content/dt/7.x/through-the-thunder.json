@@ -1,0 +1,396 @@
+{
+  "id": "through-the-thunder",
+  "wiki_path": "/wiki/Through_the_Thunder",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
+  "patch": "7.4",
+  "title_en": "Through the Thunder",
+  "level": "100",
+  "location": "Tuliyollal(X:16.0,Y:14.5)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "For our many meetings and partings, we have few enough opportunities to properly say our farewells. 'Twas pleasant to take the time for it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though I delight in companionship, solo journeys too have their appeal. And travel by sea is relaxing..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "With Alisaie and Alphinaud spreading word of Alexandria, we shall soon have the chance to establish relations with other nations. I must make ready to treat with their leaders."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'm glad I got the chance to see him off. Cahciua would be glad, too."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If I may, I think it prudent to discuss our future plans elsewhere."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We are liable to hinder the dockworkers here if we linger."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Perhaps the beach would be a more appropriate venue."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "'Tis truly a beautiful place, Tural."
+    },
+    {
+      "character": "Shale",
+      "text_en": "An endless ocean and ever-changing sky..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "First time I saw them, I couldn't believe my eyes. It was like I was walking among images from our oldest records."
+    },
+    {
+      "character": "Shale",
+      "text_en": "And beyond that horizon are more lands and more people... Heh. That one, I still struggle to imagine."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We ourselves hail from “beyond that horizon,” in fact."
+    },
+    {
+      "character": "Krile",
+      "text_en": "...Rather, most of us do. I merely thought I did."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh, that's right... I can only imagine how it must've felt to learn you're a native of our world."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The fact that I wasn't born in the land where I've spent most of my life has...taken time to sink in."
+    },
+    {
+      "character": "Krile",
+      "text_en": "'Twas not until I met my parents in Living Memory that the truth of my origin began to feel real."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Your experience is not unlike mine. When first I awoke, the realm everyone spoke of sounded nothing like my own. I had to walk its streets─live and breathe it─before I could accept and embrace my new reality."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And for me to embrace mine, I need to learn more about my people, the Milalla."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We should come upon more information in the course of studying the key, but as Shale's investigation of the containment complex is still ongoing..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Would you mind if we sought a different avenue of inquiry into the history of the Ninth?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I have no objection. Aught we learn will deepen our understanding of the broader picture."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Agreed. My curiosity extends well beyond our duty to assess Ascian influence."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If it is knowledge of the Ninth's past you seek, I have an idea where to begin."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Alexandria was originally part of a landmass known as the Mist Continent."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This continent had been left in ruins in the wake of the Storm Surge, with Alexandria the sole nation to survive the devastation."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The calamity of lightning that ravaged the world..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Aye. Per the sources we recovered from the Underkeep, though the conflict between nations was destructive in its own right, 'twas levin that dealt the final blow."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No place was spared its fury, and all was chaos in the castle town. We tried to evacuate the people in airships─Otis, the knights, and I─but we couldn't save everyone..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Those who survived gathered within the barrier, and we took in as many foreign refugees as we could..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yet despite the dangerous environment, our systems showed that there were some few souls who ventured outside the barrier into the lands beyond."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Beyond!? But we thought that was impossible!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I was under the impression the star was scoured of life─that man could not survive outside the barrier..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Going by the records, the Storm Surge extended to every corner of the world. Nothing and nowhere was spared."
+    },
+    {
+      "character": "Shale",
+      "text_en": "If anyone did survive out there, it would have been an unimaginable trial."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And yet, those people must have been going somewhere... What if there was a refuge─a place that weathered the Storm Surge, and rebuilt over the intervening four centuries?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Given Alexandria's displacement to the Source, we had neither cause nor opportunity to survey the remainder of the continent."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Living Memory remains physically in the Ninth..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If we seek a means of egress other than the portal connecting it to Alexandria, perhaps it might lead us to the Mist Continent."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Living Memory was not transported here despite being “atop” Everkeep. In which case, it may have been a physically independent space all along."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Meaning another point of egress could well exist."
+    },
+    {
+      "character": "Shale",
+      "text_en": "And if it does, someone has to be maintaining it. The mechanical soldiers, for instance."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Shall we have a chat with them and see what they know?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "If it please Your Majesty!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Will you accompany us? If we do land upon the Mist Continent, I would feel much more assured with you at our side..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I thought as much! Into the great unknown we go, then."
+    },
+    {
+      "character": "Krile",
+      "text_en": "As would I. Let us make every effort to ensure none of us suffer such a dreadful fate."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, thank you kindly! I look forward to another adventure at your side."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Outside of Alexandria, our knowledge of the Ninth is limited to the Storm Surge and passing mentions of Lindblum."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That being the case, a foray across the Mist Continent would be an invaluable opportunity for discovery."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Between the Ascians, the key, and the Milalla, there is much to be learned. Surely we can turn up a clue to one mystery or another."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Once conditions deteriorate past a certain point, an environment becomes anathema to life. Yet man is a resilient creature."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If there is a way to survive, then he will surely find it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The mechanical soldiers won't hesitate to answer their queen. Let us hope they have useful information."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Now that's settled, I'd best be off. I still need to check for decryption errors periodically, so I can only step away for so long."
+    },
+    {
+      "character": "Shale",
+      "text_en": "With luck, I'll have plenty to share the next time we meet."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Until then!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let the rest of us make ready for a potential foray and meet at leynode mnemo."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The atmosphere is certainly less grim than when last I visited."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Though my mind knows better, I still feel uncomfortable around these mechanical soldiers..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Sphene has found us a suitable source of information, sparing you that duty for once."
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "Welcome to Living Memory, ally to Her Majesty! How may I help you?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This clerk has made itself available to answer our questions."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Clerk PX-0093, if one wished to descend to the surface from here, how would they typically do so?"
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "Living Memory is currently detached from Everkeep, and is operating independently while supported by its aerial suspension systems."
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "Thus, both lift- and leynode-based transit is currently unavailable. I apologize for the inconvenience."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Despite its ability to remain aloft, perhaps Living Memory was never intended to function in this state indefinitely. If so, we're out of luck..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Not necessarily. Lifts and leynodes were likely the preferred modes of transportation, but that does not preclude the existence of others."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In the event of an emergency, how would we evacuate this facility?"
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "Consulting emergency systems..."
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "Living Memory's airship remains prepared to deploy should evacuation be necessary. Would Your Majesty like to appropriate it?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "An airship!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, please. As soon as is possible."
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "With Your Majesty's authorization, the vessel can be readied for launch without delay. Allow me a moment to execute the bypass protocols."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As I thought. Now, what awaits us below, I wonder?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It never occurred to me that there might be an airship here. How fortuitous!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "With an airship, a large number of Alexandrians could be evacuated at once, regardless of the situation below. An excellent contingency."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Though I am nervous about what we might find below, I am glad we found the means to get there."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As queen, I must bear witness to the truth, however terrible."
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "Safety tests have been successfully completed. Setting the Gate of Remembrance as initial destination..."
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "Vessel is en route!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Is that... my ship?"
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "It was purpose-built for Living Memory. However, it was modeled after the vessel Your Majesty used during the Storm Surge era."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A replica... Still, it does me good to see it."
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "I will deploy the gangway for boarding. This way, please."
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "In order to reach the surface, we must pass through the storm clouds. I advise you to brace for turbulence!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The ward Alisaie gave me is reacting..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Though not to the extent of the Thirteenth, the aetheric imbalance here is severe indeed."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It does serve to impress upon one the marvel of the barrier."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The lightning in Heritage Found is tame by comparison."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A land where levin reigns..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The state of this reflection's aether is more dire than we anticipated."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I should be surprised if the Ascians had no hand in the war that wrought this."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The warding scale is truly a godssend for those of us without the blessing of Light. Remind me to send my profuse thanks to Vrtra and the Hannish alchemists once more."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That crater...was once Alexandria..."
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "If you would like to return to Living Memory, it will be my pleasure to run the launch protocols."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A sobering sight, to say the least. But I shan't turn back now that we've come this far."
+    }
+  ]
+}

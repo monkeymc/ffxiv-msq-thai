@@ -1,0 +1,400 @@
+{
+  "id": "a-day-in-the-life",
+  "wiki_path": "/wiki/A_Day_in_the_Life",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Day in the Life",
+  "level": "97",
+  "location": "Heritage Found(X:17.9,Y:10.6)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Touring farmlands with the queen of another nation is not how I expected to spend my day."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Rather than bore you with lengthy explanations, let us head back to the farm we passed earlier."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yyupye's Halo, it is called. We can speak with one of the farmers when we arrive."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...I guess we're off to Yyupye's Halo."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What do you suppose they keep inside this building?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Here we are. I'm sure you'll learn a great deal from the workers here."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Allow me to introduce you to Mahuwsa, one of the most experienced farmhands in all of Alexandria."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "She's well versed in myriad farming techniques. Indeed, the wealth of knowledge she has shared with the other farmers is what has allowed this place to flourish."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Queen Sphene! To what do I owe this sudden shower of praise?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My apologies for the interruption. I am come with guests from beyond the barrier."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "They wish to learn more of Alexandria, and so I invited them to see how our crops are grown. I do hope that's all right."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "So the rumors of visitors from the outside were true!"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "What manner of hosts would we be to deny them a look around—and I gather Your Majesty also intended to check on things here?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You know me too well, Mahuwsa. I thought to seize this opportunity to see how the farmers fare, and perhaps pepper them with a few questions. Though I do so enjoy observing and taking part in the work, too."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "'Twould appear we have her permission. So please, walk the grounds to your heart's content."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You go on ahead. I'll keep Sphene company."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't misunderstand—I'm not the suspicious type. But given our positions, it would make sense for us to go around together, wouldn't you say?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A fair point. But be sure not to let me out of your sight!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I shall remain under Wuk Lamat's watchful eye. Pray, come find us after you've seen your fill and spoken with the other farmhands."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "My duties here are quite varied despite being merely a farmer. We all have to do our part if we're to prosper."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's a shame Koana's not here to see all these bizarre contraptions."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Finished already, are we? If so, I should very much like to hear what you think of our facilities."
+    },
+    {
+      "character": "Elias",
+      "text_en": "Light levels appear to be fine. As for the power source..."
+    },
+    {
+      "character": "Elias",
+      "text_en": "Hm? You wish to know about my job?"
+    },
+    {
+      "character": "Elias",
+      "text_en": "I tend to the fields, mostly. Watering the crops, keeping the soil fertile, and so on."
+    },
+    {
+      "character": "Elias",
+      "text_en": "It admittedly took some time until I fully understood how best to carry out my duties."
+    },
+    {
+      "character": "Elias",
+      "text_en": "I also manage the lamps we use in the fields. We do our best to keep everything up to code, but should they ever start to malfunction, it's up to me to fix them."
+    },
+    {
+      "character": "Elias",
+      "text_en": "The land and sky being what they are, ensuring a rich harvest makes for constant work. But honestly, I enjoy how involved the process is."
+    },
+    {
+      "character": "Elias",
+      "text_en": "Both my parents being Alexandrian, I didn't grow up knowing much of anything about farming. Every day is an opportunity to learn and grow."
+    },
+    {
+      "character": "Elias",
+      "text_en": "If you should ever take an interest in farming, I'd be more than happy to teach you what I know."
+    },
+    {
+      "character": "Hhinek",
+      "text_en": "Oh, an unfamiliar face. I gather this is your first time on-site, then?"
+    },
+    {
+      "character": "Hhinek",
+      "text_en": "Well, this here's the storehouse. Or rather, the entrance. The real storehouse is underground, much more spacious, and equipped with a temperature regulation system to keep the harvest from spoiling."
+    },
+    {
+      "character": "Hhinek",
+      "text_en": "Since the entrance is so small, it's much easier to prevent wild beasts from wandering inside—which also makes it a viable facility for breeding and raising livestock. We've even got a few beds down there for emergencies."
+    },
+    {
+      "character": "Hhinek",
+      "text_en": "My parents often complain about how Alexandrian technology and electrope complicate our lives, but it's just a matter of learning how things work."
+    },
+    {
+      "character": "Hhinek",
+      "text_en": "Take my job, for instance. I'm presently overseeing the storage of harvested crops."
+    },
+    {
+      "character": "Hhinek",
+      "text_en": "They'll be taken up to the tower for processing, and from there find their way to every dining table in Alexandria. The work is hard, I'll not deny, but I take great satisfaction in what we do."
+    },
+    {
+      "character": "Hhinek",
+      "text_en": "I actually live up there. It's only for work that I come down to the outskirts."
+    },
+    {
+      "character": "Kipehwi",
+      "text_en": "They're saying that you and yours are visitors from beyond the barrier. That true?"
+    },
+    {
+      "character": "Kipehwi",
+      "text_en": "So it is! Which means we're connected to the outside world again."
+    },
+    {
+      "character": "Kipehwi",
+      "text_en": "Not that I have a desire to leave, mind you. I'm quite content with life here in Alexandria."
+    },
+    {
+      "character": "Kipehwi",
+      "text_en": "But setting that aside, you're here to observe our work, right? As you can see, I'm in charge of livestock."
+    },
+    {
+      "character": "Kipehwi",
+      "text_en": "Here at Yyupye's Halo, we produce not only fruits and vegetables, but also meat, poultry, and eggs."
+    },
+    {
+      "character": "Kipehwi",
+      "text_en": "Tending the animals is an absolute joy, but I have to be careful not to grow attached. It's always a little sad when they're shipped off, but a job is a job."
+    },
+    {
+      "character": "Kipehwi",
+      "text_en": "Well, I need to get back to it, but it was nice talking to you. Please give my regards to the queen!"
+    },
+    {
+      "character": "Kipehwi",
+      "text_en": "Perhaps later you could tell me more of what the world is like beyond the barrier."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I see. Don't be too hard on yourself. Anyone would have been hard-pressed to deal with such a thing."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh, welcome back. My apologies for failing to notice your return."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I gather you've had your fill of speaking with the farmers? Then let us return to Mahuwsa."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Well? What are your impressions of the farm?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh, that's comforting to hear."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Your words serve to affirm that my people do not work with undue strain."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A curious observation. Do you not love your own work?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh, but I jest. It's true that the people of the outskirts seem the most fulfilled. Always, they take to their duties with good cheer."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So it was the electrope that caught your eye. That's only natural, I suppose, if you come from a place without it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Still, you only seem mildly impressed. This leads me to believe you have experience with even more marvelous technology. I'd love to hear your tales one day!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And what did you think of our little tour, Lamaty'i?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wh-What did you call me?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Was that inappropriate? My apologies. I heard the others call you by that name, and I thought..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No. No, it's fine. As you said before, we've no need for titles and formalities."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As for my thoughts, I was very impressed. That machines could be used to overcome so harsh an environment is amazing. I've never seen anything like it."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "The feeling is understandable. Indeed, many still find the machinery behind me baffling."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "It's a system that controls the distribution of water for the fields and livestock. It's been acting up lately, though..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Acting up, you say?"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "You needn't worry, my queen. It happens fairly often. Put simply, it's taken in water that had a strong lightning charge."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "We think some creatures have become charged up with the energy, and they're releasing it into the river we use as a source."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "The system would return to normal if the creatures were dealt with. But I'm reluctant to beg it of the army..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We could take care of it if you'd like."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That is most gracious of you to offer, but it is much too dangerous."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, it's no trouble for the Vow of Resolve of Tuliyollal!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Regardless of how the relationship between our nations may develop, if there are people in need, I want to help. Simple as that."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And Forename is even stronger than I am. It shouldn't take us long at all."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Then very well, I gratefully accept. But please take all care."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This ought to go even faster if you and I search for lightning-charged fiends on our own. Good hunting!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I do not doubt your strength, but please be careful."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Sorry for dragging you into our troubles. If it seems too dangerous, don't hesitate to retreat."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Wow, you really are strong!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, you're both all right, thank goodness!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You really needn't have worried so much. We barely broke a sweat dealing with the fiends. They're all gone now."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Of course I was worried! You're my dear guests!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But thank you. We truly appreciate this."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Indeed! With this, we won't have to ask Zoraal Ja's machines for help."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "He's been making a concerted effort to bolster his forces, sparing but a fraction for the people's protection."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "He thinks nothing of our safety. Unlike Queen Sphene..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Th-That's enough, Mahuwsa. If you have grievances, I will hear them later. But to speak of the king now..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, she's right. He's never been one to look after his people."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Anyway, thanks for letting us tour the farm. The folk here are delightful, and it was a pleasure to meet them."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You couldn't have favored us with more uplifting words. My people are my pride and joy."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "And you never fail to let us know—nor how much you care."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Of course! You're my precious family, all of you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You seem a good sort, Sphene. That I'll admit."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But you'll forgive me if I'm not ready to lower my guard for the enemy queen just yet."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Ahahaha! For you to be called that, I dread to imagine what villainy Your Majesty has committed!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Come now, this is no laughing matter."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A ruler is responsible for the welfare of countless lives, and one wrong decision can lead to untold suffering. Failure is unconscionable..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Now, I believe we are done with the farm. Let's move on, shall we?"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "My apologies for laughing earlier. Your friend painted an image so far removed from the Sphene we know, I couldn't help myself."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja, you bastard..."
+    }
+  ]
+}

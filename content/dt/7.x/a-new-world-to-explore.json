@@ -1,0 +1,660 @@
+{
+  "id": "a-new-world-to-explore",
+  "wiki_path": "/wiki/A_New_World_to_Explore",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/8/86/A_New_World_to_Explore.png",
+  "patch": "7.0",
+  "title_en": "A New World to Explore",
+  "level": "90",
+  "location": "Old Sharlayan(X:9.2,Y:11.2)",
+  "npc_start": "Ojika Tsunjika",
+  "dialogues": [
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Welcome back, Forename ! I've just had word from Erenville."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "It seems he's managed to secure passage to Tural aboard a guildship vessel."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Why don't you wait in the main hall while I go and inform your travel companions? It should only take a moment."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Your next grand adventure begins, eh?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ojika gave us the good news. We've made ready to set sail at a moment's notice."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The only one yet to arrive is Erenville himself..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ah, you're all here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It took some persuasion, but the gleaners' guildship has granted us places aboard a vessel bound for Tural."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There'll be other passengers─researchers and artisans and the like─so we'll need to share deck space."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That's fine, Erenville. I doubt anyone expected we'd have a ship all to ourselves."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They're not casting off just yet, so if you have any lingering concerns, now is the time to voice them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I wouldn't call it a concern, but everyone's still clear on what it is we'll be doing in Tural, yes?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We've not forgotten."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The nation of Tuliyollal is in the midst of deciding its next ruler."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As your chosen allies, we shall assist you during the rite of succession, and support your bid to become Dawnservant."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "In addition to that, Alphinaud and I have another objective."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As part of its reconstruction, Garlemald seeks ways to reconcile and reengage with its neighbors."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "By visiting Tural, we hope to learn more about how its myriad cultures interact with one another. How they find common ground, develop stronger ties─the sort of insights that might help our friends in Ilsabard."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But we'll pursue this goal in our own time. You can be assured that we'll give the contest all due attention."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's all I ask. Otherwise, you're welcome to do as you like."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You wanted to find out about your grandfather, right, Krile?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yes. As far as we could determine from the old missive I found, he had been tasked with investigating the golden city by your father, the Dawnservant."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yet oddly enough, we have no record of that investigation in our archives, and nothing to explain the earring which accompanied the letter."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thus for reasons both official and personal, I should very much like to get to the bottom of this mystery."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sure there'll be a chance to speak with Papa. You can get your answers right from the source!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I look forward to meeting him."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In any case, you're not the only one with an interest in the city of gold."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The golden city is a children's bedtime story. I am part of this expedition only because the Third Promise has commanded that I serve as guide."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Still playing the part of the stoic servant, I see."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What of you? Don't you dare tell me you've changed your mind!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well said! We won't get far wallowing in the shallows!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hah! A man / woman of action!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, that's what they tell me."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Right, then. If all are still committed to the journey, then I say we make ready to depart."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Eager as they are, the others have already left for the harbor."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We're not in danger of missing the boarding call, but perhaps we should be on our way as well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Savoring the moment? I can feel your excitement...your eagerness to explore the unknown!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, for once the fate of the world doesn't rest on our shoulders. We might even get a chance to enjoy ourselves!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Do not be so quick to relax."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Though Tural may seem but a short sail away on a map, the vast seas between brim with peril. The treacherous waters of Shades' Triangle alone have claimed countless vessels."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Even following the “safe” route plotted by Admiral Bloefhiswyn herself, this will be no pleasure cruise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Perhaps, but my voyage here was uneventful enough. Disappointingly so!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Either way, the two of you have firsthand experience!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Which will be of great comfort in the days ahead, I'm sure."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Aye, it's nothing new to us!"
+    },
+    {
+      "character": "Sprightly Sailor",
+      "text_en": "All aboard! We're castin' off!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's time. I trust you have everything you need."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "And so does our ship cast off from the docks."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "We sail west, as Ketenramm did some eighty years past, bound for the “New World”─known to her children as the continent of Tural."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just wait, Papa! When this contest is said and done, it'll be your daughter who sits the throne... Me, Wuk Lamat!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Smooth sailing so far?"
+    },
+    {
+      "character": "Sprightly Sailor",
+      "text_en": "Aye, so far, so good."
+    },
+    {
+      "character": "Sprightly Sailor",
+      "text_en": "But this sea, she's a fickle one. Calm one moment, blowin' a gale the next."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll take my rest while I can, then."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We left port what seems an age ago now, and we've seen naught but open water ahead. I knew Tural was far, but it's another thing to really know."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Speaking of which, some of our fellow passengers have made this trip before─several times in fact. I was able to learn a few things about Tuliyollal and the rite of succession."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Since we still have a long way to go─why not have a chat with them yourself? I'm sure you have questions of your own."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Did you look out across these same waters, Grandfather...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Have you spoken with our shipmates? Tural is still a good distance away, and it might be a pleasant way to pass the time."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Deep breaths... Deep breaths..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I can feel my edge start to dull on these long sea voyages. How about some light sparring later?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I'm told this vessel has been equipped with a barrier generator to protect it from storms."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A reassuring thought─though I nevertheless pray there will be no need for it..."
+    },
+    {
+      "character": "Lalafellin Gleaner",
+      "text_en": "I'd heard Erenville was looking for passage to Tuliyollal, so I managed to squeeze his party aboard one of our chartered vessels. As fortune would have it, we had just scheduled an expedition to Tural."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Hm? Oh, this will be my first visit to Tural."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Fonjeantaine's the name. I was working at Eshtaime's Aesthetics in Ul'dah, you see, but my employment with them, uh...came to an end."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "That's why I visited Sharlayan, in the hopes of starting over. While I was attempting─and failing─to find a new job, I seized the chance to board this vessel when I overheard room for another passenger had suddenly opened up."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I'm told the Dawnservant welcomes all regardless of origin, and so Tuliyollal seemed like the perfect place to begin anew."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "<sigh> Hopefully things will be better this time..."
+    },
+    {
+      "character": "Swarthy Sailor",
+      "text_en": "Did you want to make a wager? We're taking bets on who'll be sat next in the Dawnservant's shiny chair."
+    },
+    {
+      "character": "Swarthy Sailor",
+      "text_en": "There are four claimants in the rite of succession─your young Wuk Lamat being one of them, of course."
+    },
+    {
+      "character": "Swarthy Sailor",
+      "text_en": "But from what a Mamool Ja bloke was telling us, the other three are all strong contenders. Not too many keen to risk their coin on the Third Promise."
+    },
+    {
+      "character": "Burly Adventurer",
+      "text_en": "My story? Well, since you asked, I wanted to retrace the historic journey of the great Ketenramm. You know─the first Eorzean to set foot on Tural, almost eighty years ago."
+    },
+    {
+      "character": "Burly Adventurer",
+      "text_en": "The Mamool Ja's leader is said to have welcomed Ketenramm with open arms, and sent him home with a bounty of silverware as a token of their friendship."
+    },
+    {
+      "character": "Burly Adventurer",
+      "text_en": "But the real treasure was the crops he brought back─popotoes, tomatoes, and corn─which spread across Eorzea like wildfire. His grand adventure led to a culinary revolution!"
+    },
+    {
+      "character": "Burly Adventurer",
+      "text_en": "The tales say Ketenramm returned to Tural several times after that, but his ship vanished during his last recorded voyage, and he was never heard from again. That even a seasoned explorer like him could meet such an end is testimony to the ocean's peril..."
+    },
+    {
+      "character": "Self-Assured Trader",
+      "text_en": "An adventurer, I presume?"
+    },
+    {
+      "character": "Self-Assured Trader",
+      "text_en": "I'm a merchant myself, based in Ul'dah. Specialty imports and exports, Eorzean and Turali both."
+    },
+    {
+      "character": "Self-Assured Trader",
+      "text_en": "If this is your first “crossing the salt,” as they say, do remember that the social mores of Eorzea are not necessarily the same as those over yonder."
+    },
+    {
+      "character": "Self-Assured Trader",
+      "text_en": "Consider this: it is not uncommon for the various races to be referred to instead by the names of certain clans. For the Miqo'te, the Hhetsarro; the Hrothgar, the Xbr'aal. Not because every member of a given clan is of the same race, mind, but because many individuals of said race are associated with that clan. A fair assumption, in certain cases─but take care not to give offense."
+    },
+    {
+      "character": "Retired Mercenary",
+      "text_en": "I see you in Eorzea before. You great and famous hero."
+    },
+    {
+      "character": "Retired Mercenary",
+      "text_en": "...Gah, I've had enough of playing the simpleton. There was a time when we took great pains to maintain the deception, but with more of you Eorzeans coming to Tural, it's become impractical."
+    },
+    {
+      "character": "Retired Mercenary",
+      "text_en": "Besides, my mercenary days are over. Too many of our warband have fallen, and so we head home to lick our wounds..."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I wonder what the city will be like..."
+    },
+    {
+      "character": "Swarthy Sailor",
+      "text_en": "Wait, I recognize you─you're the champion of Eorzea! If the Third Promise has you on her side, then that shifts the odds a fair bit! I might have to change my bet..."
+    },
+    {
+      "character": "Burly Adventurer",
+      "text_en": "Some parts of Tural are said to be so remote that not even Ketenramm made it to them. If I could explore those places, then perhaps I'll become even more famous than him!"
+    },
+    {
+      "character": "Self-Assured Trader",
+      "text_en": "The goods I'm bringing over on this trip are a rare sight to the Turali, so I expect to make a decent profit. The local merchants are an agreeable folk."
+    },
+    {
+      "character": "Retired Mercenary",
+      "text_en": "I look forward to a long soak in the hot springs of Urqopacha. And no complaints when I dance the bathing dance."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Did you learn anything of interest?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh! I hadn't heard that about the clan names. We should have Wuk Lamat and Erenville teach us the ones we should know."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Actually, it's getting a little chilly up here on deck. Let's all gather in the cabin."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We're in for a proper storm, it seems."
+    },
+    {
+      "character": "Krile",
+      "text_en": "How's your stomach? Any better?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't know...what you mean. I don't get seasick."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm just feeling...a little nauseous, is all..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Isn't that what seasickness is...?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Erenville, you were born in Tural, yes? Do many Viera live there?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Shetona, as my people are called, have settlements mainly in the north, in Xak Tural."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And your family?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I know nothing of my father─not even his name."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As for my mother..."
+    },
+    {
+      "character": "Alarmed Sailor",
+      "text_en": "We're in the teeth of it now, lads! Reef that sail afore the mast snaps!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh dear..."
+    },
+    {
+      "character": "Distressed Sailor",
+      "text_en": "Who the hells was on watch!? This wind's too strong to take in the sai─aaargh!"
+    },
+    {
+      "character": "Panicked Sailor",
+      "text_en": "Man fallen off the mast! We need help!"
+    },
+    {
+      "character": "Alarmed Sailor",
+      "text_en": "Get him belowdecks first!"
+    },
+    {
+      "character": "Panicked Sailor",
+      "text_en": "Quickly, before he's washed overboard!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Come, we should lend what aid we can."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "I have not seen the ocean rage with such fury before or since."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "The heaving waves tossed our ship about like a toy, sending sailors tumbling..."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "The dauntless Alisaie, quick to the rescue, was almost lost to the sea herself."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Meanwhile, our champion rushed to deploy the vessel's magical defenses, and thereby shield us from the lightning."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "What an extraordinary life shehe must lead to be able to operate such a device with practiced ease."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Wuk Lamat, too, threw herself into the rescue efforts, though one might have mistaken her for another soul in distress."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "By the time the unruly seas had calmed, our strength was all but spent, and we had yet to even glimpse the shores of Tural."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "In retrospect, of course, that battle against the storm would prove a fitting prelude to the coming contest for the throne."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Morning. Joining us for some fresh air?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seems my belly has settled along with the weather, but I'll feel much better once we're on solid ground."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh, can't be much farther now...can it?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Seabirds."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Land must be near. You need only hold out a while longer."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "For a dark moment, I thought the ocean might swallow us. Glad to have my pessimism proven wrong."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In other good news, I examined the sailor who took a fall, and he's faring well. I'm sure he'll make a full recovery."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Good news indeed. If all's well, then we needn't delay in launching the landing boat."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ships have to lower anchor some way from shore. Too close, and they risk having their underbellies ripped open by the reefs that crowd Tuliyollal's coasts. Come."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thanks for bringing us all this way!"
+    },
+    {
+      "character": "Sprightly Sailor",
+      "text_en": "Hah, we only did what we were paid to do! Couldn't hardly set ye adrift halfway!"
+    },
+    {
+      "character": "Sprightly Sailor",
+      "text_en": "If anythin', it should be us thankin' you for helpin' us through that beast of a storm!"
+    },
+    {
+      "character": "Sprightly Sailor",
+      "text_en": "As a matter o' fact, everyone's startin' to fancy yer chances in the contest. At this rate, we won't be able to lay wagers no more!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then I'd better not let you down!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ulp... Easy, stomach. Easy."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We're the last to board. If there's nothing left to say, then let's shove off, shall we?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ahh! Blue seas, clear skies, and boundless possibilities... I daresay our destination will soon be in sight."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Enjoying yourself for a change?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There, look my friends! Behold the scene of our next great adventure!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "At last, we are come to the land you call the “New World.” To my home, Tural!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Gods... I've seen cities with an impressive mix of cultures, but this is something else!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Is that a...? No. I've never seen Vanu feathers in that color before."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You'll find much here you never knew existed! There may be a sea route now, but visitors to Tuliyollal are still few and far between."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And as we don't build seafaring ships, only a handful of Turali ever venture abroad."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Mamool Ja sellswords, mostly. Those willing to play the fool sail with Lominsan merchants to secure employment in Eorzea."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I suppose that makes us a rare sight in your country."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Rare and currently undocumented. Were there some forms we should fill out, or...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Forms? Did you forget who you're traveling with?"
+    },
+    {
+      "character": "Xbr'aal Landsguard",
+      "text_en": "You are outsiders? Visitors to Tural?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We are."
+    },
+    {
+      "character": "Mamool Ja Landsguard",
+      "text_en": "Our nation is soon to hold a rite of succession to choose its next Dawnservant."
+    },
+    {
+      "character": "Mamool Ja Landsguard",
+      "text_en": "We will not abide interference from foreign agents seeking to foment trouble. What brings you to Tuliyollal?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can answer that. These fine people are allies in my succession bid."
+    },
+    {
+      "character": "Mamool Ja Landsguard",
+      "text_en": "Th-Third Promise! If you vouch for them, then all is well, of course!"
+    },
+    {
+      "character": "Xbr'aal Landsguard",
+      "text_en": "Please accept our apologies!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No need to bow and scrape! That our soldiers are so diligent in their duties fills me with pride."
+    },
+    {
+      "character": "Xbr'aal Landsguard",
+      "text_en": "We'll be continuing our patrol, then!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, well. You really are a figure of authority here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are you suggesting I don't look the part!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Anyway, first things first..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I bid you welcome to Tuliyollal!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ahhh, it's so nice to feel that familiar breeze again... I wasn't sure my stomach would make it."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I wonder what kind of trouble those soldiers are expecting?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "According to Erenville, the Vanu I thought I saw belongs to a clan known as the Hanuhanu. It seems they share more than a physical resemblance."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What an amazing city─as lively as Ul'dah, and even more colorful..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Well, despite the storm's efforts to the contrary, here we are. Safe and sound."
+    }
+  ]
+}

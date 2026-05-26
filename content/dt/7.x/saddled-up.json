@@ -1,0 +1,456 @@
+{
+  "id": "saddled-up",
+  "wiki_path": "/wiki/Saddled_Up",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Saddled Up",
+  "level": "95",
+  "location": "Shaaloani(X:28.3,Y:30.4)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "Won't take long, rest assured. Keep an eye out for a man in Hhusatahwi with two rroneek."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I should like to think the stableman has arrived with the rroneek by now..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll go on ahead to check. If you still want to have a look around, then be my guest. Come and find us when you've had your fill."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Now that I think on it, this is the first time I've traveled with only a single companion. It makes for fewer complications."
+    },
+    {
+      "character": "Good-natured Stableman",
+      "text_en": "The friend, I take it? Sorry to have kept you both waitin'."
+    },
+    {
+      "character": "Good-natured Stableman",
+      "text_en": "Unruly wildlife's not the only source of recent distress, I'm afraid. Also been a rise in robberies targetin' merchants. As a result, we've got a lengthy list of folks wantin' to use our rroneek."
+    },
+    {
+      "character": "Good-natured Stableman",
+      "text_en": "Which is why I have to ask that you stop at Sheshenewezi Springs."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That's fine, of course, but why haven't the Dustwatch dealt with this banditry?"
+    },
+    {
+      "character": "Good-natured Stableman",
+      "text_en": "Kemakka and his fellows are doin' what they can, but they reckon the bandits are operatin' as a gang. Roundin' 'em all up's easier said than done."
+    },
+    {
+      "character": "Good-natured Stableman",
+      "text_en": "If you have anythin' of value, you'll want to take care."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Thank you for the warning. We'll be sure to stay vigilant."
+    },
+    {
+      "character": "Good-natured Stableman",
+      "text_en": "Right, then. If you're ready to set off, I'll see you on your way."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This is your first time riding, yes? Even so, I can't imagine it will prove difficult for you."
+    },
+    {
+      "character": "Good-natured Stableman",
+      "text_en": "Ready? Then saddle up. Your friend seems to know the way, so I won't bother givin' you directions."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This is your first time, so let's take it slow. Take care not to let it toss you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I continue to be struck by how much Shaaloani has changed."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That town we just visited wasn't even here several years ago..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "With few reliable opportunities to replenish water supplies, travelers turned to nopalitenders."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Not just for the water in their stems, mind. Their fruits are also said to be both nutritious and delicious."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "See that hole there? Some might hope to find water there, but it is brimming with ceruleum."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The eruption of flames from within make for a spectacle, inspiring cautionary tales of people who wandered too close."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Whalaqee, meanwhile, show great reverence to ceruleum and its blue flames..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...But that is a discussion for another time. We're here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A good thing for these rroneek."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No sooner did we dismount than the next passengers are already on their way. They really are short on rroneek."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Now, then..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This is Sheshenewezi Springs, perhaps the busiest town here in Shaaloani. People travel here from all over hoping to find their fortune."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The change come to Hhusatahwi was surprising enough, but this is no less impressive. They've achieved a great deal in the three years I've been away."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The station is on the eastern side of town, but there should still be time before the next train departs."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If you don't mind, I'd like to pay visit to an old friend of my mentor."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Iyaate is her name, and if she learned that I passed through without saying a word, she'd never let me hear the end of it."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "She set out from our village some ten years ago, hoping to earn coin as she traveled about Tural. I can but assume she too came here seeking greater opportunities."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "In any case, let us see if we can find her. Her blue hair should make her easy to spot."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Hm? Yes, I'm Iyaate. And who might you be?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "He / She is my friend."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Could it be...? Goodness, it is!"
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Elene─"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Erenville , yes."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "A man grown. You were such a darling little thing as a child."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You know, it's only been three years since last we spoke."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Really? Only three? I suppose it all starts to get hazy after a while, living as long as we do."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Well, this is Iyaate. She's known my mentor since they were children."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Nice to meet you."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Never thought I'd see the day when you travel with company. You really have grown, Elene'shpya!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Alright, alright... I was born Elene'shpya, I adopted a new name when I became a gleaner-one that adheres to eastern Viera conventions-so as to avoid drawing attention."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Given that this is a homecoming, it was only a matter of time before you found out. Nevertheless, I would appreciate it if you would continue using my chosen name."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "A homecoming? You know, I've been thinking of paying the old stamping grounds a visit myself. It would be good to see Cahciua again."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "She's the finest archer I know, Elene'shpya's mother and mentor. Every time I dropped by, she'd treat us to a veritable feast prepared with fresh game she'd hunted herself."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You're impressive with the bow too, Iyaate. Even among the Shetona."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Oh, I couldn't compare to Cahciua. But her skill at arms pales in comparison to her knowledge of nature."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "That's what earned her a place among Gulool Ja Ja's traveling companions, after all."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "She was always the inquisitive sort, but her journey across Tural lit a fire in her."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Even after Elene'shpya was born, she often left him in my care so that she could embark on another expedition in search of the unknown."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Oh, how you would cry and beg her to take you along. It must've been hard on you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Iyaate, please!"
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "What? We're all friends here, aren't we?"
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "No matter how many times he asked, the answer was always the same. “You can come when you prove you're a true explorer.”"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Thus did she task me with finding the golden city."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Despite my best efforts, all paths led nowhere. I assumed it was but a dreamer's fancy, a ploy to goad me into experiencing the wider world."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But it was real. And we found it."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "You found it!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As part of the rite of succession. I assumed everyone had heard."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "That's amazing! Oh, she'll be thrilled."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "And eager to bombard me with questions, no doubt."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Well, we should be on our way."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Thank you so much for stopping by. Give my best to Cahciua."
+    },
+    {
+      "character": "???",
+      "text_en": "Help! I need help!"
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "What's that about?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We'll investigate. Please wait here."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Both of you be careful out there."
+    },
+    {
+      "character": "Hhetsarro Bandit (text bubble)",
+      "text_en": "What do you want?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No doubt these are the infamous local bandits."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Please, you have to help! I've been robbed!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's Namikka, Wuk Lamat's nursemaid!"
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Erenville! Forename !"
+    },
+    {
+      "character": "Hhetsarro Bandit",
+      "text_en": "Come any closer and we'll slit her throat from ear to ear!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If you so much as nick her skin, you won't live to regret it."
+    },
+    {
+      "character": "Hhetsarro Bandit",
+      "text_en": "Oh yeah!?"
+    },
+    {
+      "character": "Tonawawtan Bandit",
+      "text_en": "Hold on. Did he say this is Wuk Lamat 's nursemaid? Maybe this ain't such a good idea..."
+    },
+    {
+      "character": "Hhetsarro Bandit",
+      "text_en": "Take the goods to the boss. We'll deal with this."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Please, you have to give it back!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm going after Namikka. This lot I leave to you."
+    },
+    {
+      "character": "Tonawawtan Bandit",
+      "text_en": "Cocky bastard! I'll hang 'im by the ears and feed the old woman to the dogs!"
+    },
+    {
+      "character": "Hhetsarro Bandit",
+      "text_en": "We can deal with them later. First, we need to put this one in the dirt."
+    },
+    {
+      "character": "Tonawawtan Bandit (text bubble)",
+      "text_en": "Hand over your money!"
+    },
+    {
+      "character": "Hhetsarro Bandit (text bubble)",
+      "text_en": "I'll pump you full of lead!"
+    },
+    {
+      "character": "Tonawawtan Bandit (text bubble)",
+      "text_en": "Ugh... We're dead if the boss finds out..."
+    },
+    {
+      "character": "Hhetsarro Bandit (text bubble)",
+      "text_en": "Damn it all. He / She doesn't know when to quit."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No need to worry. She's fine."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Thank you. I don't know what I would've done without you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The bandit managed to get away, but I have an idea of where they're headed."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You said they stole something from you?"
+    },
+    {
+      "character": "Namikka",
+      "text_en": "A bracelet. It was a parting gift from Wuk Lamat."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I see... Close as you two were, I can only imagine how much it meant to you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But what brings you all this way?"
+    },
+    {
+      "character": "Namikka",
+      "text_en": "With the rite of succession ended, and Wuk Lamat crowned the next Dawnservant, she is ready to stand on her own."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "I told her as much, and of my plans to return home to Yyasulani. She gave me the bracelet that I might always remember our time together."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "It filled me with such joy, I wanted everyone to know─everyone to see this wonderful gift given to me by the Vow of Resolve... And now it's gone."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "I would've let them take every coin to my name, if only they had left me that bracelet."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I would ask what you intend to do, but I know that look."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Please, you mustn't put yourself in harm's way for my sake."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I can assure you, no harm will come to us. Forename will make certain of that."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I understand your methods can be brutal, but it would be wise to show some restraint, lest you find yourself on the wrong side of the law. Perhaps I should come as well, to be sure all proceeds as it should."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "I don't know what to say... I can see why Wuk Lamat puts so much faith in you both."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Before anything else, let's see her back to Sheshenewezi Springs. She'll be safer in town, and with Iyaate there to keep an eye on her, we should have nothing to worry about."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Thank you. Both of you."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "I'm so sorry. I didn't mean for you to get involved in this."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A number of Iyaate's mining fellows are here as well. Namikka is in good hands."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Erenville told me what happened, and you needn't worry about Namikka. If those bandits should find us, I'll kick up a fuss and see them driven off."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "That bracelet meant everything to her, and those bastards wouldn't care even if they knew. Makes me sick."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "But at least she's safe, and I know you'll set things right."
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "id": "a-father-s-grief",
+  "wiki_path": "/wiki/A_Father%27s_Grief",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Father's Grief",
+  "level": "94",
+  "location": "Yak T'el(X:11.0,Y:13.0)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "Now, we must hasten to the next feat. Though I find myself a touch reluctant to do so, given Mablu's parting words..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "One final feat remains. After this one, I hardly know what to expect."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Feat of the Brotherhood, here we come!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We need to start considering how to reclaim that keystone from Bakool Ja Ja..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Seeing as we now face the penultimate objective of the rite, it would be wise to travel to Mamook and undertake the Feat of the Brotherhood without delay."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Wise, yes, but impossible. The Ty'iinbek Traverse, which connects the upper forest to the Ja Tiika Heartland, is still impassable."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is there no other route?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm afraid not. Work to clear the path is underway, though, so I'm hopeful we can resume our journey soon."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then let us each use this time as we see fit."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I, for one, would like to explore the village's surrounds─if Erenville would oblige me with a tour?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Very well. I have no other engagements."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then I will come with you─if only to prove that I am capable of keeping my footing."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Though I shouldn't rejoice in our delay, it does afford me an opportunity to look into my grandfather's purported visit to Yak T'el."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, that's right! Mablu did say something about a foreign mage coming through here decades back, didn't she? I'll come with you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Want to join us, Forename ?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let us reconvene here after our respective diversions."
+    },
+    {
+      "character": "Krile",
+      "text_en": "As I recall, the merchant met my grandfather at a market in Yak T'el some twenty years ago."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Any who might reliably remember him must therefore be at least middle-aged. Let us make inquiries where we can."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This fellow looks promising! Definitely older than I am."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I hope someone in Iq Br'aax knows something..."
+    },
+    {
+      "character": "Grizzled Villager",
+      "text_en": "A foreign mage, twenty years ago?"
+    },
+    {
+      "character": "Grizzled Villager",
+      "text_en": "Yes, I remember him. It's not often we get visitors from across the salt, let alone those traveling with infants. A baby girl, as I recall."
+    },
+    {
+      "character": "Grizzled Villager",
+      "text_en": "I only saw him in passing, mind─if anyone were to know more, I'd wager it would be Hunmu Rruk. He was already Xbr'aax Rax then."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A baby girl? It couldn't have been..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Th-Thank you, sir! That information is very helpful."
+    },
+    {
+      "character": "Grizzled Villager",
+      "text_en": "If you want to know more about that mage, I'd suggest speaking with Hunmu Rruk. He's sure to remember him."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So Hunmu Rruk has been Xbr'aax Rax for over twenty years... That's before I was even born!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This may be the very lead I was hoping for!"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Hello again. Do you require assistance?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A foreign mage passed through Iq Br'aax roughly twenty years ago, possibly carrying a young child. Do you remember him?"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Why do you ask me this? Who is this man to you?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "He may have been my grandfather, and I wish to know what brought him here."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Your grandfather?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not by blood, but he is family nonetheless."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "A foreign mage did indeed visit Iq Br'aax. Master Galuf."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "So far as his identity is concerned, I trust you are satisfied?"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "More than that, however, I cannot say."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Why not?"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I simply cannot. I beg your forgiveness and understanding."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Very well, I will not press. Thank you for confirming his presence here─the rest I will discover myself."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Out of more general curiosity, I have another question. They say the Yok Huy once dwelled in these forests. Where was that, exactly?"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "General curiosity, indeed... But yes. Before they withdrew to Urqopacha some five centuries ago, the Yok Huy claimed Yak T'el as their own."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Many of their architectural remains can be found in the lower forests─the Ja Tiika Heartland."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then that's where they must have had their visions..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you. That answers much and more."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I understand what it means to long for one's family. So believe me when I say that, though my position forbids me from aiding you further, I wish you nothing but success."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "By helping the Third Promise find the golden city, you will surely find the answers to your questions."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Speaking of which, I have a query of my own for you, Forename ."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "May I request a moment of your company?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Go on. We'll wait for you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Go on and see what Hunmu Rruk needs."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So in order to get my answers, I need to find the golden city..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, that was my intent from the first. I'll do everything in my power to make it happen!"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Thank you for obliging me."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "First, let us head to the cenote behind this village."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "It was my intention to see you off without saying anything, but Mistress Krile's plea has softened my resolve..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "As the leader of our community, I am gladdened to see that the Third Promise has surrounded herself with such compassionate and trustworthy companions."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Would you tell me of her journey thus far?"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Is that so... It seems the rite has been a source of great learning and growth for Wuk Lamat."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "It does me well to hear that."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "...My daughter would be about her age."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Girls are rarely born amongst the Xbr'aal. So when she arrived, the village was elated. Such joy I felt when first I held her...and pain when I found her at the bottom of a cenote."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Three years old. An accident, it was said. But I knew better."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "She had been pushed."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Though we never caught them, a suspicious figure was seen fleeing towards the Ja Tiika Heartland. Towards Mamook."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Once bitter enemies, the Mamool Ja and Xbr'aal had learned to live in peace..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "But who could doubt the intent of such a reprehensible act? By targeting the child who would one day lead her people, the criminal sought to undermine the future of the Xbr'aal."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I was determined not to let them succeed. And so I let the memory of my daughter die in that cenote, and gave her into the care of the one person I knew who could protect her."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "...Dawnservant Gulool Ja Ja."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Though she was born to lead the Xbr'aal, fate had a greater plan for Wuk Lamat."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Only the Dawnservant and I know the truth. But I must now take you into my confidence for one reason."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "If the villain who attempted to murder my daughter was indeed of Mamook, then rancor towards the Xbr'aal still burns."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I was caught off guard once. I will not suffer the same tragedy again."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "And so I ask you, not as the Dawnservant's elector but as a father, to watch over the Third Promise. Defend her from her enemies that may be lurking in shadow. Will you do this for me?"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Thank you. From the bottom of my heart."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Will you hear my question and answer me plainly? Address me not as the ruler of Tuliyollal, but a concerned father."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Suffice it to say, this conversation must remain between us. Pray breathe not a word of this to anyone."
+    }
+  ]
+}

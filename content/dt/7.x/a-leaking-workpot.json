@@ -1,0 +1,236 @@
+{
+  "id": "a-leaking-workpot",
+  "wiki_path": "/wiki/A_Leaking_Workpot",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Leaking Workpot",
+  "level": "92",
+  "location": "Kozama'uka(X:33.0,Y:24.4)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm ready to move on!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm glad we could take a moment to talk things through. Wuk Lamat seems much happier for it."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I have some small experience with the pressures of leadership─and crumbling beneath its weight, as you well know. If anything good can be said to have come of my failures, I hope it is my capacity to help others avoid similar mistakes."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It doesn't matter if Wuk Lamat's scared of alpacas or gets sick on boats. It doesn't change who she is or what she means to people."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Moblin settlement of Earthenshire is not far from here, but be warned: the road we'll be taking is a favored hunting ground for bandits."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "With the stairs currently impassable, there'll be fewer travelers, meaning the brigands will be desperate for victims to ambush."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Although considering present company, I suppose my concern is unwarranted."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bandits on the road? What have Zoraal Ja and the Landsguard been doing!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seems it's up to me to restore order to the area!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "And off she goes again... For now, we'll head west and aim for the bank of the second river."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The bandits' lair is said to be somewhere near here, but I'd prefer we avoid seeking out trouble."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh, I see─this is the river which feeds the waterfalls above Ok'hanu."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Again and again, I am struck by the majesty of the falls. It is difficult to comprehend the sheer volume of water this natural wonder produces."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I felt eyes on us several times as we made our way here, though they soon seemed to lose interest."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well? Where are these bandits?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Apparently they're not foolish enough to attack a party of this size."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Earthenshire is just a little farther ahead, on the opposite bank of Miyakabek'zoma, but let's remain vigilant all the same."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So this is Earthenshire!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Goodness me! It's like the entire village is made of pottery!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Even as Hanuhanu culture is distinct from the Vanu, Moblin society has developed quite differently to that of their goblin cousins."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Not another claimant in sight. Does that mean we're ahead...or behind?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This is it─the village where the Lay of Pots from the Tuliyollal Saga took place."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Earthenshire... Idyllshire... Might the similarity be a cultural inclination, I wonder."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The settlements themselves couldn't be more different, though. This shire appears custom-built to resemble pots, while the other is a repurposed town."
+    },
+    {
+      "character": "Elderly Moblin Woman",
+      "text_en": "Pfff... Pfffkohhh... Welcome to Earthenshire! Do I have the pleasure of happygreeting the Third Promise and her retinue?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's us. We're looking for the Dawnservant's elector, if you happen to know who that is."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "You are exchanging tongueflaps with her right now. Rediroq is the elector you seek."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, that's helpful! We can cut straight to performing the feat!"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "As much as Rediroq would like to do just that, we have a much more pressing worry."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "The storm which hit our village shattered the cliffs and dropped rocks on our braincases! Many helphands for the potsworn were injured. This is no time for feats or mettletests!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sorry to hear that. After learning what the storm did to the stairs, I feared you'd been caught in its path. Uh, not to change the subject, but...what are the “potsworn”?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Goldsmiths contracted to work for the Moblins. The word comes from the pot-like workshops where they practice their craft."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Moblins provide these potsworn with tools, materials, living quarters─everything the artisans could possibly need. This allows them to concentrate on producing what is widely known as the finest gold- and metalwork in Tural."
+    },
+    {
+      "character": "Disappointed Artisan",
+      "text_en": "This is unacceptable. I was promised no distractions!"
+    },
+    {
+      "character": "Disappointed Artisan",
+      "text_en": "If this is the best they can offer, I should have never left Wachumeqimeqi..."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "You see? The potsworn desert us! Without enough healthy helphands, we are failing to uphold our side of the potpact!"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Should all our potsworn leave, Earthenshire will grind to a halt! We have to do something, and do it soon!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then let us stand in for the injured helpers! It would give me the chance to learn more about your people and your village, and if it brings us closer to beginning the feat, then all the better!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This isn't strictly part of the contest, so don't feel obligated to join in. Take a rest while you can."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I was hoping you'd say that! I actually wasn't sure I could do this on my own."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We'll all help. I doubt any of us could just sit around and watch."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What Forename means to say is we'll all help. I doubt any of us could just sit around and watch."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I was hoping you'd feel that way! I actually wasn't sure I could do this on my own."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "We'll take every helphand we can get. Rediroq truthswears that once the potsworn have their perfect workshops again, we will commence the feat with all haste!"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "You and the Third Promise can assist helphand Rakorok."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "You other four, follow Rediroq. There are other helphands in need of hand-lending!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I really appreciate you pitching in."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I meant what I said at Many Fires. There'll be no more feigning strength. No more playing at being an invincible Promise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If there's one thing I've learned on this journey, it's how practiced you are at aiding those in need."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And I mean to make the most of having such an incredible mentor at my side!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now, let's find this Rakorok fellow and see what we can do for him."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I think I've found our helphand. First we'll solve this problem for the Moblins, then we'll see about completing their feat!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Pfffkohhh... Rakorok can't meet his obligations without more helphands! The potpact is broken and the pots are emptying!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "You've come to aid Rakorok!? Rakorok accepts your hand-lending with joyous feelsmiles!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "If we can offer the potsworn their promised goodliving, we might save the day yet."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whatever you need!"
+    }
+  ]
+}

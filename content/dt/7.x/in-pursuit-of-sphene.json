@@ -1,0 +1,236 @@
+{
+  "id": "in-pursuit-of-sphene",
+  "wiki_path": "/wiki/In_Pursuit_of_Sphene",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "In Pursuit of Sphene",
+  "level": "99",
+  "location": "Tuliyollal(X:15.8,Y:4.1)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Gulool Ja",
+      "text_en": "I wish there was something I could do to help..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I understand Zoraal Ja spared no souls for reviving himself in battle. His pride wouldn't permit him to do otherwise, I expect..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, it was good to catch Koana up. Now we'll talk to the sol— ...Hm?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Who might this be from?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hello? ...That's right, Forename is with me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Is that so? In that case, let's meet at Sunperch. See you soon!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Y'shtola is heading back. I dare to hope she's found a way to pursue Sphene."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you all wanted to go on ahead to Sunperch, I'll pay our soldiers a quick call."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Apologies for the wait."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're all here. Then that means..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Aye. We believe we've found a way to travel to the reflection to where Sphene has retreated."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I was busy providing aid in Solution Nine, so I haven't heard the details myself."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Could you start from the beginning, Y'shtola?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Per Sphene's own words, the gate atop Everkeep was opened and closed by the power of interdimensional fusion."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And it was the artifact known as the key that allowed her to control it."
+    },
+    {
+      "character": "Krile",
+      "text_en": "According to Ketenramm, the key was brought with me to the Source twenty years ago."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It was then kept here in the palace until its theft by Zoraal Ja, who used it in Yyasulani to fuse a portion of our world with this reflection."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Following Zoraal Ja's demise, Sphene claimed the key and disappeared through the gate."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But where exactly did that gate lead? In seeking the answer, we took another look at Origenics—and made a startling discovery."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As you all know, there should have been one more level at the summit of Everkeep."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The twelfth level—the King of Resolve's royal abode."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Right. But when you actually went there, you saw that it didn't exist."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Curious, we analyzed Origenics's logs to see where the memories of the departed were being sent. And where should it be but through the gate, to the missing twelfth level."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That level alone must have lain outside the fused region, and so was left behind."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then it means..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Tis Sphene's home world, and she has returned there, to join the memories of her departed citizens."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It means that beyond the gate lies not just any reflection, but the one from which Alexandria originally hailed."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis Sphene's home world, and she has returned there, to join the memories of her departed citizens."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But as the key lies with her on the other side, we haven't the means to reopen the gate."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Forgive me, but I thought we already knew she had gone home—or at least it seemed obvious to me. What I want to know is, how do we pursue Sphene if the gate here is closed?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We use another gate. And it just so happens we know where one is."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The Skydeep Cenote!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Aye. All evidence suggests that the gate there leads to the world whence the Alexandrians and I came."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But assuming that's true, how can we open it?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That is what we shall find out, using the code in this earring."
+    },
+    {
+      "character": "Shale",
+      "text_en": "As you'll recall, Krile's earring is in fact a data storage device."
+    },
+    {
+      "character": "Shale",
+      "text_en": "An analysis of it yielded a code—something used to control a contraption, and a very large one at that."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Given the circumstances of Krile's arrival in the Source, we believe that said contraption is the gate to the golden city."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This is admittedly an educated guess, but we are quite hopeful that it will work."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To make such progress in so short a time... You really are amazing!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We couldn't have done it alone. The credit must go to the members of Oblivion for acquiring the information we needed, Shale especially."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, it seems the plan is set! To the Skydeep Cenote!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Aren't we going yet?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've told the officers of the Landsguard about my intention. They fully support our endeavor."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Begging your pardon, Forename , but might I have a moment ere setting forth?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, you're already going to give him / her the thing?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Yes. I had thought to save it for later, but in light of these developments, I feel now is the time."
+    },
+    {
+      "character": "Koana",
+      "text_en": "As Lamaty'i says, I have something for you. Please come with me to Bayside Bevy."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Are these all shops? It's so different from Solution Nine!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hehe, I hope you like it!"
+    },
+    {
+      "character": "Mewazunte",
+      "text_en": "Opening a shop in Tuliyollal has always been a dream of mine. I'm honored to be part of Bayside Bevy's bustling trade!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Tuliyollal is safe in no small part due to your valor. As a token of our appreciation, I have commissioned special equipment for you."
+    },
+    {
+      "character": "Koana",
+      "text_en": "While it is inadequate as an expression of gratitude, I pray it will serve you well in your coming mission."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It apparently incorporates foreign technology. Leave it to Koana to request such a thing, eh?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Mewazunte yonder has the equipment in his keeping. Just say the word, and he will bring it out."
+    }
+  ]
+}

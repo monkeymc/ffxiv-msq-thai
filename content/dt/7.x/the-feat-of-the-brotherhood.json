@@ -1,0 +1,908 @@
+{
+  "id": "the-feat-of-the-brotherhood",
+  "wiki_path": "/wiki/The_Feat_of_the_Brotherhood",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Feat of the Brotherhood",
+  "level": "95",
+  "location": "Yak T'el(X:21.1,Y:21.5)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Unsure Citizen",
+      "text_en": "I don't think I trust the Third Promise yet. But if she can offer us some tangible hope, then maybe..."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Many are reluctant to trust the Third Promise, but all agreed to wait for her return. That alone gives me cause to hope."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "Honestly, I don't know what I hope to hear..."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "If you can truly help us, I'll wait here for as long as you need."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "I remain here out of deference to Miilal Ja. As the mother of our chosen one, her wishes deserve to be honored."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sure Zereel Ja would have choice words for us if he knew what we were up to."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But his people are my people, and I can't ignore their plight."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If I'm to call myself Dawnservant one day, I have to bring an end to the tragedy here. Many are depending on me, Bakool Ja Ja not least of all."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Anyway, I'm sure Koana and the others will be back with their report soon."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They shouldn't be much longer now!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Good, everyone is assembled. In light of our news, I thought it only right to call the others."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Thanks to the efforts of all, I'm pleased to say our analysis has yielded many valuable insights."
+    },
+    {
+      "character": "Koana",
+      "text_en": "And I daresay the prognosis is hopeful."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Earlier, we asked about the hopes you place in blessed siblings. Why they are important to you."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Your overwhelming response was a frustration towards this forest."
+    },
+    {
+      "character": "Koana",
+      "text_en": "From a lack of natural resources to the inability to cultivate crops, in all respects have you ever struggled to build a prosperous home. Thus your understandable desire for new land."
+    },
+    {
+      "character": "Koana",
+      "text_en": "However, this would be an unfortunate dismissal of what makes your forest uniquely valuable."
+    },
+    {
+      "character": "Koana",
+      "text_en": "That is, the soil. Our tests have proven, without a doubt, that the Ja Tiika Heartland is abundantly fertile."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This may be surprising to hear, as you have seen crops fail time and time again. But we have discovered the root of this problem as well."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The meteorites scattered throughout your forest emit an unusual energy that greatly influences the development of surrounding plant life."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Some plants thrive on this energy─like the najool and the giant trees that create the canopy. But others, as you well know, are sickened by it."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Fortunately, the solution is simple."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Across the salt in a place called Sharlayan, there is a peerless collection of flora sampled from every corner of the world."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Now that we know what energies are most prevalent in your forest, we can offer you seeds and starters guaranteed to thrive here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I took the liberty of contacting a few colleagues via linkpearl. Should you desire them, a sample of our best candidates can be shipped here in short order."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Just as Eorzea acquired the popoto and tomato from Tural, so too might Mamook benefit from foreign crops."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "You mean...we'd be able to grow more than najool here?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Precisely. While care must be taken to choose those species that will not have an adverse effect on the ecosystem, your agricultural options should increase markedly."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With the right crops, Mamook will have all it needs to prosper, both at home and in trade. Blessed siblings don't have to be the answer anymore!"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Then...there was never any need to fight? Never any need to sacrifice..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "We can't change the past. But we can try to make the future better."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Let the old teachings end with us."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know blessed siblings represent absolute strength to you. Letting go of that idea can't be easy."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But I'll prove that when we work together, our combined strength can achieve anything!"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "...Show us, Promise."
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "If there's another way... For our children and our home... We'll no longer suffer in silence!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sometimes, we have to fight alone─but not this time."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Would you say a few words, Forename ?"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "The Skyruin!? The great Gulool Ja Ja himself struggled to even seal it!"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Saving the star is far beyond the scope of our needs...but I acknowledge the value of allies."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Friends? A perplexing notion from an outsider...but not unwelcome."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've said what we wanted to say!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now all that's left is to defeat my father's shade in the Feat of the Brotherhood and clear the way for Mamook's bright new future!"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Do not give us cause to question our faith in you, please. Live up to your words."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "After we complete his feat, let's be sure to tell Zereel Ja the good news about his forest. I'm sure he's as eager as anyone to eat what tasty foods they'll grow here!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Compassion even for the likes of him. You continue to eclipse me in every way..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...Then it is a simple choice."
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "We're counting on you, Wuk Lamat..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Wuk Lamat's gone ahead to announce her readiness."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I never imagined the samples we so feverishly collected for the exodus would find new purpose here..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But if they help these people improve their prospects, all the better."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Anyway, we should go and meet our comrades where Zoraal Ja made his own attempt. The final feat awaits..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This feat may bring us closer to the golden city, but for now we must stand strong for the people of Mamook!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I can offer moral support at best. For whatever it's worth. Good luck."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Zereel Ja's intention was for this feat to prove the supremacy of blessed siblings."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But Wuk Lamat shall instead prove that there are other ways for Mamook's people to empower themselves."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Where did Koana go? Have you seen him?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Someone has gone to fetch Zereel Ja. He should be here soon."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zereel Ja! I'm ready for the final feat!"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Hmph. Grown weary of postponing the inevitable, have you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Something like that. You see, I've learned all sorts of things about Mamook and your people."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Is that supposed to impress me?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I now understand why I need to surpass blessed siblings."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The cost of producing “superior” offspring is destroying your people's souls. Look at them and you'll see this."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So I'll defeat my father's shade and prove to you that there's a better path for Mamook!"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "What drivel. Without the blessed, we are nothing but weaklings─doomed to fade into obscurity!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course you're weak. We all are, each and every one of us."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But when we join hands, we gain the strength to overcome any foe─even Valigarmanda!"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Enough talk. Prove your mettle against Gulool Ja Ja, the finest warrior ever to have graced Tural!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Fine by me. Not even Papa's shade will stop me from upholding his legacy!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I will fight alongside her."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Claimants are not permitted to assist one another, Second Promise. But you may observe your sister's pitiable attempt."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I see. In that case..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "It seems I'm no longer a claimant. I am now free to participate, I trust?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "What are you scheming?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Nothing. I've simply come to realize who is worthy of following in Father's footsteps."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Not our brother. Not Bakool Ja Ja. And not me."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You have always held the happiness of our people closest to your heart, Lamaty'i. So I will do everything in my power to ensure you ascend to the throne."
+    },
+    {
+      "character": "Koana",
+      "text_en": "This is how I shall repay Father for his kindness. This is how I shall serve Tuliyollal!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I could always count on you, Koana. Thank you."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Hmph. It will make no difference. Numbers matter not in the face of true might."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Gulool Ja Ja, mightiest of the blessed...arise!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone ready?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No hard feelings, Papa! I've got a lot of hopes riding on my shoulders─and the only way forward is through you!"
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "Bear witness to our resolve!"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "And the reason which guides our journey..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So long as we stand together, we're unstoppable!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What potent magic. In that case..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I shall protect thee."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Beware your surroundings!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Father's magicks are incredible..."
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "These blades sundered Valigarmanda's scales!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Mark the trajectory of his blades."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Promise!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No mercy, eh?"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "Blades of fire rain."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I-I'm fine, I'm fine!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Alisaie! Are you all right!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Such power..."
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "Take that!"
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "Gahahahaha!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Spread out, spread out!"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "What a chore..."
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "Ever hungry for battle..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This should help!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You're not alone!"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "Go forth!"
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "Heh. Overbearing bastard."
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "How is this?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "He's beginning a ritual of flame!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh!? I-I can't move!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "This isn't good."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "These magicks are too strong!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Curses..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Some manner of paralyzing effect—defend the afflicted!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We must free them! Target the constricting flames!"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "None can outrun my flames."
+    },
+    {
+      "character": "Koana",
+      "text_en": "For Lamaty'i!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Not enough... But together, we shall triumph!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I thank you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thanks! I owe you one."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank the Twelve..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "My thanks."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Keep heart!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I shall protect thee."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You're not alone!"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "Blades of fire rain."
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "I know now who you are, but I applaud your tenacity."
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "Surely this will quench your thirst for battle."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wah!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "What!?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Agh!"
+    },
+    {
+      "character": "Gulool Ja Ja's Glory",
+      "text_en": "Resolve and Reason kindle..."
+    },
+    {
+      "character": "Gulool Ja Ja's Glory",
+      "text_en": "By crimson wrath be sundered!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone, get behind me! I've got a bad feeling about this..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Of course."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We're in your hands."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Understood!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "All right!"
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "Will you have the strength to stand after this?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Do you need a hand?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I have your back!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You're not alone!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I shall assist thee."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will be the next Dawnservant...I will protect my people!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I won't lose...!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hehehe... Is that the best you can do?"
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "Impressive—but I'm not finished y et!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "We will see Lamaty'i become Dawnservant. For Tuliyollal!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This should help!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll protect everyone!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Perhaps this will help."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's my old man for you..."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "I refuse...to accept this..."
+    },
+    {
+      "character": "???",
+      "text_en": "Ain't that a bit stubborn? Even for you."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A Roegadyn? It couldn't be..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Tankwa! It's been too long!"
+    },
+    {
+      "character": "Tankwa",
+      "text_en": "It has indeed. You're lookin' more imposin' since last I saw you, Wuk Lamat."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Tankwa?"
+    },
+    {
+      "character": "Tankwa",
+      "text_en": "My Turali moniker. Gulool Ja Ja insisted I take one, sayin' my birth name was too cumbersome for the local tongues."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That birth name being “Ketenramm,” I presume."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "NO!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ketenramm's that legendary Eorzean sailor! The one with the pickled cabbage!"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "...We can talk about me cabbage later."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Zereel Ja. Whether you like it or no, these young'uns accomplished the feat."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "To deny Wuk Lamat her reward would be to betray the Dawnservant's trust."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "And what should she be rewarded for!? Calling upon her minions to carry her to victory!?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Comrades... You believe a ruler should be reliant upon such?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "I don't have dignity. Not anymore. I wagered everything on this feat."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "And by the same token, I understand the enormity of your accomplishment."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Together, we can achieve anything. You needn't place your faith in the promise of blessed siblings."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "How would you have us reclaim our glory?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With friendship and community. With us."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "If you mean to rule, you should be more sparing with your offers of clemency. Especially to a man who has sacrificed countless young lives."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Nevertheless...I will fulfill my charge as elector. In recognition of your feat...I bestow upon you a keystone."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Congratulations...are nearly in order, I suppose. I'm confident that you will find the golden city in no time."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You've grown much and more during this journey. Become someone ready to lead our nation."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Little Lamaty'i no longer. As your brother, I couldn't be more proud."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana...thank you."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I must express my gratitude for your cooperation...and my regret for failing to live up to expectations."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Nonsense. If you believe Wuk Lamat is the woman for the job, then you have our wholehearted support."
+    },
+    {
+      "character": "Koana",
+      "text_en": "One last thing. I wish to speak to you both from the heart. Unpracticed as I am, this may sound hackneyed, but..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I am truly grateful to have met you."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Words spoken with such feeling would resonate with any fortunate enough to hear them."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though our journey together hath ended, ever shall we cherish the memories."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Aye. And should you require further esoteric musings or biting witticisms, don't hesitate to call. I daresay we'll come flocking."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But I get ahead of myself. As I recall, our contract remains in effect until we've escorted the Second Promise back to the capital."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I leave my sister in your capable hands. See that she returns home safely!"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "You've still malms to go yet, Wuk Lamat. The rite ain't over till ye find the city of gold."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know. But if I can come this far, I can go all the way."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The Second Promise has warmed a great deal since we first met him. I daresay that wise and witty duo has been of no little influence."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I am glad to see you all remain in one piece."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Joyed though I am by this outcome, I am also eager to speak with Ketenramm while we have the chance."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Even as a shade, the Dawnservant's strength was incredible. I shudder to imagine how we might have fared without the Second Promise's support."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Naught like a bit o' hardship to see yer precious children grow into fine adults."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "...I will not stand in your way."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "But mark me─your victory does not afford you authority to dictate our future. We will decide what is best for Mamook. No one else."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's go and tell the people of our victory!"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Third Promise!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You brought everyone? We were just coming to you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We did it, Miilal Ja. We proved to the Autarch that not even my father's full power could overcome the strength of our fellowship."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "I knew you would. I was right to trust you."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "You fulfilled your promise. Now, it's our turn."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "You've shown us another way. That we can build the lives we've always wanted. Here, in our homeland, without sacrifice!"
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "Since our new crops will come from across the salt, I suppose we will have to treat with outsiders... A-As equals, of course."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Inside or outside, we're all just people. No matter what we look like or where we're born."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When you're not used to all the color and variety, differences can feel like obstacles."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But by learning more about what makes us different, we can also find common ground in places we never expected. Something new may become something you love!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And someone you once hated might one day become your friend."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You'll never know unless you keep an open mind. And while it may feel scary, taking that first step towards understanding is always worth it."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Of course... Learning about outsiders may well help Mamook grow."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "But what happens when they learn about us ? About what we've done?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "They will not."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "For generations, our covenant has been kept secret, and so shall it remain."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "The atrocities committed here were facilitated by the Autarchs. We and no one else are responsible."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "For my deeds, I am prepared to forfeit my life. But I will not suffer others to be damned alongside me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No one's being damned. And your life isn't forfeit."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The last thing this city needs is more death. Bakool Ja Ja hasn't fought this hard for this long only to lose his father."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you truly feel responsible, be the first person to extend understanding to others on behalf of Mamook."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Your community is waiting for you─here and in Tuliyollal."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "We can still make things right, my love. Choose a different side of history."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Thank you, Third Promise. Thank you for everything."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...You still owe me an explanation about that cabbage, you know."
+    }
+  ]
+}

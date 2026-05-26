@@ -1,0 +1,732 @@
+{
+  "id": "crossroads",
+  "wiki_path": "/wiki/Crossroads_(Quest)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/bb/Crossroads_Dawntrail.png",
+  "patch": "7.1",
+  "title_en": "Crossroads",
+  "level": "100",
+  "location": "Shaaloani(X:18.0,Y:13.9)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Erenville",
+      "text_en": "It won't be as I once envisioned...but perhaps someday we can take that train journey to Yyasulani together."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, it's possible that Shale's made some headway by now. And regardless, we should spread word that the railroad's been restored to service."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Shale? What do you have her working on?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Gulool Ja's mother..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'd feel the same in his shoes. Have felt the same. Some questions are painful to leave unanswered..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There's no cause to look at me like that. The Cahciua we met may have only been a simulacrum, but her memory was real."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I needn't search for what she left behind, because she left it with me. And I will carry it always..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Speaking of things you're carrying..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is that a teeny-tiny Cahciua?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What!? No!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It is merely a token from Alexandria. Our friends in Oblivion would not take no for an answer, and I thought it as good a souvenir as any..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whatever you say... For what it's worth, I think it's a nice way to bring her with you on your travels."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Yes. Well. You're off to the dome now, aren't you?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I thought I might join you for a time. See if there is aught I can do for the people there. Much changed though it is, I still consider it my home."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course! We can give you the full story on the way."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You must be exhausted. Shall I nip out for an energy tonic?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "So Zoraal Ja was conducting secret research in Yuweyawata... I have some memories of the place from my childhood."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Glad you're back. We wouldn't want to keep Gulool Ja here waiting any longer than necessary."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Erenville is wearing his Cahciua! That makes me happy."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Looks like we arrived at a good time."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Seeing Erenville never fails to remind me of Cahciua...and I wouldn't have it any other way."
+    },
+    {
+      "character": "Geode",
+      "text_en": "The dead should be remembered, this I firmly believe. Gulool Ja's mother deserves that too."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "...A simple yet elegant solution. And thus is the railroad back in operation."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Meanwhile, Shale has nearly finished processing the data. She will be able to share her findings with us imminently."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...I'm interrupting something, I gather."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Why, Y'shtola! What brings you here?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I've seen enough of the gate in the Skydeep Cenote for now, so I'm shifting my investigation to Living Memory."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While there, I thought I would do well to have the company of an expert on electrope."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'd like to take a closer look at the place myself. I can join you once we've finished here."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Lest you fear I've forgotten, once I've made headway with Living Memory, the key in your keeping shall be the next subject of my scrutiny."
+    },
+    {
+      "character": "Shale",
+      "text_en": "There was a mountain of data to sift through─much of it tantalizing, I admit."
+    },
+    {
+      "character": "Shale",
+      "text_en": "But it will take time to fully decrypt everything that piques my interest, so to answer our immediate question, I've been concentrating my efforts on the audio saved by Teeshal Ja herself."
+    },
+    {
+      "character": "Shale",
+      "text_en": "While I've not listened to it yet, I have a selection ready for playback. Would you like to hear it now?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Yes, please!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "All right. Several audio files will now play in sequence."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "...I, er... Ahem. My name is Teeshal Ja, and I've decided to record this to...to help me put my thoughts in order, I suppose."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Mother...?"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "Officially, I am─was?─a chirurgeon with the Landsguard. I was part of a contingent dispatched to Yyasulani to hunt a tural vidraal that was wreaking havoc."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "After our mission was complete, I elected to remain. It was the perfect opportunity to document the geographic distribution of medicinal herbs in this region."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "...Or so I said when requesting special dispensation. In truth...I could not bear to return to Tuliyollal."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I had hoped to aid Commander Zoraal Ja in the rite of succession, but he did not so much as look my way. I was never in contention, of course─one of the nameless many in his army..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "To go back and face that reality was too much for me, so I ran. And in my cowardice, I stumbled upon this path. A path that changed my life."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "When the dome appeared, I found myself trapped within...and reunited with my commander."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I... How am I to speak of Commander Zoraal Ja?"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I admired him. His incontestable strength. His unwavering focus. He was...a man of great passions."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I watched him, captivated by his intensity. From afar─I would not dare approach. And in watching, I came to know him."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "His eyes, too, sought the distance─but not as mine did. He yearned not for another, but something else, beyond the horizon."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "That gaze would never fall upon me, I knew. I knew..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "The experiment will soon proceed to its next phase. And when it does, as he promised..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I will have my heart's desire."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "Today... Today..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "It should have been today. A new beginning. What I have dreamed of for so long..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I hold a future in my arms. If he could see him─embrace him... Surely, surely, that would be enough..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "So full of hope I was. A foolish hope..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Its scales...are blue..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "He's your son."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "My..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "No! I...I can't..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I...I-I don't know how─how could I...? How!?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "To raise a child─be a fa-father..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I don't... I-I can't!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "No... No! Get it away from me..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Get that thing away from me!"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "Shhh... It's all right, little one. Papa was just surprised, that's all."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "He'll come around. We'll be a happy family."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "...Kanilokka's shouting for me. The research hasn't been going well...but I can't let him take it out on my baby."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "Hush now, little one. I know... I know just where to hide you..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "...That's all of them."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "He was abandoned, the poor dear. We found him in the driftdowns a few years ago."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We know some manner of accident happened at the facility after this was recorded. Perhaps your mother couldn't come back for you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, Gulool Ja..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm fine, Lamaty'i."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Father and Mother, they were both so lonely..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "If we could've been together, maybe they wouldn't have been. But sometimes things don't work out, no matter how hard you try."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I...I can't tell if I'm happier now..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "...But it's better to know, I think. Thank you, everyone."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Why leave such a record, you ask? I cannot be certain, but I believe Teeshal Ja simply wanted someone to know how she felt. To understand."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No matter how brave a face Gulool Ja puts on, I expect it will take him time to come to terms with this."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "He is a strong one, though. You needn't worry too much."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Teeshal Ja left written records as well. I'll compile them for Gulool Ja. Perhaps something in them will be of comfort."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It's okay. I wanted to know more about my parents, and now I do. And I don't regret it."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I have Lamaty'i, and Koana, and you, Forename . I'm not lonely now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...You may find it hard to believe, but until the rite of succession, Zoraal Ja was a good brother to me. Always. And I thought that Papa was the best father anyone could ask for."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't want to think the time we spent together as a family was a lie. But by the same token, the bitterness my brother harbored was all too real..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If the dome had not appeared, Teeshal Ja's tale would have been very different. Yet whether or not she would have been happier, I cannot say."
+    },
+    {
+      "character": "Geode",
+      "text_en": "What a mess..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "\"It's better to know“... A profound response, for one so young."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Though I wish he didn't have to be, Gulool Ja is indeed wise beyond his years."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yet one never outgrows the need for dependable companions. 'Tis fortunate that he has you."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Thank you, Shale. Because of you, I got to hear my mother's whole story."
+    },
+    {
+      "character": "Shale",
+      "text_en": "You heard it because you were brave enough to listen, Gulool Ja. If you remember one thing, remember that."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Now then─having shared what I can at present, I am ready to head to Living Memory when you are."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I am planning to be thorough, so we will need to stop for supplies on the way."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That said, I promise we won't remain overlong. I know we all have much and more to attend to."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "For now, farewell."
+    },
+    {
+      "character": "Krile",
+      "text_en": "One wouldn't know it to look at them, but Shale and Y'shtola are birds of a feather. An incorrigibly restless feather..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll stick around for a while. Let me know if you need me."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Is Shale going to be alright out there? The whole time she was working on the data, I never saw her take a break..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With the railroad ready, I'd like to get some idea of how many returnees we can expect before heading back to Tuliyollal."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The twins have yet to return. I hope everything is all right."
+    },
+    {
+      "character": "Geode",
+      "text_en": "A word, before you leave."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Our network's already spreading word of the railroad. We expected people would be clamoring to get on the first train back..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Yet the reaction's been the polar opposite. Scant few seem inclined to depart Alexandria any time soon."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What? When we spoke before, you said many from Tuliyollal were eager to reunite with friends and family."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Maybe they're concerned about getting through Vanguard? If so, we could take turns accompanying them..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In any case, we need to speak with the people ourselves. Let's start at leynode nine."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The people were so nervous about remaining in Alexandria... I cannot help but wonder what prompted this sudden change of heart."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've asked Geode to fill me in on all that has happened in the dome of late. If I hear anything of interest, I'll be sure to pass it on."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Now that the railroad's working again, it'll be much easier to visit Tuliyollal. It would be nice to see Koana again as well."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Perhaps we will venture out for a bit ourselves."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I'm as surprised as you are. Everyone was keen to pack their bags before, but now that the journey's possible, they can't be bothered?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There may still be people gathering in Praxis Park. Let's try there first."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The people look uneasy. Did something happen?"
+    },
+    {
+      "character": "Unsettled Mourner",
+      "text_en": "Have you heard? Someone was killed in the Thunderyards."
+    },
+    {
+      "character": "Cynical Alexandrian",
+      "text_en": "The Thunderyards? Was one of the hunters slain by a beast?"
+    },
+    {
+      "character": "Unsettled Mourner",
+      "text_en": "It was a hunter all right, and a veteran at that. But it was no fiend that did him in─only a random bolt of lightning."
+    },
+    {
+      "character": "Mourning Woman",
+      "text_en": "Such a senseless way to die. They say that he expended his last soul cells during Zoraal Ja's attack on the city..."
+    },
+    {
+      "character": "Unsettled Mourner",
+      "text_en": "For an upright, hardworking man to meet such an unceremonious end... It feels wrong..."
+    },
+    {
+      "character": "Anxious Alexandrian",
+      "text_en": "But we'll be fine, won't we? Even if the system no longer erases our memory of the departed, the regulators continue to function!"
+    },
+    {
+      "character": "Anxious Alexandrian",
+      "text_en": "I shan't go before my time. Growing old and passing peacefully with the help of the ushers is only natural!"
+    },
+    {
+      "character": "Cynical Alexandrian",
+      "text_en": "You may think so, but how are we to know? We have no memory of those who have gone. More may have met violent deaths than passed from old age, and we would be blissfully unaware!"
+    },
+    {
+      "character": "Cynical Alexandrian",
+      "text_en": "It could happen to you or me─to any of us!"
+    },
+    {
+      "character": "Boy's Mother",
+      "text_en": "Then what are we to do? Spend every waking moment thinking only of how we might die?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With time, I had hoped that they'd be able to adjust to their new situation...but it's only gotten worse."
+    },
+    {
+      "character": "Pensive Boy",
+      "text_en": "Look, it's Queen Sphene!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What?"
+    },
+    {
+      "character": "Pensive Boy",
+      "text_en": "Help, Queen Sphene! The grown-ups are really upset, and I don't know what to do!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I see that you are as kind-hearted as ever, Nico. Never fear─I'm here to set things aright!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't understand. Sphene is gone...forever..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You there, Gossan! You were the queen's aide, weren't you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's the meaning of this?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Begging your pardon, Vow of Resolve..."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "But Her Majesty Queen Sphene is paying visit to her people, as is her wont."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What are you talking about!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene is dead! You officiated the funeral yourself!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We all placed flowers to mourn her passing!"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "A funeral...? For Her Majesty?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "What a curious jest. You know full well that ceremony was to commemorate those lives lost during the attack of Alexandria."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Her Majesty walks among her people that she might support them in this most trying of times. Surely that is not cause for consternation?"
+    },
+    {
+      "character": "Boy's Mother",
+      "text_en": "Your Majesty, won't you free us from these terrible memories of the departed?"
+    },
+    {
+      "character": "Boy's Mother",
+      "text_en": "This is no way to live─not for us nor our children..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...I wish that I could. Truly, I do. But with Living Memory shut down, even I cannot restore the system that once afforded us that comfort."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You needn't fret, however. I have prepared an alternate solution."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "All of us shall be made Endless!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I have created a new system that allows you to transplant your memories directly into an aetherial vessel─one not reliant upon soul cells."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This way, you need never again fear death. You may live as you please─and for as long as you like!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Our stores of aether are, at present, not sufficient to provide this boon to everyone..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But some of you received neo regulators for the funeral ceremony, did you not?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And there are still more we have yet to distribute. Five thousand in all!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "One day soon, those with neo regulators will be called to join the Endless, and thence be free of suffering forevermore!"
+    },
+    {
+      "character": "Anxious Alexandrian",
+      "text_en": "But...only five thousand of us?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You vidraal!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The real Sphene would never be content to save only some of her people!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Who are you!?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I am Sphene, the Queen of Reason."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's return to the Backroom. I need to calm down...and then we'll talk."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You saw Sphene with your own eyes, then? So it wasn't someone else..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We've heard about the Queen of Reason's proclamation. The rumors spread through the district like wildfire."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Without the Meso Terminal, how does she propose to create new Endless? We must contact Y'shtola as soon as possible."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Queen Sphene has returned? How?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seriously, what was that!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Sphene was erased. If she's back, then are the Endless...?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "There's naught to report yet, but we have all eyes and ears out in Everkeep and Heritage Found."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We only caught the proclamation from a distance, but I can tell you that the message about neo regulators was received with utmost clarity."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It couldn't have been Sphene. She should've been destroyed when the Meso Terminal shut down..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Without a single Alexandrian to bear witness. Presented with an identical figure claiming to be their beloved queen, 'tis no surprise that they would choose to believe she's alive."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What is troubling, however, is their denial that the funeral was held in her honor. 'Tis as if their memories have been erased..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Given that the members of Oblivion remain unaffected, that was likely the work of the regulators. But by whose design?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Someone smart enough to play at being the Queen of Reason. In that guise, even if some suspect deception, most of Alexandria will be on her side."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We need to find out who she really is."
+    },
+    {
+      "character": "Krile",
+      "text_en": "While I agree wholeheartedly, we should avoid drawing more attention than we already have. We must be patient until Oblivion's network turns up a lead...or until our self-proclaimed queen makes her next move."
+    },
+    {
+      "character": "???",
+      "text_en": "Where...am I..."
+    },
+    {
+      "character": "???",
+      "text_en": "My people! Are they...are they safe...?"
+    },
+    {
+      "character": "???",
+      "text_en": "Why am I..."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "IN FEAR OF DEATH, THE PEOPLE TURN"
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "TO QUEEN REBORN, THEIR FATES TO LEARN"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A pity Y'shtola was not present for “Sphene's” return. A cursory glance at the impostor's aether would have doubtless been enough to confirm our suspicions beyond a doubt...."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Shale said she left this machine running to process more of the data from the field station. Is it done yet?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Neo regulators... I heard the idea came from the citizenry, but something doesn't sit right. We'll look into this."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though we have too little information to draw any useful conclusions as yet, I daresay the Queen of Reason's behavior henceforth will be illuminating."
+    }
+  ]
+}

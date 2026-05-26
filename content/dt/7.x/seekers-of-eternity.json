@@ -1,0 +1,660 @@
+{
+  "id": "seekers-of-eternity",
+  "wiki_path": "/wiki/Seekers_of_Eternity",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/c/c6/Seekers_of_Eternity.png",
+  "patch": "7.2",
+  "title_en": "Seekers of Eternity",
+  "level": "100",
+  "location": "Solution Nine(X:4,Y:20)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "As I treated Milos with Angelo, I couldn't help but think of Ga Bu and Halric. I wonder how they've been."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I wish the Endless Sphene could have been here to see Milos..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Milos is a kind and brave boy. It did me well to see him."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "One day, I hope that I can speak with him about my other self."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Come, let us return to the Backroom. And on the way, let us pick up treats for our friends─a little gift to show our appreciation for their hard work."
+    },
+    {
+      "character": "Announcer",
+      "text_en": "Citizens of Alexandria, please be advised. The distribution of neo regulators has concluded."
+    },
+    {
+      "character": "Announcer",
+      "text_en": "We ask that all recipients equip their regulators and promptly complete device registration."
+    },
+    {
+      "character": "Announcer",
+      "text_en": "The evolution of our kind is at hand. Together we shall rise above death, and bask in the infinite possibilities of eternal life!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What is this?"
+    },
+    {
+      "character": "Distressed Citizen",
+      "text_en": "Evolution? What evolution?"
+    },
+    {
+      "character": "Confounded Citizen",
+      "text_en": "Those with neo regulators will become Endless, apparently..."
+    },
+    {
+      "character": "Cross Citizen",
+      "text_en": "You mean there's no more!? Well, don't you feel lucky!"
+    },
+    {
+      "character": "Frightened Citizen",
+      "text_en": "D-Don't look at me like that! Queen Sphene said there were only so many..."
+    },
+    {
+      "character": "Composed Citizen",
+      "text_en": "I haven't registered mine yet. The more I thought about it, the more unsure I felt about becoming an Endless."
+    },
+    {
+      "character": "Timid Citizen",
+      "text_en": "Well, I registered right away. Anything to stop those terrible nightmares of being killed by mechanical soldiers."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Ultimately, what you think is immaterial, for the seeds we've sown have already quickened."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "The people have glimpsed hope in transcending death, and they can ill turn away from it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I see... The terror of their first encounter with death still lingers in their hearts."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Having previously been spared even the idea of it, they know not how to handle the emotions."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The funeral was meant to give everyone the chance to come to terms with loss. To grieve and move forward together..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But everyone who was wearing a regulator had their memories of that moment erased."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And to see those oblivious, happy souls, those who remembered must've wondered if it might not be better to be like them. To go back to a time when death didn't exist."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And now they've been presented with the chance to do just that, by becoming an Endless. It's not hard to see why they would consider it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If this fear of death continues to spread among the people, what will become of Alexandria...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The gifts for our friends will have to wait. We should return to the Backroom at once."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Oh, you're safe! That broadcast had us worried. The entire populace is on edge."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So Alphinaud and the others are still out there..."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "We have a situation on our hands!"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "A civilian has been killed by a mechanical soldier here on True Vue!"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Wayakkwe is on the scene, and reports that the problem unit has been subdued by another sentry."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "That doesn't make sense... Only someone with the King of Resolve's authority could order a soldier to do that!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Not good. I tried to check the status of the authority, but was blocked from the core system."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Given recent developments, I'd wager that Calyx is responsible for this."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Perhaps we should go and see for ourselves."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's me. There's been an incident in the outskirts..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A mechanical soldier attacked a local resident for no apparent reason."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Fortunately, several nearby hunters dealt with the rogue machine, so everyone is safe. But if other soldiers were to─"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Wait. Is that...? Oh gods..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "More hostile sentries are bound for the settlement. I'll try to lure them away and then lose them somehow."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ill tidings, I take it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In the outskirts, too!?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "You'll go and help Erenville, won't you? We couldn't forgive ourselves if he came to harm. I'll have Geode join you from Earthen Sky."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm coming, too! I can't stay here while my people are in danger!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's go!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Geode, can you hear me? Something's happened in the outskirts..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I don't see Erenville. I pray he hasn't come to harm..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The people here took care of me, giving me food and making sure I was alright. I can't bear to imagine the soldiers hurting them..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So this is how it is outside... These clouds... Ah, never mind─ Finding Erenville is what matters right now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Things have settled down here, but I still see no sign of Erenville. Let's split up and look for him."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gulool Ja, Sphene─please search in the settlement area."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Meanwhile, the rest of us who can defend ourselves will head further out."
+    },
+    {
+      "character": "Terrified Citizen",
+      "text_en": "Thank you, oh, thank you!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That was a close call... My thanks."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As I was leading the soldiers away, I caught sight of this poor fellow being pursued."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I went to help, but was rather out of my depth. We're lucky you found us when you did."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville! I'm so glad you're safe!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We were quite worried when we couldn't find you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We encountered soldiers on the way here. Most paid us no mind, but some turned out to be hostile. There's no way to tell until they set on you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The ones here also attacked without any warning. If I hadn't been paying attention, it could've ended badly..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Hopefully the others were able to escape. We should return to the outskirts and take stock."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I didn't expect to see Malachite out here. Given his own trauma, I wonder if he'll be alright..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The situation here appears to have been resolved, but I doubt we've seen the last of such incidents..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No one thought that Gulool Ja might have been behind the attacks. They know that he would never make the soldiers do them harm."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Even so, he feels responsible for the machines' actions. 'Tis a misplaced burden, and I pray it drives him not to despair."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Thank you, Forename . For protecting everyone."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But...you shouldn't have had to. None of this would've happened if I could control the soldiers..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "We responded to Shale's call as quickly as we could. Others are out keeping an eye on soldiers nearby."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "I did not expect to see you again so soon. Allow me to thank you again for your earlier help."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Erenville is safe? What a relief..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Right, we're none the worse for the wear, but let's see what the situation is here."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Geode and his people came and joined us while we were searching for you."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "After which we happened to encounter Malachite. His usher duties brought him here, and he has quite the story to tell."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "It's a bit puzzling, to say the least. Even so, I'll try my best to explain."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "I was called to attend to the unfortunate soul slain by the mechanical soldier."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Yet when I arrived, I found no body. Only a pile of dust, which the wind quickly scattered."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Confused, I questioned the residents, but none knew what had become of it."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How odd... Did they remember the victim, at least?"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "They did. Their memories of the deceased weren't sent to the cloud, I don't believe. Yet no body remained..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If someone took it, surely they would've been noticed..."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "With your permission, I shall return to the government sector for now. Please take care."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "This is terrible... Why would they make the soldiers do this?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "If Preservation is behind the attacks, I fear this won't be the end of it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "All the neo regulators have been distributed, and potentially five thousand Endless are about to be born. What does Calyx hope to achieve with these killings?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Does he seek to frighten people into registering them? Or perhaps..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Oh, thank the Twelve you answered! Shale told me what happened. Is everything all right?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "...I see. 'Tis a relief to hear that Erenville is safe. Alas, I do not have good news to share in return..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A driver lost control of his vehicle when its interface became unresponsive, and it crashed into the Nexus Arcade, injuring several people."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Krile and I are helping to render aid, but with the sentries behaving strangely, we can't afford to lower our guard. Remain vigilant, my friend."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I just received word from the Backroom. A hover cargo on True Vue threw off its driver, and it's rampaging through the area as we speak."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Alphinaud had a similarly troubling report for me. Apparently, a riderless machine in the government sector came to life near a crowd clamoring for neo regulators."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It proceeded to mow down several citizens, causing serious injuries."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is a tragedy... We must go and help the people!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene, wait! I'm coming with you!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Alphinaud is with Y'shtola, and he said they'll be all right. I'll go and see if other incidents have occurred elsewhere."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "From here, I'll head towards the quarry by way of the driftdowns."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Certainly a lot of hover cargos coming and going in those parts. I'll join you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I shall remain here and speak further with the locals. I have company now, so you needn't worry about me."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Then let's return to Solution Nine! If we hurry, we can catch up to Lamaty'i and Sphene."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene's gone on ahead! I leave her with you!"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Bloody things have gone mad!"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Why is this happening...?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Surely there's a finite number of these things..."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Everyone, please try to remain calm and make your way to Resolution!"
+    },
+    {
+      "character": "Confused Citizen",
+      "text_en": "This is just like before...when Zoraal Ja unleashed the soldiers on us!"
+    },
+    {
+      "character": "Confused Citizen",
+      "text_en": "I don't have any souls left! I don't want to die! I don't want to die!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "No you don't!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Are you al─"
+    },
+    {
+      "character": "Flustered Citizen",
+      "text_en": "No, no─why did you do that? Why!? You can't just...just leave me alone like this..."
+    },
+    {
+      "character": "Flustered Citizen",
+      "text_en": "If we had been Endless, then you'd still be here...you'd still be with me... But now..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Are you alright!?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So many hurt... So many dead..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is wrong! This is all wrong!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank the Twelve you are all unharmed."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis small solace amidst this tragedy, however..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The machine rampage seems to have been only temporary. Soldiers and vehicles alike ceased to operate all at once, as if they had fulfilled their purpose."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's the same outside Everkeep, though members of Oblivion are keeping watch for good measure."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...The first attacks came shortly after the announcement that neo regulators had run out. It can't have been a coincidence."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I struggle to imagine that anyone but Calyx could gain control of the soldiers. This must have served his ends in some way..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Gulool Ja, are you still without your authority?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It's fine now. I'm in control again."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We might take the opportunity to shut down the machines. There's no guarantee this won't happen again."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Lamaty'i just talked with Everkeep's administrators about that. They said it wasn't so simple..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The mechanical soldiers don't only serve as guards. They also perform various vital tasks, like providing medical treatment and managing food production."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If we shut them down, we'd struggle to render aid to the citizens, let alone restore their lives to normal."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I made it so they can't use weapons anymore, though. Hopefully that makes it a little safer..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That seems the best approach for now. Thank you for your swift action, Gulool Ja."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This powerlessness... I can abide it no longer..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No matter how much hardship and loss, we could endure if there was but happiness at the end..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yet all I see now is suffering and misery..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And I cannot bear it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I want to protect the people. For their happiness, I would do anything and everything."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So please... Please lend me your aid!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh Sphene...you've found the words I wished you'd said back then..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Our strength is yours, Sphene! Together, we'll get through this!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let us split up and get to work. Might I trouble you to report to Shale, my friend?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Couriers and cleaners are clearing away the wrecks of vehicles and soldiers. It's the first step to getting things back to normal."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It pains me that the people were made to suffer even more after so much hardship and tragedy...but you and yours saved many lives. I cannot thank you enough."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Malachite and his fellows are tending to the deceased. His trauma must make the work difficult, but he's determined to do what he can."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's been a trying day, but it seems the worst is behind us. What's the situation out there now?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "You've moved quickly to restore things to normal. Thank you. Yet while disarming the soldiers is indeed prudent, it is a far from comprehensive measure when vehicles can be commandeered to inflict damage and sow chaos..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "For the time being, I'll set our people to keeping a close watch on machines. I also have a mind to consult the authorities about enlisting hunters to our aid."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I must regain my proficiency in magic. To that end, I shall seek advice from Y'shtola and Alisaie."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Among the books we recovered from the castle was a grimoire I once used. I hope to learn to wield it again, at everyone's side."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As for the key, I think it best that it remains in your care, though it means you will bear the greatest risk."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "In order to ease your burden, I shall endeavor to become a capable warrior and make Otis and Zelenia proud!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "By illness weakened, by wounds unmade, by age decayed..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Such fragile flesh is worthless to us."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "How mankind should evolve─ shall evolve─I have already arrived at the answer."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "The time is come to pose a new question."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "REPRIEVE FROM DEATH, BUT AT WHAT COST? FOR ENDLESS LIFE, A LEGION LOST."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I couldn't fight them...and I couldn't even get my authority back when it was stolen. So what good am I?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I need to find a way to be more useful."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Raha and Alphinaud patrol the city, while Y'shtola and Alisaie continue treating levin sickness and those injured in the attack."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I shall stay here to help coordinate efforts, so I suggest taking the opportunity to get some rest."
+    },
+    {
+      "character": "Geode",
+      "text_en": "We've set up patrols outside, so I came back here to see how things are."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Unfortunately, although we stopped the rampaging hover cargos, now we have to deal with delays in electrope transport and slowdowns in production. The complications will likely continue for some time..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I will dedicate myself first to healing magicks so I may help treat people's wounds."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It will be a time-consuming process to reacquire my abilities, but a necessary one that I dare not rush. Even though there's no telling when Calyx will make his next move..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gossan is helping us coordinate efforts with the administration here in Alexandria. We have to work hand in hand to ensure that the people can get back to their normal lives."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I worry about Gulool Ja, though. I know he's still frustrated that he couldn't do anything to stop the machines... If only there was a way to take his mind off things."
+    },
+    {
+      "character": "Genolt",
+      "text_en": "The equipment here didn't start tryin' to kill me, but it did start actin' up while I was in the middle of my work!"
+    },
+    {
+      "character": "Genolt",
+      "text_en": "One of my finest pieces, ruined─just like that! As if the power outage wasn't bad enough..."
+    }
+  ]
+}

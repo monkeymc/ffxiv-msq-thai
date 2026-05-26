@@ -1,0 +1,384 @@
+{
+  "id": "a-well-mannered-shipwright",
+  "wiki_path": "/wiki/A_Well-mannered_Shipwright",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Well-mannered Shipwright",
+  "level": "90",
+  "location": "Kozama'uka(X:19.3,Y:10.7)",
+  "npc_start": "Linuhanu",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're making progress now! The solution to Ok'hanu's woes is as good as found!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I wonder what manner of shipwright repairs reed-woven boats..."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "The shipwright's name is Wuk Evu. He's a Xbr'aal who only moved to Kozama'uka a few years ago, but has since mastered our customs to an almost frightening degree."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "He's especially strict when it comes to manners, so make sure to offer him a proper Hanuhanu greeting. We wouldn't want to offend him right before asking a favor."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A proper Hanuhanu greeting...? Oh, that one!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't worry, I remember how it goes!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Then we shouldn't have any problems. Let's head to Ok'bek'be, to the east of here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look over there! Do you see that big, winding staircase!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh, it seems they have a place here where visitors can stay. Looks cozy."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "This is Ok'bek'be, the Village of All. Those who drift into Kozama'uka from Tuliyollal and elsewhere are welcome to live here alongside the Hanu."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "As for Wuk Evu, he lives and works in the House of Waters High, at the top of that large tree nearby. Follow me, but I should warn you: the climb up the stairs can be challenging."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "O-ho-ka-liy... Ohokaliy..."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I should mention that Wuk Evu isn't only a stickler for etiquette. He is also... Well, you'll find out soon enough."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We are hoping to enlist the man's aid, so it pays not to be rude in any case."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Hm? What do you want with me?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, the greeting..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ohokaliy!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Ohokaliy!!!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Good, you've brought your manners with you."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "When in Ok'hanu, do as the Hanu do. For a country as diverse as ours, the preservation of harmony demands that we respect the cultures of all peoples who call it home."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well...that explains your familiarity with Hanu customs."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And you speak truth, of course. To live together means to learn about each other."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Ah, I appreciate an open mind."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "In fact, I get the sense we've met before..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "You─ You're Wuk Lamat!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Oh, what an unexpected honor for old Wuk Evu! Here I am prattling on about manners, and I've gone and insulted the Third Promise herself! There is no excuse for this betrayal of etiquette."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Please, take up your axe and claim my impudent head..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will not! Keep your head!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I hate formalities anyway, so forget about it, all right?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "All right, then. Consider it forgotten."
+    },
+    {
+      "character": "Krile",
+      "text_en": "How...prompt."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're actually here about the Ihih'hana float. It's in bad shape, and we need you to craft new carrying poles and a new eye. I'm told you work with uyuipo wood and a certain kind of stone...er, abokixa?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "That I do. But while I would like nothing more than to offer my services, I just used the last I had of both those materials."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "My lumber in particular went to fixing homes damaged by the recent storm. I'll need ten days or so to restock."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We can't wait that long. If you tell me where to go, I'll gather them myself."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "What? Send the Third Promise out on an errand like some common lackey? That's utterly unconscionable! A gross violation of social protocol!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I told you not to worry about such things!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "All right, then. I shan't worry a whit."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "What's with your Hanu friend there?"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I am festival leader this season, and have come along to oversee the float's repair."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "As strange as it may sound, Wuk Lamat and her friends believe the float is an arcane focus meant to encourage the growth of our struggling reeds."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Too many Hanu have forgotten, it seems, but that is indeed the true purpose of the Lifting of Wings. Your education is impressive, Third Promise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well...maybe a little!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Allow me to show you where to procure uyuipo."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "We can leave the abokixa to your friends, I presume? Take yourself to Cave Kikitola or thereabouts, and you should find the stones you need."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I've been there once or twice. I can guide you."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That should save us some time."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright, then! Let's get moving!"
+    },
+    {
+      "character": "Doppro Illusionist",
+      "text_en": "Chosen one. One of your rivals is making progress..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Ihih'hana, you say..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Should our first choice fail to deliver, it might be wise to let this play out..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "The Third-rate Promise is making herself useful after all."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A rather eccentric fellow, but I feel his heart is in the right place!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Cave Kikitola is southwest of Ok'hanu. We can return to the village first, then head there on foot."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I almost envy how effortlessly he can shift from one mood to its polar opposite. At least I presume he does so by choice..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Southwest of here, was it? Let us be on our way."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Look, you can see the falls at the back of the cave! These hollows must have been carved out by the constant deluge of water from above..."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Cave Kikitola, as promised. Home to many deadly creatures. Venture inside if you feel confident, but I will conduct my own search out here."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "You can spot raw abokixa by its green-hued glimmer. Bring anything matching that description to me."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I shall help scour the inside of the cave, then. You take the west half and I'll take the east!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I am reluctant to send you into danger for the sake of the float, but if you are willing..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Some of the cave's inhabitants took umbrage at my presence, but it was nothing a few swishes of my brush couldn't handle."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I picked over the ground near the entrance but found nothing. Did you have better luck inside the cave?"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Yes, this is abokixa. Along with Krile's contribution, we have more than enough for our needs."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "The stones you've brought shine very brightly. I thank you both."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "...He would have been happy to know we were putting things right."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Truth be told, a good friend of mine was meant to be festival leader for this year's Ihih'hana."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "But when that big storm hit, he...he did not survive. It fell to me to carry on in his stead."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That was why you agreed to Wuk Lamat's request, despite your initial reluctance."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Yes. It hurt to hear, but she was right. Though I must mourn, I cannot let my grief consume me."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Her words made me realize that the path to my recovery─our recovery─is already laid out before me. And I will walk it. For myself, and for my friend."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you for sharing your story with us. Please, rest assured that we've taken your plight to heart."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm certain our companions are procuring the other materials as we speak."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Everything will come together, and the Hanu shall host a splendid, uplifting festival!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "That we shall!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "With that, let us return and deliver the abokixa into Wuk Evu's waiting hands."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We just got back ourselves. Did you find the stone we needed?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I hope Wuk Lamat's foray was as productive as ours."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "We've come too far to stop now. The Lifting of Wings must go on!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Thanks to the Third Promise and her mighty swings, we've collected some suitable logs of uyuipo. What of the abokixa?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Yes, these are excellent samples. A goodly quantity, too."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "At this stage, you've likely surmised that the Lifting of Wings encourages the crops to grow─but not exactly how , eh?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Well, you're in for a treat. If all goes to plan, the results should be spectacular ."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Now, to get to work crafting these pieces for the float. I could use an assistant versed in the arcane arts to enhance the uyuipo's conductivity..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then I'd be delighted to help."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Everyone else should head back to Ok'hanu. We'll join you at the float once the work here is complete."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm excited to see how Ihih'hana turns out!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "The final touches are fairly routine and shouldn't take long. Go ahead and wait by the float."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "As Wuk Evu said, the festival really is a spectacle to behold."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gathering the uyuipo was a trial in and of itself."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "At first, Wuk Evu criticized everything I did. Then he suddenly yelled “I've spoken ill of the Third Promise and must punish myself!” and proceeded to slam his head into an uyuipo tree..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I told him not to worry about it─again─and it was like snuffing out a candle. He's an odd one, that's for sure!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "At least we've seen to the poles and the new eye. Now we just have to wait for the feathers from the twins!"
+    }
+  ]
+}

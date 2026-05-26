@@ -1,0 +1,408 @@
+{
+  "id": "a-royal-invitation",
+  "wiki_path": "/wiki/A_Royal_Invitation",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/7/7f/A_Royal_Invitation_%28Quest%29.png",
+  "patch": "7.1",
+  "title_en": "A Royal Invitation",
+  "level": "100",
+  "location": "Tuliyollal(X:10.0,Y:15.0)",
+  "npc_start": "Bol Wuruq",
+  "dialogues": [
+    {
+      "character": "Bol Wuruq",
+      "text_en": "Ah, it is a pleasure as always, Forename . Have you been able to relax lately?"
+    },
+    {
+      "character": "Bol Wuruq",
+      "text_en": "Wonderful. As busy as you have been, with the rite of succession among other things, you deserve an opportunity to experience Tuliyollal at a more leisurely pace."
+    },
+    {
+      "character": "Bol Wuruq",
+      "text_en": "Sampling the tacos at Xbalyav Ty'e is one such way to do so. They're made the traditional way and laden with fillings, and are absolutely sublime! If you have an empty stomach, the owner, Br'uk Evu, will look after you!"
+    },
+    {
+      "character": "Bol Wuruq",
+      "text_en": "Ahhh, talking about the tacos at Xbalyav Ty'e has given me a craving... If you have time and an empty stomach, do go and have some for me!"
+    },
+    {
+      "character": "Br'uk Evu",
+      "text_en": "Well, if it isn't Forename ! Alone today, are you?"
+    },
+    {
+      "character": "Br'uk Evu",
+      "text_en": "I see, I see. If you have a hankering for tacos, then they're on the house. Consider it a token of gratitude for your help tracking down those treasures."
+    },
+    {
+      "character": "Br'uk Evu",
+      "text_en": "I see, I see. If you have a hankering for tacos, then they're on the house. Consider it thanks for bringing down the Passage of the Unbound."
+    },
+    {
+      "character": "Br'uk Evu",
+      "text_en": "I see, I see. If you have a hankering for tacos, then they're on the house. Consider it thanks for everything you've done for Tuliyollal."
+    },
+    {
+      "character": "Br'uk Evu",
+      "text_en": "Go ahead and find a table. I'll bring you your meal as soon as it's ready."
+    },
+    {
+      "character": "Br'uk Evu",
+      "text_en": "Your red-haired friend has become something of a regular. Rare is the day he won't take one with him on a morning stroll."
+    },
+    {
+      "character": "Gregarious Man",
+      "text_en": "You still love tacos, I hope? Heh, you ate so many when you turned five, you could barely move afterwards. Remember that?"
+    },
+    {
+      "character": "Disheartened Man",
+      "text_en": "No, not really. That was thirty years ago for me..."
+    },
+    {
+      "character": "Gregarious Man",
+      "text_en": "Right... Sorry, it's still strange for me too. Just the other day you were a little boy, clinging to your mother's skirt as you set off for Yyasulani...and now you're a man grown with a face full of hair."
+    },
+    {
+      "character": "Gregarious Man",
+      "text_en": "Even so, I knew you were my son the instant I saw you. We're still family, and you can always rely on me."
+    },
+    {
+      "character": "Disheartened Man",
+      "text_en": "Relying... That feels like the only thing I'm doing right now. On you and everyone else. I can't even start a fire without assistance at my new job..."
+    },
+    {
+      "character": "Disheartened Man",
+      "text_en": "Back in Alexandria, we had electrope. If I needed fire, all I had to do was press a button. Everything was at our fingertips."
+    },
+    {
+      "character": "Disheartened Man",
+      "text_en": "But here, I'm helpless. A culinarian who can't even light the stove. The way the others in the kitchen stared at me... Gods, I'd never felt so embarrassed."
+    },
+    {
+      "character": "Gregarious Man",
+      "text_en": "I'm sorry to hear that... I'd been told the tales, but it seems life is really different within the dome."
+    },
+    {
+      "character": "Disheartened Man",
+      "text_en": "My wife and children─I was thinking I'd have them join me once things had settled, but at this rate..."
+    },
+    {
+      "character": "Gregarious Man",
+      "text_en": "I say you send for them. If they're your family, then they're mine too. I'll do whatever's necessary to make it work."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I didn't mean to overhear, but it seems you're having trouble readjusting to life in Tuliyollal."
+    },
+    {
+      "character": "Disheartened Man",
+      "text_en": "V-Vow Wuk Lamat!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To aid folk like yourself, we've established a support group at the Wing of Reflection. There, you can learn the skills you need to live outside the dome."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It isn't easy being back, I know. But I'm hopeful that they can make things easier."
+    },
+    {
+      "character": "Disheartened Man",
+      "text_en": "That's exactly what I need! I'll definitely seek this group out─and I'll bring my family with me! Thank you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, look who it is! I was just about to go and find you, Forename ."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You don't mind the company, I hope? I could use a bite to eat myself."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ahhh, the tacos here never disappoint!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, what've you been up to lately?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hehe, I'm glad that the spitting devil is serving you well, and you're still enjoying seeing the sights."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Given everything we've been through, I don't blame you. But once you've had your fill, I'm sure you'll be itching to get back into the thick of things."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've heard stories about someone helping out the businesses. Seeing how well they're faring now, you've clearly done a fine job."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've been reviewing reports from the Landsguard. Given my responsibilities, I'm not in a position to chase criminals abroad, so I needed someone else to take care of the matter. I'm glad that someone is you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're fighting in the arena in Alexandria!? By facing off against tough opponents, I'd wager you've honed your skills even further!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As for myself, I'm being kept busy with duties at the palace. But whenever I find a moment, I like to walk the streets and talk to the people."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That way, I can better understand the problems they have, and share them with Koana to figure out solutions."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I was on one such walk just now. And as I mentioned, I was hoping to find you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana and I have something we want to discuss with you─as Dawnservants. Do you have time to come to the palace?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Great. I'll go on ahead. Please come and join us once you've finished here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It seems Koana's gone somewhere. Sorry..."
+    },
+    {
+      "character": "Landsguard Gatekeeper",
+      "text_en": "Master Forename , it is always an honor. Vow Koana has stepped away to attend to a pressing matter, but he should join you within before long."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, you're all here, too?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Vow Koana summoned us. Though if truth be told, Alphinaud and I have been seeing him quite regularly of late."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He asked us to share our knowledge of Hannish culture, you see, in hopes of further strengthening your alliance. We were of course happy to oblige him."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Krile and I were likewise summoned. Otherwise we've been carrying on with our work, compiling information on the golden city."
+    },
+    {
+      "character": "Krile",
+      "text_en": "My grandfather embarked on his investigation twenty years ago. With our report, we shall finish what he started."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Lest you wonder, Thancred and Urianger have left to resume their tour of Tural."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Y'shtola, meanwhile, is back to researching cross-rift travel. She was here just a few days ago to get Koana's permission to investigate Living Memory."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "By the way, she mentioned wanting to take a look at the key in your keeping at some point."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If the look she had in her eyes was any indication, I suggest you brace yourself for when she comes calling. You're like to be stuck with her for a while."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As for Estinien...we know neither where he is nor what he is doing. Some things never change."
+    },
+    {
+      "character": "Koana",
+      "text_en": "My apologies for the delay."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Think nothing of it. We took advantage of the time to catch up."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So, what can we do for you? Hopefully present company is enough for whatever it is you need."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The matter for which I have summoned you pertains to Alexandria."
+    },
+    {
+      "character": "Koana",
+      "text_en": "A state funeral will soon be held in Solution Nine to mourn the passing of Queen Sphene. King Gulool Ja and his administration have invited us to attend."
+    },
+    {
+      "character": "Koana",
+      "text_en": "While certain issues remain unresolved between our nations, such as the treatment of Yyasulani, I see no reason not to attend."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "For generations, the Alexandrians lived without even the awareness of death. I wouldn't have expected them to have funeral rites still."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Apparently, the members of Oblivion unearthed records of ceremonies that were conducted in the Alexandria of old. It was they who put forth the proposal that the queen be thus honored."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Leave it to that lot to think of such things."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The people of Alexandria no longer forget the departed. They're being confronted with the idea of death for the first time. I suspect our friends wanted to do something for them."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Though Sphene was but a simulacrum, she was nonetheless a pillar for her people. The pain of her passing must run deep."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Indeed. A funeral will give Alexandrians the chance to come together to express their grief, that they might overcome it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I wasn't sure at first, but I've decided to go. Not only to be there for Gulool Ja, but to put this chapter behind us."
+    },
+    {
+      "character": "Koana",
+      "text_en": "That I requested your presence was none other than to see if you wish to attend the funeral. You knew Sphene as well, after all..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Because you consider yourself responsible for her demise, I take it. But that's not a burden you bear alone."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here's my idea. As Vow, I'll attend the funeral as a representative of Tuliyollal. Meanwhile, you can go in a personal capacity, and watch over the people as they mourn."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You and me both. But we made our choices and are responsible for what comes of them. As Vow, I'll attend the funeral in an official capacity. I owe it to the Alexandrian people to bear witness to their grief."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'd like it if you could be there to watch over everything, like you did all through the rite of succession."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Because of your role in her demise, I take it. But we had no choice. We had to stop her from killing countless innocents."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I won't force you to attend the funeral if it makes you feel uncomfortable. But while I represent Tuliyollal in an official capacity, I'd like it if you could be there to watch over everything."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I feel the rest of us should go too. Regardless of the reason, the fact remains that we deprived Alexandria of a beloved ruler."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's only right that we remember who Sphene was, to her people and to others, so let us stand with you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then it's decided. Let's head to Solution Nine and look for Gulool Ja in the Backroom."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "CROSSROADS"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Though I too would ideally attend the funeral, given the circumstances, I think it is best that Lamaty'i represents us."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Besides, I need to be on hand to oversee the city's repairs, which is taking longer than expected. When that work is complete, we will finally look into installing new thrones."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But to have Father's throne here still... It makes me feel he is close by. I'm quite happy for it to remain for a while."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Glad to see the invitation reached you. As you may have heard, we were able to find data on forgotten funeral customs amidst old records."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It appears to have been preserved by those who rued the loss of culture due to the proliferation of regulators. We're grateful for their foresight."
+    },
+    {
+      "character": "Geode",
+      "text_en": "It's good of you to come. We're expecting a large attendance for the funeral─the venue isn't like to hold everyone at once."
+    },
+    {
+      "character": "Geode",
+      "text_en": "But the altar will remain for those who couldn't be present during the ceremony. We ourselves plan to go and pay our respects afterwards."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Ah, you came for the funeral!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course. I'm the only one who'll officially take part, though. The others will watch over the proceedings."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, how have you been? It's been a while since my last visit."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm good. Shale is always teaching me new things."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Recently, I've learned about Everkeep's systems and the mechanical soldiers. It's knowledge I'll need to use my authority properly."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Studious as always, I see. By way of a treat, I've brought you gateau au chocolat. It's a kind of cake. I think you'll like it."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Thank you, Lamaty'i. And thank you for coming. I've never been to a funeral before, so I feel less nervous having you here."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Out of curiosity, what's the custom in Alexandria? In our world, it's common to offer flowers to the departed."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's much the same here according to the records. Flowers will be distributed to all attendees."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Considering that all the worlds used to be one, the practice of offering flowers may well share the same ancient origin. Fascinating, wouldn't you say?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "For the people to take it on themselves to organize and hold the funeral... It speaks to their enduring love for Sphene."
+    },
+    {
+      "character": "Krile",
+      "text_en": "From a group that plotted to undermine a tyrant king from the shadows to one that aids their fellow citizens in the open... Oblivion has come a long way."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's a relief to see that Gulool Ja is doing well. He's been through too much for one so young."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Although I've been in the Backroom before, there was no time to see the sights. I should like to take a closer look at the equipment."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa always said he didn't want a somber funeral, so we celebrated his life together with our victory. I'm sure he would've loved it..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I like to think he was watching us from the world beyond, filling his cup every time we filled our own."
+    },
+    {
+      "character": "Shale",
+      "text_en": "While we proposed the funeral, the royal administration took on the brunt of the planning. One of their number can better explain what the ceremony will entail."
+    }
+  ]
+}

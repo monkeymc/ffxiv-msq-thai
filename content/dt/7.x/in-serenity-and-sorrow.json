@@ -1,0 +1,616 @@
+{
+  "id": "in-serenity-and-sorrow",
+  "wiki_path": "/wiki/In_Serenity_and_Sorrow",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "In Serenity and Sorrow",
+  "level": "99",
+  "location": "Living Memory(X:16.1,Y:32.1)",
+  "npc_start": "G'raha Tia",
+  "dialogues": [
+    {
+      "character": "G'raha Tia",
+      "text_en": "I cannot claim to know exactly how Endless behave, but hopefully our man has not gone far."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let us split up to search for him. He is an Eldite with fair hair."
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "Gods strike me down... We reunite again after a hundred years, and what should happen..."
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "Y-Yes? My apologies, but I'm in some haste. If you have something to say, please make it brief."
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "Your friend noticed that I seemed troubled, so you've been looking for me? What kind souls you are!"
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "I've lost something important—the engagement ring intended for my beloved. A lanky, monkey-like fiend stole it from me."
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "After running hither and thither, I managed to locate the beast in yonder square, but I'm uncertain how I should take the ring back..."
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "Once, I might have considered fighting for it, but given the shortage of aether, the danger is simply too great."
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "If I were to be struck down and my essence dispersed, I am not like to be remade for a long time."
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "I cannot risk that. Not after my beloved has finally been given form again after a hundred years."
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "Though it pains me to do so, I shall give up on the ring, but I thank you for your kind concern."
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "That accursed beast was holding up the ring, taunting me! Grrr, how I should like to teach it a lesson... Just to warn you, it seems to be fond of shiny objects. Should you venture into yonder square, I suggest you keep an eye on your possessions."
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "Oh, 'tis you again. Was there something else?"
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "Good heavens, this is the ring! You took it back from that beast!?"
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "Thank you! Thank you ever so much!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I see you've already resolved the situation, Forename ."
+    },
+    {
+      "character": "Fair-haired Man",
+      "text_en": "You must be the friend who first noticed me. I owe you my gratitude as well."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "My name is Euclase. I was planning to propose to my beloved with the ring, and thanks to you, I can do just that."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, well, that is cause to rejoice indeed. Did the two of you meet here?"
+    },
+    {
+      "character": "Euclase",
+      "text_en": "No, we were sweethearts in life. But I died young, and she only followed me decades later."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "Even then, our reunion wasn't yet to be, for the aether shortage means not everyone can be recreated. I had to wait until but recently to see her again."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A reunion beyond death... Such a thing would be possible here, I suppose."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "I assume you're newly arrived."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "While our memories are stored in the terminals, less than one in ten of us has been given form at present."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "I myself have been reincarnated three times now, and each time there seems to be fewer of us. It's fairly a miracle that my beloved and I could meet."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I see. Given the circumstances, the chances of existing concurrently with an acquaintance would be slim indeed—and slimmer still for a loved one."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "Truly. That is why I decided to do that which I failed to do in life: ask her for her hand."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "With her regulator, she was spared the sadness of my death. Even so, she never took another man for the rest of her days."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "She told me that, although she couldn't remember me afterwards, she could never shake the feeling that someone precious had been a part of her life. The sweet fool..."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "The ring represents a yearning I have long carried, though I know full well it is only a construct. Like these bodies of ours."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "...There is a part of me that wonders if this is wrong. Not that I expect us to exist forever, even in this form."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "But to be with the one I love once again and make her happy... However wrong this world may be, I have nothing but gratitude for Queen Sphene."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "Now, if you'll excuse me, I shall go and make that proposal. I've made her wait long enough as it is."
+    },
+    {
+      "character": "Euclase",
+      "text_en": "This isn't much, but please accept it as a token of my thanks."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Tickets?"
+    },
+    {
+      "character": "Euclase",
+      "text_en": "For the gondola. To ensure that order is preserved, we must observe the proper way of doing things even here. It's very much like Queen Sphene to make it so, is it not?"
+    },
+    {
+      "character": "Euclase",
+      "text_en": "Take care, my friends—and see to it you have no regrets!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, I think it's about time we rejoined the others...but what do you say we go by gondola?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I expect it won't be possible to do so once the terminal has been shut down."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Come then, let us seek a vessel at the pier."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I've presented our tickets. While I'm no stranger to boats, I can't help but feel a little excited!"
+    },
+    {
+      "character": "Gondolier",
+      "text_en": "We can push off at any time. Mind the gap when you board."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Do you remember what I said to you before all this?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That life is a series of journeys. That you must be true to yourself, for indeed, there's no telling what awaits."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I don't know about you, but I certainly didn't expect to behold such sights. The future is as fluid as the water beneath us, truly."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Tell me, my friend. Have you ever wished to be reunited with someone who has passed away?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I have. I do. But I think... Above all else, I wish that they had lived."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If only for one more day. One more day... A joyous one, if I could choose."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I did all that I could to make it happen. I tried everything. Spared nothing."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In that manner, I was able to keep some few souls out of harm's way. But so, so many were beyond my power to save."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What would I have done then, had I this ...?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And you—can you imagine yourself spending eternity here, knowing no loss?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "'Twas nice to chat with you again, my friend. It feels as though it has been some time."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Having met Endless like Euclase, I feel I've come to understand Sphene a little better."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Anyone would wish those dear to them a long and happy future, and she bears the burden of this desire for all her subjects."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Yet as Krile said, we too have people we cannot lose..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Come, Forename . We can get to the fountain via yonder bridge."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Now that I look at it closely, the clock has no hands. On account of there being no need to keep track of time, perhaps."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Finished talking to the locals, have you? I'd be keen to hear your impressions."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Krile and Erenville are still out and about, it seems."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "So, how was it? What are your impressions of those you met?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It was great! Everyone was so happy, just talking to them made me happy too."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What about you, Forename ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sweethearts reunited? That's a miracle!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "While it is a miracle after a fashion, the system strives to make such encounters possible."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If you meet someone you know, it's probably not by chance. The terminals hold information on unfulfilled longings, and use them to orchestrate reunions like Euclase's."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I see... That the terminals can do this is impressive indeed. But there is one thing I do not understand."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "According to Euclase, his beloved passed away decades after he did, yet they appeared to be of like age."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Ah, yes. People are not necessarily recreated as they were when they passed away."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The appearance of an Endless, I speculate, reflects the happiest period in their life."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is that the case for you, then? Not that I can tell how old you are, as slowly as your people age."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I'm not sure, to be honest. I have so many happy times, it's hard to know which one applies."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I'm insufferably inquisitive. Whether it's nature or technology, I can't help but want to learn more about the world around me."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You might say that discovery is what gives me joy. It made me happy in life...and may have been a blessing afterwards."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The other Endless are content with what they have here, you see. They don't develop the urge to leave."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "But I was so determined to see the world again that I taught myself how to gain control of a vessel and ventured outside."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, you're a proper rebel!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Well, that's enough about me for now. While we wait for Krile and Elene'shpya, I have a favor to ask of you."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As you may have noticed, most of the fountains here aren't running. That's because, despite its shiny appearance, this city is centuries old and everything is dreadfully run-down."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The fountains apparently used to put on magnificent shows, and I was hoping that we could get them working again."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Giving the control units a dose of aether should be enough to restore the circuits and switch them on. But being an Endless, I'm unable to do that."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I realize this is a selfish request, but at the last, I'd like to treat the people here to the display."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just leave it to us! I'd love to see the show myself!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Thank you. The control units are built into the surrounding lampposts. If you tend to a few of them each, you'll be done before you know it."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Once the fountains are fixed, we can round up Elene'shpya and Krile and head to the Hydro Terminal together."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So the time is nigh... Come, let us set to it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This must be the control."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It looks like ordinary stone, but inside it's electrope. Talk about confusing."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The fountain shows are supposedly magnificent. Perhaps they'll impress even my fussy little bunbun."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've switched on the circuits like you asked."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Thank you, everyone. Hopefully this does the trick."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Oh!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Amazing..."
+    },
+    {
+      "character": "Delighted Girl",
+      "text_en": "Wow!"
+    },
+    {
+      "character": "Delighted Girl",
+      "text_en": "Look, Mother! Look!"
+    },
+    {
+      "character": "Canal Town Male Endless (no text)",
+      "text_en": "[IMPRESSED REAX “Wow”]"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's beautiful."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I've never seen anything like it."
+    },
+    {
+      "character": "???",
+      "text_en": "Wuk Lamat!"
+    },
+    {
+      "character": "???",
+      "text_en": "Where are you? Wuk Lamat!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By the gods... It's...Namikka..."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Begging your pardon, but I'm looking for a child—a small Xbr'aal girl. Have you seen her by chance?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You—you are Namikka, aren't you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's me, Wuk Lamat. Don't you recognize me?"
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Oh, what am I to do? The child and I, we aren't related by blood, but she's as dear to me as my own..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's all right. You've found her. I'm here."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "You...could it be?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, Namikka. You know these eyes, this voice. It's me, Wuk Lamat."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "[GASP OF REALIZATION]"
+    },
+    {
+      "character": "Namikka",
+      "text_en": "It is you! How silly of me. But if you're here, then that means..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, no. I'm still alive."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "[RELIEVED SIGH]"
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Good, good... Thank the gods for that..."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "But what power has brought us together again? This isn't a dream, is it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's not a dream."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Or rather, it is a dream come true. I so wanted to hear your voice one more time."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Just look at you. My Wuk Lamat. Stronger and more assured than I've ever seen."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Such hazards you must have braved and hardships endured to come so far..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It was tough, but I made it thanks to my friends."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And to you, Namikka."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm the person I am now because you always believed in me. Because you loved me as if I were your own daughter."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, thank you. You're everything I could've asked for—the best mother!"
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Ahhh... I'm so glad..."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Looking back, I've had a blessed life. And it was because I was a part of yours."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "When I lost my child to illness, I thought I'd never know happiness again. But it rekindled in my breast the instant you smiled your little smile at me. You became my purpose. My joy."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You were mine too."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "To have this chance to speak with you again and leave nothing unsaid... I know not how or why, but I am grateful. So grateful."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Where you must go, I cannot follow, but know that I'll always be with you. Take care of yourself. Promise me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will, Mama. I will."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And one day...we'll meet again!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I understand why Sphene cannot bear to let them go."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But as painful as it is to part..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're meant to live and die. To let go and let others carry on in our stead. We can't cling to everything forever."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come, let's keep moving!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The show was breathtaking, was it not?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I've made a wonderful memory. Thank you."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Namikka looked truly happy..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just to make sure, Cahciua—you're not going to disappear when we shut this terminal down, right?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Not just yet. It's the Aero Terminal in the northwestern zone that holds my memories."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You already know how to operate the terminal. It's the same process as the fountain's control."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I leave it for you to decide when to shut it down. Doing so will cause the Endless here to fade away, together with this beautiful scenery."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If you still wish to speak with people or see the sights, you'll want to do that first."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Sleep tight, everyone..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I had braced myself for it, but to actually erase the Endless is...hard."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Thank you."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This is Living Memory's true appearance..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This hurts. I'd be lying if I said otherwise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But the only way now is forward..."
+    }
+  ]
+}

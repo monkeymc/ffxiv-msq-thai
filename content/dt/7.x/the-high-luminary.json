@@ -1,0 +1,800 @@
+{
+  "id": "the-high-luminary",
+  "wiki_path": "/wiki/The_High_Luminary",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/The_High_Luminary.png",
+  "patch": "7.0",
+  "title_en": "The High Luminary",
+  "level": "93",
+  "location": "Urqopacha(X:13.2,Y:32.4)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "The true size of a mountain is never more apparent than when you're standing right at its foot..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I fear I won't be of much use to you as a guide past this point. Even in Tuliyollal, there is precious little written about the sacred peak of Worqor Zormor. Beyond whimsical poetry, that is."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I cast a rejuvenating spell on Wuk Lamat. Even our indomitable Third Promise is feeling the strain of these slopes."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I hope we come across Bakool Ja Ja on our way to the summit─we still owe him for the troubles he caused us in Kozama'uka."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gods, that is one tall mountain. And we're supposed to climb it?"
+    },
+    {
+      "character": "Vorporlor (Yok Huy tongue)",
+      "text_en": "[Do not expect to walk here unchallenged. Tell me, stunted ones, did those short legs bring you all the way from Tuliyollal?]"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "He's speaking the old Yok Huy tongue. The words are...difficult to catch."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Though your words are crude and cumbersome, I use them for your benefit."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "You are a claimant in this “rite of succession”?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's right."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Then if you die, Tuliyollal loses a potential ruler."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's a dark thing to say, friend. I get the feeling you don't share the opinions of the other Yok Huy we've met."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "We do not grovel before Gulool Ja Ja like those shameless lapdogs."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "My brethren and I are conquerors, and we will restore our people to their rightful place as Tural's overlords!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The giants have their own factions, too, it seems..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You think your kin weak for showing deference to my father, but they do not follow the man."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It is his peace they respect. A peace they always wanted─which they realized could be had right here."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Justifications of the craven! They turn their gaze from our ancestors─from the dream we kept alive for a thousand years and more!"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "They are unworthy of bearing our legacy. I will reclaim the glory of our people."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "And our ascension begins with the death of the Third Promise!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Stop! I don't want to fight you!"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Then die on your knees."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Opportunistic vermin! Seek to feast on us, do you!?"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Get down here! Your neck will be the first I snap this day!"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "[SURPRISED/ALARMED REACTION]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's right!"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Why do you help us?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I didn't put much thought into it. My legs were moving before I knew what was happening."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I suppose I feared you'd die before we had the chance to get to know each other. Before I could learn more about you."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "To what end?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, that's simple..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If we're to share the land, it's the best way for us to become friends."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How is he?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He'll live. Not quite ready to walk under his own strength, however."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you could stay and tend to him, the rest of us will continue on to Worqor Zormor."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Understood. Be careful up there."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "This changes nothing. We will not forsake our conquest."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As you like. You want to kill me, you're welcome to try. But right now, you might want to worry about your comrade."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "On a mountain of that size, there are bound to be creatures even I've never heard of. I'll trust you to lead the way."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then we climb! Gurfurlur is waiting!"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "I set out to kill Tuliyollal's favorite daughter this day. To be aided by her instead was...unexpected."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "I will not harm you or yours until this debt is repaid."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I will tend to this one's wounds. Go on ahead with the others."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As I've said before, I am no fighter. I'll follow from a distance and keep well out of your way."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "While I didn't mind guarding Erenville on the river, I look forward to swinging a blade on the front lines this time!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That bird must roost somewhere on the mountain. We'll need to be wary of the skies, as well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll be seeing you soon, Gurfurlur!"
+    },
+    {
+      "character": "Ryoqor Terteh",
+      "text_en": "Travelers on the mountain? How delightful! Do stay and play a while!"
+    },
+    {
+      "character": "Ryoqor Terteh",
+      "text_en": "Come to me, snowkin! Join the fun!"
+    },
+    {
+      "character": "Ryoqor Terteh",
+      "text_en": "Wait for it...Now, freeze!"
+    },
+    {
+      "character": "Qorrloh Teh",
+      "text_en": "Brr, so cold!"
+    },
+    {
+      "character": "Qorrloh Teh",
+      "text_en": "Chilly!"
+    },
+    {
+      "character": "Rorrloh Teh",
+      "text_en": "Kyahaha!"
+    },
+    {
+      "character": "Rorrloh Teh",
+      "text_en": "Icy!"
+    },
+    {
+      "character": "Ryoqor Terteh",
+      "text_en": "Come to me, snowkin, large and small!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You've caught up. Seems I've been toying too much with my prey."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Bah... That was unintended."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You'll have to find another path. Think of it as an added test of your resourcefulness..."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "I am Gurfurlur, elector of the Dawnservant! Prepare to be tested!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Prove you are worthy to rule!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Feel the weight of history carved in stone!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Chronicles of eld... Retell the hunger of roiling waters!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Chronicles of eld... Recount the fury of erupting peaks!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "I will take the measure of your resolve!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Implacable strength of the mountain be mine..."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Spirit of my brethren, your thunder roars!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "That you should endure my fury..."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Chronicles of eld... Recall the cruelty of merciless storms!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I think I did well considering our opponent!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That was some fight! Papa knows how to pick his electors."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Carved histories recreated through magic... It's an interesting fighting style."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Well fought..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've been climbing for ages..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And we're barely halfway. The real climb starts from here!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Now the climb gets difficult..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Look at all these crystals..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Evidence of how dense this ambient aether must be."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The ambient aether is dense enough to form crystals..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What is that?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Must be a snow spirit! Not that I've ever seen one."
+    },
+    {
+      "character": "Krile",
+      "text_en": "An arcane entity of some kind?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This way!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It froze its friends!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "They've stopped moving..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Big ones, little ones. The whole family is here!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Look at them all..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We can handle it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There better not be any more of those."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I feel chilled to the bone..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Phew. It was tougher than it looked."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I know those scales..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Isn't that...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Gods!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Goodness!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Dammit!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hey! You're back here!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, that's inconvenient..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This won't stop us!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's the bird that attacked the giants!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yes, and it doesn't look pleased to see us..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Sorry to trespass, but this is the only way through!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It doesn't look pleased to see us up here..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Did you see that? The spell came from the crystals!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The shards are resonating with its magic!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What kind of bird can do that!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh...getting hard to move..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We're being crystallized!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is this how it hunts?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We did it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh... That was barely a challenge!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Right, back to the climb!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Great sunken gods! We're so high up!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Better watch your step, then!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Better watch your step─that's a long drop!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We're above the clouds now..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So that's the High Luminary... He... He's huge!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If it's a fight he wants, then let's give it to him!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Goodness, he must be twice the size of the other Yok Huy!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Some kind of arcane tablet?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Careful! This is powerful magic..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll face whatever he throws at us!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "His strength is formidable... But so is ours?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Stand fast!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone all right!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well enough... Let's get back to it!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Time to go on the offensive!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Very good, claimant. Once more, I name myself Gurfurlur. High Luminary to my people and chosen elector of the Dawnservant."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're much bigger than the others in the village!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "All Yok Huy were once my equal in size. But ever since we were decimated by disease, it is rare to see a child reach our former stature."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You speak of the contagion which afflicted the Xak Tural expedition. The one recorded in your murals..."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "It is a chapter of our history that is entangled with the legend of the golden city."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've heard that legend originated with the Yok Huy. Is this true...?"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "With the visions our ancestors had, to be precise."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Preceding the campaign into Xak Tural, many were visited by dreams of glittering splendor."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "They described a paradise that knew neither war nor famine. Where people lived lives of eternal happiness..."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "A single dreamer might have been dismissed. But when dozens, if not hundreds, spoke the same, the luminaries became convinced it was divine revelation."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then the expedition..."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Its purpose was to find the city of gold, yes. Help was marshaled from all the territories under our control. Lands were scoured on a massive scale."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ah...little wonder the legend is so similar across Tural. Those involved with the search would've passed the stories down to their children."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Another claimant, I see. I will test your worth, as I have tested those who came before you."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "“Here and now,” I think he means."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Well fought, Second Promise. For you and your sister's success in performing the Feat of Proof, you both shall be rewarded."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Three to go!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "How glorious it would have been to race thee and thine to the summit...though mayhap not whilst being hounded by Bakool Ja Ja and his minions."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Again that swine shows his disdain for the rite!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Strangely, despite his eagerness to antagonize us, he withdrew as soon as we fought back in earnest. I cannot fathom what he was trying to achieve..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "On a similar note, I'm also curious as to why you chose the peak of Worqor Zormor for the conclusion of this feat."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The earlier stages saw us learn the history of the Yok Huy. Does this location also hold some special meaning for your people?"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Yes. It is a place of great significance."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "All these monuments... Is this a burial ground?"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Every High Luminary before me is enshrined in this earth. Alongside them are the heroes who bravely stood their ground when Valigarmanda brought ruin to Urqopacha eight decades past."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Hmm... That explains why there are so many."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja. I should've known you'd arrive here first..."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "[LABORED BREATHING EXERT]"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Ah, Third Promise. How relieved I am to find you in good health."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sareel Ja, you bastard! I should end you here and now!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Remember where you are. You will mind your conduct, or you will leave."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, uh...sorry."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I see no reason to delay further. Show me my father's sepulchre."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa has a grave...?"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Upon this monument are inscribed the names of those who sealed away the monstrous Valigarmanda. Your father's included."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "“ Gulool Ja Ja - Master of Resolve and Reason. Champion of Peace.”"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Look at this one. “ Ketenramm - Navigator of Uncharted Oceans.”"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ketenramm? The Lominsan explorer? Does this mean he joined Gulool Ja Ja on his travels!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "“ Cahciua - Seeker of the Unknown.” How strange to see your name here..."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "It was unheard of to build living sepulchres for those who were not Yok Huy...but their great deed demanded recognition."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Master of Resolve and Reason. Champion of Peace... Papa really did some amazing things."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "He carved his path with martial skill."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Yet it was clever thinking which allowed him to trap Valigarmanda within its own ice magicks."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Martial skill and clever thinking... Hmm."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't compete with Zoraal Ja's mastery of the Head of Resolve's techniques."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And when it comes to knowledge, Koana's the one who most takes after the Head of Reason."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is there anything that I've gotten from Papa? Something I do better than the others..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Of course!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What else defines him...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, of course!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa's love for peace─for his people! That is what he's given me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And I'm fighting to preserve the peaceful Tural he built!"
+    },
+    {
+      "character": "???",
+      "text_en": "[UNHOLY SCREECHING ROAR - “Graaaaaagh!”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What in the hells was that!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You must return to Worlar's Echo immediately!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Valigarmanda has broken free!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I presume that was about the unholy sound?"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Valigarmanda is free!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We need to get back there. Now!"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "How fortuitous. We have been gifted an opportunity to outpace our rivals."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Stay with me! We'll have a healer see to you soon!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "There, that should help. Rest awhile, and you'll be back on your feet in no time."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This is a Sharlayan restorative potion. Drink it slowly."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You'll be fine. Just try to avoid sudden movements so you don't reopen your wounds."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Urianger says fire aether pervades the entire village. What happened here...?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Many of the villagers sustained burns, but the fire found no purchase in these stone buildings. A small mercy."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though Valigarmanda's escape is of dire concern, we must needs tend to those caught in the conflagration."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Good, you're back."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There is much I would explain, but by the time I arrived to investigate a sudden surge in aether, there were already fallen giants everywhere."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Right now, everyone is preoccupied with treating the wounded. Pray catch your breath, and then lend a hand where you can."
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": "the-warmth-of-family",
+  "wiki_path": "/wiki/The_Warmth_of_Family",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/31/The_Warmth_of_Family.png",
+  "patch": "7.1",
+  "title_en": "The Warmth of Family",
+  "level": "100",
+  "location": "Shaaloani(X:27.3,Y:10.9)",
+  "npc_start": "Koana",
+  "dialogues": [
+    {
+      "character": "Shepetto",
+      "text_en": "I expect Vow Wuk Lamat and Erenville will be back soon as well..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana! How did it go?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I believe I finally understand the significance of the hhetso."
+    },
+    {
+      "character": "Koana",
+      "text_en": "They nourish the Hhetsarro as they grow, and provide warmth and companionship in a harsh and unpredictable world..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "They are the equal of any man, not beasts to be tamed."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Moreover, rroneek are sensitive. Though we may treat their injuries or brush their coats to keep them hale, they must ever be free to follow their instincts and seek lands where they might thrive."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The Hhetsarro would never cage them, and neither should we. To control their migratory patterns or capture those who wander too close to the tracks is out of the question..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Then it is particularly important to advance our original line of inquiry. Fortunately, we were able to visit the rroneek's once-favored grazing grounds."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As we were told, the grass looks fine. But the place is too quiet. It's not just the rroneek─even the birds and field mice have fled. We did encounter one pack of ceratoraptors, but they looked to be passing through in a hurry."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Typically, that sort of behavior in the fauna would be associated with natural disasters. Earthquakes, landslides, and the like."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Though the Hhetsarro would have surely put two and two together were the cause geological, I measured the area's aether to be certain. There was indeed nothing to suggest recent environmental disruption, but I did notice one anomaly."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A strong aetheric signature to the east. Moving across the plain, albeit slowly."
+    },
+    {
+      "character": "Koana",
+      "text_en": "And a powerful one, like as not. A predator, given the local fauna's behavior."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Given where we are... I believe we are dealing with a powerful beast. A predator, perhaps, given the local fauna's behavior."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "One of the raptors we saw looked like it had a bite taken out of its tail. By something with very large fangs."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "It couldn't be...a tturuhhetso?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Tturuhhetso?"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "“Rroneek reaver,” in the common tongue. Our people have several names for such creatures. “Fangs that steal hhetso in the night” is another evocative one."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Rroneek can fend off many predators with their horns, but not the tturuhhetso. Their scales are tough as adamant, and neither horn nor arrow can pierce them."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A well-toothed carnivore with an unusually tough hide... I cannot recall any such fauna in this region."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "They usually roam the wilds in the northeast, and most herds keep well clear of them. I can't tell you why this one is so far from home and its pack both."
+    },
+    {
+      "character": "Koana",
+      "text_en": "In any case, I believe the source of the rroneek's consternation is clear. As is our next move. We must drive this reaver away, that they might return to their grazing lands in peace."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Never fear─we will make certain that the beast threatens you no more."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A powerful creature behaving unusually... Left to its devices, it may well become a tural vidraal. We must attend to it ere that happens."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Those rroneek reavers must have a hefty set of teeth...but I'm not worried. We've fought worse."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "We must protect the hhetso, but not at the cost of your lives. Please take care out there."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "I am loath to risk inciting panic lest our fears be unfounded...but I will warn my people to take extra precautions."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The rroneek reaver is a clear threat to the local population. We cannot allow it to roam unchecked."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But it won't do for us to go running off in search of it without having made proper preparations. And if others returning from across the plain have spotted it, they may be able to inform us of its recent behavior and where it might be found."
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "Help! Heeelp!"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "A tturuhhetso is coming this way!"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "It has beasts across the plains in a panic─and our rroneek are practically paralyzed with fear. We must get them to safety!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We can assist by helping to calm the creatures. Once they're less agitated, it should be possible to herd them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And after they're out of harm's way, we'll deal with the rroneek reaver!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I suggest you remain here to attend to the rroneek when they arrive."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "They'll be safe with me. Please be careful out there."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Make haste! We must protect the rroneek."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't worry, we're right behind you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Eyes peeled for anything brown and fluffy!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It would be fortunate if they ran this way..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I think I see..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "There they are!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They're terrified. We must do what we can to soothe them."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Thank goodness."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No teeth marks"
+    },
+    {
+      "character": "Rroneek",
+      "text_en": "<grunt>"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You're all right..."
+    },
+    {
+      "character": "Rroneek",
+      "text_en": "<snuffle>"
+    },
+    {
+      "character": "Koana",
+      "text_en": "That herd should be all right. Let's look for stragglers."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The rroneek are Turali too. None shall be left behind!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's someone coming!"
+    },
+    {
+      "character": "Hhetsarro A (text bubble)",
+      "text_en": "Run!"
+    },
+    {
+      "character": "Hhetsarro B (text bubble)",
+      "text_en": "Call the hunters!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "There must be something up ahead. Come!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "There!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "These are no match for the likes of us!"
+    },
+    {
+      "character": "Rroneek",
+      "text_en": "<bellow>"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "“In a panic” was clearly an understatement."
+    },
+    {
+      "character": "Rroneek",
+      "text_en": "<grunt>"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "More are coming!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seriously!?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Oof!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're mine!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Oh dear..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Where did they all come from!?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "All or nothing, then!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "How do you like that!? ...Ahem."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Nice!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "It seems that did the trick."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "For the fodder, at least. But where's..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look there! We've got a big one coming!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Impenetrable scales and wicked fangs..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That's a rroneek reaver, and no mistake."
+    },
+    {
+      "character": "Koana",
+      "text_en": "There! That one there!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Not so fast!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Even should it cost me my life..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I will save the hhetso!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana, are you alright?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Do not concern yourself with me. Get the rroneek to safety!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There, there. You've nothing to fear."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's finish the job!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I made a vow to our people. You shall plague them no longer!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "You'll find the Vow of Reason is not without resolve!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Dammit! Not even a scratch!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Buy me some time to think, will you?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "It must have a weakness...and I will find it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Gah! For the love of..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Keep it busy! I need time!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right. Go for the legs!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The legs!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now we just have to keep it pinned..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hraaah!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Get thinking, Koana!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Will do!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A protective current of aether... But whence does it flow?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The protective aether is there..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Conducted by the scales..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Now, trace that back..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "To the point of greatest density!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I've got it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ngh!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "This is our best chance..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "One well-placed piercing round to the chest, and..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You're done for!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ha!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "That stemmed the flow of protective aether."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's nothing stopping us now!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Still not backing down, huh? Fine with me!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "It has yet to recollect its aether."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Get close!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "We must disperse that aether ere the reaver recovers it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is going to hurt..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "We did it."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The hhetso! Are they...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The rroneek have all made it to Mehwahhetsoan. Hunters are scouring the area for any remaining threats, but the local fauna appear to have calmed down."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "We cannot thank you enough for your timely aid."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "You most of all, Vow of Reason."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "We feared you would be loath to take direct action, yet you didn't hesitate to put your life on the line for our hhetso."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I did no more than is a Dawnservant's duty."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The aetherial conductivity of those scales is astounding. I daresay we could repurpose them to create a device that emits controlled pulses of aether."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Aether resembling that of the predator the rroneek fear most."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It might work. If we struck the right balance, we would have the means to deter the rroneek from approaching the railroad without causing them undue distress."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Incredible! Koana, you've done it again!"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "I must say, I was hoping I'd never have to see one of these again..."
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "Still haven't forgotten the last one─and it's been more than twenty years now."
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "I had come as a trader to the camp in Loazeniheta. A camp that was obliterated in an instant by that monster."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Loazeniheta? That's where the Pelupelu trader found me as a babe..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Please, can you tell me what you saw?"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "As I said, I had traveled there to trade with our fellow Hhetsarro."
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "Like us, they followed the rroneek. And like us, they were visited by a reaver."
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "The fiend struck like a whirlwind in the night. It was chaos."
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "I grabbed some token belongings and bolted in a panic, thinking only of getting as far away as possible. But even in my panicked state, I could not help but notice the young couple racing the other way─toward the fell creature!"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "\"We'll distract it!“ I heard one cry. ”Save our son! Save the hhetso!“"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "After that, nothing but the pounding of my heart and feet and rroneek thunder. I ran and ran...and as the sun broke the horizon, I found myself separated from both man and beast."
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "Windborne words say that a group of survivors reunited with their remaining rroneek, and have long since moved on."
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "But still more were never seen again, including the brave couple...or so the story goes."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...And what became of their child?"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "I'm afraid I don't know. But if he wasn't with the survivors, even if he lived through that night... The wilderness wouldn't have been kind to a little one out on his lonesome."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Maybe not...but perhaps a passing Pelupelu would. And, one day, even the Dawnservant himself..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "All these years, I was convinced that my parents had left me behind to follow after the rroneek."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But now I see. They didn't abandon me─they were trying to keep me safe."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I've wasted so much time resenting them, when in truth they gave me everything I have today."
+    },
+    {
+      "character": "Koana",
+      "text_en": "It is thanks to them that I lived to know the warmth of family, even after they were gone."
+    },
+    {
+      "character": "Koana",
+      "text_en": "And now that I am Dawnservant, all of Tuliyollal is my family."
+    },
+    {
+      "character": "Koana",
+      "text_en": "A family I will always protect...as my parents protected me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't imagine how Koana must be feeling right now. That reaver─you don't suppose it was the same one that...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We certainly got more than we bargained for when we set out to solve our railroad conundrum..."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "You made felling that tturuhhetso look easy! On behalf of the hhetso, I thank you."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "If Vow Koana counts us among his family, then he is part of ours."
+    },
+    {
+      "character": "Koana",
+      "text_en": "To know that the hhetso are safe is more than enough. Yet...would it be wrong to hope that, in protecting them, we also avenged my parents? It is the least I owe to them, after all this time..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Forename , I thank you for standing by me. As Dawnservant...and as the oft imperfect man beneath that mantle."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Now, let us return our attentions to the matter we came here to address, shall we?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "We have removed the root cause of the rroneek straying from their favored grazing, and obtained the tools to devise an additional precautionary measure─a silent “whistle,” as it were."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This whistle must be capable of emitting pulses of aether strong enough that they will shy away from the tracks on instinct, yet not so strong as to drive them into a panic."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If we can achieve this, it will be a far sight better than a traditional whistle. More effective and less stressful for the creatures themselves."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Let us return to Shaaloani Station and begin work on it, then. Wawlika and his crew will doubtless be relieved to finally have a solution."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Now that the hhetso have taken to you, you'll have to come and see us again!"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "I am pleased to have seen with my own eyes the wisdom and courage our new Dawnservants will use to lead this nation. I wish them all the best."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A variety of artisans from across Tural have come to assist with the railroad, so I foresee no difficulty in creating the whistle that Koana proposed."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Ah, I always carry a spare pair of spectacles or two, as it can be difficult to find replacements outside of the city. You wouldn't believe how many I went through during the rite of succession..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This train will be ready in no time!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "You look pleased about something. Good news for the railroad, I take it?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "So the rroneek were avoiding a predator... Smart ones, they are. And Vow Koana's not too bad himself, what with his whistle idea! Sit tight─we'll have this train on the tracks before you know it."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "We're ready to go!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whoa! She looks as good as new!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "If I had time to do a proper job, I could've really made her shine."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Had to cobble together the exterior with spare parts. We refurbished the interior, though─not that you can appreciate it from out here."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "But as far as the rroneek are concerned, we've spared no effort."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "From the ballast to the ties, we've adjusted every bit of the track so she'll run quiet as a field mouse."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You and your crew have worked wonders. Our nation is in your debt."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Come now─if anything, credit's due to Tuliyollal! It's thanks to the folk you recruited from every corner of the continent that we were able to get her up and running so quickly."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Besides, the aetherial whistle's the true marvel, and we wouldn't have that without the scales you brought us."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "However grateful you are, know that we're even more thankful."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "Right! If we're done talking, let's put this train through her paces!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There's a rroneek up ahead."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Now to test our whistle..."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "On it! Just point it in the general direction and..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's moving away."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Meanwhile, our friends over there appear wholly unperturbed."
+    },
+    {
+      "character": "Koana",
+      "text_en": "With this, we can alert those who wander too close without disturbing the rest of the herd."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "A roaring success! ...In a quiet way, like."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "Then with your permission, Vow of Reason... The Xak Tural railroad is back in service!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now anyone will be able to come and go from the dome as they please! I can't wait to spread the word in Alexandria."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I expect that with the reaver gone, the rroneek will gradually return to their old habits, and we won't see so many approaching the tracks. It is good to see that the whistle will be effective in the meantime, however."
+    },
+    {
+      "character": "Koana",
+      "text_en": "With that, I believe our work here is done. The fine people of Xak Tural Railing can take it from here."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "The folks that Vow Koana brought in to help rebuild the railroad have already returned home, but I hope we can give them a ride someday."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "For a while there, we were real worried that we'd never get the railroad running again."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "But now that the test drive was such a success, we can breathe easy and start hauling people to and from the dome."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "First Shaaloani, and then...the continent! Watch out, Xak Tural─here we come!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "I share the sentiment, but we've got a mountain of work ahead of us to ensure smooth operations. Time to get back to it..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The efforts of all here today have not gone unnoticed. Once more, I thank you."
+    },
+    {
+      "character": "Koana",
+      "text_en": "As for our own work...I trust you can handle matters in Alexandria, Lamaty'i?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It won't be as I once envisioned...but perhaps someday we can take that train journey to Yyasulani together."
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "id": "and-the-land-would-tremble",
+  "wiki_path": "/wiki/And_the_Land_Would_Tremble",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/a/a6/And_the_Land_Would_Tremble.png",
+  "patch": "7.0",
+  "title_en": "And the Land Would Tremble",
+  "level": "96",
+  "location": "Shaaloani(X:28.3,Y:12.6)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Hhwato",
+      "text_en": "We must talk again soon. Next time, perhaps, on a hunt together."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "You'll come back, won't you? There's so much I'd like to know about the lands beyond Tural."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "While we wait, we could get started moving the timber somewhere more accessible."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It shouldn't take long if we split the work."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What are a few logs compared to the nigh-countless crates of Labyrinthos."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I should think this will be enough."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "That was mighty kind of you to move all that lumber. Sorry we didn't make it back sooner."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "We'll see to the rest."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Once we've repaired the tracks, we'll have you on the first train out of town. Ain't that right, chief?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Er... As much as I'd love to make it so, there aren't any spots available."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "You'll have to wait for the one after, I'm afraid, but you'll be riding free of charge. It's the least we can do to repay your kindness."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That's fine. Namikka and no few others were here long before we arrived. It's only right they go before us."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "I hope you'll stop by and see the train off."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "It's a breathtaking sight, let me tell you!"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "And Nitowikwe will be driving! No engineer compares to her, and it's always a treat to watch her work!"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "The only work we should be worried about is our own, Shenza. And we've still more to do."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll find somewhere quiet near the station to pass the time. If there's anything else in Shaaloani you're keen to see, I'll leave you to it."
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "We'll handle the rest of the work from here. You just sit tight now!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "My thanks again for your timely assistance. Won't be long now before the tracks are fixed and you're on your way."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "It'll be good to have the train running again. I missed the sound of her barreling down the tracks."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Had your fill of the sights? Well, they appear to have almost finished..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A glorious, grand machine indeed... I hope Namikka was able to secure a seat."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Here she comes!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Thanks to you, we managed to resume service much faster than anticipated. You have our gratitude."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Ahhh, there's nothing so enchanting as a ceruleum-powered engine in motion!"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "Ain't that the truth. Don't think I'll ever tire of watching them chugging along. They make wagons look like toys."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "And so long as we can lay the tracks, she can go on and on and on. Before you know it, she'll be crossing the entire continent!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Railroads are a somewhat recent addition to Tural. As it stands, we can only ferry folks as far as Yyasulani."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "And from an operational standpoint, we still have much to learn. There's always some problem or another to deal with."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "But we'll keep working at it. We'll hone our craft and continue expanding till, one day, our trains are running coast-to-coast. That's the ultimate dream."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Goodness, I completely lost track of time. By now, I expect the train will be nearing Yyasulani."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "When it returns, we'll see you on your way. So if you've got any preparations to make, you'd better make 'em quick."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Not another one!?"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "You can't be serious!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Gods have mercy..."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "What in the flying─ What's happening!?"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "The train! Nitowikwe and the others!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "My home lies that way as well..."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "We're going to investigate─right now!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What in the world... Are they heading for Tuliyollal!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Heavens forfend..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're here! Good, good─they came from the sky and attacked without any warning."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The people need our help!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hyah!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Can you stand?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Try to remain calm, everyone!"
+    },
+    {
+      "character": "Mamool Ja Soldier",
+      "text_en": "Hyah!"
+    },
+    {
+      "character": "Mamool Ja Soldier",
+      "text_en": "What the─!?"
+    },
+    {
+      "character": "Mamool Ja Soldier",
+      "text_en": "Argh!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I don't know what they are...but they're not men!"
+    },
+    {
+      "character": "Peshiwa",
+      "text_en": "Someone help me! Please!"
+    },
+    {
+      "character": "Peshiwa",
+      "text_en": "Ugh..."
+    },
+    {
+      "character": "Landsguard Soldier",
+      "text_en": "Bastard!"
+    },
+    {
+      "character": "Landsguard Soldier",
+      "text_en": "Argh!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What did it just do!?"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Hraaah!"
+    },
+    {
+      "character": "Tonawawtan Youth",
+      "text_en": "Th-Thank you!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Save the thanks─just get to safety!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'll hold the line here! Fall back to the palace!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Quickly, before it's overrun!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, Bakool Ja Ja!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Hmph."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "This is simply how I do things now."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "So, who wants to taste my blade next!?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "That you should still live."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja...?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "By the gods... What has happened to you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is your butchery, isn't it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "After everything you've done in service to the throne, how could you betray us!?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "My demand is simple: the dissolution of Tuliyollal and surrender of all its territories."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Refuse, and I will kill every last one of you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Have you gone mad!?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "No. My ambition remains unchanged."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "To teach the masses the folly of war that they cry out for peace, and thus unite the world."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "What has changed you so much, and in so short a time?"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "To harm the very people you swore to serve..."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "This is an unforgivable deed─committed by my son! My son !"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You have heard my ultimatum."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "And you will have my answer..."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "By my hands, I will end your madness."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa, wait! I should be the one to do this!"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "No. His sins are mine to bear."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Fear not. While Zoraal Ja is strong, he has never been Father's equal in combat."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I believed you long dead. To have the chance to kill you myself is an unforeseen blessing."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Farewell, Zoraal Ja, my son... And forgive me..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Despite his old age, the mighty Gulool Ja Ja remains a fearsome foe indeed."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You retain the vitality of two souls despite the passing of one."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I shall even the odds."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa...?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Even the blessed are mortal..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Father!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Jaaa!!!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You are no match for me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Murderer! On my honor as Vow of Resolve, I'll make you pay!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "So the once faint-hearted girl would live up to her title."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Very well. If only to demonstrate the disparity between us, I give you a chance to prove yourself."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Rally the entirety of your strength. Lay siege to my kingdom."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Strike me down, like I did Father. Then will you be his worthy successor."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja, wait!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "My warships will remain in your skies."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "When you fail to prove your worth, I shall order them to lay waste to Tuliyollal."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Choose your next steps wisely."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Twelve have mercy..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We did everything we could. Everything... But it simply wasn't enough..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can scarcely believe my eyes..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "How could this happen?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Father, no! This cannot be!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Sunperch Guard",
+      "text_en": "Do you have business at Sunperch?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No... Papa can't die... He can't..."
+    }
+  ]
+}

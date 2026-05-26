@@ -1,0 +1,324 @@
+{
+  "id": "a-jewel-shattered",
+  "wiki_path": "/wiki/A_Jewel_Shattered",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.2",
+  "title_en": "A Jewel Shattered",
+  "level": "100",
+  "location": "Solution Nine(X:17.1,Y:19.6)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm glad I'm the way I am. It's my parents' gift to me, and how I was able to learn more about them─and about myself."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I believe that takes care of the deliveries. Thank you for taking charge, Forename ."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "From what I've seen and heard, 'tis plain the people held their queen in high regard. And the simulant has exploited their love and admiration to win over so very many..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Come, let us report to Malachite. He should be back at the north of the recreation zone."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Malachite seems to be doing better."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Those we spoke with all harbored anxiety towards death. 'Tis hardly an unnatural sentiment to have, and yet..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Done with your deliveries? We've just gotten back ourselves."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Thank you for your assistance. With this, every delivery I had planned for today is accounted for."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "The reactions I received were...mixed. While some were glad, others decided they did not want the items after all. How was your experience?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Everyone accepted their items, but they all felt differently about them. One person couldn't remember the keepsake's owner, and another couldn't stop worrying about their own death."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "I see. It's difficult indeed to predict how people may behave when confronted with reminders of loss."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "...Of late, I've come to believe that we are each of us the sum of the moments we've shared with our loved ones."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "And when they passed away, and we lost our memories of these people...we lost a part of ourselves. It's a thought that saddens me to no end..."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "If our memories of the departed are no longer to be entrusted to the cloud, I wish that those already taken could be returned to us..."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Well, my friends, I must resume my formal duties. My thanks again for your aid."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Malachite speaks true─our memories are what define us. They form the path we walked to be where we are."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My Endless self, I expect, was much alike to me in the beginning."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But I cannot become like her no more than she could become like me. For once our paths diverged, so too did our lives and experiences."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's true... Even if we start from the same place, we all have different journeys. At some point, things like our goals and our ways of thinking are bound to change."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The Endless Sphene was one possibility. A version of myself who made choices I want to believe I never would. I'm beginning to come to terms with the fact I did , though."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh? Is that..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The simulant!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "She was looking straight at us... If I didn't know better, I'd say she wanted us to follow her."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I have a bad feeling about this, but we might not have another chance to figure out what she's up to. We're going after her, right?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "That was my first time seeing the simulant. Though she was smiling, something about her scared me..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "'Tis a strange feeling, pursuing one's spitting image. Where does she want us to go, I wonder..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The simulant headed into the street over there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Neon Stein is that way... Let's hurry."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What is she up to...?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I don't like this..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Did we lose her!?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Not here... Let's press on, if only a little further."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey! Are you alright!?"
+    },
+    {
+      "character": "???",
+      "text_en": "So he / she didn't die. Vexing, but expected."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "That was about the strongest bolt we can produce within Everkeep. What now?"
+    },
+    {
+      "character": "???",
+      "text_en": "We obtain more precise measurements. Narrow the range of variables to avoid unnecessary trial and error. That is the most expeditious course of action."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I know that voice..."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "You there! Yes, you!"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "We have important business with you!"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "We left something in your keeping─the key to interdimensional fusion. You will kindly return it to us, yes?"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Is that so? What a shame."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Now that you mention it, the other way around may have been more appropriate."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "If I had the key, I wouldn't need to be cruel and turn away so many people. Far more than five thousand could become Endless and know eternal happiness."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What!? You mean to steal aether from other worlds again!?"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "All is for the sake of his experiments."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "'Twas for that reason, you know, that the previous me created the Endless."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "I pity her. She was forced to attempt the impossible─to turn every soul who dies into an Endless even though there's no end to them."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Admittedly, that was part of the plan. Her desperation would drive her to claim the key and use it, and sure enough, she did just that."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "I know you had a soft spot for her, Lamaty'i."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "So for what it's worth, I'm truly sorry."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Alas, we are naught more than pawns. Pieces in his grand design."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't you dare make light of her love for her people! Don't you dare!"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Strike me down if you wish. I shall be made anew."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "And I doubt many would look kindly upon the Vow of Resolve of Tuliyollal if she attacked a neighboring queen─and not for the first time. Would you be willing to accept the repercussions?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn you!"
+    },
+    {
+      "character": "???",
+      "text_en": "You're speaking to me?"
+    },
+    {
+      "character": "???",
+      "text_en": "Our goal is to usher in the next phase of mankind's evolution."
+    },
+    {
+      "character": "???",
+      "text_en": "Since time immemorial, life has used death to facilitate adaptation in an ever-changing environment."
+    },
+    {
+      "character": "???",
+      "text_en": "The old and infirm are weeded out, allowing the species to thrive. Generational succession─this has been our survival strategy."
+    },
+    {
+      "character": "???",
+      "text_en": "Yet this strategy has long since reached its practical limit. It is outdated."
+    },
+    {
+      "character": "???",
+      "text_en": "It relies on progeny, which gives rise to unchecked population growth. Resources become scarce, invariably leading to conflict."
+    },
+    {
+      "character": "???",
+      "text_en": "All the while, death is ever present and robs our species of untold potential."
+    },
+    {
+      "character": "???",
+      "text_en": "Where man now stands in his evolution, bodies of flesh no longer make sense. What we must strive for next is carefully managed, eternal preservation."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx... You're Calyx, aren't you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You know him?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The young genius who had mastered electrope technology..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He founded the scientific collective known as Preservation, and devoted himself to developing a cure for the paralysis which plagued our people."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx! You always had your gaze set upon the future, and I know you do now."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But I beg you, do not deceive the people of Alexandria! Do not manipulate them with this imitation forged from my memories!"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Well, how rude. Yet whatever you may say, I'm the one whom the people regard as queen."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "You may have worn the crown for a few years, but now you are no one. Just a frail, fleshy version of me that could die at any moment. The kingdom has no use for such as you."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Our demand is simple: surrender the key. Refusal will necessitate consequences."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What a cruel thing to say to Sphene..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Are you all right, Forename ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Forgive me. I was once able to use healing spells, but my long slumber appears to have sapped my magical reserves..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "<sigh> It's frustrating to be so powerless...but perhaps I must accept my newfound limitations..."
+    }
+  ]
+}

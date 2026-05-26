@@ -1,0 +1,656 @@
+{
+  "id": "where-we-call-home",
+  "wiki_path": "/wiki/Where_We_Call_Home",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/c/c3/Where_we_call_home1.png",
+  "patch": "7.4",
+  "title_en": "Where We Call Home",
+  "level": "100",
+  "location": "Treno(X:11.8,Y:15.1)",
+  "npc_start": "Lumull",
+  "dialogues": [
+    {
+      "character": "Cargo Operator",
+      "text_en": "I really could have gone without a Doomtrain attack today..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Ready? Then our fearless operator will help you aboard."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "We make for Bentini with all haste!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Go on, climb aboard!"
+    },
+    {
+      "character": "Cargo Operator",
+      "text_en": "I'll have us there in a flash! Do keep any limbs you're attached to and would like to remain attached to inside the vehicle."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "This is it."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "You'll be riding that flatcar at the rear of the train."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I'll be all the way at the front, pushing her as fast as she can go."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "The Doomtrain moves at breakneck speed. If we're too slow, it'll plow right through us."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Speaking of which, we'd best get underway before it does just that..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Don't forget you're fighting for Eyaney. For all of Treno."
+    },
+    {
+      "character": "Cargo Operator",
+      "text_en": "Hit by a train in Treno or hit by a train out here, it's all the same to me."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Using our on-board systems, I should be able to monitor you from the locomotive. And you'll be able to hear me!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Here it comes! Brace for impact!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "We're in it now... I'm counting on you!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Waugh, the flatcar!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Turrets!? Uh...good luck!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Not again... You all right back there?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Use the transport panels to get up there!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "How many times is it going to do that!?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "What in the─ You're still on board, right!?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Aetherial...arms...?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I have to disconnect the car. Quick, jump on the next one!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Thunderous heavens!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Hit it harder!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Phew..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "No more adventures, thank you. That was enough bravery for a lifetime."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "But we did it! We stopped the Doomtrain! Well, mostly you did."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Before we can celebrate, though, we need to make sure Treno's secure."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "As I feared. Stray beasts to the south."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I've lost track of how many times I've asked you for help, but...I need your help again."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I have to believe that Eyaney will be safe with your comrades while we attend to matters elsewhere."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I'll see to the wounded. You try not to join them, alright?"
+    },
+    {
+      "character": "Imperiled Milalla",
+      "text_en": "No!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Can you stand?"
+    },
+    {
+      "character": "Imperiled Milalla",
+      "text_en": "Y-Yes! Thank you so much!"
+    },
+    {
+      "character": "Imperiled Milalla",
+      "text_en": "There were others being attacked over by the canal. Could you possibly...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Of course, I'll go right away. The rest of you should get to the town hall."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can't leave anyone behind. I won't!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Best make sure the evacuation route is clear first..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Done! Now to aid those people by the canal..."
+    },
+    {
+      "character": "Scared Citizen",
+      "text_en": "H-Heeelp!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "Waugh!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "We're trapped!"
+    },
+    {
+      "character": "Storming Thunder Spirit",
+      "text_en": "<shriek>"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Help is on the way!"
+    },
+    {
+      "character": "Scared Citizen (text bubble)",
+      "text_en": "S-Scared? Who, m-m-me?"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "My thanks!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "What incredible magic!"
+    },
+    {
+      "character": "Krile (text bubble)",
+      "text_en": "Get to safety!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "There may be other stragglers..."
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "I was so scared I couldn't even move! Silly, isn't it? Haha...ha...ha..."
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "My wife and I will be making for town hall straightaway. You have my word on that!"
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "If you're determined to check on everyone, I won't complain, but do be careful."
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "Come on!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Be careful!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That breeze is awfully warm... Oh no!"
+    },
+    {
+      "character": "Sorrowful Citizen",
+      "text_en": "Our home..."
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "It's really on fire!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "Aaaaaaah!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "We can't haul enough water for this..."
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "I noticed! Bring water!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "First things first─the fire!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "To take a leaf out of Y'shtola's book..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you, my friend!"
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "What sort of magic was that? I've never seen the like!"
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "...Priorities. Yes. I'm going to run away, and we can talk about it later!"
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "Let's go!"
+    },
+    {
+      "character": "Shocked Citizen 2",
+      "text_en": "It was you that put the fire out? How will I ever thank you..."
+    },
+    {
+      "character": "Shocked Citizen 2",
+      "text_en": "Now that we know it won't be spreading any further, we can all take shelter until this is over."
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "I cannot thank you enough!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not a moment too soon... I hope that was the worst of it."
+    },
+    {
+      "character": "Stressed Citizen",
+      "text_en": "Somebody, help!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A voice...further out!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "Eek!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'll take care of this─make for shelter!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "Phew..."
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "That was close..."
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "Ack!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "How many are there...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that all of them...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A behemoth!?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We cut that rather close."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank goodness you're all right!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Eyaney has finished the repairs. We need only hold the line until the barrier is in place."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And hold the line we will, together!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can still fight! I can!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I have no doubt!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Spread out!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh dear..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Get back!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We must move!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Get clear!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Prepare to move..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Such incredible power..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Run!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Thunderheads..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Keep away from the clouds!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "If I never see another storm..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Nowhere is safe with so many of them..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We need a solution!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Some friendly winds, if you please!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let us see if we can't get some help..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Visions of Haam..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Well done, Krile!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Clever..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It worked!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "How fortunate that bird made such an impression."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "From above!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Have care!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Again!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Look for the gaps!"
+    },
+    {
+      "character": "Greater Behemoth",
+      "text_en": "Grrroooaaar!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Aaah!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "<grunt>"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oof!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ah..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The levin grows more volatile... Something is coming."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ball lightning!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Y'shtola, Sphene─lend me your strength!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Of course."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Understood!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The two of us will disperse these balls of lightning!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Just keep the lightning at bay a little longer!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Take cover behind the spriggan!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I believe!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But will it be enough..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We are in your debt!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Fantastic!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "<huff> ...Ngh..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Impressive."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The tide is turning. Press the attack!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "[EXHAUSTED SIGH]"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I must say, that was an incredible performance."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Flatterer."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What is it?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The barrier is restored. The people of Treno may rest easy once more."
+    },
+    {
+      "character": "Lumull (Broadcast)",
+      "text_en": "The perimeter is clear, everyone! And thanks to our guests, the Doomtrain has been destroyed!"
+    },
+    {
+      "character": "Lumull (Broadcast)",
+      "text_en": "Last but not least, Eyaney's fixed the barrier. We don't need to worry about beasts anymore!"
+    },
+    {
+      "character": "Lumull (Broadcast)",
+      "text_en": "This calls for a celebration!"
+    },
+    {
+      "character": "Dauntless Laborer",
+      "text_en": "The Doomtrain is gone for good!?"
+    },
+    {
+      "character": "Unnamed Milalla",
+      "text_en": "That's our Eyaney!"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "They're safe... All of them..."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Alayla...?"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Krile, does the name “Alayla” mean aught to you?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "My mother? Did you... Did you know her?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "[PAINED NOISE OF FALLING TO KNEES]"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "I'm sorry, my dear. We should get you patched up before aught else."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Alayla's story and that of the key are one and the same. After you've rested and recovered, I'll tell you the tale."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "You have no cause to fret, I promise you."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "While Lumull forgot to give the order─bless him─there's work to be done ere we can celebrate."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "First and foremost, we must see to any injured."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Come and find me at town hall when you're ready."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Without further delay, then..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You needn't mind me. My injuries are far from severe."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But your curiosity is another matter, is it not? Your feet will deliver you to Miayli all the swifter if you can actually walk on them."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Exhaustion aside, Krile sustained no injuries you need worry over."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "After that battle, I think we all required a moment. You had better get some rest too─I mean it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "To think Miayli knew Krile's mother... I too am eager to hear the details."
+    },
+    {
+      "character": "Krile",
+      "text_en": "While I would rather not have tumbled to the pavement in front of half the city, I am none the worse for wear, thanks to Y'shtola."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But what of yourself? If you have any hurts, we can tend to them now before we see Miayli."
+    }
+  ]
+}

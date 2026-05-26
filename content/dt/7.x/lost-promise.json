@@ -1,0 +1,260 @@
+{
+  "id": "lost-promise",
+  "wiki_path": "/wiki/Lost_Promise",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Lost Promise",
+  "level": "92",
+  "location": "Kozama'uka(X:10.8,Y:28.2)",
+  "npc_start": "Koana",
+  "dialogues": [
+    {
+      "character": "Rediroq",
+      "text_en": "This is most worrisome! If Rediroq hears anything, she will let you know!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "If Lamaty'i was returning to Earthenshire from the west, then she should have passed through here...except Rediroq swears she didn't see her."
+    },
+    {
+      "character": "Koana",
+      "text_en": "In which case, 'tis entirely possible that Lamaty'i never made it back to the village at all."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The only way to be certain is to ask the sentry stationed at the opposite entrance."
+    },
+    {
+      "character": "Koana",
+      "text_en": "If the guard did not see Lamaty'i, then we can be fairly sure she's not in Earthenshire. She's not one to pass without notice."
+    },
+    {
+      "character": "Earthenshire Sentry",
+      "text_en": "Pfff... Kohhh... The Third Promise? Mobbie has been standing at his post with diligent eyewatchings─he has seen no claimants pass this way."
+    },
+    {
+      "character": "Koana",
+      "text_en": "What of a Tonawawta with brightly colored hair?"
+    },
+    {
+      "character": "Earthenshire Sentry",
+      "text_en": "Mobbie knows something of this one! He hears tongueflaps about a Pelu peddler in Many Fires who was attacked by a crazyhair bandit on the road!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A bandit, you say...? Thank you, you've been most helpful."
+    },
+    {
+      "character": "Koana",
+      "text_en": "My sister is clearly not here. Though I wish it were otherwise, we must consider the possibility that the Tonawawtan messenger and the brigand described by the sentry are one and the same, and that Lamaty'i is in very real danger."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Come, let us hurry to Many Fires. I'd like a word with this peddler should they still be around."
+    },
+    {
+      "character": "Earthenshire Sentry",
+      "text_en": "Pfff... Kohhh... Mobbies' bandit problem is only getting worse!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Here, Forename . This is the merchant who ran afoul of the bandit."
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "Was there something I could help you with...?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I'm told you were the victim of a bandit attack. Could you recount exactly what happened?"
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "My goodness─I thought I recognized you! I'll tell you everything I remember, Second Promise!"
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "It was that scoundrel Wawkesa who ambushed me."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You know the name of your attacker?"
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "There's no mistaking that hair. All my peddler friends have stories of that notorious bandit leader and his predations."
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "Wawkesa and his gang will stoop to any low for the sake of a few pel. And with no fresh quarry coming up the broken stairs, they've had to become more creative."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Little wonder he went after Lamaty'i. He likely thinks to ransom her for a royal sum."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I expect he'll soon make his demands...but I don't intend to wait. We'll find this villain first, and deliver his deserved payment in person."
+    },
+    {
+      "character": "Koana",
+      "text_en": "What say you to a small deception? I will assume the role of a well-to-do merchant to lure Wawkesa out of hiding. Then, when he comes sniffing about, we catch the rat by the tail."
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "An excellent plan! And I have just the right garments for your disguise─at a specially discounted price, of course!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A brush with bandits hasn't dampened your mercantile spirit, I see. Very well, I accept your generous deal."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Now we lay the bait."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I will precede you into Many Fires to make my presence known. You follow on behind, boasting to those along the way how you paid me a hefty purse in exchange for a rare gemstone or some such."
+    },
+    {
+      "character": "Koana",
+      "text_en": "If Wawkesa is as coin-hungry as they say, then a recently enriched peddler should be an irresistible mark. We let him strike, and then we spring our trap."
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "I pray that your scheme is successful!"
+    },
+    {
+      "character": "Kind-eyed Xbr'aal",
+      "text_en": "Any good news lately?"
+    },
+    {
+      "character": "Enthusiastic Moblin",
+      "text_en": "Pfff... Kohhh... Mobbie enjoys being helphand for potsworn, but it's exhausting work. He hopes to find amusing distractions here in Many Fires!"
+    },
+    {
+      "character": "Cheery Pelu",
+      "text_en": "I'm always on the lookout for new opportunities─you need to keep an ear out if you want to succeed in business!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Time to play our parts."
+    },
+    {
+      "character": "Koana (text bubble)",
+      "text_en": "Follow me!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "There. That Xbr'aal fellow."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Share with him how happy your imaginary deal with me has made you. Once you've put on an appropriate display, we can continue to our next performance."
+    },
+    {
+      "character": "Koana",
+      "text_en": "We want Wawkesa to notice us─be loud and convincing."
+    },
+    {
+      "character": "Kind-eyed Xbr'aal",
+      "text_en": "Something I can do for you, friend?"
+    },
+    {
+      "character": "Kind-eyed Xbr'aal",
+      "text_en": "Are you...confused? I know I am."
+    },
+    {
+      "character": "Kind-eyed Xbr'aal",
+      "text_en": "A rare gemstone from that Hhetsarro merchant, you say? I envy the profit he must have made from such a sale! Since the stairs were destroyed, I've not been able to peddle goods at my usual haunts!"
+    },
+    {
+      "character": "Kind-eyed Xbr'aal",
+      "text_en": "I would advise that peddler to keep an eye out for shady characters. Rumors of good fortune have a way of attracting bandits in these parts."
+    },
+    {
+      "character": "Koana",
+      "text_en": "A good start, but I would make certain Wawkesa is aware of me. Let's continue."
+    },
+    {
+      "character": "Koana",
+      "text_en": "That Moblin over there looks amenable to conversation. The stage is yours, Forename ."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Share your “good fortune” with that Moblin merchant too, if you would. We need to make sure these rumors attract Wawkesa's notice."
+    },
+    {
+      "character": "Enthusiastic Moblin",
+      "text_en": "Pfff... Kohhh... What can Mobbie do for you?"
+    },
+    {
+      "character": "Enthusiastic Moblin",
+      "text_en": "Pfff... Kohhh... Whatever you are doing, Mobbie would like you to stop!"
+    },
+    {
+      "character": "Enthusiastic Moblin",
+      "text_en": "Pfff... Kohhh... The Hhetsarro sold you a sparklestone for your collection?"
+    },
+    {
+      "character": "Enthusiastic Moblin",
+      "text_en": "Well that explains your giant joysmiles! Mobbie is happy for your happiness! Mobbie is also jealous of the merchant and all the jinglyshine he must have made!"
+    },
+    {
+      "character": "Enthusiastic Moblin",
+      "text_en": "Pfff... Kohhh... Be careful when trading tongueflaps around here. There are sneaky, greedy brigands who will get bigeyes and grabsnatch that merchant's jinglyshine...and your sparklestone, too!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "That should be enough...but perhaps one last act to drive it home."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Do you see that cheerful Pelu? Tell him the tale of your precious gemstone, and then we'll be done with this part of the charade."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Just this one last performance, I promise."
+    },
+    {
+      "character": "Cheery Pelu",
+      "text_en": "How nice to see a smiling face! Care to share the reason for it? I've heard nothing but mumblings and grumblings since that storm passed through!"
+    },
+    {
+      "character": "Cheery Pelu",
+      "text_en": "Hm? What am I to make of this!?"
+    },
+    {
+      "character": "Cheery Pelu",
+      "text_en": "A passing peddler had the very gemstone you sought for your collection!? That is a stroke of luck!"
+    },
+    {
+      "character": "Cheery Pelu",
+      "text_en": "And I'll wager the merchant was just as pleased to fill his pockets with your grateful coin, eh?"
+    },
+    {
+      "character": "Cheery Pelu",
+      "text_en": "Well, I'm inspired to go and earn some pel of my own. Who knows? Maybe opportunity will find me, even as it found you!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Ah, my most valued customer. The profit from that single purchase of yours should see me through weeks of idle leisure!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Traveling with such a fat purse and no sellswords is tempting fate, so I shall make Earthenshire my last stop and then return forthwith to Tuliyollal."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Did you see? The rat has come for a nibble."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You played your part to perfection, Forename . A man / woman of many talents, just as Thancred and Urianger described."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Now let us lure Wawkesa out and spring our trap."
+    }
+  ]
+}

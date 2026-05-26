@@ -1,0 +1,360 @@
+{
+  "id": "dawn-of-a-new-tomorrow",
+  "wiki_path": "/wiki/Dawn_of_a_New_Tomorrow",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Dawn of a New Tomorrow",
+  "level": "95",
+  "location": "Tuliyollal(X:10.0,Y:15.1)",
+  "npc_start": "Peshekwa",
+  "dialogues": [
+    {
+      "character": "Peshekwa",
+      "text_en": "Welcome back. And may I congratulate you on Wuk Lamat's victory in the rite of succession."
+    },
+    {
+      "character": "Peshekwa",
+      "text_en": "It is our great honor to host the comrades of our future Dawnservant."
+    },
+    {
+      "character": "Peshekwa",
+      "text_en": "Such a grand journey has doubtless left you fatigued. Please relax and enjoy your stay."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Surprised to see me? I suppose it's only natural..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "May I come in?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I haven't properly thanked you."
+    },
+    {
+      "character": "Koana",
+      "text_en": "That my sister was able to realize her potential is testament to the quality of her traveling companions. Particularly you."
+    },
+    {
+      "character": "Koana",
+      "text_en": "For that, you have my heartfelt gratitude."
+    },
+    {
+      "character": "Koana",
+      "text_en": "My primary business in calling is to deliver a message from Lamaty'i. As you well know, after the ascension ceremony she will officially take up the mantle of Dawnservant."
+    },
+    {
+      "character": "Koana",
+      "text_en": "She has expressed a desire for you to accept a post within her administration..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...while making no mention of me."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You needn't decide immediately. My sister will broach the matter with you again after the ceremony."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Whether you continue to assist Lamaty'i or not is up to you."
+    },
+    {
+      "character": "Koana",
+      "text_en": "That is all. If you'll excuse me."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...You have become someone irreplaceable to her. As her brother, I acknowledge that with no little jealousy."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But believe me when I say that I hope you will stay by her side."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What a crowd! As befits the changing of Dawnservants."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It's starting."
+    },
+    {
+      "character": "Tonawawta Man (no text)",
+      "text_en": "The Dawnservant!"
+    },
+    {
+      "character": "Shetona Woman (no text)",
+      "text_en": "Look! He's here!"
+    },
+    {
+      "character": "Xbr'aal Youth",
+      "text_en": "The Head of Reason is resting again... Thought he'd grace us for this occasion at least."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "People of Tuliyollal! You honor us with your presence."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "For on this auspicious day, we witness the dusking of one era and the dawning of the next. The succession of Dawnservants!"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Heh! But I've talked for long enough. Allow me to present the claimant whose determination, wisdom, and compassion guided them to triumph and the city of gold!"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "My daughter─Wuk Lamat!"
+    },
+    {
+      "character": "Unnamed Hanuhanu (no text)",
+      "text_en": "Huzzah! Huzzah!"
+    },
+    {
+      "character": "Unnamed Pelupelu (no text)",
+      "text_en": "Long live the Dawnservant! Long live Tuliyollal!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Growing up in this city, I used to think I knew all there was to know about Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But my journey showed me how much I had yet to learn about the cultures, histories, and aspirations of this nation."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Through the time-honored Ihih'hana, the Hanuhanu taught me how they nourish and cultivate both the land and their bonds with visitors."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And with their alpacas and tradecraft, the Pelupelu showed me the depths of their patience and fortitude. To know when to push through...and when not to push your luck."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "From the Moblins and their artisans, I gained insight into the power of creativity. That it is when we are filled with passion and bolstered by the support of others that we produce our best works."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I was moved by the history and hopes of the Yok Huy, who believe that death isn't the end. That we live on so long as we're remembered."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I felt joy and harmony in Yak T'el when I tasted xibruq pibil. The dish that marked the beginning of peace between the Xbr'aal and Mamool Ja after centuries of warfare."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And...I felt sorrow in Mamook when I met with those who placed their faith in the promise of blessed siblings, and for this were burdened with great suffering."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Through the understanding we forged, I'm hopeful that they will find what they seek through friendship and community. For we are all Turali."
+    },
+    {
+      "character": "Elderly Boonewa",
+      "text_en": "Understanding with Mamook? What sorcery did she use on them...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All of which is to say that, as I've come to know our nation, I've seen the ways in which we thrive, and the ways in which we still struggle."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Some in Kozama'uka must resort to banditry to survive. A faction of Yok Huy still cling to dreams of conquest. Not everyone lives in peace and plenty."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And there's still so much of Tuliyollal I don't know. Places I haven't seen and people I haven't met."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's why I hope to keep learning about and from you, that we might build a nation where everyone knows happiness."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Because my journey has taught me one thing above all else: your happiness is my happiness!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I say mine, but the Dawnservant doesn't need to be a single person, does it?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Oh dear... What is she doing?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "My father led Tuliyollal to prosperity by the resolve and reason of his two heads."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But my one head can only get us so far. To further change our nation for the better, I'll need someone else."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Someone with the knowledge and insight that I lack."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So what do you say? Be Dawnservant with me, Koana!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i... Are you certain?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Absolutely. You take Reason and I take Resolve. Together, we make a full Dawnservant."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Haaahahahahaha!"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "You'll have no objections from me, of course!"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "But mine is not the approval you need."
+    },
+    {
+      "character": "Koana",
+      "text_en": "During my time abroad, I experienced the benefits of foreign technologies, some of which I introduced to our nation."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Dirigibles now soar the sky in the south, while locomotives traverse the land in the north."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I was convinced that by imitating foreign powers, we could assert our strength and thereby deter invasion."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Yet despite my intentions, I failed to understand what I was too eager to cast aside, and the very people I wished to protect."
+    },
+    {
+      "character": "Koana",
+      "text_en": "My own journey has taught me that culture isn't a hindrance to progress, but a shared value that binds us, connecting lives and generations."
+    },
+    {
+      "character": "Koana",
+      "text_en": "With your blessing, I vow to help Tuliyollal prosper in a way that honors the hopes and heritage of all her peoples. My esteemed predecessor would accept nothing less."
+    },
+    {
+      "character": "Koana",
+      "text_en": "For ultimately, I harbor the same wish as my sister: to give you cause to smile. That is my heartfelt desire."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hehe! Glad this didn't go to waste."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the Lay of Legacy! The part of the Tuliyollal Saga where you and I become the next Dawnservant."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Good heavens... Don't tell me this is what kept you so busy ahead of the ceremony."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just so you know, I didn't decide this on a whim. After reflecting on all we've been through, I realized it was the only answer."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "With this, both my brother and I have worthy successors. ...He would have been proud."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Hm. Of course you knew."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "It's been three years since my brother left us..."
+    },
+    {
+      "character": "Tonawawtan Onlooker",
+      "text_en": "It cannot be... The Head of Reason is no longer with us?"
+    },
+    {
+      "character": "Elderly Hanu",
+      "text_en": "O tragic tidings..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I didn't want to believe it..."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "I'm sorry I never told you. We wanted the people to rest easy until our successor could be chosen."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Planning the rite was my brother's final duty. He was determined for it to serve the nation's best interests, and labored nigh without cease."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "And then he died, forcing me to do the actual work. Sneaky bastard."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "But he did well, I have to give him that. The outcome speaks for itself."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Though not quite to the original script, your new Dawnservant rises!"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "May they shine resplendent, and their rule bring light ever greater to Tuliyollal!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Head of Reason was very wise indeed to devise something so elaborate and meaningful as the rite of succession. 'Tis a shame he could not be here to bear witness to the end."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A bittersweet celebration to be sure, but I'm glad Wuk Lamat finally got the recognition she deserves."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "She might have told someone what she was planning..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But Wuk Lamat does not act without the best interests of her people in mind."
+    },
+    {
+      "character": "Cullaal Ja",
+      "text_en": "Under the leadership of Dawnservant Koana, I pledge to do the utmost to aid our nation's progress."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wuk Lamat was brilliant up there, wasn't she?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The part with the Second Promise was surprising, but between the two of them, I daresay our new Dawnservants will be capable of anything."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The future of Tuliyollal is bright indeed."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Change is in the air, and it's all because of our little firebrand."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Every ilm her father's daughter, that one."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "I'll be watchin' where you steer this nation, lass. With what time I've got left."
+    }
+  ]
+}

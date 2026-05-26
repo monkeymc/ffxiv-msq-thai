@@ -1,0 +1,476 @@
+{
+  "id": "law-of-the-land",
+  "wiki_path": "/wiki/Law_of_the_Land",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/c/c3/Law_of_the_Land.png",
+  "patch": "7.0",
+  "title_en": "Law of the Land",
+  "level": "95",
+  "location": "Shaaloani(X:12.6,Y:19.1)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Zekowa",
+      "text_en": "Shouldn't be long now before Wihuwte shows up."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Well, well, look who it is."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Storing stolen goods here seems risky, but I suppose it's an option for someone with his authority."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Yeah. He moves the spoils in ceruleum barrels, where no one would think to look."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "They're mixed in with regular shipments of fuel to Tuliyollal, where they're sold off."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "You said he stole a bracelet of yours, right? If he knows you're on his tail, chances are he'll be eager to get what he can for it."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "But I doubt he'd trust a lackey with that business, given the provenance of the piece. No, I'll wager he's not letting that bracelet out of his sight till he's got coin in hand."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I wasn't sure what to make of you after Hhusatahwi, but I'm glad to see you're more than an impulsive child."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Ah, well...not my finest hour, I'll admit..."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "But there's a lesson in that: the Vulture's a slippery bastard. If we're going to catch him, we need to back him into a corner with hard evidence. That's my plan."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "First, we need to lure him away from here─over to Hhusatahwi would be ideal. For that, I need one of you to help me."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "This will buy time for the other to search the barrels for any stolen goods."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "And using that, we'll expose him as a criminal."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "There's no way to tell if Wihuwte's carrying the bracelet, but regardless, there'll be time enough to find it once he's behind bars."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But won't he simply feign innocence?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Oh, he'll try. And that's when I'll challenge him to a duel!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A duel? That approach didn't work out so well for your friends, as I recall."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "True. But unlike before, I'll challenge him in front of the whole town. That way he won't be able to wriggle out of it like before."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Every man, woman, and child of the wilds understands the importance of duels and the old laws. The deputy chief would never disgrace himself by refusing."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But wouldn't you be breaking the law by using a firearm in town?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "It's not as if we'd be using live rounds, but it's a risk I'm willing to take."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "What's important is that I get him to duel with as many witnesses as possible. When he loses─and he will lose─that'll be the end of the Vulture."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The plan is not without flaws, but...what do you think?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Thanks. I sure was lucky running into the two of you. You won't regret this, I promise!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Not even he can ignore our traditions. Once he loses, I'll have him confess to his crimes."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "That bracelet's really important to you, huh? Don't worry. I'll see to it you get it back."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If you're satisfied, then so am I."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "I knew I could count on you!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I was seen in Tonatenyawi, so it's probably best I stay and search the barrels."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Then you're with me. Tell the Vulture I tried to rob you, but you managed to overpower me. Even if he suspects a trap, he won't be able to resist taking the bait."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "You'll want to buy your friend as much time as possible, and make your way to Hhusatahwi. Once you've got the Vulture there, I'll take care of the rest!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "All right, then. Let's get to it!"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "The yeheheceyaa were likely that Shetona's doing. What's his angle?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Hmph. And then there's the brat. It's past time I dealt with him."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "The yeheheceyaa were likely that Shetona's doing. What's his angle?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Hm? What's this?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Ah, an unfamiliar face in these parts. Ahem. Have you need of the Dustwatch, sir / miss ?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "What? Zekowa tried to rob you, but you apprehended him!?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "I see... So desperate was he to see his friends free from prison, he turned to a life of crime. How awful..."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "You have my sincerest thanks, sir / miss . Might I trouble you to take me to him?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Something the matter? If not, then please, lead on."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "You have somewhere to be? Very well, but I implore you to hurry. I have a duty to see this criminal brought to justice."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "That was a distressingly long wait, miss. But I presume you can show me to the miscreant now?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Not that this is an appropriate time for me to play tour guide, but if you insist... Sheshenewezi Springs is home to a thriving ceruleum mining industry. The prospect of easy coin has attracted some undesirables, though..."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Is this the place? I don't see him..."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "I see... <sigh> Very well, lead on."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "There's gold in these fields. Blue gold..."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Ahem. Best be wary of the beasts in these parts. They may prefer to snack on ceruleum, but for you I reckon they'd make an exception."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Is this the place, then?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "This some sort of joke? Of all the... Let's keep moving."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Hurry up already!"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "This better be the place."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "My patience is wearing awfully thin, sir / miss . If he isn't at the next place we stop, I may be forced to do something you and I would both dearly regret."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Unless you'd rather I feed you one raw─needles and all─cut the chitchat."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "All right, where is he?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "I don't see him anywhere! Where is Zekowa!?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Tell me where he is, or I'll bury you in the same grave."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "That's it! I've had it with these games, and I've had it with you!!!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Hey, Wihuwte! You looking for me?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "If you want to place me under arrest, you'll have to work a little harder!"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "You'll be begging for a cell by the time I'm done with you!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Wihuwte! Finally caught up to me, I see."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Well, well, if it isn't our young outlaw."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "You've taken up stealing, I'm told. Can't say I'm surprised about that, but I am surprised that you'd offer yourself up to be arrested!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Sorry to disappoint, but you're the one who's going to answer for their crimes today."
+    },
+    {
+      "character": "Blue-haired Tonawawta",
+      "text_en": "Hey, that's my jewelry!"
+    },
+    {
+      "character": "Short-haired Hhetsarro",
+      "text_en": "And my bag!"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "So you found the stolen goods. That's fine work."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This barrel was at Sheshenewezi Springs, mixed in with others bound for Tuliyollal."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Landsguard would've presumed it part of the regular ceruleum shipments and waved it through. And once it reached its destination, it would have been retrieved, and its contents sold for coin."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "The audacity... Do we know who's behind this?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As fortune would have it, I spied the leader of this operation being handed one of the stolen items."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A bracelet, which Vow Wuk Lamat had intended for her nursemaid Namikka."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "I-It was from the Vow of Resolve!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Oh, you've seen it, then?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "No! N-No, never! And if I knew who had it, I-I would've arrested the scoundrel!"
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "What's the meaning of this, Wihuwte?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "I-It's a set up, sir! I...I have the bracelet, y-yes, but I─only 'cause I found it, I-I swear!"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "They're the real criminals! They concocted this scheme to frame me─so they could get me out of the picture!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "If you feel your honor's at stake, there's always the old-fashioned way."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "The law which folks have used to settle their differences for generations."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "You don't mean..."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Wihuwte─I challenge you to a duel."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "The winner is right. The loser is wrong. Doesn't get simpler than that."
+    },
+    {
+      "character": "Hhetsarro Youth",
+      "text_en": "Yeah, have at it!"
+    },
+    {
+      "character": "Short-haired Hhetsarro",
+      "text_en": "Let your pistols do the talking!"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Please. Do you honestly believe you can goad me into playing your game?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "You refuse, then? Hmph. A baby alpaca's got more fight than you!"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "All right, boy. But remember─you asked for this."
+    },
+    {
+      "character": "Short-haired Hhetsarro",
+      "text_en": "Come on, Zekowa! Give him what for!"
+    },
+    {
+      "character": "Dustwatch Officer",
+      "text_en": "Shouldn't we stop them, Chief? Even if it's just rubber bullets, we're in the middle of town..."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "Be quiet. Just watch."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "You little shit!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Looks like you've gotten slow in your old age...Vulture."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "You and I are going to have a long talk."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "I apologize for dueling in the middle of town. If you want to lock me up, then lock me up."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "But please, let my friends go. They've done nothing wrong."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "You drew your gun within town limits."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "But Wihuwte drew first. Far as I'm concerned, you acted in self-defense. You're free to go."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "As are your friends."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Hah, you're not such a bad guy after all!"
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "Just a man of the wilds, like you."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "But to think that Wihuwte had taken control of the Daybreakers... It pains me that it happened right under my nose."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "What are you gonna do about his crew? Some of them are still in Tonatenyawi."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "Those who have broken the law will be taken into custody."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "But those who haven't will be given the chance to resume walking the strait and narrow."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "What about you, Zekowa? What do you intend to do now?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Why, what I've always done."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Protect the weak and help the helpless─the old-fashioned way!"
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "Here. This was Vow Wuk Lamat's gift for someone, wasn't it?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Yes, a person very dear to her."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "I suppose this is where we go our separate ways. My thanks again for your help apprehending the Vulture."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Hahaha! That was a pretty nice shot, right?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That ended up being rather more complicated than expected, but all's well that ends well."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Phew! Finally, it's over!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "I couldn't have brought him to justice without your help. I don't know how I'll ever repay you."
+    }
+  ]
+}

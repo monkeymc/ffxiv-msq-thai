@@ -1,0 +1,536 @@
+{
+  "id": "the-feat-of-gold",
+  "wiki_path": "/wiki/The_Feat_of_Gold",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Feat of Gold",
+  "level": "90",
+  "location": "Urqopacha(X:25.6,Y:12.0)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, uh...can you still smell it? Be honest."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As Wuk Lamat helped demonstrate, the valley alpacas are wary of people. Getting close enough to catch one will not be an easy task."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You might have warned me about that earlier! I have enough trouble with tame alpacas─how do you expect me to wrangle a wild one!?"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "With the proper saddle. We infuse the leather with a relaxing scent that soothes the spitting beast."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wonderful! Give me one of those, then!"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Have you perhaps forgotten we are a clan of merchants? If you want a taming saddle, then you'll need to find a saddler and make them an offer."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "They don't come cheap, of course. Crafting a saddle will cost you the equivalent of ten pel...in the thousands column."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You mean ten thousand pel!? I don't have that kind of coin!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Converting to gil, that comes to around a million or so. Mayhap if we all pitch in..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, no, this is my feat to accomplish─I wouldn't feel right about having others pay the cost. I'll find the money. Somehow."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "In that case..."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "That basket of wool is worth the sum you paid me earlier: one pel, in the hundreds column."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Beginning with the wool, you can trade for ever more valuable goods until you have something suitable to bargain with for the saddle."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's a nice gesture... But you think I can turn a hundred pel into a million? That's ten thousand times more!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We need ten thousand pel, not a million. So we're looking at a hundred times more."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh. Right. I panicked and got it confused with Alphinaud's million gil."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm not so sure about this trading idea... You were almost talked into buying a cloak you didn't need mere moments after you arrived."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But, I just... Gah, I hate it when you're right!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Then let me help you with your dealmaking!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, hello again...uh..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Mablu! I work here as a ranch hand, but I've also learned a lot about the peddler profession!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "It's alright if I aid them now, yes? I guided the claimants towards the first step of the feat, like you asked."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "As long as Wuk Lamat goes alone to capture her alpaca, she is free to accept assistance from whomever she likes."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Hooray! Let's see about getting you that saddle, then, Third Promise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't know why you made your offer, but I could use an ally with a beak for bargains. Welcome aboard, Mablu!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Should the rest of us stay behind, perhaps? It may be easier to haggle over prices without so many voices chiming in."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Yes, stay here and pitch in with the ranch work. With Mablu gone, I'll need extra hands to tend to the alpacas."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Gladly! Although, Forename , I think you should go with Wuk Lamat."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You've seen markets and bazaars the world over, and surely have sage advice to share."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "In that case, you should also hold on to the alpaca wool. If it's misplaced or soiled in some way, you'll have nothing to bargain with."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As if I'd do such a thing! ...But I'll leave the wool with Forename anyway. The better to keep my hands free."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "To begin, I suggest we try trading the wool to Havli, the saddler. He won't agree to the deal, of course, but it'll give us an idea of how much he'll accept for his wares!"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Mablu hasn't given up, I see..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I have every confidence you'll come back with the saddle!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Tending the alpacas, are we? I had some experience with that when I was younger..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Turning a hundred pel worth of wool into a ten thousand pel saddle is exactly the kind of suggestion I'd expect from the head of a merchant clan."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'd worry if it was just Wuk Lamat, but it sounds like Mablu knows a thing or two about trading."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is it really possible to make a hundred times what that wool is worth just through trading?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "This is the artisan who makes our taming saddles!"
+    },
+    {
+      "character": "Havli",
+      "text_en": "Something I can do for you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've come to bargain! I need one of your special taming saddles to catch a wild alpaca."
+    },
+    {
+      "character": "Havli",
+      "text_en": "A saddle, is it? And how will you be paying for it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With this basket of fine alpaca wool!"
+    },
+    {
+      "character": "Havli",
+      "text_en": "What use does a saddlemaker have for wool? Besides, this would barely cover the cost of a single strap buckle. Offer me something I actually want."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And what might that be?"
+    },
+    {
+      "character": "Havli",
+      "text_en": "Mezcal. I like to nurse a cup at day's end while I inspect my finished work. Bring me a jug of quality stuff, and you've got yourself a deal."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "This bodes well for us, Third Promise. Such mezcal can be had for only five pel in the thousands column!"
+    },
+    {
+      "character": "Havli",
+      "text_en": "Hold on, hold on, did you say “Third Promise”? Then my offer has changed─the saddle is going to cost you a jug of premium mezcal, aged three years at least."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Three years!? That stuff is valued at ten thousand pel or more! Why have you doubled the price!?"
+    },
+    {
+      "character": "Havli",
+      "text_en": "Because I must support the man of ambition who'll see my business prosper. Zoraal Ja will go to war, and his cavalry will need saddles. Lots of saddles."
+    },
+    {
+      "character": "Havli",
+      "text_en": "It's nothing personal, Third Promise. But I won't sell you my craft for anything less than my asking price."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Can't say that I blame him. I'm known for championing peace, and peace is unlikely to bring him more customers."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Those of our grandparents' generation remember the dark days when the clans were at war. Many of these Pelu pray for your victory, Wuk Lamat."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "The younger ones, though...to them, strife and bloodshed are as children's stories. They think themselves safe from these horrors and take the peace we now enjoy for granted."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Still others are unsatisfied with this quiet prosperity and crave the future the Second Promise envisions. They've become obsessed with innovations like the dirigibles that have made trade swift and easy."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Then you have those like Havli, convinced that the First Promise's plans for conquest will afford them opportunities for great profit."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But what about you, Mablu? Aren't you of the younger generation? At least a year or two younger than me, I'd say."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Oh, I was raised on the old tales. I've memorized the accounts of what it was like when the Yok Huy ruled our village."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "That's why I offered to help. I want you to become Dawnservant, to keep our nation from going back to the way it was."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, then, I guess I'd better make sure I win the contest!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "But the type of mezcal the saddlemaker wants is so very expensive..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Weren't we expecting to need ten thousand pel from the outset? Nothing's changed, we just need to get on with it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I may not have a head for trade or the stomach for alpacas, but I won't give up with the peace of Tuliyollal on the line!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Then neither will I! We will make you Dawnservant!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Aiming for that ten thousand pel jug right away will only bring us failure and frustration. So let's first try exchanging the wool for anything even a touch more valuable."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "The trick is to find someone who needs alpaca wool and is willing to trade at a loss to acquire it. Someone who supports your bid for the throne, for instance."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course, the weaver! Bol Noq' was his name, I believe!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He went out of his way to say he agreed with my vision and he was here to buy wool."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I think I remember the direction he was going, but for now, let's head back to that road where we first met him."
+    },
+    {
+      "character": "Havli",
+      "text_en": "As you can see, only the finest leather for my saddles."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "You might think catching an alpaca a trivial thing, but we shall see. As I said, there's a reason I chose it for my feat."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Is this where you met the weaver?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the spot. After Bol Noq' talked to us, he walked off to the south..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Then he was probably going to Icuvlo's Inn. Most visitors to Wachunpelo end up staying there."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Let's go and check, shall we?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I hope he's willing to offer us something wonderful in exchange!"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Ah, we meet again... But wait. Weren't you all on your way to Wachunpelo?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Can I have that basket, Forename ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thanks! Now let's see if we can turn a profit!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bol Noq', I'm glad we found you. Are you interested in making a trade?"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Third Promise, you...you wish to do business with me ? Might I ask what this is all about?"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "I see. So the goal is to turn that basket of wool into a jug of three-year-old premium mezcal...?"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Then allow me to invest in your efforts!"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Peace in Tural is what allows me to cross freely into the lands of my suppliers. Naturally, I would prefer that one pledged to preserve that peace win the throne."
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Thus do I humbly offer you this wool poncho─a small token that I pray contributes to your victory!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Oh, that's fine craftsmanship! A garment like that would easily fetch five pel...in the hundreds column!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's very generous, Bol Noq', thank you! I promise I won't let you down!"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "I have every faith in you, Third Promise. May fortune bless your future dealings."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I can't believe you quintupled your investment with your first deal! We're off to a spectacular start!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Only because Forename remembered our weaver friend. All I did was hand over the wool."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "That's not true! The connections you build with people are vital. This is one of the most fundamental precepts of trading─one which you've instinctively mastered!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Y-You think so?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I know so! Now, let's take our five hundred pel poncho and trade it for something even more valuable!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here, Forename , you take the poncho. If I lost it somehow, Erenville would never let me hear the end of it..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "All set? Our next deal is waiting to be found!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We turned a hundred pel into five hundred. I know it's only five times more, but it feels like five hundred times more!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Leveraging connections is a sound strategy, but we should also consider supply and demand. An individual in urgent need of a good poncho will offer more than a merchant simply looking to stock his shelves."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That makes sense. But how do we know if someone needs a poncho?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's the obvious answer, isn't it? We look for a person without a poncho, and hope they're eager to buy ours!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's a nice, sturdy poncho, but the design is traditional. I don't think fashion is part of its appeal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So only those people with a practical need would be interested..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait, that's the obvious answer, isn't it? We look for a person without a poncho, and hope they're eager to buy ours!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Yes, there you go! We find the demand for our supply!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, where should we begin our search for prospective buyers?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "There are any number of places, but we could do worse than starting right here at the inn. There might be interested travelers."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hm, who here needs a poncho...? A lot of Mamool Ja hardly wear anything to begin with."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Those are probably Landsguard or sellswords. Mamool Ja who soldier for a living prefer not to wear much above the waist─it hampers their movements."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So even if they have bared shoulders, Mamool Ja carrying arms can be struck off the list."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's a Landsguard. Probably dropped by the inn to take a break between patrols."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This one's already fully dressed─an artisan or peddler, perhaps? Come to rest after visiting Wachunpelo, like Bol Noq', would be my guess."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That Mamool Ja is armed. Could be a Doppro courier? I've seen them flying their wivres, and those types aren't fond of excessive clothing either."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's see. No coat or cloak...but also no weapon? Oh, we might have a winner!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Tell me─who among these gathered travelers do you think might be amenable to a proposal?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So professional fighters like those of the Landsguard would have little interest. Though the same could be said of any Turali who prioritizes ease of movement in their work..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ho there, friend. You're not a mercenary by trade, right? I was curious about your bold choice of dress...or lack thereof."
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "Oh, it was no choice of mine, believe me! I was attacked by beasts on the way here, and barely escaped with my scales intact. My coat was not so lucky."
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "I'm actually a toolmaker from Tuliyollal, and was dressed quite smartly─all the better to show the Pelu I am a man who takes pride in his appearance and therefore his work as well. But now look at me..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, sir, this is your lucky day!"
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "What a splendid poncho! This would be the perfect replacement for the coat I lost!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'd be willing to part with it, if you'd like to make a trade. For one of your fine tools, perhaps?"
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "What about this hatchet? I crafted it myself and will vouch for its quality."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "The blade looks sharp, the haft well made. I'd value it at one pel in the thousands column."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oho, from five hundred to a thousand? We have a deal!"
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "Wonderful! A fine garment such as this should put me on even footing with any Pelu merchant."
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "Like the eponymous owner of Miplu's Mate Garden, for one. Her field hands use hatchets to harvest the mate, and I thought to impress her with the tool I sold you."
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "No matter, I have other wares to sell. Glad I am to have met you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Did you hear that? We've already found our next buyer. To Miplu's Mate Garden we go!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Yes, but it's a fair distance on foot. We should take alpacas!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "These ones will be the calm type...right?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here we go again...riding alpacas..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Well done recognizing that toolmaker as a potential customer! If you've a mind to change professions, you'd make an excellent merchant!"
+    }
+  ]
+}

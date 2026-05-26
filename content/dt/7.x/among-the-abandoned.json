@@ -1,0 +1,284 @@
+{
+  "id": "among-the-abandoned",
+  "wiki_path": "/wiki/Among_the_Abandoned",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.1",
+  "title_en": "Among the Abandoned",
+  "level": "100",
+  "location": "Yuweyawata (Zone)(X:11.8,Y:12.9)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Gulool Ja",
+      "text_en": "Is it alright if I go around by myself now?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Now that the danger is behind us, it's started sinking in just how unsettling this place is. Hard to believe it used to be a village."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Teeshal Ja, you said her name was? I wonder what her story is..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The villagers were likely monitoring the imprisoned tural vidraal at Zoraal Ja's behest. And at some point, they became involved in the research of souls..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It seems this Kanilokka was in charge here. From your recounting, he was quite dedicated to Zoraal Ja."
+    },
+    {
+      "character": "Kiluwsa",
+      "text_en": "I'll launch the hover cargo whenever you're ready. Just say the word."
+    },
+    {
+      "character": "Krile",
+      "text_en": "While we've discerned the purpose of the research conducted here, the traces of it that remain might afford us greater insight into what came of it."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let us take a look around─for information as well as a way to the upper level."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What happened to the people here? Did they all leave...or did we already meet them?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To think that people actually volunteered their souls for these experiments..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Success was far from guaranteed, and even in the best case, they would cease to be men. Was their devotion to Zoraal Ja so absolute?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It won't open, and I don't think it'll yield to our shoulders either. We'll have to do it the old-fashioned way and find the key."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I wonder what Beq Lugg would make of this research into transferring souls."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The researchers likely moved between the upper and lower levels. Perhaps we can find a key among their belongings."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It makes me angry to think about what they did here..."
+    },
+    {
+      "character": "Test Subject's Journal",
+      "text_en": "They're recruiting volunteers for a new experiment. I know I'm not as bright as the others, but they wouldn't laugh at me if I was stronger than them. This might be my chance."
+    },
+    {
+      "character": "Test Subject's Journal",
+      "text_en": "Soul transferred few days ago. I can write. Can write good, yes? I am good! Very good!"
+    },
+    {
+      "character": "Test Subject's Journal",
+      "text_en": "Getting hard to control strength. Today bit off hand of feeder. Cannot help it so strong."
+    },
+    {
+      "character": "Test Subject's Journal",
+      "text_en": "Hungry. Always hungry. Cannot control. Eat. I must eat am eater must eat..."
+    },
+    {
+      "character": "Researcher's Journal",
+      "text_en": "I was transferred to Yuweyawata station in order to train the villagers in the use of electrope technology."
+    },
+    {
+      "character": "Researcher's Journal",
+      "text_en": "While a child can quickly learn to operate common contraptions, it will be no easy thing for them to attain the requisite skill to develop new weapons─ones which require no less than the manipulation of souls."
+    },
+    {
+      "character": "Researcher's Journal",
+      "text_en": "Thankfully, two of my pupils have demonstrated great aptitude in the field: Kanilokka, the village chief, and Teeshal Ja, a field chirurgeon."
+    },
+    {
+      "character": "Researcher's Journal",
+      "text_en": "Further driven by their loyalty to our king, their growth has been remarkable. I dare to hope that, before long, they will be able to carry out their duties without further instruction, and I may be relieved of my duty."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You found the key? Great, I'll call the others."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It seems the key can be used to operate the lift as well. Up we go."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So this is the observatory."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I didn't expect it to be similar, but this is a far cry from the temple that held Valigarmanda."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "All the machinery appears to still be in operation. I expect there are auxiliary systems in place to ensure that monitoring can continue even in emergencies."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The warnings indicate various anomalies─related to the seal's failure, most likely. For a blessing, we managed to fell the beast before it could cause harm."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, let's see if we can find some clues about Gulool Ja's mother."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I think I can use this terminal. Shale taught me how."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There's so much data... I don't know what we should look at."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Perhaps we can narrow down the search by inputting the name Teeshal Ja."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Ah, it brought up a lot of results. They all seem to say the same thing..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "“Teeshal Ja, Administrator of Experimental Treatments: Research Logs.”"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "This sounds good, doesn't it?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Chances are the data is encrypted. And even if not, it will take considerable time to go through it all."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then let us take it with us to the Backroom and have Shale analyze it."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Agreed."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Alright. I'll transfer it to this storage device I brought."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There, it's finished!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Thank you so much for bringing me all the way here, everyone!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you're happy, then so am I. Besides, I was able to learn more about my brother as well. It was a fruitful adventure for the both of us."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I admit the tural vidraal gave me a fright at first. But then I remembered who felled the mighty Valigarmanda!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I'll not soon forget our visit to that facility. It was a troubling reminder of the depravity that can arise from the belief that souls are simply a resource to be exploited."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Kiluwsa is really good at driving the hover cargo. I wonder if I can learn how to drive it too..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm glad we could find what we sought in that abandoned facility."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It seems safe to say my brother returned to Yuweyawata for the tural vidraal. He wanted its power, no matter the cost..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And here we are. The authorities will doubtless wish to be informed about the facility and its contents..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But first things first: let us deliver the data to Shale."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "From what I can see, things haven't changed much since the funeral. People are still listless like before."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've been thinking, it may behoove us to learn how to use the various devices found throughout Alexandria. Better late than never, after all."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The data will be in good hands with Shale."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It was Shale who gave me the storage device before we left. She said that we'd probably need it...and we did!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gulool Ja had no trouble keeping up during the outing. He really is his father's son."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Having now spent some time in these harsh environs, I feel I have a better understanding of how much of a steadying presence Sphene was to her people."
+    },
+    {
+      "character": "Geode",
+      "text_en": "You've found information on Gulool Ja's mother? You lot never cease to amaze..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Welcome back. Gulool Ja has already given me the storage device."
+    },
+    {
+      "character": "Shale",
+      "text_en": "There looks to be a wealth of data, all of which is encrypted, so I'll need time to process everything."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In that case, Alisaie and I might take ourselves around the city and check on the people."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Aye, their mood has us a bit worried. I don't know if there's anything we can do to help, but we'll see..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Understood. I'll let you know as soon as I've finished my work."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Thank you. We'll see you again soon."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I suspect the Alexandrians' plight reminds Alphinaud and Alisaie of the Garleans'. Little wonder they feel compelled to assist in any way they can."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I met some members of Oblivion on my way back here. They themselves were returning after having paid their respects to Sphene."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Decrypting files isn't the hard part. It's when the number of digits in a password is unknown that the long nights begin..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll stay here with Shale. There's a lot I can learn just from watching her."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I share our friends' concern. It's not surprising that the Alexandrians are having difficulty coping with their grief...but still..."
+    }
+  ]
+}

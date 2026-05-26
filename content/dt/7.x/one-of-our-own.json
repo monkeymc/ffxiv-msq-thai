@@ -1,0 +1,440 @@
+{
+  "id": "one-of-our-own",
+  "wiki_path": "/wiki/One_of_Our_Own",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
+  "patch": "7.3",
+  "title_en": "One of Our Own",
+  "level": "100",
+  "location": "The Backroom(X:6.0,Y:6.4)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Gulool Ja",
+      "text_en": "Shale has been out of sorts ever since we got back. I don't think she liked what Calyx said... But don't worry, I'll do my best to cheer her up!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've passed on the short version of events to our comrades so that we can all prepare for the challenge ahead."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's time to put an end to this. Calyx won't stop until we stop him."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The situation isn't the best out there... But at least you've come back to us safe and sound."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's a shame that punching an Endless does no damage. I'd love to rearrange that serene face of his..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Forename ... We've briefed Erenville on everything that has happened and sent word to the others."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We've now but to consider what our next actions will be."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx has offered you the opportunity to confront him directly..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And though it feels much like striding face-first into an ambush, we have little choice. If we are to destroy the memories he supposedly has stored in the upper reaches of the Meso Terminal, then that is where we must go."
+    },
+    {
+      "character": "Shale",
+      "text_en": "While I'm still upset at being deprived of my moment, I nevertheless did my due diligence..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I can confirm that the relay we found was indeed transmitting surveillance data to a device somewhere in Living Memory."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "When you go to fight Calyx, pray let me fight alongside you."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Let me fight for the memory of Otis and Zelenia, and for the other Sphene I may have become. But most importantly, for my beloved kingdom and a joyful tomorrow!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you for understanding what this means to me."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, I understand. I promise not to subject myself or the party to needless danger."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I shall hold you to that. But I will also protect you in turn...because that is what comrades do."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll be coming with you, as well. You know my reasons."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It hardly needs saying, but your fellow Scions also have every intention of accompanying you into battle."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So adamant were Alisaie and the others on this point that they have already left for Living Memory. I am more than ready to do the same."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll keep patrolling the streets for signs of trouble─especially from anyone wearing neo regulators."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Should you need anything from me, I'll be on standby here in the Backroom."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I really want to go with you too, but I know I can't. I know that sometimes you have to be patient and trust in your friends."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, Forename . Krile and I think that we should talk to Gossan before we leave for Living Memory."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Under Calyx's direction, Preservation has helped shape Alexandria's society for centuries. Taking him down will have serious consequences, and we need to warn the officials in charge about what we intend."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Justifications aside, we shall be acting against the wishes of all who desire to become Endless..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Exactly. We don't know if Gossan will approve or oppose our chosen course, but either way, leaving without a word is the wrong thing to do."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Come, we should be on our way. Resolution first, yes?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Be safe, everyone! We'll see you when it's over!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll do whatever I can to help Shale and Erenville. It may not be much, but small things add up when you do enough of them!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Even people from my village have taken to wearing neo regulators. I can only hope it doesn't end badly..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "As I said, I'll be ready and waiting if and when you have need of me. Just make sure you come back in one piece."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Government officials must be fielding demands from all quarters. I do not envy Gossan his position."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The air is thick with a sense of unease─not least around Gossan himself."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see Gossan's wearing a neo regulator. He'll have some thoughts to share on the subject, I'll wager..."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "I see... A difficult situation."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "In the absence of an official sovereign, I agree that it is not Preservation's place to dictate the future of our nation."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "However, I also cannot simply take a side and declare my support for your efforts to defeat Calyx."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that because of the new regulator you wear...?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "I've yet to register it. I find myself caught between the fear of dying and the desire to carry out the duties of governance."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "My greatest concern is how we shall stem this ever-increasing terror of mortality when becoming Endless is no longer an option."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "And that's to say nothing of the recent slaughter committed by our own soldiers. The fact that such violence was perpetrated for the very purpose of creating Endless will, paradoxically, make it more difficult to endorse your chosen course."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "It may not seem logical, but for those who lost friends and family in the attacks, halting the creation process altogether would render the deaths of their loved ones utterly meaningless."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Is it not cruel to rob them of what little solace they could claim when we have only just learned what it is to mourn?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Tell me... How are we meant to overcome such tragedies!?"
+    },
+    {
+      "character": "???",
+      "text_en": "We stop begging others to teach us, for a start."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "For the longest time, we've been protected by Queen Sphene and the systems put in place by our forebears."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "The hardships and responsibilities of life were distant things, and we felt entitled to our comforts...even as we barely noticed those who risked everything to keep us sheltered."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "...But no more. From now on, we need to learn on our own."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "How to live with the promise of death. How to endure the pain of loss."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "We may never learn to love such things, but we may learn to survive them."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "The people beyond the barrier, even the Alexandrians of old, they've all had to live with these fears. There's no reason we can't do it too!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What are you all doing here...?"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Malachite called us in, and the Oblivion members briefed us on the current crisis."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "You don't stand idly by while your house burns down."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "We came together and thought about how we could help."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Long story short, we've decided to join the fight alongside Oblivion."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "I say “fight,” but we're well aware of how little use we'd be in actual combat."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "A battle of ideas , on the other hand─now that we might be qualified to do something about."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "We'll talk to our neighbors, and do our best to quell their fears. Convince them to make the most of this life and enjoy all it has to offer..."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Perhaps that will help to ease your burden?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It certainly will. Even if a few are assuaged by your words, it will make things easier!"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Those who have already registered will be difficult to sway...but there are still many who waver."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Those are the ones we'll concentrate on."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Gossan. If you truly care for the people of Alexandria, then now's the time to start thinking of ways to prevent more deaths."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Were I to become Endless at the expense of my countrymen's lives, I would regret it for the rest of my existence."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Forgive my weakness. When the people have lost their way, it falls to the government to support and guide them."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Alexandria can rise above this sorrow, and find its way forward once more."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "...Is that not so, Your Majesty?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Indeed it is!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No, that wasn't─ What I meant to say was─"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Calm down, Sphene!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Lamaty'i, you used her name!"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "The perfect resemblance to our beloved Queen Sphene has not escaped our notice. Yet we also understand that you are not her."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Having to live in secret, unable to share who you really are... That must have been hard on you."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "When you come back, please tell us all about yourself. I imagine yours is a rather outlandish story, but we're eager to hear it all the same."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "You're one of us─an Alexandrian─and we don't abandon our own."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I promise to return."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And when I do, I look forward to speaking with you all."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm glad we were able to hear the will of the Alexandrian people. Now it falls to us to see the rest of it through!"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "It is a relief to be freed from my indecision. Until I had removed my regulator, I hadn't realized quite how heavy it weighed upon me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene must be overjoyed to be so welcomed by her countrymen. For their sakes, we need to bring her back safely."
+    },
+    {
+      "character": "Strika",
+      "text_en": "Hello, remember me? The hunter from the Thunderyards? It's been a while, but we met when you first arrived in the dome."
+    },
+    {
+      "character": "Strika",
+      "text_en": "We've been talking with Lithander and the others and, thanks to some very convincing arguments, we've come around to the idea that we need to start taking responsibility for the future of our nation."
+    },
+    {
+      "character": "Strika",
+      "text_en": "There are those like us who rely on regulators for their work, and others who aren't quite ready to give up what they have...but we all share a desire to make things better."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Everyone was so warm and welcoming. Alexandrians are, as ever, a stalwart people."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "How glad I am to be home..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, Gossan. That decision must have been difficult to make."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "If only I could claim the courage to do so came from within. The final push came from Alexandria's citizens, and their bravery in taking the first step towards change."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Speaking of which, can I ask you to lock that neo regulator away where no one can get to it? That should prevent the registrations from reaching the target number."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "I should be glad to do so, but I fear it would be to no avail. According to our most recent surveys, the number of neo regulators in circulation exceeds the stated five thousand."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "I surmise the surplus units are to account for those like myself who have had a change of heart, or are otherwise hesitant to register."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah... That does sound like something Calyx would do. Well, we'll have to face him either way, so no point in delaying the inevitable. On to Living Memory!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Things seem...much the same."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "So, listen, you have nothing more to fear than any other normal day. Deep breaths! We'll get through this!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You'd be telling them much the same if you were here. I suppose it falls to me now..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Last time I had to wait in the cenote, but there's nothing to stop me from joining this fight!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I had scarcely awakened here when I fell unconscious. Now that I can fully enjoy the gentle silence of this place, it brings tears to my eyes."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seems Alphinaud and Alisaie were the ones to explain to Koana our need to enter the cenote. He urged us to be extremely careful, of course!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Coming here reminds me of my parents. Of the courage they gave me..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis good to rejoin you all. I needed to step away briefly that I might make arrangements for a certain precautionary measure..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We've all been so busy, it seems an age since last we gathered in such a manner. I must say, we do make for a formidable group!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ah, 'tis good to see our comrades hale and girded for battle."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As for us, we've been ahead to inspect the lay of the land. There were no changes of note...aside from with the Meso Terminal itself."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Why, what's happened to the Meso Terminal?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The wall has receded to provide a convenient entrance into the structure's interior. There was no such ingress when last we were here, so we must assume that Calyx has since manipulated the terminal's electrope."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "All to facilitate his most gracious invitation to the upper levels."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "An invitation I am eager to accept... For the sake of all who love Alexandria, I will not yield nor leave them to despair."
+    }
+  ]
+}

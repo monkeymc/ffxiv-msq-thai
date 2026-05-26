@@ -1,0 +1,240 @@
+{
+  "id": "to-work",
+  "wiki_path": "/wiki/To_Work",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.4",
+  "title_en": "To Work",
+  "level": "100",
+  "location": "Treno(X:11.4,Y:11.5)",
+  "npc_start": "Lumull",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "One wonders how fearsome this Eyaney truly is..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If Treno's barrier is similar in design to Alexandria's, should we assume that electrope technology is standard here as well?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "At the moment, Eyaney should be waiting just past that park."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Let's be off before anyone changes their mind!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Lumull is sweating rather profusely..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Whenever we meet an engineer from some distant land, I can't help but wish to introduce them to our friends at the Ironworks. Such a firestorm of questions there would be..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "(Breathe in... Breathe out...)"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Ah, our visitors! Thanks for lending a hand earlier, but...what brings you here?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "...Lumull. What did you do?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I-I, um... You know that, er, advanced monster tracking wotsit? I-It may be a teeny tiny bit, um..."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "You broke it again!?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "How many times must I tell you that we're running low on electrope! I'm an engineer, not a bloody miracle worker!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I beg your forgiveness! I'm on my knees and everything, see!?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "And since we have guests...can't you let it slide? Just this once?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "[LONG-SUFFERING SIGH]"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "He dragged you here just so I wouldn't tan his hide, didn't he? You'd never believe he's the elder sibling... I'm so sorry."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Please don't be. We're glad for the opportunity to meet you. And Lumull mentioned that you might have some work we could assist with?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "They're our guests, Lumull, not servants! Must we have the manners talk again?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Please don't misunderstand! We asked to help, that we might learn what life is like in Treno."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And with your expertise, we also hoped you could tell us more of how the city utilizes electrope."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "If that's the way of it, then I'd be happy to share what I know."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "When you spoke earlier, it sounded as if Treno had little electrope to spare. It's difficult to procure, I take it?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "We never have as much as we need. And much of what we do have is repurposed─you'll find me digging through the scrap heap whenever some vital device or another breaks down."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Repairing that old barrier should be our highest priority, but we just don't have enough electrope on hand to do a proper job."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "And the longer we go without access to the mine, the worse it'll get. If only we could scare those beasts away..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Did we not pass through a mine on the way here?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "You got rid of them? Just like that!?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Just the one!? Incredible..."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "So...the mine is safe for mining again?"
+    },
+    {
+      "character": "Lumull and Eyaney",
+      "text_en": "Hooray!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Leave the mining to your big brother! All you have to do is fix the tracker!"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Yes, very well... If you go, do be careful."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "And once you get the machinery up and running, make sure to send some electrope over to the barrier service station!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though we've cleared the mine, there is no telling what else waits outside the barrier. Shall I accompany you?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I'm so glad you asked! ...Seriously, I don't know what I'd do if I'd had to go alone."
+    },
+    {
+      "character": "Krile",
+      "text_en": "As we did pass through but recently, I expect Raha can keep him safe without our help. In the meantime, shall we assist Eyaney with her repair work?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "They put one in mind of another pair of siblings we know, don't they?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "<gasp> I entirely forgot to ask your names! Do forgive me."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I am Krile, and this is Forename ."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Accompanying Lumull is G'raha Tia, our own technology enthusiast."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "It's lovely to meet you!"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "It feels strange putting you to work, but I'd be lying if I said I don't need the help."
+    },
+    {
+      "character": "Krile",
+      "text_en": "In the wake of an event like this, I presume a great deal of labor is required to restore everything to working order..."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "The volume of fixes that need making is one matter, but I could handle it if it weren't for these legs of mine. The paralysis flares up at the worst times, I swear..."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I can manage a bit of shuffling from one station to the other on a good day, but I usually leave racing around the city to my brother."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "With him off to the mine, though, someone else needs to take care of the lightning sprites. They're drawn to the discharged aether of slain creatures."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I'd offer you the detector to make tracking them down easier, but seeing as Lumull has managed to break it yet again... <sigh>"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I do have this, though. Toss some at a sprite, and you can suppress its ability to sense aether nearby. That usually gets them wandering out of the city towards more fertile ground."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So we needn't fight them?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "We find it's safer not to. When threatened, they'll siphon energy from facilities we need to keep our medical services running, or emit bursts that overload nearby systems."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "For the same reason, I recommend you stick to thoroughfares that will allow you to spot them well in advance. I would hate for you to be injured while helping us."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Understood."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We'll want to split up again to cover more ground. Are you ready to go?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I appreciate the help. I'll be here working on the detector while you're away."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "You're back! Were there many sprites?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Just a handful on your route, then? Could be worse!"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Still, it's important to keep the city free of them. We're much obliged!"
+    }
+  ]
+}

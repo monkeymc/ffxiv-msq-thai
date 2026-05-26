@@ -1,0 +1,480 @@
+{
+  "id": "a-saga-in-stone",
+  "wiki_path": "/wiki/A_Saga_in_Stone",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Saga in Stone",
+  "level": "90",
+  "location": "Tuliyollal(X:9.4,Y:13.5)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, this spot's captured Krile's attention."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What is special about these pillars, if I may ask?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "At a glance, they might look like ordinary stone decorations."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But if you take a really good look, you'll see they're something much more interesting!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I suppose we ought to do as Wuk Lamat suggests."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Pictures...? Wait, no, these are glyphs!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "They seem to tell a series of stories, many of them featuring a two-headed Mamool Ja. Oh! Then this must be..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's right. It follows the exploits of my father, Gulool Ja Ja, and his journey to unite our lands. We call it the Tuliyollal Saga!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The deeds he performed and the bonds he forged, all immortalized in stone."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's no better way to learn how Tuliyollal came to be. Study them as long as you like!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The four stones closest to us cover the first half of Papa's travels. Let's start with those."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This pillar tells the Lay of the Brotherhood. It depicts the scene where Papa granted an audience to the foreign explorer, Ket...something. I can never remember the name."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You mean “Ketenramm”?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, that's the one. Ketenramm's arrival in Tural is what prompted Papa to embark on his own journey."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's said the two grew to be close friends─brothers in spirit, if not in blood. But no one knows what became of the explorer in later years."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ketenramm's disappearance is a mystery in Eorzea as well. The records say he traveled between our lands and yours for a while, but then it's assumed he was lost at sea."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here we have the Lay of Reeds. This is the story of when Papa visited the Hanuhanu in their village in Kozama'uka."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ah, the people Alphinaud almost mistook for Vanu Vanu, if not for the colorful plumage. He spent a fair bit of time among the Vanu in the Sea of Clouds, so it's no surprise he took an interest in your countrymen."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't know how it is with your Vanu, but our Hanu are a bright and cheerful sort. They hold this one festival every year─very famous, and a lot of fun."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Uh, let's see... This one is the Lay of Pots, which depicts the Moblins of Kozama'uka."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They might wear odd masks and sound weirdly muffled when they talk, but the gold- and silverwork they sell is the best you'll find anywhere. Moblin goods are the standard when it comes to gift giving."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Clearly the Vanu aren't the only people with distant Turali counterparts..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This one recounts the Lay of Repast. As you can probably tell, the figure depicted here is of the Xbr'aal, like me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "For decades, the Xbr'aal and the Mamool Ja were at war for control of the forest of Yak T'el."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The actions Papa took to end that conflict have since been hailed as the first steps in the founding of Tuliyollal."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There is a clan of Hrothgar in Bozja known as Helions. In their society, the women rule as queens, and the men serve as devoted subjects."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yet here in Tural, Xbr'aal men and women appear to be of equal status. How dramatically culture can vary with location."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you're done with the first half, we can move on to the second!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not ready to move on yet? That's fine! I don't mind retelling the stories."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And these four comprise the rest of the saga."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Lay of Gold. This pillar shows one of the Pelupelu, whose homeland is in Urqopacha."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Having created our currency, the Pelu are rightfully known as the merchant clan. They oversee Tuliyollal's markets, and their traveling peddlers are a common sight no matter where you go in Tural."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't let their size fool you! They might be mistaken as children, but beneath those beaked masks, they are clever and calculating traders."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, this one is my favorite: the Lay of Ice. It depicts the battle with the legendary tural vidraal, Valigarmanda!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I should explain. A tural vidraal is a creature that has lived far beyond its usual lifespan and awakened to preternatural power."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Tataru described the Far Eastern auspices in a similar fashion. Could this be the same phenomenon?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Valigarmanda itself was dubbed the Skyruin, a name earned for the destruction and terror it visited upon Tural every time it stirred from its slumber."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But eighty years or so ago, its ruinous reign was brought to an end! After a great struggle, Papa and his comrades managed to overcome the raging vidraal, and sealed it away in the Urqopacha mountains."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Despite its reputation, however, Valigarmanda is also a symbol of power. That's why you'll see its likeness on Tuliyollal's national emblem, and adorning the banners at the palace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, the Lay of Proof... That big fellow is of the Yok Huy, the largest of Tural's peoples."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "These giants once used their great size and strength to establish a dominion encompassing all of Yok Tural."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Having brought the southern reaches to heel, they then turned northwards, setting their sights on Xak Tural. You'll recall that massive bridge they built beyond the skygate..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Some time after launching their northern campaign, however, they just...gave up. They abandoned the lands they'd conquered and withdrew into the mountains of Urqopacha. I've never even seen any of their kind so much as set foot in the city."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This was a people with the power and resourcefulness to raise a temple on a mountaintop and build a bridge across the sea with stone. What would move them to renounce their ambitions and their place in Turali history...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh, this one is unmarked."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa says he left a blank pillar for the next chapter of Tuliyollal's history. Whatever that might be."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Had your fill of history, then?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course! Take as much time as you need!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, there you have it. I trust that gave you a better understanding of our nation. If you want to review anything, just let me know."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course! Take as much time as you need!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Glad to hear it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You know, I feel awfully hungry all of a sudden... No surprises there seeing I couldn't keep anything down for a while. But now I think I'm ready to eat again!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So let's go and have ourselves a bite of a local delicacy! Come, I'll take you to the best restaurant in the city!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I like the sound of that!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What a lovely establishment. I'm reminded of the Bismarck in Limsa Lominsa."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Have you ever had tacos? They're a Tuliyollal classic! You bake a crunchy shell made from corn flour, and fill it with meat and salad."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A lot of shops and stalls sell them, but I like how they're made here at Xbalyav Ty'e best."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And I need one right in front of me, right now! Let's head downstairs and place an order with old Br'uk Evu!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is Br'uk Evu, the owner. Don't let his unassuming appearance fool you─when it comes to making tacos, he is the greatest artisan in all of Tural!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Every dish looks delicious! At the risk of sounding like Wuk Lamat, the mere sight of so much fine cuisine is making me ravenous."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Br'uk Evu!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "My companions must sample your heavenly tacos. One for each of us, please."
+    },
+    {
+      "character": "Br'uk Evu",
+      "text_en": "Right away, Promise─and I'll pack them tight with my choicest fillings! Only the best for you and your friends!"
+    },
+    {
+      "character": "Doppro Customer",
+      "text_en": "Did you hear the Silverscales are back? Seems their overseas foray ended in disaster. More than half their warband is missing, including their leader."
+    },
+    {
+      "character": "Xbr'aal Customer",
+      "text_en": "Aye, and now keen to rebuild their broken reputations, the survivors seek the golden city. A fool's errand. How many hopefuls have disappeared in search of that fable? They should count their lucky stars they came home alive at all."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The legend of the golden city is well known here, I take it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It is, but as no one's ever seen it, many question if there is any truth to the tale─like our skeptical Erenville."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can't imagine the Dawnservant would request a formal survey for a place that doesn't exist..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now to find a spot with a pleasant view to enjoy our crunchy spoils!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Aaaah!"
+    },
+    {
+      "character": "Two-headed Mamool Ja",
+      "text_en": "Oho, if it isn't the Third “Promise.”"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh no..."
+    },
+    {
+      "character": "Two-headed Mamool Ja",
+      "text_en": "I don't know these ones. New salt?"
+    },
+    {
+      "character": "Two-headed Mamool Ja",
+      "text_en": "Dredged from foreign waters is my guess, Brother."
+    },
+    {
+      "character": "Two-headed Mamool Ja",
+      "text_en": "Of course, that's it. Wuk Lamat is so afraid of the coming contest that she went crying for special help!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Was there something you wanted, Bakool Ja Ja?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "The Third Promise remembers us! Such an honor!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Glory on your name, Brother!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "And on yours, Brother!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...I know my rivals for the throne, nothing more."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Another child of the Dawnservant...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, this brute─"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "We have no ties to their farce of a family!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Unlike this sniveling house cat, we are blessed siblings! The elevated chosen! We alone are fit to succeed Gulool Ja Ja as Dawnservant!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All peoples are equal in Tuliyollal! Your heritage gives you no greater claim to the throne!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Shall we test that idea here and now? See if your strength is “equal” to ours?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "None of this has any bearing on the rite of succession, correct? Best not waste your energies on pointless scuffles."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "The kitten comes to the house cat's defense!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Pathetic! Since when was our nation overrun by mewling weaklings?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Listen to me, you..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A two-headed Mamool Ja... I knew of them, but that's the first I've seen in the flesh."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Some get it into their twin heads that they're destined to follow in my father's footsteps. So they travel to distant lands to hone their battlecraft."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Those are likely the ones you've heard about."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Are there other two-headed claimants?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, just Bakool Ja Ja. Even in Tural, his kind are far from common."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Mamool Ja people largely belong to one of three clans. The Hoobigo..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Boonewa..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And the Doppro."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Every once in a great while, a two-headed offspring is born from a union between the brown-scaled Hoobigo and the blue-scaled Boonewa. The child grows to possess immense strength, both physical and magical."
+    },
+    {
+      "character": "Krile",
+      "text_en": "“Blessed siblings” indeed..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Forget them. Let's go and buy more tacos─I can think of nothing better to rid me of this bad taste in my mouth."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Enjoying your tour of the city, I trust? We've seen our share of notable sights and took a moment to rest."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As such, we're ready to present ourselves at the palace for the rite of succession. Shall we meet you there?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The palace it is. I'll let Wuk Lamat know."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Destiny calls. Perhaps we can return for more tacos later?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...So it goes."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Br'uk Evu's lovingly made tacos went to waste, and it's all that brutish Bakool Ja Ja's fault..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I was looking forward to trying some authentic Tuliyollal cuisine, but we should hurry and join Alphinaud and the others at the palace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All right. It's a bit of a climb to the top, but you can head up from the Resplendent Quarter, or even the eastern side of Talonmarch, if you prefer."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now that you have an idea of how the city's laid out, I'll let you find your own way to Vollok Shoonsa."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, my poor, empty belly..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Do you have a better feel for the city now?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "There are so many narrow, winding streets. But even if you get lost, all you have to do is keep heading up, and you'll arrive at the palace eventually."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We saw a two-headed Mamool Ja on our way here. Another claimant in the rite of succession, according to Erenville."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The food is amazing. A passing Mamool Ja let us try a fruit called “cherimoya” and it was just sublime."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You made it. Good. Then we're all here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm still hungry enough to eat a whole roasted colibri, but the contest won't wait for us forever!"
+    }
+  ]
+}

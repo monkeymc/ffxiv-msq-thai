@@ -1,0 +1,692 @@
+{
+  "id": "two-worlds-entwined",
+  "wiki_path": "/wiki/Two_Worlds_Entwined",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/9/91/Two_worlds_entwined1.png",
+  "patch": "7.5",
+  "title_en": "Two Worlds Entwined",
+  "level": "100",
+  "location": "Main Hall(X:6.1,Y:6.1)",
+  "npc_start": "G'raha Tia",
+  "dialogues": [
+    {
+      "character": "Tataru",
+      "text_en": "Sorry to send you packing so soon after your homecoming, but Garlemald desperately needs your aid!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Clearly we made the right decision to come to Sharlayan. Though I dearly wish the circumstances of our return were not so grave..."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Voidsent emerging across the star!? How fortunate I contacted you when I did... Please do take care of yourselves!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And just like that, we find ourselves faced with another emergency. Fortunately, there is yet time for us to make a difference. Let us make haste for Tertium!"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Ah, Forename . Thankfully, the camp is safe enough. There are others in far greater need of your assistance."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "It would seem that Alphinaud and Alisaie have returned. Please do all you can to assist them!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Well met, my friend. Now, let us hearken unto Alphinaud's words."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "It's been far too long, Forename ."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Thank you for coming at such short notice. I'm glad you're here..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, Forename ! You've made it in time!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You picked a frosty spot for a reunion."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Tataru sent word that you were coming. Full glad am I to see you all."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though I'm afraid this is no time for pleasantries..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Planar fissures have opened up across Garlemald, inundating the region with voidsent. As far as we can ascertain, there are two focal points of their assault."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Ilsabard contingent are combating the threat in Lapis Manalis. Although they have suffered casualties, they appear to have the upper hand."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As well they should. The many talented Ul'dahn thaumaturges among them should be more than capable of closing any fissures they encounter."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Which leaves the second focal point: the Clyteum. Jullus and the Garlean community are attempting to mount a counterattack, but are struggling to cope with the sheer number of voidsent."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "They've fallen back to the north of the imperial palace. Can you lend your aid in securing the area?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "With your blessing, I would tend to the wounded returning from battle."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Of course, Krile. Thank you."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The quickest route from here to the front is via the train tracks. Once we arrive, we can support the Garlean forces as we make for the fissure in the munitions factory."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've often thought that if I had been more adept in tending to the wounded of Solution Nine, perhaps not so many would have been lost... I shall do my utmost to see that I do not look back on this battle with regret."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In these frosty climes, the weather is as much an adversary as any voidsent. We ought not tarry!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Clyteum once supplied the imperial army with all manner of munitions and warmachina. Like many such facilities, I am told it had fallen to ruin in the wake of the Empire's collapse..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Even with magitek support, the Garleans are struggling to beat back the voidsent. We must join them as soon as possible!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I can't say I have your knack for dispatching voidsent, but our time in Tural gave me many opportunities to hone my skills. You shan't find me wanting."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I have seen to my preparations. I suggest we sally forth ere the cold winds sap our strength..."
+    },
+    {
+      "character": "Garlean Soldier 1 (text bubble)",
+      "text_en": "Grrrgh!"
+    },
+    {
+      "character": "Garlean Soldier 2 (text bubble)",
+      "text_en": "Curse these voidsent!"
+    },
+    {
+      "character": "Garlean Soldier 3 (text bubble)",
+      "text_en": "They just keep coming!"
+    },
+    {
+      "character": "Garlean Soldier 4 (text bubble)",
+      "text_en": "Have at you!"
+    },
+    {
+      "character": "Jullus pyr Norbanus",
+      "text_en": "You're a sight for sore eyes!"
+    },
+    {
+      "character": "1st Legion Laquearius (text bubble)",
+      "text_en": "We must protect the people!"
+    },
+    {
+      "character": "Jullus pyr Norbanus",
+      "text_en": "Take that!"
+    },
+    {
+      "character": "1st Legion Laquearius (text bubble)",
+      "text_en": "Die!"
+    },
+    {
+      "character": "Jullus pyr Norbanus",
+      "text_en": "Appreciate the help."
+    },
+    {
+      "character": "1st Legion Laquearius",
+      "text_en": "More of them!?"
+    },
+    {
+      "character": "Jullus pyr Norbanus",
+      "text_en": "We'll handle things from here. Take care of the fissure!"
+    },
+    {
+      "character": "Jullus pyr Norbanus (text bubble)",
+      "text_en": "We'll not lose anyone else!"
+    },
+    {
+      "character": "Eye of the Scorpion",
+      "text_en": "Your world is forfeit!"
+    },
+    {
+      "character": "Eye of the Scorpion",
+      "text_en": "All shall be turned to stone!"
+    },
+    {
+      "character": "Eye of the Scorpion",
+      "text_en": "The slightest movement will guarantee your doom!"
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Welcome to my domain, mortals."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Take form and serve!"
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Carry out my will!"
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Now for something different."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Time to pull the strings..."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Care to join my horde? You would make such fine minions..."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Dance!"
+    },
+    {
+      "character": "Malphas",
+      "text_en": "There is no escape."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There's no fight left in them now."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "They still breathe—albeit faintly..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Don't worry, I have my eye on them."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "We need only close the fissure..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I'd wager the creature is not long for this world."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Watch out for falling debris!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A magitek bombardment!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Onward!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Leave the fodder to us. Don't hold back!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Long hath it been since last we fought together."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "They don't stand a chance!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We must hurry!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Their hunger for aether is insatiable..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There you are!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Jullus! Stand fast!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We're here now!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We can speak later!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Understood."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hang in there!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "An amalgamation of beast and machine?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That baleful eye... Be on your guard!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "An intriguing specimen..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Watch out!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ware that eye!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What does it seek!?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The eye draweth aether unto itself..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What's it doing?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That was a strange encounter..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To the Clyteum!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Time to push forward!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We must keep going!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Awfully persistent..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Halt their advance!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Their numbers are legion..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "They're everywhere!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let none bar our path!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Leave none standing!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's make short work of them!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "How in the hells is it moving so fast?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "They're up to something... Be on your guard!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Not quite the lumbering lump I'd expected..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I don't like the looks of this fellow."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Stay alert!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Perhaps it waits for an opportune moment?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Its movements are unpredictable..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Have care!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What in the hells!?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Everyone, gather close!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Quickly, we must stay together!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We'll make it through this together!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "One cannot weather such power alone..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Stand together, everyone!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That was quite the challenge..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Not far to the Clyteum now!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I was starting to feel dizzy..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "These creatures are made of scrap?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Twisted constructs like puppets..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "An unseen hand doth guide them..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Better than taking the stairs..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "How exhilarating!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "My word!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Something tells me that wasn't designed for people..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This one seems more formidable than the others..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Mayhap this is the puppeteer..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's put an end to this!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "What are they doing?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Those tendrils..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Be careful!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Born of scrap before our very eyes..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Be wary of the puppets!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We ought to split up!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "If only we could sever those strands..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "They command the puppets as one!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "By the Twelve! This is madness!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "A battle of attrition..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "They're beginning to try my patience!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Keep an eye on the minions."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Try to predict their attacks!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Watch the puppets' movements!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "They are a puppeteer of surpassing skill..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I won't fall for that again!"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I think that's all of them."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "We need but seal the fissure to prevent further ingress."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "It's over..."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I can only imagine the extent of the damage were it not for your aid. On behalf of the Garlean community, I thank you for all you've done for my people─for my home."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Home?"
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Nnnghhh!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I shall close the fissure posthaste."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Wait..."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "If you do that, I will be trapped here..."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "You risked your life in vanquishing the creature─would you at least let me bear the burden of deciding its fate?"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "You want to go back? To the void?"
+    },
+    {
+      "character": "Malphas",
+      "text_en": "I..."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Your kind have entered this realm before. Some seeking death that they might rejoin the Lifestream."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "But you would choose that dark, deathless place?"
+    },
+    {
+      "character": "Malphas",
+      "text_en": "The wind here is fresh and pure, untouched by Darkness. Perhaps it would be a blessing to meet my end in such a place."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "But I cannot yet bear to part with the void. If only the winds would blow there as they do here..."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "I long to return... To see my home unsullied, as it once was."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "We know that pain all too well."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "If that is your wish, you must forsake this aggression, go back to the void, and devote yourself to its restoration."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I have a friend...Zero, who hails from your home. She and her companions strive to bring Light into the void from another world blighted with imbalance."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I hear their efforts have already met with some success. One day, they'll drive the Darkness from the void─I'm sure of it."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "This form...is imbued with the will of all those I have consumed."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "We shall return to our world and seek out this “Zero.” Then we shall see if there is truth in your words."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "She won't disappoint you. That much I guarantee."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Bravo! I think Zero will approve!"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Oh, I, err..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. That was truly heartening to see!"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "“Understanding begets fellowship”...right?"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I thought I might lead by example."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well then, shall we head back?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Jullus was quick to put our words─or rather, those of the Dawnservant─into practice!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You have my heartfelt appreciation. Without your intervention, I have no doubt the casualties would have been far greater."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Voidsent not only absorb the aether of those they consume, but their thoughts as well... With such a legion of minds at their disposal, one hopes they prove a capable ally for Zero."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "With the Clyteum's fissure sealed, I daresay the voidsent incursion is at an end."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That boy's come a long way. All credit to Zero for nudging him in the right direction."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Reports have begun trickling in. By all accounts, the Ilsabard contingent was successful in containing the threat on their front."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "For voidsent to attack in such numbers just as we were finding our feet... I daren't imagine the consequences had you not provided such timely aid."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "On behalf of my comrades, thank you. Thank you all!"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "As you might have gathered, the Dawnservant's wisdom struck a chord... I only hope my words resonate as strongly with the voidsent we met."
+    }
+  ]
+}

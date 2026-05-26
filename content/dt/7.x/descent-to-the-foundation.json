@@ -1,0 +1,812 @@
+{
+  "id": "descent-to-the-foundation",
+  "wiki_path": "/wiki/Descent_to_the_Foundation",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/52/The_Underkeep.png",
+  "patch": "7.2",
+  "title_en": "Descent to the Foundation",
+  "level": "100",
+  "location": "The Backroom(X:6.0,Y:6.3)",
+  "npc_start": "Shale",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "At last we have a plan. Let's make it count!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "According to the records from Yuweyawata, my mother was investigating Origenics for her own research into souls."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There was map data for Origenics in the records, and that's how we learned about the castle in the foundation sector."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The castle was once my home. I shall do my utmost to be of use on this mission."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Calyx determines how many will become Endless, but leaves the choice of who in the hands of the people..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is this his idea of fairness, or does he simply not care? Perhaps he considers all to be worthy of salvation...? Oh, but it's too early for such speculation..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In the world of Sphene's memories, the town was already submerged. Given their dire circumstances, I expect the people considered stripping the castle for materials to rebuild."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "For the structure to endure even now... It speaks to its importance to the Alexandrians, as well as their resilience."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Right. I believe I've plotted a viable route to the foundation sector."
+    },
+    {
+      "character": "Shale",
+      "text_en": "As we don't have much information on the area, I'll come along and gather geographic data on-site. You can leave the navigating to me."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll stay behind this time, but let me know if there's anything I can do to help!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Oblivion is fortunate to have a capable adapter like you, Gulool Ja. And no matter what the future holds, your knowledge of electrope is bound to serve you well."
+    },
+    {
+      "character": "Shale",
+      "text_en": "With such dependable support here, we may embark on our mission. Come, let's head to the lift in the government sector."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Be safe out there!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Though it was but from a distance, I remember the sight of Alexandria's castle in the virtual domain. I wonder how it looks now compared to then..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "From here, we head to the very bottom of Everkeep. I can't help but feel nervous, returning there after so long..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Calyx has all but invited us, so we must assume that we are expected..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oblivion's gotten us permission to use the lift. It's nice when things can move quickly."
+    },
+    {
+      "character": "Lift Attendant",
+      "text_en": "Everything has been arranged for your passage to the foundation sector!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "There's no direct lift to the foundation sector, so we'll have to transfer to another on the way."
+    },
+    {
+      "character": "Shale",
+      "text_en": "If we take the wrong lift, we'll end up in the wrong sector, so be sure to follow her instructions."
+    },
+    {
+      "character": "Shale",
+      "text_en": "According to Teeshal Ja's records, the tower is divided into inner and outer sections below Origenics. The castle is at the heart of the inner section."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So upon arriving at the foundation sector, we need to make our way inwards."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Forename , take this communicator with you."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's been modified to track your coordinates, so I'll be guiding you as I collect data."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sounds like we're all set. Let's get going!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It would be nice if this foray was uneventful, but that would be a naive hope. Better to expect the worst."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I shall follow close behind with Shale."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though we are taking a risk, the far greater danger would be to wait. This time, let us take the battle to Calyx."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Calyx uses the people's love for Sphene to further his own schemes. We can't allow him to do so any longer. Whatever it takes, we'll find and stop him!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "We're heading into a trap, so watch your step."
+    },
+    {
+      "character": "Lift Attendant",
+      "text_en": "I'll be your guide for the descent to the foundation sector, after which Shale will take over. Please take care not to lose the communicator!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "There are beasts ahead of you. They must have gotten in and made themselves at home."
+    },
+    {
+      "character": "Shale",
+      "text_en": "There should be an access hatch nearby that leads inside. Look for an opening."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'm detecting something big... You'll have to deal with it to continue on."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Good work. Now, proceed to the access hatch and head inside."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Everkeep's construction was apparently a constant battle against the rising water level."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Even during the war, the people labored to maintain the castle. It meant a lot to them."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's upsetting to think that Preservation's terminal is in this place..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Hold on... Someone's jam...mmunications! Stay alert!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "So you have come. Let us measure your strength."
+    },
+    {
+      "character": "Soldier S0",
+      "text_en": "I am the soldier S0, of Alexandria's castle-guard. By order of the royal knights, I shall dispatch all intruders."
+    },
+    {
+      "character": "Soldier S0",
+      "text_en": "Releasing limiters... Initiating mobile combat maneuvers."
+    },
+    {
+      "character": "Soldier S0",
+      "text_en": "Calling reinforcements. Together we shall triumph."
+    },
+    {
+      "character": "Soldier S0",
+      "text_en": "Combat functions...inoperable... Forgive my failure..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "That was hardly a challenge, I see."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You will show me more. I bid you press on."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You are untroubled thus far, but I have something that may test you yet."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "We still lack sufficient data. Very well. Let us see how you perform against this."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "This machine has long guarded these crumbling halls."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "How will you handle this?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Let us introduce more weaponry."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Let us see what this yields."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Perhaps a new approach to assess your adaptability."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Still alive. How unfortunate."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Were you to die here, it would save me trouble later."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I'm beginning to understand how you were able to defeat Queen Eternal."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "That will do. We have enough to proceed with an analysis."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Shale and Sphene shouldn't be far behind."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And so the trap was sprung, as expected."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Where are you hiding, Calyx!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It seems we must clear a path through these creatures."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Indeed. Let us proceed with caution."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let us press on."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now to put my time training on the beach to good use!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The sand has built up over the long years..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whoa! That's a big bug!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Has it been using this chamber as its lair...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh? Where's it going?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is it moving along the pipes?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I don't think it's trying to flee..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "where did it hide!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "On your guard, everyone!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It means to catch us by surprise!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here it comes again!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What a tiresome foe..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This time... From over there!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hmph. What a vexing creature that was."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "To think it was clever enough to use the pipes and sand to its advantage..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait, is that...the castle!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Look. Could that be...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...It's the castle!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Was Shale's transmission cut off!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We knew it wouldn't be easy. Let's stay strong and keep going!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That voice... Calyx!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is he testing us against that mechanical soldier?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What!? Copies!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It moves so quickly..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What are we up against now?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We won't be tricked again!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Remain calm—we can evade its attacks!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Focus and follow the movements!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even more of them!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ungh... My head is spinning."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "No doubt it will fight to the last..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It was following orders... Does an even fiercer machine await us?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Fine by me. If he wants a show, let's give him one!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gah! They came out of nowhere!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What a fright!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is it guarding the door?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "All the more reason to see just what lies beyond."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I don't believe it intends to let us pass..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is that? A floating rock?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Something's carved into it... Alexandria's emblem, perhaps?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Stay alert!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Those things started moving!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It comes again!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is anywhere safe!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Something's different..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is the lightning intensifying?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Steel your nerves and make ready to dodge!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The red light changed positions!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Those move too!? No fair!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Calyx was measuring our strength. Is that why he contrived to lead us here?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It looks like we've cleared away the machines and beasts, but who knows what else he might have in store..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "From here on out, Sphene and Shale will move with us. Let's find that terminal, but stay alert for more threats."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Before my illness left me bedridden, I used to walk through here on my way to watch Otis and Zelenia train."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You knew Otis, if I am not mistaken? Zelenia was his second-in-command in the royal knights of Alexandria."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh, how I loved to see the two of them spar. I once dreamed of fighting by their side, so I studied the magical arts under my tutor."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But when I was fifteen, the Storm Surge broke out, and both my father and mother passed away."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As the new queen, I was forbidden from taking to the battlefield, for our nation would fracture had I died without a successor."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Though in the end I could barely move, I regret that I didn't go out there and fight. At least while I still could."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My Endless self lamented not being able to protect the realm with benevolence. 'Tis a feeling to which I can relate..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, forgive me! 'Twas not my intent to darken the mood. Come, let us press on."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is one big castle, though... How far does this hallway go?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Do you know, Sphene?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What...what happened!?"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Oh? It seems our guest brought company."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So this was your doing."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "It was. We installed a teleporter that is triggered by the presence of the key, you see."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Ah, I'm afraid aetheric transmissions cannot penetrate the walls of the throne room. It will take your friends a good while to find you."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I confess, the Valia Pira did not suffice to assess your capabilities."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "So I shall try something else."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You are free to use anything at your disposal. The better you fight, the more accurate my data."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Attaining a precise measure of your strength─that is the most expeditious way..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "...To reclaim the key to which you so stubbornly cling."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Ah, noble Zelenia, dashing as ever. These villains mean to do us harm. Strike them down, I bid you!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What? This machine is Zelenia!?"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Indeed it is. We couldn't preserve her memories while she lived, so she has been reconstructed from our recollections of her."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The Endless me being created in answer to the earnest desires of Alexandrians... That, I can accept."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But to twist the memories of those I held dear and treat them as playthings..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...This disgrace I cannot abide!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Loath though I am to comply with their demands, this monstrosity must be destroyed. Not least of all for Zelenia's honor."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If she was indeed created from my memories, even if I cannot fight, I may be able to offer you counsel."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So please, lend me your strength and end this farce!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Ah, there it is..."
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "I am Zelenia Triantafylli."
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Royal knight of Alexandria, and sworn blade of Her Majesty, the Queen."
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Upon my blade I swear, no harm shall come to Her Highness!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You will not defile Zelenia's memory any longer!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Feel the sting of my divine blade!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I know this technique... You must keep moving!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Have at you!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Fall!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That her bladework should be recreated so faithfully..."
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "I will suffer none to threaten Alexandria!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Heavens roar!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Have care! Zelenia was capable of much, much more!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "I will show you the soul of a royal knight!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "For the honor and glory of Alexandria, I strike!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "No more games!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Quickly, away from the sigils!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The sigils channel magic! Be on your guard!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "You've no time even to fear my wrath!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You must brace for blade and magic both!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Taste my steel!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "There is no escape!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Surge!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I know this is merely a reconstruction...and yet..."
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "I have pledged my life to the kingdom!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "My resolve shall never waver!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "I am sworn to protect my queen! I will die before I yield!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That's right... Zelenia was always there to protect me..."
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Rage and roil!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "A disgraceful display... Forgive me, my queen... I have failed you..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you for keeping me from harm."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Did you get what you needed?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I did. Though these figures will complicate matters."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Is that so? Well, if we are done here, then I shall end the transmission."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Hold it!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If you have no scruples about thus defiling the memories of Zelenia...then there is no way we will ever see eye to eye."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You are not fit to be entrusted with the cherished memories of Alexandrians!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I, for one, have no wish to employ the fruits of my research in this manner. It is a waste of time and effort."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "But since I relinquished my flesh long ago, I must resort to every conceivable method, so long as the hero insists on keeping the key."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Why do you so oppose our objective?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "With the key, we would be able to harvest aether from other reflections and bring forth more Endless."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "We could give this chance to evolve not only to the people of the Ninth, but to those of the Source as well. I see no reason why you should reject such a boon."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "How miserly you are! But unless you're willing to compromise, you won't be able to save anyone or anything."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Oh, don't tell me you thought you were the only ones who knew? That is the height of hubris!"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Well, I'd say our conversation has run its course."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Ultimately, what you think is immaterial, for the seeds we've sown have already quickened."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "The people have glimpsed hope in transcending death, and they can ill turn away from it."
+    },
+    {
+      "character": "Simulant",
+      "text_en": "And thus does my role come to an end. The rest, I leave in your capable hands, Calyx."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "As a token of gratitude for consenting to my tests, I leave you with a gift. Be sure to take it with you."
+    },
+    {
+      "character": "Lift Attendant",
+      "text_en": "Heading below? I'd be glad to show you the way!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Zelenia was kind, but she could be stern. A pillar of strength when I ascended the throne in troubled times."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Not only did she protect me, she also buoyed my spirit whenever it threatened to buckle under the pressures of my station..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "By preserving her memory and honor, you've done more for me than you could know. Thank you, Forename ."
+    }
+  ]
+}

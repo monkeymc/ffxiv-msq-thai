@@ -1,0 +1,360 @@
+{
+  "id": "a-journey-never-ending",
+  "wiki_path": "/wiki/A_Journey_Never-ending",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Journey Never-ending",
+  "level": "100",
+  "location": "Living Memory(X:11.0,Y:12.5)",
+  "npc_start": "Cahciua",
+  "dialogues": [
+    {
+      "character": "Erenville",
+      "text_en": "I know one shouldn't judge by appearance, but still..."
+    },
+    {
+      "character": "Museum Curator",
+      "text_en": "Hello there! Come to ride the mehwapyarras, have you?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Begging your pardon, but this is where you can go on leisure flights, yes?"
+    },
+    {
+      "character": "Museum Curator",
+      "text_en": "Indeed it is! Bearing you will be our adorable mehwapyarras, who are especially trained by a Turali friend!"
+    },
+    {
+      "character": "Museum Curator",
+      "text_en": "Just say the word, and we will send you up, up, and away!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And there you have it! Shall we, then?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It seems I'll have to trust to the theory of ancestral levitational predisposition..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "In case you are unfamiliar, the theory holds that all life-forms have an innate capacity for levitational magicks. While said magicks generally remain latent, they may manifest in the ability to fly."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "My guess is that the mehwapyarras themselves cannot fly, but rather their saddles are imbued with levitation magicks."
+    },
+    {
+      "character": "Museum Curator",
+      "text_en": "You are ready? Then go ahead and mount up. The mehwapyarras fly a set route, so you need only relax and enjoy the view!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Hahaha! How exhilarating!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll be damned... They really do fly..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Hey, the way we're flying in formation, don't we look like migrating birds?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Except we're on giant rodents..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Speaking of migrating birds, the mallard is where your name comes from. Did I ever tell you that?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That I knew, but I learned it from the shamaness, not from you."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "A migrating bird can fly anywhere it desires—even across oceans to distant continents."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And you've done just that, my clever mallard!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'd thank you not to call me that!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Oh dear, is it over already? Time really does fly when you have fun!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "What a joy to see Living Memory from up high!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Ahhh, that was wonderful! An experience worth saving for the very end!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You two enjoyed yourselves as well, I trust?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It was enjoyable enough, I suppose."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "From my fussy bunbun, that's high praise. I'm glad I invited you and Forename ."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Thank you for indulging me."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If I could, I'd go for another hundred rides, but I must settle for the one."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It's time we were headed to the Aero Terminal. If there are still things you wish to do, you'll want to do them now."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "When you're ready, make your way along the path yonder. I'll find the others and let them know the same."
+    },
+    {
+      "character": "Museum Curator",
+      "text_en": "Please come and fly again any time!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "She's only a facsimile constructed from her memories. I understand this."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But when she's right there, as alive and spirited as I've ever known her, how am I supposed to do it? How am I supposed to erase her?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Does she even know how it tears me apart?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's not fair..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We saw you from below. It looked like you were having fun."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It will be hard, but let us send Cahciua off with a smile."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We'll be there for Erenville."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "How delightful this has been! Not since my journey with the Dawnservant have I enjoyed myself so!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "No, I'm selling it short. This was even better."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And that's because I was able to share this adventure with my darling boy."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Well, this is as far as I can go. As for the rest..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Just stop. You're doing it again. Deciding everything by yourself and then disappearing."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Elene'shpya. You're my pupil, so you ought to understand."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Everything that lives must one day die, and that which has died isn't meant to return. This is the way of nature."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Mine is an unnatural existence, and I've suffered it only because I had to unmake this twisted mausoleum."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "But now that brave souls have appeared to whom I might entrust my mission, I may finally embrace the end."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Can't you be happy for me?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "How could I be happy ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "...I was actually quite scared, you see."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Scared that I'd be trapped inside the barrier forever, and denied the thrill of discovery for all my days."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Your coming gave me courage and comfort, Elene'shpya. More than you know."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And now, here I stand, unburdened and free! In this moment—the happiest of my life."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As you wish, Mother. I'll continue what you began."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You were right, of course—leaving home has broadened my horizons. I've met my friends and found this place."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "So I bid you leave your dreams with me..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "And know—I'll go where you couldn't go and do what you couldn't do! I will!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Look at you, all grown up and dependable."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Yet with so much more ahead. A world of experiences await you—each a lesson of its own."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You may know failure, and burning regret...but these too shall become beacons to guide you. So come what may, hold your head high and carry on with conviction."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And wherever your journeys take you, keep me close to your heart, will you?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I should like to be there, to see what I haven't seen."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You will be, Mother."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Now, run along. And never forget that you're my pride and joy."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I trust you all can handle the rest. Take care—and farewell!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I couldn't have asked for more fulfilling final hours than these."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I'm so happy to have met you, Forename . You and everyone. Thank you for the memories."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And thank you for watching over my Elene'shpya. He'll be fine now, I know it."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No more doubts. I will shut the terminal down."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let's see our task through to the end."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We carry on, with their hopes and memories in our hearts."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll leave this to you, Erenville."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Aye, I won't waver. Not anymore."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If you're ready yourselves, then so am I."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That makes all of them."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "All that remains is to wait for the Meso Terminal to become vulnerable, when it's about to initiate fusion. And then we strike."
+    },
+    {
+      "character": "Meso Terminal",
+      "text_en": "Please be advised: we are entering the final phase of world bridging. Repeat: we are entering the final phase of world bridging."
+    },
+    {
+      "character": "Meso Terminal",
+      "text_en": "The aether of all residents will shortly be replenished. Be at ease—no action on your part is required."
+    },
+    {
+      "character": "Meso Terminal",
+      "text_en": "We thank you for your patience."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait—it's already begun!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let us finish this!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We won't let Cahciua's hopes be in vain!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No time for tears... Just as well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not a moment too soon... It's as if she's saying she won't let us do as we please anymore."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Through our time here, we've come to know what it is Sphene seeks to protect."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But that doesn't change what we have to do!"
+    }
+  ]
+}

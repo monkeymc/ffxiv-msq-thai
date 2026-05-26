@@ -1,0 +1,400 @@
+{
+  "id": "the-feat-of-reeds",
+  "wiki_path": "/wiki/The_Feat_of_Reeds",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Feat of Reeds",
+  "level": "90",
+  "location": "Kozama'uka(X:19.0,Y:12.6)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "I understand not wanting to fall behind, but rushing ahead risks playing into our opponents' hands. Let's not do anything reckless and think matters through!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This kind of feat is tailor-made for a rational, educated scholar like Koana."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So the Hanuhanu also eat the reeds? Yet another way in which they differ from the Vanu..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Not that I intend to gratify him with a response, but Bakool Ja Ja's provocations are hard to ignore."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't know the first thing about farming, but if there's a way to save the harvest and help the Hanu, then we're going to find it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll make Bakool Ja Ja eat his words..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Understanding the nature of the problem will be the key to solving it. We need to examine the reeds themselves, and then deduce the cause of their poor condition."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Erenville, will you take us to the fields where the reeds are grown?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Of course. Follow me."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Look at these fields! Why, this could be a painting!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I know she wants to do her best, but she should be careful not to make promises she cannot keep."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I see. They irrigate the fields by diverting water from the neighboring river. 'Tis unlikely the reeds ever dry out..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And there I thought these feats would have us battling dire fiends or similar. Agriculture is a far thornier problem..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You can all stand back. I'll get to the bottom of this problem in no time!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Give me strength... Let's all of us scour the fields and help our bold leader identify anything unusual."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hmmm..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Any luck?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Naught amiss with the paddies themselves as far as I can tell..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Oh, a water strider. A bit sluggish, though. More of a water shambler..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll find the cause of all this! Any moment now!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seen enough? I'll call everyone together, and we can share our discoveries!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, what do we think? Any obvious problems?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I agree─the waters look to be of good quality, as does the mud in which the reeds have been planted."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The frogs and insects are unusually torpid. This suggests the problem is affecting not only the reeds, but also the creatures which live among them."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Could something invisible to the naked eye be polluting the water?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We would need an alchemist to know for certain..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't have much to add about the fields...but something else occurs to me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When you were describing how the creatures seemed lifeless..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I couldn't help but be reminded of all the listless villagers."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They've suffered a terrible tragedy, I know...but there is another reason for their flagging spirits, I believe."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Go on..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The festival! This is traditionally an occasion for celebration and renewal, so without it, the Hanu are struggling even more to recover!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The last time I visited, the village was in the middle of the festivities. You'll never see the Hanuhanu more joyful and alive!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's an indispensable part of their culture, and its absence will only compound their woes. So I say we help them put on their festival─give them a reason to cheer in these sad times! Who knows? Maybe fixing one problem could lead us to a solution for the other!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I fail to see the relation between festivals and fields..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is it so strange an idea...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I also fail to see the relation between festivals and fields..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let's not be too hasty in dismissing the idea. Things which seem unrelated can later prove to be connected in surprising ways."
+    },
+    {
+      "character": "Krile",
+      "text_en": "True. And being bereft of ideas as we are, any proposal is worth entertaining."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I... I suppose..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Besides, this is Wuk Lamat's journey. It's only right that we follow her lead."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thanks, everyone!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By the way, does anyone know where the festival float is? It's like a boat woven from reeds that looks like a bird..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In that big building to the north? Let's go and see it!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There's much less debate when I'm traveling alone..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What a charming float. I wonder what bird was the inspiration for its design..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've never been here during festival season, so this is all new to me, too."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The handles gave me pause before, but now I understand their purpose."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Look at the size of that thing. I hope they don't expect me to help carry it..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, this is the float I remember!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hm, does it not appear somewhat damaged to you...? We should take a closer look."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh dear, one of the bird's eyes seems to be missing a gemstone."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Oh, that's definitely broken. How will they lift this great big vessel without all the carrying poles intact?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "These tail feathers have seen better days. I swear the colors were a lot brighter the last time I saw them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, I think we can all agree this bird-boat is in dire need of repairs."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now, how do we go about fixing it...?"
+    },
+    {
+      "character": "Brusque Hanu",
+      "text_en": "What is going on here?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We were admiring your festival float. 'Tis a shame it's in such a poor state. Due to the recent storm, I gather?"
+    },
+    {
+      "character": "Brusque Hanu",
+      "text_en": "Yes, we had to leave it exposed while we ushered our people to safety. With the float in this condition, there can be no Lifting of Wings. No Ihih'hana..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ihih'hana ! That's what the festival was called. I want to help you hold it!"
+    },
+    {
+      "character": "Brusque Hanu",
+      "text_en": "Have you not seen our village? Homes are ruined, we're struggling to make repairs, and you want us to hold a harvest festival!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know how it sounds! But giving into misery never improved anyone's situation. A celebration of life and growth may help give you the strength to work through this tragedy!"
+    },
+    {
+      "character": "Brusque Hanu",
+      "text_en": "The role of festival leader is mine this year, and there's nothing I would like more than to lift everyone's spirits..."
+    },
+    {
+      "character": "Brusque Hanu",
+      "text_en": "But we don't even have enough materials to repair the float. We need abokixa for the missing eye, uyuipo wood for the poles, and feathers from the Wind's Chosen to adorn the tail."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Two of these I know─abokixa is a type of precious stone used in arcane equipment, and uyuipo wood is essential for crafting ceremonial instruments. These chosen feathers, however..."
+    },
+    {
+      "character": "Brusque Hanu",
+      "text_en": "The Wind's Chosen is the victor of a competition in which the contestants see who can blow a feather the furthest using wind magicks. And that's something of a problem right now."
+    },
+    {
+      "character": "Brusque Hanu",
+      "text_en": "We Hanuhanu are gifted at employing such airy sorceries, but expend a great deal of mana when doing so. We are soon exhausted by the effort, and having no reeds to eat will only make it harder."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I think I understand. Your vibrant reeds grow quickly and vigorously─so much so that they stifle the development of nearby plants. They must be a potent source of the energies you naturally lack."
+    },
+    {
+      "character": "Brusque Hanu",
+      "text_en": "They are indeed. Owing to the poor harvest this year, we've been left enervated. And if we cannot gather the correct materials as dictated by custom, we cannot repair the festival float."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Oddly enough, we may have just stumbled upon our solution."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Wind's Chosen would, by necessity, have a natural gift for manipulating magical energies. Which means any feathers taken from the victor should be high in aetherial conductivity."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The float's construction also requires a stone used in arcane equipment, as well as timber favored for ceremonial tools. The demand for such specific materials must have an underlying reason..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Precisely what I was thinking. This boat of reeds is in fact an arcane focus of some kind."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "So it does what? Unleash rays of searing light from its eyes or some such nonsense? Surely you jest..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While an intriguing supposition, I arrived at a slightly different conclusion. This boat of reeds is in fact an arcane focus of some kind."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I imagine you've already reached the same conclusion, but I believe this boat of reeds is in fact an arcane focus of some kind."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A focus? For what? ...Oh! Ihih'hana is a harvest festival, isn't it!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That must mean the float was made to encourage healthy crops. So, if we repair the boat and hold the festival, its arcane powers might fix what's wrong with the reeds!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We won't know until we try, but 'tis a sound theory. Celebration, prayer, ritual ceremonies─these have all been known to elicit miraculous effects."
+    },
+    {
+      "character": "Brusque Hanu",
+      "text_en": "Wait, wait, wait. The float, a tool for magic ? This is the first I'm hearing of it."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In the beginning, it may well not have been. After a good harvest year, there would be no reason to change it. But when the harvest was poor, new adornments were likely added, and those who performed the labor may have imbued their work with ardent hopes for a brighter future."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Through years of trial and error, the Hanu would have refined their festival float into a focus for harvest prayers."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Incredible."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know you're practically fainting from hunger, but reviving Ihih'hana really does sound like the solution to all your woes. And I promise, we'll do everything in our power to help you!"
+    },
+    {
+      "character": "Brusque Hanu",
+      "text_en": "I'm still not convinced about this focus business...but I accept your aid nonetheless. I will introduce you to the shipwright who's been maintaining the float these last few years."
+    },
+    {
+      "character": "Brusque Hanu",
+      "text_en": "He's replaced both the eyes and the poles before, so he should know where and how to procure what we need."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then allow Alisaie and I to acquire the feathers. We will encourage the people of Ok'hanu to gather and vie for the title of Wind's Chosen by sharing with them our own reserves of mana."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll go with you. I carry some alchemical brews that may afford the same effect."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The three of us will visit the shipwright, then!"
+    },
+    {
+      "character": "Brusque Hanu",
+      "text_en": "Not without me. I've worked hard to fix the float as best I can, and the responsibility is mine, after all."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I've...not introduced myself, have I? My name is Linuhanu."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Nice to meet you, Linuhanu. And certainly─let's all go together!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're making progress now! The solution to Ok'hanu's woes is as good as found!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "To find myself working alongside the Third Promise herself is...unexpected, to say the least."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thanks to Wuk Lamat, we've found ourselves a promising way forward."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Experience and knowledge are valuable assets, but there is something to be said for following one's instincts."
+    }
+  ]
+}

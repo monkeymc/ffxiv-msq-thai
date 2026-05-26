@@ -1,0 +1,528 @@
+{
+  "id": "guidance-of-the-hhetso",
+  "wiki_path": "/wiki/Guidance_of_the_Hhetso",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.1",
+  "title_en": "Guidance of the Hhetso",
+  "level": "100",
+  "location": "The Backroom(X:6.1,Y:6.3)",
+  "npc_start": "Geode",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "I suspect the Alexandrians' plight reminds Alphinaud and Alisaie of the Garleans'. Little wonder they feel compelled to assist in any way they can."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I met some members of Oblivion on my way back here. They themselves were returning after having paid their respects to Sphene."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Decrypting files isn't the hard part. It's when the number of digits in a password is unknown that the long nights begin..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll stay here with Shale. There's a lot I can learn just from watching her."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I share our friends' concern. It's not surprising that the Alexandrians are having difficulty coping with their grief...but still..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Alisaie isn't wrong. The mood out there is still grim."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Some of the Turali remember a time before they were dependent on the soul system, but even they're unsettled and wondering aloud if they'll have the chance to reunite with old friends and family before they pass on."
+    },
+    {
+      "character": "Geode",
+      "text_en": "With good reason, too. The journey home won't be an easy one for those who've grown old."
+    },
+    {
+      "character": "Geode",
+      "text_en": "That's why it's mostly been younger folk who've been leaving for Tural─ones with no elders to care for."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Word of that problem has reached us in Tuliyollal. My brother is doing all he can to see the Xak Tural railroad restored to operation, so that people may come and go more freely."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Unfortunately, the tracks only go as far as Vanguard, so some traveling by foot will still be necessary..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Even so, the railroad would make things a sight easier. How long before it's back in service?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I couldn't say. When I left for this visit, Koana seemed reluctant to make promises..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...But while Shale's working on the data, we could go and see the state of it for ourselves."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To Shaaloani Station, then! I'll make sure to keep Koana informed."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Raha and I will keep an eye on things here in your absence."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I would be astonished if they were able to restore railroad service so quickly. The locomotive was nigh obliterated in its collision with the dome..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "You'll have plenty of time while I work on this. Trust me."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Say hello to Koana for me!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Let us know if there's good news concerning the railroad. We can disseminate it through our network and hopefully put some minds at ease."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've filled Koana in. He asks that we continue to support the Alexandrians as best we can."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "Operations are still suspended, but we're trying to remain optimistic. It's good to see you looking well yourselves."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Vow of Resolve! And Forename Surname to boot. What can I do you for?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're hoping for some good news about the railroad. There's an increasing number of people looking to return to Tural that can't make the journey on foot."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "I see. As it happens, the Vow of Reason is also on his way here to take stock of the situation."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "...Ah, scratch the “on his way.”"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As the guildship has officially approved my transition from gleaner to independent contractor, I was in need of more befitting attire."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "<sigh> Stop that. As you well know, my previous attire was that of a gleaner, and I have chosen a different path. It was time for a change."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're here about the railroad too?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It was in part for my sake that the original Dawnblazer was sacrificed, so I felt it only right that I assist with its replacement."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Speaking of which..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I assume Lamaty'i has explained the growing urgency of the need. What have you to report?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "The new locomotive was on track for completion, but we're having difficulty pulling her into the station, in a manner of speaking."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "You see, when we used the Dawnblazer to get into the dome, urgency outweighed all other considerations, but now we're back to our original problem: how to run the railroad without upsetting the inhabitants of Mehwahhetsoan."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That is, the rroneek. Though the Hhetsarro that follow them are none too pleased about their hhetso being spooked by the noise of the locomotive, either."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The solution I've devised to quieten the railroad should address that complaint."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But a silent train presents a different danger. The rroneek will need to be deterred from wandering across the tracks."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "...And I suppose we can't just blow the whistle at them, or they'll panic and be put off their grazing again."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Weren't the rail routes plotted to avoid the rroneek's preferred grazing areas, though?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's odd that they're getting so close in the first place..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The rroneek's grazing patterns have shifted since the tracks were laid. I am not certain why, but I intend to ask the people of Mehwahhetsoan for their insight."
+    },
+    {
+      "character": "Koana",
+      "text_en": "As a major proponent of the railroad, I have a duty to assist in this matter, and I too would hear what the Hhetsarro have to say about it. They are the ones most affected, after all."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I believe it would be best to begin by consulting their leader, Hhwato. The rest of you can accompany us to the Hhetsarro encampment if you like."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "For now, we'll continue work on the silent locomotive as planned. Here's hoping that whatever you come up with won't require a total overhaul."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "It's only recently that the rroneek changed their grazing patterns. They didn't stray so close to the tracks before."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "That's Koana, Vow of Reason, is it not? I can scarce believe it..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "As committed as the Hhetsarro are to tradition, they are amenable to the unfamiliar...or so I am told."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To think all of this can be packed up at a moment's notice to follow wherever the rroneek lead!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Our prior visit to the Hhetsarro was also on railroad business. Pray they do not take us for train enthusiasts..."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "Vow of Resolve, Vow of Reason. I bid you welcome to our camp. But what brings you all the way to Mehwahhetsoan?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I thank you for seeing us. Our visit concerns the matter of the Xak Tural railroad..."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "You too have noted the rroneek's unexpected change in behavior, then."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "My son, Shepetto, has been looking into this matter. Shepetto?"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Normally, we'd expect the rroneek to keep to their favored grounds nearby for a while yet. And despite a thorough search, we haven't found anything wrong with the quantity or quality of the grazing in Pyariyoanaan and Yawtanane."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Yet they refuse to keep to where they usually would, instead pushing westward, toward your railroad."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "I certainly see no cause for this unseasonal migration. Nevertheless, should they continue to move west, we will follow."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...As any true Hhetsarro would, I suppose?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "As you may have surmised, I am of Hhetsarro descent. My parents traveled with the rroneek as well, though I myself have no memory of the experience."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I was left behind as a babe, you see, during such a migration. One of many sacrifices necessitated by a nomadic lifestyle, I am forced to assume..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "A chance encounter with a kind Pelu merchant was the only reason I survived. Taking pity on me, he taught me his trade that I might fend for myself."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I became a stallkeeper in Tuliyollal's markets, and that is where the Dawnservant found and adopted me."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I had already been in the palace some time when Lamaty'i came to join us."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Like me, she had been cast aside by her parents. I knew the pain of solitude, and wanted to spare her that suffering."
+    },
+    {
+      "character": "Koana",
+      "text_en": "As this tiny child's new brother, I swore: I would always be there for her."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "Truly? I have never heard of the rroneek choosing a path so arduous as to force such a terrible decision. Nor of any Hhetsarro willingly leaving their own flesh and blood behind. There must have been some exceptional circumstance..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I cannot say. The idea of following in their footsteps that I might better make excuses for their actions never much appealed to me."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...As is so often the case, you are correct."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Though my discomfort with the Hhetsarro way may arise from fear of reopening old wounds rather than blind fervor for innovation, it would nevertheless see me repeat past mistakes..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "And to refuse to learn one of our country's treasured traditions would make me a poor Dawnservant indeed."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Please, teach me of the rroneek, and what they mean to you."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I promise to listen with an open mind."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "We would be delighted. In the meantime, your companions are welcome to look around."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Will you learn of Hhetsarro culture with me? I should like to approach this with the fervent curiosity that you and my sister share, but it would be useful to know whether I am, er...doing it correctly."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then it's settled! You'll learn more of the rroneek, and we'll have a look around the plains. And perhaps, in the process, we'll find the answers we seek."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "It will be a joy to share our traditions with the new Dawnservants, as we once did with Gulool Ja Ja."
+    },
+    {
+      "character": "Koana",
+      "text_en": "My knowledge of the culture I was born into is from written accounts alone...and few of them, at that."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "The quickest way to learn about our way of life is to do as we do. I hope you're not above manual labor."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I am not the most experienced, I'm ashamed to admit. But I shall put forth every effort."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "That's all we ask. Take these tools..."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Now, introduce yourself to anyone who looks busy and ask if you can help. They'll be happy to teach you what to do in exchange for another pair of hands to do it!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Let us meet back here later to share what we've learned."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Truth be told, we don't get many visitors keen to learn about our way of life. Anyone around here will tell you whatever you want to know─and then some."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "It will be a joy to share our traditions with the new Dawnservants, as we once did with Gulool Ja Ja."
+    },
+    {
+      "character": "Talkative Hhetsarro",
+      "text_en": "I'm afraid I've finished with my tasks for the time being. But since you're so eager to learn about our way of life, why don't I tell you a bit about our migration customs?"
+    },
+    {
+      "character": "Talkative Hhetsarro",
+      "text_en": "If you're here, you likely already know that the rroneek are our hhetso─our guides─that we travel with through the turning of the seasons. We trust them to lead us to fertile lands with all we need to survive."
+    },
+    {
+      "character": "Talkative Hhetsarro",
+      "text_en": "But you may not know that sometimes, the herd splits into two, bound for different paths. On those occasions, we Hhetsarro must also part with half of our number."
+    },
+    {
+      "character": "Talkative Hhetsarro",
+      "text_en": "You may think it a strange and stressful custom, but over the years, it has seen us visit new lands and broaden our horizons as a people. This, too, is the wisdom of the hhetso."
+    },
+    {
+      "character": "Talkative Hhetsarro",
+      "text_en": "One more tidbit for you. When the herd splits, and we part with our kin, we exchange a wish to meet again wheresoever we are guided: “Tseppya ashees ahhetsarro nhheyoan!”"
+    },
+    {
+      "character": "Fond Hhetsarro",
+      "text_en": "You're here to help? Well then, why don't I show you how to care for a rroneek's coat? Go ahead and run your fingers through it. Gently, now."
+    },
+    {
+      "character": "Fond Hhetsarro",
+      "text_en": "This one's fur is a bit overgrown, but a good brushing should thin it out. Would you like to give it a try? You'll need the right tool for the job, mind you─a comb of the type you're used to would just get lost in the tangle, like as not."
+    },
+    {
+      "character": "Fond Hhetsarro",
+      "text_en": "Ah, Shepetto sent a rroneek brush with you, did he? How like him! Now, just run it through one little patch at a time. Gently..."
+    },
+    {
+      "character": "Fond Hhetsarro",
+      "text_en": "Well done! With less excess fur, our friend here will be more comfortable in the afternoon heat, and less susceptible to illness. A combed coat also makes it easier for us to identify injuries, should the need arise."
+    },
+    {
+      "character": "Fond Hhetsarro",
+      "text_en": "You should come back during shedding season─it's a sight to behold. But thanks to the hhetso's prodigious coats, we never want for clothing and blankets."
+    },
+    {
+      "character": "Troubled Hhetsarro",
+      "text_en": "This won't do. The wind will go right through it. And me without my needle and sinew"
+    },
+    {
+      "character": "Troubled Hhetsarro",
+      "text_en": "Oh, these are precisely what I needed! I should be able to patch up the covering now."
+    },
+    {
+      "character": "Troubled Hhetsarro",
+      "text_en": "Given how often we pack up and reassemble our tents, they're bound to get the occasional tear. Fortunately, the rroneek hide they're made of is durable enough that we generally needn't worry."
+    },
+    {
+      "character": "Troubled Hhetsarro",
+      "text_en": "Rroneek hide's sturdiness makes it an excellent material for clothing and shoes, as well. Of all the many gifts our hhetso bestow, it's the most versatile. I don't know how we'd get along without it!"
+    },
+    {
+      "character": "Playful Hhetsarro",
+      "text_en": "You're learning about the Hhetsarro way of life, are you?"
+    },
+    {
+      "character": "Playful Hhetsarro",
+      "text_en": "I may have a thing or two to share... But rather than talking your ear off, let me test your powers of deduction. I find answers much easier to recall later if I arrived at them myself."
+    },
+    {
+      "character": "Playful Hhetsarro",
+      "text_en": "Ahem! Our hhetso provide us with something that we use in medicines, poultices, and soap, to drive away pests, and to sustain our fires. What is it?"
+    },
+    {
+      "character": "Playful Hhetsarro",
+      "text_en": "Both horns and hooves have cores of bone, and we use all of these materials, albeit primarily in tent-poles, instruments, and the like. It's not quite the answer I was looking for!"
+    },
+    {
+      "character": "Playful Hhetsarro",
+      "text_en": "It sounds like there's a story there...but that is indeed the correct answer! We've discovered myriad uses for rroneek chips over time, each a boon to our way of life. Where there is a need, our hhetso always provide."
+    },
+    {
+      "character": "Playful Hhetsarro",
+      "text_en": "Alas, not quite! Meat and organs both can be made into delicious fare, and our neighbors are oft glad to trade for them. They do have certain medicinal uses as well, but they aren't fit for all the purposes mentioned in my question."
+    },
+    {
+      "character": "Playful Hhetsarro",
+      "text_en": "To remind you: this material is fit for medicines, poultices, and soap, to drive away pests and other evils, to sustain fires, and to flavor food. Have another guess!"
+    },
+    {
+      "character": "Playful Hhetsarro",
+      "text_en": "I know city folk are squeamish about dung, but you can't deny generations of results. I won't ask that you march across the plains and fill a sack with it─only that you keep an open mind about our customs."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "You smell of the grass and the wind..."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "...Which is a good thing, I promise. You could nearly be mistaken for one of us──or at least an adventurous Tonawawta!"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "...Which is a good thing, I promise. You could nearly be mistaken for one of us─if a bit on the lean side!"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "...Which is a good thing, I promise. You could nearly be mistaken for one of us─if a bit on the short side!"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "...Which is a good thing, I promise. You could nearly be mistaken for one of us─you even look the part!"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "...Which is a good thing, I promise. You could nearly be mistaken for one of us─and with the brawn of a rroneek, to boot!"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "...Which is a good thing, I promise. You could nearly be mistaken for one of us─and with the horns of a rroneek, to boot!"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "...Which is a good thing, I promise. You could nearly be mistaken for one of us─if a bit on the furry side!"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "...Which is a good thing, I promise. You could nearly be mistaken for one of us─or at least an adventurous Shetona!"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "I have to wonder how Vow Koana is getting on. I assumed he would be reluctant to get his hands dirty, but it seems his wish to understand us was sincere..."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Ah, there he is now!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Apologies for my tardiness. I was tasked with grazing the rroneek, and ended up rather far afield."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I found myself wandering hither and thither at my companion's inclination. To force us back to the trail seemed...inappropriate."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But how was your own work? Have you anything to share?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Yes, I feel the truth of this myself. While I was hesitant to leave my fate to the whims of the hhetso rather than tread man-made paths, I arrived where I was meant to be all the same."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Indeed. The rroneek provide for the Hhetsarro, and in turn the Hhetsarro are good to the rroneek. Just as family should be."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Mine is not the only way─though at times I lack the experience to know otherwise. My inability to conceive of how a decision might be right does not mean that it is wrong..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "My parents had a duty to the rroneek, as they did to me. And so I wonder if their leaving me behind was not so selfish an act as I once believed."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I have no way to know, of course...and regardless, this has no bearing on our present concerns. We are here in service of the people of Tural, after all."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Nevertheless... I thank you for helping me find deeper meaning in what we've done today."
+    },
+    {
+      "character": "Koana",
+      "text_en": "And I will endeavor to remain curious─especially where the hhetso are concerned."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "I'm glad to hear that, Vow Koana. You're welcome among our herd any time."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "I expect Vow Wuk Lamat and Erenville will be back soon as well..."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "It seems Vow Koana has come to an understanding with the hhetso after all."
+    }
+  ]
+}

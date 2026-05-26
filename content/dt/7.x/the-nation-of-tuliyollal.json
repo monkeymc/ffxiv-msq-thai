@@ -1,0 +1,372 @@
+{
+  "id": "the-nation-of-tuliyollal",
+  "wiki_path": "/wiki/The_Nation_of_Tuliyollal",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/8/8a/The_Nation_of_Tuliyollal.png",
+  "patch": "7.0",
+  "title_en": "The Nation of Tuliyollal",
+  "level": "90",
+  "location": "Tuliyollal(X:9.2,Y:11.2)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "I wonder what kind of trouble those soldiers are expecting?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "According to Erenville, the Vanu I thought I saw belongs to a clan known as the Hanuhanu. It seems they share more than a physical resemblance."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What an amazing city─as lively as Ul'dah, and even more colorful..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I would ask if the journey tired you, but...I'm sure you've endured far worse."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, then! First things first..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I...ugh. Still a bit queasy... No more boats for a while..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I realize we've just arrived, but we should get you familiar with the city before the rite of succession begins."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "No arguments here. I should very much like to explore."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then I'll...guide you..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are you sure you're in any condition to do so...?"
+    },
+    {
+      "character": "Curious Passerby",
+      "text_en": "Ah hah! We were wondering who these strange folk were. So the Third Promise has found herself some new followers, then!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "“Followers”...?"
+    },
+    {
+      "character": "Curious Passerby",
+      "text_en": "Wuk Lamat? Are you unwell?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "N-No, not at all! Couldn't be better! The Third Promise does not get seasick, no sir!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As for my handpicked entourage here, I've recruited them to help me win the rite of succession. I was about to show them around the city, in fact."
+    },
+    {
+      "character": "Inquisitive Passerby",
+      "text_en": "That sounds lovely."
+    },
+    {
+      "character": "Inquisitive Passerby",
+      "text_en": "But a group of foreigners is going to attract attention, especially if they're in the company of the Third Promise. Everyone will be curious. We certainly were!"
+    },
+    {
+      "character": "Curious Passerby",
+      "text_en": "Your siblings have a tendency to, uh, command a respectful distance. But you─you're just so easy to approach!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And I enjoy it so much when you do. Please, don't ever worry that you're a bother to me."
+    },
+    {
+      "character": "Curious Passerby",
+      "text_en": "You're very kind. Good day to you, Third Promise."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They did have a point."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Wuk Lamat is technically royalty here. Like it or not, a person of her station surrounded by this many outsiders is bound to draw a crowd."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait, what do you mean “technically”!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I suggest we move in two groups so as to attract less attention."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just “technically” ignoring me, then..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Forename , you and Krile can come with me."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll take the twins, then."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We'll get in touch once we've had a good look around."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That voyage was hard on all of us, so take it slow and recuperate. We have time enough for that."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Enjoy your wanderings."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Perhaps we should wait a bit. At least until Wuk Lamat's nausea subsides."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No need for that! Look, I'm ready to go!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Urgh."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Tuliyollal isn't going anywhere. Let's give Wuk Lamat a little more time."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm fine now, really. Can't stand around all day feeling sorry for myself, what with the contest looming and all."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now, then. Seeing as we're already here, I might as well tell you about the harbor."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville already mentioned the reefs in our coastal waters, which explains why you don't see any big ships moored at the docks."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Only vessels with shallow drafts can navigate the bay─mostly small fishing boats or barges ferrying cargo up and down the rivers from inland settlements."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Much of the incoming traffic is from Yok Tural, the southern landmass. The clans there produce various goods for export."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Their wares are unloaded here and carted off to the merchant stalls in the neighboring markets. Speaking of which, Bayside Bevy should be our next stop."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Tuliyollal is like my own garden─I could lead you around with my eyes closed. If this tour were a ship, it'd be plain sailing all the way!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Urgh... The word “ship” alone is enough to curdle my stomach..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wandering around this city is so exciting! Unfamiliar wonders everywhere we look!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Did you miss a meal or something? We'll wait for you at the harbor, so hurry back!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Something urgent to attend to? Not to worry, we can meet you at the harbor."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, there you are. Let's get back to it!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Everything all right? Then on with the tour!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is Bayside Bevy, Tuliyollal's largest marketplace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Being right on the harbor, everything from fresh fish to imported wares go directly to the shelves. Anything you want, they most likely have."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, right, I should mention that here in Tuliyollal we buy things with “pel,” a currency that the Pelupelu created."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But don't worry! More and more trade is coming in from Eorzea, so most shops are happy to accept your gil."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's also Wachumeqimeqi, another market to the east of here, but that can wait for another time. I have other places I want to show you first."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Next, we'll head back a bit, then northwards up the stairs to a certain plaza. Hehe, I can't wait to see the look on your faces!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As long as you remember it was invented by the “ Pelu pelu,” you'll never forget what our currency is called!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "'Tis reassuring to know we can use our gil for shopping here!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What do you think of that, eh?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Goodness me, you have aetherytes in Tuliyollal?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I think I told you before, but my brother, Koana, spent three years studying in Sharlayan."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He fell in love with the nation and its ways, and brought back to us the knowledge of aetheryte construction. Papa warmed to the idea at once─had one built immediately ."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Did you do the “attuning” thing? If you're ready to continue, we'll head down again and then up the slope to the side. Right at the top is the gate which leads to Xak Tural."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's make a stop at Brightploom Post on the way, though─that's the headquarters for the Landsguard."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Make sure you attune to the aetheryte! I don't fully understand how it works, but I do know you'll regret it if you forget."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank goodness for aetherytes. Though I don't share Wuk Lamat's dislike of ships, I'm not especially eager to make that voyage again..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We have a lot of narrow, winding streets that crawl up the sides of the mountain. As you can see, though, the builders made sure the city's main thoroughfares were wide enough to accommodate wagons."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Trudging up and down all these slopes and stairs is exhausting. I understand now where Wuk Lamat gets her endless endurance."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here we are─Brightploom Post. The soldiers stationed here are responsible for defending Tuliyollal and preserving the peace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Landsguard are led by our nation's strongest warrior, and so naturally Papa has commanded them since the beginning."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...At least until three years ago, when Zoraal Ja took over as commander. The title is no empty honor─it means the First Promise is considered equal to the Dawnservant in martial strength."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Meanwhile, I haven't even managed to..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, I'll discuss my brothers and their accomplishments later. Alphinaud and Alisaie should be around to hear it, too."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, it's time I showed you the skygate. It's right at the northern end of Talonmarch!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If I'm to succeed Papa, then it's my brothers I need to surpass first..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Zoraal Ja─that's clearly a Mamool Ja name. An interesting family."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Massive, isn't it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And on the other side is an equally massive bridge to match. Both were constructed by a race of giants─the Yok Huy."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Strictly speaking, Tural is actually two separate continents: Yok Tural, the southern lands of the Mother; and Xak Tural, the northern lands of the Father, which lie beyond the bridge."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Legends say it used to be one great landmass. But long, long ago, the two gods fought a titanic battle, and when one threw the other to the ground, the impact was so devastating as to split the continent in twain."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A familiar-sounding tale... I am put in mind of the conflict between Hydaelyn and Zodiark."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But getting back to Xak Tural. Those lands are also part of the Tuliyollal nation, correct?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's right. Isn't my father incredible? He united the peoples of two continents into a single nation."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The many clans of Tural had been at war for generations. It was only when Papa traveled the lands and put a stop to their myriad conflicts that we finally had peace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And that's the main reason I want to win the throne: so I can preserve the peace he built."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...But I see you're more interested in what's behind the gate than hearing about my aspirations."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Crossing the bridge to Xak Tural requires a special travel pass. Unfortunately, they won't issue any new permits until the rite of succession is over. I promise to get you one when I'm Dawnservant, but until then...you'll just have to wait!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've never broken my word! Once the throne is mine, that travel permit is yours!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You really mean that... Heh, woe to anyone who stands between you and adventure!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Be patient. I swear that once the throne is mine, that travel permit is yours."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Tired from all this walking? Take a moment to rest, and we'll continue the tour!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We must have covered half the city by now..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Tuliyollal is unlike any other place I've visited. I'm thoroughly enjoying myself!"
+    }
+  ]
+}

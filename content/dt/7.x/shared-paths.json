@@ -1,0 +1,508 @@
+{
+  "id": "shared-paths",
+  "wiki_path": "/wiki/Shared_Paths",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
+  "patch": "7.2",
+  "title_en": "Shared Paths",
+  "level": "100",
+  "location": "Throne Room(X:6.1,Y:6.5)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Lift Attendant",
+      "text_en": "Heading below? I'd be glad to show you the way!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Zelenia... It pains me to think that you're gone too..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah hah! We've found you at last!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You had us quite worried when you suddenly disappeared. What in the world happened?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then Preservation's objective is indeed what Calyx claimed."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But for them to know about the Source and the shards, and to refer to theirs as the Ninth... That raises some questions."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Indeed. But for now, I'm just glad the two of you are safe."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, right. While we were scouring the castle for you, we came upon a room that looked like a library."
+    },
+    {
+      "character": "Krile",
+      "text_en": "By learning about the Alexandria of old, we may gain valuable insights into Preservation. Might we take a number of books with us?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So books still remain... Of course, you are welcome to any that may be of use."
+    },
+    {
+      "character": "Shale",
+      "text_en": "If you don't mind, could we take a look around here first? I'm especially curious about the area over by the throne."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This tiara... It was hers─the Endless Sphene's... What's it doing here?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's a type of regulator, I believe."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It contains the data of the Endless Sphene's memories. Calyx likely used it to create the simulant."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Which means that, as long as the tiara is in our keeping, we shouldn't need to deal with any more simulants."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Strange that he would abandon it, though. Perhaps because the simulant already played her role, like she said. Or Calyx made a copy of the memories..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "In any case, not much information of import appears to remain on this terminal, but I'll make it so we can access it remotely from the Backroom."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This contains the memories of another me... The tale of her journey as Queen of Alexandria..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Might I hold on to this tiara? You may examine it whenever you wish, of course."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It would be for the best, I think."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Does that work for you, Shale?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "No objections from me."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Alright, I'm finished. Let's head to the library and then back outside."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Farewell, Zelenia."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Endless Sphene was just a projected image outside Living Memory, so it was a bit of a surprise to see an actual item that belonged to her."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "On the way back, I asked Shale why the tiara might have been in the throne room."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "She believes that it was being used to record Sphene's actions. There's no way to tell now whether or not it was with her knowledge..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But it can't be used for questionable ends anymore, so we can at least take comfort in that."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm glad everyone's safe!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Based on the geographic data I gathered, it seems the inner section containing the castle served as a residential area during the early stages of Everkeep's construction."
+    },
+    {
+      "character": "Shale",
+      "text_en": "The outer section was then added when they expanded the structure into its present-day shape. I expect the system to dry the earth was installed so that they could build a stable foundation on submerged land."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The interference made it impossible to locate you, and prevented linkpearl transmissions besides..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Apologies that we couldn't be there for the critical moment, but as usual you found a way to handle matters."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Calyx seems to consider the reflections naught but fields to be harvested for his Endless."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I do not make a habit of dismissing the assertions of others out of hand, but I cannot abide such callous disregard for life."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The simulant gave the impression that she wouldn't be back, but I suppose only time will tell. And at present, we have no further leads on Calyx..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "For now, perhaps you could take a moment to contact our friends."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It would be good to catch each other up on recent developments, and I am certain everyone would appreciate hearing from you."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I shall take the opportunity to review the books from the castle...and one grimoire in particular."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come to think of it, I have no idea what Erenville's up to..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll take a look at the Preservation terminal. Hopefully there'll be something useful."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It irks me to think we're being led on by Calyx, but I'll do my best to find clues of his passage."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Most of the tomes we found were dilapidated from age, but some are thankfully still legible."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Y'shtola, Alphinaud, Alisaie, and Erenville should all be somewhere within the dome. Pray do the honors in any order you like."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If it isn't Forename . Is something the matter?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...So Preservation is behind the recent intrigue. It doesn't surprise me. I'm glad to hear you are none the worse for your trials, though."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As for myself, I've just concluded a meeting with Gossan. I told him about the cure for levin sickness, and we formed a tentative plan to treat all those who are stricken."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I'm now otherwise unoccupied, so I shall take a look around the government sector to see if aught is amiss."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And if this Calyx is obsessed with the key, then I ought to begin studying it in earnest as well."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, excellent timing, my friend. I had a mind to call you myself to see how you were faring."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Calyx... While something was obviously afoot, I couldn't have imagined that such an individual would be involved."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis well you were able to prevent the simulant from sowing further uncertainty. That said, her absence may have consequences."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The people of Alexandria still have great trust in Sphene─'tis plain in the way they speak of her even now, and in how the simulant was able to win them over."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "When they notice she has ceased to appear again, rumor and worry will spread. We must be mindful of any pronounced shift in the mood of the populace."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But forgive me─it's been battle after battle for you, hasn't it? We can handle ourselves for now, so pray rest up while you can and recover your strength."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Yes, hello! ... Forename !? For you to call out of the blue, is something wrong?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...What? You went all the way to the bottom of Everkeep, and you didn't think to ask me to come!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "<sigh> But I suppose I've been fairly busy myself..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm pleased to say that we've received permission to begin administering the cure for levin sickness to citizens."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm actually due to visit a boy named Milos shortly, to see how he is responding to his treatment."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You've met him before with Lamaty'i, I believe? The two of you should attend as well if you have time."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Forename , this is a surprise. Has Wuk Lamat gotten into trouble again?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...I see. Knowing you, I expect you're already looking forward to the next obvious trap. Try not to overdo it."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm in the outskirts at the moment. I've been helping the people with their work, and talking to those I meet to gauge their sentiment."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's been uneventful for the most part, but there was one notable development."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Following recent events, some here stopped wearing regulators. This has led to a disparity in what people remember about the queen's death, and the occasional episode of confusion."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll be sure to let you know if there are any other changes."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Being able to contact people so far away so easily can do wonders for your peace of mind. Linkpearls really are convenient things."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I see you were able to reach everyone. That is well."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I thought I heard Alisaie yelling. I hope everything is all right..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What did the others have to say, if I may ask?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They've finished treating Milos? Then we have to go and visit him!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Would you mind if I accompanied you? I understand he's afflicted with the selfsame condition as I was, and I cannot help but worry for him."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course, we don't mind at all."
+    },
+    {
+      "character": "Krile",
+      "text_en": "In the meantime, I shall take myself around Solution Nine and see how things are."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I share Alphinaud's concern about the queen's absence. And even setting that aside, the situation is not like to resolve itself while becoming Endless remains an option."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I had been meaning to visit some shops, so I shall join Krile."
+    },
+    {
+      "character": "Shale",
+      "text_en": "While everyone's out and about, I'll try to pick up Calyx's trail. I'll see if I can dig up some information about the key for Y'shtola as well."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll help you!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It seems we all have things to do. Still, there's no telling what else Calyx might have planned...so please be careful, everyone."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's go to Milos's apartment. It's in residential radius 9-14, if I remember correctly."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Lamaty'i told me all about Milos. She said he was around my age, but couldn't leave his bed."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'd like to go meet him next time. Maybe we can be friends."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Calyx is more clever than anyone has any right to be, but I'll sniff him out somehow. Just leave it to me."
+    },
+    {
+      "character": "Isadora",
+      "text_en": "It's so good to see you again, and a delight to know that you and Alisaie are friends. She's been very kind to us."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look, Milos is sitting up! I'd seen the treatment before, so I knew it would work...but it's still so amazing! Alisaie and Y'shtola are miracle workers!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I understand my Endless self visited Milos often. I will keep quiet, so as to not draw suspicion."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There you are. Next time something is in the offing, you had better remember to call on me!"
+    },
+    {
+      "character": "Milos",
+      "text_en": "H-Hello... You came before...with Queen Sphene... I'm glad...I'm glad you came again..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I believe he'll be fine now. But just for good measure, I'll administer a healing spell."
+    },
+    {
+      "character": "Isadora",
+      "text_en": "I once hoped that Milos, at least, might be made an Endless. Then he wouldn't need to suffer anymore."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You feel different now?"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "Thanks to Alisaie, Milos is on the road to recovery. He can grow up and live a normal life."
+    },
+    {
+      "character": "Isadora",
+      "text_en": "And I want to be there with him every step of the way. To grow old with him, as his mother...and not something else."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That should do it. You're doing well, I'm glad to say."
+    },
+    {
+      "character": "Milos",
+      "text_en": "Thank you...Alisaie."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You're welcome, Milos. Now, you'll feel breathless for a little while still, but don't fret. It'll get easier to speak with time."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That said, we can't rule out the possibility of a relapse. As a precaution, I would keep him away from lightning-infused objects."
+    },
+    {
+      "character": "Isadora",
+      "text_en": "Lightning... Does that include regulators?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It does. I understand if it's difficult for you to part with something that you've worn for so long, though, so it's entirely up to you..."
+    },
+    {
+      "character": "Isadora",
+      "text_en": "No. For Milos's sake, I will do it. And if the environment here isn't good for him, I must consider moving outside the dome."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You two would be more than welcome in Tuliyollal!"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "It's very assuring to hear that. If you don't mind, could you tell me about the process?"
+    },
+    {
+      "character": "Milos",
+      "text_en": "I'm happy...I can talk again."
+    },
+    {
+      "character": "Milos",
+      "text_en": "Before, I couldn't even thank my mother for caring for me..."
+    },
+    {
+      "character": "Milos",
+      "text_en": "But now we can talk lots... I can tell her that I'm happy... That I like it when she strokes my hair..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Your mother is happy to talk to you as well, I'm sure."
+    },
+    {
+      "character": "Milos",
+      "text_en": "Queen Sphene always cheered me up... Always said that she would cure me..."
+    },
+    {
+      "character": "Milos",
+      "text_en": "Today, I'll practice walking with Mother... And next time, I'll go and visit you..."
+    },
+    {
+      "character": "Isadora",
+      "text_en": "Thank you for explaining everything."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll come again to check on you, so if you have any other questions, just let me know!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's get going, shall we?"
+    },
+    {
+      "character": "Milos",
+      "text_en": "Please come back soon... You too, miss..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's good to see Milos doing so well."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The Endless me gave him the strength to hang on, and she didn't rely on any special power to do so..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "[FONDLY AGREEING “Hm”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "She wanted her people to be happy. Even though we had to fight, her love for them was very real, and it reached Milos."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I wish to be there to watch him grow as well. To make my way beside the people of Alexandria."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "In the name of his evolution, Calyx has wrought much unease and misery, and I cannot condone his path."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No, I shall forge ahead on a path of my own─one that honors the memory of my other self!"
+    },
+    {
+      "character": "Milos",
+      "text_en": "Come...come visit us again!"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "You'll always be welcome here. Milos loves visitors."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As I treated Milos with Angelo, I couldn't help but think of Ga Bu and Halric. I wonder how they've been."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I wish the Endless Sphene could have been here to see Milos..."
+    }
+  ]
+}

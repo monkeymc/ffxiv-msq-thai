@@ -1,0 +1,328 @@
+{
+  "id": "blades-in-waiting",
+  "wiki_path": "/wiki/Blades_in_Waiting",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/a/a8/Blades_in_Waiting.png",
+  "patch": "7.3",
+  "title_en": "Blades in Waiting",
+  "level": "100",
+  "location": "Heritage Found(X:18.6,Y:11.6)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Once I've had a look around, I'll go and assist with the treatment of the enthralled. We'll have to mobilize Angelo and all his siblings!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If every person who was equipped with a neo regulator was affected, then we have no less than five thousand patients. Even with an army of trained mages, rehabilitation may take many moons..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And yet this is a best-case scenario. The fact that we even have the capability to exorcise a primal's influence would have been unthinkable not so long ago."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let Raha and I brief the officials on what to expect. I think Sphene might like to have you nearby for a little while longer."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It has never been easy for me to explain primal summoning to the layman in a clear, concise manner... But 'tis a skill I must hone if I'm to uphold the Students of Baldesion's good name."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Mayhap I will take you up on your suggestion. Only...I am concerned that, given who I am, approaching those unaware of my return may only serve to confuse them further..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then why not speak with Mahuwsa? She works the fields at Yyupye's Halo not far from here."
+    },
+    {
+      "character": "Krile",
+      "text_en": "As one of those who came to see you off before our clash with Calyx, she will surely be glad to know you are safe and sound."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What an excellent idea! I think I shall do just that. Thank you, Krile!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, so this is the place where Mahuwsa works."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Back in Resolution, she seemed most interested to learn about me, yet I would be glad to learn much more of them, as well."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Sphene's identity will not remain a secret much longer. Her message touched the hearts of people throughout the kingdom."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Erenville and Shale were both relieved to learn of our victory. I could practically hear the tension drain out of their voices, especially Shale's─she was quite worried for us."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Look who it is! Good to see you again, hale and healthy!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I am sorry we did not get word to you sooner. How is everyone?"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Well, nothing terrible befell us, as such. The neo regulator crowd did all start acting strange at the same time, though."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Pepoane was one of them... I'm told the authorities are tending to him at a medical facility."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You needn't worry. With the proper treatment, we'll soon have everyone back to their normal selves."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "I sure am glad to hear that. I'd like to not lose any more friends, if it can be helped."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "I also hear that the “Queen Sphene” who tried enticing us to become Endless turned out to be an impostor. What kind of heartless villain preys on people's insecurities like that?"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Yet despite the danger to yourselves, you and yours made sure to put a stop to it, if I understand things correctly?"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Then we owe you a debt of gratitude. It's up to each of us now to make the most of what you've given us!"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "We're alive because of you. And while we live and breathe, our future is ours to decide."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Your broadcast was a message of hope. For me. For everyone."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "..."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Now I really should be going. We still have to keep things running without Pepoane and the others, and the outskirts need all the spare hands they can get."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I... Is there anything I might do to help heal the enthralled!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Quite a lot, in fact. I could very much use a mage of your ability."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Actually, this would be a good opportunity to round up other arcane practitioners, and teach everyone how to use the porxies. The knowledge will come in handy for treating levin sickness, as well."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wonderful! I shall petition Gossan to spread the word!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Our outskirts tour is canceled, 'twould seem."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "By the way, Forename ─Alphinaud told me that Koana arrived to escort Lamaty'i back to Tuliyollal."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Alphinaud himself will be returning to Alexandria momentarily, so between the two of us, I think we can sort out the treatment arrangements. Given all that, I had a mind to ask you a different favor."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Would you mind looking in on Gulool Ja? According to Shale, he's been running around the kingdom, determined to personally solve every problem."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Last she heard, he was pitching in over at the driftdowns with Erenville."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If you ask...Taapu, I believe her name was? She should be able to point you in their general direction."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Ah, I know that voice..."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "And happy I am to hear it─we all prayed fervently for your safe return."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Looking for Gulool Ja, are you? He was here, asking if we needed help with anything, or if we had noticed anyone who had been acting strangely."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "He sounded exhausted, so I told him we were fine for the moment and insisted he take a rest. I can only hope he will heed my advice."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "I believe he ran off towards the ruins of old Alexandria. He always did seem to like it there."
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Gulool Ja is a precocious child, but a child, nonetheless. He needs our guidance and support..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Forename , how─!? ...Ah, came in search of us, did you?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You needn't have trekked all the way out here, but it is good to see you. Alisaie gave us the broad strokes, and Koana had some choice words as well."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Oh, welcome back!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's been a trial, hasn't it?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "We heard from Koana. He said that Lamaty'i is in no immediate danger and should make a full recovery..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Vow of Resolve, indeed... Resolved to be as reckless as ever. She might spare a thought for us helpless spectators from time to time."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "You and Lamaty'i and all the others fought so bravely for Alexandria."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "And what did I do...?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I was useless! Even with the king's authority!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "If I were strong, more people might still be alive!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But I'm weak... So weak..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That's right, and you have your whole life ahead of you. We all start somewhere."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Actually...there's something I'd like you to see."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "My father and Otis's swords. I asked Lamaty'i to bring them here."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I've decided to train under a Landsguard soldier and become a swordsman."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That's a big commitment..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm still not sure if I want to be the King of Resolve. But I want to be strong enough to protect the people I love."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "So I'll train as hard as I can, and then I'll come back here."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "When I'm ready to take up these blades..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "That's the path I've decided on!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Good for you, Gulool Ja. I look forward to seeing your progress."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "When I'm bigger and stronger, you'll spar with me, won't you?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Yet to lift a blade and he wants to spar already. He is Gulool Ja Ja's grandson, alright."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Thank you both for listening. I'll take it one step at a time, and stick with what I know for now."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Like...cooking the meals that Otis taught me, and keeping everyone's bellies full! How does that sound?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Sounds like a fine idea. Everyone's been working hard, so I'm sure a good meal would be much appreciated."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Well, I think we've passed a malmstone here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What about the Backroom? If you haven't already, I'd expect Shale and the others would appreciate you stopping by to say hello."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I have no plans to move on just yet. One of the afflicted is an old friend, and I want to stay close while the treatments are ongoing."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Otis's sword has seen better days... I'll ask Genolt to fix it when I'm big enough to wield it."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "As for my father's weapons, they were found in the Skydeep Cenote. I wonder if he ever intended for me to have them..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh, we had the same idea, I see! I thought it might be nice to catch up with our Oblivion friends before we delve into more serious matters with the city officials."
+    },
+    {
+      "character": "Genolt",
+      "text_en": "Made it back with all yer bits intact, eh? I knew ye was one to watch the moment I set eyes on ye!"
+    },
+    {
+      "character": "Genolt",
+      "text_en": "As for me, there's all sorts o' restoration work comin' in. Won't be gettin' a proper snooze in for the foreseeable future, I reckon, ahahaha!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Forename !"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Oh, thank the stars you're safe. I heard the reports, of course, but there's no substitute for actually seeing it."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Welcome back... We have so much to thank you for."
+    }
+  ]
+}

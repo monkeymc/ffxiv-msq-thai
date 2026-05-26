@@ -1,0 +1,548 @@
+{
+  "id": "a-grave-presentiment",
+  "wiki_path": "/wiki/A_Grave_Presentiment",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/e/e6/A_grave_presentiment1.png",
+  "patch": "7.5",
+  "title_en": "A Grave Presentiment",
+  "level": "100",
+  "location": "Garlemald(X:32.1,Y:16.8)",
+  "npc_start": "Thancred",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Jullus was quick to put our words─or rather, those of the Dawnservant─into practice!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You have my heartfelt appreciation. Without your intervention, I have no doubt the casualties would have been far greater."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Voidsent not only absorb the aether of those they consume, but their thoughts as well... With such a legion of minds at their disposal, one hopes they prove a capable ally for Zero."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "With the Clyteum's fissure sealed, I daresay the voidsent incursion is at an end."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "As you might have gathered, the Dawnservant's wisdom struck a chord... I only hope my words resonate as strongly with the voidsent we met."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The Ilsabard contingent have contained the threat on their front. Things appear to be under control for the time being."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Though it remains unclear why the fissures opened up in the first place. According to Tataru, similar ruptures are occurring across the star."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "One thing is clear, however: the phenomenon is not without pattern."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The tendency for fissures to emerge is pronounced in regions deeply connected to the void─places where the barrier between the two worlds is at its thinnest."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...I fear there may be a place in far greater peril than Garlemald."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though it hath since been sealed, you will recall there is a great voidgate that we ourselves had cause to open."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "A gate which was instrumental in our bid to reunite Vrtra with his sister and put an end to Golbez's dark plot."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Oh gods, the moon!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "With our attention fixed upon planar fissures, I failed to consider this vulnerability. All other paths unto the void are but pinpricks in the veil compared to that great lunar rift..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And that rift might be yawning open as we speak. We'd better hurry."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Let us make for Bestways Burrow. I daresay the Loporrits are well aware of current events."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We ought to have Krile join us once she finishes tending to the wounded."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I shall likewise contact Y'shtola. Her knowledge of the moon's voidgate is second to none."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "A number of my fellow Garleans now call Mare Lamentorum home... Alphinaud, Alisaie, please see they come to no harm."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Alphinaud, Alisaie, please do what you must to keep our world safe."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll be back before you know it!"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "A quick word, if you will."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I'm not sure whether you'll run into Zero during the course of all this, but if you do...would you give this to her?"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Emergency rations, in case of a protracted battle. Can't imagine she's eating all that well in the void."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "...She likes dumplings."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "We're doomed! Doomed, I say!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Given thy panicked state, I presume the Loporrits too are beset with voidsent..."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "Oh, what sweet relief it is to see you all!"
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "Yes, voidsent─and lots of them! They suddenly came pouring forth from the crater!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I had dearly hoped to find my worries unfounded..."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "For some unknown reason, the voidgate seems to have partially opened."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "Livingway dashed off to activate the brands and halt the fiends' invasion..."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "But she hasn't come back, and we've since lost contact!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I suggest we make for the brands without delay."
+    },
+    {
+      "character": "Beleaguered Loporrit",
+      "text_en": "My valiant savior! I was so frightened I dared not move an ilm..."
+    },
+    {
+      "character": "Beleaguered Loporrit",
+      "text_en": "Oh, you're looking for Livingway? I think I saw her heading southwest, towards the Drowning Brand."
+    },
+    {
+      "character": "Beleaguered Loporrit",
+      "text_en": "She had several slaughter-bots in tow, but I worry they won't be enough for all the voidsent. You'd better hurry!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Ugh..."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "I'm saved! I dread to think what would have befallen me if you hadn't intervened!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Oh, I was never in any real danger, of course! I knew you would realize our plight and rush to our rescue!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Etheirys is likewise plagued with voidsent?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "If only we'd prioritized further development of the voidsent slaughter-bots. We could have stemmed the tide ourselves!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Oh, what a tremendous demonstration that would have been. Irrefutable proof that I was mankind's staunchest ally, and the greatest Loporrit to ever live! I can practically taste the praise!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Ahem!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Fortunately, I was able to activate the brands. Should any more voidsent emerge from the gate, they ought to be confined to the crater."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Unless, of course, the voidgate begins to expand of its own accord, or some gargantuan monstrosity tries to barge through, I don't foresee any major problems..."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Oh. Nope. We're doomed."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There you are!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I left the data in Shale's capable hands and teleported here as soon as I heard."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And ere you ask, I made sure to bring the key with me."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Then the real threat yet awaits us."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Tis Golbez's domain beyond the voidgate..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I wonder how he and Zero are faring."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "By the Twelve!"
+    },
+    {
+      "character": "???",
+      "text_en": "Behold—the gift of Ethos."
+    },
+    {
+      "character": "???",
+      "text_en": "Yours is a journey without end, conceived and guided by principle."
+    },
+    {
+      "character": "???",
+      "text_en": "Hold fast to what you must, and meet your fate without fear."
+    },
+    {
+      "character": "???",
+      "text_en": "Go forth. Discover. Unite the stars unto one."
+    },
+    {
+      "character": "???",
+      "text_en": "Let none bar your path."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "They're headed your way!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Let them come!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "What are you doing here!?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Only you could be so carefree amidst all this..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Trust you to state the obvious."
+    },
+    {
+      "character": "Zero",
+      "text_en": "May as well make yourself useful."
+    },
+    {
+      "character": "Zero",
+      "text_en": "The gate's sheer size appears to have made it a tempting target."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Enuo... A dread voidsent risen from the benighted depths of the ocean."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "They kept to the confines of their domain while Zeromus endured. No longer, it would seem."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "And once they had discovered a path to the red moon, they wasted no time in making the journey."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Leave the voidsent nearby to us. You take care of Enuo!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Facing this many foes calls for a more...familiar approach."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Voidsent can change their form at will─both Light and Darkness are mine to wield."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Besides, what better to purge Darkness from the void than Darkness itself!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Who dares face me? A mere mortal?"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Hast thou come in search of power? Renown?"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "I fight to end this world without end! All who stand before me shall fall!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "All who dare oppose me shall quake before the silken Dark..."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "The void's power is mine to wield."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Perish."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Be still."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Accept your downfall."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Doth the yawning rift not tempt you?"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "The void consumes..."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Naught will endure..."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Neither past nor future..."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Only one certainty remains..."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "My triumph!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "You have no place here."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Struggle is futile."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I've breached the darkness! Let the Light guide you!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "You must break free!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "The underlings are no more. Now to deal with Enuo!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Life and death rendered meaningless..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Light protect us!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "I will not yield my domain!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Such is the power of the void!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "The void shall never cease to be!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "My power is absolute!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "The void's power is mine to wield."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "And thus did all boundaries cease to be."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Behold the truth of this world!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "They must be sealed away!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "It's over..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Enuo's reign is at an end."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I'm glad you came. We would have struggled to face Enuo alone."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I presume you journeyed here to prevent more voidsent from passing through the gate?"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "With Enuo defeated, there are none left in this realm who pose a serious threat. I daresay the problem is resolved."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Cause for alarm, indeed. Tell us more."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Nothing comes to mind. Why do you ask?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "So the breach wasn't limited to the voidgate..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "For better or worse, precious little has changed in the Thirteenth since Zeromus fell."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Have you noticed anything unusual?"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "I know not the reason events have unfolded this way, but there is, perhaps, an explanation as to why the voidgate and the fissures opened."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Here in my domain, even the slightest change is keenly felt..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "When the gate opened, I sensed not the workings of some external force."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Rather, it felt as if the barrier between our worlds was weakening naturally, moment by moment, until the two came to meet."
+    },
+    {
+      "character": "Zero",
+      "text_en": "And you think this...weakening could be happening elsewhere?"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "'Tis a possibility."
+    },
+    {
+      "character": "Zero",
+      "text_en": "What of Radz-at-Han and Garlemald?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Jullus took mercy upon the interloper?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Whether voidsent or Garlean, we all share the same longing for home."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Should we meet, I will gladly offer them aid. Please tell Jullus as much."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Wait─how exactly did you get here? No mortal could traverse the voidgate in its current state."
+    },
+    {
+      "character": "Zero",
+      "text_en": "And this path of yours is still there...? I cannot see it."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Nor does it reveal itself to me. Perhaps the path serves only the key-bearer."
+    },
+    {
+      "character": "Zero",
+      "text_en": "So it is not a means to travel freely back and forth. A pity. I would have liked to see my friends again..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "That key of yours intrigues me. Had my former self known of its existence, I might have sought different means to reach the Source..."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Where in the blazes did you go!? Y'shtola and G'raha Tia went off to help the others, in case you were wondering."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Hmm? Something for me?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "That smell... Food, is it?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Ah, I recall Jullus speaking of the dumplings his mother used to make."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Thank you for the parcel...and the fond memories."
+    },
+    {
+      "character": "Zero",
+      "text_en": "There's more than enough to share with Golbez. Now that he forgoes the aether of others, I'm sure he'll appreciate the sustenance."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I sometimes wonder what the void would be like if culinary traditions flourished here once more─whether it would suffice to break the cycle of mutual consumption. A heartening thought, if nothing else..."
+    }
+  ]
+}

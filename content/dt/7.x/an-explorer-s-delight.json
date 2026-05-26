@@ -1,0 +1,332 @@
+{
+  "id": "an-explorer-s-delight",
+  "wiki_path": "/wiki/An_Explorer%27s_Delight",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "An Explorer's Delight",
+  "level": "100",
+  "location": "Living Memory(X:31.1,Y:14.8)",
+  "npc_start": "Cahciua",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Next, we have to part with..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Just one zone remaining..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Their memories may be gone, but their love will be with me always..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I must say, the closer we get to the end, the faster time seems to pass us by."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Come, let's head to the fourth and final zone. By now you know how to get there, yes?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, we do."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Excellent. This time, I'd like to quickly check on the Meso Terminal, so I'll meet you at the Gate of Remembrance."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, everyone..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, Erenville..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So this is it..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Like before, it will be hard, but we must honor Cahciua's wish."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As far as I can tell, we still have some leeway with the Meso Terminal."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Meaning you can carry on getting to know the Endless in the last zone."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Windspath Gardens, it's called, and it's breathtakingly beautiful!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That's where your memories are stored, yes?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "That's right. I left it for last so I could guide you for as long as possible. Very thoughtful of me, yes?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Ooh! A great idea just occurred to me!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What might that be?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "<chuckle> I'll save it for after we've arrived on the other side. See you there!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Her “great ideas” are generally less than great."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, Erenville?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As much as I want to grant your mother her wish, I also want to respect yours."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When all's said and done, I want you to be happy. I hope you know this."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I know."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I know..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Cahciua isn't only his mother—she's his mentor as well. That can only make it harder for him to say good-bye."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's go. For now, we keep doing what we've been doing: seeking out Endless and learning what's dear to them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's not keep Cahciua waiting."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I have faith in Erenville's inner strength."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What could this great idea of Cahciua's be?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's not... <sigh>"
+    },
+    {
+      "character": "Windspath Gardens Guard",
+      "text_en": "<bleep> <bloop> Error. Error. Verification system...initialized. User registration...confirmed."
+    },
+    {
+      "character": "Windspath Gardens Guard",
+      "text_en": "Greetings and welcome to Windspath Gardens, the sanctuary of exploration and discovery! The marvels of the natural world await you!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If I could have everyone's attention. I know we have pressing business, but I'd like to say a few words."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Before I died, I had two wishes. The first was to see who my Elene'shpya would become."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I would say that wish has been fulfilled."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Indeed it has, for the boy who once shunned company has returned a somewhat sociable man, surrounded by wonderful friends."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As his mother and mentor both, I couldn't be more proud."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As for my second wish... That was to see all manner of nature that I had never seen before."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I hoped to explore every corner of the world, and there find thriving life!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "...But I didn't even get to see all of Tural, did I? Never enough hours in a day, or days in a year. Or years in a life."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Cahciua..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Oh, don't give me that look! Though admittedly I did go and spoil the mood. Apologies."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "What I was so poorly trying to work up to asking was this: I want you to help me fulfill my second wish."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I have a good feeling about this place. There is so much here I've never seen before, I just know it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'd love to see it with you."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I thought you might say that! Thank you."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Windspath Gardens is home to a collection of flora and fauna that once thrived on the continent."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Like the rest of Living Memory, I haven't explored it in earnest. Controlling my vessel demanded all of my attention."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "But at long last, I'll get to meet the creatures here. Wrap things up with a perfect little adventure. So, shall we?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Absolutely not."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We're to grant you your wish—and then what? You'll leave?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You cannot ask that of me."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Oh, Elene'shpya..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Please understand. I just want it to end on a happy note. Not only for myself, but for all of us."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Better that than a sad good-bye, surely?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's help Cahciua make some great memories!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The sanctuary of exploration and discovery... Quite fitting that Cahciua's memories are here."
+    },
+    {
+      "character": "Krile",
+      "text_en": "How very like Cahciua to chase her dreams to the last."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Then with your consent, let's begin our adventure!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Naturally, while we go about this, feel free to continue befriending Endless. And be sure to absorb the delightful scenery!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I thought those things were some sort of enormous tree, but they're actually sculptures!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The scenery here is nothing short of remarkable. To think that Sphene has managed to preserve it for the Endless..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What a lovely garden!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...I somehow anticipated this."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "This particular garden is called Blooms of Discovery. Beautiful, isn't it?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It's absolutely stunning! And they are all actual plants?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "They are indeed. These specimens were brought here hundreds of years ago for conservation, as the calamity had pushed them to the brink of extinction."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So this zone is like a great conservatory."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Precisely, my dear Krile! Here you'll find flora and fauna the likes of which no longer exist elsewhere."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Doesn't the thought just set your heart aflutter?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I suppose."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I expect that some creatures I encountered outside of Tural may have cousins in this world."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "While I am no expert on life in the reflections, it would make for an interesting study to compare them."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Now there's an idea! Leave it to my pupil to think up such."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Here we have not only a worlds-traversing adventurer and a veteran gleaner, but a pair of Sharlayan's finest scholars besides."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It's a veritable gathering of inquisitiveness, and I'm thrilled to be part of it!"
+    }
+  ]
+}

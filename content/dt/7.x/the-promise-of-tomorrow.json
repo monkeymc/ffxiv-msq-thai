@@ -1,0 +1,984 @@
+{
+  "id": "the-promise-of-tomorrow",
+  "wiki_path": "/wiki/The_Promise_of_Tomorrow",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/bb/The_Promise_of_Tomorrow.png",
+  "patch": "7.3",
+  "title_en": "The Promise of Tomorrow",
+  "level": "100",
+  "location": "The Backroom(X:6.1,Y:6.3)",
+  "npc_start": "Shale",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "Oh, we had the same idea, I see! I thought it might be nice to catch up with our Oblivion friends before we delve into more serious matters with the city officials."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Now that everyone's back, I say we pause a moment to savor what we've accomplished."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We've been through much in these past days, haven't we?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "That's an understatement. We've seen the end of a years-long struggle, for Oblivion and for myself."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Cahciua and Geode would be happy for us..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Oddly enough, fulfilling our purpose has somehow left me with even more work to do. The government has tasked me with conducting a more complete survey of the containment complex."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ah, the Preservation facility. That lab where they studied the key certainly demands further investigation."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can understand how those experiments may have led to the discovery of reflections, yet they fail to explain Calyx's knowledge of primal summoning."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I fear that he and his hunger for interdimensional travel were only one facet of a greater puzzle. There is still someone or something out there that may pose a threat to us..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "In any case, I think it prudent we secure ourselves a spot in Shale's next expedition to the tenth level."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Right, I have a meeting with city officials to attend. 'Twould be cruel to leave Raha to answer their barrage of questions alone!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I should return to my work as well. My first job will be to analyze the data we pulled from Containment Complex 10-29, and locate other facilities of interest."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I can only hope the information we uncover will serve Alexandria and the future we want to build."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Whatever we end up finding, however, it's like to take some weeks to put the city back to rights. All these ambitious plans aside, I think you've earned a rest, don't you?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Our break room is yours to bunk in for as long as you like. Say the word, and I'll help you settle in."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ready for a cot and a fluffy pillow?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What an absurdly long report. Even working together, it took us an age to finish..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, to be fair, it was a rather absurd series of events."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The mystery behind Grandfather's letter took us further than we could have ever imagined..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Truly. It feels like a lifetime ago that it all began."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Right, then. One last bit of proofreading!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Where was I...? Ah, yes."
+    },
+    {
+      "character": "Krile",
+      "text_en": "“The chaos which had gripped the kingdom of Alexandria was slowly but surely giving way to order once more...”"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The thorough investigation conducted by Oblivion was one of the primary factors contributing to this recovery."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Its members uncovered multiple Preservation research facilities, allowing for a comprehensive study of regulator design and function."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thus have we come to understand that memories pertaining to the deceased were not erased from the minds of the living, but in truth merely locked away."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Permanent gaps in one's memory were to be avoided, as inconsistencies would arise during Endless conversion and cause instability."
+    },
+    {
+      "character": "Krile",
+      "text_en": "When the time came, restoring these buried memories would be a simple matter of transmitting a signal from the Meso Terminal."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Acting on this discovery, the Alexandrian government announced plans for a memory restoration initiative open to willing participants."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This reignited the discussion surrounding mortality, as people continued to debate how best to face the inevitability of death. No matter the answer at which they arrive, it is certain to herald a major shift in the nation's philosophy."
+    },
+    {
+      "character": "Krile",
+      "text_en": "...Yes, that matches my understanding of events. Excellent work, Raha."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I'm glad it serves. Shall we make our way over, then?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ahead of the memory restoration, officials requested the assistance of those familiar with the processes involved."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So it was that our party and Sphene─who had eagerly volunteered─accepted the task of escorting the city's representative to Living Memory."
+    },
+    {
+      "character": "???",
+      "text_en": "Before you go!"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "We just wanted to say that we haven't made this decision lightly."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "No matter how frightening or painful they may be, we need to face our memories. Not only to honor those who're gone, but to make whole those who are still here."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "So no second thoughts! We'll be waiting!"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "If anything tries to harm you, you knock it flat! Come back safely, our Sphene from another time!"
+    },
+    {
+      "character": "Alexandrian Boy",
+      "text_en": "Yes, be safe!"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "We'll see you soon!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So sweet of you... But you needn't worry─I'm in very good company!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you all for your well-wishes!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Despite the disruption caused by the dome's arrival, the people in the surrounding region have since reclaimed their normal lives."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The Tural which Gulool Ja Ja united is nothing if not resilient."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The winds of change are fickle─a sudden gust often the bearer of challenging trials."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But so too do they spur us onward, keeping our feet ever moving along life's path."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You'll soon be on your way to Yak T'el, then?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, we've just come from making arrangements with the dirigible master. Preparations for the flight are still underway, so I'm doing a little sightseeing."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My gratitude to the Landsguard for providing us with the permits we need to visit the Skydeep Cenote."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Of course! We'd hardly refuse a direct request from the Vow of Reason!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Our vigilant comrades at the gate will see you safely through."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wuk Lamat...isn't here, of course."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "She is still convalescing, I take it?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Indeed. She's presently confined to bed and permitted no visitors. Weakened as she is, we cannot be too careful."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I can scarcely sleep at night for the worry..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh my! Please, forgive me!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I hadn't realized her condition was so serious. I pray she makes a full recovery soon..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Greetings! What a rare pleasure this is!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "...Is something wrong? Your friend looks like she had some bad news."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "She wanted to visit the Vow of Resolve."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "And there's little reason she couldn't have."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Is there something you wish to say?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I see, I see! I'm glad there's nothing terrible afoot!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "And yet... Where there's a need..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Sorry, I just remembered a pressing errand! Let's talk again soon!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The Alexandrians, I understand, have teachings similar to that of the Yok Huy."
+    },
+    {
+      "character": "Koana",
+      "text_en": "“Our flesh may wither and die. But so long as we are remembered, we are never truly gone”..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "My father's last words. I've long considered their meaning."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The living can find strength in the memories of those we've lost. They can help us rise to meet our trials in the present."
+    },
+    {
+      "character": "Koana",
+      "text_en": "That was certainly true of myself."
+    },
+    {
+      "character": "Koana",
+      "text_en": "So I have faith that the people of Alexandria, too, will be stronger for their grief."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "It may be as you say. If we did not remember our lost siblings, we would not be where we are now."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Or be who we've become."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "We all have memories like that, I bet."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Well, we made it. The journey was so smooth as to be almost disappointing."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can only agree, especially after our first visit felt so fraught with danger."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It's the curse of experience, my friends. Before we know it, the extraordinary becomes everyday."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Life is an accumulation of such things, both the happy times and the sad."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Right, let's go over Shale's instructions on performing the memory restoration."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The first step is to reactivate all the terminals at the same time. This will supply the aether necessary to operate the equipment...without creating any new Endless, of course."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Once things are up and running, we use the Meso Terminal to transmit the signal and unlock the sealed memories."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There are five terminals in total. Might you lend us a hand with one, Sphene?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, I can do that..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not to butt in, but...would you mind letting me take it?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Lamaty'i!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Should you be up and about?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm fine. My worrywart of a brother exaggerates."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Mablu came by to fill me in on your plans. After that, I couldn't stand being cooped up a moment longer, so she helped me sneak out of the palace."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm so glad to see you're well!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry Koana made you think I was at death's door. I was keeping up with reports, and know what's been happening in Alexandria."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I made the decision to erase the Endless, and bore witness to their final moments. And though it's only a tiny fragment, their hopes live on in me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I feel responsible for making sure that they're remembered. That their legacy is passed on."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So please, let me help with sending the signal."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You've made a convincing case, but do take it slowly. The way is not without its perils."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll be careful, thanks."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Very well, then. I leave these tasks in your capable hands."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "All right, everyone! Begin!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Was the sight we saw no more than a trick of the light?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Or was it a gift─the terminal's parting miracle?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But those days are gone; we chose to move forward."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We hold fast to our memories, of sorrow and of grief."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That we might live full in the present ere the time of departure comes."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Let's go home... To our beloved Alexandria."
+    },
+    {
+      "character": "Weeping Citizen",
+      "text_en": "Mother, you protected me... I remember now..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "In soft golden light, the memories of the lost returned."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There to be clutched tight by loved ones, never again to be surrendered."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "I am humbled by all you have done in service to our nation. On behalf of its people, I offer our most heartfelt gratitude."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We were only too happy to help. There are still problems left to solve, of course, but you've taken an important step forward."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "We have. It's as if we were frozen in time, but now the ice has begun to thaw. Alexandria will thrive again, mark my words."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What will you do now, Sphene?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, yes, well... That will depend on Gossan."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "With your permission, I wish to continue living in Alexandria."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Those dear to me laid down their lives for this nation in bygone days, and I've fought alongside new comrades to defend it. I would continue serving it, if you'd let me."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So please, accept me as one of your citizens!"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "That will not do."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I see... I suppose my presence would cause too much confusion..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now hold on a moment! You have to reconsider─I'll vouch for her myself!"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Oh dear, do forgive me... I've caused a misunderstanding."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "What I meant to say is, it will not do for you to be an ordinary citizen. The people have been most insistent that you take your rightful place as queen."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As...queen?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "When despair held us in its thrall, it was your voice─your words─which led us to salvation."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "We would not ask that you perform the same duties as our previous ruler. The structure of both government and nation is to be reexamined and revised such that the burden doesn't fall upon you alone."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "If that is acceptable, we implore you. Please live among us and lend us your gentle guidance."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "The Alexandrian monarchs of old cared for us and fought for us. And you stand proud among them."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But...but I..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh! What of Gulool Ja? You have him, don't you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alexandria has two thrones to fill now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What one ruler might struggle with, the two of you can accomplish together. Gulool Ja's still young, though, so don't expect too much of him just yet."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes... Yes, you're right."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For centuries, my other self bore this tiara─and with it the hopes and dreams of Alexandrians."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I will not let them go unanswered!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I will heed the wishes of the people."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "With peace and prosperity for Alexandria as my foremost purpose, I accept the role of Queen of Reason."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's not an easy road, but we'll walk it side by side."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That way, neither of us gets lost."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you. Thank you all so much..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So Sphene is to sit the throne once more... She may have questioned her claim, but Alexandria's citizens have made their feelings known."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A new Alexandrian queen has risen. 'Tis an occasion worthy of grand celebration."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Gulool Ja was also of the opinion that Sphene should become the Queen of Reason. He will be delighted to hear that she has accepted the role."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This great nation is set to become an ever greater one. How fortunate we are to be here and witness this turning point in its history."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "We shall walk this difficult road together, as Vow Wuk Lamat has assured us."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you for your kind encouragement, Forename ."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wuk Lamat is right. Ours will not be an easy road."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But with your words to lend me strength, I shall take it one step at a time."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And Tuliyollal will be there to support you. Speaking of which, I should be getting back to the palace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll make my next visit an official one─no sneaking out under Koana's nose like this time. The Vows of Resolve and Reason will both come, and we can discuss our futures together!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I look forward to it!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Shall we begin the journey home, then? I expect some confusion among the citizens with restored memories, and I would be present to offer them aid!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Well, I believe this marks the end to my role as guide. I was intending to accompany Wuk Lamat back to Tuliyollal..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But what are your plans, Forename ? Didn't you have other matters yet to attend to in Alexandria?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, no, you need to stop by the palace first!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana's been wanting to thank you properly, but with everything going on, he hasn't had the chance. Please come back with us, or I'll never hear the end of it!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "How long has it been since I last walked these streets...? Maybe I spent too long in Solution Nine, but the city seems livelier than it ever was."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Forename !? No one told me you were coming!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "...The memory restoration went well, I am told."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's good to be home. Thanks for coming along!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I just got here too. The Landsguard said my training would begin right away, so I'll be staying in Tuliyollal a while."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We believe in you, Gulool Ja! And whenever you need advice, your aunt is always happy to give it!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Oh dear, our Vow of Reason is out of sorts."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Can you blame me? Lamaty'i─you were supposed to be convalescing in bed."
+    },
+    {
+      "character": "Koana",
+      "text_en": "So... You would study the way of the blade, Gulool Ja?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Is...is that not allowed?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I will permit your training on one condition: you only practice swordplay in the presence of a grown-up."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Yes, Koana, I promise!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It won't be long before you're good enough to train without a minder. You take too much after your sire and grandsire for that..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Wait─so if you're back here, does that mean everyone already got their memories back?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not everyone..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...So, that was that. My days of meddling in Alexandrian affairs are over."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It all turned out for the best. The former queen really did love her people, and it's wonderful that her love lives on in Sphene."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It truly is. With that love as the foundation of her rule, the new queen will be a font of hope for Alexandria."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's no better way for a life and legacy to forever endure..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You'll be heading back there, won't you? To Alexandria?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I won't pretend that I fully understand the workings of the key or the reflections. And I know I couldn't have stopped Calyx without you..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Nor fulfilled my promise to the Endless Sphene. Thank you, Forename , from the bottom of my heart."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Be sure to come and visit us again in Tuliyollal. You'll always be welcome here!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's time I moved on myself. Once I've made the necessary preparations and arrangements, I will embark on an extended journey."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Well, I expect my days will be filled with administrative duties, much as they already are. I am hoping to compile a comprehensive history of Tuliyollal, however."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The tale of our beautiful and resilient nation should be preserved for the future, with each successive generation adding their own chapter to the saga."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I...I think I've learned to be happy with who I am, Forename ."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Even when I make mistakes and cry and look silly."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "And it's all because of the amazing things I've seen with you. They remind me there's always tomorrow!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Becoming the King of Resolve is not something I need to think about until I'm older, but my father's authority did pass to me. So until that day comes, I'll study and train and do the best I can!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You've really come far, Gulool Ja! And you'll keep on doing us proud, I'm sure of it!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I guess you have to go now, so be safe and enjoy your travels. We'll miss you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Send our best to Sphene and the others!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I won't just vanish over the horizon, I promise. I'll let you know before I leave on my journey."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll visit Shale and everyone as often as I can! There's still so much I want to learn from them."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I intend to make a formal diplomatic visit to Alexandria in the near future, and express my gratitude to those who have watched over Gulool Ja."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whatever burdens I must carry, I will. And I'll become stronger for it, just you watch!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We've observed no complications with the memory restoration thus far. Thank goodness for small mercies..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I'll need to give a full account of what happened here to Thancred and the others. That said, Estinien may prove difficult to track down..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You've had a busy time of it, Warrior of Light. Take advantage of this lull while you may."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "When did Erenville leave Alexandria? Don't tell me he's embarked on some far-flung expedition without saying good-bye."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I hear Gulool Ja has packed his bags and left to train in Tuliyollal. ...Oh, I suppose you would have seen him while you were there?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "There are still those who can't decide if they want their memories back."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I said I would restore mine after things calmed down, but the truth is, I'm not sure I'm even ready. So, we'll make this a gradual process, and give everyone the time they need to prepare. Myself included."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Forename , you're here!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We were just discussing what is to be done after the coronation ceremony. Our heretofore isolated kingdom must join its peers on the world stage."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The fact that Alexandria is─or was─a nation of the Ninth will be the cause of some consternation... It may smooth introductions were the Scions to provide an explanation for its arrival in the Source."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Rest assured, Sphene─Etheirys's leaders are well accustomed to hearing Alphinaud report on fantastical events."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Once again, I am in your debt... I dread to imagine what might have come to pass had you never come to our aid."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, I had other news: those who participated in the memory restoration have expressed the desire to hold a funerary service."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Rather than suppress their grief, they would embrace it, creating in their hearts a place for gentle remembrance."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We have yet to hammer out the details, but I was thinking we might host this service on the highest level of Everkeep. Ever since my time, we have believed that the departed continue their journey beyond the clouds..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm glad you agree! Some have yet to receive their requested memories, however, so we shall wait until the initial wave of restorations is complete before proceeding."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes... I hope that from such a place, our prayers might be heard─a wish for our loved ones to soar forever joyful and free in that heavenly expanse."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, of course... I know of Zoraal Ja only by name, but they will wish to mourn their kin. I shall be sure to ask them."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "After so long distancing themselves from the realities of death, the Alexandrians are to be commended for their courage."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yes, 'tis a tremendously brave thing they're doing."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Perhaps our hearts can never capture a memory as perfectly as data in a file..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But what precious recollections we do keep will guide and sustain us as we fulfill the promise of tomorrow."
+    },
+    {
+      "character": "Shale",
+      "text_en": "You've busy days ahead of you, Your Majesty. Oblivion stands ready to pitch in as needed."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Oh, and what of my investigations, Shale? I hope you've left some time in your schedule for me."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Do you recall my first tour of the city after I awoke? It was all so strange and frightening, but I've only grown more at home here ever since."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That I now feel a part of this new Alexandria is in large part thanks to your patient guidance."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And so here I will remain. Should you ever have need of my aid with anything at all, pray do not hesitate to ask."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Some few of us will stay here a while, as it happens. We've made several interesting breakthroughs, and have no shortage of mysteries into which we would delve."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Then be welcome as honored guests for as long as you like. You are, and always will be, my cherished comrades."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "This is absurd. I have neither heart nor lungs..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I was...overconfident. The prudent course would have been to wait until I had calculated an insurmountable advantage."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "A rash decision... One perhaps influenced by the others and their developments."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "But no matter. Learn from this setback. And next time..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "...“Next time”? How much time and effort did I pour into this master plan?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I had it. I had it! At long last, I was to open a new path!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Those imbeciles and their damnable heroics!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Detected the stench of failure already, have you? Such a keen sense of smell."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Yes, yes, I will give my report, as is protocol."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Be sure our Winterer peers are apprised of the details..."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "IF NONE SHALL KNOW ETERNITY WHAT WAITS FOR THOSE WHO HOLD THE KEY?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Calyx demonstrated knowledge of both primal summoning and concepts. Discovering such techniques through independent study would be nigh on impossible, so we must assume he had a mentor..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But how are we to learn the identity of this beneficent teacher? Hopefully some hint is to be found amongst the remnants of Preservation's works."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It is time we began a thorough investigation into the key and its capabilities. I've a feeling we'll be calling on your help in that endeavor ere all is said and done..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "On a personal note, I should also like to learn more of the Milalla. The lore of the forgotten people will be indispensable in furthering my research."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I wonder what Otis and Zelenia would think of my becoming the queen of Alexandria as it is now."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Doubtless they would be pleased yet, knowing them, also beset by worry."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As their memory lives on inside me, so shall I strive to rule as if they advised me still─with a calm heart, and a mind open to counsel."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I am most curious to see how Alexandria is welcomed upon the broader stage of nations."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As a heretofore unknown, technologically advanced country, I expect it will be met with considerable wariness. I shall do my humble best to ease the tension of the initial introductions."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We've compiled a summary of events and submitted our report to Ojika. As representatives of the Students of Baldesion, our thoughts and findings will also be shared with the Forum."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In less official matters, I am glad to see Krile find a satisfying end to her personal journey...though it appears her appetite for asking questions has only been sharpened!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The Alexandrians adopted our techniques so quickly that they no longer need our supervision to treat the enthralled."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You'd be surprised at how many porxie practitioners we've trained now. Angelo, too, has been looking rather proud of his efforts!"
+    }
+  ]
+}

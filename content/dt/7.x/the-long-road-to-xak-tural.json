@@ -1,0 +1,368 @@
+{
+  "id": "the-long-road-to-xak-tural",
+  "wiki_path": "/wiki/The_Long_Road_to_Xak_Tural",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/The_Long_Road_to_Xak_Tural.png",
+  "patch": "7.0",
+  "title_en": "The Long Road to Xak Tural",
+  "level": "95",
+  "location": "Tuliyollal(X:14.3,Y:2.4)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Erenville",
+      "text_en": "Ready to get underway?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Then present your travel pass to that guard, and let us be off."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You won't have to wait long to enjoy sightseeing. The bridge to Xak Tural is a wonder in its own right."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Go on, show your travel pass to the guard."
+    },
+    {
+      "character": "Landsguard Gate Sentry",
+      "text_en": "This gate is barred to all save those with express permission from one of the Dawnservants."
+    },
+    {
+      "character": "Landsguard Gate Sentry",
+      "text_en": "...Signed by Vow Wuk Lamat herself! My apologies, sir / miss . If you would wait here just a moment."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Shall we, then?"
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "On the far side of the great bridge unfolded the wilds of Shaaloani—\"where the sun guides\" in the Shetona tongue."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "A harsh guide, to be sure, with its blazing rays scorching the land and hardening its inhabitants."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "But sweeping change had come to the arid expanse when, beneath its red crust, vast deposits of ceruleum were discovered."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Embracing this opportunity, Vow Koana's supporters hurtle on, driven by dreams of a future illuminated by blue flame."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "It is here that our journey continues, our path taking us along wending roads of steel. Each length of track a declaration of hope—and ambition."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "My home, Yyasulani, lies past Shaaloani."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It will be a long journey, but the railroad should make it easier."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Hmhm!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As for the way to the train station, let's ride these fellows, shall we?"
+    },
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "Well, what have we here?"
+    },
+    {
+      "character": "Tsanaya",
+      "text_en": "We get a whole lotta people travelin' through here on their way to and from the city. Never a dull moment for me or the rroneek."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Short on rroneek?"
+    },
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "'Fraid so. If one'll suffice, I have a creature ready and waiting."
+    },
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "But if you need two, then you'll have to wait."
+    },
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "The rroneek have been actin' strangely of late─more easily spooked and otherwise disagreeable. Pickin' out the few fit for rentin's provin' bothersome work."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They're usually so docile, and the ones I saw earlier didn't appear to be unhealthy, either. But much has changed since last I was here..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Not the best start to our journey."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Still, the train station isn't far. Seeing as we aren't in a hurry, let's go on foot."
+    },
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "About that, sir. As well traveled as you look, it's not only the rroneek that've been givin' us trouble. Other wildlife have shown signs of aggression, too."
+    },
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "A merchant should be returnin' soon with one of our beasts. Stick around till they do, and I'll see you both on rroneek for a safer trip."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Your offer is most appreciated, but I don't think my friend here is particularly concerned about the wildlife."
+    },
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "As well you should. Glad to see at least one of you's got some sense."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...You're enjoying this, aren't you?"
+    },
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "Hahaha! If this is your first time in Shaaloani, I can understand your enthusiasm, it'd be a shame not to ride at least one while you're here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A fair point, if we're to give you the \"authentic Shaaloani experience,\" I suppose it's worth the wait."
+    },
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "Even if you left now, waitin' for the rroneek'd be faster than walkin', and safer besides. You'll be back on the road before you know it, I promise."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "And there we have it."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Right, change of plans. There's a small town nearby. We can pass the time there while waiting."
+    },
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "Take it you're headin' to Hhusatahwi, then. I'll have a man bring the rroneek over there."
+    },
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "Just mind yourself around the drunkards and troublemakers, eh?"
+    },
+    {
+      "character": "Sunbaked Stablekeep",
+      "text_en": "Won't take long, rest assured. Keep an eye out for a man in Hhusatahwi with two rroneek."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Last time I was here, it was little more than a camp with a shop or three."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Well, well... It's become a proper town."
+    },
+    {
+      "character": "Hot-headed Youth (no text)",
+      "text_en": "Hey!"
+    },
+    {
+      "character": "Hot-headed Youth",
+      "text_en": "Now hold on a minute!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Some sort of trouble?"
+    },
+    {
+      "character": "Hot-headed Youth",
+      "text_en": "I'm talking to you, you old bastard!"
+    },
+    {
+      "character": "Frustrated Gentleman",
+      "text_en": "Give me strength..."
+    },
+    {
+      "character": "Frustrated Gentleman",
+      "text_en": "For the last time, the investigation is closed. There's no refuting the evidence."
+    },
+    {
+      "character": "Hot-headed Youth",
+      "text_en": "I don't give a shit about your evidence, you lying scum! You release my friends, or I'll make you wish you had!"
+    },
+    {
+      "character": "Frustrated Gentleman",
+      "text_en": "Let me remind you who the scum is here."
+    },
+    {
+      "character": "Frustrated Gentleman",
+      "text_en": "Your friends, who had the temerity to point their firearms at me, the deputy chief of the Dustwatch."
+    },
+    {
+      "character": "Frustrated Gentleman",
+      "text_en": "And after taking them into custody, what should we discover but incontrovertible proof that they had committed larceny."
+    },
+    {
+      "character": "Frustrated Gentleman",
+      "text_en": "They will not be released until they've paid for their crimes."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'd heard a peacekeeping force had been formed to deal with growing lawlessness. Seems the situation is bad indeed."
+    },
+    {
+      "character": "Tipsy Man",
+      "text_en": "Still kicking up a fuss, eh? Sounds like poor Zekowa needs his bottle."
+    },
+    {
+      "character": "Blustering Hhetsarro",
+      "text_en": "Sure he wouldn't prefer his mama's teat?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Treat me like a child, will you!? My friends haven't done anything wrong, damn it! They've been framed!"
+    },
+    {
+      "character": "Frustrated Gentleman",
+      "text_en": "Stubborn little runt..."
+    },
+    {
+      "character": "Frustrated Gentleman",
+      "text_en": "Listen here, Zekowa. If you want to be treated like an adult, then you'd best comport yourself like one. That means respecting the rule of law."
+    },
+    {
+      "character": "Frustrated Gentleman",
+      "text_en": "Order may be precarious here in Shaaloani, but it can be had if each man does the right thing. And for those that don't, well─they have to answer to the Dustwatch."
+    },
+    {
+      "character": "Frustrated Gentleman",
+      "text_en": "Now run along, and think before you cast aspersions next time."
+    },
+    {
+      "character": "Frustrated Gentleman",
+      "text_en": "Lest you hurt my feelings."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Fine... If that's how it's gonna be..."
+    },
+    {
+      "character": "???",
+      "text_en": "I wouldn't if I were you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Is that...?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "There's a time to fight and a time to withdraw. For you, that's now."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "What?"
+    },
+    {
+      "character": "Concerned Hhetsarro",
+      "text_en": "Hey!"
+    },
+    {
+      "character": "Concerned Hhetsarro",
+      "text_en": "What are you doing, Zekowa? You better not be stirring up trouble!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Wihuwte, you sack of rroneek shit! This ain't over, you hear me!?"
+    },
+    {
+      "character": "Concerned Hhetsarro",
+      "text_en": "You want to tell me what that was about?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Nothing that need concern you, sir. Zekowa is simply struggling to come to terms with the low character of his friends."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "But for good measure, I'll have the men keep an eye on him."
+    },
+    {
+      "character": "Concerned Hhetsarro",
+      "text_en": "Yes, you do that."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Now, if you'll excuse me, I'll go make my rounds."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I wasn't expecting to see your faces among the crowd."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Talk is rife there's a new Dawnservant. I take it you've found it, then─the golden city."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Aye, the contest is over. And as I needed to return home to Yyasulani, I offered to show our friend some of Xak Tural."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What brings you north?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Nothing in particular. Just seeing what there is to see."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Gulool Ja Ja compensated me rather generously for our duel. I'll be able to enjoy a comfortable life on the road for the foreseeable future."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "But for now, I shall be moving on."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Oh, by the way─I recommend you try the sabotender. They may not look it, but they're surprisingly delicious."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But...we don't serve sabotender here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No sooner do we set out than we run into excitement... At least no one was hurt."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This Dustwatch has their work cut out for them. For as long as I can remember, all disputes big or small were settled by dueling."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The peoples of Shaaloani rarely saw eye to eye. And for better or worse, it was the simplest way to settle differences."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Since most would sooner not risk their lives, though, it encouraged parties to pursue peaceful resolutions in a roundabout fashion."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Dustwatch was likely established by supporters of Koana, preferring peace be enforced through the formal rule of law."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A reasonable stance, all things considered. If things ever got out of hand, the Landsguard would be forced to step in. What freedom they have now would be lost under Zoraal Ja's authority."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "All of which is to say that, unless a lengthy stay in a jailhouse appeals to you, be mindful of how you handle your arms in town."
+    }
+  ]
+}

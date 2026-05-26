@@ -1,0 +1,292 @@
+{
+  "id": "toward-trouble",
+  "wiki_path": "/wiki/Toward_Trouble",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.4",
+  "title_en": "Toward Trouble",
+  "level": "100",
+  "location": "Treno(X:10.9,Y:10.1)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Eyaney",
+      "text_en": "Grandmother used to tell us stories of the Milalla homeland all the time, but it was the part where the ocean froze over that always fascinated me most. The vast, open sea, turned to ice? Imagine!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Earlier, you said that your brother couldn't get into too much trouble if he was with Raha, but how much trouble is that, precisely? One would think they ought to have returned by now..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "...Conversely, I hadn't expected to see the two of you again so soon! I take it Miayli's curiosity is sated?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For the moment."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I gave her a brief account of the situation in Alexandria, as well as events involving the key."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "She was most interested in the latter. In fact, it seems she knew of the relic long before we did, and wishes to discuss it with everyone. Would you be able to join us?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I should love to go straightaway, but we are awaiting Raha's return..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As we speak, Miayli herself is making her rounds through the city. We have time."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I wasn't certain if we should divulge any information concerning the key, but Alexandria's present location is difficult to explain without mentioning it. Fortunately, it turned out for the best."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If the Milalla arrived in Treno immediately after fleeing the Source, I can understand how its mayor might be privy to knowledge of the key. Particularly when that mayor is a Milalla herself..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I have a mind to reestablish diplomatic relations with Treno, but it goes without saying that there are logistical challenges given our respective locations."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The least of these is that any travel would require passage through Tural. To begin with, I shall have to consult with Gossan and the Vow of Resolve."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Alexandria!? The kingdom past the mountains? The one that vanished ?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I had wondered where you lot came from, but that wasn't my first guess. Or my fifth, for that matter."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "We're back! The mine is in working order, I'm pleased to say."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Electrope is being delivered for the barrier even as we speak!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Have you two finished regaling the mayor?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We have."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Though she has her own story to tell─of the key, in fact. We thought you might like to join us at the─"
+    },
+    {
+      "character": "Railway Monitoring System",
+      "text_en": "This is an evacuation alert."
+    },
+    {
+      "character": "Railway Monitoring System",
+      "text_en": "All citizens, please proceed to emergency shelters. Repeat: please proceed to emergency shelters."
+    },
+    {
+      "character": "Railway Monitoring System",
+      "text_en": "The Doomtrain is approaching. Repeat: please proceed to emergency shelters."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The Doomtrain? Wasn't that one of Lindblum's weapons of war?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "You know of it?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I've never seen it myself, but according to Zelenia, it was an armored vehicle used to transport war-beasts to the front."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "In order to prevent them from running wild ere their deployment, a powerful arcane entity was housed in the engine."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "The end of the war didn't slow it one bit. Quite the contrary. Fueled by lightning aether, it's been speeding across the continent ever since."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "The Doomtrain and its beasts bring death and destruction everywhere it goes. It's a veritable calamity on rails."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "It passed near Treno some years ago, claiming many lives. Including our parents'..."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I must go and repair the barrier as swiftly as possible. Without it, we haven't got a chance."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "You can't be serious! You'll never finish in time─and you'll be right in its path!"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I have to try. For Treno."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Eyaney, no!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It seems my services are required once more."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'll go with you. Perhaps my knowledge of electrope will be of use."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I wish I were a fighter like you two. Keep her safe, will you? Please..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While destroying the Doomtrain would be preferable, we should seek to delay its advance at the very least."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "You can't be thinking of fighting it head-on! That's madness!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "If your mind is made up...there may be a way."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "There's a freight depot not far from us. We can use the train that's stopped there."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Raha mentioned that before, did he not?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "The Doomtrain will have to pass through the depot to reach Treno. And since the evacuation alert was only just triggered, we might be able to reach it first."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So we commandeer this freight train, match our speed to the enemy's, and use it as a platform from which we launch a sustained counteroffensive. Is that your proposal?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "It'd be better than trying to smash the bloody thing before it runs us all over."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "And if it might save Eyaney...I'll do whatever it takes."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Let me drive the train. That will leave you free to concentrate on the fight."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Lumull..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I need to grab a few things. Meet me by the gate."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While it is not in our nature to stand idle at a time like this, we should first consider how best to apply our individual skills..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If anyone can stop a speeding weapon of war, it is Forename . But we must also recognize the threat posed by its company of beasts. If its influence is so powerful that, even as it barrels ahead, enthralled creatures continue to follow it, then the train may well gather additional minions as it draws near."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There is no telling how many will charge Treno's gate, so we should prepare for the worst. Perhaps Y'shtola and I ought to remain on guard here."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I'm inclined to agree."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Forename ─while you remove the head of this metal serpent, we will attend to the defense of the city."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Among other things, we must do what we can to ensure the citizens get to shelter before the fighting begins. Godsspeed!"
+    },
+    {
+      "character": "Koymi",
+      "text_en": "I hate to say this when you've barely had the chance to enjoy the city, but you really ought to leave before the Doomtrain gets here. There's only so much we can do..."
+    },
+    {
+      "character": "Pepep",
+      "text_en": "The Doomtrain is completely unlike the creatures you fought before. Not that those weren't terrifying in their own way, but..."
+    },
+    {
+      "character": "Pepep",
+      "text_en": "Listen, if I were you, I'd be thinking about getting out of town right now. You're welcome here with us, but I reckon you'd be safer back wherever you came from."
+    },
+    {
+      "character": "Osao",
+      "text_en": "Aaaaaaaaaaaaugh!"
+    },
+    {
+      "character": "Osao",
+      "text_en": "...O-Oh. I am so sorry─I thought you were the Doomtrain. N-Not because of anything about you in particular, of course... I'm sure you're not at all terrifying and murderous!"
+    },
+    {
+      "character": "Tamat",
+      "text_en": "Thund'rous heavens, what're you wandering around here for?"
+    },
+    {
+      "character": "Tamat",
+      "text_en": "I've gotta get these birds stowed away 'fore I can go to town hall myself, but you should run for your life!"
+    },
+    {
+      "character": "Lotoll",
+      "text_en": "Quick, how many coins've you got!? Toss 'em all in─we could use all the luck we can get!"
+    },
+    {
+      "character": "Cargo Operator",
+      "text_en": "I really could have gone without a Doomtrain attack today..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Right. The place we're headed is the Bentini Depot."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Although Treno has its own railway station, our assailants from earlier left it in need of significant repairs."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Thus, we'll be taking a hover cargo."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "My friend here has volunteered for the mission─and yes, I did explain the dangers."
+    },
+    {
+      "character": "Cargo Operator",
+      "text_en": "The cargo's equipped with a portable barrier, and frankly, I'm great at my job."
+    },
+    {
+      "character": "Cargo Operator",
+      "text_en": "I guarantee our safety during the ride. What happens once we get to Bentini... Well, that's your problem."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "It certainly is! Let me know when you're ready to move out."
+    }
+  ]
+}

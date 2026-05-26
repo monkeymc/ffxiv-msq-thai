@@ -1,0 +1,720 @@
+{
+  "id": "all-aboard",
+  "wiki_path": "/wiki/All_Aboard",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/fd/All_Aboard.png",
+  "patch": "7.0",
+  "title_en": "All Aboard",
+  "level": "97",
+  "location": "Shaaloani(X:18.6,Y:13.8)",
+  "npc_start": "Wawlika",
+  "dialogues": [
+    {
+      "character": "Wawlika",
+      "text_en": "From here on out, we won't stop working till the train's ready."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "If you have any preparations, now would be a good time to see to them. The boarding call will come before you know it!"
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "Right, we're just about done with the modifications. But I have to stress that we cannot afford a test run."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's fine—we understand and accept the risks. We have faith in you and your craft."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sure everything will go to plan. With all the hard work everyone's put in, it couldn't be otherwise!"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Finished at last!!!"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Behold, the pinnacle of locomotive engineering—the Dawnblazer!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Amazing!"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "Yep, she's been fitted with wooden armor and a crystal grounding rod to mitigate the effects of lightning. Naturally, we had to overhaul the engine so it could handle the extra weight."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I also had her outfitted with aetheric cannons, the better to contend with enemy forces. And as they're modeled upon those used at the Crystarium, I can attest to their potency."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "So, what do you reckon? Given the tight turnaround, I'd say we did a damn good job."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Glad she's to your liking. I hate to let go of such a beautiful piece of machinery, but I know you'll give her a proper send-off for us."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "At the risk of spoiling the mood, we should probably get moving."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Yep. You won't get far if you let 'em pummel you from the air, but you'll be safe enough once you reach the tunnel."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In that case, I will conceal the train with a spell once everyone is on board."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It should last long enough for us to reach the tunnel unnoticed."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right. So everyone—are we ready!?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "We've done all we can. Rest is up to you."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "I won't let you down!"
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "All aboard!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Vanish!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "At this speed, we should arrive at the dome in no time at all!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But not before we're spotted, I expect. Stay alert!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here we go."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Stand fast, everyone!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "[CASTING SPELL EXERT “Hah!”]"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "No you don't!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "[CASTING SPELL SHARP EXHALE]"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Have care! They've switched to firearms!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Oh dear..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Raha! Jump!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "[JUMPING EXERTION]"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "[STAGGERED BY BLAST EXERTION “Ugh!”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville! I need you to take over for me!"
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "End of the line, everyone!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Stubborn little—!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That was too close..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Still alive, Erenville?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Mostly..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "At last, the enemy stronghold... We should hurry before they can regroup."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's go and find out what's inside!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's no way Zoraal Ja will be able to ignore our explosive entrance."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The idea of venturing into enemy territory is daunting, but I believe I'm ready. Or as ready as I'll ever be..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Just a little further and we'll be inside the dome!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We couldn't have made it this far without the train. Let us see to it we go the rest of the way."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll remain out of sight until the fighting is over. At the risk of repeating myself, try not to do anything reckless."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "The rest is up to you now. I can make my own way back, so don't worry about me. Take care and good luck!"
+    },
+    {
+      "character": "Train Watchguard",
+      "text_en": "Ah, it's you. Wawlika told me you may be passing through. Be careful out there."
+    },
+    {
+      "character": "Artificial Intelli-guard",
+      "text_en": "Vanguard is under attack! Vanguard is under attack! All units prepare for battle!"
+    },
+    {
+      "character": "Vanguard Sentry S7",
+      "text_en": "Intruders detected."
+    },
+    {
+      "character": "Vanguard Sentry S7",
+      "text_en": "Combat mode activated."
+    },
+    {
+      "character": "Artificial Intelli-guard",
+      "text_en": "Enemy sighted. R7 sentries, prepare to engage."
+    },
+    {
+      "character": "Vanguard Sentry R7",
+      "text_en": "Ready to engage."
+    },
+    {
+      "character": "Vanguard Sentry R7",
+      "text_en": "Eliminating Vanguard threat."
+    },
+    {
+      "character": "Vanguard Commander R8",
+      "text_en": "Warning: intruders detected. Initializing extermination protocol."
+    },
+    {
+      "character": "Vanguard Commander R8",
+      "text_en": "Wingblade engaged. Preparing high-speed maneuvers."
+    },
+    {
+      "character": "Vanguard Commander R8",
+      "text_en": "Combat proficiency exceeds expected parameters. Requesting reinforcements."
+    },
+    {
+      "character": "Vanguard Commander R8",
+      "text_en": "Authorization to disengage limiters granted. All units─commence firing."
+    },
+    {
+      "character": "Vanguard Commander R8",
+      "text_en": "All units─prepare for aerial bombardment."
+    },
+    {
+      "character": "Vanguard Commander R8",
+      "text_en": "Redeploying wingblade. Thrusters engaged."
+    },
+    {
+      "character": "Vanguard Commander R8",
+      "text_en": "Initiating secondary directive: electrope weapon testing."
+    },
+    {
+      "character": "Artificial Intelli-guard",
+      "text_en": "Alert. Alert. Intruders detected. Engaging defense turrets."
+    },
+    {
+      "character": "Vanguard Sentry S7",
+      "text_en": "Intruder alert. Intruder alert."
+    },
+    {
+      "character": "Protector",
+      "text_en": "Intruders detected... Initiating purge protocol."
+    },
+    {
+      "character": "Protector",
+      "text_en": "Turrets deployed. Commencing remote volley."
+    },
+    {
+      "character": "Protector",
+      "text_en": "Restricting enemy movement. Electrofencing activated."
+    },
+    {
+      "character": "Protector",
+      "text_en": "Enemy vital signs detected... Initiating raze protocol."
+    },
+    {
+      "character": "Protector",
+      "text_en": "Enemy breach imminent. Relaying emergency signal."
+    },
+    {
+      "character": "Authoritative Voice",
+      "text_en": "Dammit all... Power the Crossbridge and release the beasts! We can stop them there!"
+    },
+    {
+      "character": "Authoritative Voice",
+      "text_en": "Send in reinforcements! The commander will not tolerate failure!"
+    },
+    {
+      "character": "Vanguard Sentry S7",
+      "text_en": "Purging hostiles."
+    },
+    {
+      "character": "Vanguard Sentry G7",
+      "text_en": "Resistance is futile."
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "That such a serious breach should be allowed... But it ends now."
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "We redeem our honor with your lives!"
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "You truly believe yourself a match for us? The audacity!"
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "On your knees!"
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "Zoraal Ja will have your head on a pike!"
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "You still stand. Impressive..."
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "Know your place!"
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "H-How...? How could you... Ugh..."
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "All right. No more games!"
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "I call on the soul of the serpent, the great devourer. Give me the strength to destroy our enemies."
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "You'll pay for the souls you've made me waste this day."
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "I'll tear you limb from limb!"
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "Give up now and I'll make this quick!"
+    },
+    {
+      "character": "Zander the Snakeskinner",
+      "text_en": "None can survive the serpent's art!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That was a most unexpected transformation."
+    },
+    {
+      "character": "Krile",
+      "text_en": "He was more snake than man by the end..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Now to see what's inside the dome."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right! Let's get moving!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Time to make them pay!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Right, let's give them a sound thrashing!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let's get inside, quickly!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Finally, time to go on the offensive!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The way is open. We should hurry."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Zoraal Ja holds command over all of this?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, that didn't take long."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Bring it on!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is everyone ready?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This is not at all like the Garleans or the Allagans."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I daresay we've not seen its like before."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are we still in their encampment?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Who could have built all this?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A red vehicle. An indication of rank, perhaps?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, they have good taste in colors, I'll give them that."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What have we here?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "No doubt it's as swift as the others. Have care."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That was close!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, that's one way to fight."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Was that a blade just now?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Such speed..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Above us!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "They mean to drop bombs on us?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Look out!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Stand clear!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So far, so good."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "They'll have to try harder than that."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let's keep moving."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Here they come!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Watch out!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is there no end to their defenses?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Everything appears to be made of the same strange substance."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This place just keeps getting stranger and stranger."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The sooner we can leave this place, the better."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Nowhere to go but forward, it seems..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I was only joking when I said they need to try harder."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, well. What have we here?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hmph. Another hunk of metal for the scrap pile."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This one is rather imposing, isn't it?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Careful! It makes ready to strike!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What manner of weapon is this?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Do they really need so many weapons?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All we have to do is dodge. Easy...right?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What now?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The air is thick with lightning aether."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Careful not to touch those barriers."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'd rather not get shocked if I can help it."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Glad that's over with."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hah, that was too easy!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "How much further, I wonder?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "How was Zoraal Ja able to conceive of such weaponry?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The walls hum with energy!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's deal with this quickly and get going!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We'll not be so easily discouraged."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Did they really think this would deter us?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is this the best they can do?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If it is, we'll be through in no time at all."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "They're growing desperate."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As if this would stop us."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We must be getting close to an exit."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This one appears to be human."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is their leader?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Something's not right about this."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So they're all that stands between us and the way out?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh. Over already..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We did it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's the same as Zoraal Ja!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What!? But how?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That was no resurrection magick..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "On your guard, everyone!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "He looks more snake than man now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wh-What is that !?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A harrowing transformation."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It's not unlike the chimeras of Allag."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "What greeted us was not the home that I had left behind."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "There was no mistaking we had reached Yyasulani, and yet..."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "It was wholly unlike my memories. The lands of my childhood had changed beyond imagining."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "To where had I returned?"
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "We tread on, the darkened skies above a mirror to my heart. Clouded with fear and uncertainty."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How...bizarre."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This cannot be Yyasulani, can it?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This is Yyasulani...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What happened here...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I don't know what I was expecting, but it wasn't this."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There was no sensation of passing into a different world. This couldn't be a reflection...could it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I was prepared for something strange, but this... It's like another world."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I...I don't understand..."
+    }
+  ]
+}

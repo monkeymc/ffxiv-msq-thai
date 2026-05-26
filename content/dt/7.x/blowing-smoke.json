@@ -1,0 +1,288 @@
+{
+  "id": "blowing-smoke",
+  "wiki_path": "/wiki/Blowing_Smoke",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Blowing Smoke",
+  "level": "95",
+  "location": "Shaaloani(X:9.7,Y:20.2)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Erenville",
+      "text_en": "A fair number appear to be gathered inside. Now's our chance."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I will keep watch from here. The attractant I leave to you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Toss it into the bonfire near the middle of town. The yeheheceyaa will come soon after."
+    },
+    {
+      "character": "Blue-haired Daybreaker",
+      "text_en": "What's that smell?"
+    },
+    {
+      "character": "Blue-haired Daybreaker",
+      "text_en": "Ugh, that reeks !"
+    },
+    {
+      "character": "Silver-haired Daybreaker",
+      "text_en": "What did you put in the fire!?"
+    },
+    {
+      "character": "Blue-haired Daybreaker",
+      "text_en": "Wasn't me, I swear!"
+    },
+    {
+      "character": "Red-haired Daybreaker",
+      "text_en": "Ugh, did something die?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Someone wanna explain that ungodly stench to me?"
+    },
+    {
+      "character": "Silver-haired Daybreaker",
+      "text_en": "B-Boss...? O-Over there..."
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Huh?"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Wh-What in the world!?"
+    },
+    {
+      "character": "Red-haired Daybreaker",
+      "text_en": "Aaahhhhhh!"
+    },
+    {
+      "character": "Blue-haired Daybreaker",
+      "text_en": "Run for your lives!"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Hmph, so the smoke's what drew them here? I swear, when I find out who did this..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'd say our friends have stirred up enough trouble. Time to retrieve the bracelet."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Hey! What's going on out there!?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "I'm still in here in case you've forgotten!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Sit tight. We'll be back for you."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "What!? You gotta get me out of here now! They're gonna kill me!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "I'm beggin' you! Please!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Shhh! They'll hear you!"
+    },
+    {
+      "character": "Wihuwte",
+      "text_en": "Shit. Who was that?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Hey! Are you going to help me or what!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "<sigh> The bracelet must wait. Let's break him out and withdraw for now."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Thanks, I owe you one. For a moment there I thought you might actually leave me behind."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "All that effort, and naught to show for it..."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Sorry about that... But damn, I didn't think anyone would have the balls to take on the Vulture!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No need to apologize. We were planning to save you. Eventually."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Really? And I don't even know who you are. You secret admirers of mine or something?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Hehe, I'm just havin' fun with you. But I do appreciate the help."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This man they call the Vulture. I've seen his face before."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Was he not the officer you confronted in town?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "The one and the same. When he's not masquerading as a gang leader, he serves as deputy chief of the Dustwatch."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That would explain why the bandits are so confident they can avoid capture."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "You're trying to get back something the Vulture stole, right? Let me help. It's the least I can do after you bailed me out back there."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "I have an idea where he's hid his cache. Reckon he's headed there now, too."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "We can go together. I've got a score to settle with him myself."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I don't doubt that you do, but we need to know what it is first. Will you tell us?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Right, so. Those bandits at Tonatenyawi? They're called the Daybreakers, and it was me and my friends that founded the group..."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "B-But it wasn't a gang of cutthroats! Not back then..."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "We just wanted to protect people who couldn't protect themselves. Kids being harassed by bullies, workers being exploited by the mining concerns─folks who needed help to even the odds."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "That was three years ago. And whenever we found someone scheming in the shadows, we settled matters the best way we knew how."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "With a duel!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I see. By the old laws, anyone who loses in a duel must be held to account for their crimes, even those in positions of authority."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "And we made damn sure they did, every time. Before we knew it, our small band of friends commanded a force to be reckoned with."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Then, about a year ago, the Vulture and his thugs showed up. They got the better of us and took over the Daybreakers."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Everyone was afraid of him, so they did his bidding without question. But when he showed them how they could make a fortune, easily─that was when he really won them over."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Now the Daybreakers is nothing but a bunch of bandits and cutthroats who prey on the people it was created to protect."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "I talked it over with my friends, Kwikana and Liwine, and we all agreed the only way to stop him was to challenge him to a duel."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "And he accepted. I still remember how he gloated that he'd win..."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "But when the day came, he showed up with the Dustwatch and had my friends arrested on charges of robbery."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "As if that wasn't enough, he set their bail at a price no one could ever hope to pay."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "With them locked away, there was no one left to help me. None of my old friends from the Daybreakers, and certainly not the Dustwatch..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "And that's why you were ready to challenge him in the middle of town."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "I was, until that guy with the spear stopped me."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "No sooner had I stepped out of town than the Vulture's minions caught me by surprise. They took me prisoner, then...well, you know the rest."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You said the Dustwatch would be of no help. Are they all working for the Vulture, then?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "No, not all of them."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "The sheriff, Kemakka─he's as honest as they come, a staunch keeper of the peace. Problem is, he's a little too trusting and doesn't suspect a thing."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "If it were my word against the deputy chief's, who do you think he'd believe?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Well, if he knows where this Vulture keeps his spoils, perhaps he can help us recover Namikka's bracelet. What do you think?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "For what it's worth, I have a plan. But I can't do it alone."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A plan?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "All I ask is that you hear me out─but not here. I'll be waiting for you at Sheshenewezi Springs."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I guess we can decide what to do after he gives us the pitch."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm grateful he could take us to the deputy chief, but it will all be for naught if we're seen."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Good, you're here."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "This is where he hides his loot. I expect he'll show up soon."
+    }
+  ]
+}

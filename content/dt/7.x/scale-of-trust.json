@@ -1,0 +1,300 @@
+{
+  "id": "scale-of-trust",
+  "wiki_path": "/wiki/Scale_of_Trust",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Scale of Trust",
+  "level": "94",
+  "location": "Yak T'el(X:35.8,Y:32.3)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The only way to help Mamook is to understand Mamook. We won't let Bakool Ja Ja down!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "To think that there was such a dark secret behind blessed siblings... Even among the Mamool Ja, I cannot imagine many know the whole truth─especially not those who reside in the capital."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Sometimes it's best to just forgive and move on. It can be difficult─gods, don't I know it─but that's all the more reason to try your damndest to look past how you were wronged and let bygones be bygones."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's amazing how Wuk Lamat can connect with anyone. She has an incredible gift."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We haven't a moment to lose."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "According to Miilal Ja, Moxutural Zooj is an abandoned settlement northwest of the city. It should afford us the privacy we require."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We must work quickly, lest Zereel Ja discover our intentions. Fortunately, Bakool Ja Ja thought to give us additional scales, so we might cover more ground in less time."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone should take one and get going. Use them to gather as many people as you can."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Forename , let's retrace our steps. Maybe this time we can convince folks to lend an ear."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look! I've already made a new friend!"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Did I not tell you to move along? I can't be seen talking with the likes of you!"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "A blessed scale? In an outsider's hands? ...What business do you have with me?"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "So Bakool Ja Ja sent you to call an assembly... I'm not sure what to make of this, but I shall go to Moxutural Zooj at once."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "..."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "...That scale. If the blessed trust you, then so will I."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "So, what is it that you require of me?"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Bakool Ja Ja bids us come to Moxutural Zooj?"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "A strange place for an assembly, but very well. I will not refuse he who fights for our dreams."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Have you managed to gather some of the good folks?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wonderful! The esteemed Bakool Ja Ja will be pleased. This fellow here will be coming to Moxutural Zooj as well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Apparently, there's a najool nursery to the west called Golmajiik Grove. Could you go and see who you can talk to there as well?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll meet you in Moxutural Zooj afterwards. There's just one more person I need to find!"
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "Leave this place, outsider."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "Oh! My apologies, I was unaware. I thank you, blessed scale bearer, for bringing me word of this gathering."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "I shall away to Moxutural Zooj at once."
+    },
+    {
+      "character": "Hapoll Ja",
+      "text_en": "I have nothing to say to outsiders."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "Now that I think on it, why would Bakool Ja Ja grant you his scale...?"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "What a curious place to gather..."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Whatever Bakool Ja Ja requires of me, I shall happily provide."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Where's Wuk Lamat?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry to keep you waiting!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You invited the Second Promise as well?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "<sigh> Lamaty'i. Need I remind you that this rite is a competition?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Whatever advantage you're about to share with me, you ought to utilize to your own benefit. I have barely made headway in communicating with the locals─at this rate, you lead the race to the golden city."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I need your help."
+    },
+    {
+      "character": "Koana",
+      "text_en": "To complete the feat?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, no. Mamook has a problem I can't solve on my own, and you're the most clever person I know."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I want you to hear the people firsthand, so that we might come up with a way to help them."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Very well. I am at your disposal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone, thank you for gathering on such short notice! I am Wuk Lamat, Third Promise of Tuliyollal."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Promise? I thought you served Bakool Ja Ja!"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "You deceived us!?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "No. They did not."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "The scales they showed you were mine. I entrusted them to the Third Promise and her retinue."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Why honor these outsiders so?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Because Wuk Lamat has won my trust. Now, you will hear her words."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bakool Ja Ja shared with me the truth about blessed siblings. About the price you pay to conceive them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As an outsider to your community, it is not my place to judge you or your culture."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Culture is born of the experiences of its people. Of their lives and their land."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But it breaks my heart to know that yours has brought you all so much suffering."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If any here wish to break from the cycle of tragedy that creating blessed siblings demands, I ask that you join us."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Please. I don't want any more of our children to die."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "...You think we want this!?"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "We have no choice! Only blessed siblings can liberate us from our suffering. Without them, we have nothing!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "That remains to be seen. Speak with the Third Promise. Share with her your worries and your pain, and together we may find a new way forward."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Together...?"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "If she is trustworthy...then I will speak with her."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "It would be best if you withdrew, my son. Many cannot yet speak freely in your presence."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's keep an eye out for Zereel Ja. He wouldn't take kindly to this sort of gathering."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Once we understand everyone's concerns, we'll be better equipped to help them. Let's make sure they feel heard."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Not even I imagined that my sister would one day befriend Bakool Ja Ja..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Wuk Lamat risks her standing in the rite to attend to her people's needs. 'Tis a degree of selflessness few can claim to share."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Everyone looks uneasy, but their faith in Bakool Ja Ja guides them even now."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Now we come to the heart of it."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Belief in blessed siblings and the salvation they would bring has sustained me for years and years. But if there's another way...if the Third Promise can truly help us..."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "I don't know what to think or how to feel about this..."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "An end to blessed siblings...?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "I'm sure my son would have preferred to stay, but his presence alone still greatly sways our people's behavior."
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "Even if Bakool Ja Ja trusts the Third Promise, I don't know if I'm comfortable discussing this with her..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm glad Koana agreed to help us."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He's always been good at solving complicated problems. Me, not so much─but I'll support Mamook's people however I can."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By combining our respective strengths, we'll help them discover a new source of hope. I know we will!"
+    }
+  ]
+}

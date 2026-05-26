@@ -1,0 +1,612 @@
+{
+  "id": "through-the-gate-of-gold",
+  "wiki_path": "/wiki/Through_the_Gate_of_Gold",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/b7/Through_the_Gate_of_Gold.png",
+  "patch": "7.0",
+  "title_en": "Through the Gate of Gold",
+  "level": "99",
+  "location": "Tuliyollal(X:12.4,Y:12.9)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll bet it looks good on you!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "These arms and armor are the work of our finest artisans. I can vouch for their quality and functionality both."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With your shiny new gear, I reckon you're ready for anything!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come, let's head to the Skydeep Cenote!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Access to the area is presently restricted per my orders, so I shall accompany you."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "This place is a little scary... I don't know if I could come here alone."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It feels like a lifetime ago that we were last here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The city of gold. Where it all began..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And here we are again..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana has already gone inside, but I couldn't help but take a moment. Just being here takes me back."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And it wasn't even that long ago that we visited for the rite. So much has happened since then."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Truly. Guided by my grandfather's letter, I crossed the seas in search of answers..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What awaits us on the road ahead, I know not. But I shall walk it to the end with you all."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Come on, let's go."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Electrope everywhere one turns, harboring vast amounts of lightning... This place is very much alive."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Krile, try holding your earring to the terminal."
+    },
+    {
+      "character": "Krile",
+      "text_en": "No luck..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Don't give up yet. The terminal reads the code—it might just need higher clearance."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Gulool Ja, would you give it a try?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Me?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "If the king's authority has passed to you, then the gate ought to open."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "But I leave behind that which I've gained by the sweat of my brow... It is yours to embrace...or spurn..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Uwaaah!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The earring... It really was..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Remarkable... A voidgate is forced open with a blast of aether, and thus appears as a tear in the fabric of reality."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In contrast, this is the stitchwork of a master. Neatly hemmed, without a thread out of place. A power to be reckoned with..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But now isn't the time to marvel. If Gulool Ja can open the gate, then so too can Sphene close it."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Twould be wise to employ magicks in its defense—both to maintain its stability and ward off interference."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While I am able to invoke said magicks, I cannot sustain them alone. I require another to channel with me, and in unison."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For that role I do humbly volunteer myself, but even our combined efforts offer no certainty of success. Might we prevail upon the two of you to lend your support?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Of course. If coordination between mages is required, few would be better suited than Alisaie and myself."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Shall I remain as well?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While your presence would be welcome, I'd rather you joined the expedition team."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "For despite our earnest efforts, the gate may well end up closed once more."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In such a situation, it may fall to those on the other side to devise a method to reconnect our worlds. A task with which you are not unfamiliar, as I recall?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I have faith it will not come to that, but should it, I will endeavor not to disappoint."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So, assuming Wuk Lamat, Krile, and Erenville are a given for this foray..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I'll make myself useful here by guarding those who are maintaining the gate."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Should any threats emerge, from the world beyond or otherwise, I'll deal with them."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "As will I."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Which leaves you free to head in there—and do what you do best."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's fine. Really. Mostly."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Just don't let her / him bear the burden alone, do you hear?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "This power I've inherited, I'll use for good. I will!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Once again I must leave Lamaty'i in your care. Please return safely."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I would dearly love to accompany you. But this time I will content myself with seeing you off."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Where you now go, I pray you find hope. I look forward to hearing your account upon your return."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm needed here, I accept that. I'm not a child anymore."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'll spare no effort doing my part, so you do yours too. Together, we'll protect what we hold dear!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Twenty years ago I emerged from that gate. Whether or not the answers I seek lie on the other side, I will see things through."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I would be lying if I said I'm not nervous, but your presence gives me comfort and courage. I imagine your other travel companions often feel the same."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If Sphene is intent on plundering aether from other worlds, then our task is clear: we must stop her."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "She cannot be allowed to harm anyone else. Neither those who are dear to us, nor strangers we have never met."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To be completely honest, it is all I can do not to throw myself into that light."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But I must resist the urge, for my presence will be required here should the gate close. It wouldn't do to lose everyone, our champion not least of all."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "We who shall remain want for neither expertise nor experience. Worry not on our account, and fix thy gaze upon the path ahead."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I'll keep everyone safe. Just concentrate on your own task."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "En route here, I caught sight of a large lizard. It looked palatable enough, so I shall hunt it later."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "We can enjoy the meat while you regale me with tales of the world beyond after you've returned."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I've done all I can. If you should meet Cahciua...please tell her I said thank you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There's no telling what dangers we'll face, I know. But if my mother is out there, I need to find her. And give her a piece of my mind..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis done. Whenever you're ready."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll protect the portal. Keep it open no matter what."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Beyond lies an unknown reflection."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Short of asking an Ascian, we unfortunately have no way of identifying which one it is."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, what we do know is that it's Sphene's domain—a place where she brings back those who've been lost. So for now, why don't we call it..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The unlost world!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's go!"
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "How to describe the sheer amazement we felt when we emerged on the other side of the portal? I fear words do not do it justice."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Before us was a vibrant world where the memories of the departed abided and reveled in bygone days."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Living Memory, or so the Endless called it."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "How they laughed and smiled as they reminisced upon unfulfilled dreams. Alive in all perceivable ways...yet knowing no loss."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "So resplendent was every ilm of this paradise, the words rose unbidden to my lips:"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "All this time, it was here—the city of gold."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This is my world. My home..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Neither the void nor the First... We are indeed come to an unknown reflection."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The “city of gold” is an apt description indeed..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Amazing! Absolutely amazing!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've literally stepped into the Yok Huy legend!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Whichever reflection this may be, 'twould seem the barrier between here and the Source is thin in Yak T'el."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That would explain the Yok Huy's visions and the location of the gate."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, Erenville. That volcano over there—you don't suppose it's real, is it?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "An actual volcano, spewing forth lava, in the middle of a city? I'd like to see that."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "H-Hey, you never know!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look, there's a path down. Let's see where it goes."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The people here. Could they be...?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There's no mistaking the design of this aetheryte."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I see electrope is used here too."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's strange... Though I've never been to this place before, it somehow makes me feel nostalgic."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Unlike Everkeep with all its advanced technology, here it's brick and stone. It's like we've traveled to the past."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The differences may be more superficial than you think. Take a good look at the buildings around us."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There's electrope everywhere, along with myriad contraptions."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Like how Sphene projects her image onto soldiers, I believe this city's appearance is artificial."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This aetheryte is identical to the one in Everkeep, is it not?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This suggests that this place is Alexandrian."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That would seem a fair assumption. In light of all this, could it be this city is Everkeep's missing twelfth level?"
+    },
+    {
+      "character": "???",
+      "text_en": "Welcome, friends! Welcome!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Who are you?"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "My name is Constancy, and like you, I am an Endless."
+    },
+    {
+      "character": "Constancy",
+      "text_en": "We have been recreated from the memories of those who have exhausted their souls—the departed, in other words."
+    },
+    {
+      "character": "Constancy",
+      "text_en": "Great effort is taken to ensure the integrity of your memories, so it will feel no different from when you were flesh and blood."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "(Let's go along with it for now.)"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "I am a caretaker here at Living Memory, city of the Endless, and it is my pleasure to provide guidance to newcomers such as your good selves."
+    },
+    {
+      "character": "Krile",
+      "text_en": "City of the Endless... At a glance, there seems to be many different facilities. What kind of place is this?"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "Simply put, it is a recreational attraction. The city is divided into four areas, each of which captures scenery that once defined our continent."
+    },
+    {
+      "character": "Constancy",
+      "text_en": "In this way we ensure that what is lost is not forgotten. That all precious memories endure forevermore."
+    },
+    {
+      "character": "Constancy",
+      "text_en": "In Everkeep's early days, this place was used by the living, but it was made a haven for the Endless hundreds of years later."
+    },
+    {
+      "character": "Constancy",
+      "text_en": "Now then, if you would please follow me, I shall give you a guided tour. Do take care, as wildlife brought here for preservation roams freely."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "H-Hold on a moment!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "While a tour would be interesting, it's Sphene that we've come to see."
+    },
+    {
+      "character": "Constancy",
+      "text_en": "Oh, so you wish to meet the queen! In that case, you are in luck."
+    },
+    {
+      "character": "Constancy",
+      "text_en": "It was just announced that Her Majesty will enter into a slumber, but there is still time."
+    },
+    {
+      "character": "Constancy",
+      "text_en": "If you try calling to her before the Meso Terminal, at the center of the city, she will likely appear."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm not sure how things work around here, but let's head to this Meso Terminal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Our thanks, Constancy. We'll take you up on the tour next time."
+    },
+    {
+      "character": "Constancy",
+      "text_en": "I shall look forward to it. Good luck seeking out Her Majesty!"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "Queen Sphene enjoys meeting her people. I am quite confident she will appear for you at the Meso Terminal."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Like the chamber in the Skydeep Cenote, the electrope here produces a strong golden light. A difference in energy levels, perhaps."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The plants are real as far as I can tell. Not everything is an illusion."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I wonder, can the Endless venture elsewhere, or can they only survive here?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene! Are you there?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you are, say something! We need to talk!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Hmm... That you should come here..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I haven't known you long, Sphene, but I know you have a good heart. Your love for your people is proof of this."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't let you do what you're trying to do. And deep down, I don't think you want to do it either."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I want a world without suffering. A world where nothing is lost... Would that such a place existed."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But the Endless only grow in number, and ever more life force is needed to sustain them."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Within the barrier, we have managed to curb the cycle of rebirth these few hundred years. But we've reached the limit."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That is why I looked to interdimensional fusion. To harvest what we needed from your world."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "From your people. And with the key, we will have it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And once you've plundered our world of aether, what then? Will you do the same to others?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "All men eventually die. If you make Endless of everyone, you will never have enough aether to sustain them. You but prolong the inevitable."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Sphene. If you would nevertheless persist in this folly, we must stand against you."
+    },
+    {
+      "character": "Krile",
+      "text_en": "For we too have people we cannot lose. Places to which our hearts belong."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Lamaty'i... I would have loved nothing more than to work hand in hand with you to tend our nations."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But fate is cruel. By the time it had brought us together, our futures had already been written."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The kind and gentle Queen Sphene was too weak to serve her people. And so she will serve them no more."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I will erase all memories of the living Sphene—she who has cursed me with this soft and powerless nature."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Freed from conscience, I shall become a ruler that can protect Alexandria. A devourer of worlds."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "When two nations cannot protect their own without doing harm to the other, there can be only one resolution. It is a hard truth...but one you understand, don't you?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm afraid we're out of time. The process has begun. And it cannot be stopped."
+    },
+    {
+      "character": "Meso Terminal",
+      "text_en": "Meso Terminal memory deletion in progress."
+    },
+    {
+      "character": "Meso Terminal",
+      "text_en": "Meso Terminal memory deletion in progress. Upon completion, interdimensional fusion will commence."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "While Sphene's intentions are good, her methods are anything but. We cannot yield at any cost."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The Endless were unsustainable from the first. Sphene has been fighting a lost cause."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Endless exist in defiance of the laws of nature. But they exist nonetheless, with Sphene holding them to be no different from the living..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Argh! What are we to do now, damn it!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I felt that I had come to understand Sphene, but I'm still clueless. Utterly clueless!"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "to-kozama-uka",
+  "wiki_path": "/wiki/To_Kozama%27uka",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/8/83/To_Kozama%27uka.png",
+  "patch": "7.0",
+  "title_en": "To Kozama'uka",
+  "level": "90",
+  "location": "Tuliyollal(X:12.7,Y:13.9)",
+  "npc_start": "Helpful Hanu",
+  "dialogues": [
+    {
+      "character": "Helpful Hanu",
+      "text_en": "I've been quite content waiting here, dining on the Third Promise's coin, but it seems you're ready to ask your questions now."
+    },
+    {
+      "character": "Helpful Hanu",
+      "text_en": "So, what is it you'd like to know?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The route to Ok'hanu─we go south through the Arch of the Dawn, then follow the road which runs alongside the Kozama'uka river, is that right?"
+    },
+    {
+      "character": "Helpful Hanu",
+      "text_en": "It is. Be warned, however: my brethren tell me the recent storm has rendered the path even muddier than usual. The footing is quite poor in some parts."
+    },
+    {
+      "character": "Helpful Hanu",
+      "text_en": "Far worse was the destruction visited upon our homes, though. Houses were torn apart, and several people injured if not killed. Even our beloved festival is in danger of being called off this year."
+    },
+    {
+      "character": "Helpful Hanu",
+      "text_en": "If you do still plan on going, I must urge you to proceed with caution."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll be sure to watch our footing, thank you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now I'm worried for the Hanu─it sounds like they were hit hard by that storm. Anyway, if we're bound for Kozama'uka, we should head over to the arch..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll be back to talk to you in good time, master merchant. Meanwhile, you can eat and drink your fill at Xbalyav Ty'e─it's all been arranged!"
+    },
+    {
+      "character": "Approachable Pelu",
+      "text_en": "Unlimited tacos in exchange for a few days of my time? I'd be fool to pass up that deal!"
+    },
+    {
+      "character": "Arch of the Dawn Sentry",
+      "text_en": "Heading to Kozama'uka?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Through this gate and we'll be on our way south to Kozama'uka..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Hanuhanu are a friendly folk who should welcome us with open arms. Assuming they are not too preoccupied with recent troubles, that is..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I should have liked to observe the festival, but the Hanu are probably not in the mood to celebrate."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I swear that gate gets bigger every time I see it. Considering the size of Gulool Ja Ja, though, I suppose it's better than having it be too small."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are we all ready to leave?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then onward to Kozama'uka!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Open the way!"
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Kozama'uka. The land of rainbow terraces."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "It commands the gaze of all who visit without fail. The many-colored marvel."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "An endless torrent of water cascades over sheer cliffs to shape the wetlands below. To its relentless flow, all life must yield."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Together with Wuk Lamat, we proceeded along the marshy trail─a road upon which the Dawnservant and his comrades once traveled."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Look at those falls... Even from this distance, you can feel the weight of that water!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Isle of Haam was impressive, but as you can see, Tuliyollal does not want for natural wonders."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The ground is swampy, so watch your step. You wouldn't want to fall into a bog."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I won't! I told you, I've been here before!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, Ok'hanu isn't much farther."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "“Wetlands” is an apt name. Much of the ground here is positively saturated."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'd love to stand at the bottom of those huge waterfalls and bask in the majesty of it all! Pity they're so far away."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There is no stopping the Third Promise, is there? A good thing she has Erenville to keep her from getting lost..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "For all his grumbling, he's certainly there for her. Everyone should be so lucky to have such a loyal childhood friend."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Right, let's get moving. If we continue along this road, we should find ourselves in the village before long."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ow... Stupid, distracting waterfalls..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Assuming we have the right idea, one of the Dawnservant's electors should be here somewhere."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So this is a Hanuhanu village! One can tell at a glance how very different their culture is to the Vanu's."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The water from the falls must flood the wetlands and flow into all these streams and rivers..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ah, everyone has arrived, and none the worse for wear. Except for a certain Third Promise who slipped in the mud despite my explicit warnings."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey! I asked you not to say anything!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A-Anyway! This is the Hanuhanu village I was telling you about: Ok'hanu!"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "id": "city-of-silence",
+  "wiki_path": "/wiki/City_of_Silence",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/1b/City_of_Silence.png",
+  "patch": "7.0",
+  "title_en": "City of Silence",
+  "level": "94",
+  "location": "Yak T'el(X:36.2,Y:31.7)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "I wonder what the final feat will be."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Rather more quiet than I expected..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Now to see whether or not Hunmu Rruk's fears were well founded..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "See if you can't convince Wuk Lamat to be cautious as well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, we all know what comes next─let's find that elector!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Two streets seem to converge upon this plaza, so I propose we split our numbers between them."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Given Hunmu Rruk's guidance, I also suggest that we err on the side of caution and move throughout the city in pairs."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Erenville can come with me, and Alisaie can go with Krile. That leaves Forename to accompany Wuk Lamat. If these arrangements are to everyone's satisfaction, then may our respective searches prove fruitful."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...You can still hear me, right? And see me?"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Please tell me you've had better luck..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No one will talk to you either? I was prepared for hard stares and harsh words, but this is something else..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That building there looks like a shop, doesn't it? Let's go and take a look. A merchant wouldn't ignore us, surely!"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "......"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hello there! We'd like to ask you something, if you don't mind?"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "...Move along, outsiders."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "W-We're just trying to find someone─the Dawnservant's elector. Could you tell us where they are?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "<sigh> How are we supposed to find the elector if nobody will even speak with us?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Everyone, can you hear me? Come to the massive stone structure on the west side of the city, as quickly as you can!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Up there!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Bested...by a mere shade ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja? Papa !?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Not as you know him. What you see is an arcane manifestation of the Dawnservant as he was in his prime."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The channeler is Zereel Ja, Autarch of Mamook and elector for the Feat of the Brotherhood."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Tuliyollal's mightiest warrior... Yet wisest you are not. You who spurned your retainer's aid when battling your betters."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To prove oneself superior to blessed siblings by surpassing the shade of Gulool Ja Ja himself─that is the final feat."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The First Promise fought alone and fell short...but that is now the least of his concerns."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "You could have let your foolishness end with your failure. But instead you attempted to harm an anointed elector."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Zoraal Ja. As of this moment, you are no longer a claimant. I disqualify you from the rite of succession. Begone from my sight."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "This isn't over yet. I will be the one to reach the golden city."
+    },
+    {
+      "character": "Koana",
+      "text_en": "When Zoraal Ja was defeated, he tried to take the keystone by force. But he was thwarted by Father's shade."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "My dearest child. Welcome home."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "This feat was made for you─only blessed siblings could hope to defeat Gulool Ja Ja."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "But ere we begin, I would see the fruits of your triumphs. Come, show me your tablets."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "What is this? Where are your keystones?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Explain yourself, boy!"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "No matter. Not all can be expected to go to plan. What keystones you lack..."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "...you can easily take."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I...I tried. B-But I couldn't─I cannot beat her."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "You mean to tell me that you, glory of Mamook─for whom all here have sacrificed─were defeated by your inferiors?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "You are as useless as your siblings. A failure."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Leave and never return! You have no place here!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "...Let's go, Brother."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Worthless! Pathetic! This was our chance to claim sovereignty, and he ruins it!"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "But...when these stragglers fail, Gulool Ja Ja will be forced to extend his rule. And in the next rite of succession, we will present a better claimant."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "So come. Stand before me...and fall."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I won't do your trial."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Oh? You intend to forfeit the rite?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa wants his successor to intimately understand the country he loves."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Every step of my journey, I've learned something about our peoples and their cultures. I would do the same here in Mamook."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Mamool Ja deserve nothing less. So your battle can wait."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I'm of the same mind. Father named you an elector for a reason. There must be something that he would have us learn."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Do as you will. But until you triumph over the shade, you shall proceed no further."
+    },
+    {
+      "character": "Dignified Lady",
+      "text_en": "Promise. I would speak with you. Meet me on the western outskirts."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That was a dramatic escalation..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's hard to believe Zoraal Ja was bested in battle..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I have heard about this channeling art before."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Passed down through a certain clan, it employs arcane implements to produce a smoke from which the mage can conjure a shade."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The First Promise's attendant just now...did his words not strike you as strange?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "“I will be the one to reach the golden city.” As though he intends to venture there with or without Zoraal Ja..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The electors we have met thus far have all had their peculiarities, but each we felt would judge claimants equally."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This Zereel Ja, however, seems set in his belief that only blessed siblings are worthy of the throne."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Why would the Dawnservant name an openly biased man elector?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Worrying over Zereel Ja won't get us anywhere. That lady, on the other hand, was the first person to address us with any civility since we arrived."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We should go and meet her─hear what she has to say. The western outskirts, right?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If Zereel Ja is Boonewa and she is Hoobigo, then..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Whatever her relation to Zereel Ja, I hope we can trust her. We could do with at least one ally in this city."
+    },
+    {
+      "character": "Krile",
+      "text_en": "She looks troubled..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Finally! A real conversation!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To bid us thus meet with her in private... This is both an important and delicate matter."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Thank you for coming. My name is Miilal Ja."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Here we may talk freely, away from prying eyes."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And what was it you wished to talk about?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Tell me, what do you think of Mamook?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, we don't have much to say yet. No one wants to speak with us."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "All who remain in this city are devoted to the traditional ways."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "They believe that blessed siblings are superior─that only they are worthy to lead the peoples of this continent. Most would not deign to address outsiders, deeming them beneath notice."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Sounds like an ideal community so far as Bakool Ja Ja is concerned."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "...I am tired. Exhausted by this...this senselessness."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "There are others like me, but we dare not speak our truth aloud."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Yet now we have an opportunity to reclaim our agency."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "For you have bested Bakool Ja Ja."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "You─a Xbr'aal, inferior by all presumptions─triumphed over our two-headed champion."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This time, anyway. Next time, I might not be so lucky. Bakool Ja Ja is just that strong."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I seriously don't understand why he cheats so much. It seems to me he'd do better if he just trusted his own abilities."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "...He's desperate."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Other blessed siblings have fallen before. Molaa Ja Ja of the Silverscales, for one. He traveled across the salt in search of conquest, only to be overcome."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Other blessed siblings have fallen before. This is known."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "But no matter how the individual may falter, the people still believe in blessed siblings' supremacy."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Because of my father."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "He who united Tural under one rule─who in their eyes stands as testament to the tradition's infallibility. Regardless of your father's virtuous intent, his greatest triumph has only fanned the flames of our people's obsession."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "However, as both his daughter and claimant to his legacy, your triumph could prove that Gulool Ja Ja's true strength lies not in his birth, but in his character. And in so doing, you may give us the strength to renounce blessed siblings forever."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can understand wanting to forsake zealotry, but isn't forsaking two-headed Mamool Ja going a bit far?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "You must decide that for yourself. Whether the price we pay is worth an empty dream."
+    }
+  ]
+}

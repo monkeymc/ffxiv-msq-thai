@@ -1,0 +1,1956 @@
+{
+  "id": "a-terminal-invitation",
+  "wiki_path": "/wiki/A_Terminal_Invitation",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3b/The_Meso_Terminal.png",
+  "patch": "7.3",
+  "title_en": "A Terminal Invitation",
+  "level": "100",
+  "location": "Living Memory(X:21.4,Y:36.8)",
+  "npc_start": "Y'shtola",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis good to rejoin you all. I needed to step away briefly that I might make arrangements for a certain precautionary measure..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Last time I had to wait in the cenote, but there's nothing to stop me from joining this fight!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We've all been so busy, it seems an age since last we gathered in such a manner. I must say, we do make for a formidable group!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Coming here reminds me of my parents. Of the courage they gave me..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seems Alphinaud and Alisaie were the ones to explain to Koana our need to enter the cenote. He urged us to be extremely careful, of course!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I had scarcely awakened here when I fell unconscious. Now that I can fully enjoy the gentle silence of this place, it brings tears to my eyes."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I believe everyone determined to be here is present and accounted for. Shall we make our way to the terminal?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We wouldn't wish to keep our insistent host waiting."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So this is where the former queen's memories were stored."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And she herself tried to erase them... Even as an Endless, her resolve was so strong that she would kill her heart to become the cold machine she believed she needed to be."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Living Memory is steeped in the dense lightning aether of the Ninth. This pervasive energy must be what the terminal utilizes as a power source."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I remember little of my awakening. The paralysis yet lingered, and my eyes could barely focus..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "When we shut down all the minor terminals, we watched as the Endless faded away. I do not believe that was a performance staged to deceive us."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As for the Meso Terminal, however... It had already grown dark by the time we had returned from the virtual domain."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "While I am loath to admit it, 'tis possible its true appearance was hidden from us in our absence. Which is why we must bring this tale to its denouement by our own hand."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It hadn't occurred to me that one might physically enter the terminal. Although I suppose it makes sense when you think about it. A structure for creating Endless would have required maintenance administered by corporeal hands."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "An Endless existence for the evolution of mankind... I understand what he strives for, but not what drives him to do so with such ruthlessness."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, here we are again, facing another battle to decide Alexandria's fate."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For four centuries I slept here. Upon awakening, I found the world as I knew it had changed."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I was so frightened at first. I couldn't recognize a single thing, and thought everything I loved had gone to dust."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yet beneath the unfamiliar surface, much remained the same."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For that, I give thanks to Otis and Zelenia and their royal knights, who lay their lives on the line to defend our way of life."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I thank every Alexandrian, who believed in our future and passed on our legacy."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I thank my other self, who so loved this kingdom of ours."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And I thank you all, for kindling this hope in my heart. This courage to take up arms and fight once more."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So let us make our stand together, and fight for what we hold dear."
+    },
+    {
+      "character": "Endless Sphene",
+      "text_en": "The kind and gentle Queen Sphene was too weak to serve her people. And so she will serve them no more."
+    },
+    {
+      "character": "Endless Sphene",
+      "text_en": "Freed from conscience, I shall become a ruler that can protect Alexandria. A devourer of worlds."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You have my gratitude. And surely Otis and Zelenia will join us in spirit."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That we shall. Her wish to see Alexandria endure is one I am happy to fulfill."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's head inside and finish this."
+    },
+    {
+      "character": "Krile",
+      "text_en": "In the upper reaches of this terminal awaits the device which holds Calyx's memories. It falls to us to make the climb and destroy it once and for all."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Aye, we must bring matters to a definitive end. We'll not suffer him to cause Alexandria further harm nor claim the key."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The queen entrusted it to Forename for good reason. And besides, 'twould be a tragedy indeed to relinquish a relic with so much research potential."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Apparently, Calyx thinks he's taken your measure. I urge you to correct that misguided assumption!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I wholeheartedly concur, yet would still counsel caution. That he would be so bold as to extend us an invitation bespeaks tremendous confidence in his preparations."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Come, friends. We set forth, into the midst of dreaming Endless."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I really do think you take on too much from too many people. And yet...it's never the wrong choice."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The queen gave you the key for a reason, so I'll be damned if I let Calyx steal it!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Calyx's scheme to forfeit flesh to gain immortality calls to mind the Ea. Not that informing him of their fate would do much to dissuade him."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "“Convinced though you may be of this truth, it is yours and not mine. And no conclusion of yours, no matter how grim, can dampen my desire”..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Such was my reply to the Ea's warnings. So I know a little something of refusing to listen save when confronted with incontrovertible proof of my error."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The Alexandria of today has seen countless lives come and go. My other self took their grief and fear and rage upon herself in service to our kingdom."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Around me are gathered those willing to give their all to fulfill the promise they made to her. How can I do any less?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Alexandrians must be free to believe that more than sadness awaits them... That tomorrow can be better than today."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As the Vow of Resolve, or even as just a comrade, I see myself making a lot of promises."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I mean to honor every last one of them...starting with the oath I swore to the Endless Sphene. Even if it's just a memory, I want to think of her smiling at that promise kept."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "'Tis beyond knowing how Calyx has advanced his plans for Endless conversion for the past four hundred years."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I do know, however, that pursuing an objective for lengthy spans requires an unyielding will─especially when that objective entails changing the world as we know it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Calyx is a foe possessed of both considerable focus and resolve. We would do well to recognize him as such."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If my parents were indeed executed by Preservation, for me this will not only be a fight for the greater good. This will be justice."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If I'm to add an addendum to Grandfather's account of the golden city, then let it be a rousing good one, eh?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We have no idea what Calyx may have planned for us. Alisaie and I have prepared for every eventuality, yet still..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Nay, you must be free to lead our charge unhindered by doubt. As you press onwards, we shall guard the flanks."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Ah, you've come. I'll begin by wearing you down."
+    },
+    {
+      "character": "Terminal Watchman",
+      "text_en": "Intruders detected."
+    },
+    {
+      "character": "Terminal Watchman",
+      "text_en": "Issue no warnings. Proceed to elimination."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I've created new Endless for you. Not all are warriors, but they will follow orders."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "“Kill” and “survive” and so forth. Here, I shall prepare the stage for battle."
+    },
+    {
+      "character": "Preserved Medic",
+      "text_en": "We won't let you harm our charges!"
+    },
+    {
+      "character": "Preserved Medic",
+      "text_en": "You'll have to go through me !"
+    },
+    {
+      "character": "Patient 1 (text bubble)",
+      "text_en": "I don't want to die...Don't let me die..."
+    },
+    {
+      "character": "Preserved Medic",
+      "text_en": "Enemy soldiers!"
+    },
+    {
+      "character": "Patient 2 (text bubble)",
+      "text_en": "<wheeze>"
+    },
+    {
+      "character": "Patient 3 (text bubble)",
+      "text_en": "My chest hurts..."
+    },
+    {
+      "character": "Patient 4 (text bubble)",
+      "text_en": "I can barely feel my legs..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "The memories of a physician. One who saves lives should be reluctant to die."
+    },
+    {
+      "character": "Chirurgeon General",
+      "text_en": "Loath as I am to employ medicines in the application of harm, I will protect my patients."
+    },
+    {
+      "character": "Chirurgeon General",
+      "text_en": "Activate dispensers!"
+    },
+    {
+      "character": "Chirurgeon General",
+      "text_en": "A potent concoction, this one. ...I am sorry, but you must be stopped."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Oh, you've overburdened the system. No matter. It served its purpose."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Next, we visit a prison of sinister repute. I need not compel them to fight."
+    },
+    {
+      "character": "Preserved Prisoner",
+      "text_en": "We'll show you how it works around here!"
+    },
+    {
+      "character": "Preserved Prisoner",
+      "text_en": "We've got just the tools for the job."
+    },
+    {
+      "character": "Prisoner in Cell 1",
+      "text_en": "Oho... New cellmates, is it?"
+    },
+    {
+      "character": "Preserved Prisoner",
+      "text_en": "Ah, a little light exercise!"
+    },
+    {
+      "character": "Preserved Prisoner",
+      "text_en": "Hee hee hee!"
+    },
+    {
+      "character": "Prisoner in Cell 2",
+      "text_en": "You'll make a fine example! Get 'em!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "These are loyal executioners. They shall deal appropriately with “criminals.”"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Your sentence is death. How long can you defy it?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Criminals may run, but they cannot escape."
+    },
+    {
+      "character": "Ravenous Headsman",
+      "text_en": "Your sentencing awaits..."
+    },
+    {
+      "character": "Bloody Headsman",
+      "text_en": "Let us count your crimes..."
+    },
+    {
+      "character": "Bloody Headsman",
+      "text_en": "The hour of the condemned is nigh..."
+    },
+    {
+      "character": "Ravenous Headsman",
+      "text_en": "For each accused, a fitting punishment!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Beginning to tire? Good. I bid you continue on."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Memories from an age rife with death... The desperation will serve well."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "The enemy is at the gate. To arms, good soldiers─protect your kingdom."
+    },
+    {
+      "character": "Alexandrian Citizen 1 (text bubble)",
+      "text_en": "<groan>"
+    },
+    {
+      "character": "Alexandrian Citizen 2 (text bubble)",
+      "text_en": "Keep going! If we can just make it to the keep..."
+    },
+    {
+      "character": "Alexandrian Citizen 3 (text bubble)",
+      "text_en": "Those Lindblum bastards..."
+    },
+    {
+      "character": "Alexandrian Citizen 4 (text bubble)",
+      "text_en": "I'll not...die here..."
+    },
+    {
+      "character": "Preserved Soldier",
+      "text_en": "Invaders!"
+    },
+    {
+      "character": "Preserved Soldier",
+      "text_en": "You'll go no further!"
+    },
+    {
+      "character": "Alexandrian Citizen 5 (text bubble)",
+      "text_en": "Please, keep me safe!"
+    },
+    {
+      "character": "Alexandrian Citizen 6 (text bubble)",
+      "text_en": "If only I could fight better..."
+    },
+    {
+      "character": "Preserved Soldier",
+      "text_en": "Their legs may tremble, but our hearts are steady!"
+    },
+    {
+      "character": "Preserved Soldier",
+      "text_en": "With faith and steel..."
+    },
+    {
+      "character": "Preserved Soldier",
+      "text_en": "For my family! For my people!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Very well... If one by one they fall, I'll send them all as one."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Recall the anguish you felt when you faced death, and rise. Rise to defend your nation, your people, and your loved ones."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Rise, and meet the foe before you."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "An amalgam of memories. Let us see how it fares."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "It is the midst of the Storm Surge."
+    },
+    {
+      "character": "Alexandrian Shade 1 (text bubble)",
+      "text_en": "No more! I can't take any more..."
+    },
+    {
+      "character": "Alexandrian Shade 2 (text bubble)",
+      "text_en": "<gasp> <pant>"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Countless lives are lost in the senseless conflict."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "The war swells in scope and intensity."
+    },
+    {
+      "character": "Alexandrian Shade 3 (text bubble)",
+      "text_en": "Not...like this..."
+    },
+    {
+      "character": "Alexandrian Shade 4 (text bubble)",
+      "text_en": "Help...me..."
+    },
+    {
+      "character": "Alexandrian Shade 5 (text bubble)",
+      "text_en": "Aaahhh..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "The bombs rain down without pause or mercy."
+    },
+    {
+      "character": "Alexandrian Shade 6 (text bubble)",
+      "text_en": "No more! I can't take any more..."
+    },
+    {
+      "character": "Alexandrian Shade 7 (text bubble)",
+      "text_en": "I don't want to die..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "The spark of life is dimmed with every blinding flash."
+    },
+    {
+      "character": "Alexandrian Shade 8 (text bubble)",
+      "text_en": "Ah!"
+    },
+    {
+      "character": "Alexandrian Shade 9 (text bubble)",
+      "text_en": "There's...there's nowhere to run!"
+    },
+    {
+      "character": "Alexandrian Shade 10 (text bubble)",
+      "text_en": "Gaaah!"
+    },
+    {
+      "character": "Alexandrian Shade 11 (text bubble)",
+      "text_en": "I-I have to get away from here..."
+    },
+    {
+      "character": "Alexandrian Shade 8 (text bubble)",
+      "text_en": "Not...like this..."
+    },
+    {
+      "character": "Alexandrian Shade 9 (text bubble)",
+      "text_en": "Help...me..."
+    },
+    {
+      "character": "Alexandrian Shade 10 (text bubble)",
+      "text_en": "Why...?"
+    },
+    {
+      "character": "Alexandrian Shade 11 (text bubble)",
+      "text_en": "Aaahhh..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Death is everywhere, pillaging the promise of the future."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As hard as this is, we must push on."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My countrymen... Your memories will carry me onward."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Damn you, Calyx!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Memories of fear and terror..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "An unconscionable act..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He's using the Endless like pawns!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We see this to the end."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So this is what it looks like inside..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is a different floor to where I was in stasis."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Calyx will have prepared us a warm welcome."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We fight our way straight to the top!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Calyx awaits us at the very top, then?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Did he say “new Endless”!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Even within his stronghold, he leverages the fear of death..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is wrong..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He must be modifying their memories to set them against us."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He has them believing we are invading enemies..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What in the...? Everything has changed!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ah. He's adjusted the electrope to project a new appearance."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is the Alexandria of my time!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "He's changed the whole place!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He's quite literally setting the scene."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He seems quite serious about barring our path."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We've no choice but to fight if we're to proceed."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He would force a healer to fight us!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A physician's memories..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "He leaves us little choice..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Yet another Endless being made to see us as the foe."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What was that!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A toxin!?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I feel...numb..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What did he do to us!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Some noxious spray..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This complicates things..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Stay calm. We fight through it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's that toxic spray again!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Careful! He means to use that spray!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The numbing spray! Watch out, everyone!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Here comes that spray again!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ware the toxic spray!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He's preparing another dose!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Brace yourselves! He readies his toxic spray!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Look at what's happened..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There are cracks in the electrope."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My people..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Damn you, Calyx..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let us move on..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Steel your hearts. We must forge onward."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Another one of those terminals."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Should we stop and take a quick look?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Didn't we pass a terminal like that already?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Should we take a look at that terminal?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He's changing things again!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Another reminder of Alexandria..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, this is dismal."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Are these people prisoners?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A gaol, is it? Charming."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Big lads...and there are four of them."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This will be no easy battle."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And we're the “criminals,” I suppose."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Endless headsmen..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This is an execution chamber, then..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wha—!? We've been chained!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "'Tis to be a duel, then?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Very well. I will fight you myself."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The others...can handle themselves, I'm sure."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is fine by me!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "They've split us up!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hm. Hoping to divide and conquer?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Memories are not tools to be exploited..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We cannot allow this to continue."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It happened again. Look at the walls!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "On we go!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This is putting enormous stress on the electrope..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Now what!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "On your guard, everyone!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "\"An age rife with death\"...?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We are not done, it seems..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What has he done...?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "He's recreated the Storm Surge!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No... I cannot stop here!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is this a game for him?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He's forcing the Endless to relive their memories of war..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There looks to be a way inside."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then what are we waiting for!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've climbed pretty high."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We must keep going!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We must be nearing the top by now!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This way if we want to continue upwards."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The Endless... I can feel their terror."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You make a mockery of their suffering!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So many memories in one place..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To reach such lengths..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He's fused them into a single entity..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Stop this! Haven't they suffered enough!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's happening!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A new stage for us to fight on..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Another recreation?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The Endless... You go too far, Calyx!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't like the looks of this!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Keep sharp! Something's happening!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This is building to something..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Be on your guard!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone, gather in the middle!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The center of the battlefield! We bear it together!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Quickly! To the middle!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Into the center!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "To the middle! We close ranks!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Huddle up, everyone!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Everyone to the middle!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Another change... Along with new threats, I expect."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We've moved forward in time."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Here it comes!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now what!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By the sunken gods... Everything's burning..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We're in for another surprise!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "On your toes, everyone!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Watch yourselves!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And again! The lightning's getting worse!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You went too far!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The fighting grows in intensity..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The fear of these Endless is palpable..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We will bring an end to this, I promise you!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is relenetless!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So much terror..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Test us again and again. You will not find us wanting!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The Endless he sent against us... They were from the time of the Storm Surge, before I was placed into stasis."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As far as we know, the only sector to escape the shutdown was the one containing Calyx's memories."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Assuming a chronological system, every other memory stored in that sector would belong to people who lived around the same period in history as he did."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx... How long have you pursued this madness...?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We seem to have exhausted his defenses for the moment. I say we take advantage of this lull to press on."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Calyx!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Well done. I commend your perseverance."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "The entirety of my memories are stored within this device."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "In the early stages of Endless creation, we established several core tenets. One is a prohibition on memory duplication."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Despite the inherent risks, I agree and abide by this. Memories are the essence of the self, and should not be diluted."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "We each have our goals. You seek to destroy your target. I seek to reclaim the key."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Shall we forgo the posturing and begin?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Do not doubt that we are here to fight, and I do not mean to lose."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yet as one born of the same era, I must ask..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Why do you pursue your evolution with such fervor? What do you hope to achieve with this eternal existence?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Your question is meaningless."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I have ascertained a superior path to mankind's preservation. And that which must be done is that which I can do."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "What other reason do I require?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Surely you have seen it. Traditional survival strategies are at odds with an increasingly complex society, leading to a breakdown of order."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "This course promises no liberation from pointless conflicts or inane tragedies. Physical traits do not to represent the limit of our potential─why then should we relinquish that potential when our hearts cease to beat?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I realized it was past time that we corrected our heading. Nothing more."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Even then, you were always so single-minded."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I, too, have a vision for the future, and your plan is not a part of it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I won't let you harm another Alexandrian!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Then fight we must. Thankfully, the entity I now summon will make short work of you and your comrades."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A summoning!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What now...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What... What was that!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A chill...? No, something else... I feel so cold...so weak..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Across Alexandria, a certain emotion is taking hold."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "The fear of death. Terror for the eternal darkness that will, without fail, engulf the lives of every living thing."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Allow me to introduce it to you."
+    },
+    {
+      "character": "Manic Citizen",
+      "text_en": "I got it... I got one!"
+    },
+    {
+      "character": "Manic Citizen",
+      "text_en": "Four thousand nine hundred and ninety-nine. That's how many people he said they were up to!"
+    },
+    {
+      "character": "Manic Citizen",
+      "text_en": "I made it just in time. Now to register..."
+    },
+    {
+      "character": "Manic Citizen",
+      "text_en": "Death can't touch me now. I'm free of all that crushing fear forever..."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Congratulations to all who have acquired a neo regulator."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "We have reached our total of five thousand registered users. The day of deliverance you were promised will soon be upon us."
+    },
+    {
+      "character": "Robbed Citizen",
+      "text_en": "Give it back..."
+    },
+    {
+      "character": "Manic Citizen",
+      "text_en": "I don't want to die... I don't want to die..."
+    },
+    {
+      "character": "Robbed Citizen",
+      "text_en": "You think that's what I want!?"
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Remember now. Remember your fear of dying."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "That terror will carry you across the threshold─make of you an Endless. Your prayers will birth a miracle which commands death itself."
+    },
+    {
+      "character": "Robbed Citizen",
+      "text_en": "What in the...?"
+    },
+    {
+      "character": "Robbed Citizen",
+      "text_en": "What's going on!?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Securing the requisite aether is simple. I need only reroute lightning energy from Living Memory."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Then, I encourage the populace to define its form through hope and thought and prayer."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Such an abstract method, however, is rife with unpredictable elements. What I wanted was an entity that could defeat you with utmost certainty."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "To that end, I set strict parameters for a “concept” of my own design."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "It was a laborious task, one that required almost more time than I had. But I managed it in the end."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "And now, everything is in readiness. I bid you, come forth!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What...what is that?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A primal summoning, and one defined by a concept no less... How did he learn such techniques...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Keep these close!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That is a false deity, brought into being through the prayers of the desperate and the hopeful. The talismans will protect your minds from being enthralled."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Do you still mean to stand against me?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Hmph."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "That remains to be seen."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Hmph."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Assuming you win. The defeated ask no questions."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It all finally makes sense. Those mechanical rampages were not orchestrated solely for the purpose of harvesting aether."
+    },
+    {
+      "character": "Krile",
+      "text_en": "They were intended to heighten the collective fear of death, that the primal manifested by the people's terror would be that much more powerful..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What is he saying? That the fears of everyone in Alexandria gave birth to this...this horror?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The summoning ritual alone made my blood run cold. Like I was halfway to becoming a corpse..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So, 'tis a primal which embodies the concept of death in all its terror. He has made manifest a most troublesome foe."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As I feared, I was right to bring spare warding scales. Against the threat of a primal, we must take advantage of every warrior we can field."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't care if that thing is a waking nightmare! Let's send it back into the darkness, Forename !"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "An abundance of lightning would indeed obviate the need for crystals. I should like to know whence Calyx came by this summoning knowledge."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Those who obstruct evolution..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "...Shall suffer the rotting fate of all flesh."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You are bound by the limits of flesh. It will betray you."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Drag them to their graves."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "There."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Do you not see? Death is upon you..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Perhaps this."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Kill them."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Bothersome."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Kill them."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Fear compounds fear, eroding your strength."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I will reduce you to aether."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You will die for me now."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Accepting death is the greatest sin a life can commit."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "The endless darkness engulfs you..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Still alive. But there are ways to change that."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Those who do not resist death deserve it."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I am prepared for you."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Kill them."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Fight if you must."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You struggle in vain."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Once the terror takes root, it will only continue to grow."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Now's our chance!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Calyx has nothing else to throw at us."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We did it!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A primal of all things..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Something doesn't feel right..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Is that truly the end of it...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've beaten you, Calyx..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Limited though we may be, we defy you nonetheless!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Your plans end here with you!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Eurgh! Keep your hands off me!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Stay alert!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What was that!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A barrage of attacks..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Where will it strike next...?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Watch the arms! They betray the intent!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You won't catch me again!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not good! I need to move away!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Lead it away from the group!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's gathering aether!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ungh! The sheer strength of it..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The aether gathers again... A different shape this time!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So that's what that shape means!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The stored aether... Its effects can be delayed."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It's bringing some new attack to bear!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The ground... Where did it go!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How do we deal with this!?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Do not be fooled by the movements."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Keep a clear head. We can handle this."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Over to the edge and hunker down!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Tis one thing after another!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The ground has sprouted hands..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Destroy them! Quickly as you can!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Brace yourselves!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Be strong! We can take it!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We're being pulled down!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Hold fast to your reason!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Is everyone all right!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, that was exciting... Back to it, then!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Giant hands...everywhere!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It wants to drag us into the abyss."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look! It's storing aether again..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It means to discharge in rapid succession!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I counted four... Be ready!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Here it comes!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The next one is...this way!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A successive pattern, as we suspected."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And this is the last..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Arcane circles!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Together, we can undo its magicks!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Watch out for those giant hands!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Leave this one to me!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ugh, not this again..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Breathe. We've dealt with worse."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is it over...?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Now, the memory bank!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's shielded!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I invited you to destroy it. I did not say I would let you."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "It is clear your strength cannot be gauged by ordinary means."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "...But I anticipated as much."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What did you do to it!?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "The ignorance is almost laughable. You do not understand that you yourselves are to blame."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You brought death to my creation."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "What do you suppose happens when a being manifested by the fear of dying experiences that terror firsthand? It grows stronger ."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I feel it again... That same...weakness..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "It will rise again and again, until the lightning which infuses this entire world has been drained to its last spark. You fight a losing battle."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gods...damn you!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Harnessed in this manner, does it not demonstrate just how powerful mankind's aversion to death truly is?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You will not prevail against this foe. I, meanwhile, will continue my crusade against mortality."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "So long as our memories endure, we may live on... That is the promise I offer."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "“So long as our memories endure”...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is wrong, Calyx. You twist the meaning of those words."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "They are not meant to teach the living that physical death is nothing to fear."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "They are meant to offer comfort to those we leave behind."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I know that litany, all too well! I heard it time and time again over the course of the war..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Help me, Shale! I must speak to Alexandria. Make my voice heard!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Naahe, don't you recognize me!? Naahe!"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "What's happening!? What's wrong with them!?"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "What will become of us...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Fellow Alexandrians... Please, heed my words."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "What now? Another broadcast?"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "I know that voice..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Death can be frightening and terrible... I understand the desire to forget─to seek eternal life and be freed from fear."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yet we live in this world in the here and now, the bearers of memories varied and rich."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Our worries can weigh heavy, and there may be nights when the darkness feels like more than we can bear..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But if we can endure those dark hours, the world will always brighten come the dawn."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And in the chill of that new morning will the memories of loved ones be there to warm us and carry us forward."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So do not forget their passing... Let them be our courage. Fear not a life well lived."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For one day, the memories we leave behind will be the warmth another needs when their morning finds them..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "What is this...reaction?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "An irregular factor in the equation."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Eliminate her."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No you don't!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Memories cannot be duplicated...but they can be transferred."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Leave the primal to us! Hurry and take care of that memory bank!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hyaaah!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wuk Lamat!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I gave her my word!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I promised I would protect her people!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And we will protect them. Together!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The others!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Careful, you're badly hurt. You'd be lucky if you only broke a bone or two."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It won't be long until your fever rises. We need to see you back to Tuliyollal, and into the care of a chirurgeon."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I kept...my promise..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you...Lamaty'i."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Let us bask in the victory a moment, shall we? We can take stock once we've had a chance to recuperate."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Phew... 'Tis good to be out of that terminal. But what of you? No injuries or lingering ill effects?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "After dealing that last blow, I hadn't a drop of aether left to spend! Thank you for seeing it through to the end."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I believe Calyx was working to transfer his memories at the end there, but he vanished at the exact moment the device exploded. We must have stopped him just in time..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's finally over..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "She has yet to regain consciousness, but worry not─Lamaty'i will be fine."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I've been in touch with Vow Koana, and he has made arrangements to convey her home. By which he means to come and fetch Lamaty'i himself, apparently. Given the extent of her injuries and exertions, she'll likely spend many days abed."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh, Wuk Lamat..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You just can't help yourself, can you? Like a certain someone. That said...we couldn't have done it without you."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And once she had the barrier down, you saw to it that Calyx's stored memories were destroyed along with the memory bank."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Which means Preservation is no more, I pray."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No longer will Calyx dictate the course of our people..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No longer will our grief be locked away or forgotten..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The freedom to feel joy and sadness─to feel all that we are meant to experience─is in the hands of Alexandrians once more."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I can never thank you enough!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "When we are rested and ready, we shall have to conduct a thorough investigation into how Calyx came to know that summoning ritual."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Aye, for where there are primals, the Ascians are ne'er far."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And we must consider that those who offered up prayers during the summoning may very well have fallen under the entity's sway..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I shall wait here with our patient until Vow Koana arrives. Feel free to go on ahead and attend to Alexandria's needs in the meantime."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Yes, we should get going. I'll contact Shale en route and ask for an update on the situation in the city."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Shall we make for the outskirts first, then? We can check on things there before heading into Everkeep."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I expect I shan't be waiting long. After hearing of Lamaty'i's injuries, Koana sounded fit to launch himself here by siege engine."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "No signs of recent violence. The soldiers have been behaving, at least."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank goodness... Things are much calmer than I anticipated."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I've given Sphene an abridged explanation of primals and their enthralling influence. Too much detail would overwhelm her."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I was able to speak with Shale and Erenville. I'll share the news with everyone in just a moment."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Forename ... Everyone has been teaching me what it means to be enthralled by a primal..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The outskirts seem untouched by trouble, as far as I can tell, but... What if something awful has happened!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Deep breaths, Sphene. Erenville and Shale have brought me up to speed."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "First off... Just as we'd feared, those who adopted the neo regulators appear to have been enthralled."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So far, however, they've not shown any hostility towards others. I suspect this was due to the calming effect of your broadcast."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Government administrators are presently working with the rest of the citizenry to bring the afflicted into the care of the authorities, and I'm happy to report that this seems to be proceeding in a largely peaceful manner."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Which is all well and good, but the city officials are understandably requesting an explanation of events. Raha, Krile, would you be able to handle that?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Certainly! We shall return to aid with the treatment efforts forthwith."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Meanwhile, might I suggest you look in on the people you fought so very hard to save? It may ease your mind to see the fruits of your efforts firsthand!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you again... How very fortunate we are to have you as our allies."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If every person who was equipped with a neo regulator was affected, then we have no less than five thousand patients. Even with an army of trained mages, rehabilitation may take many moons..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And yet this is a best-case scenario. The fact that we even have the capability to exorcise a primal's influence would have been unthinkable not so long ago."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let Raha and I brief the officials on what to expect. I think Sphene might like to have you nearby for a little while longer."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It has never been easy for me to explain primal summoning to the layman in a clear, concise manner... But 'tis a skill I must hone if I'm to uphold the Students of Baldesion's good name."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Once I've had a look around, I'll go and assist with the treatment of the enthralled. We'll have to mobilize Angelo and all his siblings!"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "id": "mamook-speaks",
+  "wiki_path": "/wiki/Mamook_Speaks",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Mamook Speaks",
+  "level": "95",
+  "location": "Yak T'el(X:21.2,Y:21.5)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Koana",
+      "text_en": "Not even I imagined that my sister would one day befriend Bakool Ja Ja..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Wuk Lamat risks her standing in the rite to attend to her people's needs. 'Tis a degree of selflessness few can claim to share."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Everyone looks uneasy, but their faith in Bakool Ja Ja guides them even now."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Now we come to the heart of it."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Belief in blessed siblings and the salvation they would bring has sustained me for years and years. But if there's another way...if the Third Promise can truly help us..."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "I don't know what to think or how to feel about this..."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "An end to blessed siblings...?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "I'm sure my son would have preferred to stay, but his presence alone still greatly sways our people's behavior."
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "Even if Bakool Ja Ja trusts the Third Promise, I don't know if I'm comfortable discussing this with her..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All right, Forename . Before we start, let's make sure we're remembering our history correctly."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Mamool Ja and Xbr'aal fought for centuries over the land in the upper forest. But due to infighting, Mamool Ja forces struggled to make significant gains."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In order to promote cooperation, the Hoobigo and Boonewa clans intermarried─and that's how blessed siblings were first conceived."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With that in mind, let's talk to the people and learn why they rely on blessed siblings."
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "Blessed siblings promise us more than strength─they promise us the sun."
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "This forest is dark and inhospitable. When given the opportunity to live in Tuliyollal, most of our people didn't think twice."
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "Still, the prospect of being among so many outsiders was intimidating enough to keep many of us here."
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "Blessed siblings are meant to deliver us from this accursed forest─to lead us to the fertile land above, where we might make a place for Mamool Ja to abide in peace and plenty."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So you desire fertile land. One that's all your own..."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "As you'll have noticed, this forest is very dark. Hardly any sunlight makes it through the canopy, so it feels like it's always night."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "We plow, we fertilize, we irrigate─yet our crops shrivel and die as though cursed."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "The only one that grows well is najool─Ja Tiika banana in Turali. Try living on that and little else for a few centuries and see how you like it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A forest where nothing grows... It's not hard to imagine why you'd want to leave."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "This land was once rich with ore, but the Yok Huy did not stop digging until all the veins were spent."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "The meteorites are only good for so much. Even if we made overtures to traders, we have little to offer."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Nothing would make me happier than to make a good life for my family in the place where I was born. But that's impossible..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So with resources as sparse as they are, you don't have good prospects for trade..."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Those who have known only open skies and bountiful land cannot comprehend our plight."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "To thrive we must take what we lack by force. And for that, we need the might of blessed siblings."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There have to be other ways to thrive─ways that don't require fighting!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is it? There are still people we haven't spoken with."
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "We've long since given up on anyone understanding our plight."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "This forest rejects us. From our doomed crops to those unnatural meteorites─the signs are unmistakable."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Trust me. If this forest had anything else others might want, I would have found it by now."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "We who live in this forest have precious little choice. We have to fight if we're to do more than survive."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "I'll watch over things here while you're away. Go and help the Third Promise however you can."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, I think I'm starting to understand."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone had their own perspective, but all their concerns were about the forest itself."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Dark, infertile─cursed. Hearing that, it's little wonder that people here wish they had better land. And who better to get it for them than blessed siblings?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's hard to convince people to stay in a place that can't provide what they need. You'd think the meteorites, at least, would have value, but apparently not..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hold on. Didn't Erenville mention something about the meteorites? That the aether they emit makes the plants glow blue?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A rather significant physiological effect, I would say. If we were to study these meteorites, we might discover other ways they influence local flora."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I noticed a curious amalgam of tree and meteorite just south of here. Determining precisely how they interact with one another may yield crucial insights."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone, I really appreciate you for sharing your thoughts with us. Thanks to your insights, we have a promising idea already."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We just need a moment to investigate it further, so please bear with us! We'll be right back!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Plants that shrivel as though cursed... I think I can hazard a guess as to why..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What a remarkable tree... I hope it will provide us with the insights we need."
+    },
+    {
+      "character": "Krile",
+      "text_en": "At first glance, this forest seems a haven of mysterious beauty. But the reality of living here is quite another matter..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I had known that Yak T'el was battered by a veritable deluge of meteorites long ago, but I never considered how their presence might be affecting the environment..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It really is incredible how a tree could support such an enormous boulder."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The meteorite's aetheric emissions are palpable, even from this distance..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Seeing this again makes me feel more confident in sharing a theory of mine. I suspect that only plants with an aetheric affinity to these meteorites can thrive in this forest."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If so, the gargantuan trees that create the dense canopy would by necessity possess the same affinity. As well as the aforementioned najool tree."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Indeed. I should like to analyze samples of meteorite before drawing any definitive conclusions, however."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I carry with me a few devices that will aid in this endeavor, but perhaps you and Krile could lend your expertise as well?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'd like to join you. The aetheric signature of those meteorites may be crucial in determining what manner of species might fare well here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ahhh, I think I see what you're getting at! If we can prove to them the cursed forest isn't quite so cursed, maybe the people won't feel like blessed siblings are their only solution!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So how can I help? Want me to climb the tree and break off a piece of meteorite for you?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "There are plenty of fragments on the ground already. It should be enough for our purposes if we gather about five pieces each."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Even better if those fragments are gathered from disparate locations."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I will collect your pieces once you have them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So the reason this tree grew so big is because of the meteorite's energies?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The more fragments we gather, the better. Let's all do what we can!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I should have brought better tools..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Too big for our purposes, but a shard of it might do... Erenville, if you would."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I have mine already, so let me know when you have yours."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Did you find your fragments?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Much obliged."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Alphinaud, Krile, and I will combine the gathered samples and conduct an analysis forthwith."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Determining the wavelength may take a little while, but I am hopeful that our efforts will bear fruit."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I'll tell my sister to await our arrival at Moxutural Zooj, so go and meet her there. We will return with our results as soon as possible."
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "I don't think I trust the Third Promise yet. But if she can offer us some tangible hope, then maybe..."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Many are reluctant to trust the Third Promise, but all agreed to wait for her return. That alone gives me cause to hope."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "Honestly, I don't know what I hope to hear..."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "If you can truly help us, I'll wait here for as long as you need."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "I remain here out of deference to Miilal Ja. As the mother of our chosen one, her wishes deserve to be honored."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've done all we can. The rest we must leave to Koana and the others."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't know the first thing about those Sharlayan devices of his, but if they can be of help to Mamook, I'm glad he has them!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's hope for this forest yet, Forename . I can feel it."
+    }
+  ]
+}

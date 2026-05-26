@@ -1,0 +1,524 @@
+{
+  "id": "knowing-the-hanuhanu",
+  "wiki_path": "/wiki/Knowing_the_Hanuhanu",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/a/af/Knowing_the_Hanuhanu.png",
+  "patch": "7.0",
+  "title_en": "Knowing the Hanuhanu",
+  "level": "90",
+  "location": "Kozama'uka(X:19.5,Y:10.8)",
+  "npc_start": "Wuk Evu",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm glad we kept the float out of Bakool Ja Ja's clutches, but gods... He brushed me aside like I was a bothersome gnat."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A tense encounter. I'm thankful Alphinaud thought to share those linkpearls."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm thankful we made it back before anyone was seriously injured."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Given the nature of the rite of succession, I expect such altercations are inevitable."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "He waited for us to leave so he could steal the float. A coward and a thief!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I was so afraid Wuk Lamat would come to harm... Ok'hanu has seen enough death."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "With that exciting interlude over, you'll be pleased to know that my repairs are finished as well."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Before we commence the festival, however, it would be a courtesy to inform the villagers that Ihih'hana will be held after all."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Go forth, but do not forget your greetings! At this stage, I should hope the reminder is unnecessary."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ohokaliy! See? I remember!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Don't tell me you've forgotten the greeting? Fine, watch closely..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Ohokaliy!"
+    },
+    {
+      "character": "Dispirited Hanu",
+      "text_en": "<sigh> There's nothing to look forward to anymore..."
+    },
+    {
+      "character": "Melancholy Hanu",
+      "text_en": "Ugh... Without Ihih'hana, life feels so empty..."
+    },
+    {
+      "character": "Mournful Hanu",
+      "text_en": "<sniff> So much has been taken from us... Why even try?"
+    },
+    {
+      "character": "Dispirited Hanu",
+      "text_en": "Ohokaliy!"
+    },
+    {
+      "character": "Dispirited Hanu",
+      "text_en": "The festival is about to begin? What do you expect me to say..."
+    },
+    {
+      "character": "Dispirited Hanu",
+      "text_en": "...besides “Of course I'll be there!” Cleaning up the storm's aftermath may have been hard on us all, but the Lifting of Wings is tradition! And a joyous one at that!"
+    },
+    {
+      "character": "Dispirited Hanu",
+      "text_en": "I won't sit here brooding my days away! Give me a moment to get ready!"
+    },
+    {
+      "character": "Melancholy Hanu",
+      "text_en": "Ohokaliy!"
+    },
+    {
+      "character": "Melancholy Hanu",
+      "text_en": "Thank you for letting me know. I would very much like to attend the festival, but the repairs should be finished as soon as possible. What to do, what to do..."
+    },
+    {
+      "character": "Mournful Hanu",
+      "text_en": "Ohokaliy!"
+    },
+    {
+      "character": "Mournful Hanu",
+      "text_en": "What? The float is fixed!? Our fallen friends would be glad to know that Ihih'hana will soon be underway. They would have wanted us to honor them with celebration, not let their loss deter us from it."
+    },
+    {
+      "character": "Mournful Hanu",
+      "text_en": "I must go and enjoy the festival for those who no longer can!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "The Hanu were pleased to hear their festival was going ahead, I imagine?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "That is well. Once your friends return, the Lifting of Wings can begin at last."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So few have come..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Patience. Once Ihih'hana gets underway, no Hanu will be able to resist joining in."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Just so! Wuk Evu knows well the heart of the Hanu!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Have faith, Third Promise, and climb aboard the float! It is time for the Lifting of Wings!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right! Off we go!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Ihih'hana is a prayer for bountiful harvest, but this is not its only meaning."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "It is also an exchange of pledges between rider and bearers─a commitment to a long and fruitful friendship."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Listen well, friends! The personage we bear today is Wuk Lamat, the savior of our beloved festival!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Let your shoulders burn or your feathers fall out, but do not even think of dropping her!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Ready and..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I could get used to this."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Will empty bellies stop you from joining in the fun? Come and help us carry the float!"
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "Well, well, well. To see the day the Dawn's Promise would ride our boat again."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "We've not had the honor since you were here, Gulool Ja Ja."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Right, we've enough bearers now! Onwards to Kozanuakiy!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Watch well, for you are about to bear witness to the true glory of Ihih'hana!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "The float draws upon our life force, concentrating and amplifying the energy..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Kixaihih then receives that energy and expels it in a great burst, where it showers down upon the land to replenish its vital currents!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It worked!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Like a literal charm!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "The float really was helping the reeds..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That was...amazing. To think that such a thing was even possible!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Even deprived of their usual sustenance, the Hanu seemed invigorated the moment the festival began. Ihih'hana truly is magical!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I wasn't sure what to expect...but the festival was admittedly impressive."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "With their fields rejuvenated, the Hanuhanu, too, might finally replenish their flagging reserves of aether."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'd like to take a turn riding the float. ...What? It looked like fun! Don't pretend the thought didn't cross your mind."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I told you, didn't I? Spectacular."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I was too quick to dismiss the idea that the float had arcane properties. I think I wanted to believe that no one knew more about Ihih'hana than me."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "As it turns out, there are many things I have yet to learn..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Should I have left the float behind like that? I was so excited to see the reeds..."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Nothing to worry yourself over. My brethren have been swept up by festival fever─last I saw, they were taking turns at the carrying poles on the way back to the village."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Please, feel free to look over the fields and enjoy the sight of what you've accomplished."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Some of them still look a bit sickly..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I imagine even the harvest magic has its limits. If the Hanu continue their festival tradition year after year, though, the entire field should eventually recover."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Where does that leave us with the feat, then...?"
+    },
+    {
+      "character": "???",
+      "text_en": "You've got nothing to fear on that account."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "Our situation could never have resolved itself. The revival of even a single reed would have served to demonstrate your commitment to the task."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "That you recognized the nature of the float and found a near-perfect solution in Ihih'hana proves your dedication!"
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "What's more, I don't think I've seen the festival produce such impressive results since I was a mere chirper."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "We have been lax in maintaining the float, diluting its magic and reducing Ihih'hana to hollow theater."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "But today's events remind us of the power in tradition."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I was delayed by an unpleasant encounter, but it seems I arrived at a good time."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "Oh...isn't that wonderful."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What!? You just pour in some mystery liquid, and problem solved!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Stagnant aether was to blame for the reeds' poor condition. I assume that was an alchemical concoction which enhances aetherial conductivity."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It utilized the flowing water as an aetherial current, thereby promoting the transfer of life energies."
+    },
+    {
+      "character": "Koana",
+      "text_en": "A method I could not have devised without the education I received at the Studium and the cooperation of my Archon allies."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Archon allies...?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "You see, Lamaty'i? This is why we need to embrace foreign knowledge and technology."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Employed appropriately, they make light work of what would otherwise be arduous labor. There's no need to lug around heavy floats!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, you always were the clever one, Brother."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Your approach was no less effective, Wuk Lamat. It achieved the same result."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Indeed it did. And you enjoyed the festival, yes?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I did! It was so much fun!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Having visited your village before, I thought I knew everything about it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As it turns out, I knew very little. About the reeds, about Ihih'hana..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With all I've learned this time, I feel as though I've really come to know the Hanu..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And I like you even more now than I did before!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "The feeling is mutual. And it's not just you who had a lot to learn, either─I'll never look at our float the same way again!"
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "The two of you have exceeded expectations. Come forth and claim your stones."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So this is what they look like..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Go on, set it in the tablet!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A perfect fit! That leaves six more."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Five more to go!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "And on to the next."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not even a moment of celebration... That's Koana for you."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Third Promise, you must join us for Ihih'hana next season."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "As Dawnservant, of course!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, it's back to Tuliyollal for now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you for having us. I look forward to seeing you all again!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "These are interesting times, indeed."
+    },
+    {
+      "character": "Doppro Illusionist",
+      "text_en": "The concoction was brewed by Koana himself. It's a test vial, but it should contain the same reagents."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Good work. We'll use whatever we must to win. For win we must."
+    },
+    {
+      "character": "Krile",
+      "text_en": "While Koana seems a decent sort, he strikes me as a man who likes to keep others at a distance."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Two-headed troubles aside, Wuk Lamat completed the feat and earned a keystone. That's all that matters."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That makes two out of seven keystones... So far, so good."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I'm curious as to who these Archons the Second Promise mentioned could possibly be..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Where has Bakool Ja Ja gone, I wonder? And what did his follower mean by their “other” prospect...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "My journey has just started and already I've met so many wonderful people."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wuk Evu, for one. He's a bit eccentric, but everyone could stand to be as respectful of other cultures as he is."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And Linuhanu─it warmed my heart to see him honor his departed friend through Ihih'hana, and to help others do the same."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't help but feel excited thinking who else I might meet over the course of the contest. Come on, let's head back to Xbalyav Ty'e!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Hanu's festival must be as central to their traditions as the sundrop dance is to the Vanu."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I pray we don't cross paths with Bakool Ja Ja at the next feat..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I noticed Zoraal Ja was not at the Hanu village..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "When Wuk Lamat declared her intention to save the festival, I feared where it would lead us. I'm glad to see my concerns were unfounded."
+    },
+    {
+      "character": "Approachable Pelu",
+      "text_en": "Ooh, my belly... Long has it been since I've feasted so well."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Hanu's festival must be as central to their traditions as the sundrop dance is to the Vanu."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I have not forgotten our obligations to Wuk Lamat, but it's moments like these─when we can immerse ourselves in the cultures of others─that fill me with anticipation for the new experiences this adventure will bring us."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I pray we don't cross paths with Bakool Ja Ja at the next feat..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But even if we do, we've made a good start on these challenges. Hopefully we can keep it up."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I noticed Zoraal Ja was not at the Hanu village..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yet in a contest like this one, 'tis only a matter of time until the claimants are pitted against each other in direct competition."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "When Wuk Lamat declared her intention to save the festival, I feared where it would lead us. I'm glad to see my concerns were unfounded."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Traveling with so large and diverse a group is...unfamiliar to me. If she could see me now..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And just like that, we found an elector and won our first keystone. I knew I was right to trust your instincts!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on! Let's keep things moving, and march onwards to Urqopacha!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Chances are good we'll find an elector there as well. Before we do anything, however, we should see what your opportunistic Pelu friend has to say."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look at us!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The contest has barely begun and we already have two keystones! Surely even my talented brothers aren't doing this well!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We can only hope."
+    }
+  ]
+}

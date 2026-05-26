@@ -1,0 +1,660 @@
+{
+  "id": "embracing-oblivion",
+  "wiki_path": "/wiki/Embracing_Oblivion",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/8/8b/Embracing_Oblivion.png",
+  "patch": "7.0",
+  "title_en": "Embracing Oblivion",
+  "level": "97",
+  "location": "Heritage Found(X:30.5,Y:12.0)",
+  "npc_start": "Cahciua",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Having seen the beauty of the aetherial sea firsthand, I simply can't accept what they've done here in Alexandria."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I understand this is part of their culture, but it is no less disconcerting."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "When Emet-Selch spoke of surprising civilizations in other reflections, I wonder if he had Alexandria in mind."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Sphene looks to be of an age with Alisaie and Wuk Lamat, but now I wonder if these regulators have anything to do with that."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Regulators give Zoraal Ja a frightful advantage, and that's just one of the devices he's gotten his hands on..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If we're to have a chance at defeating him, we have to learn all we can about the technology he has at his disposal."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I trust you've gained an insight into the use of souls in Alexandria?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It's shocking, I know—I was overwhelmed myself at first. I expect you'll need some time to digest it all, but for now, let's head back to Earthen Sky."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "At this rate..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's something I want to discuss with everyone. Let's take a moment before we head into the tunnel."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I understand the argument that we should keep an open mind, if this practice is integral to their culture. But every fiber of my being rails against it..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What does Lamaty'i wish to discuss, I wonder..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "'Tis well that we could see firsthand how regulators are used. To draw upon even the souls of fiends... I shudder to imagine how powerful Zoraal Ja could become."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "To think that everyone has lived here for thirty years. Long enough to become accustomed to the way of life..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sorry for delaying us, but I have some thoughts I need to share."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In both technology...and values...it's plain there's a wide gulf between Tuliyollal and Alexandria."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And while Zoraal Ja knows everything about us, we know hardly anything about what he's become."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Indeed... We haven't even seen what lies within that enormous tower, Everkeep."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So here I'd like to make a proposal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That is, we work with Cahciua and her people."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We need to learn as much as we can about the enemy. The quickest way would be to join hands with Oblivion."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've only just met them, I know, and we shouldn't be too quick to trust. But the fact remains that they share our desire to stop Zoraal Ja."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Sphene, too, claims to be at odds with the King of Resolve. May I ask why you would cooperate with Oblivion instead?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's simple, really. Their leader is Erenville's mother."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Meanwhile, whatever Sphene may feel, she's a ruler of this nation. There's a greater risk in working with her, and less reason to take her at her word."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A fair point. And knowing Zoraal Ja, we must assume that his arrangement with Sphene was not made without some consideration."
+    },
+    {
+      "character": "Krile",
+      "text_en": "All I know is that it would be heartening to have allies in this strange realm."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I think everyone would agree that any help we can get would be welcome."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Hold on. There's no guarantee that it's actually my mother behind the machine."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Without seeing her in the flesh, we can't rule out the possibility of a ploy."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If it turns out to be a trap, we endanger not only ourselves, but everyone in Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As you say, we have no proof that it really is Cahciua."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But I make my proposal in full awareness of this."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whether we're going to war or striving for peace, we need to learn as much as we can. Otherwise we can't hope to do anything meaningful."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As it stands, we know too little about this realm. We need to remedy that. We need to study the enemy, and when the time comes, strike down Zoraal Ja for good and all."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's more..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I trust you , Erenville. You've always had great instincts, honed from your time training under your mother."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What if I'm wrong? What if sentiment is clouding my judgment?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "<sigh> That's always the way of it with you..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Fine. If you're set on this, then I'll say no more."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then it's settled. Let's head inside and secure ourselves some new allies!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "You understand how regulators work now, I trust? It's one of those things that's best seen in action."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "The wildlife can be very dangerous out there. You need to take care if you don't wear a regulator."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "O-Oh, hello again..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "While I'm all for dealing with Zoraal Ja, we need to consider how our actions may affect ordinary Alexandrians. They're not the enemy, after all."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I agree with Wuk Lamat. It's a gamble regardless of whether or not we choose to work with the people here, and more knowledge is better than less."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The Vow of Resolve is possessed of conviction and flexibility both. If the tales are true, she learned much in the course of the rite of succession."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm unaccustomed to seeing her make decisions like a ruler. Better that than her former vacillating self, though."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With the resources at their disposal, I'm hopeful that Cahciua and her people will make great allies!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Cahciua, there's something I need to tell you and your people."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We came here for no other reason than to strike down Zoraal Ja."
+    },
+    {
+      "character": "Geode",
+      "text_en": "But...I thought he was your brother."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Do you really mean to kill your own kin?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "My kin invaded our nation and murdered our people. As Vow of Resolve, it falls to me to bring him to account."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I am prepared to do what I must, and I won't hesitate when the time comes."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Like us, you and yours oppose Zoraal Ja. In light of this, I propose that we work together to stop him once and for all."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I realize that this is sudden. That it's a gamble to trust someone you've only just met."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But I would trust in the conviction of anyone who shares my goal. So fight with me, I beg you!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As you say, our goals align. And I don't doubt your resolve in the least."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If you hadn't proposed working together, I would've done so instead."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Truth be told, it's been tough going at it alone. While we've gathered ample intelligence, we don't have the strength to take decisive action."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Besides, how could we not trust you?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "My only son is with you—my fussy little bunbun. He's all the reason I need."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Then it's decided. Here's to a fruitful collaboration!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, Cahciua, everyone! Together we'll achieve great things, I'm sure of it!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then let's not waste any time. We've been wondering about Zoraal Ja's whereabouts. Is there a palace inside that tower?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "After a fashion. The king resides on the uppermost level. But while Queen Sphene has a penchant for going out in public, he seldom shows himself."
+    },
+    {
+      "character": "Geode",
+      "text_en": "What's more, his movements are highly classified. Not even his commanders are privy to that information. If anyone knows where he is at any given time, it could only be the queen."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Even if we don't know his whereabouts, Zoraal Ja will eventually march on Tuliyollal again. That's when we can go after him."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The drawback is we'd have to wait for the invasion to happen. Innocents would be put in harm's way."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "There's also the possibility that he'll leave everything to his minions and not command the army in person."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No. He'll take the field."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "What makes you so certain?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "My brother has always yearned to surpass our father. That's why he attacked Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "After waiting for thirty years, the first thing he wanted to do was demonstrate his newfound strength."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But killing Papa didn't satisfy him. So now he's bent on proving himself stronger than me and Koana, who bested him in the rite of succession."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He challenged me to strike him down. He wants a duel to show everyone that he's superior to the Dawnservant, and he won't let his minions deprive him of the pleasure."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then why hasn't he appeared and given you your chance? Surely, he's aware of our presence here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "At that, I can only guess. Perhaps he wants to dazzle us with his wondrous realm. But if he won't deign to appear, then we'll force him to do so."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even as we gather intelligence, we make no move to attack him. Show absolutely no interest in a confrontation."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Knowing him, he'll tire of waiting and turn his attention to Koana instead. He'll attack Tuliyollal again, like he said he would."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I see... If you believe this the best approach, then we have no objections."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Any campaign against Tuliyollal requires that Zoraal Ja lead his forces through Vanguard. We'll have lookouts keep an eye on it day and night."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Such a strategy is certainly viable... If we're proceeding with it, though, we should warn those outside."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Indeed. They'll need time to prepare their defenses."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I should be glad to coordinate our efforts. I'm already in regular contact with Y'shtola, and will make sure to keep our comrades apprised of developments."
+    },
+    {
+      "character": "Geode",
+      "text_en": "You can leave Vanguard to us. We'll send word at the first sign of movement."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It seems we have a plan."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "While we wait for Zoraal Ja to move, you'd do well to prepare for battle, and it begins with familiarizing yourselves with the technology that empowers him."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "To that end, I'll show you to Oblivion's main headquarters."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh? I thought this place was it."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "<chuckle> You'll be impressed to know that we're located right inside that tower, in the residential district of Solution Nine."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Hiding a tree in the forest, as it were."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The only question is how to get you through the checkpoint..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, about that. Sphene said that she'd make it so we could enter without issue."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "She did? Curious. She's not supposed to have such authority over the sentries."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If I recall correctly, her words were that she would register us as guests."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I see. Perhaps we're in the clear, then."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "When you're ready, come and meet me at the tower entrance."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Before you head out, give us a moment to introduce ourselves properly, eh?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "After all, names are good to know when working together."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Between making new friends and entering the tower, I can't help but feel a little excited."
+    },
+    {
+      "character": "Krile",
+      "text_en": "(Is it just me or are Erenville and Cahciua complete opposites in personality?)"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The intelligence that Cahciua and her people possess will be very useful to our efforts."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...It's eerie hearing my mother's voice come from that peculiar machine."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If this isn't their main headquarters, I can't imagine what the actual place is like..."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "If Cahciua trusts you, then so do we!"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Um... N-Nice to meet you..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "While Oblivion has operatives all over, we're the main crew here."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I'm Geode, the leader of this hideout."
+    },
+    {
+      "character": "Geode",
+      "text_en": "And the dependable young twins behind me are Nostalgia and Wayakkwe."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "I'm Nostalgia! It's a pleasure to meet you."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "My sister and I were born and raised inside the barrier."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "We've been with Oblivion for three years, and our main duties are surveillance and provisioning."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Twins, eh? That explains the resemblance. Wayakkwe is a Tonawawtan name, unless I'm mistaken?"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "That's right. Our mother is Tuliyollan and our father is Alexandrian. They wanted to honor both cultures."
+    },
+    {
+      "character": "Krile",
+      "text_en": "They're beautiful names."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Th-Thank you. Though I have no memories of my mother, I like to think I carry a part of her with me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, what made you decide to join Oblivion?"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "We wanted to avenge our father."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Ambrose was his name, and years ago, he was taken away after a scuffle with a soldier over a disagreement."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "It was a minor incident, so at first we clung to the hope that he'd be released. But when months went by with no word from or about him, we made the decision to remove our regulators."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "We had already lost the memories of our mother. We didn't want to lose those of our father as well."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "They've all forgotten about him now—everyone who had known him..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That bastard... Even here, he thinks nothing of his own people!"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Some time later, we were approached by a member of Oblivion. Hoping to get justice for our father, we joined the order."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "I'm sorry, I didn't mean to darken the mood..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, no, I appreciate you sharing this. Together, we'll avenge your father."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Thank you. Something tells me you have what it takes."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "You introduce yourself too. Go on!"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Um... It's pretty much the same story for me."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "And while mine is a Tonawawtan name, I haven't the faintest how things are outside the barrier."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "It's my dream to go and see it with my own eyes. Our mother's homeland."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Once peace is restored, you must come and visit. The wilds are beautiful, the food delicious, and everyone so nice. You'll love it!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "And that's us here. You'll meet others in the Backroom—that's our headquarters. Some of them are a little eccentric, but they have good hearts, all."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Ah, Elene'shpya. One last thing."
+    },
+    {
+      "character": "Geode",
+      "text_en": "It isn't exactly my place to say this, but thank you for seeking out Cahciua. She talks about you so much, it's clear how important you are to her."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "That's all. Be good to your mother while you still can, eh?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Well, we'll let you go now. Feel free to use this hideout as you like."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You've been consorting with Wuk Lamat."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "No matter. I do not know what you are scheming..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "But when your realm lay on the brink, you were powerless. You had no choice but to turn to me."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Whatever sentiment you may feel for her, it is my power you require. Is it not?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Perhaps... And yet, knowing the love that Wuk Lamat bears for her people—how she regards them all as kin..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I cannot help but wish to spare her the same pain I have suffered."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What's more, her friends possess new knowledge. Were we to work together, we might find another path."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I know you're loath to consider it, but...is there no hope for peace with Tuliyollal?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What we've already done may be unforgivable, but it needn't continue. You needn't kill your brother and sister."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Hmph. I slew my only flesh and blood. Yet you attempt to sway me with an appeal to family?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "The memory of my father's final moments still fills me with disappointment. Age came for him before I did."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "For long years I sought to prove the miracle. And weak as he was, defeating him achieved nothing."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "To kill them is my only recourse..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Wuk Lamat and Koana, who bested him as he was in his prime!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "They are still your siblings, even if not by blood. That such bonds should mean so little to you..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I am bound to no one—serve none save myself. I made that clear when first you spoke to me in the golden city."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Remember: I can easily kill your beloved “family.” If you would protect them, cast aside any foolish notions."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Your wisdom and abilities are valuable insofar as our goals align. So think well before you act, Queen of Reason."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "[GRITTED-TEETH GRUNT]"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Wuk Lamat. If you are Father's worthy successor, then you will find your way to me."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "But should you fall short, I will lay waste to Tuliyollal."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What now...?"
+    }
+  ]
+}

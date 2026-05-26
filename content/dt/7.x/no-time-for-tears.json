@@ -1,0 +1,572 @@
+{
+  "id": "no-time-for-tears",
+  "wiki_path": "/wiki/No_Time_for_Tears",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/2/2c/No_Time_for_Tears.png",
+  "patch": "7.0",
+  "title_en": "No Time for Tears",
+  "level": "96",
+  "location": "Sunperch(X:5.7,Y:4.7)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Ketenramm",
+      "text_en": "Twelve have mercy..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We did everything we could. Everything... But it simply wasn't enough..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can scarcely believe my eyes..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "How could this happen?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Father, no! This cannot be!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Sunperch Guard",
+      "text_en": "Will you be returning to Sunperch?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How... How could this happen?"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Enough... I am beyond saving..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Father, please! You can't give up!"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Are you there...old friend...?"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "I'm right here. I'm right here."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Look after...my children..."
+    },
+    {
+      "character": "Ketenramm (no text)",
+      "text_en": "What?"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "I'm an old fossil like you. I've only got so many years left."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "But if that's what you want, it would be an honor."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "You and I...must go on another journey together someday..."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Aye, ye can count on it."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Wuk Lamat... Koana..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, Papa."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "The graves of the Yok Huy... You saw them, yes? I always found their teachings comforting..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Please, Father, you must save your strength."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Our flesh may wither and die. But so long as we are remembered, we are never truly gone."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Through you, my hopes survive... Through you, I live on..."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "So do not mourn me. Walk tall...and see our nation to a brighter future."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa! Papa!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa!!!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What can we do now...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Gulool Ja Ja was so proud to be succeeded by his children. To think that he will never get to see them carry on his legacy..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "At a time like this, we must take the initiative. There will be countless people in need of help."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I don't understand..."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "If only I'd been more careful..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "We must see to the people... Assess casualties, as well as any damage done to the city. Yes..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "R-Right. So, uh... I..."
+    },
+    {
+      "character": "Landsguard Soldier",
+      "text_en": "Vow Wuk Lamat. Vow Koana. I bring word from the city. The enemy has withdrawn, and the Landsguard have begun rendering aid to the people."
+    },
+    {
+      "character": "Landsguard Soldier",
+      "text_en": "Casualties within our ranks have hindered progress, but we continue to do all that we can."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I thank you for the report. Please inform the guard they are to prioritize such efforts until further notice."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The people... I need to help them."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We will assist you in whatever way we can, of course."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, thank you. There are sure to be wounded everywhere─more than I could count."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll split up and help all of them. You can count on us!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alphinaud and Alisaie, could you take Bayside Bevy? And Krile and Erenville, the palace perimeter."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As for Forename , please come to the Resplendent Quarter with me. We'll all meet back here afterwards."
+    },
+    {
+      "character": "Koana",
+      "text_en": "We will close off Sunperch for now. We need to ascertain the full extent of the situation."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Don't you worry about Koana. I'll keep an eye on the lad."
+    },
+    {
+      "character": "Landsguard Gatekeeper",
+      "text_en": "How could Zoraal Ja commit so heinous an act!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If you're still in pain, there's no need to push yourself."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You should be all right now."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I'm afraid we were too late to save him..."
+    },
+    {
+      "character": "Tiisol Ja",
+      "text_en": "Someone tell those enemy soldiers to throw down their weapons and grab a taco instead. There's no conflict that can't be resolved over a good meal!"
+    },
+    {
+      "character": "Rral Br'aax",
+      "text_en": "I'm not entirely sure I understand what just happened, but seeing as I made it through unscathed, I'm going to keep doing what needs to be done."
+    },
+    {
+      "character": "Diinal Ja",
+      "text_en": "I'm glad some of the crates survived the attack. We haven't lost everything... We can still recover."
+    },
+    {
+      "character": "Cullaal Ja",
+      "text_en": "Even in times of war, the Wing of Reflection has a role to play. Our most pressing job is ensuring the Vow of Resolve can concentrate on the fight ahead."
+    },
+    {
+      "character": "Ty'at Br'aax",
+      "text_en": "In response to the attack, we have stepped up patrols and bolstered security. You and your compatriots, however, will always be welcome in the palace."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So Bakool Ja Ja protected you... That's wonderful."
+    },
+    {
+      "character": "Tonakwe",
+      "text_en": "This isn't how I'd hoped to celebrate the crowning of our new Dawnservants. Hopefully it's resolved quickly..."
+    },
+    {
+      "character": "Beqoll Ja",
+      "text_en": "Those...machines that attacked us─where did they come from? Is this city even safe anymore?"
+    },
+    {
+      "character": "Xax Tei",
+      "text_en": "The founding of our great nation was supposed to put an end to the war and bloodshed! We don't know how to fight─we weren't trained for this!"
+    },
+    {
+      "character": "Peshekwa",
+      "text_en": "Welcome back, sir. Will you be making use of your cabin? We have been fortunate to escape any serious damage from the invasion..."
+    },
+    {
+      "character": "Hunmu Hoh",
+      "text_en": "We've scarcely had time to welcome our new rulers, and now this? Can't we have a day of peace in this damned country?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Where are you hurt?"
+    },
+    {
+      "character": "Linuhali",
+      "text_en": "Why has it gotten so quiet out there? I'm not sure I want to find out... No, I think what I need right now is a warm, soothing bath..."
+    },
+    {
+      "character": "Weeping Citizen",
+      "text_en": "Why did this happen...?"
+    },
+    {
+      "character": "Dirigible Attendant",
+      "text_en": "No matter what's floating up there, we'll get you to Yak T'el safely."
+    },
+    {
+      "character": "Huvool Ja",
+      "text_en": "Looks like we'll have to replace the whole pillar. It was only a glancing blow, but the force of the explosion must have bent the damn thing..."
+    },
+    {
+      "character": "Frightened Merchant",
+      "text_en": "I'm sorry I raised my voice. It's just...I don't know what to do..."
+    },
+    {
+      "character": "Geemil Ja",
+      "text_en": "I've gathered up all the unbroken crates I could find. Some are a little burnt around the edges, but hopefully their contents are all right."
+    },
+    {
+      "character": "Dazed Citizen",
+      "text_en": "Th-Thanks... I think I'm alright..."
+    },
+    {
+      "character": "Dazed Citizen",
+      "text_en": "Did you see them? Those soldiers?"
+    },
+    {
+      "character": "Dazed Citizen",
+      "text_en": "They looked like people, but they killed and killed with no hesitation..."
+    },
+    {
+      "character": "Dazed Citizen",
+      "text_en": "If they attack us again, how can we hope to defend ourselves...?"
+    },
+    {
+      "character": "Weeping Citizen",
+      "text_en": "<sniffle> Thank you, sir / miss ."
+    },
+    {
+      "character": "Weeping Citizen",
+      "text_en": "B-But my husband and son... They were...they were... <sob>"
+    },
+    {
+      "character": "Angered Soldier",
+      "text_en": "My thanks. I'll be fine now."
+    },
+    {
+      "character": "Angered Soldier",
+      "text_en": "But we failed to protect the people..."
+    },
+    {
+      "character": "Angered Soldier",
+      "text_en": "Why did so many have to die? Where were Vow Wuk Lamat and Vow Koana!?"
+    },
+    {
+      "character": "Angered Soldier",
+      "text_en": "Ugh, they're not to blame. I understand, I do, but... <sigh> I need to clear my head..."
+    },
+    {
+      "character": "Befuddled Citizen",
+      "text_en": "Thank you... I thought I was done for..."
+    },
+    {
+      "character": "Befuddled Citizen",
+      "text_en": "I heard something disturbing. The enemy leader─they say he looked like Zoraal Ja."
+    },
+    {
+      "character": "Befuddled Citizen",
+      "text_en": "But that can't be true, can it? Why would the First Promise attack his own people?"
+    },
+    {
+      "character": "Befuddled Citizen",
+      "text_en": "But if it was him, what happens now? Is he going to come back? What do we do if he does?"
+    },
+    {
+      "character": "Frightened Merchant",
+      "text_en": "Th-Thank you, the pain is better now. But I can't stop shaking..."
+    },
+    {
+      "character": "Frightened Merchant",
+      "text_en": "Where did they come from? Why did they attack us? And why are those things still in the sky?"
+    },
+    {
+      "character": "Frightened Merchant",
+      "text_en": "We had peace under Gulool Ja Ja! We were safe! But now..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You've finished aiding the people here?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There were children among the wounded. Children ."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...No, now isn't the time. There are still others who need help."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Could you go and see how things are at Talonmarch? And afterwards, go and find Alisaie at Bayside Bevy."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The people are shaken. We must do what we can to help them, and quickly."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It breaks my heart to see what's become of Tuliyollal. I can't begin to imagine how the people are feeling."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I've helped all those I could find, and seen them delivered into the Landsguard's care."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As many casualties as there are, it would've been worse if the Landsguard hadn't fought as bravely as they did."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And if Zoraal Ja actually meant to harm the people..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I mean, look around. The buildings are hardly damaged."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I suspect his aim was more to incite fear. To show that he could strike whenever he pleases."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...But we can discuss that later. How is Lamaty'i?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Even after what happened to her father, she's trying so hard to fulfill her duty to the people..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Still, everyone has their limits. She needs rest, and soon."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Someone mentioned seeing her head towards the shore. Perhaps she's gone to the Gornitruq Gleamsands."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Steady, now!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've brought you medicine. Drink!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There you are, Lamaty'i! I was beginning to─"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on. Come on, take it. Please!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Lamaty'i..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Lamaty'i!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How...? How could I...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Look at me, Lamaty'i."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You need rest, you and him / her both. I will tend to this soul."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But my people... I have to help them..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The Landsguard have matters well in hand. Trust in them."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If there's another attack, your people will need you to protect them. They'll need you to be sharp."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So please, rest. Consider it your duty."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I stood before them all... Said that we'd build a nation where everyone knows happiness..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So much for that promise!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What good is a Vow of Resolve who cannot save her people!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You'll stick with me?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're right. This isn't the time for sulking."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you. My head's a little clearer now. I need to concentrate on what I can do rather than what I can't."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've dealt with unfriendly factions before. From Yok Huy still longing for conquest to adherents of blessed siblings─people who were unwilling to listen."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even so, I believed that by learning about one another and engaging in good faith, we could peacefully settle our differences. And we did."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But my brother is different. There'll be no reasoning with him. He killed our people─our father. He'll stop at nothing to achieve his goal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's more, he has power. The power to destroy the peace we've worked so hard to preserve."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If I'm to protect that peace, then I must fight..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I must confront Zoraal Ja─and kill him!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm fine. Just needed a moment to settle my nerves."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you for being there for me, and for urging me on despite all my sulking."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sitting around complaining isn't very leader-like, is it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So much has happened so quickly. I struggle to make sense of it all."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The strange soldiers, those floating ships, the new power Zoraal Ja commands..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Given everything he's done, and still intends to do, I know I can't afford to run headlong into battle. Not this time."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I cannot let this terrible pain in my heart lead me astray. But I will make it my strength─the strength to do what I must."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, I'm heading back to the palace. I need to talk strategy with Koana."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Could you and the others join us in a while? However we decide to proceed, I want you all to be aware of it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, and...could you tell Alisaie I'll be all right? She's probably at Bayside Bevy."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Oh, you're back. By that, I take it to mean Lamaty'i is feeling better."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "She needs to be strong for the people of Tural, I understand that. But she doesn't have to do it alone."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So if she intends to fight, then we fight. Together."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That said..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I wish I knew exactly what we were up against."
+    }
+  ]
+}

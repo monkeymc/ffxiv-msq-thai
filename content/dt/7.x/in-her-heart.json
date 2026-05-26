@@ -1,0 +1,256 @@
+{
+  "id": "in-her-heart",
+  "wiki_path": "/wiki/In_Her_Heart",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.4",
+  "title_en": "In Her Heart",
+  "level": "100",
+  "location": "Treno(X:10.9,Y:10.1)",
+  "npc_start": "Eyaney",
+  "dialogues": [
+    {
+      "character": "Eyaney",
+      "text_en": "Krile is taking a while... Being new to the city, if something were to happen, she wouldn't know where to go for help."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Would you check on her? She started off in the direction of town hall."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Thankfully, I can confirm she's in no immediate danger─I got the detector running again just now, and it hasn't picked up any new signals."
+    },
+    {
+      "character": "Affable Local",
+      "text_en": "You're looking a mite lost there, lad / lass . Aught I can help with?"
+    },
+    {
+      "character": "Affable Local",
+      "text_en": "A Milalla? Seen quite a few of them today, heh. But if she's a friend of yours..."
+    },
+    {
+      "character": "Affable Local",
+      "text_en": "I presume you mean Krile. Had a grand old chat with her earlier."
+    },
+    {
+      "character": "Affable Local",
+      "text_en": "Not to mention she saved my hide! Can't believe I missed that lightning sprite till it was right on top of me..."
+    },
+    {
+      "character": "Affable Local",
+      "text_en": "It's thanks to her that I got out unscathed."
+    },
+    {
+      "character": "Affable Local",
+      "text_en": "Bit awkward, striking up a conversation after that. And it'd been a while since I talked to anyone I haven't known my whole life..."
+    },
+    {
+      "character": "Affable Local",
+      "text_en": "She's a kind lass. Good at putting folks at ease, like Miayli. I quite enjoyed telling her about the city."
+    },
+    {
+      "character": "Affable Local",
+      "text_en": "When we were done chatting, she went off towards the canal. Had a touch of melancholy about her, though, and I wasn't sure why..."
+    },
+    {
+      "character": "Affable Local",
+      "text_en": "Didn't think it was something I said, but I knew that if it was, saying more wouldn't help. So I let her go."
+    },
+    {
+      "character": "Affable Local",
+      "text_en": "I reckon she'd welcome the company of a good friend right now."
+    },
+    {
+      "character": "Affable Local",
+      "text_en": "Good place for pondering, that canal. Maybe that's why she went that way."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ah, were you looking for me?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I only intended to sit down for a moment, but I must have lost track of time..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Will you lend me your ear?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The Source and the Ninth..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Someday, I will have to decide which one to call home."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The thought has lingered like a storm cloud in my mind..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've tried to ignore it. Remind myself that we have more important matters to contend with. But I cannot keep drifting between these worlds forever."
+    },
+    {
+      "character": "Krile",
+      "text_en": "When I first learned the truth of my past, I assumed it would have no bearing on my future. The Source was my home, and the Students of Baldesion my purpose."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But after meeting my parents..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It struck me that to simply choose the Source would be to abandon them. And not only them, but a home I could have loved, had my life gone as it should have..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That is why I had to learn more of this place─and the “me” I could have been."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I feel even less certain than before."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But the more I learn, the less certain I become."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Though we are strangers to them, these people have welcomed us as if we are their own. It's like speaking with old friends."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And knowing now the challenges they face, what would it say about me if I just left them behind and returned to the Source?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that who I am─who I was meant to be? Or is this where I belong...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you for listening. I'm a little less afraid to face the answer now, whatever it may be."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And when I find it, I hope you'll be there."
+    },
+    {
+      "character": "Krile",
+      "text_en": "...But we've kept Eyaney waiting long enough. Let's hurry back."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Trifling though it was, I feel that the work we've done has helped me gain a better understanding of Treno. The countless small actions taken by myriad people every day are what make a place what it is, after all."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I'm glad you're both back safe and sound!"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Now we can relax until my brother does the same. With your friend escorting him, he can't get himself into too much trouble...unless he tumbles down the stairs into town again, I suppose."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That reminds me─the structures near the barrier all seem to be designed for Milalla. Is there a reason that those in the center of the city are so much larger?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Oh, yes! The center is the oldest part of Treno, built by the Hyune and the Eldite before the Milalla came."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So Treno predates the Milalla's arrival?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "The mayor at the time was kind enough to take our ancestors in, and gave them leave to establish their own residential quarter."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yet I have seen naught but Milalla since we came to the city. Where did the other peoples go?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Alexandria. In the closing days of the Storm Surge, when death and destruction were everywhere, they believed it would be safer. Treno didn't have a barrier at first, you see."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "But one of our industrious brethren had served as tutor in the royal household, and returned to us with knowledge of the barrier's design. It's thanks to him that the city survives to this day."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Might I ask a more personal question?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We previously uncovered some records pertaining to the Milalla's past."
+    },
+    {
+      "character": "Krile",
+      "text_en": "In them, it was written that the Milalla left their “paradise of eternal summer” when “a great calamity froze their isles.”"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Understandably, all were not content to leave their homeland behind."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Some attempted to return using the same power that had brought them here, but they found the way closed to them."
+    },
+    {
+      "character": "Krile",
+      "text_en": "“Never again has the golden path opened that allowed their ancestors to flee to safety.”"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Tell me─were that golden path to open once more, and you were to find the Milalla homeland restored to its former glory..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "...Would you go back?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I'd certainly like to see that “paradise of eternal summer” for myself! Who wouldn't?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "But it wouldn't be “going back.” After all, my one and only home is here."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Treno! This run-down, beat-up, beautiful city."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You truly love it, don't you?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Do you know what the Speaker said, when the Milalla came to this place?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "O life, flourish on this faraway shore, Unfurl your fragile petals with fearless joy. Let this sky grant shelter from darkest storm, And here bloom, hand in hand, forevermore."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "We never forgot those words. Not my ancestors, nor my grandmother, nor my brother and me."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "That boundless optimism, that communal spirit─that is Treno. No matter what comes or how hard it gets, we'll choose joy over fear and stand together. There's nowhere else I'd rather be."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Nowhere else you'd rather be... Perhaps it really is as simple as listening to your heart."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Grandmother used to tell us stories of the Milalla homeland all the time, but it was the part where the ocean froze over that always fascinated me most. The vast, open sea, turned to ice? Imagine!"
+    }
+  ]
+}

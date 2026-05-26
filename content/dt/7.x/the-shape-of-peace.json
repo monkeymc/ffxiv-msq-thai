@@ -1,0 +1,616 @@
+{
+  "id": "the-shape-of-peace",
+  "wiki_path": "/wiki/The_Shape_of_Peace",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Shape of Peace",
+  "level": "92",
+  "location": "Tuliyollal(X:9.9,Y:4.4)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I still haven't had one bite of Namikka's food thanks to Papa's nonsense, so I'm going back to finish my plate before I head out."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've otherwise asked everyone to meet at the For'ard Cabins. Come and join us after you've had a moment to recover, eh?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Dammit, Papa..."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Sorry to keep everyone waiting."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is that it? You're all set to go?"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I left Eorzea prepared to travel in search of work, so I had few belongings to begin with. Bidding farewell to my fellow artisans took rather a lot of time, however."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Again, I appreciate you making this commitment, Fonjeantaine."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Shall we depart for Earthenshire, then?"
+    },
+    {
+      "character": "???",
+      "text_en": "A word before you go."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wuk Evu, what are you doing here?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Ahhh! I spend my days correcting manners, and here I am perpetrating the grave offense of delaying the Third Promise's departure!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Please, take up your axe and rend my flesh unto taco meat!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Must your demands be so gruesome!? Besides, I told you that kind of thing doesn't bother me!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "All right, then. I won't let it bother me either."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What was that all about...?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I'd come to the city to purchase supplies when I spotted your entourage getting ready to leave. You seek the city of gold, if I'm not mistaken?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's right─it's the final step of the rite of succession. If you know anything about the subject, I'd love to hear it."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Then allow me to be of service. As you know, legends of the golden city have been passed down in Tural for a thousand years."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Yet when it comes to describing the place itself, the stories do not always agree. Some portray it as one might expect: a glittering metropolis of golden towers. Others suggest it is more unassuming and owes the name to a fabulous treasure hidden at its heart."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Every telling, however, has a common thread: those who go in search of the golden city do not return."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "The lesson to be learned from this, Third Promise, is that to seek the legend is to court death. I must implore you to proceed with the utmost care."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "That is all I wished to say. I shall pray for your safe journey."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, Wuk Evu."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What are we to make of these cautionary tales? If every expedition has ended in tragedy, how then did the Dawnservant find the city and return without incident?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It seems the legend originated with the Yok Huy. Speaking with them remains our strongest lead, I feel."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A lead we shall follow in time. But first, let us see Fonjeantaine safely into the Moblins' care."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Finding a willing artisan was even easier than expected."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Many indeed are eager to curry favor with the Resilient Son─especially if it means sharing the promise of new territories."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Those who prove useful will have all the land they desire."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Such generous words, yet the manner in which he speaks them..."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "If neither wealth nor territory are of value, wherefore does he seek to bring the world to heel...?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Step aside."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Remind me... There was no rule against poaching craftsmen from other claimants, was there?"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Do not be foolish, Bakool Ja Ja!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Hah! Foolish would be carrying on with these dull feats when all I need to win are the keystones!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "And besides... It's long past time I humbled this arrogant one-head."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "The Dawnservant may have sired you against all odds, but there is nothing blessed about your birth!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Only a two-head is fit to rule. Only we are worthy!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Draw your weapon! Face me in battle and learn your place!"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "A moment, First Promise."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Leave him alive, if you would. I foresee a use for this...nuisance."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Too scared to make the first move?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Then allow me!"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[PAINFULLY STRUCK REACTION - “Gah!”]"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[PAINFULLY STRUCK REACTION - “Ugh!”]"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "But he... He's just a runt..."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "My thanks for your restraint."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I can kill him whenever I please."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Your part in this is far from over."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're back, and we've brought with us a willing potsworn. This is Fonjeantaine, a talented goldsmith who once worked at Eshtaime's Aesthetics in Ul'dah."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Wonderful! Impressive! You are first to return, Third Promise!"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "And with an artisan from across the salt, no less! We welcome you and your unique skills to Earthenshire. Helphand will show you to the Workpot."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "This is it, then. I look forward to hearing you proclaimed Dawnservant!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, Fonjeantaine. I'll be sure not to disappoint you."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "You have reachmet the requirements of the Feat of Pots. Rediroq presents your keystone with joysmiles and wellwishing!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That makes three..."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Pfff... Pfffkohhh... More potsworn candidates!? Come, come, tell Rediroq your tales!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Another feat accomplished, another keystone acquired."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Ohohoho, you are doing well. I expected nothing less of Zoraal Ja's esteemed siblings."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Your cleverness in particular is most admirable, Second Promise. We must have you apply that Sharlayan knowledge you so cherish, and arm Tural with weapons of magitek design."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "...In your role as the new Dawnservant's chief advisor, of course."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The tools of war hold no interest for me. I wish only to improve our nation through practical innovations."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Foreign powers will think twice about testing our strength once Tuliyollal is known for its advanced technology."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Just as the Garlean Empire was deterred from invading Sharlayan."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "That may well be true... But how long will it take Tuliyollal to progress to this advanced state? How many years?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "With a collective commitment to education and hard work, it should not take so very─"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Your way is too slow."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Easier to expand our territory...and swallow Sharlayan whole."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Conquer other nations through force of arms, and you're looking at a future of uprisings and bloodshed. Yours wouldn't be the first failed empire."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Then we keep fighting, until the mounting costs convince them to lay down their weapons. Until all have grown tired of loss."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How would such an outcome bring anyone joy!? What you propose is a mockery of peace!"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Pfff... Pfffkohhh... Rediroq is reminded of days long ago."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "In the time before Tuliyollal, there were no potpacts for the potsworn. It was normal to grabsnatch artisans, and force them to work for Mobbies."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Until the day Gulool Ja Ja arrived. The families of the grabsnatched pleaded with him, and so he came to Earthenshire."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Mobbies are not a warmake people. We feared death had come for us, but Gulool Ja Ja just wanted to talk!"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Be at ease. We are here to trade words, not blows."
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "The goldwork crafted in this village is superb. One can tell at a glance the quality of materials used; the mastery of technique employed."
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Yet it does not stir the heart. A goblet shaped by bound hands and broken spirit is devoid of luster."
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Compare that now to the works of a joyful artisan. She pours her very soul into her creations, and they shine like the newly risen sun. Have you not seen this to be true?"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "And so began the custom of goodliving. Happy potsworn make good works, and good works make Mobbies happy!"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Gulool Ja Ja's words were wise! Joysmiles did indeed bring fine craft and much jinglyshine!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "So the Head of Reason was behind the forging of potpacts..."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Yes! Reason and cleverthink changed Mobbies' way of life!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Hmph."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "The First Promise tires of your talk of olden days. He would rather look to the future, and the next feat."
+    },
+    {
+      "character": "Koana",
+      "text_en": "We should be getting on as well."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Bakool Ja Ja never did come back, did he?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Pfffkohhh... Do you have a moment, Third Promise?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Rakorok would repay you for handhelping with Kaahe. He brings a tale of the golden city!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Really? I'd love to hear it!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "The towers, the streets, all fashioned from gold. Everywhere you look, every splendor you can imagine!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "The young, the old, and everyone in between, they live in golden happiness. A city of eternal bliss, forever perched above the clouds!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everything fashioned from gold, eh? And just imagine everyone living in golden happiness─now that's a city I'd like to visit!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Excuse me, Rakorok, where did you hear that particular tale?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "From our longtime Yok Huy friends! They live up in the mountains, in Urqopacha."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The giants again..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seems everything is pointing us their way!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This feat and everything leading up to it has taught me much about the Moblin way of life. I'll be sad to leave Earthenshire and your joysmiles behind!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "These tales raise many questions... Let us hope the giants have answers."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The stories describe a place of boundless happiness, but are also rife with dire warnings of seekers who did not return. What are we to make of this...?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It unsettles me that Zoraal Ja is even a claimant in the first place. Surely his father cannot condone his violent ambitions..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The Head of Reason in Rediroq's story sounds so different from the Head of Resolve. They share the same body, yet their personalities are wholly distinct."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Worry not for potsworn Fonjeantaine! He is in good helphands!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, we should go and see the giants next!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Agreed. Golden mysteries notwithstanding, their village is featured prominently in the saga and is not to be ignored."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Urqopacha highlands should be easy enough to reach from here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If we leave Earthenshire from the west, there's a road which leads up into the mountains. Let's find that first."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This road will take us through the mountains to the Urqopacha highlands. An exhausting route, perhaps, but a straightforward one."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We're to meet with the Yok Huy at last..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The highlands are where the Lay of Proof took place─that being Gulool Ja Ja's encounter with the Yok Huy."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But 'tis also the stage for the Lay of Ice, where heroes fought the monstrous Valigarmanda. I am most curious to know what the rite will demand of us there..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "One day we're sailing up rivers, and the next we're hiking up mountains."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Looks like the trail is going to get steep from here on in. I hope everyone is ready for some climbing!"
+    },
+    {
+      "character": "Bright-haired Tonawawtan Man",
+      "text_en": "Third Promise!"
+    },
+    {
+      "character": "Bright-haired Tonawawtan Man",
+      "text_en": "I'm glad I caught you... Rediroq asked me to bring you back to the village."
+    },
+    {
+      "character": "Bright-haired Tonawawtan Man",
+      "text_en": "She says there's something she forgot to give you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh...? Something other than the keystone?"
+    },
+    {
+      "character": "Bright-haired Tonawawtan Man",
+      "text_en": "Yes, an item of great importance, or so I was told. It shouldn't take long, if you would please follow me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I wonder what this is all about? Well, no need for everyone to come─I'll be back in a little while!"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Pfff... Pfffkohhh... Moblins are busy ensuring goodliving for new potsworn! Rediroq has no time for idle tongueflaps!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "He had rather interesting hair for a Hyur...or should I say Tonawawta? In any case, strange that I never noticed him while we were in Earthenshire."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Knowing Wuk Lamat, she was probably eating sweets behind our backs and forgot to pay the shopkeeper or something equally careless."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I'm eager to continue to the highlands and meet a Yok Huy face-to-face. We've heard much about them, but I'm not entirely sure what to expect."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That man seemed familiar somehow... But I just can't place him."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This is taking quite a while... Just keep waiting for now, I suppose."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Perhaps there were complications? Well, let us wait a little longer."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is getting a little ridiculous. Did she get lost on the way back to find us?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But how? There's only the one road."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I wouldn't underestimate Wuk Lamat's sense of direction...or lack thereof."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Fortunately, she has a linkpearl. Let's see what's keeping her, shall we?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "She's not responding... Perhaps we should all return to Earthenshire."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Twas Rediroq who had business with her, yes?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "She doesn't seem to be here..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'd thought Wuk Lamat was just being her usual impulsive self, but now I'm not so certain..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I pray naught untoward has befallen the Third Promise."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Something's not right. I can feel it..."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Pfff... Pfffkohhh... Back again so soon?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We've come looking for Wuk Lamat. Did you not send someone to fetch her?"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Rediroq did not! Neither has she seen the Third Promise since you were last here."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then who was that man who came for her...?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Oh? I thought you'd left already."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Where is Lamaty'i? Is she not with you?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "You don't know where she is? How could you let this happen!?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "That thou shouldst worry for thy sister is understandable. Yet rather than assign blame, thine energies are better spent on locating her."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I will help you search. This is not how I'd wish a fellow claimant to lose the contest─my sister least of all."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "In that case, dividing our forces will allow us to cover more ground."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Forename and I should work together at least, the better to facilitate communication between our groups."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then the rest of us will split up. Report in should you find anything."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We'll be on our way as well."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Right. Keep in touch."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Come─we should begin our search."
+    }
+  ]
+}

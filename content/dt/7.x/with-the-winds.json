@@ -1,0 +1,432 @@
+{
+  "id": "with-the-winds",
+  "wiki_path": "/wiki/With_the_Winds",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/bf/With_the_winds1.png",
+  "patch": "7.4",
+  "title_en": "With the Winds",
+  "level": "100",
+  "location": "Solution Nine(X:11.9,Y:6.4)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "Every day, more and more people regain their memories of their lost loved ones. No longer will beings like Calyx be able to manipulate their fear and ignorance as he once did."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That being the case, Alisaie and I have come to a decision."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We will depart Tural in the coming days. Other nations must be informed about Alexandria─a necessary step to ensure lasting peace."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then, we shall return to Garlemald. Our experiences here should serve us well in the ongoing restoration efforts."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "However, one pressing matter remains."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Calyx's summoning ritual was tied to a concept of his own creation. Ascian involvement is assured, but we have yet to ascertain the extent of their influence on the Ninth."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I have done what I can to treat the enthralled and those still afflicted with levin sickness, and may now devote my undivided attention to an investigation."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then we shall leave this one in your capable hands. Do let us know if you turn anything up."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's Erenville. My time in Tural is at an end, and so I'm headed to the harbor now."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We'll meet again─of that I'm certain. Until then, I wish you safe travels."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Words of caution from you of all people..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "And pull you away from more important business? Perish the thought..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Wh─ Hey! What do you think you're doing!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry to interrupt, but I thought you'd like to know I've detained the fugitive."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He promises to tell us before he sets sail, only to try and sneak aboard his boat with nary a hug good-bye! Cold bastard. But there's still time before they weigh anchor!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That boy... We should make for the harbor ere he wriggles free of Lamaty'i's grasp."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If we're heading the same way, we might join him on the ship. Good company is always welcome on a long voyage, is it not?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What, now!? I haven't finished packing!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Knowing you, the essentials are already accounted for."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Fine, if we must... But you're helping pack the rest."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And I hope you've decided on a souvenir for Jullus."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I have several ideas, as it happens..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ever aligned in purpose...if not execution."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Lest you wonder, Krile and I intend to remain here with Y'shtola."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To continue our study of the key, naturally. By all accounts, Preservation's facility promises to yield some answers."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Shale has been conducting a more thorough examination. She may have insights to share."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Then why not invite her along to see everyone off? Surely she'd want to be there too."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I am told that Shale is the new leader of Oblivion. There is none better suited to carrying on Cahciua and Geode's legacy."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Eager as ever, our Alphinaud. I do hope he has thought this through...particularly where his sister's wrath is concerned."
+    },
+    {
+      "character": "Krile",
+      "text_en": "She may know full well that no amount of complaint will dissuade him, but that doesn't mean she won't still give him an earful."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It feels like an age since we last met here."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It comforts me to know that some of you will be staying. I would feel rather bereft should you all go at once!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "What news, Forename ? Can't imagine you brought an entourage along to simply say hello."
+    },
+    {
+      "character": "Shale",
+      "text_en": "That eager to be on their way, are they?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'll join you. I owe them thanks on behalf of Oblivion, after all."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And there I thought you would protest against being parted from your work."
+    },
+    {
+      "character": "Shale",
+      "text_en": "While I am curious to see what emerges once every piece of the puzzle's in place, the majority of the files we've unearthed are encrypted. There's little else I can do until the computer's finished with them."
+    },
+    {
+      "character": "Shale",
+      "text_en": "...Besides, unlike our friends, Containment Complex 10-29 isn't going anywhere."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In other words, we won't be getting any answers today / tonight ?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Afraid not. It's going to be a while yet."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Then shall we depart for Tuliyollal forthwith? Even Lamaty'i's strength has its limits..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Without further delay, then!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Despite her protestations, I doubt Alisaie will keep us waiting long."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Raha seems preoccupied with a matter of great import. Perhaps he is contemplating a prayer to Llymlaen for their safe passage."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What sort of tacos should I get on the way back, do you think? The aroma is too tantalizing to ignore..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Tuliyollal is a delight to look upon. They hang patterned cloth where we might use neon, but the city feels no less bright."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana and Gulool Ja weren't able to make it, but both send their regards."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Wish we had some of this sea breeze inside the dome. We could perhaps simulate it, but there's no substitute for the real thing."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I wish you all would not make such a fuss... I am not fond of emotional partings."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "At least Alphinaud and Alisaie were considerate enough to inform me of their plans in advance by linkpearl. Some people we know would have burst out of a crate mid-voyage..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "In any event, I shall wait here until they finish their preparations."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It will be pleasant to have some company for the journey back."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "For our many meetings and partings, we have few enough opportunities to properly say our farewells. 'Twas pleasant to take the time for it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though I delight in companionship, solo journeys too have their appeal. And travel by sea is relaxing..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "With Alisaie and Alphinaud spreading word of Alexandria, we shall soon have the chance to establish relations with other nations. I must make ready to treat with their leaders."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'm glad I got the chance to see him off. Cahciua would be glad, too."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Now it is our turn to take the next step."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The question is in what direction, and that is a matter I should like to discuss with you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There they are."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You look well. No lingering effects, then?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Eh, I'm hale as ever! And busy with work..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I imagine there's no shortage of affairs to put in order. Are Koana and Gulool Ja faring well?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana is off to survey our nation and its peoples. He wants to consult with local representatives and hear their thoughts on our policies."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And Gulool Ja's really taken to his training! I feel like he's been spending more time with the Landsguard than me lately."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Standing here, I cannot help but remember the day of our arrival in Tuliyollal. The rite of succession feels so long ago..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We knew naught of what would happen between my father and Zoraal Ja, nor of Alexandria and its queen..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It was to aid a naive claimant that you came to Tural. But you've done so much more for me..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "For the entire nation of Tuliyollal. We owe you a greater debt than we can ever repay."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...But that doesn't mean we can't try! Whenever you need an ally, we'll stand with you."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Allow me to echo that sentiment."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Not only were you kind to me when I awakened a stranger in my own land, you extended your grace to Alexandria again and again."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And, on behalf of myself and my people..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you for curing the ailment that for centuries tormented us."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'll look forward to our next visit. I'm sure we'll have exciting stories to share with one another."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ever since I introduced you to Wuk Lamat, you've faced no end of hardships. Many of them her fault."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Yet I feel no remorse...only gratitude. For without your aid, I would not have had the chance to say good-bye."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Nor vowed to explore every corner of the world..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...To see what we haven't seen."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Shall we?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Rest assured, upon arriving we shall make it a priority to visit Tataru and assuage her myriad fears."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I expect the sight of you two will be a balm for her worry-laden heart."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Safe journey! And remember to enjoy it."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Give my regards to Oblivion. ...And thank you, for all you did for my mother."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come back soon!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Take care!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That was a proper send-off! Now─time to get back to it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Duty ever calls for she who loves her realm."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right? Though if you need a break, you're always welcome to visit Tuliyollal. I'll give you the grand tour!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I...I guess they're really over. Your adventures in Tural."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll remember our time together for the rest of my days."
+    },
+    {
+      "character": "Bright Boy",
+      "text_en": "Aha! Vow of Resolve spotted!"
+    },
+    {
+      "character": "Lively Lass",
+      "text_en": "The Landsguard is looking for you! It's sparring time!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh! Good thing you're here, then. Can't miss that!"
+    },
+    {
+      "character": "Bright Boy",
+      "text_en": "So let's go already! Everyone's waiting to see the Vow of Resolve in action!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry, I have to go!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Till next time!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And thus do they take to the winds."
+    },
+    {
+      "character": "Krile",
+      "text_en": "To follow their own paths, and their hearts... As they should."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "INTO THE MIST"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Now it is our turn to take the next step."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The question is in what direction, and that is a matter I should like to discuss with you."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "For our many meetings and partings, we have few enough opportunities to properly say our farewells. 'Twas pleasant to take the time for it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though I delight in companionship, solo journeys too have their appeal. And travel by sea is relaxing..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "With Alisaie and Alphinaud spreading word of Alexandria, we shall soon have the chance to establish relations with other nations. I must make ready to treat with their leaders."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'm glad I got the chance to see him off. Cahciua would be glad, too."
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "id": "memories-of-a-bygone-age",
+  "wiki_path": "/wiki/Memories_of_a_Bygone_Age",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.2",
+  "title_en": "Memories of a Bygone Age",
+  "level": "100",
+  "location": "Break Room(X:6,Y:6)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, we'll give Sphene the grand tour!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Sphene asked me not to call her by her title. I understand why, but it feels strange."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Before heading out, I should put on more suitable attire. There's a modern outfit among the items Shale has prepared for me, I believe."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If you would wait outside, I should only need a moment."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright. Take your time."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Shale said that she chose the outfit herself. Once I've changed, I shall join you outside."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I haven't gone outside in a while. Shale decrypted more of my mother's records, so I've been spending a lot of time reading them..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even if she can walk, she's still far from fully recovered. We'll have to take care not to push her too hard."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Y'shtola and Alisaie left for the government sector."
+    },
+    {
+      "character": "Shale",
+      "text_en": "They wanted to discuss how to go about treating those afflicted with lightning. Admirable─I don't know how they keep going without so much as a short break."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Apologies for keeping you waiting. I've never worn such clothing before..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oho! That really suits you!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm glad to hear that."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I had much the same impression─I had only ever worn skirts, you see. But it seems appropriate for a new beginning..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For one so well traveled to say that, I feel confident it's perfect for exploring the city."
+    },
+    {
+      "character": "Shale",
+      "text_en": "A moment before you head out."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Circumstances being what they are, we thought it best to come up with a way to distinguish you from the other Sphenes. And we should probably settle on this now rather than later."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I suppose it could get pretty confusing..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "First, we propose calling you simply “Sphene.” As for the former Queen of Reason, “Endless Sphene” should suffice."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What about the new one who's been addressing the citizens?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Despite being the spitting image of Endless Sphene, we know she's a different entity. So we were thinking of calling her a “simulant,” after imitation stones."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see... Well, they're definitely not the same, and that's as good a way as any to draw a distinction."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But what do you think, Sphene? Is that alright with you?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Rest assured I have no objections. When I am in the city, however, I intend to keep both my face and name secret."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For the people of today's Alexandria know only the Endless Sphene..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We're sorry to subject you to such ignominy..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No, no. I myself would rather not invite complications, so it is quite alright. Thank you for your concern, Shale."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Let us be off, then. I am in your capable hands."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That you are. First, we'll head to the entrance of Solution Nine."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Good idea. We should start from scanning port nine. I'll do my best to explain things!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "As long as we keep Sphene's identity under wraps, it should be safe enough to walk around the city."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Still, we can't be too cautious while the simulant's off doing whatever it is she's doing. Do take care out there."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So this is Alexandria... Despite being inside a tower, it feels as though I'm out in the open."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And though the sights are nothing like I remember, electrope is still everywhere I look. 'Tis a strange yet familiar place."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So you've been to Tuliyollal! Were you able to meet with your friend?"
+    },
+    {
+      "character": "Exuberant Citizen",
+      "text_en": "I was! Things were a bit awkward at first─she's still so young, after all─but before long we were talking up a storm. We had so much fun, just like old times!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "That lady wants to talk with Lamaty'i, so while they're busy, I'll tell you about what we can see from here. Is there any place that interests you?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There are so very many, I can't decide where to begin..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Then why don't we let Forename choose?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There are lots of different shops at the Nexus Arcade, selling everything you need. It's always full of people out doing their shopping."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The Endless Sphene gave Forename and Lamaty'i a tour of the place. I remember watching them from a distance."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The castle town I knew had a main thoroughfare that was lined with shops. Whenever I visited, the citizens would come and speak with me about matters great and small."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Just like that lady is doing now with Wuk Lamat..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The lady talking to Lamaty'i just came back from Tuliyollal. It was her first time since being trapped in the barrier thirty years ago. She has family in Alexandria now, so she had to return."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But the train made it safe and easy for her to make the journey, and it's all thanks to everyone's hard work!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There was once a railroad connecting Alexandria and neighboring Lindblum, but operations were suspended when relations deteriorated. Eventually, the tracks were removed entirely."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "To see that a railroad now connects us to our new neighbors is gratifying."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Especially considering that our history began with war─with Alexandria the aggressor. In continuing to strive for peace, Tuliyollal's leaders have shown great magnanimity, and I can't help but be moved."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "If you attune to leynode nine, you can teleport back here any time you want."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "You can also use it to teleport to other locations in Solution Nine. It makes it easy to get around."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That's the mode of travel that utilizes aether currents, yes? We had the same in my time, but when the Storm Surge broke out, such nodes were sealed off to prevent enemy use."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And after the war, the aetheric balance across the entire world had collapsed. Not only was travel outside the barrier ill-advised, the act of teleportation itself had become dangerous. We had to abandon the nodes altogether."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "'Tis heartening to see them available again for the use of one and all..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "In the government sector, there's a counter where citizens can get matched to jobs."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There's also a soul exchange, but no one goes there much these days since there aren't many souls in circulation."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm unsure how I feel about regulators and the treatment of souls as a resource..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I understand the grief of those who have lost loved ones, and the desire to escape the sorrow of death."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Even so, I would never wish to forget. My parents, Otis, Zelenia...I want to remember them all. I am reluctant to impose my personal beliefs upon others, though..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Thanks for your help, Forename . I hope Queen Sphene─er...I mean, just Sphene─will feel at home here one day."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The joy of spying stars between faint gaps in the clouds is absent here, but 'tis a fine thing to be sheltered from the thunder and rain."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry about that, I got a little carried away with the conversation."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It's alright. Forename and I told her about the places we can see from here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Really? That's great!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, why don't we stroll through the residential sector and then stop at Mosaic? We can take a break there."
+    },
+    {
+      "character": "Delia",
+      "text_en": "Welcome to Mosaic. When you're ready to order, just let me know."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What should I get...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I understand this café was named for the different races, who appear as a mosaic of colors when they gather here. What an inspired idea."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've been walking for a while, so let's rest our feet, eh? Drinks are on me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene, Forename ─the two of you go ahead and order first."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So many different drinks. I can't decide..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'll have this, please. A Dali coffee."
+    },
+    {
+      "character": "Delia",
+      "text_en": "Of course. I should warn you, though─Dali beans are an older variety known for their strong bitterness. Still want one?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The bitterness is the best part."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Have you decided as well?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Two Dali coffees, then. The beans make for dark roasts that are quite aromatic. I find the sharp flavor invigorating, though a dash of milk can be a wonderful complement."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Vegetable juice... Otis used to drink it all the time..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, I understand completely. The allure of something sweet can often be too strong to resist."
+    },
+    {
+      "character": "Delia",
+      "text_en": "I'll have your drinks ready in a moment!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "They're certainly well-liked. It's a wonderful feeling, spending time with the people..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But they're not my people anymore, are they? Their city, their way of life...even the ground upon which they tread... I am a stranger to it all..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The weight of the long years is finally beginning to sink in..."
+    },
+    {
+      "character": "Curious Boy",
+      "text_en": "Your Majesty? Is that you?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I... Um... Well..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm sorry to disappoint, but I am not Queen Sphene...though I'm often told we look alike."
+    },
+    {
+      "character": "Boy's Father",
+      "text_en": "There you are! How many times have I told you not to go off alone!?"
+    },
+    {
+      "character": "Boy's Father",
+      "text_en": "I'm sorry he bothered you, ma'am. Come now, we're going home!"
+    },
+    {
+      "character": "Curious Boy",
+      "text_en": "Bye, not-Queen Sphene!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I do not know that boy, nor does he know me. No one does."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Another harsh reminder that I have no place here..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yet no matter how much things have changed, I am happy. I am. For Alexandria has endured. Our sacrifice was not in vain."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Even so, I cannot help but feel lonely..."
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "id": "one-with-nature",
+  "wiki_path": "/wiki/One_with_Nature",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "One with Nature",
+  "level": "96",
+  "location": "Shaaloani(X:14.4,Y:19.3)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Shenza",
+      "text_en": "We'll be ready to handle that timber when you and the chief get back."
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "With your help, we'll get the railroad operating again. And then you'll have the chance to see our engine in motion─it's poetry, I tell you!"
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "Right, we've got work to be getting on with ourselves!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Come, let's follow Wawlika."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "There's another station on the way, so be sure to drop in. The train'll be in the depot, but you can still see it from outside!"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "I'm quite taken with the sleek design of the headend, myself. Though if you peek through the windows, you can probably catch a glimpse of─"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "Enough jabbering, Shenza. Thanks to these two, we finally have some real work to do, so let's get to it."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "We'll see you later!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I suppose there's no harm in stopping at the station. It's on the way, after all."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I must confess, the train is an impressive sight. How easy it must be to ship goods throughout the wilds now."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Right, Mehwahhetsoan should be to the northeast of here. Let's continue on."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Such beauty. I know more than a few gleaners who would love to explore this land."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Ah, there you are. The village is just up ahead."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Truth be told, I've never had direct dealings with the people of Mehwahhetsoan. But I do know that their traditions mean a great deal to them, as does the land..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ahhh, such lovely clean air... It feels like a treat after the overpowering ceruleum of Sheshenewezi Springs."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The waters nearby are just as pristine. It's a paradise for people and animals both."
+    },
+    {
+      "character": "???",
+      "text_en": "I'm glad you appreciate the blessings of nature as we do."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "Greetings, travelers, and welcome."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "I am Hhwato, chief of Mehwahhetsoan. And this is my son, Shepetto."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "A pleasure to meet you."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "I thank you for the warm welcome, and apologize for our sudden intrusion."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "I'm Wawlika, stationmaster of Xak Tural Railing."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "The recent earthquake has damaged our tracks, and we require timber to make repairs."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "This is Forename and Erenville, who have volunteered to assist us with the restoration effort."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "<sniff> You've a most curious air about you. Of oil and steel, tanned leather, and the faintest hint of... fair winds blown from a distant shore, though I know not where / roses of a most unusual variety / fresh fruits, but not of any sort with which I am familiar / meadows awash with unfamiliar flora / salt and sand of lands unknown / tender grass of lands unknown / pine...but not of the Turali sort / blood-soaked soil of lands unknown . I gather you are not from these lands?"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Truly? I would love to know more of you and the lands you have seen..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I am told your people hold your traditions in the highest. Yet I gather you are curious about those of others as well?"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "But of course. Nature is boundless, as is our love for her lands and her children. The hhetso, in particular, have done much to guide our way of life."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "Where to hunt, to gather, to lay our heads─the hhetso teach us all these things and more. It is for that reason, I believe, that we are attuned to the shifting winds around us."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I see... That word, hhetso─it means “leader of souls” in the Hhetsarro tongue, does it not?"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "It does. There are many creatures revered as hhetso among the Hhetsarro. Here, we look to the rroneek for guidance."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "However, as you may have gleaned from our use of aetherytes, while we are committed to our traditions, this does not mean we reject all outside influences."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "That said, there are certain things that give us pause..."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "We will furnish you with the timber you require. But first, as neighbors in this land, we ask that you indulge us in a discussion."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "We'd be glad to, of course!"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "Wonderful. We do not often receive guests come such a long way, and my son is always so delighted to hear their tales. Now, if you'll follow me."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Say, do you like to hunt? And what weapons do you like to use?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "If they follow the rroneek with the seasons, it makes sense that they would live in tents that can be broken down and transported easily."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This tent is made with the hide and bones of rroneek. I wonder what else they are used for here."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "I will speak frankly. We fear the winds of change will soon bring misfortune to the land."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "The rroneek have made the potential for danger plain."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "As you may have heard, their temperament has become erratic of late."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A stableman near Hhusatahwi mentioned that. Do you know what has caused this?"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "We have our suspicions. Since others were drawn to this land by ceruleum, Shaaloani has undergone a transformation."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "And the railroads are a part of that..."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "As strong and resilient as they may seem, rroneek are sensitive creatures. The roar of the train as it thunders through the plains may well cause them distress."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "As my father said, we do not necessarily reject outside influences or innovations. But in this, we can't help but worry."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Understandably. I thank you for being forthright."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "This matter concerns not only the Hhetsarro, but all of Shaaloani."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Hmm... Perhaps we should bring it to the attention of Vow Koana."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "Vow Koana, you say... We know him only through rumors, but he is apparently...how shall I put this?"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Hardheaded and aloof. He values technological advancement and efficiency to the detriment of all else."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "M-Mind your tongue, Shepetto!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Heh. While there is a grain of truth to the rumors, he is not nearly as bad as they make him out to be."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "So in the course of traveling with him, you witnessed him change with your own eyes?"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "Is that so? As we have admittedly have never met him ourselves, perhaps we were too quick to judge his intentions."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "Is that so? That is certainly a side of him we weren't aware of."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Forename fought beside Vow Koana in the rite of succession. I'd take his / her word over rumors."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "You took part in the rite of succession!?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "You're that close to the Dawnservants!? I was grateful for any help, but had no idea I had recruited a bona fide hero."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "The succession of Dawnservants filled us with uncertainty for the future, but there is clearly much we do not know."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "On this particular occasion, the winds of change are not meant to be feared. No, we must open our hearts and minds that we might see Vow Koana for who he truly is."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Do you think he might visit someday?"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "Just as his father offered us guidance, I'm hopeful that he will do the same."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "Thank you for hearing and allaying our concerns. I'm glad we could speak."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "As for your timber, we have freshly cut logs near the lake. Please, take all that you require."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "We're terribly grateful!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "I promise we'll keep the rroneek foremost in our minds as we continue working on the railroad. And if needs be, we'll seek Vow Koana's counsel."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "My thanks again for your time and the timber. We shall endeavor to return the favor."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "I hope to see you again soon."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "You'll come back, won't you? There's so much I'd like to know about the lands beyond Tural."
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "We must talk again soon. Next time, perhaps, on a hunt together."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We have to carry all of this back to the station?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "We've more than enough timber to fix the ties."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Now we need to transport it to the station─which will be a bit more involved than I thought. I didn't expect we'd be given so much."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Mind waiting here a spell while I round up a few more hands and a rroneek? I won't be long!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm glad that went well. And thankfully, it seems we won't need to make several trips for the timber."
+    }
+  ]
+}

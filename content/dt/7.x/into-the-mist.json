@@ -1,0 +1,664 @@
+{
+  "id": "into-the-mist",
+  "wiki_path": "/wiki/Into_the_Mist_(Quest)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/7/70/Into_the_mist_%28quest%291.png",
+  "patch": "7.4",
+  "title_en": "Into the Mist",
+  "level": "100",
+  "location": "Treno(X:11.6,Y:12.3)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "Exhaustion aside, Krile sustained no injuries you need worry over."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "After that battle, I think we all required a moment. You had better get some rest too─I mean it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "To think Miayli knew Krile's mother... I too am eager to hear the details."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Curious, isn't it? I want to know. More than anything. Yet part of me is still terrified..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But having come so far, I can't turn from the truth now."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If everyone is feeling up to it, let us go and have our answers."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While the key is to be the main topic of our conversation, there is no telling what else Miayli might reveal..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's alright. I'm ready to hear it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I find myself feeling anxious on Krile's behalf..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I had every confidence Lumull would be safe in your company, but it heartens me to see him unharmed nonetheless."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Ah, our new friends! Do you know why Grandmother called us here? Both Eyaney and I neglected to ask..."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "How are you faring? I hope you've recovered from your brush with the Doomtrain─and did I hear something about a behemoth...?"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Ere I begin my tale, there is something about our family that you need to understand."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "We are descendants of the Speakers of eld, and I myself am the latest to inherit the role."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Even as we do our utmost to ensure our people's welfare in our adopted home, it has ever been our duty to find a means to return whence we came."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Alas, our ancestral treasure never did answer our prayers. And that left my elder sister, the previous Speaker, mired in doubt."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "It was then, when she was at her most vulnerable, that Preservation reached out to her."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "The key is none other than that relic, and it has been in the safekeeping of our people since time immemorial."
+    },
+    {
+      "character": "Robor",
+      "text_en": "Yes. When lightning threatened this world, we attempted to use the key to flee again like our ancestors once did."
+    },
+    {
+      "character": "Robor",
+      "text_en": "Alas, no matter what we tried, we couldn't invoke its power. We had all but given up when Preservation approached us with an offer of partnership."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We've heard this part before. From my parents' memories..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "My mother... Was your sister?"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "She was. Which makes you an heir to the Speaker's legacy."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "The last message I received from your parents said that, in order to thwart Preservation's design, they must send away both their daughter and the key."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "I now understand what became of the former. As for the latter...through conversing with your friends, I gleaned with whom it currently resides."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And...is it your wish that we give it back?"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "We Milalla are the people of Treno, now. Here is where we've put down our roots."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "The moment Alayla relinquished the key, she relinquished our claim to it as well."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "But be that as it may, my sister gave up not only her life, but her darling daughter to prevent its misuse."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "It is my duty to ensure that its new bearer is worthy. So..."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Should it answer your call as it never did ours, how would you use the key's power?"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "For some, that might be a self-serving end. But your deeds are proof that I needn't worry."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "For some, that might be a self-serving end. But your deeds are proof that I needn't worry."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "The very fact that you don't have an answer is proof that you understand the weight of this power, and do not take it lightly."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "And what's more, there's your friendship with my niece. I daresay that speaks well of your character."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "By the by, do you have any records pertaining to the key here in Treno?"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Would that we did, but Alayla took everything with her when she joined Preservation. If aught remains, it would be in Alexandria."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And so we find ourselves returned to our original course..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Shale may have made some progress. Perhaps it's time to bring our visit to an end."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ah! Er..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "B-By that, I don't mean to say that I don't feel welcome in Treno... You've all been so kind and accommodating, and in many ways it's my hometown! I-It's just that...well..."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "It's all right, my dear."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "It is true that some feel bound by blood or birthplace... But I don't believe that your parents would have wanted that for you."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "They devoted their lives to understanding the key so that future generations would not be burdened by it."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "As we have chosen Treno, so too should you choose the place you call home. A place where you can bloom and grow with fearless joy."
+    },
+    {
+      "character": "Krile",
+      "text_en": "...I will."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "We must give you a proper send-off, though. Wait for us by the gate, will you?"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "A word of caution, keeper of the key."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "As you know, it is a relic that has traveled across centuries and worlds, passing through countless hands..."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "...Oft beckoning to those ruled by ambition or avarice. Indeed, some have wondered if it chooses its master."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "But I believe differently. I believe that some inexorable force─call it “fate” if you will─ushers it from one bearer to the next."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Be wary, for fate's regard now falls upon you."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If the Milalla's records were in Preservation's possession, I doubt they ever relinquished them. That knowledge must await us back in Alexandria."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can't believe I have living relatives here..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "...And that they make it seem so simple. Maybe it is enough to just be...Krile."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Lumull and Eyaney have gone to summon the other Milalla we've met from across the city."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Krile looks like she's just seen the first ray of sunlight on a cloudy day. I'm glad she found that which she sought."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you all. For everything."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "We're the ones who should be thanking you! You fought so many times for us."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I've tended to the people's immediate hurts, but see that they receive appropriate care as they recover."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I still can't believe you took down the Doomtrain─just like that! You're my hero, truly. And I'm sure Mum and Dad and everyone else we lost will rest easier now that it can never hurt anyone again."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "For my part, I cannot thank you enough for supporting my plan for the barrier. Not to mention that we wouldn't even have the electrope to restore it without your aid."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I can't wait to see what else we can do now that the mine is back in service!"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "...Krile."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "O life, flourish on this faraway shore, Unfurl your fragile petals with fearless joy. Let this sky grant shelter from darkest storm, And here bloom, hand in hand, forevermore."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Remember that, will you? Whatever shore you choose."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Of course. Those words, and our people, will always be in my heart."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "After so long without her, I had begun to forget what my sister was like. Her face, her voice...fading like the mist. All I could remember clearly was her resolve as we parted for the last time..."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "But now, I've seen her again. In you, sweetheart."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Thank you...for bringing her back to me."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "It is a joy to have met you, Krile."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You too...Aunt Miayli."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "I know your home lies far from here, but to us, you'll always be family."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Come and see us once in a while, won't you?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I will."
+    },
+    {
+      "character": "Krile",
+      "text_en": "My comrades have found a treatment for levin sickness, so I'll bring it to Treno as soon as I can."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "My, my! You certainly have no shortage of accomplished friends."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "We'll await your return, my dear."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Life is full of surprises when one lives in hope. Isn't that right, Alayla?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Once we are back in Solution Nine, I should like to relax with a hot cup of tea."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though we're still in the Ninth, it hardly feels like it up here. What a wonder."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If safe and reliable airship travel to Treno were possible, it would cut down on the length and danger of the journey..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It still feels a bit like I'm dreaming... But even should I wake, I'll remember it. I'll remember them ."
+    },
+    {
+      "character": "Krile",
+      "text_en": "...On a practical note, I am more certain than ever that Shale's work will yield vital insights into the key. I look forward to speaking with her when we arrive in Solution Nine."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If you don't mind, might we first make our way to Resolution? Gossan will be wondering about my absence..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Heavens, yes. I apologize for keeping you from your duties for so long!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Think nothing of it. I was more than happy to be a part of your adventure. And Gossan will forgive me once I tell him of Treno..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Though we learned little about the Ascians, our sojourn was more than worthwhile."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We're back!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "According to the people of Treno, there are yet other settlements in the Ninth. We shall have to seek them out one day."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Gossan hasn't worn his regulator since his memory was restored. The experience must have affected him deeply."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Ah. This explains much."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "I wondered why I had seen neither hide nor hair of Your Majesty these past days... May I ask where you have been?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Er... It's quite a long story..."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "However stalwart your companions, traversing the Mist Continent with no knowledge of what awaited was extraordinarily reckless!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Th-That I cannot deny, but it availed us much. We have the opportunity to resume diplomatic relations with a longtime ally."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And as I did not, in fact, come to harm...all is well that ends well?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Should you feel compelled to go on any other excursions in future, I expect that you will notify me beforehand."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, of course... It was remiss of me. I apologize."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Duty's call is most insistent. Nevertheless, whenever you require my aid, please do not hesitate to seek it."
+    },
+    {
+      "character": "Shale",
+      "text_en": "You're back. How'd it go? Did you find a way down?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Treno... I've heard the name. Incredible that it's sheltered the Milalla all this time."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What's more, the mayor was able to share the story of the key from her perspective. She believes that the historical documents pertaining to it are stored in Preservation's archives."
+    },
+    {
+      "character": "Shale",
+      "text_en": "They could be. Though our work isn't done yet, we've made progress on the decryption. I was on my way to the containment complex to review the data in situ."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In that case, allow me to accompany you. Though it may be incomplete, I should like to review the information available."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We'll contact you as soon as we've made some sense of it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In the meantime, might I suggest that our Warrior of Light get a good night's sleep or two? You never know what manner of hellish technology will be after us next."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And Krile, I assume you'll be wanting to familiarize yourself with the care and feeding of porxies."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Indeed. While I'm aware of the principles, I was needed elsewhere when the others were treating the levin-afflicted. I shall have to ask Y'shtola to instruct me."
+    },
+    {
+      "character": "Krile",
+      "text_en": "'Tis the least I can do for my family..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I intend to visit them whenever possible. But my home will always be here in the Source."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There's nowhere I'd rather be!"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Now, there is much to be done."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "With access to the mine restored, I'd like to explore methods to expand our food production systems. I look forward to your insights."
+    },
+    {
+      "character": "Frantic Woman",
+      "text_en": "Oh, my poor heart..."
+    },
+    {
+      "character": "Frantic Woman",
+      "text_en": "I only meant to steal a glimpse while we were in the area..."
+    },
+    {
+      "character": "Frantic Woman",
+      "text_en": "But our eyes definitely met, didn't they? Oh, that's not ideal..."
+    },
+    {
+      "character": "Frantic Woman",
+      "text_en": "Such fearsome instincts to perceive me as a threat in an instant... But I shouldn't be surprised. It's the Source's vaunted hero, after all..."
+    },
+    {
+      "character": "???",
+      "text_en": "(grunts)"
+    },
+    {
+      "character": "???",
+      "text_en": "Stop that..."
+    },
+    {
+      "character": "???",
+      "text_en": "I mean it."
+    },
+    {
+      "character": "???",
+      "text_en": "H-Halmarut!"
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Oh dear me!"
+    },
+    {
+      "character": "???",
+      "text_en": "One need hardly be the Warrior of Light to notice you. You're far from subtle."
+    },
+    {
+      "character": "???",
+      "text_en": "As if the horns and scales weren't enough, you insist upon dressing for another century. Those clothes must be as old as I am."
+    },
+    {
+      "character": "???",
+      "text_en": "Where is your robe?"
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "You mean the robe that practically announces me as an Ascian?"
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Not that I don't intend to reveal that detail, but it will be at a time of my choosing."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Besides, if one of us can't help but draw the eye, it's you."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Oh, Calyx, how you've grown..."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "...Smaller, that is. And surprisingly cute...ish."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Put me down."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Jests aside, we will be departing the Ninth all too soon."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "If you wish to say your good-byes, I could find you a vessel and mold it to match your preferred presentation..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Don't you dare. I will not debase myself by occupying a living body ever again."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "And in any case, to travel the rift as you do requires the shedding of one's flesh, does it not?"
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "I apologize if I upset you. Your understanding is, in essence, correct."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "The magicks cannot bring a vessel through the rift. Ergo, you must discard it and assume a form of pure aether until you reach the other side."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "However, that doesn't mean you need discard everything like so much refuse."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Using fissures such as this, one can easily send small amounts of matter between reflections."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "...Matter such as your archived memories."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "All the more reason to remain as I am. At present, I could pass through a fissure myself."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "And as this form suffices for surveying the material realm, I see no reason to expend effort searching for a replacement."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I wish only to observe. That is enough."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Very well. I shan't press."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Nevertheless, odd though you may look, I would encourage you to bid farewell to those to whom you have attachment."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "For now that you've failed, unless our hero changes course..."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "...This world is doomed to die."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I had hoped to banish death from their lives."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Why should it come to all, whether they will it or no? Why must any accept this burden and grief?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "It was never about any one person. So no, there are none with whom I would exchange fond farewells."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "But so long as mankind yet survives, I can hold fast to my faith..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "That my life's work might again bring someone salvation."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Hold fast you must, as we press ever onward..."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "For soon, it begins, and every world shall tremble. The Winterers must be prepared to outlast the great withering to come."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "That's your ominous prediction, is it?"
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "No, it's nature's proclamation. Can't you hear it?"
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "It echoes in the silence left by the will of the star."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "WHITHER BLOWS FATE'S WANDERING WILL? FOR GREY CLOUDS PRESAGE WINTER'S CHILL..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Were it not for my ties to the Source, I would not be able to treat those afflicted with levin sickness, nor potentially aid my people in other ways as well─as I very much intend to."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There are still so many questions I wish to ask Miayli about my parents, and even more I hope to learn about the rest of the family."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Warm fare-thee-wells can ease the sting of partings, as we come to terms with an absence not soon forgotten."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "To tell those we hold dear what they've meant to us, and to wish them the best... We should seize that chance whensoever we can."
+    }
+  ]
+}

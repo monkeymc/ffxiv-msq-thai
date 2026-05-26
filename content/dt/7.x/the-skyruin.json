@@ -1,0 +1,612 @@
+{
+  "id": "the-skyruin",
+  "wiki_path": "/wiki/The_Skyruin",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/1b/The_Skyruin.png",
+  "patch": "7.0",
+  "title_en": "The Skyruin",
+  "level": "93",
+  "location": "Urqopacha(X:32.9,Y:28.6)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Aether Seeker",
+      "text_en": "SaMpLe AnAlYzEd. ReCaLiBrAtInG sEnSoRs."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This time, the seeker should be attracted solely to Valigarmanda's aether."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Resume tracking based on the latest sample."
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "AfFiRmAtIvE! rEsUmInG tRaCkInG!"
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "<beep> SaMpLe AeThErIaL sIgNaTuRe DeTeCtEd. EnGaGiNg AcCeLeRaTeD pUrSuIt MoDe!"
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "<beep> SoUrCe Of AeThErIaL sIgNaTuRe LoCaTeD. tRaCkInG dIsEnGaGeD."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Good, the seeker was drawn directly to the Skyruin's fire. Now we know we've set the correct parameters for its aetherial aspect."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll try increasing the threshold for aetheric concentration─that should direct us to the tural vidraal itself."
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "ReCaLiBrAtInG sEnSoRs. ReSuMiNg TrAcKiNg!"
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "<beep> AeThErIc SiGnAtUrE dEtEcTeD aHeAd."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I think we'd notice if Valigarmanda was inside this passage. Let's head through to the other side."
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "<beep> AeThErIc SiGnAtUrE lOsT!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The trail ends here, it seems."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Could Valigarmanda have shifted its elemental aspect...? It does have three to choose from, after all."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "In any case, I'm almost certain the vidraal was headed in the direction of Worqor Lar Dor."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We should let the others know we have a likely location."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Alphinaud is assisting the Yok Huy with their evacuation. He thought they could use a healing hand with the injured."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, where is Valigarmanda?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Worqor Lar Dor. Its stratified layers contain a wealth of crystals, said to be the source of its many-colored glow."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "After eighty years of imprisonment, the vidraal will be in dire need of sustenance. It would've been drawn to the mountain's energies."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So Valigarmanda seeks to replenish its aether..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then we'd better not give it the chance."
+    },
+    {
+      "character": "???",
+      "text_en": "Stop!"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "That mountain is sacred ground. I forbid you to set foot on it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry, we... It is not our intention to trespass."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But you must understand. That's where Valigarmanda has gone!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If we don't slay it now, it will slaughter countless innocents─just like in the old days. I beg you, permit us to enter!"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Out of the question."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Your band is incapable of defeating Valigarmanda. Either you seek to defile Worqor Lar Dor, or you are fools."
+    },
+    {
+      "character": "Koana",
+      "text_en": "If you doubt their chances, how would you feel were we to join them?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The monument to Valigarmanda's defeat bears the names of seven heroes. With our forces combined, we also number seven."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Seven weaklings are no less doomed than four."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja! You've come to help as well!"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Against my sound advice. While the rest of you were tussling with the Skyruin, we might have secured an insurmountable lead."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "A minor delay. It will not change the contest's outcome."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I would take the measure of this tural vidraal my father was unable to kill."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With both my brothers here, this battle is all but won!"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Your celebration is premature. I never said I would let you pass."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Brother, no! We do not bear arms against our own people!"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "What an odd thing to say. As I recall, the inhabitants of Chirwagur Saltern do not consider themselves members of the Tuliyollal nation."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "I'd hardly call them “our own people.”"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What does that matter!? Members or not, everyone in Tural is part of our dream for peace!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you would hurt them, then you'll have to go through me!"
+    },
+    {
+      "character": "Vorporlor's Aide",
+      "text_en": "She...she saved me. From the mountain bird. Now, then...the same eyes. Eyes of stone. Words of stone."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "We are still in her debt. This is true."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Consider the debt repaid."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "But do not misunderstand. We do not submit to Tuliyollan rule."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Aye, you've made your point. We can talk more once the contest is over!"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "...I ask your name."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wuk Lamat! Protector of peace and soon-to-be Dawnservant!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Even people with wildly different ideals can find understanding through earnest discussion. I believe that wholeheartedly."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As do I. I won't give up until we reach a compromise."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Assuming you survive. My old bones and I will be waiting here for the true heir's return."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Your thoughts have always been a mystery to me, Brother, but I'm relieved to see you put aside the contest for the sake of the greater good."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Our nation is a fortress, and its people the bricks with which it is built. The more that are lost or broken, the weaker Tuliyollal becomes."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Even the crudest rock has value as a stepping stone."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, you two! Forget about the rite of succession for now, and help me fight this overgrown snake-bird!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't care how strong the Skyruin may be─we're going to put this menace down for good!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Valigarmanda will demand our undivided attention. Let's hope Zoraal Ja has nothing sinister planned."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've never faced anything this powerful before, but I swear I won't hold you back!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even Papa may not have been able to slay Valigarmanda...but with the Dawn's Promise and our allies all fighting together, I believe we can do just that!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You and yours have journeyed to the edge of existence and back─I'm sure defeating this “overgrown snake-bird” is well within your capabilities. Yet I bid you to be cautious, all the same."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I knew Koana wouldn't be one to rush off and leave others to deal with a creature like Valigarmanda."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "It hath been some while since last I joined thee in battle. Indeed, so full have been our days upon these shores, it doth seem a lifetime hath passed."
+    },
+    {
+      "character": "Koana",
+      "text_en": "What is on your mind, Brother...?"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "That the future Dawnservant should ignore my counsel to indulge a whim is...vexing."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "We needn't speak."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Small wonder they called it the \"Skyruin\"!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'd been curious to see Zoraal Ja in action..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Twas an ordeal, indeed."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well, that was grueling!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I expected...more."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You fought well, Lamaty'i... Without hesitation."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "W-We won...? We won!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Skyruin falls today! For Tuliyollal!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Stay alive. No foolish risks."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The wind... It's all around us!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh... This will be some fight."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "This is not a safe spot to stand..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Hmph... A beast is a beast."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You won't catch me the same way twice."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Ware its breath!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ugh... I need to pay more attention!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's this now!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Its aether is staggering!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The sky, the ground... It's all changed!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Tricks to frighten children."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You can feel the crackling in the air."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The power of Valigarmanda..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Be careful of the wind-infused ground!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn it all! How could anyone see that coming!?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Now it striketh from our flanks..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm ready this time!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everything's gone back to normal!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It must have tired of controlling the ambient aether."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Once more, it distorts reality..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're onto your games now!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "It's changing things again..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Do your worst! We'll fight through it all!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This biting cold... It's unbearable!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We need to do something before we freeze to death!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That's coming from the mountainside... Watch out behind us!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is the ground shaking?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whoa!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We could have been buried alive..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "An icy embrace... We must needs keep in motion!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'd rather not end up an icicle!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hah! You missed me!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "You're quick on your feet!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "These spikes are rather ominous..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then we break them. This one first!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "To me! Brace for the worst!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Ugh!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Endure, my friends!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's n-not so bad..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We can take this!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Haaah! You won't break us!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "A momentary discomfort..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is everyone still with us!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then let's finish this!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Again with the ambient aether...? Its energies are inexhaustible!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Is that the Skyruin's true strength, then?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Endless strength or not, victory will be ours!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We did it... We slew Valigarmanda!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A feat that even the great Gulool Ja Ja couldn't manage!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hah! For you, Papa!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "There's no denying it was an impressive achievement. But I wouldn't be so quick to claim we've outdone Father."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The vidraal was weakened by decades of imprisonment. Had we faced it in its prime, we wouldn't have fared a fraction as well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How can you say that!? Eighty years couldn't have made that much of a difference, could it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, who am I kidding. Papa's still the best..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I did, didn't I? Even if it wasn't at full strength, we defeated a living legend!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I swear, I'll surpass the old man one day!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're right about that! Just need a few more battles like this one under my belt!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're right about that... I'll need to improve if I want to surpass the old man."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "The Skyruin lies dead, and still I have yet to prove myself the miracle..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, I suppose we should head back and join Erenville."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Aye, we did leave him with only Sareel Ja for company..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh heh, I'm still giddy from our victory..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The matter of outdoing our father aside, this was the best outcome we could have hoped for. Never again will our people need fear the looming shadow of the Skyruin."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Didn't I tell you? I pull my own weight in battle now!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Witnessing Zoraal Ja in battle, I understand why he's widely considered to be Tuliyollal's greatest warrior."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Koana did well. Our Promise has promise too, don't you think?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis fortunate we vanquished that winged calamity ere it could inflict greater suffering upon these lands."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Your proud expressions bespeak a successful hunt. Not that I'm surprised in the least."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Zoraal Ja came back earlier, but left almost immediately with Sareel Ja in tow. He seemed disinclined to share in any victory celebrations."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's nothing unusual for Zoraal Ja."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, it's Bakool Ja Ja that concerns me. He's probably far ahead now, making the most of the mayhem he caused."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I still can't believe he did something so evil just to slow us down... If we hadn't slain Valigarmanda, it wasn't only Urqopacha at risk─there would have been deaths across the entire continent!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm more certain than ever that Bakool Ja Ja cannot be allowed to rule. I have to catch him and take back my keystone!"
+    }
+  ]
+}

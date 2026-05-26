@@ -1,0 +1,396 @@
+{
+  "id": "in-search-of-discovery",
+  "wiki_path": "/wiki/In_Search_of_Discovery",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/c/c9/In_Search_of_Discovery.png",
+  "patch": "7.0",
+  "title_en": "In Search of Discovery",
+  "level": "100",
+  "location": "Living Memory(X:16.6,Y:20.1)",
+  "npc_start": "Cahciua",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When it comes to inquisitiveness, I reckon I'm a match for both you and Erenville!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Some creatures here do indeed appear to resemble those in Eorzea. Such was the case in the First, too..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "<giggle> Cahciua looks awfully happy, doesn't she?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I can't recall the last time my mother was so excited..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "To begin with, I'd like you to scout out the vicinity and report back with any points of note."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "This would be a good opportunity to speak with the locals. They're bound to be familiar with the area, after all."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As Elene'shpya suggested, it would be interesting to compare the creatures here with those native to the Source."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I never ventured outside of Tural, so I look forward to your insights!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just leave it to us! I've only ever been to Sharlayan myself, but I'd like to think I know interesting when I see it!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Of everyone, I daresay you've been to the most places. I cannot wait to hear your thoughts!"
+    },
+    {
+      "character": "Specimen-observing Endless",
+      "text_en": "Oh, hello there. What am I doing, you ask?"
+    },
+    {
+      "character": "Specimen-observing Endless",
+      "text_en": "Look up the trunk. See the plants within capsules?"
+    },
+    {
+      "character": "Specimen-observing Endless",
+      "text_en": "These are species that either can't survive in Windspath Gardens, or would become invasive and disrupt the ecosystem."
+    },
+    {
+      "character": "Specimen-observing Endless",
+      "text_en": "The capsules recreate the conditions they require, from tropical to frigid climes, while keeping them isolated."
+    },
+    {
+      "character": "Specimen-observing Endless",
+      "text_en": "In this way, any and all plant life can be preserved forever. Just like ourselves."
+    },
+    {
+      "character": "Specimen-observing Endless",
+      "text_en": "I've been observing the plants for decades now. They're like children to me."
+    },
+    {
+      "character": "Water-watching Endless",
+      "text_en": "Did you know that even the water here is created using electrope?"
+    },
+    {
+      "character": "Water-watching Endless",
+      "text_en": "The initial product is too pure, though, and adjustments have to be made so the composition resembles what's found in the natural environment."
+    },
+    {
+      "character": "Water-watching Endless",
+      "text_en": "That's just one of the many things they do to create the ideal conditions for these plants to thrive."
+    },
+    {
+      "character": "Water-watching Endless",
+      "text_en": "I don't know what's become of the world outside the barrier, but I should like to visit a lovely spot such as this in real life."
+    },
+    {
+      "character": "Water-watching Endless",
+      "text_en": "Speaking of lovely spots, have you been to the top of this lookout here? It's a great vantage point, and there's even a food stall in case you're hungry."
+    },
+    {
+      "character": "Water-watching Endless",
+      "text_en": "There's real fish here, by the way. We're allowed to catch some, but I'd rather just watch them."
+    },
+    {
+      "character": "Terminal-gazing Endless",
+      "text_en": "My ancestors aren't actually Alexandrian, but hailed from a place called Conde Petie."
+    },
+    {
+      "character": "Terminal-gazing Endless",
+      "text_en": "They had some unique customs there. For instance, when greeting someone, you had to say “lali-ho” in a spirited manner."
+    },
+    {
+      "character": "Terminal-gazing Endless",
+      "text_en": "Our settlement was also famous for a gigantic tree that grew nearby. It was so enormous that, when you stood at its base, the roots covering the ground went beyond the horizon."
+    },
+    {
+      "character": "Terminal-gazing Endless",
+      "text_en": "The terminal here at Windspath Gardens is apparently inspired by that very tree—the Iifa Tree, its name was."
+    },
+    {
+      "character": "Terminal-gazing Endless",
+      "text_en": "It may not be real, but it's nice to have it as a memento for posterity."
+    },
+    {
+      "character": "Terminal-gazing Endless",
+      "text_en": "The actual Iifa Tree would have been bigger than this! Much, much bigger!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There was a beast I had never seen before."
+    },
+    {
+      "character": "Krile",
+      "text_en": "While the arboretums of Sharlayan imitate natural environs, this place has the feel of an exhibit. In that sense, the word “gardens” does suit it well."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Ah, welcome back, Forename ! Krile has just delivered to me a most fascinating report."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You have some engaging impressions to share too, I hope?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Well, well, that is all very interesting indeed. But I must say, I am most fascinated by the ambulating trees."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "While there are similar creatures in Urqopacha, could you tell me more about these treants as you know them?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Is that so? To maintain the ecosystem here, I imagine there are creatures that serve as their prey."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Is that so? Though it makes sense they would adapt to their environment in that fashion. I imagine they need careful management to flourish, such as having specific varieties of trees around them."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Haha, is that so? To maintain an ecosystem with such formidable creatures, I imagine there must be other equally imposing species to keep them in check."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The management of ecosystems... That calls to mind Labyrinthos, does it not?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That it does."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Lest you wonder, Labyrinthos is a storage facility deep beneath Sharlayan that contains a recreation of a temperate climate zone."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Such a place exists? Amazing!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "By the by, did anyone also catch sight of a large scalekin?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "A large scalekin, you say? What does it look like?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Nothing I've seen before, but it has a rodent-like form and walks on all fours."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If it looks like a rodent, wouldn't that make it a beastkin?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No. It's covered in scales—ones that appear to mimic succulent plants. By that, I would definitely classify it as a scalekin."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Well, it's hard to say for certain without seeing it. Why don't you show me?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Very well. It was in a flower field earlier, and should still be near."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Let's head over there, then. When we find it, we'll see who's right!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The two of you should come along too and lend us your opinions!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Go on ahead, Forename . I'll let the others know and then join you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This is the area. The beast didn't give the impression that it moves frequently."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Hehe, this is so exciting! Come on and help us find the creature!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That's the one there."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I see, I see... At a glance, it certainly has the look of both scalekin and beastkin."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Let's examine it more closely, shall we? Tell me your observations."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That was also the first thing I noticed. I daresay those scales are for hiding in foliage."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Indeed. Such forelimbs would be well suited to holding nuts and berries and the like."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Indeed. Such a snout would be well suited to feeding on ground-dwelling vilekin."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Having studied it, I believe that the “scales” upon its back are in fact a unique form of hide. Rather than being shed, it grows with the creature."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Hmmm, you may be right... If we consider that along with its other characteristics, such as its face and hands, it's more likely to be a beastkin like you said."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "A physical examination would be needed to confirm this beyond doubt, but I'm satisfied simply to have seen it!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It seems you alone were familiar with this species. Where did you encounter it?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The faerie kingdom of the First!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Forename has been to the very edge of existence. He / She has seen life that others could only imagine."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Amazing... Creation truly holds no end of mysteries!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Oh, how I'd love to see them all—the life beyond the bounds of our star and plane both!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Looks like we're having fun."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Ahh, hearing about the unknown never fails to rouse me. I felt the same way when Ketenramm and Galuf treated me to tales of their travels."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You've met my grandfather too!?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Oh? Didn't I already mention it?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It was when Galuf came to Tural to investigate the golden city. I happened to have business with Gulool Ja Ja, so we met in Tuliyollal."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Little did I know that the tiny babe he was cradling would return as you."
+    },
+    {
+      "character": "Krile",
+      "text_en": "To think that our paths had already crossed all these years ago..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Not only yours and mine either. Elene'shpya was there too, you know?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...I don't remember."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's quite fine if you don't!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It was actually because Galuf told me about Sharlayan that I later urged Elene'shpya to take up gleaning."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "My fussy bunbun was growing up dour and withdrawn, and it was when I was at my wit's end that I recalled your grandfather's story about gleaners. Seeing the world through their adventures would inspire a change for the better, I believed."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...I'm sorry I was dour and withdrawn."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you ask me, you still have some work to do. But it's because you're that way that you're with us now, and I for one am grateful!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Well, let's keep moving, shall we?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "There is a facility I've been wanting to visit—the Cleyra Museum of Nature. They're supposed to have creatures that take you on leisure flights!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "There's just one problem: it seems only three people can fly at one time..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then you and Erenville should go. The rest of us still have plenty of other things we can do here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If there's room for one more, why don't you come with us, Forename ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Then it's settled. The museum is at the bottom of the ramp that runs west of leynode aero. Come on!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It does look the part, this museum. I must say I'm curious what's inside."
+    },
+    {
+      "character": "Museum Curator",
+      "text_en": "Hello there! Come to ride the mehwapyarras, have you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look after Erenville for me!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "All this time, my grandfather was the common thread between us..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Do not mind us and just enjoy yourselves. We shall explore a little more and then make our way to the terminal."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Here it is, the Cleyra Museum of Nature. The main building is closed due to the aether shortage, but happily they're still offering leisure flights."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And these are the fellows that will bear us. How adorable!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They don't look capable of flight..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Ahaha! Come now, you know better than to judge a creature by its appearance. This will be great, I just know it!"
+    }
+  ]
+}

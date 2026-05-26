@@ -1,0 +1,724 @@
+{
+  "id": "beyond-the-mountains",
+  "wiki_path": "/wiki/Beyond_the_Mountains",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/7/7d/Beyond_the_mountains1.png",
+  "patch": "7.4",
+  "title_en": "Beyond the Mountains",
+  "level": "100",
+  "location": "Alexandria Crater(X:5.9,Y:6.5)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "The state of this reflection's aether is more dire than we anticipated."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I should be surprised if the Ascians had no hand in the war that wrought this."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The warding scale is truly a godssend for those of us without the blessing of Light. Remind me to send my profuse thanks to Vrtra and the Hannish alchemists once more."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That crater...was once Alexandria..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There are no structures, nor any other sign of survivors that I can see..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I suspect the crater made this area unsuitable for habitation due to the increased risk of flooding."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then we should look further afield. In which direction do you think we might find a settlement?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If we're at the edge of Alexandrian territory now, the closest city would be Treno. Should it survive..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As a city-state built on a harbor, it was a nexus of trade, and it remained neutral throughout the war. We Alexandrians always felt fortunate to have it in our neighborhood, so to speak."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Not unlike our Radz-at-Han."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, yes! Alphinaud has spoken of Radz-at-Han before. It's near the south sea isles─the Milalla homeland, correct?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Funnily enough, it was also Treno where the Milalla first found a home in our world."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Truly?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, and though the Milalla population elsewhere grew, most continued to feel a strong connection to the city. I'd like to think that some remain there to this day..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Clerk PX-0093, is this ship capable of taking us to Treno?"
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "I shall run a flight simulation for the route to Treno. One moment..."
+    },
+    {
+      "character": "Clerk PX-0093",
+      "text_en": "Simulation complete. There is a near one hundred percent probability that the ship would suffer catastrophic mechanical failure prior to arrival due to ambient lightning. My apologies!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh... Well, thank you for checking."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If we cannot fly, then we shall have to walk."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Treno lies beyond the mountains... But there should be routes that spare us having to climb."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That cave system, for instance─assuming it hasn't collapsed. Let's try there first."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Eager though I am to seek new discoveries, the prospect of walking in circles for days on end does not appeal. We are fortunate to have Sphene."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The place where my people first arrived─and I shall soon see it in person!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Of late, I've spent much of my time hunched over reports. A brisk trek across a wasteland shall make for a refreshing change of pace."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This tunnel appears intact..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Though we have no way of knowing what it's like further in."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Mind you stay alert for beasts, as well. Given the barren surrounds, they're surely ravenous..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Whatever lies ahead shall give us more insight into the state of the Ninth."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I am anxious and hopeful in equal measure. 'Tis a strange feeling..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There should be little reason for anyone to have passed this way since Alexandria's displacement. Let us pray loose rocks are the worst we must contend with."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I speak so confidently of the Milalla's connection to Treno because my tutor, Tuphut, hailed from the city. Another reason to hope it has survived..."
+    },
+    {
+      "character": "Treno Citizen",
+      "text_en": "No matter how many come, we fight hand in hand! Forevermore!"
+    },
+    {
+      "character": "Treno Citizen (text bubble, combat)",
+      "text_en": "Not so fast!"
+    },
+    {
+      "character": "Treno Citizen",
+      "text_en": "Who in the world are y─ I mean, thanks!"
+    },
+    {
+      "character": "Treno Citizen (text bubble, combat)",
+      "text_en": "For Treno!"
+    },
+    {
+      "character": "Treno Citizen (text bubble, after fight)",
+      "text_en": "Thanks for the help!"
+    },
+    {
+      "character": "Treno Citizen (text bubble, after fight)",
+      "text_en": "I'm beat...<wheeze>"
+    },
+    {
+      "character": "Treno Citizen (text bubble, after fight)",
+      "text_en": "You alright?"
+    },
+    {
+      "character": "Treno Citizen (text bubble, after fight)",
+      "text_en": "Still got all my limbs..."
+    },
+    {
+      "character": "Treno Citizen",
+      "text_en": "Got you!"
+    },
+    {
+      "character": "Treno Citizen",
+      "text_en": "Thunderous heavens..."
+    },
+    {
+      "character": "Treno Citizen (text bubble)",
+      "text_en": "Where does it hurt!?"
+    },
+    {
+      "character": "Treno Citizen (text bubble)",
+      "text_en": "Right h—Ouch!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Treno is safe. And has been, all this time..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Whatever its flaws, the barrier is keeping the lightning aether at bay."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What of the injured? Are we needed to help heal them?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "No more screams... I wager that's a good sign."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The tunnel looks to have been maintained to some degree."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The path is certainly too smooth to be natural."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The cave itself is a natural formation, but this..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This cannot have been abandoned since the war."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It doesn't appear to be in use. And yet..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is electrope..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That eye... Some sort of catoblepas, perhaps?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The only way out is through."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Is this its den?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That bodes ill. Get to cover!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We can use the stones!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You mustn't let that aether touch you!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Something is amiss... Take shelter!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Over here, quickly!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We'll be alright if we stay together."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Brace yourselves..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We shall stand as one!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A fearsome opponent."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Onward!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We should be nearing the other end."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I see it! Treno..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The city lives..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Something is amiss with that barrier..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The lightning is truly something to behold."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I, for one, would as soon hasten to shelter."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Stay low, and be wary if you hear a crackling."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "They've been breached."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We secure this area first, then!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We've come in the midst of an emergency..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Watch where it's concentrating the levin."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Note where the aether flows, everyone!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It's condensing lightning aether..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If it releases aether from all of those points..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Some manner of poison?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Quite a few of these toxic...things, aren't there?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ware the vapors."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I assume there will be more to follow..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It set off the levin!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Aetherial combustion!?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So the lightning aether reacts to it... Interesting."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The lightning charges it!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Now for the rest of the city..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We must hope we arrived in time."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That takes care of one..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Look there!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Treno's people are fighting!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We must aid them!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What must we do?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Above all else, remain calm."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Some have been wounded..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This looks to be a job for us."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The people who ran this way for shelter are in grave danger!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If we are to fight it, this is the best place to do so."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The aether is responding..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A mutual reaction."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Be careful where you stand!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Mind the orbs!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A cyclone of levin? I would rather not."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Do you think it will react to the lightning aether?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I suspect this combination will be potent as well..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Keep one eye on the storm!"
+    },
+    {
+      "character": "Exuberant Voice",
+      "text_en": "And the perimeter is clear! Good work, everyone!"
+    },
+    {
+      "character": "Exuberant Voice",
+      "text_en": "And a big “thank you” to our helpers─whoever you are!"
+    },
+    {
+      "character": "Exuberant Voice",
+      "text_en": "Now, we have a tiny bit of clearing up ahead of us. You know what to do!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "“Our helpers”? W-Were we being watched?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So the city endures. And it is in much better shape than expected."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Impressive, considering the destruction without."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The people here must have gone to great lengths to maintain all of this."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Their barrier resembles that of Alexandria, though it is smaller in scale."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And not quite as effective, if the breach we witnessed is any indication. I fear such incidents may be common here."
+    },
+    {
+      "character": "???",
+      "text_en": "Thunderous heavens! It's been years since we've had visitors!"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "I am Miayli, the mayor of Treno. Allow me to welcome you to our city! And thank you for the assistance with our little monster problem just now."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Might I ask your name, miss? Though I have an inkling I know it already..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But of course. I am Sphene, of Alexandria."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "As I thought. It truly beggars belief..."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "I once heard the strangest of reports from one of ours who went to Alexandria, you see. That despite the intervening years, the queen had not aged a day."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "And sure enough, I'd swear you'd stepped out of an old oil portrait mere moments ago! You must forgive me if this takes some getting used to."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "It is an honor to meet you, Your Majesty. I look forward to hearing the tale from your own lips."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "I imagine it won't be an easy one to tell. But please..."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "What happened to Alexandria?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I see... From your perspective, it must have looked as though we were wiped from the face of the star."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "One day, we lost all contact with our people in Alexandria."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "A scouting party sent to investigate reported that not only the barrier, but Alexandria itself was gone. Nary a stone to mark where it had stood..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What you must have gone through, not knowing what became of us..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But know that Alexandria yet survives, albeit in a distant land. Her and her people."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I can tell you the whole tale from beginning to end. But first, might I ask your permission to remain in Treno for a time?"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Of course you can! You and your companions have already done us a great service, and are more than welcome to enjoy our hospitality."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Now, how about we continue this at town hall? We needn't keep standing in the middle of the street."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I shall join them. Even with the precautions we've taken, it remains to be seen if Sphene's condition will remain stable."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I suspect, however, that the rest of you would rather be out and about. Consider this my blessing."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In light of our purpose here, a tour of the city is indeed in order."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I presume you have no objection?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "With your permission, then. Ah, but before we go..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Allow me to introduce myself as well. I am Krile, and I hope to learn more of this city and its people."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Would it offend if we were to ask a few questions? Perhaps as we work alongside you, aiding you in whatever ways you may require?"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "You needn't fret─Treno folk are as friendly as they come. As for aid..."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "If you're willing, you might speak with my grandson, Lumull─that was his voice you heard earlier. You'll find him serving herbal remedies to the others."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you for your guidance! We shall seek him out first."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That must be Lumull. Heavens, I can smell the herbal aroma from here..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "None of the locals we've passed appear terribly distressed. As Sphene surmised, incursions must be a common occurrence."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Why, if it isn't our new friends! Thanks again for making short work of our foes."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "If you've gone to the trouble of seeking me out, I can only assume it's for good reason!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "You want to help me ? Odd, but I'll consider it. Before anything else, though..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I must insist you drink our signature remedy, Sleepless Rhapsody! Everyone's a fan."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "You may find it the teensiest touch too sour for your tastes, but it'll set you aright. Just tip it down your throat..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "It won't hurt, you have my word. But since it's your first cup, maybe don't stray too far before you drink it."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Oh, and don't turn your back! For...best results, you understand."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is this custom meant to raise the townsfolk's spirits after a trying event? Does it serve some ritual function?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "He seems awfully keen on our partaking..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Surely we can survive a simple beverage. Surely..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Well, what do you think? It's a traditional Milalla recipe!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "That means it's working!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Hahahaha! Got that right! Don't worry─the tingling means it's working."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "No need to pretend─I'm not that thin-skinned. Just do your best to keep it down!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm put in mind of the gelatin I had at the Studium... “Nutritious,” they assured me..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I can relate all too well..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It's not unlike the syrup Lyna used to make. Black as pitch, and sour as sin... Though there's no better cure for fatigue."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You know, Raha... Going to bed at a reasonable hour would be the best cure."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh! That's...hm. I do feel shockingly refreshed."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Perhaps it stimulates the body's ability to process aether and hastens regenerative functions?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Indeed it does! It also counteracts some of the effects of excess lightning, and helps to calm the nerves besides."
+    },
+    {
+      "character": "Krile",
+      "text_en": "...Which is why you serve it whenever there's a breach in the barrier."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Our Milalla ancestors came from the lushest of lands, so they developed all sorts of natural remedies. We strive to carry on their traditions."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "...And I'm sure you see why! Really hits the spot, doesn't it?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Now, welcome to Treno!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I see how drinking that would be...unifying. And it is impressive that they have maintained the tradition here, so far from the Milalla's native lands."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Given its ability to counteract lightning's influence on the body, that remedy could be of use to the people of Alexandria as well. I am certain Lumull would be more than happy to offer it to them..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "<gasp> ...I forgot to introduce myself, didn't I?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Well, I'm Lumull. That was me announcing our victory earlier. And since Grandmother sent you to help with repairs, you'll know I'm her grandson."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I'm in charge of resolving any problems the people of Treno may have. My favorite kinds of work include taste-testing menu items, carrying medium-sized objects, searching for lost possessions of immense value..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Oh! And it's a pleasure to make your acquaintance."
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "id": "wuk-lamat-in-the-saddle",
+  "wiki_path": "/wiki/Wuk_Lamat_in_the_Saddle",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
+  "patch": "7.0",
+  "title_en": "Wuk Lamat in the Saddle",
+  "level": "90",
+  "location": "Urqopacha(X:28.3,Y:12.5)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Mablu",
+      "text_en": "Master Gobli's praise makes me confident I can be a peddler after all... Well, a bit more confident than before, at least!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "I'm satisfied with our trade, and I trust you are too. Should you have need of more mezcal, you know who to come to!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even at the palace, I don't think I've held a ten thousand pel jug of anything before. My hands won't stop shaking... Here, you'd better hold on to it until we get to the saddlemaker."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Ahahaha! Can you imagine if we dropped it and had to start all over again?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Luckily, Havli's place is not far─we just need to head across the plaza!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "The Third Promise looks ready to trade the mezcal now!"
+    },
+    {
+      "character": "Havli",
+      "text_en": "My price is final. Bring me a jug of premium mezcal, or go bargain with another saddlemaker."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is it─the trade we've been working towards!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Phew, still in one piece... Right, time to make our deal!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Get your tools ready, saddler─we've brought your precious mezcal!"
+    },
+    {
+      "character": "Havli",
+      "text_en": "Wait, you actually got your hands on a jug? But you had nothing─a few measly clumps of wool..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What we had was an aspiring trader with a gift for negotiation."
+    },
+    {
+      "character": "Havli",
+      "text_en": "Although I'd sooner aid no claimant but Zoraal Ja, I cannot go against the guiding principles of the Pelupelu."
+    },
+    {
+      "character": "Havli",
+      "text_en": "The trade is a fair one. I will craft your saddle, Third Promise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Great!"
+    },
+    {
+      "character": "Havli",
+      "text_en": "Stay and wait if you like. I have all the requisite materials, so this won't take long."
+    },
+    {
+      "character": "Havli",
+      "text_en": "...Your commission is ready. Catching a wild alpaca is never a simple affair, but you'll have an easier time of it with one of my saddles."
+    },
+    {
+      "character": "Havli",
+      "text_en": "Now, if you don't mind, I have other work that needs finishing. Ah, I can taste that smooth mezcal already..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We did it! The saddle is ours!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And to think we started out with only a hundred-pel basket of alpaca wool... Mablu, you are going to be an incredible merchant!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Thank you! It makes me so glad to hear you say that, Third Promise!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We got what we came for, so let's return to the ranch! The others will be waiting."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "It looks like everyone's been pitching in with the alpacas!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's tell them the good news!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Tobli and Erenville have been teaching us how to care for alpacas. One gentle girl ate the feed straight from my hand!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You've been away for some time. I assume trading was productive?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I made the mistake of startling one and caught a glob of spittle for my trouble. I'm beginning to understand Wuk Lamat's aversion to the animals..."
+    },
+    {
+      "character": "Havli",
+      "text_en": "So that was the Third Promise. She's not the spoiled, untested daughter I was expecting..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You've acquired the saddle, then?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, and thanks in no small part to Mablu!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Before you rush off to catch an alpaca, though, let me teach you how to saddle one. I'll bring out one of our wild-born friends so you can practice!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know, I know. This is something I need to learn."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Great sunken gods, I did it!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "He hardly seemed bothered, much less inclined to spit. As if he was completely accepting of Wuk Lamat's touch..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "That is because of the singular scent with which the saddle has been coated. Alpacas find it very soothing."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You know, I've never taken a good, long look at one of you before, but..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're actually kind of cute."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Ahahaha, you're only now noticing that!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Zoraal Ja! He's back."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Having done exactly what he set out to do..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That alpaca he's brought... Is it just me or is it...glowing?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've heard tales of such a beast. They say the golden alpaca lives a solitary existence deep in the valley, where it shuns the company of both man and its own kind."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How did he manage to snare a prize like that?"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "A beast knows its betters. Faced with overwhelming strength, it will yield rather than risk death. An apt illustration of how greatly the power of the First Promise exceeds yours, Wuk Lamat."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Strength alone won't win him our father's throne. I'll be the one to find the golden city, and then Tural can remain at peace."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "An everlasting desire for peace can only be forged in the fires of war."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "To unite as one, the people must be taught. They must suffer the horror and the hopelessness firsthand."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Exhaustion from prolonged conflict. The wages of war's merciless nature. These are what moved the clans to join in the founding of Tuliyollal all those years ago."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Consider the younger generation of this village. Since birth have they basked in unbroken harmony, and behold: they regard war not as tragedy but opportunity ."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Thus does the Resilient Son seek to provide education. He offers much-needed lessons in the realities of conquest and a renewed appreciation for peacetime."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis true that war's misery breeds a longing for peace."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But I have seen with my own eyes what becomes of an empire forged through the violence you propose─the rebellions it spawned, and the ruins it left behind."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "The Garlean Empire was a congregation of simpletons."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "The oppressed fought back against their oppressors. As well they should."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Men are not beasts. Only a fool would seek to rule over all with the threat of force alone."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "This is why Gulool Ja Ja did not elevate the Mamool Ja; why he treated all clans with equal respect."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "However!"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "The First Promise has his gaze fixed upon more distant horizons! He would unite not only Tuliyollal, but the star in its entirety!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What? Why?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I need not explain myself to you."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Oh, well done! Well done, indeed! The First Promise has completed the Feat of Gold with an appropriately golden flourish! May I present to you your much-deserved keystone!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He's always been like that─never sharing his innermost thoughts with me or even with Koana."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's like we're not even family..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I could never agree with Zoraal Ja. I want Tuliyollal to be a land of peace, now and always."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Zoraal Ja is willing to go to war for his twisted vision of peace. But should he achieve this peace, then what...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A golden alpaca in the flesh... Like the golden city, I thought them a children's tale."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So much of our star has begun to embrace reconciliation and rebuild...and this would-be warlord would thrust us all back into turmoil. We cannot allow it to happen."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What kind of idiot thinks the world can be united with war? Even most Garleans have since realized that their conquests were a mistake."
+    },
+    {
+      "character": "Wild-eyed Alpaca",
+      "text_en": "The alpaca seems glum. Perhaps it is wistful for the soothing scent of the taming saddle..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll ponder Zoraal Ja and his mysteries later. Right now, I need to think about finishing the Feat of Gold!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I have my saddle, I've practiced how to use it, so lead on to where the wild alpacas roam!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "The valley of Oruncanca is northwest of here. Come on, everyone─even if we can't enter ourselves, we can see Wuk Lamat off on her hunt!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Oruncanca is a steep and treacherous place, so only those with the head ledger's blessing are permitted to go there."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Mablu's right. The least we can do is let Wuk Lamat know we're cheering for her!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've never set foot beyond this point. The valley is said to be home to fiends far more ferocious than spitting alpacas."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "How deep do you think the valley is? I glanced over the edge on the way here, but the mist was too thick to even speculate."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Zoraal Ja may have caught his alpaca first, but that doesn't mean Wuk Lamat is out of the running. She can do this."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can do this... I know I can..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Good luck, Third Promise!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thanks, I'll need it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Truth be told, I'm still not sure about alpacas. I'd rather not go near one if I can help it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But if I'm to rule this nation, then I'll need to learn how to live with them. Tural is their home, too."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, I'm off!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So, shall we head back to the ranch, or..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I'm staying here!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "As will I. Wuk Lamat is alone in this. The least we can do is stand watch and await her return."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It may be a while yet. Help me pitch the tent."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Trust a gleaner to come prepared for anything."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "What's a gleaner?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Someone whose job it is to travel the world and procure uncommon things for their employers. Erenville specializes in finding animals, I believe."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "But aren't you a Shetona, from Xak Tural? Why did you cross the salt?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "When I was much younger, the thought of leaving Tural never even occurred to me."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But then, some years ago, my mentor tasked me with a difficult hunt."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Something I could never find, she said, so long as I clung to the familiar. She suggested that I leave home─leave Tural─and join the gleaners of Sharlayan."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As one of their number, I could experience the world. Immerse myself in myriad cultures and customs. See the many faces of nature. And once I had learned what is truly important, I would find that which I seek."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "My younger self took those words to heart, and off I went to become a gleaner."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Her words alone moved you to leave behind everything you'd ever known? You must have great respect for your mentor."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As it happens, gleaner work was much to my liking, and I all but forgot why I had pursued it in the first place..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Yet events conspired to put me back on the trail I'd abandoned."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wait... Are you saying you were tasked with finding the city of gold?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I was. And though my hunt is now entangled with the rite of succession, I mean to see it through."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well then...I understand completely! We all have our reasons for seeking the golden city..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Which is all the more reason for us to work together!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Just so."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "She should've been back by now! What if something's happened to her? We need to tell Tobli and arrange a search party!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Wait... Do you hear that?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I did it..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You're utterly spent, and small wonder."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well done, Third Promise."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The ranch isn't going anywhere. Take a rest in the tent."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I think I will. Thank you all for believing in me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thanks to Alphinaud and his healing hands, I can actually stand again...maybe even walk!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We were out here for quite some time, but I'm glad Wuk Lamat was able to catch her alpaca. And Erenville choosing to share his story with us was a welcome surprise!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...I spoke too much. If Wuk Lamat is up to it, we should be heading back to Tobli."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Wuk Lamat had no serious injuries to speak of. However, she had clearly been pushed to the very limits of her endurance."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Alphinaud was quick to lend a hand with dismantling the tent. Is this to be his new obsession now that he's mastered collecting firewood...?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I'm so relieved the Third Promise came back to us safely!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "And the alpaca she tamed is a healthy-looking beast. Surely this will be enough to satisfy the Feat of Gold!"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": "sibling-rescue",
+  "wiki_path": "/wiki/Sibling_Rescue",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Sibling Rescue",
+  "level": "92",
+  "location": "Kozama'uka(X:31.8,Y:25.5)",
+  "npc_start": "Koana",
+  "dialogues": [
+    {
+      "character": "Koana",
+      "text_en": "Thancred must know something by now..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You found her!?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "...Understood. Thank you."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I had but to invoke his name. Thancred followed the Hoobigo's boat to its destination, and confirmed that they are indeed holding my sister captive."
+    },
+    {
+      "character": "Koana",
+      "text_en": "“They,” of course, being Bakool Ja Ja and his minions. I swear, I will make them regret this."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i is in Richleaf tunnels. The moment the harness is repaired, we strap in the punutiy and make our way back down Ihuykatumu!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Thancred!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The Third Promise is up ahead. She's unharmed, but we'd best not dally."
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[BAKOOL ELDER LAUGHTER - “Gehehehe!”]"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I spit on these pathetic feats─far more satisfying to claim the baubles by force!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Give it back! Fonjeantaine poured his everything into that stone! You've no right to touch it!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Aw, was that the name of your artisan? How could you allow something so precious to be stolen!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You thieving cheat! You're no true claimant!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "What does that make the foolish kitty who fell into my trap? If pitiful roars were all it took to claim the throne, you'd be first in line!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Now, now, Brother, you shouldn't tease her. Look, the poor thing's on the verge of tears."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Meow! Someone save me!"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[BAKOOL ELDER LAUGHTER - “Gehehehe!”]"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[BAKOOL YOUNGER LAUGHTER - “Kyahahaha!”]"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Ow!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Who did that!?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Hmph, his scales are as thick as his skulls."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Coward! You dare ambush me!?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "'Tis the blessed siblings' favored tactic."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "That useless Boonewa sycophant. He was supposed to keep the lackeys running in circles!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Oh, you must tell me all about that."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Careful now! You wouldn't want to hit our hostage!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "That one's not to be underestimated!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "They can do nothing while we have─"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[ROARS IN SUDDEN PAIN - “Gah!”]"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[ROARS IN SUDDEN PAIN - “Gah!”]"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Impeccable timing!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i, are you all right!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Aye, thanks to you!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "These weaklings think they can defy us! We'll slaughter the lot of them!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Patience, Brother! The keystone is ours─there is no need to fight this day! And Zoraal Ja has left us hurting..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "No! I won't stop until I gut these maggots and feed them their entrails!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "If we fall here, we fail our siblings for nothing. Is that what you want?"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[GRUNTS IN GRUDGING ACCEPTANCE]"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "No, Brother..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Break off! We retreat!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait! Damn you, Bakool Ja Ja!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Do we give chase?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "We head back. Lamaty'i is safe, and that is what matters."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I am glad to see you unharmed, Lamaty'i."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thanks again for coming to my rescue, Koana."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And all of you too."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Bakool Ja Ja must be desperate indeed to resort to such aggressive tactics."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I shouldn't have been so careless. I underestimated him, and it cost me a keystone!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Fonjeantaine upended his life so that I could accomplish the Moblin's feat. He believed in me─believed in my cause─and I've let him down!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're right. It's not over till it's over!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes... We'll do exactly that!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're godsdamned right about that!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The next time I meet that brute, I'll knock him straight on his scaly behind and take back my keystone!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Speaking of vengeance, didn't Bakool Ja Ja curse some “useless Boonewa sycophant” when he caught sight of us?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A reference to Sareel Ja, I would assume. He is devoted to our brother, and is the only Boonewa I know of participating in the rite of succession."
+    },
+    {
+      "character": "Koana",
+      "text_en": "If Zoraal Ja was somehow involved in this..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I will never forgive him for putting our sister in danger! He will have forfeited his right to be called brother!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Ahem... Bakool Ja Ja should face punishment, of course, but so must the bandits who had the temerity to abduct Lamaty'i."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I shall request that Father send a contingent of Landsguard to enforce the law in this region."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I agree that measures need be taken to keep travelers safe."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But I wonder what pushed these people towards a life of banditry in the first place? If we dig deeper, we might find a way to improve things for everyone."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...'Tis something to think about. For now, however, the rite continues. I thank you all for your help."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We should be moving on, as well. Are you feeling fit to travel, Wuk Lamat?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You bet I am! Zoraal Ja's gained a good head start, and it's time we clawed back some lost ground!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Koana is the picture of composure and rationality...except when it comes to matters concerning Wuk Lamat's safety. Far be it from me to fault a brother for being protective, but still."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Wuk Lamat I once knew would have been inconsolable at the loss of a keystone."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This journey─and your companionship─is doing her a world of good."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We'll need to take that keystone back from Bakool Ja Ja before we arrive at the city of gold. He will not relinquish it without a fight, though..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Though they share a single body, it's obvious Bakool Ja Ja has two minds when you see one head calming the other head down."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "His personalities are as distinct as two individuals could be."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I really am sorry this happened. From now on, I won't let my guard down around suspicious strangers."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And again, I do appreciate you all coming to save me!"
+    }
+  ]
+}

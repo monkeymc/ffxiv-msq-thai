@@ -1,0 +1,520 @@
+{
+  "id": "the-land-of-levin",
+  "wiki_path": "/wiki/The_Land_of_Levin",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/c/c8/The_Land_of_Levin.png",
+  "patch": "7.0",
+  "title_en": "The Land of Levin",
+  "level": "97",
+  "location": "Heritage Found(X:34.4,Y:35.3)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "This is Yyasulani...?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There was no sensation of passing into a different world. This couldn't be a reflection...could it?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I don't know what I was expecting, but it wasn't this."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Things keep getting stranger and stranger..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It doesn't make sense..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That tower—was it always there?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No, definitely not. Nor the wall over there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The material's not something we use in Tural. It's closer to what we saw at the gate to the golden city, or those mechanical soldiers."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Such a massive structure couldn't possibly have been built in so short a time."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Then I'm inclined to assume we've been transported to another location. Or perhaps..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, speculation will avail us naught. We need to learn more before we can draw conclusions."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's take a look around, then."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This place is isolated by the dome, yet the skies are heavy with thunderclouds. The air oversaturated with lightning-aspected aether..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I recognize the lay of the land. It's definitely Yyasulani. And yet..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Haven't seen anyone so far..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This place is unnatural in a way I've never seen before."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That looks like a train station, doesn't it?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That must be Yyasulani Station, where the passengers disembarked!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then perhaps we'll find someone to talk to there. Let's go and investigate."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This aetheryte is of Turali design."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's fallen into total disrepair. Almost as if it hasn't been used in decades..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Amidst enormous alien structures, we have more familiar sights like this station..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is a water tower for trains, isn't it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hmm. I'm pretty sure this is Yyasulani Station..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But from the state of it, I'd swear it was abandoned years ago."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm not sure what to make of this. We should look around a bit more."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I think this thing is broken."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Finished poking around, have you? Let's gather everyone, then. I want you all to take a look at this."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's one of the mechanical soldiers. Long since broken, apparently."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But I'd say its presence confirms this is indeed Zoraal Ja's domain we're in."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What about the rest of you? Did you learn anything?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So all evidence suggests this is Yyasulani Station..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Aye, and I've no doubt we're in Yyasulani. But I don't understand why these buildings are so run-down."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They were completed barely a year ago."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "For new structures to deteriorate and enormous ones to appear in a flash... If I didn't know better, I'd say time flows differently here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is such a thing even possible?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We have encountered this phenomenon before, as it so happens."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though it may be difficult to believe, our world is but one of several. In some respects they are similar to one another, but in others wholly different. We call them reflections."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Simply put, the rift between dimensions causes time to flow at a different pace in each world. While hours pass in one, years may have come and gone in another."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But if this is Yyasulani, then we should still be in the Source. The flow of time should be synchronized."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm not sure I follow all this talk of reflections and dimensions..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But if Erenville says this is Yyasulani, then it must be."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Your village is a little further along, right?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Oh, uh..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Y-Yes. It's a short distance to the northwest."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's head there next, then. Rather than talk theory, it's always better to confirm things firsthand."
+    },
+    {
+      "character": "???",
+      "text_en": "<bzzzt> May I...be of assistance?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I-It's still functioning!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It doesn't seem to be hostile, at least. Perhaps we can ask it some questions."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Can you tell us where we are?"
+    },
+    {
+      "character": "Defective Automaton",
+      "text_en": "Unable to confirm credentials. <bzzzt> Please present citizen identification."
+    },
+    {
+      "character": "Defective Automaton",
+      "text_en": "Unable to confirm credentials. <bzzzt> Confirm. <bzzzt> Confirm. <bzzzt>"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Seems it's broken after all..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "T-Too strange by half... Let's leave it be and get going."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Are those lightning rods?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Would you accompany me for a moment? There's something I wish to investigate."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Look there. The lightning appears to be drawn to those pole-shaped structures over yonder."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The design suggests they're some manner of lightning rod."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let's go and take a closer look."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This material appears to be the same as that used in the mechanical soldiers and warships."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "On closer inspection, it appears to bear fine etchings... Rather reminiscent of arcane runes, these. I suspect they're not merely decorative."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I would posit it's used to harness lightning as a source of energy. Quite impressive technology."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I'll share this observation with Y'shtola. For a blessing, the dome doesn't appear to interfere with linkpearls."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Thanks for accompanying me. Let's head to the village and find the others."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This is Erenville's village...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, Erenville..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's stay vigilant."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "No sign of anyone..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What in the world...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "My home... It's in ruins. But why—what happened here?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "And where is everyone?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I had a look in a few of the other houses, but they had clearly been abandoned."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn it all! None of this makes sense!"
+    },
+    {
+      "character": "???",
+      "text_en": "Excuse me... Are you looking for someone?"
+    },
+    {
+      "character": "???",
+      "text_en": "[GIGGLING]"
+    },
+    {
+      "character": "???",
+      "text_en": "I apologize for giving you a fright. However, I did have reason to keep to the shadows."
+    },
+    {
+      "character": "???",
+      "text_en": "Zoraal Ja has told me a great deal about you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja?"
+    },
+    {
+      "character": "???",
+      "text_en": "Greetings, and welcome to the realm of Alexandria."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I am Sphene, the Queen of Reason."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Queen of Reason?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If you are the Queen of Reason, is there perhaps a...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes—if you mean to ask if there is a King of Resolve. Zoraal Ja holds that title, and together do we reign."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then you're both behind the attack on Tuliyollal!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And I doubt you're here to offer us a warm reception."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No, you have it all wrong. I am not come to fight."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Zoraal Ja rules alongside me, but that is a matter of expedience. In truth, we are at odds, he and I."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It is at considerable risk to myself and my people that I come before you to beg your aid."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Our aid? I'll admit I cannot imagine King Zoraal Ja is keen to share and share alike, but if what you say is true, you're still the queen."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...Indeed. But I was once the sole ruler of Alexandria."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Until, one day, he appeared, bent on conquest. In my weakness, I feared his power..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So I persuaded him to forego violence and strike a bargain. I would remain queen, and he would receive technology that would empower him to achieve even loftier ambitions—along with the knowledge to use it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A gamble, to be sure, but if it might spare my people..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If I may—the dome surrounding these lands was erected but recently."
+    },
+    {
+      "character": "Krile",
+      "text_en": "How is it he was able to not only invade, but instate a new system of leadership in a mere matter of days?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've never heard of your realm. And this place is—or at least, was—Yyasulani."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The house I grew up in is still here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But three years ago, that tower and these strange contrivances weren't. Nor was our village in ruins."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Where did you come from, and what happened to the people who lived here? You must know!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I realize how confusing this all must be. Truth be told, I don't fully understand it myself."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What I can say is that, one day, people from your Tuliyollal suddenly appeared here in Alexandria. Or perhaps it was we who found ourselves in Tuliyollal..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Until but recently, we were completely unaware of events taking place beyond the barrier surrounding our realm."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Does this not remind you of the Crystal Tower? How after the Eighth Umbral Calamity, we devised a means to transport the spire across time and space from the Source unto the First?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Granted, this is on a much larger scale, if that is indeed what has happened. Not only the people and structures, but also the surrounding environment..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Regardless, the people of Lakeland perceived the arrival of the Crystal Tower much as the queen describes her own experience—sudden and inexplicable."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Well then. You appear to have a better grasp of our circumstances than we do. Indeed, more than I dared hope."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "In which case, a closer examination of the effects of this phenomenon may afford us more insights. Allow me to take you to the outskirts."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A number of the Shetona live there as well. Perhaps your acquaintances are among them."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hold on. If we accept, there's no guarantee we're not walking into a trap."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But if we're to defeat Zoraal Ja, we need to understand how he grew so strong. Besides..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You're right."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Queen Sphene? Before we go, Your Majesty, I have to ask. Did you really have nothing to do with the attack on Tuliyollal?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Noble Wuk Lamat—shall we dispense with the formalities?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'll not deny the soldiers and airships that attacked your people are products of Alexandria, but it was Zoraal Ja, not we, who fashioned them into weapons of war and laid siege to Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So he alone is to blame."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...No. I may not have prosecuted this war, but I nevertheless bear responsibility for it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Perhaps. I know next to nothing about you, let alone what you've been through."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So by all means—show us around. I think we'll learn a lot from meeting your people."
+    },
+    {
+      "character": "Sphene (no text)",
+      "text_en": "Oh..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wonderful! If you would follow me."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Is that concern? Or suspicion?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If things should take a turn for the worse..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Might I call upon your aid?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I jest, of course! But you do strike me as the most capable here."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I think it goes without saying, but we're not going to trust her just like that, right?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Any way you look at it, a mysterious girl who appears out of nowhere, proclaiming herself a queen is suspicious..."
+    }
+  ]
+}

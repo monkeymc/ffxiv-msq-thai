@@ -1,0 +1,440 @@
+{
+  "id": "my-memories-and-yours",
+  "wiki_path": "/wiki/My_Memories_and_Yours",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
+  "patch": "7.3",
+  "title_en": "My Memories and Yours",
+  "level": "100",
+  "location": "Solution Nine(X:9.6,Y:21.8)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "I will hold on to Geode's gun... If you could take the soul cell, please..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We should return to the Backroom. Shale and the others need to know what happened."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yes, I'll ask Wayakkwe to meet us there as well."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Our dear Geode..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The soldiers... If only I'd been able to control them..."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "This isn't your fault, Gulool Ja. The blame lies with Calyx, and with him alone!"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "It's all so senseless..."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Why force his plans upon us when we're already happy, living our lives? What does he even think life is!?"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "I'll never forgive Calyx for doing this..."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Or myself for being powerless to stop him!"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Wait, where are you going?"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "To clear my head. Don't worry, I won't do anything stupid."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Stay here and get some rest. I'll make sure Nostalgia stays out of trouble."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Thank you..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Things would've been far worse if you and Geode hadn't rushed in there. Many people are still alive because of you."
+    },
+    {
+      "character": "Shale",
+      "text_en": "And after adding what you discovered to the leads we've dug up, I'm hopeful we can determine where Calyx is hiding."
+    },
+    {
+      "character": "Shale",
+      "text_en": "But...not right now."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We need time before we can move on. Just a little time..."
+    },
+    {
+      "character": "Oblivion Member",
+      "text_en": "Oh, Geode..."
+    },
+    {
+      "character": "Genolt",
+      "text_en": "They brought back Geode's gun... Its rounds were spent an' its barrel was scorched, so ye can be sure he went down fightin'."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I am told that the members tasked with keeping residents safe returned with the body of their comrade. They all risk so much..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We made a swift patrol of the other levels, and confirmed that Calyx had carried out a number of targeted attacks. All to harvest more aether, it seems..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I got back control of the sentries...probably around the same time Calyx left. I'm sorry, I couldn't stop him..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I assume you know better by now, but I hope you're not planning to try anything alone. We are all here with you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've spoken with Wuk Lamat. They've cut their meeting short to deal with the aftermath of this latest violence."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Another comrade gone. Some days it's almost more than I can bear."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Geode was... He was an older brother to Nostalgia and me."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Shale knew him longer, though, and is surely taking it the hardest. And that's on top of what happened with Cahciua..."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Do you think you could check on her? See how she's doing? She's like to put on a brave face if it's me or my sister."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Oh, we have Isadora and Milos under guard, so...that's one less thing to worry about."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Apologies. My mind was elsewhere."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We need to press on with the hunt for Calyx, but I can't seem to focus. I should be better than this, I know..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "You can't help yourself, can you? Still, I appreciate the concern."
+    },
+    {
+      "character": "Shale",
+      "text_en": "You're right. I ought to heed my own words. As it stands, I'm of no use to anyone."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Cahciua used to say the best thing to do with grief was to let it all out."
+    },
+    {
+      "character": "Shale",
+      "text_en": "So, I think I'll take myself over to Earthen Sky and say my good-byes to Geode..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Why don't you come along? I could use someone to blubber to if you've a shoulder to spare."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Right, then... Let's get out of Everkeep for a bit."
+    },
+    {
+      "character": "Oblivion Guard",
+      "text_en": "We've decided to keep the soldiers here armed to drive away any wild beasts that might wander too close to Everkeep."
+    },
+    {
+      "character": "Oblivion Guard",
+      "text_en": "But seeing as how people live in the area as well, we're taking turns patrolling it. We all have the code for emergency shutdown, so we can handle any surprises."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's a fair trek on foot, so I've arranged for a couple of air-wheelers."
+    },
+    {
+      "character": "Shale",
+      "text_en": "They've had their communications modules removed, so even Calyx shouldn't be able to seize control of them. Say the word, and we'll set off."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ready? We'll be flying close to the pylons, so follow my lead."
+    },
+    {
+      "character": "Shale",
+      "text_en": "These air-wheelers are Genolt's babies. You won't find a smoother ride in all of Everkeep."
+    },
+    {
+      "character": "Shale",
+      "text_en": "For years now, I've been taking one out for a turn whenever I needed to lighten my mood."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Sometimes Geode would come along, too, and we'd end up racing."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Does that surprise you? Our friendship always had a competitive edge."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We would often talk about how, one day, we might fly our wheelers outside the dome..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "...Almost there. Be sure the ground is clear before you touch down."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Phew... That's helped clear my head a touch."
+    },
+    {
+      "character": "Shale",
+      "text_en": "You know, Forename , you might be the first person I've ridden with who wasn't an Oblivion recruit."
+    },
+    {
+      "character": "Shale",
+      "text_en": "...As far as I remember, at least. The memories from my regulator days aren't exactly reliable."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Come on, let's head inside. Hopefully the way will be clear of pests today..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ugh, just our luck..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Thanks."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We can usually avoid such encounters, but sometimes they wander in and block the only path."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Not that it slowed you down at all. I've never seen you fight up close before, and the surveillance feed clearly didn't do it justice."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ahem. Hopefully that keeps the route clear for a while. Shall we?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Whenever we lost a comrade, the three of us would come back here to reminisce. Me, Geode, and Cahciua..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Will you raise a glass?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh!"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "What are the two of you doing here?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I had a feeling you'd show up. Would you like to join us?"
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "I suppose I could spare a moment."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "They tell us Oblivion's founders disappeared some decades ago under mysterious circumstances , and it was Cahciua who revived our organization."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "You and Geode helped her with that, didn't you? Tell us more about it."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "You're keen to know too, right? What they were like back then, the mad things they got up to... That sort of thing!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ah, those were the days. It was actually right before the reformation that I met Geode."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I still wore a regulator then, and had recently lost someone close to me."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'd also just quit a long stint as an adapter to work at a bar, of all places. They paid me to sit with patrons and “keep them company.”"
+    },
+    {
+      "character": "Shale",
+      "text_en": "So Geode came in one night, and it wasn't long before we got into an argument. First-time customer, but tempers flared. And then one of us threw a punch..."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "You got into a fistfight!? What were you even arguing about...?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Damned if I know. We were deep in our cups. I think we were both just frustrated and angry at...everything."
+    },
+    {
+      "character": "Shale",
+      "text_en": "By the end of it, we were both sprawled out in the street. A pair of drunken fools. Then this odd machine stopped to lecture us, scolding us for obstructing the foot traffic and not taking better care of ourselves..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can't imagine you ever being in such a sorry state."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The odd machine... That was Cahciua, I take it?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "That it was. Once she was done upbraiding us for our unseemly behavior, she launched into a recruitment pitch."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Cahciua explained that she wanted to protect the “outside world” from Zoraal Ja's invasion─to keep him from bringing ruin to the place her beloved son lived. And if we were so intent on self-destruction, then perhaps we might consider risking our hides for a just cause."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It was a lot to take in. I hadn't given much thought to what lay beyond the barrier, and learning that Cahciua herself was already dead was enough to make my head spin."
+    },
+    {
+      "character": "Shale",
+      "text_en": "But Geode and I were intrigued by her ideas, and wanted to see this future of hers come to pass."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Geode often spoke of it. He told me that meeting Cahciua was what first taught him the value of remembering people."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Like he was sharing a holy revelation."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Oh, but... Back then, you hadn't yet taken on Oblivion's name, had you?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that so? I'd just assumed..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It hadn't been Cahciua's intention to carry on Oblivion's legacy, nor adopt the cause your parents championed. Not initially, at least."
+    },
+    {
+      "character": "Shale",
+      "text_en": "She wasn't even aware such an organized resistance existed."
+    },
+    {
+      "character": "Shale",
+      "text_en": "She did, however, suspect the presence of other dissidents─those who objected to resurrecting the memories of the dead in defiance of the natural order."
+    },
+    {
+      "character": "Shale",
+      "text_en": "In the hopes of identifying like-minded comrades, we began searching the core system for traces of unauthorized access...and that's how we found it."
+    },
+    {
+      "character": "Shale",
+      "text_en": "An anomalous sector in the back of the Neon Stein. According to Melancholy, the door to that mystery had remained firmly shut since she took over the business."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "The Backroom..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "The Backroom. We forced our way in, only to discover that the hideout had long been abandoned."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Although the occupants were gone, the equipment they'd left behind contained records of a group calling itself “Oblivion.” After reading through their exploits and their vision for the future, we made the decision to carry on their work."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thus were my parents' and Cahciua's hopes bound together..."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "And carried onward by Shale and Geode..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We could never have made it this far on our own, of course. Not without the strength of arms you and your friends provided."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Losing comrades is a hard thing, but being here, thinking back on the moments we shared..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I can see their smiles, hear their laughter. I feel their presence, and I know. They're still with us."
+    },
+    {
+      "character": "Shale",
+      "text_en": "But these memories of mine are for me alone. Reminders of why I chose to do this...and why I'll stay the course."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Right. Time we got back to work. Thank you, everyone."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "No, no, it's me who should be thanking you. Though the pain is still deep, I don't feel like I'm drowning in it anymore..."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Let's get out there and put a stop to Calyx─for you, for me, and for everyone who's ever believed in Oblivion!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "...I appreciate you helping me through this."
+    },
+    {
+      "character": "Shale",
+      "text_en": "And not only the grief. You've helped me see that my comrades mean even more to me than I realized."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Which only fuels my determination..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'll be spending every waking moment working to bring Calyx to account for his crimes."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'll do my part, then you do yours. Oblivion needs you."
+    }
+  ]
+}

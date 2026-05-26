@@ -1,0 +1,488 @@
+{
+  "id": "a-beacon-from-beyond",
+  "wiki_path": "/wiki/A_Beacon_from_Beyond",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.5",
+  "title_en": "A Beacon from Beyond",
+  "level": "100",
+  "location": "The Red Moon(X:6.1,Y:3.7)",
+  "npc_start": "Zero",
+  "dialogues": [
+    {
+      "character": "Golbez",
+      "text_en": "That key of yours intrigues me. Had my former self known of its existence, I might have sought different means to reach the Source..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Until our battle earlier, I hadn't called upon Darkness in some time. In truth, I find Light a better fit these days."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Ever since you left, we've been roaming the void in search of individuals who would join our cause."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Although we returned to the red moon after sensing Enuo's presence, rarely do we linger in a single location."
+    },
+    {
+      "character": "Zero",
+      "text_en": "However, if the interloper you spoke of does intend to seek me out, it might be wise to return to my domain."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Why don't you join us? With Enuo defeated, the Source should be in no imminent danger."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Good. We'll wait for you by the crater."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I presume you remember traveling by nisroch? Once we reach the surface, the creature will convey us to my domain."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "There is a teleporter situated between here and the center of the moon."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "I used it to travel to the surface in days long past, though I seldom had need once my generals were in place."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Igeyorhm herself crafted the device that I might lay low the servant of Light."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Ironic that we now use it seeking to restore Light to the void..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Ah, forgive my idle reminiscences. 'Tis time we made our descent."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "There are many in this domain who still fear me. I shall remain here to avoid needless provocation."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Though it was not always so, many who live here now have chosen to do so because they support the cause."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Indeed, if our numbers continue to grow, we may require more territory."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Thankfully, we were able to harness the residual aether from Barbariccia's domain. Those reserves will enable me to expand mine as the need arises."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Right, we had best prepare for our potential guest. Join me in my abode when you're ready."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I imagine you remember these. The transmitters we used to receive Light from the First..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "If memory serves, they work by channeling excess aether left in the wake of the Flood into the Crystal Tower."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Using the tower's cross-rift travel capabilities, Light is then conveyed unto the Thirteenth and into these devices."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I have a mind to use them now, but they'll need to be set in an elevated location. Your assistance would be greatly appreciated."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Using the transmitters in here won't suit my plan. We require higher ground."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Upon activation, these transmitters will shine with Light from beyond─sent courtesy of our ever-watchful friends."
+    },
+    {
+      "character": "Zero",
+      "text_en": "They will serve as beacons in the Dark for those that would seek me out."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Light, in the void...!"
+    },
+    {
+      "character": "Malphas",
+      "text_en": "And a mortal, no less. I did not expect to see you here."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I am Zero, and this is my domain. 'Tis a safe haven for those who abhor conflict."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Among those gathered here, many aspire to restore this world to how it once was."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Such a thing is possible?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Indeed. Though how long the endeavor will take, I cannot say."
+    },
+    {
+      "character": "Zero",
+      "text_en": "But for those of us abandoned by death itself, what do we have but time to try, and try again?"
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Very well."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "This Light is ample proof your comrade spoke true. However long it takes to restore our world, you shall have my aid."
+    },
+    {
+      "character": "Zero",
+      "text_en": "And you shall have mine."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "That brilliant beam... Though but a drop in the ocean, I'm sure its radiance dispelled the Darkness from within some few voidsent."
+    },
+    {
+      "character": "Malphas",
+      "text_en": "Perhaps I shall use my abilities to assemble a dwelling in this domain..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "It would seem Jullus's intervention has helped forge a new bond. Thank you for bringing word to me."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I gather you'll head home sooner rather than later?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Then let us return to the red moon. I'm sure you won't begrudge me a proper farewell."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Would you deliver a message to Jullus for me? Tell him that we're making progress towards rebuilding our home...and I hope that he is too."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Enuo's memoria will be safe here."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "The crystal containing Zeromus has been passed on to our allies in the First..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "If Enuo's memoria might serve them in restoring their world, we shall likewise consider its transfer."
+    },
+    {
+      "character": "Zero",
+      "text_en": "How much simpler it would be to aid one another in our respective fights, were it not for these boundaries between us..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Safe travels, my friend. We take comfort in the knowledge that you're out there fighting too, wherever you may be."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "No luck, I'm afraid. It appears he's / she's not in Mare Lamentorum."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Wait, is that...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Gods, you had us worried! You suddenly disappeared─we didn't know what to think."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Shortly after you vanished, the voidsent incursion abruptly ended."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We surmised you had a hand in that, but never did it cross our minds that you were fighting alongside Zero and Golbez."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This golden path you said you traversed wasn't visible to us either."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Nor did we hear a voice. “Ethos”... Might this be the key's true name?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While many mysteries remain, for now I am glad to learn the state of affairs in the Thirteenth."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Golbez's suspicion that the barrier 'twixt worlds has begun to weaken..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Twould certainly explain the surge in fissures manifesting in the Source."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Yet what could be behind such a phenomenon?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And who might you be? Not a voidsent, I'd wager."
+    },
+    {
+      "character": "???",
+      "text_en": "Greetings."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "I am Halmarut of the Ascians."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "We are your sworn foes, I know. But on this occasion, will you not put away your arms?"
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "I wish only to talk."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Thank you for affording me a chance."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Bereft of the unsundered, we were under the impression you and yours no longer had cause to continue your activities."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That you should reveal yourself at this juncture..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I assume you are the one who bestowed Calyx with the knowledge of summoning and the reflections."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Yes... That is correct."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "<gasp>"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "...Was it necessary to reveal my present form as well?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Calyx! So he succeeded in transferring his memories after all..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Be at ease. Even were I to occupy a combat-oriented vessel, I would not have the ability to defeat you."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You destroyed my plan─my life's work. I have naught to replace it, nor will I ever regain what I once had."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If you wish to speak, Halmarut, will you not tell us what it is that you hope to accomplish?"
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "As you know, our star, Etheirys, was sundered into four and ten shards in the time of the ancients."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "As the will of the star, Hydaelyn perpetuated this unnatural division for millennia."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "And in the wake of Her passing, nature has begun to reassert itself. As a wound knits itself together, the star seeks to become whole once more."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Yes, it seeks to rejoin with all of its shards."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Unlike the one we Ascians attempted to orchestrate, however, the star's rejoining will afford mankind no special treatment."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "All life and matter will be condensed into a single whole and remade for a new beginning. A complete rebirth."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Etheirys will return to the way it once was, hundreds of millions of years past. To a quiet and peaceful time, long before the light of mankind was kindled."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Supposing for a moment we believe you, how can you possibly know all this?"
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "It is an inevitability that I have foreseen since time immemorial."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "A future that awaits should creation be freed from the influence of Hydaelyn and Zodiark."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "The star is tolerant to life. It holds no grudges, and neither rages nor weeps for being sundered."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Yet by the same token, it is indifferent to life's survival. No amount of devastation and death can compel it to stop the wheels of creation from turning."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "The earth shakes, and mountains spew fire. Floods wash away the fruits of labor, and icy winds freeze and starve. Countless perish as nature runs its course."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "So many seeds of life have already been lost. Yet in spite of this, people continue to believe that the morrow will come."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "But it will not. For nothing lies beyond the Solstice, when all creation is reunited. When that day comes, every last trace of mankind shall be erased."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "I cherish man's journey."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Despite losing his innocence and being made to live with suffering, he has forged ever onward. Strong even as he is weak, his is a proud tale in the history of the star."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "'Twould be a shame for that tale to end. For all to wither and die when some might yet survive. Would you not agree?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "If a natural rejoining doth lead unto the Solstice, then thine intent is to preemptively rejoin the worlds."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Correct. It was for this very purpose that Halmarut recruited suitable collaborators from the reflections."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Individuals like me, who would willingly doom another world in order to fulfill their aspirations."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "The Winterers, we are called. And if you and yours seek to protect all life, then sooner or later, you shall have to contend with us."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Even if everything you claim is true..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What you've done, Calyx... It's unforgivable!"
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "I do not ask that you be pragmatic, nor do I seek your approval."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Given your familiarity with other reflections, 'tis only natural that you are averse to our methods."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "But there is one irrefutable fact that you must understand."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Should we take no action at all, the Solstice will come. And no one will be left alive. No one."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Of course, should it serve to satisfy your ambition, you are welcome to deal with the reflections as you deem fit."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Like the pariah and wanderer who satisfied his own, when he brought the star to the brink of ruin to face you."
+    },
+    {
+      "character": "Krile",
+      "text_en": "W-Wait!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "To think that individuals of Calyx's ilk or worse exist on other shards..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You'll have to forgive me. I'm still coming to terms with it all..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Halmarut can't be speaking the truth... Can she?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The Ascians once labored to resurrect Zodiark and bring back those who rendered up their lives to summon Him. For the sake of those who now live, we fought tirelessly to oppose them."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "If Halmarut doth truly seek a rejoining to avert this Solstice─to ensure some survive when otherwise all would perish...then our interests are not so disparate."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Trust the Ascians to be plotting something utterly reprehensible..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Though I am tempted to dismiss a “preemptive rejoining” as an utterly absurd solution, her words are not to be taken lightly..."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "There you are! One moment you were standing before me, and the next you'd vanished into thin air!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Thanks to you all, the voidsent have been eradicated and the gate lies sealed once more. There's been nary a peep from the crater!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "...Though I can't help but notice none of you seem to share my enthusiasm. Is something wrong?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "The star seeks to become whole?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "B-But that's preposterous! As far as I'm aware, Hydaelyn made no mention of a natural rejoining. I ought to consult the records to be certain..."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "But not before thanking you for dispatching the voidsent so handily! You well and truly saved the day."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "I realize present circumstances are hardly conducive to doing so, but please try to get some rest while you can! I know I would be exhausted after your trials in the void..."
+    }
+  ]
+}

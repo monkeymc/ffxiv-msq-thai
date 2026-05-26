@@ -1,0 +1,596 @@
+{
+  "id": "gone-and-forgotten",
+  "wiki_path": "/wiki/Gone_and_Forgotten",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Gone and Forgotten",
+  "level": "97",
+  "location": "Earthen Sky Hideout(X:6.0,Y:6.2)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't say I understand what's going on, but at least Cahciua is safe."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Erenville's mother is a floating machine. Right—that makes about as much sense as everything else thus far."
+    },
+    {
+      "character": "Krile",
+      "text_en": "At this point, I doubt anything could possibly surprise me."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The Allagans had machines that could be controlled remotely. Is she using something similar to communicate with us?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Always too much excitement with her... Sorry for drawing our weapons on you."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "If it's any consolation, this is all rather confusing to us as well."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Oh, uh...hello."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Come, come, make yourselves comfortable!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "<sigh> Let's hear what she has to say."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It's so wonderful to meet you all."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And the Students of Baldesion... It's been a while since I heard that name."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Dare I ask the reason for your appearance?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Oh, this? It's just a body that I control remotely. I use this for our operations."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "We're members of a resistance organization—Oblivion, we call ourselves, and our goal is to thwart Zoraal Ja's ambitions for conquest."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As the leader, it's prudent that I remain where I can't be easily found."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I see. Whimsical appearances notwithstanding, yours is a serious cause."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Right you are. Though truth be told, Oblivion was founded for an altogether different purpose."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And that is?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As I expect you've already noticed, everything you see within this dome—the buildings, the people, the very earth beneath our feet—is a fusion of two worlds."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Stopping such a fusion was Oblivion's original mission."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then does that mean you know who or what is responsible for it?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I'm afraid not. This was a long time ago, and our mission statement has become more of a legend that's passed down to members. By the time we joined, our sole objective was stopping Zoraal Ja."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "But we failed to do that. And now he's taken his army outside the dome..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "None of you wear those strange devices on your heads. Does that have something to do with your work?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You mean this?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It's a regulator, the pinnacle of electrope technology. And that we don't wear it is indeed related to our operations."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What exactly does it do?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Allow me to explain."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Regulators have two primary functions."
+    },
+    {
+      "character": "Geode",
+      "text_en": "The first, as the name suggests, is the regulation of the wearer's reserve of souls. Should they die, the regulator expends a soul to bring them back to life."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "“Reserve”? You mean people walk around carrying spare souls!?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "They do. Souls are packaged in cells, and they can be used to replenish the life force that is lost due to sudden death, such as in accidents. They do nothing for those who die of old age, though."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Distribution of soul cells is based on one's work evaluation. To encourage “exemplary performance” when fulfilling their duties."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Souls as a common resource...and payment for services rendered..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The voidsent practice of consuming others for their aether comes to mind. And similarly, I expect that the act comes with some risk."
+    },
+    {
+      "character": "Geode",
+      "text_en": "That is prevented through memory management, a process in which regulators also play a role."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Memory management? Then the reason everyone has forgotten Namikka's existence..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "The regulators are constantly recording the memories of their wearer, so if they should suddenly die, their memories can be refreshed as part of the restoration process."
+    },
+    {
+      "character": "Geode",
+      "text_en": "This is how they preserve one's identity and sense of self. However, the regulators are also triggered when someone else dies."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Reason being is that regulators forcibly extract memories relating to the deceased from anyone wearing one."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Why would they do such a thing?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It's a “kindness” bestowed upon the people by Everkeep's core system, so that no one has to suffer the pain of loss."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So this is what is meant by their memories being in the cloud."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Indeed. All memories of the deceased are wiped from the minds of the people and archived in the system."
+    },
+    {
+      "character": "Geode",
+      "text_en": "It's a frightening function of the regulators—and an integral step in soul cell production."
+    },
+    {
+      "character": "Geode",
+      "text_en": "You see, when a person dies of natural causes, their soul is temporarily housed within the regulator."
+    },
+    {
+      "character": "Geode",
+      "text_en": "It's then delivered to a facility where memories are separated from the soul."
+    },
+    {
+      "character": "Geode",
+      "text_en": "The result is a fresh soul cell, free of impurities, ready for distribution and consumption."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Meanwhile, the memories are stored in the core system. To be “remembered” forever."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And this is why people are happy here? On its surface, it's similar to the Yok Huy philosophy, but I see nothing noble or comforting in it..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Well, it doesn't seem so terrible to me personally. All comes down to what you're used to, I suppose."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Like the barrier encasing Alexandria, this system was created to overcome the calamity that transformed the world hundreds of years ago."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Amidst the mounting death toll, scientists used electrope to devise a means to save what lives they could so that the nation could endure."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I understand the people of Alexandria did what they believed was best to save their people. I just find it hard to believe the Turali would also accept this way of living."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It came as a shock to us as well. In fact, a great many were opposed to it."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Which is why the use of regulators was never compulsory. The people have always been free to go without them if they so wish."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene didn't strike me as the sort of ruler to impose her will on others."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Ah, so you've already met?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "She's the one who suggested we come to the Thunderyards in the first place. She also said she wants to help us stop Zoraal Ja."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Awfully kind of her to point you in my direction. And to speak so candidly as well..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Whatever her motives, she has given the people a choice: live with the risk of true death, or the security of the regulators."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Everything that lives must someday die. That is the natural order of things."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Quite right... But however you feel about them, it would be easier to understand what the regulators are capable of if you saw it for yourself."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I know just the person to show you, and as luck would have it, they should be starting work right about now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Who are we going to see, exactly?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Come with me and you'll find out."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Take care not to get struck by lightning out there. One fellow reckoned you could dodge them by jumping back the instant there's a flash, but that's crazy if you ask me."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "Firearms make the most sense for people who don't have combat training like us. That's why we salvage as many as we can from the mechanical soldiers, and convert them for our use."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Nostalgia is my twin sister. Like most people, we both used to wear regulators, but... Well, let's just say a lot happened..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So those regulators are to blame for everyone forgetting Namikka. For forgetting what a wonderful person she was..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm sorry, but I just can't accept the idea of using souls as a resource."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We're to see how the regulators work, but how?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "To alter the memories of the populace with such precision is no small feat."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What does she intend to show us?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Everyone here? Good."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It is the responsibility of the Thunderyard's hunters to fell any fiends found wandering the area."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "We're to meet an acquaintance of mine, Strika, one of these hunters."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What do you think is in this box? I'm guessing food."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Judging by its name, I take it this facility is for gathering lightning energy."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Given the opportunity, I should very much like to study electrope on behalf of the Students."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "While I am not blind to the potential benefits of these regulators, the risks inherent in giving another party the power to alter your memories cannot be overstated—never mind the ethical considerations of using souls in such a fashion."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Let's get this over with."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Strika will show you what life can be like wearing a regulator."
+    },
+    {
+      "character": "Strika",
+      "text_en": "Cahciua? What are you doing here? And with so many friends."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Apologies for the interruption, but I was hoping they might observe you at work."
+    },
+    {
+      "character": "Strika",
+      "text_en": "Hunting, you mean? That's fine, I guess..."
+    },
+    {
+      "character": "Strika",
+      "text_en": "Hold on. I assumed they were wearing special regulators like Queen Sphene's crown, but they aren't wearing anything at all."
+    },
+    {
+      "character": "Strika",
+      "text_en": "It's much too dangerous to be here without one. What if they're struck by lightning, or attacked by beasts?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I can assure you they're all quite capable of looking after themselves. If anything should go amiss, I will take full responsibility."
+    },
+    {
+      "character": "Strika",
+      "text_en": "Well, don't say I didn't warn you. Danger aside, there isn't really much to see."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Cahciua said you're a hunter, but wouldn't it be easier for those mechanical soldiers to guard this place?"
+    },
+    {
+      "character": "Strika",
+      "text_en": "It would, if not for the fact they're weak to lightning. The Thunderyard being what it is, they've been ordered to steer clear."
+    },
+    {
+      "character": "Strika",
+      "text_en": "Some good they are, eh? But these facilities are vital to the upkeeping of Alexandria's infrastructure, so it falls to hunters like me to deal with any fiends."
+    },
+    {
+      "character": "Strika",
+      "text_en": "Given the danger, we're well compensated for our work. It's a perfect profession for anyone looking to build up savings."
+    },
+    {
+      "character": "Strika",
+      "text_en": "The special selection of souls for hunters isn't terrible either."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I brought this lot here to see this danger you speak of. If it's not too much trouble to ask."
+    },
+    {
+      "character": "Strika",
+      "text_en": "Ah, of course. In which case, it'd be a shame to waste my efforts on just any old beast."
+    },
+    {
+      "character": "Strika",
+      "text_en": "You all can handle yourselves in a fight, right? If you cause a ruckus slaying what critters you see nearby, there's a chance you'll draw out something worthy of a demonstration."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm not sure I understand, but I suppose we should each slay what we can."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm afraid I must leave the fighting to you."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "My fussy little bunbun was never any good at fighting, and this body of mine isn't suited to it either. We leave this work in your capable hands!"
+    },
+    {
+      "character": "Strika",
+      "text_en": "This one'll do nicely."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll help you!"
+    },
+    {
+      "character": "Strika",
+      "text_en": "It's fine, really. I've faced worse. Just watch."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't like the looks of this. Let us help!"
+    },
+    {
+      "character": "Strika",
+      "text_en": "Oh no!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Look out!"
+    },
+    {
+      "character": "Strika",
+      "text_en": "Arrrgh!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Twelve preserve..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "She needs healing!"
+    },
+    {
+      "character": "Strika",
+      "text_en": "That was embarrassing. The bastard caught me off guard."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are you mad!? Seriously, let us help!"
+    },
+    {
+      "character": "Strika",
+      "text_en": "I told you not to worry."
+    },
+    {
+      "character": "Strika",
+      "text_en": "This will only take a moment."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just like Zoraal Ja..."
+    },
+    {
+      "character": "Strika",
+      "text_en": "Come on, let's get out of here."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That's also a function of the regulator?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I think I understand now how Zoraal Ja was able to return from the dead and defeat Papa, but I'm not sure what we saw at the end there."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As soon as the regulator turned red, it was as if you were possessed. Your movements became beast-like."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Don't tell me...you empowered yourself with the soul of a beast? I'm reminded of the serpentine soldier we encountered at Vanguard who did the same..."
+    },
+    {
+      "character": "Strika",
+      "text_en": "So you've crossed paths with one of the king's elite? Such a form can only be achieved from gorging yourself on souls."
+    },
+    {
+      "character": "Strika",
+      "text_en": "We could do the same, in theory, but it's incredibly dangerous. Besides, it's not as if they'd allow hunters to carry that many souls to begin with."
+    },
+    {
+      "character": "Strika",
+      "text_en": "Well, I should be getting back to work. Take care."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And there you have it. Regulators can be loaded with two kinds of souls, those of peoples and those of beasts."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The souls of people can be used to grant the user preternatural strength."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Naturally, they can also be used to ensure no one suffers an untimely death."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And what about the souls of beasts?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "They work much in the same fashion, imbuing you with the strength of the chosen animal."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If, for example, you used the soul of a wolf, you would grow more agile and feral, as you saw with Strika."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Using several of the same type at once, however, would result in physical changes. Your teeth might become fangs, your nails claws—too many, and you'll become more beast than man."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Changing one's form through the souls of other beings... It becomes more and more reminiscent of voidsent."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Yet unlike the void, where the cycle of death and rebirth is simply broken, souls here are forcibly taken before they might reach the aetherial sea. Different means to achieve similar ends."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A cycle to which all within the dome are bound..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is wrong. This is all wrong."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It is indeed hard to accept, being so far removed from our own beliefs."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Perhaps more shocking is that the technology to achieve all this was developed hundreds of years ago."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The civilizations in the reflections are surprising indeed..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Having seen the beauty of the aetherial sea firsthand, I simply can't accept what they've done here in Alexandria."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I understand this is part of their culture, but it is no less disconcerting."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "When Emet-Selch spoke of surprising civilizations in other reflections, I wonder if he had Alexandria in mind."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Sphene speaks of lived experiences that suggest she's far older than she appears. Considering the power of these regulators, perhaps it's not so far-fetched."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I've never seen it for myself, but it's said that if a beast's soul is potent enough, a single soul is enough to induce a monstrous transformation."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "While we all have our thoughts on souls, for now the important thing is we know what power Zoraal Ja has at his disposal."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It is one thing to separate corporeal aether from incorporeal aether, but to strip memories from the soul entirely is unprecedented technology."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This is no longer only Tuliyollal's concern. With his newfound power, Zoraal Ja has become a real threat to the entire world."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Indeed. He has to be stopped, no matter the cost!"
+    }
+  ]
+}

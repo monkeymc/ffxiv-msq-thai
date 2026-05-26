@@ -1,0 +1,1700 @@
+{
+  "id": "the-resilient-son",
+  "wiki_path": "/wiki/The_Resilient_Son",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/d0/The_Resilient_Son.png",
+  "patch": "7.0",
+  "title_en": "The Resilient Son",
+  "level": "99",
+  "location": "Heritage Found(X:15.6,Y:5.1)",
+  "npc_start": "Cahciua",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja is no king. Not anymore. For the sake of Tuliyollal—of the world—we must put an end to his madness."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I've spoken with Alphinaud. Apparently, the dragons came to Tuliyollal's aid!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm coming too, of course. This is what I've worked so hard to be a part of."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The summit of Everkeep... Finally, we shall see what the clouds conceal."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The entrance to Origenics is located on the back of Everkeep."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "We can reach it by the water. Come, we head to the pier at the driftdowns!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're going to ride that oversized container, are we? Don't worry—you won't catch me mewling over a little seasickness. Not anymore."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So we just have to make our way up. Seems nice and straightforward to me."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Visibility is quite poor, but let us trust in our allies to ferry us safely over."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A facility for processing souls... As distressing as the very concept is, I confess I'm curious to see the technology employed."
+    },
+    {
+      "character": "Kiluwsa",
+      "text_en": "I'm with Oblivion. Cahciua has told me all."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I will now explain how this mission will unfold."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Origenics takes delivery at specific times. It is at one such time that we will enter the facility, aboard the hover cargo."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Kiluwsa here will pilot the vehicle, so you need only sit tight until we arrive at the entrance."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Our friends in the Backroom will create a diversion so we can steal inside."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "After which we make our way to the summit, striking down any foes that bar our path!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Easy, yes?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Easy to say, perhaps... But we'll manage one way or another!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That we will!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In anticipation of the unexpected, we should maintain contact with the support crew and adapt as necessary."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Indeed. I shall use the communicator I borrowed from Shale to keep them informed at all times."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I see everyone has a grasp of the details. Good. We set off very soon, so be ready!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The hover cargo is borrowed from a reforger friend. She was relieved to hear that Gulool Ja is safe."
+    },
+    {
+      "character": "Kiluwsa",
+      "text_en": "I'm told you saved Wayakkwe—thank you. I'll be praying for your safety and success."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana has done his part. Now I must finish things here."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Zoraal Ja cannot be allowed to cause any more harm. I will do my part to stop him."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "With the danger passed in Tuliyollal, we can fight without worry!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I expect that Alexandria's military might lies with Origenics. We must be prepared to meet with fierce resistance."
+    },
+    {
+      "character": "Erenville (remotely)",
+      "text_en": "I see you've arrived. Follow the path and you'll soon see the entrance. Be careful now."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "This body isn't made for combat, so I'll hang back."
+    },
+    {
+      "character": "Origenics Sentry S9",
+      "text_en": "Warning. Resources have escaped. Moving to recapture."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Let's deal with the ones in the way!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Quickly, into the freight elevator!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Whew, the diversion did the trick. Let's push straight to the middle level!"
+    },
+    {
+      "character": "Erenville (remotely)",
+      "text_en": "There should be another freight elevator further in. Use it to head up."
+    },
+    {
+      "character": "Origenics Sentry G9",
+      "text_en": "Intruders detected. Eliminating."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "So many regulators... They all used to belong to someone..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Oh dear, this one looks like trouble..."
+    },
+    {
+      "character": "Erenville (remotely)",
+      "text_en": "It's nothing they can't handle. I'll activate the elevator to keep you moving."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You make it look so easy!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It'll get tougher from here, though, so stay on your toes."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "A dead end? No, wait..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Not the best camouflage, now is it?"
+    },
+    {
+      "character": "Deceiver",
+      "text_en": "Warning. Please present identification. Failure to comply will result in the use of force."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Ahaha, so only intruders can bust in through the front!"
+    },
+    {
+      "character": "Origenics Sentry S10",
+      "text_en": "Intruders detected. Eliminating."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Souls are being extracted from regulators..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The glowing things—they're souls, all of them."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The conveyor's been activated. We can continue up."
+    },
+    {
+      "character": "Erenville (remotely)",
+      "text_en": "According to our data, this is where souls are stripped of memories..."
+    },
+    {
+      "character": "Erenville (remotely)",
+      "text_en": "Indeed. The souls are the white matter, and they're being sent to Zoraal Ja."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "According to Elene'shpya, we continue through here."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Looks like they knew we were coming..."
+    },
+    {
+      "character": "Deceiver",
+      "text_en": "Intruders detected. Initializing all turrets and support units."
+    },
+    {
+      "character": "Deceiver",
+      "text_en": "Engaging hostiles."
+    },
+    {
+      "character": "Deceiver",
+      "text_en": "Increasing sub-weapon output."
+    },
+    {
+      "character": "Deceiver",
+      "text_en": "Deploying support units. Initiating cover fire."
+    },
+    {
+      "character": "Deceiver",
+      "text_en": "Active camouflage operational."
+    },
+    {
+      "character": "Deceiver",
+      "text_en": "Deploying turrets. Initiating suppressive fire."
+    },
+    {
+      "character": "Deceiver",
+      "text_en": "Maintaining 80% coordination rate."
+    },
+    {
+      "character": "Deceiver",
+      "text_en": "Intruders still remain. Transmitting emergency code."
+    },
+    {
+      "character": "Erenville (remotely)",
+      "text_en": "Well done. The conveyors up ahead should take you to the upper level."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "This won't be comfortable, but intruders can't be choosers."
+    },
+    {
+      "character": "Erenville (remotely)",
+      "text_en": "I'm afraid this is where our data ends. You're on your own now."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The souls are being cleansed prior to storage..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "They're headed up...but where do we go from here?"
+    },
+    {
+      "character": "Origenics Security",
+      "text_en": "That they should make it past Deceiver... Soldiers, hold them off!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "This has the look of a research laboratory..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I see... This is where they researched the use of feral souls!"
+    },
+    {
+      "character": "Origenics Security",
+      "text_en": "Researcher evacuation complete! Release all test subjects!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "This is too cruel..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It's quiet. Too quiet..."
+    },
+    {
+      "character": "Ambrose the Undeparted",
+      "text_en": "Filthy rebels! You will not reach the king!"
+    },
+    {
+      "character": "Ambrose the Undeparted",
+      "text_en": "My psychokinesis will bring you to your knees!"
+    },
+    {
+      "character": "Ambrose the Undeparted",
+      "text_en": "Forming directional gravity field!"
+    },
+    {
+      "character": "Ambrose the Undeparted",
+      "text_en": "Stubborn vermin...I will deal with you yet!"
+    },
+    {
+      "character": "Ambrose the Undeparted",
+      "text_en": "Disabling limiter, increasing psychokinesis potency!"
+    },
+    {
+      "character": "Ambrose the Undeparted",
+      "text_en": "Why!? Why won't you die!?"
+    },
+    {
+      "character": "Ambrose the Undeparted",
+      "text_en": "Unnngh... My head...feels like to split..."
+    },
+    {
+      "character": "Ambrose the Undeparted",
+      "text_en": "Graaagggh! I must win...or else my souls..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "To subject people to such heinous experiments..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm coming, Zoraal Ja!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let us press on to the summit!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It seems the facility is secure."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Don't tell me that was..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Understood!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's do this!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Just leave the fighting to us!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll clear the way, don't you worry!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So far, so good..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A shame this elevator doesn't go straight to the top."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let us stay on our guard."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A chilling sight..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's heartbreaking just to look at..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You mean these are all...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How did it come to this...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The sight alone is hard to bear..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, then!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What a bizarre creature..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "No holding back!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let's take care of it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh, disgusting..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A veritable shower of poison..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I shudder to imagine being covered in that."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm glad I practiced dodging."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And that's that!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's keep moving!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Now we can continue on."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Good work. Let's keep moving!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Nothing to it."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The only way is forward..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It seems the security level has increased."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We came ready for this!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Nothing is going to stop us!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Souls truly are just a resource here..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is so wrong..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It's at once beautiful and sad..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Namikka..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's heartening to have support."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You do not want to become lost here."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I don't like the feel of this... Let's proceed with care."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That is no ordinary mechanical soldier!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Some kind of machine!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are those giant hands?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Doesn't look like it'll let us through."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "An illusion!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, you can't fool us!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Far too rough around the edges!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It's easy if you know what to look for."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Just one last push to the top!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Victory is ours!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Whew, we did it..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Onwards to the upper level!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone ready?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Of course!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's go!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Right, let's go!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So this will take us above..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's keep moving!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The air somehow feels colder here..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What will we find here, I wonder."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We have to stop them from being misused."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Being stored...like common goods."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "These are all lives..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's chilling to see souls treated with such indifference."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That what the hunters use..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A facility for researching souls..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Feral souls... I can't get used to the idea..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The aberrance is reminiscent of the Allagan Empire."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A giant enemy tortoise!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It appears to be enhanced with electrope!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How could you twist a living creature like that?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Mechanical augmentation... This wouldn't have been amiss in Allag."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh gods... His aura...it's so very wrong..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Focus, Krile! It's time to fight!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I don't know why, but I suddenly feel a chill..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This is no mechanical soldier..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Something feels seriously off about this one..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What the—!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Oh, don't startle me like that!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Are they resources for souls!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We deal with them too!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ugh... My body..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It affects living beings too!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This it the power that destroyed the cages!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Watch where you're standing!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's not opening."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Shale, can you see to the lock?"
+    },
+    {
+      "character": "Shale (remotely)",
+      "text_en": "Just a moment..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ever reliable."
+    },
+    {
+      "character": "Shale (remotely)",
+      "text_en": "Follow the passage inside and you'll come to an elevator. It'll take you to the eleventh level."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's keep moving!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The eleventh level, just below the summit..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Look─soul cells. This is where they're kept."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What!? Then these are all..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Indeed. Many died in the attack. Their souls would have been processed and transported here for storage."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "...Or so I had expected."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A soul cell is supposed to light up green when loaded, isn't it?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Yet the light is out on most of these..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "[SHOCKED GASP]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't tell me he's already used them up!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's why he cut down one of his own─for the regulator!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Who's there!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Alphinaud? And Y'shtola and Estinien too!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Lest you wonder, all is well in Tural. The enemy has withdrawn, freeing us up to come and lend you a hand."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "The Backroom crew gave us a briefing. No rest for the righteous as usual, eh?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The idea of empowering oneself with souls is rather reminiscent of voidsent practices. I should be keen to learn more about the process─after more pressing matters have been resolved."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "[AMUSED CHUCKLE “Hm”]"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I believe I speak for everyone when I say I'm glad you're here."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As you'll have heard, the Alexandrians have suffered heavy casualties. We must stop Zoraal Ja before it gets any worse."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I thank you for coming with me this far, my friends. And I ask you to lend me your strength one last time."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Together, let us defeat Zoraal Ja and safeguard the future of Tuliyollal!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And here is where I must excuse myself. Come back in one piece, you hear me?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We will! Every one of us!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What in the world is that?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It couldn't be...a voidgate!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It's enormous!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Aye... It dwarfs even the one Zeromus opened."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That is no voidgate. It doesn't lead to the Thirteenth."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yes. In all likelihood, it's a portal to yet another reflection."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "By the Twelve... To think that realities being fused together was only the beginning..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The speculation must wait. He's here."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "There is a limit to how much aether a living being can harbor while retaining its physical form."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Zoraal Ja has far exceeded that limit."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "With the souls he has absorbed, he has attained power to rival even a king among voidsent, but at a terrible cost..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Twelve have mercy..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Brother!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It ends here and now!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "How it vexes...when you call me Brother..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Brother... Blood heir... Resilient Son... Who am I? What is my path? Why was I born?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I am Wuk Lamat, Vow of Resolve of Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And you are Zoraal Ja, King of Resolve of Alexandria."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "For the last time we fight. For duty, for blood─for everything!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Yes, we fight."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Hold nothing back. This multitude of souls I shall burn to the last mote."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I will kill you and prove the miracle! I will prove that I am Father's true successor!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone is counting on us. We cannot lose, no matter what!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Zoraal Ja will not rest until he has brought the entire world to heel. We must put a stop to him once and for all."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "To strike down her brother for the sake of her people... Hers is a terrible burden. But she has us to help her bear it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Judging from his words, Zoraal Ja will spare no souls for resurrection. He will burn through every last one to achieve his ambition."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "If Zoraal Ja isn't holding back, then we need but return the favor. Thus shall we honor Gulool Ja Ja."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We helped Lamaty'i to triumph over Zoraal Ja in the rite of succession. Even if Koana hadn't asked, it is our duty see this battle through."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Zoraal Ja will require time to fully harness the souls he has absorbed. Ideally, we can finish things beforehand..."
+    },
+    {
+      "character": "Kiluwsa",
+      "text_en": "If you're heading back to the summit, I'll launch the hover cargo."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Come at me with your all. I will make you kneel."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Let the victor's reign be sanctioned by the blood of the fallen."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I need more power!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Graaah... Hraaah... Hraaagh!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "More! I need more!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "What visions are these?"
+    },
+    {
+      "character": "Tuliyollan Mamool Ja Shade (text bubble)",
+      "text_en": "The First Promise was born to sit the throne!"
+    },
+    {
+      "character": "Tuliyollan Mamool Ja Shade (text bubble)",
+      "text_en": "None can compare to the Resilient Son!"
+    },
+    {
+      "character": "Tuliyollan Mamool Ja Shade (text bubble)",
+      "text_en": "He will be a great Dawnservant!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Out of my way!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Is this my weakness, given shape?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Down with you!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "No limits will bind me!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Begone, along with my pitiful past!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Yaaaaaarrrgh!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I am the worthy king!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "There is no miracle!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "This is my path!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I trust only in myself!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Hahahahaha! It's mine—the ultimate power!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "This power is proof of my authority!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Hyaaah!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Creation yields to my command!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "My will resonates within reality!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Mine is the path!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Fly, my blades!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "All is mine to make and unmake!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Bleed!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Mine is the power!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "No mercy!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Resonate!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Evade this!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He truly held nothing back..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's finally over..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He has used up all of his souls, as he said he would."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Brother..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So it is done..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "His desire to surpass his father knew neither limit nor reason."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If only you had found another way..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The aetheric density has surged..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No backing down!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Is he burning lives!?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "You'll have to do better than that!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Time to strike back!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The aetheric density has surged even further!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Visions? What is he seeing?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is he hallucinating?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Alphinaud, get clear!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Understood!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Thick as thieves, these two..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Stop this! Your body won't survive!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He won't stop! It falls to us to stop him!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Estinien, this way!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Right!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A frightful transformation..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the power you sought...?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He controls the blades!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "It's outside next!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We can avoid it by closing the distance!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What's happened!?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He's manipulated the ambient aether!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Hmph, just a fancy trick."
+    },
+    {
+      "character": "Krile",
+      "text_en": "He's gathered blades outside!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Does he mean to unleash them all at once?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Observe the aether, and you'll see where it's safe!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Keep calm and watch the flower of aether..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wh-What am I supposed to do!?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He's created spatial distortions!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Swords outside! Watch out!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Their course changed!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "An irksome technique..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Argh, I've no idea what I'm looking at!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The flow of aether has become more distorted!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No more looking! I'm going with feeling!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Everyone, gather to me!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ugh!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "We must hold fast!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Brace yourselves!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You won't get the best of us!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Brother..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "So...it is to be defeat..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Father? Is that you?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "[SOBBING]"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Why do you weep?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Because it hurts..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Because I don't understand why it had to be this way. Why don't I know you?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Why didn't you want me?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "How could I be a father...when my own spurned me?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "He left me nothing. No throne. No legacy. Nothing. And so I had nothing to leave you."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Why does that matter!?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Couldn't you have just...been there?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "[WEARY EXHALE]"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You ask a lost man for the way..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I do not presume to call you mine...nor do I desire anything of you."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "But I leave behind that which I've gained by the sweat of my brow... It is yours to embrace...or spurn..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "[LABORED COUGHING]"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I walked a path of ruin..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Unable to surpass Father..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Or Lamaty'i..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "So much..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "For the Resilient Son... The miracle..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You think Papa left you nothing?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You godsdamned fool! You have the one thing he couldn't leave anyone else! You and Gulool Ja!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It's not over!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Queen Sphene?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja is gone. There's no need to fight anymore."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Why are you here?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I wanted to express my gratitude to you all. For vanquishing the King of Resolve and delivering my people."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And to express my regret for what I've done to yours."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Your apologies won't bring back our dead or lessen your guilt."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Still, to strike you down in revenge would trigger all-out war between our nations. More innocents would suffer."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even if we cannot be friends right now, we need to find a different path forward. A way that Tuliyollal and Alexandria can coexist."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I fear that can never be."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What do you mean?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There is no other path for us. It's too late."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I cooperated with Zoraal Ja because I needed the life force yielded by the slain to sustain the Endless."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Of course, the king betrayed me, and with his army defeated, that plan can no longer be realized."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But I can't─I won't─fail my people. Be they possessed of flesh or no, all of them are dear to me."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If there is something I can do for them, as their queen, I must do it!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hear me, Sphene. We appreciate your commitment to serving the Alexandrians and have endeavored to understand your beliefs."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Be that as it may, you must know it's wrong to sacrifice our living to save your dead!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I see. It's because you do not know them that you believe they're dead."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "They're not. So long as they are remembered, they shall never die."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You understand, don't you?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No matter what anyone may say, I refuse to believe that Cahciua's is a hollow existence. That she can simply be allowed to fade away!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Your Majesty..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...am the bearer of the memories of Queen Sphene of Alexandria, and my desire to protect my people transcends all others!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For them, I will do anything! No price is too high!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Seven hells!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "[CASTING SPELL EXERT “Hah!”]"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What is it!?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There exists a legend in Alexandria. In ages past, faced with a calamity in their world, a clan of people used a singular power to flee to ours."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The key which manifests this power answers to fervent desires. Desperate, all-consuming supplications that have given rise to many a miracle."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That key holds the secret to interdimensional fusion, and unraveling its mysteries was the foremost mission of the scientists of Preservation."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Alas, they failed to fully grasp its workings, leaving us with only partial control over it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Nevertheless, if I'm to sustain the inhabitants of Living Memory, I have no choice but to call upon its power."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And do what with it?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For hundreds of years I tried, but it was all to no avail."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My benevolence did naught to protect my realm..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But I can still take up arms and fight."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If bloodshed will save my subjects, then I will become history's most brutal queen."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Wait!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, Sphene..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You godsdamned fool..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What you're doing is wrong, Sphene. No matter how hard you try to convince yourself otherwise..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That such a threat existed in another reflection... When Emet-Selch bade you seek discovery, was he aware of it?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Sphene has the potential to wreak unimaginable havoc with the key. We have no time to waste."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This truly bodes ill..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "No sooner do we deal with one threat..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Father..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Mother? What's happened to you?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That woman—Sphene, was it? In all likelihood, her true form lies in the reflection yonder."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But how to go after her now..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Cahciua might know something, but her vessel ceased to function when the portal closed."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Let us examine it. With luck, it will yield some much-needed clues."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The key to interdimensional fusion... It did not seem so wondrous a thing to me..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Cahciua said that she operates her vessel from afar."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Could something have befallen her!?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The words Sphene spoke to your mother—did they mean anything to you?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Those who came from my village... None of them remembered her."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's the same as what we witnessed happen to those who knew Namikka."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then Cahciua is..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You noticed something, didn't you? Whatever it is, please tell me."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While Sphene projected herself onto machines, Cahciua controlled hers remotely. But to me, they appeared identical in their existence."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Both were inorganic objects suffused with faint amounts of aether. When that aether faded, they became lifeless husks."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And as we all saw, this happened to both the moment the portal closed..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So Cahciua was operating her vessel from the reflection beyond?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But if none of her friends and acquaintances here remember her, then..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Endless... Those who are recreated from memories of the departed."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "All this time, my mother was dead. She fooled us all."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Sphene, for one, does not seem to think of them in that way."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No. She loves them like she does all her citizens, and she'll do anything to protect them."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Such as plundering aether from the Source. Alas, Zoraal Ja had his own agenda and spoiled the plan."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But now that she possesses the key, she could target other reflections without our interference. Reflections whose people have no idea what she is willing to do."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Then the people of the Source are not the only ones in danger. We must stop her."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We have to go where Sphene has gone. I want to talk to her again. And perhaps we'll find Cahciua as well..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "With the gate closed, we need to find an alternate means of passage. I will look into it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let us begin by investigating this place. There may be clues relating to what lies beyond."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Let me help. I'll do whatever you need me to do—anything at all!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Of course, my friend. Your knowledge and expertise would be most welcome."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I expect the investigation will take time. Perhaps you'd like to head back below with Gulool Ja and get some rest."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's not a bad idea. We do need to share these developments with those in the Backroom as well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, Gulool Ja."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You too, Forename . You've more than done your part for now, so leave this to us."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll be fine. You don't need to worry about me."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I was living a life of excesses, bound for an early grave, when Cahciua came along. Though I was a complete stranger, she took me under her wing and set me straight."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It was out of gratitude that I joined Oblivion, but I can't imagine any other life now. I owe her everything I have, and it pains me that I couldn't say good-bye..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll be fine. You don't need to worry about me."
+    },
+    {
+      "character": "Genolt",
+      "text_en": "Times like this, ye've got to keep yer hands movin'."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So much has happened and so quickly, I'm still catching up mentally."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But where it concerns Zoraal Ja, I have no regrets. I made my choice and did what I had to do."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I only wish I could have stopped Sphene too. Stopped her from walking her misguided path..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "<sigh> I could definitely use some rest..."
+    }
+  ]
+}

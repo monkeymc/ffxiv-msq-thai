@@ -1,0 +1,548 @@
+{
+  "id": "pick-up-the-pieces",
+  "wiki_path": "/wiki/Pick_up_the_Pieces",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
+  "patch": "7.0",
+  "title_en": "Pick up the Pieces",
+  "level": "96",
+  "location": "Tuliyollal(X:14.7,Y:11.5)",
+  "npc_start": "Alisaie",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "It's clearly not a person, but it doesn't look like any automaton or magitek weapon I've ever seen."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As far and wide as you've traveled, though, perhaps you've encountered something similar before."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Would you mind taking a closer look? It may yield some clues as to Zoraal Ja's new powers."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "At first, I assumed they were soldiers in armor. But when I cut them down, it became clear that wasn't the case."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You're supposed to be inspecting the soldier, remember?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So, what do you think?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Indeed... While it resembles a person, it has features that make it uncanny, the lack of a face not least of all. Did you see any sign of a power source?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So it probably doesn't run on ceruleum or any other conventional fuels."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I tried channeling aether into it earlier, but there was no response. That would seem to rule it out as an arcane entity."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's completely lifeless now─a far cry from the unstoppable enemy it was in battle..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Even the material it's made of is a mystery. Rather than a metal, it's more akin to stone... Wait. Haven't we seen this somewhere recently?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That's right! The glowing stone used in the chamber with the gate to the golden city!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Uh, yes, it certainly is. But it's nothing like what was used to craft this machine."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Its stone is smooth and has a glow─like that which we saw in the chamber with the gate to the golden city."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And while the soldiers are a different color, the warships are the same black as the stone of the gate itself."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There has to be a connection. Let's share our observations with the others when we gather at Sunperch."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The sooner we get to the bottom of this mystery, the better."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Looks like everyone is here already."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you for coming, everyone."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And thank you for taking charge in the relief effort. We would've fared far worse without you."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Someone had to do it, that's all. Come, let's take stock."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In terms of casualties, at least fifty died in the attack, and many times that number are wounded. All available healers are seeing to their care."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Structural damage, at least, is limited, so essential business can be conducted without issue."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That said, the people are understandably shaken. We must assuage their fears and begin working to restore things to normal as quickly as possible."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Now, the most confounding mystery remains our enemy..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "And their mechanical soldiers created with technology that surpasses anything I've ever seen..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "What is their nature? And how did Zoraal Ja manage to bring them under his command? Such things remain unknown."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They emerged from the dome encasing Yyasulani, we're quite certain of that much."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, speaking of the dome, we have some theories, I'm told."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Indeed. I would like to call upon some helpers to join the discussion. May I invite them here?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By all means!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's me. Permission has been granted. You can come in."
+    },
+    {
+      "character": "???",
+      "text_en": "Greetings, everyone!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Raha! Y'shtola!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "After that long voyage, I had hoped that we might be afforded a moment's rest, but I gather circumstances are quite dire."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "All is well at the annex, never fear. I've already dealt with the most pressing matters, and others hold the fort in my absence."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Following the changing of Dawnservants, Gulool Ja Ja spoke about the golden city to his two successors."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thanks to Wuk Lamat, I was allowed to attend that meeting."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What I heard led me to conclude that this was a matter for the Students. Thus did I call upon our comrades, who possess the requisite expertise."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It was actually after that that the dome manifested. But based on what we know, I have reason to believe that it is connected to the golden city."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While we're eager to help, we have limited familiarity with the situation. Might we trouble you to explain from the beginning?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "As you know, it was a letter I found tucked away in the Baldesion Annex that brought me to Tural."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A letter from the Dawnservant addressed to my grandfather, sent some twenty years ago."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The request to investigate the city of gold."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Indeed. The strange thing is, there was mention of neither Tural nor the city in our records."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hoping to learn the truth of my grandfather's mission─what he did and saw─I volunteered to help in the rite of succession."
+    },
+    {
+      "character": "Krile",
+      "text_en": "At the end of which, I was able to hear the tale from Gulool Ja Ja."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Like us, my grandfather went to the deepest chamber of the Skydeep Cenote. And like us, he saw the gate to the golden city."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is that what you required our help with? This gate?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It was. You see, the gate was opened once in the past, and..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...It led to another reflection."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "I can take the story from here. Considerin' my part in these affairs, I reckon maybe I'm best equipped to speak on the matter."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "I was there too, you see. In those ruins, together with Galuf and Gulool Ja Ja. And what I saw that day, I'll never forget..."
+    },
+    {
+      "character": "Galuf Baldesion",
+      "text_en": "This black stone is remarkable..."
+    },
+    {
+      "character": "Galuf Baldesion",
+      "text_en": "I cannot help but wonder if the structures in this part of the ruins were built by a completely different civilization."
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "It was over a thousand years ago that the giants mined here."
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Their records make no mention of glowing stones."
+    },
+    {
+      "character": "Galuf Baldesion",
+      "text_en": "Hmmm..."
+    },
+    {
+      "character": "Galuf Baldesion",
+      "text_en": "It harbors high concentrations of aether. And on the surface are what appear to be arcane patterns."
+    },
+    {
+      "character": "Galuf Baldesion",
+      "text_en": "They aren't Allagan or Mhachi or Nymian. If anything, they put me in mind of the calculations of the south sea islanders. But even then..."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Seven hells!"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "What did you do?"
+    },
+    {
+      "character": "Galuf Baldesion",
+      "text_en": "N-Nothing..."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "An earthquake!?"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "None of this has ever happened before..."
+    },
+    {
+      "character": "Galuf Baldesion",
+      "text_en": "A voidgate? Nay... This is...different."
+    },
+    {
+      "character": "Galuf Baldesion",
+      "text_en": "A baby...?"
+    },
+    {
+      "character": "Galuf Baldesion",
+      "text_en": "Now hold on... Why would you..."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Now what's this?"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "What is this? Who are you?"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Though it never opened again, Galuf continued to study the gate for years after that, hopin' to learn somethin' of value."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "All he could conclude was that it was built with unknown technology, and that it led to another world. One apart from the void."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "We'd assumed the ruins themselves were the golden city, only to discover that the real prize actually lay beyond the gate─and beyond our reach."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Couldn't make head nor tail of the artifact either."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "As it had similar properties to the black stone in the ruins, we were convinced it was important, so Gulool Ja Ja took it to the palace for safekeepin'."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Galuf, meanwhile, took the baby with him back to Sharlayan and raised her as his own."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then the child was..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The earring inside the letter to my grandfather... It was apparently found amongst my swaddling clothes."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If this is true, then it means that you hail from another reflection..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So it would seem. I still struggle to take it all in myself."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Looking back, Grandfather was always quick to seek distractions whenever I broached the subject. But never would I have guessed anything like this..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But enough about me. We have more pressing matters."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The forces that assailed Tuliyollal─you suspect they are somehow connected to the golden city?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Thinking back on it, the soldiers looked like they could've been made from the same black stone."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "And leadin' them was Zoraal Ja... His involvement also lends weight to the theory."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "On the day of the succession ceremony, a bandit took me unawares and knocked me out."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "When I came to, I found my home turned upside down, with a few particular items missin'."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Namely, the keystones I was entrusted with for my role as watcher of the gate."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The bandit─you believe that it was...?"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "I only got a glimpse of 'em, but aye. It was a blue-scaled Hoobigo. I know of no other."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The artifact stored at the palace was also stolen. The thief struck during the ceremony, when the guard was spread thin."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So our assumption is Zoraal Ja somehow opened that gate to another reflection, where he acquired advanced technology and his mechanical army?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "It fits. And if he did, then it's also likely that the dome is a product of this unknown reflection."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Hold on. We've been going on and on about reflections, but what of my home? What's become of it?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. Where it concerns other realities, I daresay the Scions are best suited to tackle the task."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You can say that again! We've been to the literal edge of existence. Some mysterious giant dome shouldn't scare us!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As you know, our order has ostensibly disbanded. We'd thank you to be discreet about our unofficial reunion."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Worry not, we'll spare no effort to get to the bottom of this. And with our hero eager to help, you can be confident of the results!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm coming with you. If that's where my brother is, then that's where I must go."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't say I understand everything you're discussing, but I know what I have to do."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I have to put a stop to Zoraal Ja, and restore the people's happiness!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Suffice it to say I share Lamaty'i's desire to join you. However, under these circumstances, it would be unwise for both Vows to be absent from the city."
+    },
+    {
+      "character": "Koana",
+      "text_en": "As such, I shall remain in Tuliyollal."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Come what may, I will protect our nation. So go forth, Sister, and do what you must."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It may be prudent for us to likewise divide our forces. While one group ventures into the dome, the other keeps guard without."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Agreed. There's something I wish to investigate out here, so I will remain."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I as well. The enemy's warships still loom overhead, and I would see that we're prepared for the worst."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I wish to go to the dome."
+    },
+    {
+      "character": "Krile",
+      "text_en": "As a Student, I have an obligation to investigate this potential threat to the world."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But I'd be lying if I said I'm not deathly curious about my origins. If there's aught to be learned, then I want to learn it."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "In that case, please let me come too."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I have to see what's become of my home. I may not be a fighter, but I know those lands like the back of my hand. I can guide you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you hadn't offered, I would've asked. We're counting on you!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm not one for waiting around, so if it's all the same to you, I'll join the dome crew."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You should accompany them, G'raha. I expect your knowledge and experience will be useful."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In the meantime, I intend to learn what I can about the gate, and will keep you apprised of my findings. Pray do the same."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Assuming communication is possible from inside the dome, we'll maintain contact and share any developments."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It seems our teams are assembled. A fine roster, I think."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Looks good to me. We'll find a way to deal with the threat─for the sake of Tural!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's truly heartening to have you at our side for this. Thank you, everyone."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now, before we set off, there's one thing I need to do. The people are still shaken by the attack, and I'd like to reassure them as best I can."
+    },
+    {
+      "character": "Koana",
+      "text_en": "This talk of reflection is perplexing, to say the least. I should be glad for your help in understanding and overcoming this crisis."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I struggle to believe I am from another reflection. I wonder, does this mean my soul is thinner than a native of the Source?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Surely not. Y'shtola would have noticed. Gods, there's so much I don't understand, my head is ripe to burst..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I fear we need to know more if we're to defend against another assault."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I'm indebted to Ojika for overseeing our operations in my absence. I will endeavor to make myself as useful as I can here."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Another reflection encroaches upon our own, but how, and why now?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Please be safe..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll find a way to breach the dome, and we'll make sure everyone inside is safe."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "It's embarrassin' to think how Zoraal Ja caught me unawares, but I've no doubt the bastard came to kill me. I reckon he would've succeeded were it anyone else."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Who would've thought him takin' that key would lead to all this?"
+    },
+    {
+      "character": "Sunperch Guard",
+      "text_en": "Vow Wuk Lamat and the others are waiting for you. Right this way."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know what I have to do now."
+    }
+  ]
+}

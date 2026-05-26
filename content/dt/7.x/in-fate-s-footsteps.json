@@ -1,0 +1,596 @@
+{
+  "id": "in-fate-s-footsteps",
+  "wiki_path": "/wiki/In_Fate%27s_Footsteps",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/d4/In_fate%27s_footsteps1.png",
+  "patch": "7.5",
+  "title_en": "In Fate's Footsteps",
+  "level": "100",
+  "location": "Solution Nine(X:12.7,Y:6.0)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "G'raha Tia",
+      "text_en": "Warm fare-thee-wells can ease the sting of partings, as we come to terms with an absence not soon forgotten."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "To tell those we hold dear what they've meant to us, and to wish them the best... We should seize that chance whensoever we can."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I trust you were able to get plenty of rest? Good. I thought we might take a moment to ponder our next steps─and perhaps reflect on our recent journey."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I must admit my thoughts often drift to the Mist Continent and our stay in Treno..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It was heartening to see the Milalla prosper despite the odds, and my own flesh and blood strive in that levin-wracked landscape."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Sphene was eager to restore diplomatic relations, and I have no doubt that Alexandria will provide much-needed support for their neighbor."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I too shall do everything I can to aid my home away from home─my wonderful, welcoming family included."
+    },
+    {
+      "character": "Krile",
+      "text_en": "For the time being, though, I'd say we've accomplished all within our power."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I suppose that just leaves the matter of Preservation's research..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It is yet unclear how Calyx learned the techniques he used to summon his dark primal."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And there is likewise much that remains unknown about the key. Let us hope that Shale's efforts bear more fruit."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Can you hear me?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Shale and I have been reviewing the decrypted files, and have uncovered some intriguing details. Would you care to join us?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We'll be with you right away."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Excellent. Shale seems rather eager to speak with you all. Come and find us in the deuterolab when you're ready."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Uncanny timing indeed! Let us make for the containment complex."
+    },
+    {
+      "character": "Lift Attendant",
+      "text_en": "Heading for the containment complex? Right this way!"
+    },
+    {
+      "character": "Personnel Protocols",
+      "text_en": "For security reasons, Containment Complex 10-29 has been registered as a materials distribution center. Keep this in mind and conduct yourself accordingly, both inside and outside the facility."
+    },
+    {
+      "character": "Personnel Protocols",
+      "text_en": "Each employee must perform their tasks within their designated workrooms: the researchers' commons, the protolab, or the deuterolab. Entrance into another workroom without official clearance is strictly prohibited."
+    },
+    {
+      "character": "Personnel Protocols",
+      "text_en": "Carry your security card at all times. Your clearance level dictates the areas to which you have access."
+    },
+    {
+      "character": "Personnel Protocols",
+      "text_en": "Equip your regulator at all times. Due to the highly confidential nature of the research materials and other data managed within this complex, Preservation retains the ownership of─and the rights to modify─the memories of all registered personnel."
+    },
+    {
+      "character": "Research Objectives",
+      "text_en": "The primary research objective of Containment Complex 10-29 is the indefinite preservation of the Endless."
+    },
+    {
+      "character": "Research Objectives",
+      "text_en": "Continued improvements to soul cell and regulator functionality are intended to facilitate the Endless Sphene's management of Living Memory. It is via this process of iteration that we endeavor to identify and resolve any and all issues inherent in Endless creation."
+    },
+    {
+      "character": "Research Objectives",
+      "text_en": "Chief among known issues is our present inability to control the key. For if we fail to secure the reflections as additional sources of aether, our ultimate goal will remain forever out of reach."
+    },
+    {
+      "character": "Leadership Personnel",
+      "text_en": "Complex Director: Demetrius Protolab Chief: Eosphor Deuterolab Chief: Redacted"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Given that all the data is stored within electrope devices, Shale's expertise has proven invaluable."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ah, you're just in time for a progress report."
+    },
+    {
+      "character": "Shale",
+      "text_en": "The decryption is finally complete. As we suspected, the data represents a partial record of Preservation's research documents."
+    },
+    {
+      "character": "Shale",
+      "text_en": "A quick scan of the files, however, failed to turn up the information Y'shtola was after."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed. No mention of the Ascians─or primal summoning techniques, for that matter."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While Calyx doubtless received instruction from someone possessed of such knowledge, there was naught to identify this benevolent mentor."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I am however pleased to say that we found several reports concerning the key."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We know the key is used to open paths between worlds, and was a treasured relic of the Milalla."
+    },
+    {
+      "character": "Shale",
+      "text_en": "And just as the Milalla were unable to return after reaching the Mist Continent, so too was Preservation unable to gain a mastery of the prize which had passed into their possession."
+    },
+    {
+      "character": "Shale",
+      "text_en": "The data suggests that a particular formula or procedure is required..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "A process which Calyx appears to have understood to some degree."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Yet the key proved fickle."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Perfectly replicating conditions was no guarantee of success. And even when they did manage to generate a modest portal, the destination was never the one they expected."
+    },
+    {
+      "character": "Shale",
+      "text_en": "The reports practically screamed their frustration, describing the experience as being dragged around by a traveler picking roads without rhyme or reason. Serves them right, I say."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "After much trial and error, Preservation began to experiment with external actuation devices for the key."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Striving to maintain a stable pathway to a chosen location, they conceived of the technology that forms the gate to the golden city."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So their tribulations ultimately afforded them control of the key─albeit in a limited capacity..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Which, of course, explains why they were able to instruct Zoraal Ja in its use."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Thus enabling the unprecedented feat of transferring Everkeep and its environs to the Source."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "After the Endless Sphene took the key unto herself, she opened pathways to other reflections in her hunt for aether, did she not?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The Milalla merely used it to facilitate their exodus. To think what the key has now wrought in different hands..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "For all we know, the actuation device augmented the key's power beyond its intended scope."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Were your goal to plunder whole worlds of their aether, a tool designed to simply transfer people would likely be insufficient."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Shale, I don't suppose you would be able to remove the actuation device?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "The machine made for that very purpose is still functional, thankfully. It shouldn't be a problem."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What do you think? We don't even know how the key works─if the device is somehow interfering or amplifying its capabilities, I believe we ought to remove it."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Give me a moment."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "My word!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Y'shtola?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This is the first time I've beheld the key in all its unobscured glory."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The sheer density is extraordinary... 'Tis akin to the structures we saw beneath the Tempest."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Now that you mention it, the ornamentation is reminiscent of Amaurot."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Have you noticed anything since the key has been in your possession?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You're suggesting the key has some connection with Azem?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A plausible theory. Although one we are yet unequipped to prove."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ah, my apologies!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hello? Yes, this is Krile speaking."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That was Ojika with a message for us."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "An urgent matter?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm not altogether sure..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Tataru requires our counsel, and hoped to call upon us in person at the Baldesion Annex."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Though disappointed we were not present, she appeared content to wait until our travels brought us back to Sharlayan, insisting that it did not merit our immediate summons."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Her tone suggested otherwise, however, and Ojika felt compelled to contact us directly."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Mayhap the time has come for another journey across the salt."
+    },
+    {
+      "character": "Shale",
+      "text_en": "You'd best go. Though I'll not deny that I'll be sad to see you leave..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh, Shale. I can't even begin to thank you for all you've done."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We will be forever indebted to you and your Oblivion colleagues."
+    },
+    {
+      "character": "Shale",
+      "text_en": "The debt is ours. We'll never forget the sacrifices you've made for us─for Alexandria."
+    },
+    {
+      "character": "Shale",
+      "text_en": "In the meantime, I shall keep sifting through the data. You'll hear as soon as I find anything of note."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Actually, I should like to stay here a little longer, if you don't mind?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "You are most welcome!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And might I borrow the key for a while? I wish to study it further─with the utmost care, I assure you."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well then, shall we be off? Ojika will be expecting us!"
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "TRAIL TO THE HEAVENS"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Given that Preservation could not unlock the secrets of the key, it should come as no surprise that we too struggle to understand its nature... In any event, do give Tataru my regards when you see her."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ah, I ought to mention that we also uncovered information unrelated to the key."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "According to Shale, certain confidential reports are now accessible via devices in the researchers' commons and the director's office. You might wish to peruse the files before you depart for Sharlayan."
+    },
+    {
+      "character": "Shale",
+      "text_en": "My colleagues will be just as saddened by your departure. Until we meet again, safe journeys!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I thought it best to hear what Ojika has to say ere we meet with Tataru. I do hope she is well..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Oh dear... It occurs to me that I neglected to bring gifts from Tural. Considering the extra work they've had to handle in my absence, I daresay I owe them a veritable mountain of snacks, at the very least..."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Welcome back! And what a pleasure it is to see you too, Forename ."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you for contacting us, Ojika. We came as soon as we could."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Of course. I felt it prudent given how troubled Tataru was..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Your concern is much appreciated. As it so happens, we'd reached a convenient juncture in our investigation. Shale and Y'shtola have matters well in hand, leaving us free to make this trip."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "That's a relief to hear. Now, let me fetch Tataru for you."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Why don't you take a moment to relax in the main hall? I'm sure you're all still fatigued from your journey!"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "I shan't be long, but you can unwind in the main hall while I'm gone."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Given how frequently Tataru is away on business these days, 'tis a small miracle we're in the same place at the same time."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Only now is it beginning to feel like we've actually returned. Such fond memories within these four walls!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Planning your next journey?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh, no. Just reminiscing..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thinking back to when you bought this map─and how you all encouraged me to make the voyage to Tural..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Are you glad you did?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "As if you need ask!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Welcome back!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I'm so glad you're here!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ojika contacted us. He intimated that you were rather concerned."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Come to think of it, Alphinaud said he and Alisaie would pay you a visit upon their return. Have you not seen them?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Oh, no, they were here! I was regaled with many a tale of your Turali adventures."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It was only once they'd departed for Garlemald that the rumors came to my attention."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Rather alarmingly, voidsent sightings seem to be on the rise across the star."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I was reluctant to bother you with mere hearsay, especially when you had more pressing matters to contend with..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "But earlier I received a confidential report from the Grand Company of Eorzea."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It's as if a mighty dam has been breached, flooding the land with foul creatures!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "For a blessing, most nations have managed to keep the invaders in check, and casualties appear to be minimal thus far. Though the same cannot be said for those regions with a deeper connection to the void..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "There, fissures continue to manifest without end, putting countless innocents in danger!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A deeper connection to the void..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Garlemald is the home of the reapers, is it not?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It is! Alphinaud and Alisaie were there when the trouble began and have since sent word that the situation has taken a dreadful turn..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Thus concludes the abridged account of our time in Tural. Now, I shall leave you with the words of the late Dawnservant, Gulool Ja Ja."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "“Ignorance begets strife. Understanding begets fellowship.”"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A notion that rings true for Eorzeans no less than it does for the diverse peoples of Tuliyollal."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And for Garleans as well. Even sharing something as simple as a local dish can pave avenues of understanding."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's up to all of us to forge new bonds─together."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Thank you for sharing your tale."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Better they hear it firsthand than endure my clumsy retelling."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Your words give me hope that we might achieve something similar here in Garlemald."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We all have the capacity to effect change! Our time in Tural taught us that much."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And now that we've returned, it's time we rolled up our sleeves and got back to work!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I've already sent missives to the other nations informing them of our Alexandrian friends."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I also intend to notify the Garlean community officially. If both sides are amenable to the proposition, we shall gladly assist in establishing diplomatic relations with Alexandria and Tuliyollal."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Thank you."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "But are you sure you've recovered from your journey? It sounded like you've hardly had time to catch your breath..."
+    },
+    {
+      "character": "Panicked Imperial Soldier",
+      "text_en": "Sir!"
+    },
+    {
+      "character": "Panicked Imperial Soldier",
+      "text_en": "Lapis Manalis is overrun with voidsent! We've sustained heavy civilian casualties!"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "What!?"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "Clyteum squadron reporting in. We're under attack!"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "Voidsent appeared out of nowhere and ambushed us during a routine inspection!"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "Dammit, is that another fissure? ...No-no-no─aaargh!"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "My comrades are under attack. We have to do something."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There's no time to lose. Come on!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "The Garlean community is ill-equipped to defend themselves against such a threat. Even with the aid of the twins and the Ilsabard contingent, they face daunting odds..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We shall leave for Garlemald immediately."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Thank you..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I was able to contact Thancred and Urianger too─they're already on their way. With any luck, you'll be able to rendezvous with them on arrival!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I don't believe we've seen Thancred and Urianger since our battle with the Endless Sphene, have we? They too must have returned here at some point."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Clearly we made the right decision to come to Sharlayan. Though I dearly wish the circumstances of our return were not so grave..."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Voidsent emerging across the star!? How fortunate I contacted you when I did... Please do take care of yourselves!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I've been told Alphinaud and Alisaie have withdrawn to Tertium to request aid on the front lines."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "They seemed intent on rejoining the battle once reinforcements were ready, but I shall tell them to wait until you arrive!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Sorry to send you packing so soon after your homecoming, but Garlemald desperately needs your aid!"
+    }
+  ]
+}

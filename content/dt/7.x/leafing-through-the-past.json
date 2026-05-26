@@ -1,0 +1,680 @@
+{
+  "id": "leafing-through-the-past",
+  "wiki_path": "/wiki/Leafing_through_the_Past",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Leafing through the Past",
+  "level": "100",
+  "location": "Living Memory(X:35.4,Y:15.3)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That went really well! And you, Forename —your sense of balance is something else!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though it had no taste, the ice cream was a treat for the eyes. I'm glad it served to ease the tension."
+    },
+    {
+      "character": "Krile",
+      "text_en": "As my parents told us, the cavern inside the volcano is a place for learning about the Milalla's ancient homeland."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But I'm hoping it will yield other information as well."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Namely, information on Preservation."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Preservation... The scientists who were researching interdimensional fusion."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And prior to that, created the Endless."
+    },
+    {
+      "character": "Krile",
+      "text_en": "As Living Memory is likely also their creation, I expect they would carefully curate any details concerning themselves, but I wish to keep an eye out nonetheless."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm all for it, of course. Seeing as the key once belonged to the Milalla, it couldn't hurt to learn about them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, let's head inside!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So this is how it is in here!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "These panels contain information about the Milalla. It's very much like a museum."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This place has the look of an ancient ruin, but I suppose it's an illusion as well."
+    },
+    {
+      "character": "Chapter I",
+      "text_en": "In the distant past, the Milalla abided in peace upon isles of eternal summer. Winter never visited that bountiful land, and the flowers ever bloomed in all the colors of the rainbow."
+    },
+    {
+      "character": "Chapter I",
+      "text_en": "But such idyllic days did not last. For just when it seemed the westerly wind had turned cold, the seas suddenly froze over. From the fish in the water to the birds in the sky, all of the animals soon perished."
+    },
+    {
+      "character": "Chapter I",
+      "text_en": "This unnatural weather continued with seemingly no end, and one by one the Milalla fell until the death toll was beyond counting. Those who lived still could do naught but pray as they huddled together for precious warmth."
+    },
+    {
+      "character": "Chapter II",
+      "text_en": "The Milalla are the keepers of a mighty relic passed down through the ages. While it has the appearance of a crystal, by whose hand it was wrought is unknown."
+    },
+    {
+      "character": "Chapter II",
+      "text_en": "When a great calamity froze their isles, the Speaker, their spiritual leader, fervently prayed to the relic for salvation."
+    },
+    {
+      "character": "Chapter II",
+      "text_en": "In answer to their prayers, the relic opened for them a golden path, one that shone like the light of dawn, and through it they fled unto a new land."
+    },
+    {
+      "character": "Chapter III",
+      "text_en": "Since ancient times, the Milalla have excelled in calculations. By using formulae and figures to represent all natural phenomena, they had succeeded in devising a unique system of magic."
+    },
+    {
+      "character": "Chapter III",
+      "text_en": "This gift proved invaluable in their new homeland, where they employed their calculations to etch arcane circuits upon the ore which later came to be known as electrope."
+    },
+    {
+      "character": "Chapter III",
+      "text_en": "Through this ingenious technique, electrope was transformed into a tool that could not only store lightning, but convert it into energy of any element."
+    },
+    {
+      "character": "Chapter IV",
+      "text_en": "Esteemed for their excellence in the study of electrope, the Milalla were favored by the rulers of many a nation."
+    },
+    {
+      "character": "Chapter IV",
+      "text_en": "Some among them have attempted to invoke the power of their ancient relic to return to their homeland, but their efforts were to no avail. Never again has the golden path opened that allowed their ancestors to flee to safety."
+    },
+    {
+      "character": "Chapter IV",
+      "text_en": "Eventually, the relic came to be forgotten, and some now question whether it ever actually existed."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Quite a mystical atmosphere here. Is this what the Milalla homeland was like?"
+    },
+    {
+      "character": "???",
+      "text_en": "Ding, ding! Correct!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wh-What's going on!?"
+    },
+    {
+      "character": "Talkative Mechanical Soldier",
+      "text_en": "The ancient home of the Milalla people is recreated here in exacting detail thanks to the marvel of electrope. The scale alone has been adjusted in order to accommodate folk of all proportions."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Ah, but I have neglected to introduce myself. I am the guide for this facility, the Steps of the Speaker. It shall be my pleasure to assist you as you embark upon your educational journey."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There's even a guide? How considerate."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Alright, then. As we wander around, if there is something we do not understand, we'll be certain to ask you."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Bzzzt! Incorrect!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Visits to our facility take the form of a quizzed tour, so the correct answer is: follow the instructions of your guide. That's yours truly!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sounds like a pain in the ass..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm sure it will be both enlightening and entertaining. Let's have them guide us."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Very good, madam! I have registered the four of you as visitors. Please proceed through yonder passageway to the chamber beyond!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The wall is illuminated! It's so beautiful!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is that pattern a Milalla motif...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Judging by the elaborate decoration, this was a place of import to the Milalla."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "If I may have your attention!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "You stand within a shrine of the Milalla, a migrant people who roamed until they found new lands to call their own."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "According to folklore, they originally hailed from a paradise of eternal summer. Alas, they had no choice but to abandon it when a great calamity froze the very seas."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "The Speaker, their spiritual leader, guided them to safety, and she is enshrined here with the sacred relic she wielded. In this place, they performed rituals dedicated to the dream that, one day, they might return to their ancestral home."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A sacred relic... That must be the key used to initiate interdimensional fusion."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Interdimensional fusion...? If such a wondrous power existed, I can only imagine what great feats it could be used to achieve!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Now then, it's time for a history quiz!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh, here we go..."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "There are four braziers in this room, each of which is accompanied by a panel bearing a statement."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "If you believe a statement is true, then you must light its brazier by operating the panel. Simple, yes?"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Without further ado, please nominate a representative and begin!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If there are no objections, let us have Forename do the honors. Go on and take a look at the panels, my friend."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All the statements could be true, right? Or even false!? Gah, the suspense is killing me!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I daresay the panels in the previous chamber may also hold clues."
+    },
+    {
+      "character": "Krile",
+      "text_en": "For a mechanical soldier to serve as guide, it seems safe to assume that Preservation was aware of the information presented here and had no objections to its dissemination."
+    },
+    {
+      "character": "Brazier of Eternal Summer",
+      "text_en": "Long ago, our people dwelled on isles of eternal summer, where the flowers ever bloomed. Yet eternity did not last, for a calamity turned the bounteous waters to barren ice."
+    },
+    {
+      "character": "Brazier of the Relic",
+      "text_en": "Praying fervently upon the sacred relic, the Speaker opened a portal through which our people fled. However, she alone had to remain behind in order to sustain the power."
+    },
+    {
+      "character": "Brazier of Calculations",
+      "text_en": "Owing to our innate gift in arcane calculations, we Milalla not only transformed electrope into a miraculous tool, but excelled in its study besides. As such, despite originally being outsiders, we were favored by the rulers of many a nation."
+    },
+    {
+      "character": "Brazier of the Homecoming",
+      "text_en": "When lightning threatened the world, we Milalla turned to our relic once more. Invoking its power, we opened a portal and returned to our ancient homeland."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Remember, you must light the braziers whose statements you believe are true! Are you ready for your answers to be judged?"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Very well! Let the judging begin!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Bzzzt! You have chosen poorly!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "You are welcome to try again, however. Think carefully on what you have learned, and consider reviewing the panels in the first chamber."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "To give you a little hint, two of the statements are true, and they are not next to each other!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Ding, ding! You have answered correctly! Congratulations!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "You have answered correctly—and on your very first attempt besides! Amazing!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Great work, Forename ! I knew you could do it!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Taken at face value, the information here would suggest that the Milalla had simply migrated from a distant land."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But we know better. We are aware of the existence of reflections, umbral calamities, and interdimensional fusion."
+    },
+    {
+      "character": "Krile",
+      "text_en": "For an event that froze the seas, the Fifth Umbral Calamity comes to mind—that which ushered in the Age of Endless Frost."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And legend holds that, during that age, the entire population of the south sea isles vanished overnight."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Forename —in the course of your adventures, might you have learned aught of this legend?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not only did you visit a shrine of the forgotten people of Aloalo, but you did battle with a statue of the Speaker as well?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The things you get up to never cease to amaze..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The art of arcanima, too, traces its roots to the calculations of the south sea islanders. While we cannot outright conclude that these people were the Milalla, there are at least enough points of similarity to support the theory."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Ahem! If you have mused to your satisfaction, let us move to the next chamber. Another quiz awaits!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How many of these quizzes are there...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wh-What's with all these massive faces!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There appear to be a few expressions for these masks."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What could these masks represent, I wonder..."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "We have come to the most enigmatic location in the museum."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "While it is known as the Speakers' Rest, everything else remains a mystery. No one knows what purpose it served—not even the Milalla themselves."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That's rather curious..."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Isn't it, though? Some have suggested that this place is purely the creation of the facility's designer—that it didn't actually exist in the Milalla homeland."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "It's generally believed, however, that the adornments upon the wall are masks that represent the emotions of men."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "And that brings us to the final quiz! The question is simple: how many types of masks are there?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's the last one already!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hmmm... Something tells me it's not going to be as simple as it sounds..."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Please take all the time you require. I shall be here when you are ready with the answer."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait, what...? Gah, I keep on losing track!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I might have to borrow a brush from Krile..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Three. The answer is three...I think."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Masks representing emotions... This is just a thought, but if emotions and memories are intrinsically bound, could they be the Milalla's way of expressing the different faces of Living Memory?"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "So, how many kinds of masks are there? Have you determined the answer?"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "That's incorrect, I'm afraid! Try counting again...or just go with your heart!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "That's incorrect, I'm afraid! Try counting again...or just go with your heart!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "So your answer is four. How about everyone else?"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "That's incorrect, I'm afraid! Try counting again...or just go with your heart!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seriously!? I thought it was six!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Like Forename , I also believe it is four."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As do I!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "And the correct answer is..."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Four! Congratulations to the three of you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn it! Where the hells did I mess up?"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "And that concludes the quizzed tour for the Steps of the Speaker!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "I thank you for your visit today, and eagerly look forward to your next!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Finished at last... Gods, I'm exhausted..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If the legend is true, the Milalla were refugees from the Source."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But what is this relic of theirs that can bridge worlds? Who made it, and to what end?"
+    },
+    {
+      "character": "Robor",
+      "text_en": "Much about the key remains shrouded in mystery."
+    },
+    {
+      "character": "Robor",
+      "text_en": "By augmenting it with electrope, Preservation did succeed in opening a portal. Yet they could never grasp how they had managed to do so, much less the underlying principles of the technology."
+    },
+    {
+      "character": "Robor",
+      "text_en": "To this day, not a single person understands the mechanics of interdimensional fusion. Let alone who imbued the key with its power, when they did so, or why."
+    },
+    {
+      "character": "Robor",
+      "text_en": "But remember this."
+    },
+    {
+      "character": "Robor",
+      "text_en": "The key is a tool. And like all tools, in and of itself it is a force for neither good nor evil."
+    },
+    {
+      "character": "Robor",
+      "text_en": "Once taken in hand, however, its capacity for both is made plain. In delivering one man, it may doom another—making a lie of its bearer's every good intention."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "As did Preservation, Queen Sphene seeks to wield the key in the name of those she loves."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "And, in so doing, makes her people party to the destruction of countless souls."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "We have told you all we can. To be able to share this with you at the last... It feels as though we've fulfilled our purpose."
+    },
+    {
+      "character": "Robor",
+      "text_en": "You've come to shut down the terminal?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "...Yes, we have."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But perhaps there's another way? One that doesn't require the terminal's deactivation..."
+    },
+    {
+      "character": "Robor",
+      "text_en": "For the longest time, we've sought a means to erase ourselves before our knowledge could be used for ill. And in you we have found it."
+    },
+    {
+      "character": "Robor",
+      "text_en": "So press on. Press on, and don't look back."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I will..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Um... May I ask you one last question?"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "Of course, my dear."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The earring... Why did you leave it with me?"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "Because, Krile, we wanted to see you again."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "This may seem self-serving...but we wanted to leave a trace of ourselves with you."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "A hint to guide you to us, so that we could live in hope."
+    },
+    {
+      "character": "Robor",
+      "text_en": "We've dreamed of this day for so long. But now that it's become reality, we wonder if we deserve to enjoy it."
+    },
+    {
+      "character": "Robor",
+      "text_en": "We wanted naught but the best for you, yet we've always wondered how much you might have suffered in our absence..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Do not torment yourselves so. As fate would have it, you entrusted me to a good man. His name is Galuf, and he raised me as his own."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What's more, I've been blessed with the finest comrades anyone could have."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's thanks to you that I am here now, hale and happy."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So please, be at peace. Be at peace, Mother, Father."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "You already have a beautiful name. But if we might call you by the one we gave you..."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "Maya, our dearest Maya. We love you more than life itself."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Maya... M-My name...my name is Maya..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are you sure about this? You can leave the terminal to us, you know."
+    },
+    {
+      "character": "Krile",
+      "text_en": "No—I must do this. Krile Maya Baldesion must press on. Press on, and..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Farewell, Mother!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Farewell, Father!"
+    },
+    {
+      "character": "Robor",
+      "text_en": "Farewell."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "[HAPPY CHUCKLE “Hehe”]"
+    },
+    {
+      "character": "Krile",
+      "text_en": "If I may confide in you, Forename ... I've been anxious ever since I chose to accompany you to Tural."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I was afraid of what I might discover. Perhaps I'd learn nothing—or worse, that my parents didn't love me."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But now I know the truth, and I couldn't be happier."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm glad I took up pictomancy. And I'm glad I mustered up the courage to say that I wanted to join you."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you, Forename , for trusting me with your life and walking with me all this way."
+    },
+    {
+      "character": "Krile",
+      "text_en": "...Well, that's all I wanted to say! I'll see this through—rather, we'll see this through together."
+    },
+    {
+      "character": "Krile",
+      "text_en": "My apologies for keeping you. Come, let's catch up to the others!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville isn't here yet..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Lovely people, Robor and Alayla."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Worry not, I shall be fine."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The others have told me all. I'm glad Krile could bid her parents a proper farewell."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Now then, to ask this question for the second-to-last time..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Are you ready to shut down the terminal?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You know how to do it?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I do."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Now that Elene'shpya has joined us, let's head to the last zone."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Just one zone remaining..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Their memories may be gone, but their love will be with me always..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are you all right, Krile?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I am. I chose to forge on no matter what."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And I've had the courage to do so because of you all. Thank you, from the bottom of my heart."
+    }
+  ]
+}

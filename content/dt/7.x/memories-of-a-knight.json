@@ -1,0 +1,476 @@
+{
+  "id": "memories-of-a-knight",
+  "wiki_path": "/wiki/Memories_of_a_Knight",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/50/Memories_of_a_Knight.png",
+  "patch": "7.0",
+  "title_en": "Memories of a Knight",
+  "level": "98",
+  "location": "Heritage Found(X:12.1,Y:27.8)",
+  "npc_start": "Otis",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "You haven't finished yet, right? That would be too fast, even for you!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Once Alisaie brings her portion, we shall have a glorious bounty to satisfy growing younglings like yourselves!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Indeed, I expect there will be ample leftovers to share with the good folk of the driftdowns. They always appreciate a warm meal."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Now, seeing as you have completed your task so quickly, I have another request to make of you. We've exhausted our supplies of kindling electrope, and I should be grateful if you could search the houses yonder for more."
+    },
+    {
+      "character": "Otis",
+      "text_en": "In the old kingdom, electrope rations were issued to each citizen. While small, fragments may still be found here and there."
+    },
+    {
+      "character": "Otis",
+      "text_en": "If you can obtain five pieces, say, at least one ought to be what we require—that is, the kind that converts lightning to fire. Gulool Ja can identify them by their circuitry, so pray take them to him."
+    },
+    {
+      "character": "Otis",
+      "text_en": "The boy has become quite deft at discerning electrope types, and in a very short time, I might add. Now, off you go, and happy foraging!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Of late, my arms and legs have grown somewhat creaky and uncooperative. A few centuries will do that even to the best of us, I suppose! Hahaha!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "The others have returned as well. What a blessedly lively day this has become!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've got the requested vegetables, along with a few extra bits! I have to say, all this running around's made me hungry..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hmph, I dared to think I had won this time, but it turns out you were already off doing another task."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Otis says you have electrope for me?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Wow, you found a lot!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Let's see... This one creates wind, this one is for water..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You can tell just like that? I'm impressed."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Clever, isn't he? I'll bet he gets it from his father..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Ah, this is it! This converts to fire!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It's absorbed lots of lightning, so we should be able to kindle a flame easily."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Thank you, Forename !"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hehe... It makes me happy to see Gulool Ja happy."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Wuk Lamat could carry lots of vegetables at once. She's really strong!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "With apologies to Erenville and Krile, let's enjoy the meal!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Thanks to your kind assistance, we have everything we need for our repast."
+    },
+    {
+      "character": "Otis",
+      "text_en": "You have done your part, and now I shall do mine. I bid you relax, my friends—the meal will soon be served!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the kind of thing families do, Gulool Ja. We have meals together and talk about what's on our minds."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "So you ate with your father?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, with them and my brothers. It was mostly the Head of Resolve and I doing the talking, though. Koana and the Head of Reason occasionally joined in, and Zoraal Ja...spoke when he was spoken to."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "You said that you have two papas. Does that mean one is yours, and the other is my father's?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, no, both are our father. He's what people call blessed siblings—a Mamool Ja with two heads."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja is his trueborn child, while Koana and I were adopted and don't share the same blood."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But that doesn't make us any less a family. What matters is that our hearts are connected. The Head of Resolve taught me that."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Family..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Do you have someone like that too? A person you think is family, even though you don't share the same blood."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That's...a good question."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What about you?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'd like to meet them one day."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "You must be strong. I don't think I could be alone like that for long."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I-I'm sorry if I said something wrong..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, Gulool Ja. I'm hoping that we could be family, you and I."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Won't you tell me about yourself?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "You...really want to know about me?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I do. I want to know all about you. The things you love, the things you hate—anything and everything."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I want to know all about you too!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That reminds me, we were hoping to hear your story too, Otis."
+    },
+    {
+      "character": "Otis",
+      "text_en": "As you wish. Be forewarned that mine is a tale that will be long in recounting."
+    },
+    {
+      "character": "Otis",
+      "text_en": "It was before lightning had altered the world that I was appointed lord captain of the royal knights."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're talking hundreds of years prior to the calamity, right?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Indeed. Earlier still than when I assumed this mechanical form—four hundred and fifty-four years ago, to be precise."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then...you used to be a normal person?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Oh yes. I was once flesh and blood, like you, and I proudly served as a knight of Alexandria."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So rather than a machine that behaves like a person, you were— are an actual person? How is this possible?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "'Tis only natural that you are confused. Hear my tale to the end, and all shall become clear."
+    },
+    {
+      "character": "Otis",
+      "text_en": "The foremost duty of the royal knights was the protection of the royal family. In my time, that was Their Majesties the King and Queen, and their only child, Her Highness the Princess."
+    },
+    {
+      "character": "Otis",
+      "text_en": "By then, every nation of our star was embroiled in some manner of conflict over electrope. Thus was our kingdom drawn into a war with its neighbor."
+    },
+    {
+      "character": "Otis",
+      "text_en": "That war was the catalyst for the great calamity that altered the environment. Countless countrymen lost their lives amidst the chaos, the king and queen among them."
+    },
+    {
+      "character": "Otis",
+      "text_en": "For a blessing, we were able to protect the princess, who then rose to the occasion and brought hope to her people in those trying times. So kind-hearted was our young queen that, at her behest, we even took in refugees from the enemy nation."
+    },
+    {
+      "character": "Otis",
+      "text_en": "But sadly, her reign was cut short. Like many others, her body had been ravaged by lightning, and one day she collapsed and passed away..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How tragic..."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Aye... Nary was there a citizen whose eyes remained dry, and many a moon was spent constructing a great tomb worthy of her memory."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Yet I clung to hope still. For while Her Majesty was on her deathbed, the kingdom's finest scientists had successfully extracted her soul."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Did we hear that right? Extracted her soul?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Our flesh may wither and die. But so long as we are remembered, we may live on."
+    },
+    {
+      "character": "Otis",
+      "text_en": "This age-old belief had always comforted our people. But as casualties mounted in the wake of the calamity, we sought to make it into reality through the power of electrope."
+    },
+    {
+      "character": "Otis",
+      "text_en": "In time, we succeeded in developing the means to preserve the soul, and it was used to spare the queen eternal death."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Yet it wasn't enough to simply prevent the soul's departure. For the ultimate goal was to recreate a person as they were in life, and this required that their memories be further extracted from their soul."
+    },
+    {
+      "character": "Otis",
+      "text_en": "It took many more years of research to make this possible, by which time I had become a grey old man. With my days numbered, I did not hesitate to volunteer myself as a test subject for the procedure."
+    },
+    {
+      "character": "Otis",
+      "text_en": "So it was that I attained this vessel."
+    },
+    {
+      "character": "Otis",
+      "text_en": "And by my successful rebirth, I paved the way for those who are recreated from the memories of the departed."
+    },
+    {
+      "character": "Otis",
+      "text_en": "The Endless, they are called."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If your tale is true, then the queen that your people brought back to life..."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Oho, so you know Her Majesty as well!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "My description of her boundless kindness must have paled in comparison to what you no doubt felt in her presence."
+    },
+    {
+      "character": "Otis",
+      "text_en": "I haven't met her myself, I confess. Not since assuming my current form. Wouldn't want to frighten the living daylights out of her!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Hahaha!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "I have seen my queen from afar many times. But I've not the courage to approach her..."
+    },
+    {
+      "character": "Otis",
+      "text_en": "This isn't out of cowardice, mind you, but rather...concern. Yes, concern that I would cause Her Majesty undue distress!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Otis has told me the tale before."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Does this mean the queen of Alexandria isn't actually a person like you and me...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Endless... So all this time, Sphene wasn't alive?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "She lives yet she does not. 'Tis admittedly a difficult distinction to make."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Having inherited the memories of a departed soul, an Endless feels, thinks, and acts precisely as that person would."
+    },
+    {
+      "character": "Otis",
+      "text_en": "In that sense, I believe they are alive."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The Alexandrians know about this, right? It can't have gone unnoticed that Sphene is perpetually youthful."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "No one really knows about the Endless. People who wear regulators don't even think about death."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Everyone sees that the queen doesn't change, but they just accept it."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "To them, it's just who she is."
+    },
+    {
+      "character": "Otis",
+      "text_en": "While there should be as many Endless as those who have died, I believe they are limited in where they can exist. Queen Sphene is unique in her ability to appear before you."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Strictly speaking, I myself am not an Endless. They are created using memories extracted from a soul, but my entire soul was placed inside a machine."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Being inside a machine makes you different...how?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "While I do not understand the finer points, my life is bound to this vessel. If it breaks down, then it would be over for me, much like a being of flesh and blood. Hardly an endless, unchanging life, I'm sure you'll agree!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "An endless, unchanging life... I can't help but be reminded of the Ea."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Did Cahciua and the others know about all this?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Considering their extensive intelligence gathering, I'd be surprised if they didn't."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "For now, let's share what we've learned with Krile and Raha. I can't help but have misgivings about this..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Naahe? Is that you?"
+    },
+    {
+      "character": "Naahe",
+      "text_en": "Good gods, Elene'shpya!? It's been too long, my friend!"
+    },
+    {
+      "character": "Naahe",
+      "text_en": "Where have you been all these years? What have you been doing with yourself?"
+    },
+    {
+      "character": "Naahe",
+      "text_en": "Hold on... They say Queen Sphene has guests from outside the barrier. That's you, I gather?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It seems so. I'm looking for my mother—do you know where she is?"
+    },
+    {
+      "character": "Naahe",
+      "text_en": "Your mother?"
+    },
+    {
+      "character": "Naahe",
+      "text_en": "Sorry, but what was she like again?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What? It's Cahciua. You know, the one who was too adventurous by half. Who journeyed with the Dawnservant."
+    },
+    {
+      "character": "Naahe",
+      "text_en": "Hmmm... It's not ringing any bells."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You can't be serious. Ours was a tiny little village. Surely you remember her!"
+    },
+    {
+      "character": "Naahe",
+      "text_en": "I really don't... It's all a blank..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Is anyone else here from the village?"
+    },
+    {
+      "character": "Naahe",
+      "text_en": "H-Hey!"
+    },
+    {
+      "character": "Ecaate",
+      "text_en": "Elene'shpya!?"
+    },
+    {
+      "character": "Ecaate",
+      "text_en": "[GRABBED BY SHOULDERS, SURPRISED REAX “Uwaaah!”]"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm looking for Cahciua! Where is she?"
+    },
+    {
+      "character": "Ecaate",
+      "text_en": "Wh-What's this all of a sudden? Who's Cahciua?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This...this cannot be..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The memories of the departed...are taken away..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Elene'shpya, where are you? The others will be here soon, so hurry back, won't you?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Do you hear me? Say something, would you?"
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "id": "the-leap-to-yak-t-el",
+  "wiki_path": "/wiki/The_Leap_to_Yak_T%27el",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Leap to Yak T'el",
+  "level": "94",
+  "location": "Tuliyollal(X:10.1,Y:15.0)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "I'm sure the others will be along shortly. I do hope everyone has rested well."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Now that we have refreshed ourselves somewhat, let us consider all claimants as they currently stand."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Zoraal Ja and Koana have completed every feat thus far and hold five keystones apiece."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Wuk Lamat would be equal with them but for Bakool Ja Ja's thievery, which has left us one short."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That conniving braggart didn't so much as lift a finger for the Feat of Proof and wreaked havoc for the Feat of Ice. He can't have more than three keystones at most."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He may think he can simply steal what he needs to win, but he's sorely mistaken. I will be taking back what is mine─this I swear!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I fear that reclaiming your keystone may not be enough─that is, if Bakool Ja Ja's unleashing of Valigarmanda is any indication."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Using his lead, I anticipate that he will move to obtain the remaining keystones before disrupting his rivals' attempts."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We may all find ourselves being forced to take from one another."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't say I'd be comfortable with that."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But neither will I surrender my claim to the throne so easily. If it's for the sake of preserving the happiness of my people, I'll do what I must!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The last two keystones we require are those of the Lay of Repast and the Lay of the Brotherhood."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The former depicts the cessation of hostilities between the Mamool Ja and Xbr'aal in the forests of Yak T'el. Specifically near a village called Iq Br'aax."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's where I was born, if you recall. I haven't been back there since Papa took me in when I was a baby."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Where the Lay of the Brotherhood takes place, however, is unclear. In the saga, it is said that a foreign explorer came seeking an audience with the Dawnservant...but little more than that."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Eorzea has a similar tale─the explorer Ketenramm befriended a two-headed king known as the Autarch before commencing his travels across Tural."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He journeyed here several times afterwards but was ultimately lost at sea. At least, that is the commonly held belief."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Your two-headed king certainly sounds like Papa. So this Ketenramm fellow must have come to Tuliyollal!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But if he indeed arrived some eighty years ago, the capital may not have been built yet. Vestiges of Yok Huy architecture notwithstanding."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Wait─you said “Autarch,” didn't you? Then Ketenramm must have met the Dawnservant in Mamook !"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Mamook... Is that a city?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "One of the grandest in Tural, once upon a time─and the seat of the Mamool Ja's homeland. It too lies in Yak T'el, not far from Iq Br'aax."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then all things considered, Yak T'el seems the obvious choice for our next destination."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "From here, the safest method of travel is by dirigible. We should make for the landing once our preparations are complete."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "W-We're riding in one of Koana's balloons? ...They can't be any worse than ships, can they?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I-It'll be fine...just...fine..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yak T'el... Where the Yok Huy dreamt of the golden city..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ready to leave when you are."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "How exciting! The design of Turali dirigibles intrigues me. I must note how they perform compared to Eorzean airships..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "For as much as I wish we could ignore him, Bakool Ja Ja is a real threat. We can't afford to let our guard down."
+    },
+    {
+      "character": "Dirigible Attendant",
+      "text_en": "The next flight to Yak T'el will be leaving shortly. Passengers are asked to keep hands, legs, and luggage inside the dirigible at all times."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A-Are we sure that thing will stay in the air? ...All the way to Yak T'el!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A-Are you ready!? Bags packed and, er, good-byes said!? There's no going back once we lift off!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "N-Not that I'm nervous or anything. I'm just making sure that you're not nervous!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, who am I kidding...my knees won't stop shaking. Hey, will you hold my hand? J-Just until I've settled my nerves."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're the nicest person I've ever met, Forename . I'll try not to crush your hand..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That stick-in-the-mud!? He'd never let me live it down!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "There she is! Third Promise, wait just a moment!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Mablu and Tobli! Of course, of course─I'll wait as long as you need!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Sorry to delay you, but we were able to discover the origin of Krile's earring!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that so?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You said before that it gained popularity in Yok Tural as a protective ward for travelers, correct?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "That's right! We tracked down the elderly merchant to whom first sales are attributed."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "According to him, the design imitates an accessory worn by a foreign mage he met at market some twenty years ago. Little did he know that charming taste of salt would prove to be a commercial triumph!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A foreign mage wearing this earring could only be Grandfather. Did the merchant happen to mention which market?"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "One in Yak T'el─to where it seems you are already bound."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What luck. Then I shall seek my next clue once we arrive."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is it mere coincidence that brought my grandfather there? Or..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Yet another discovery to look forward to."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you both for coming all this way."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Anything for the Third Promise! Good luck with the rest of the rite!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Th-Thanks! I won't let you down. I've just got to board this dirigible and...and I'm as good as there!"
+    },
+    {
+      "character": "Dirigible Attendant",
+      "text_en": "Last call for passengers to Yak T'el!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "...I really hope she wins."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Yak T'el will test her mettle, without a doubt."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "The next Dawnservant must be willing to bear the full weight of this nation's history...no matter how heavy it may be."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "The fierce Xbr'aal hunters who laid claim to this land call it the azure forest─Yak T'el."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Battered by meteors in ancient times and colored mesmerizing shades of blue and green by nature, it is easy to understand why the place is so named."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "It is here, where the Xbr'aal and Mamool Ja once battled for dominance, that the rite of succession would reach its climax..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Are you all right?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've never been good with heights..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The vegetation is far denser than in Kozama'uka."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I suggest you pay more attention to the ground unless you want to walk straight into a cenote."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A cenote?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Sinkholes filled with rain and groundwater. Many meteors fell here long ago, it is said, and after they struck the earth, it became susceptible to erosion."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Deep as some of the pits are, you'll not climb out in a hurry should you take a tumble."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "So don't take a tumble."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It was one time..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Is the Xbr'aal community depicted in the Lay of Repast close by?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Aye. We need but follow the path a short way west."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, I can't stand here with my knees knocking forever. Let's get going!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Would it kill Erenville to give me the benefit of the doubt? Or the benefit of a second chance?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can hardly fathom how difficult travel must have been before the Second Promise introduced dirigibles. Can you imagine having to walk all this way?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, that journey was delightful. The wind was fair and the vessel hardly rocked at all."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Worry not─Krile and I will ensure our Promise doesn't wind up at the bottom of one of these cenotes."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "With thicker vegetation comes reduced visibility. I advise you to keep someone in sight at all times."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "See? No tumbles! ...Thanks to Krile and Alisaie, but it still counts."
+    },
+    {
+      "character": "Krile",
+      "text_en": "For all of Erenville's insistence, I have yet to discover anything particularly blue about this forest."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Is that Iq Br'aax over there, I wonder?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Take care not to get separated. I'd hate to lose you to this rampant undergrowth."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Good, everyone's accounted for."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Iq Br'aax is up ahead. Let's be on our way."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hah! I've fallen into High Tide Harbor enough times to be a professional diver─there's no way I'd fall into something like this on accident!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Are all cenotes this deep, I wonder?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What's so blue about this forest? You'll see."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Just so you know, I shall be very cross if you push me."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Erenville was not exaggerating about the cenotes. It would be a grueling ordeal to climb out of one."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Well, thankfully we made it here without incident. Let's not dally any longer."
+    }
+  ]
+}

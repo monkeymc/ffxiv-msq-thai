@@ -1,0 +1,640 @@
+{
+  "id": "in-yyasulani-s-shadow",
+  "wiki_path": "/wiki/In_Yyasulani%27s_Shadow",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "In Yyasulani's Shadow",
+  "level": "96",
+  "location": "Tuliyollal(X:12.0,Y:7.7)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Erenville",
+      "text_en": "...She did well."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It is inspiring to see such diverse peoples rally as one."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The people of Tural have come together for this fight. We must endeavor not to fail them."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm glad to see so many people came. I wasn't sure how many I had won over, so I decided to keep at it."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That was a rousing speech, was it not? Let us do our part to ensure that the Dawnservants can fulfill their promise to the people."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I look forward to the day when peace is restored to Tural. There is so much I wish to see."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, the hour of departure is at hand."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Those of us remaining here shall accompany you part of the way."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I, for one, would like to see the dome firsthand."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We set forth as soon as everyone is ready. I will inform Wuk Lamat that─"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There you all are!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ah, Lamaty'i!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We were just planning to call on you. Are you ready to leave?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I am. Seeing the people come together as one, knowing they haven't given up hope, it was all the encouragement I could ask for."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, let's get going! We leave from the Xak Tural skygate!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Koana and Ketenramm will continue to manage affairs at the palace. Once I've inspected the dome, I will join them to make preparations against further incursions."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Even from afar, I can sense something isn't right about that dome."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As Lamaty'i says, let's stay vigilant."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We should have everything we need for the expedition, from food to medicine to gear. It's quite amazing how much you can fit in Erenville's rucksack!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The dome appears to lie well beyond Shaaloani. A good thing we have Erenville to guide us."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Yyasulani isn't exactly a short distance from Shaaloani. If the train isn't operating, we'll need to consider other means of travel."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone's here? Good."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is it, my friends. We go to strike down Zoraal Ja and secure peace for Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll be passing through Shaaloani, where there have been reports of enemy movement, so stay sharp."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Landsguard had told me about them. They emerged from the dome in quick succession and took to looming overhead."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A display of force, like the vessels in Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Indeed. And while they haven't taken any aggressive actions, I want to see how things are in the area before moving on."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll be passing a few settlements on the way to Shaaloani Station. It's the perfect opportunity to look around."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "In that case, Forename and I know a few locals who can help."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then let's divide into two groups."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville, Alisaie, and Forename will come with me to inquire with the locals. Meanwhile, the rest of you can go and inspect the dome."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Understood. Once everyone has finished, let us reconvene at Shaaloani Station."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We can start with Hhusatahwi. That's where the Dustwatch is based, if I remember correctly."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You do. The sheriff Kemakka should be able to tell us a few things."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So this region has its own peacekeeping force."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everything seems in order at a glance..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The people of the wilds are brave indeed to remain here with those ships overhead."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "Oh, it's you two...and I'll be, Vow Wuk Lamat as well!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're sheriff of the Dustwatch, yes? What's the situation here in Hhusatahwi?"
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "Well, the enemy hasn't tried to pick a fight with us yet. The ships gave us a shock when they first appeared, but they've just been floating there, holding position."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "That said, I've received some unsettling reports from elsewhere. We've been investigating to the extent we can, but we're spread thin and haven't looked in on Sheshenewezi Springs yet."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "Apparently, mechanical soldiers were seen in the vicinity..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What!? If this is true, then the people there are in danger!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I worry about the other townships as well. If the rest of you could head to the Springs, I'll pay a visit to Mehwahhetsoan."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'll accompany Erenville. See you all in a while."
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "We're honored that Vow Wuk Lamat should visit us personally. Please take care out there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And all clear this way..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The mechanical soldiers don't seem to be in the area."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Still, we should talk to the locals. Let's each make rounds and see what we can learn."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, so that's the way of it. Good thing he showed up when he did."
+    },
+    {
+      "character": "Nishetezi",
+      "text_en": "It's awful what's happening in Tuliyollal. I'd been saving for a good time in Hhusatahwi, but I've donated everything I can to the relief effort."
+    },
+    {
+      "character": "Loasakwe",
+      "text_en": "You know anything about that bruise hovering on the horizon, traveler? Folk are saying it's war, or the end of the world, or both. What do you say?"
+    },
+    {
+      "character": "Zatepepya",
+      "text_en": "When those soldiers first showed up, I thought I was done for! If I hadn't managed to toss one of these barrels at them, I'm not sure I'd be here right now."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Forename , you came! As you can see, we're doing all right."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "After those ships appeared in the sky, soldiers clad in white showed up and surrounded the town."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "But to our surprise and relief, a traveler came along and dealt with them all in a flash."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "I'll never forget the way he soared through the air, spear in hand. Shame I never had the chance to ask his name."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "We're all safe thanks to him, but I can't say the same for those in Yyasulani. We haven't heard from anyone there. I hope Namikka is well..."
+    },
+    {
+      "character": "Iyaate",
+      "text_en": "Elene'shpya must be worried sick. I do hope he's all right..."
+    },
+    {
+      "character": "Railroad Clerk",
+      "text_en": "Oh, you're the one who helped us the other day!"
+    },
+    {
+      "character": "Railroad Clerk",
+      "text_en": "Wawlika and the others are out investigating, and they've confirmed that Nitowikwe is safe."
+    },
+    {
+      "character": "Railroad Clerk",
+      "text_en": "It was after the train had begun its journey back here that the dome appeared."
+    },
+    {
+      "character": "Railroad Clerk",
+      "text_en": "So those who were riding the train then are fine, but we don't know what's become of those who disembarked in Yyasulani..."
+    },
+    {
+      "character": "Railroad Clerk",
+      "text_en": "<sigh> What a mess. And just after we finished fixing the tracks."
+    },
+    {
+      "character": "Railroad Clerk",
+      "text_en": "I'll be sure to tell the chief you stopped by when they return."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You heard about the spearman as well?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That couldn't be anyone else..."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "What's this? Someone spreading more gossip about me?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Talk of how I saved the town travels fast, hahaha!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "That's not to discount the help of my friend here, of course. We gave those machines a real beating!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I thought you'd come sooner or later. Do you know what's happening?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So you were indeed the one keeping the people safe! Thank you."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Think nothing of it. The automata aren't particularly strong."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "But are the rumors true? Gulool Ja Ja is slain?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm afraid so... Zoraal Ja used some dirty trick to get the better of him..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll make him pay for what he's done, mark my words."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "You're going to help her, I assume?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I see. With your contingent, you won't lack for strength. In which case, I will remain in Shaaloani and keep an eye on things."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That helps us more than you know! I'll send word to my brother before we set off. If you find yourself in trouble, don't hesitate to contact Koana."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Koana? Brother?"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Wait a second! You're the Vow of Resolve!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I am. And you're Zekowa, right? I'll be counting on you to keep everyone here safe."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Absolutely! If more of those hollow men show up, I'll send them packing!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "I'm the fastest gun in Shaaloani, after all. Forename can attest to that."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Glad to hear it. We leave Shaaloani in your capable hands."
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Let's get patrolling right away, then!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Stay safe out there, and don't do anything reckless."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "...Wasted words, eh? Just do what comes naturally."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, it's time we headed to the station and joined the others."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I heard from Wuk Lamat that Estinien was here."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "With him to watch over them, the people of Shaaloani will have naught to fear."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Raha and I visited the settlements west of here. Thankfully, there was no damage or casualties to speak of."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The dome is absolutely massive. What manner of kingdom do you suppose he's claimed within its borders?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Mehwahhetsoan is still safe, but the animals are unsettled by recent events."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It seems the people of Shaaloani are safe. What a relief."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It seems those soldiers only appeared in Sheshenewezi Springs. Could they have been after the ceruleum?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thanks to Estinien, there were no casualties to speak of in Shaaloani."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Hhetsarro were safe as well. At the very least, there were no sightings of soldiers there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What about the dome? Did you learn anything of note?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It is composed of exceedingly high concentrations of lightning energy."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To even touch the barrier would prove fatal. When approaching it, we must exercise all caution."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then how are we supposed to get inside? If Zoraal Ja and his army emerged from within, there ought to be an entrance..."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "An entrance, you say? It so happens we might have an inkling where one is."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "These are the engineers of Xak Tural Railing, which operates the train between Shaaloani and Yyasulani."
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "When we went out to recover the train, we had ourselves a look at the dome through a telescope."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "It was then that we saw it: a large fortress-like structure that looked like it straddled the dome's edge!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You're telling us part of it is inside, and part of it outside?"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "That seemed to be the case, yes. While we only observed from afar, the soldiers were coming and going from it. From that, I'd say it serves as a passage between the outside world and whatever's inside."
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "But as you'd expect, the area was heavily defended. It won't be easy to get near."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Do you know what became of the passengers who went to Yyasulani? Wuk Lamat's nursemaid was among them, a woman named Namikka."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What!?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "I'm afraid not. Only those passengers who were headed back here are accounted for."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "I can say for a fact that everything was fine when we arrived in Yyasulani."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "But when that big tremor struck not long after we left the station, I hit the emergency brakes and looked back, and all I could see was the dome."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "What's more, the fortress sits right on the tracks of all places. What are the odds of that, eh?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Assuming this fortress serves as a means to pass through the dome, we should first determine how we're to reach it undetected."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't care if we're detected. I say we smash our way inside."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Despite how it sounds, I actually gave this some thought. Zoraal Ja wants me to prove that I'm Father's worthy successor. If I fail, he'll destroy Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By charging in head-on, I make my intentions plain as day, and in so doing keep his eyes on me."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "A bold strategy. I like it!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Of course, your plan'll be no good if you're cut down before reaching their base."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "What you need is something that'll get you there quick and break through their defenses with a single, decisive blow─and we have just that."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Since the tracks go straight to the fortress, we can reinforce our train with armor, load her with all the fuel she'll carry, and send her hurtling at it to explode on impact!"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Chief, have you gone insane!?"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "You were just saying how relieved you were the train's in one piece. And now you want to turn it into a bomb!?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "The train's not important! Our dream was to have railroads running from coast-to-coast, remember?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "If these invaders have their way, there may not be any more railroads, let alone trains to run on them. Is that what you want!?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "It's a sacrifice we have to make."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "These good folks are willing to put their lives on the line to get inside that dome and put a stop to all this. The least we can do is help them."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "But Chief..."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "Listen. No matter how hard things may get, no matter how many times we fall, we can always get back up."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "As long as we're alive, we can always build another train. So have faith─and quit your complaining!"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "But what if we fall really, really hard? There's no getting back up if we're dead..."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "No one's dying on this train. I'll see to it myself."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "Needless to say, this'll be a one-way trip, and we'll need to jump off at the last moment if we don't want to go out in a blaze of glory."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "You alright with that?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "There's no changing her mind, is there?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Just promise me you'll be careful out there, honey."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "I'll hold you to it. Can't start a family business without her, much less a family."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Seeing as I've never had a drink in my life, I certainly hope not."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "It'd be a lie to say the loss of the train doesn't concern me."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "But with good friends, and my loving wife beside me, that's all I really need in the end."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Well, at least it'll go down as the legendary train that saved Tural."
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "That it will. But first, we've got work to do so she'll look the part."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I don't know much about magitek, but if there's anything I can do to help, you need but say the word."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "We'll keep that in mind."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "If any of you are willing and able to lend a hand, there's work that needs doing over at the storehouse."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It seems we have a path forward. I believe this is a good time for me to return to Tuliyollal and inform Koana of the situation."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I shall return as well. I have new investigations to pursue."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The dome's elemental aspect is similar to that of the gate in the golden city. If we can identify a connection, we may learn something of use in our fight."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's one mystery after the next, but at least we're not without clues. It may not be easy, but I know we can get through this together."
+    },
+    {
+      "character": "Krile",
+      "text_en": "To use this train as an explosive is a brazen plan. We'll have but one attempt, so we had best make it count!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The ships seem content to remain waiting in the skies, so let us take this opportunity to do what we can and prepare."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I hope Namikka is safe..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, we have our plan. Now let's finish this train and blast our way into the dome."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even only just having met them, I can see how important the train is to Wawlika and the engineers."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We can't let their sacrifice be for nothing."
+    }
+  ]
+}

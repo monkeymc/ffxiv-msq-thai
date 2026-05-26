@@ -1,0 +1,364 @@
+{
+  "id": "history-s-keepers",
+  "wiki_path": "/wiki/History%27s_Keepers",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/d7/History%27s_Keepers.png",
+  "patch": "7.0",
+  "title_en": "History's Keepers",
+  "level": "93",
+  "location": "Kozama'uka(X:33.6,Y:25.2)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "Koana is the picture of composure and rationality...except when it comes to matters concerning Wuk Lamat's safety. Far be it from me to fault a brother for being protective, but still."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Wuk Lamat I once knew would have been inconsolable at the loss of a keystone."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This journey─and your companionship─is doing her a world of good."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We'll need to take that keystone back from Bakool Ja Ja before we arrive at the city of gold. He will not relinquish it without a fight, though..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Though they share a single body, it's obvious Bakool Ja Ja has two minds when you see one head calming the other head down."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "His personalities are as distinct as two individuals could be."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The road beckons, friends! Let's be on our way to the Yok Huy!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Then it's back to where the path through the mountains begins. You remember: the spot where you were tricked into walking off with Wawkesa?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just going to rub my face in it like that, eh?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I wonder if he's raising my hackles on purpose, though. You know, trying to keep my anger directed at him instead of myself."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Either way, we can't be standing around here all day. We have a lot of lost time to make up for!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Erenville said this path will take us all the way to the Urqopacha highlands, didn't he?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Zoraal Ja will not have been wasting time while we were busy tussling with Bakool Ja Ja. We need to hurry."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Those bandits must have been watching us from the moment we stepped off the riverboat... I knew I felt eyes on us."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I couldn't leave without letting Rediroq know what happened, so I stopped in Earthenshire to say a few words before moving on."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...And now Erenville's nowhere to be seen! Couldn't he wait a few more moments!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hmph, so much for giving him the benefit of the doubt. Come on, let's catch up─I want to give that smug gleaner a piece of my mind!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I worried Wuk Lamat would agonize over the loss of her keystone, but it seems I had nothing to be concerned about."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Onwards and upwards, then."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "<pant> <pant> I've never...climbed so high before... I'll tell Erenville off...once I catch my breath..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The Yok Huy have a deep connection to the legend of the golden city. This visit will allow us to ask them about it directly."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We have to be quite high up by now... Which makes me wonder how much higher the summit of Worqor Zormor must be."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Seems those buildings up ahead are the village we're headed for."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As I'm sure you've noticed, the air grows thin at this elevation. Take it slow until your body adjusts. Deep breaths. Drink plenty of water."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A few more steps and we'll be in Worlar's Echo."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I knew the path led here, but I've never set foot in this village myself."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank the gods─they have an aetheryte. I don't fancy the idea of trudging up that mountain trail a second time!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Everything here is giant-sized, but that structure in the back is on a different scale altogether. A temple of some kind, mayhap?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Chilly air. Stout stone construction. If I squint a bit, I might think I was in Ishgard for a moment."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Phew... I think I'm getting used to the air up here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So this is the place from the Lay of Proof, where Papa met with the Yok Huy..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And that must be them. I don't think I've ever actually seen one outside of a picture."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "So it is for most Turali. The giants rarely visit the lowlands."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Here, in their mountain fastness, they tend to the solemn duty they pledged to undertake in their pact with the Dawnservant─"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "To watch over the tural vidraal Valigarmanda, and maintain its prison within their temple."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ah yes, Wuk Lamat told us about the tural vidraal─creatures that live for far longer than normal and awaken to strange powers."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Indeed. Yet even among those anomalies, Valigarmanda is unrivaled in strength. It has endured for centuries, bringing catastrophe each time it emerges from its lair."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As you learned in the Lay of Ice, it was Gulool Ja Ja who at last managed to imprison the beast, and it has lain dormant in the temple ever since."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's said the building still bears a gaping hole in its ceiling from when Valigarmanda was lured inside by Gulool Ja Ja's final ploy."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'd like to see this strongest of all tural vidraal. I wonder what it was like to fight it!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Worlar's Echo was where both the Lay of Proof and the Lay of Ice took place..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Does this not suggest we'll be facing two feats this time?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's a question we can ask the elector once we find him. Or maybe we should flush out Bakool Ja Ja first so I can beat my keystone out of him..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn right! Now, where to start looking..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ahem. Perhaps the feats should take precedence while we're here? I am sure there will be other opportunities to confront Bakool Ja Ja."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I suppose we do still have four keystones to earn. And no matter what we do, the contest will pit us against him sooner or later..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright, let's seek out the elector!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Then I suggest we pay a visit to “Karryorzar the Gracious”─or so their temple is called. The Moblins told me that High Luminary Gurfurlur is to be found there. If we are to ask someone for information, then he seems a wise choice."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We'll need permission to enter the temple, but I expect it won't be a problem for the Third Promise."
+    },
+    {
+      "character": "Krile",
+      "text_en": "While this is certainly an impressive building, it doesn't seem the sort of structure one would build to hold a tural vidraal..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The temple guards have been watching us most intently. One does not stroll freely into Valigarmanda's prison, it seems."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Is it taboo to request entrance to the temple, you think?"
+    },
+    {
+      "character": "Temple Guard",
+      "text_en": "Who are you? What business have you at Karryorzar the Gracious?"
+    },
+    {
+      "character": "Yarjorzur",
+      "text_en": "Before you lies Karryorzar the Gracious. See to it that you comport yourself with dignity."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's see if I can convince the guards to let us through."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I am Wuk Lamat, Third Promise of Tuliyollal, and I seek your elector for the rite of succession. May I speak with Gurfurlur?"
+    },
+    {
+      "character": "Temple Guard",
+      "text_en": "The High Luminary has granted admittance to the claimants. You may enter."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh. That was easier than expected. In we go, then!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gods, is that...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Aye. Valigarmanda!"
+    },
+    {
+      "character": "???",
+      "text_en": "Welcome."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "High Luminary Gurfurlur?"
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "He is not here, at present. I am Luminary Zurmurwur."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the Skyruin, Valigarmanda?"
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "It is. The tural vidraal whose name has evoked terror since time immemorial."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Even my people, once conquerors of all beneath the sun, were as brittle leaves before Valigarmanda's tempestuous power."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "When the Skyruin descended upon Urqopacha eight decades ago, the casualties were staggering. Had Gulool Ja Ja and his companions not intervened, we would have been slaughtered to the last."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Their titanic battle with Valigarmanda raged for ten days and ten nights."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "As their foe fought on, tireless and relentless, our heroes were pushed beyond the limits of their endurance."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Thus did the Head of Reason concoct a desperate plan. Gulool Ja Ja tricked the Skyruin into losing control of its own ice magicks, causing the unwitting tural vidraal to encase itself in frozen aether."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And it's been like this ever since. Nice work, Papa!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But...what happens if the ice ever melts?"
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "That same question looms large in our minds, for the magicks sustaining this prison grow weaker with each passing year."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Valigarmanda commands powers of fire and lightning and ice. Some believe that the violence of the recent storm was the result of those energies slipping free."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That raging tempest, from Valigarmanda...?"
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Setting future worries aside, you are come to attempt the Feat of Proof, yes? The High Luminary, chosen elector of the Dawnservant, has left me with instructions for all aspiring claimants."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "You are to scour our forbidding mountains, and find the waiting Gurfurlur. That is to be your challenge."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, so the search itself is the feat."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You've already spoken with my brothers, I take it?"
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "I have. Their expeditions are underway."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then we'd better pick up the pace!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Aye, but we'll need a direction to search in first. Let's see what hints we can gather from the villagers."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've encountered many extraordinary creatures in Eorzea and elsewhere, but long has it been since I've felt such an overwhelming presence─like a thousand dagger points pricking my skin."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I sensed the recent expulsion of a great deal of aether from Valigarmanda's prison. The ice will hold for but a few years more, I fear."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As large as the Yok Huy are, seeking blindly for one in the expanse of these mountains would be an exercise in futility. We need more information."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Tural vidraal sound an awful lot like the auspices of the Far East. Are they the same thing under a different name, do you think?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gods, Valigarmanda is enormous! I know Papa had friends with him, but it's incredible he could hold his own against that thing."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Should its prison ever fail, though, we can't expect the old guard to come running. It'll be up to us to save the day..."
+    }
+  ]
+}

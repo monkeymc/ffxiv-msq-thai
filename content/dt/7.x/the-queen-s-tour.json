@@ -1,0 +1,592 @@
+{
+  "id": "the-queen-s-tour",
+  "wiki_path": "/wiki/The_Queen%27s_Tour",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/d3/The_Queen%27s_Tour.png",
+  "patch": "7.0",
+  "title_en": "The Queen's Tour",
+  "level": "97",
+  "location": "Solution Nine(X:9.6,Y:13.2)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With Sphene as our guide, we needn't fear getting lost!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Let's begin then, shall we?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I must say I'm really grateful. This place is so vast and confusing, I didn't even know where to begin."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "While the district may seem daunting in size and structure, all the key facilities are situated near leynodes—what you call aetherytes. Remember this and you won't lose your way."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Now then, seeing as it is right here, I will show you the Nexus Arcade first."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Please follow me!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This complex is home to all manner of shops. From food and daily necessities to technological conveniences, you can find most everything here."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Everkeep's interior is vast, as you've observed. This arcade makes it possible for people to acquire what they need in one centralized location."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Amazing!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How do you get to the upper levels? I don't see stairs..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Do you see the glowing pattern over yonder? That is an automatic conveyor."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Such contraptions are found throughout Everkeep, allowing us to swiftly move between faraway places."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That will spare us some walking. Are they also made from that strange metal? Elec...whatsit."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "<chuckle> Yes, the conveyors are powered by electrope."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As a matter of fact, the ore is integrated into just about everything in Everkeep. Even the floors and walls."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "By etching arcane circuits upon it, electrope can be used to convert lightning energy to those of other elements."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "In so doing, we can achieve various effects. For instance, a conversion to wind produces flotation, which is required for the propulsion of our flying vehicles."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A conversion to fire, meanwhile, produces light and heat, and it is employed in devices such as street lamps and heaters. There are even self-heating cups that keep your drink warm."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Can you make a drink cold if you convert to ice instead?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You certainly can! Our vending machines do just that."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What's more, multiple energies can also be combined to produce some clever effects. For instance, by manipulating the air with wind while projecting light with lightning, it is possible to alter one's appearance."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's almost scary what you can do with electrope... If such a wondrous material existed in our world, I imagine everyone would be fighting over it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This shop over here—what does it sell?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, yes. Let's go and take a look!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I daresay you will find it interesting."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's all this...?"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Welcome, sir / miss . Care to peruse today's selection?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This shop sells food. Those are the items on the counter."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's food!? I can't imagine what they taste like..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "<chuckle> I thought you might be surprised."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Your countrymen were too in the beginning."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Come, you must sample something. Choose one and I will purchase it."
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Welcome, friends! How lucky you are for Her Majesty to treat you!"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "The five items on display are our most popular. I recommend one of them if this is your first time."
+    },
+    {
+      "character": "Ganister",
+      "text_en": "The synthetic fruit pellets? They're our best approximation of the taste and texture of grape."
+    },
+    {
+      "character": "Ganister",
+      "text_en": "I've never tried the real fruit so I can't say how faithful they are, but there's no denying their popularity."
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Ah, the revivifying tonic. I take it you're thirsty."
+    },
+    {
+      "character": "Ganister",
+      "text_en": "The flavor is a sublime blend of sweet and salty, and it stays fresh for over ten years thanks to the special container."
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Keen on the perfect meal bar, are you? It's all the nutrients your body needs packed into a single foodstuff."
+    },
+    {
+      "character": "Ganister",
+      "text_en": "The flavor is formulated to never taste dull, and one bar will satisfy you for a whole day. Many folks prefer this to taking multiple meals."
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Ah yes, the salad paste. This is designed for those who are concerned about their figure. With its blend of nine varieties of vegetables, it'll help your efforts to slim down."
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Fashion models swear by it, and youths can't get enough of the stuff either."
+    },
+    {
+      "character": "Ganister",
+      "text_en": "This here is cultivated steak. It's not quite the same as the real thing they produce in the outskirts, but it's a sight more affordable."
+    },
+    {
+      "character": "Ganister",
+      "text_en": "This particular product is known as “gold label,” and it's a delicious hybrid of beef and chicken grown at the plant on the fourth level."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "While they're all very tempting..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm going to have the steak like you, Forename . I'm absolutely starving!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm going to have the steak. I'm absolutely starving!"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Thank you for your custom. This being Her Majesty's treat, it's bound to taste all the better!"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Say, would you mind sampling your selections here and now? It's been a long time since we had newcomers, and I'd love to see your reactions!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is a great chance to learn about Alexandrian culture, Forename . Let's dig in!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright, here I go!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A-Amazing! I've never had any meat like this before!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's tender like chicken but flavorsome like rroneek, and the spices give it just the right amount of kick. I could eat this every day!"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Hah, don't mind them. They're just happy to see your honest reaction."
+    },
+    {
+      "character": "Ganister",
+      "text_en": "And how about you?"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Hahaha! It's always such a pleasure! My thanks for humoring me."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This does take me back. Though it was chaotic when the people of Tuliyollal first arrived, we endeavored to learn about one another and embraced our differences."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, right! What about you, Sphene? Aren't you having something to eat too?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I appreciate the thought, but I'm fine for now, thank you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright. But what's your favorite food, if you don't mind me asking?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My...favorite food?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...Why do you wish to know this?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Because I want to get to know you better. Why else?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The more you know someone, the more you grow fond of them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's what my old man believed, and my experiences have led me to believe the same."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My favorite food..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Hm..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Is it such a difficult question?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm sorry. It's just...when I think of those who labor to bring us the food, I find I can't settle on one thing..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hahaha! I thought I was indecisive, but you're something else!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Indecisive...? Perhaps I am...but you didn't need to laugh about it..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My favorite food... That is a question I may never be able to answer."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't know about you, but I'm satisfied. Let's keep moving!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Very well. Next, I was thinking of showing you the residential sector, but it's in part so I can tend to personal matters."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's a visitation, to be precise...and I believe it will be educational for you as well. Would the two of you mind accompanying me?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not at all!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wonderful. Let me know when you have seen enough here, and we'll make our way."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I was just wondering what kind of homes they have here."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ready? Then let's head to the residential sector. It lies to the southwest."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As we walk, I would be glad to tell you about any places of interest that we come upon."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Lamaty'i trusts you without question. How nice it would be to have such a friend."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That meat was sooo good... I have to get everyone at home to try it!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Of course. Take your time—we shall await you back at the Nexus Arcade."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Have things you need to tend to? Alright, we'll look for you back at that arcade after you're done."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Welcome back. If you are ready, then let us resume the tour."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All sorted? Then let's get moving."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is Mosaic, a café. Here you can buy drinks to enjoy while you relax."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see. In Tuliyollal, there's a similar establishment called Xbalyav Ty'e—that's “seashell” in the local tongue. Is there a story behind the name Mosaic?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There is. In our continent, the races are named for stones. There's the Hyune, who resemble some Tonawawta; the tall and graceful Eldite; and the diminutive and affable Milalla."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "When they all gather here, they appear as a mosaic of colors. Thus did the founder choose to name the café."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, that's nice. If they served tacos here, it'd be perfect!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Tacos...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A traditional Turali dish, and one of my favorite foods. You must try it one day!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh...uh, yes. Definitely!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll make it happen once we've restored peace to Tuliyollal. Right, let's continue on!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Have you eaten these...tacos before? For Lamaty'i to recommend them so highly, they must be delicious indeed."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's go for some tacos at Xbalyav Ty'e, the three of us!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And here we are. These buildings are where our citizens live."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They're massive! Each one is bigger than the palace!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "They have to be, for just about all Alexandrians have apartments here."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Lest you wonder, I'm here to visit some people. Their apartment is in the building on the left here at residential radius 9-14."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Residential...radius?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That's right. Come, the door opens automatically."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I do hope you like the district. The people worked hard to build it, paying attention to every little detail."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You really get the sense that Sphene loves her nation, don't you?"
+    },
+    {
+      "character": "Clerk P7-1091",
+      "text_en": "Current location: residential radius 9-14, section 02. Visitors must be equipped with a regulator or present a valid visitor permit."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is the lobby, a common area for residents."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see... And what does that machine there do?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, the concierge. They look after the residents. If you require assistance or have questions, they would be glad to assist."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is that so? I've no shortage of questions, but I'll direct them at you for now."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "By all means. You may consider me your personal concierge!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, Sphene. Can anyone live in this place?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Naturally! In fact, many of your countrymen make their homes here."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No matter your origin or race, occupation or regulator usage, all Alexandrian citizens are eligible for an apartment. This includes those you met who work in the outskirts."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You've taken care of everyone for thirty years. I'm truly grateful."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is the place. A mother and son live here."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Hello, Isadora!"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "Your Majesty! You came!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I have friends with me today. Is that all right?"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "Of course! Friends of the queen are friends of ours. Please, make yourselves at home."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "How has Milos been?"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "There's been no change, but the symptoms are thankfully mild today."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Hello, Milos. Have you missed me?"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "My son was born with levin sickness—a severe aetheric imbalance towards lightning."
+    },
+    {
+      "character": "Isadora",
+      "text_en": "As a result, he suffers from paralysis. He cannot walk and struggles to speak."
+    },
+    {
+      "character": "Isadora",
+      "text_en": "For a blessing, he still has his hearing, and even on bad days he can communicate with his eyes."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see... Sphene visits often, does she?"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "She does. Milos simply adores her. He sometimes even manages a smile when she's here."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What of yourself, Isadora? How are you holding up?"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "You needn't worry about me, Your Majesty. You always make time for us, and we have everything we need."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm glad to hear that. But you mustn't strain yourself, understood?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There is nothing you can do for him? Perhaps a treatment with souls or..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Unfortunately no. While souls can revive those who have met with an accident, they cannot reverse the effects of old age and illness."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Truth be told, many children are born like Milos. The illness has existed for generations, but we've been unable to find a cure."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The cause is quite clear, though—the excess lightning in the environment. It's no coincidence the number of cases has risen dramatically these past thirty years."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's all my fault..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What was that?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm sorry, Isadora, but I must be going. I promise to make it a proper visit next time, with treats to share."
+    },
+    {
+      "character": "Isadora",
+      "text_en": "There's no need to apologize, Your Majesty. If it weren't for you, Milos and I wouldn't still be here."
+    },
+    {
+      "character": "Milos",
+      "text_en": "Thank you...Queen Sphene..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's my pleasure, Milos. I'll be back soon, so be a good boy. For your mother and for me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To think that there was such an illness..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My thanks for accompanying me on the visit."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The illness is a part of life in Alexandria, and I thought that you should know about it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We'll find a cure one day, mark my words. We'll make it so unfortunate children like Milos smile again."
+    }
+  ]
+}

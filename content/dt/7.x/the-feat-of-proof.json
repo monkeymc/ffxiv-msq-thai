@@ -1,0 +1,464 @@
+{
+  "id": "the-feat-of-proof",
+  "wiki_path": "/wiki/The_Feat_of_Proof",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Feat of Proof",
+  "level": "93",
+  "location": "Urqopacha(X:28.8,Y:33.6)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If we want to pass this feat, it looks like we've got more climbing ahead of us!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've encountered many extraordinary creatures in Eorzea and elsewhere, but long has it been since I've felt such an overwhelming presence─like a thousand dagger points pricking my skin."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I sensed the recent expulsion of a great deal of aether from Valigarmanda's prison. The ice will hold for but a few years more, I fear."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Tural vidraal sound an awful lot like the auspices of the Far East. Are they the same thing under a different name, do you think?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As we've just been informed, the Feat of Proof requires us to seek the High Luminary Gurfurlur somewhere upon these mountains."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "However, if earlier feats are any indication, we must assume the challenge precludes the Yok Huy from answering our questions in a straightforward manner."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thus I would ask that you pay close attention while attempting to divine Gurfurlur's whereabouts."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though the giants may not give us a precise location, there may be clues hidden within their words. Such is my theory, anyway. Let us see what we can discover."
+    },
+    {
+      "character": "Yorgerwor",
+      "text_en": "The High Luminary? No, I've not seen him today."
+    },
+    {
+      "character": "Yorgerwor",
+      "text_en": "Now let me ask you a question. That Xbr'aal who came out of the temple earlier... Was that really the Third Promise?"
+    },
+    {
+      "character": "Yorgerwor",
+      "text_en": "She seems rather unimposing. How is she meant to succeed the mighty Gulool Ja Ja?"
+    },
+    {
+      "character": "Zurferlar",
+      "text_en": "Asking after the High Luminary as well, are you? I know not where to find him, but I do hope you have the opportunity to speak together."
+    },
+    {
+      "character": "Zurferlar",
+      "text_en": "He is a great man, with a deep reverence for our traditions. These glyphs we carve, for one─he affords them as much value as any treasure we possess."
+    },
+    {
+      "character": "Zurferlar",
+      "text_en": "They are records of lives lived. Your arrival, too, I will etch into the stone, that the story of our meeting may endure for untold turnings of the sun."
+    },
+    {
+      "character": "Zurferlar",
+      "text_en": "If you are curious about our ways, then I bid you visit Proof, to the northwest of here. It is one of our gravesites."
+    },
+    {
+      "character": "Zerborlor",
+      "text_en": "A Tuliyollan? ...No, you are from farther away than that, I think."
+    },
+    {
+      "character": "Zerborlor",
+      "text_en": "As for the High Luminary, I can only guess where he might be. He is warder of the Skyruin, but also keeper of the sepulchres, and his duties often take him outside the village."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Yok Huy are bigger than I imagined. Side by side, they'd make even a Hanu look small."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This wall is covered in Yok Huy writing. I wonder what it says..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "From what I've seen of them so far, the Yok Huy seem a gentle and reserved people."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They grow corn here, too. It's a common crop wherever you go─including up north in Xak Tural."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "When you've finished asking around, we can meet back where we started."
+    },
+    {
+      "character": "Yorgerwor",
+      "text_en": "Zoraal Ja was far more impressive. He exudes the same sense of indomitable strength as his father."
+    },
+    {
+      "character": "Zerborlor",
+      "text_en": "As we receive few visitors, it is not often that I speak Turali. I am glad for the chance to keep in practice."
+    },
+    {
+      "character": "Zurferlar",
+      "text_en": "Go to Proof. The stones will help you understand my people."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "First things first. Was anyone able to coax forth a definite location for the High Luminary?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As expected. What, then, of clues or other hints that might point us in the right direction?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I heard that in addition to his usual duties, Gurfurlur is also charged with keeping the graves."
+    },
+    {
+      "character": "Krile",
+      "text_en": "As did I. The Yok Huy's sepulchres appear to hold a special significance in their culture."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hm. But would it be appropriate for us outsiders to enter into their burial grounds...?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "“Proof,” you say. And he encouraged you to visit this place yourself?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then let's go and take a look. Even if we don't find Gurfurlur there, it will give us the chance to learn more about the Yok Huy!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The gravesite is somewhere northwest of here? Well, we can leave from that side of the village for a start. Shall we?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The others have gone on ahead to Proof, following the trail west. There are sharp drops everywhere, so we're all moving at our own pace. Some of us are not built for craggy terrain..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I thought to get my bearings from up here first so I don't stumble off a cliff. Why don't you try catching up to Erenville? He should be able to point you in the right direction."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that Proof, way over there...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's not quite mountain climbing, but these steep slopes are exhausting enough..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "These have the look of homes rather than graves, but 'twould seem long years have passed since anyone living resided here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Take a look at this crater. There is no wood, no trees, not even dried grass, and yet the ground still burns."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This must be one of the scars left by Valigarmanda's rampage, as told by the saga."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Skyruin's fires are described as eternal─flames that can be quenched by neither storm nor time. And here I thought it a literary embellishment."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ah, but now I've lost sight of Wuk Lamat. Proof is northwest along the main road, so hopefully she's still heading the right way..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "“A world you cannot experience alone.” Is that what her journey with the Dawnservant showed her? Something that I, too, might find...?"
+    },
+    {
+      "character": "Patient Gravekeeper",
+      "text_en": "Ah, you've come."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh heh, Wuk Lamat wins again!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Looks like everyone is here now, so..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Greetings, friend! Are you Gurfurlur?"
+    },
+    {
+      "character": "Patient Gravekeeper",
+      "text_en": "No, I am not. The High Luminary did, however, task me with providing a lesson on sepulchres to those who came in search of him."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, so we were meant to find our way here after all. Are you to tell us who is buried here?"
+    },
+    {
+      "character": "Patient Gravekeeper",
+      "text_en": "No one is “buried” here in the sense you mean. When a body has served its purpose, we consign it to the flames, then scatter its ashes across the peaks."
+    },
+    {
+      "character": "Patient Gravekeeper",
+      "text_en": "Moreover, we do not conceive of death as others do. For us, a person does not die when their heart ceases to beat, but only when they are no longer borne in the hearts of all who know them."
+    },
+    {
+      "character": "Patient Gravekeeper",
+      "text_en": "This is why we build our sepulchres before age or mishap claims us─that we might etch ourselves into the living chronicle for all eternity."
+    },
+    {
+      "character": "Patient Gravekeeper",
+      "text_en": "This grave belongs to a good friend. His mortal vessel ended its journey some years ago, but he lives within me, even now."
+    },
+    {
+      "character": "Patient Gravekeeper",
+      "text_en": "Up there stands my own sepulchre."
+    },
+    {
+      "character": "Patient Gravekeeper",
+      "text_en": "As long as it exists, so too will I. I will endure in the hearts of those who read my grave glyphs, in the same manner my friend does in mine."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Has it always been thus for your people? This conception of existence and death?"
+    },
+    {
+      "character": "Patient Gravekeeper",
+      "text_en": "Continue along this path to the Indelible Passage. Behold the history upon its walls, and you may find the answers to your questions."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then that's what we'll do. Your traditions are fascinating, and I'd love to know more!"
+    },
+    {
+      "character": "Patient Gravekeeper",
+      "text_en": "I thank you for allowing me to share them, for in doing so will I remain in your hearts also."
+    },
+    {
+      "character": "Patient Gravekeeper",
+      "text_en": "Go now to the Indelible Passage. In its murals is the history of my people laid bare."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "I've been waiting for you."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I get the feeling they were expecting us..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "To not only be remembered, but to live on inside the hearts of others..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If it's possible, then Grandfather surely lives on inside mine. 'Tis a comforting thought."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've never spoken with a Yok Huy before, and had no idea they held such a philosophy on life and death."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Look at these splendid murals! They appear to depict four different scenes..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hello! A fellow we met at Proof suggested that we come here..."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "Yes, the High Luminary commanded that I watch for your arrival. As the chroniclers of our people, it has ever been my family's duty to pass on the teachings of the murals from generation to generation."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "They really are magnificent. And together they tell the tale of your people's history?"
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "They are the events which shaped us. I would share them with you ere you continue on your way."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Please! We would love to hear all about it."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "Then I will begin."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "This first mural depicts a time more than eleven hundred years ago. An age of great prosperity for the Yok Huy..."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "Blessed with size and strength unmatched by other peoples, our ancestors marched forth and brought much of Yok Tural under their dominion."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "Then, when all before them had been conquered, they turned their gaze northwards, seeking to expand their territory and power."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "Here we see the expedition to Xak Tural. Unable to cross the strait by ship, our forefathers set to building a bridge to the northern lands─a grand labor which consumed the greater part of a century."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zorgor the Boundless. We still make use of that bridge in Tuliyollal for travel. I can't imagine the patience and dedication it took to complete a work of that scale."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But I've never heard of any Yok Huy living in Xak Tural. What happened to the ones who went north?"
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "Look upon this next mural and behold the answer."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The scene suggests that many giants perished all at once. What manner of enemy could have repelled their invasion?"
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "A foe unnamed and unseen. When the expedition pushed forth into Xak Tural those thousand years ago, its soldiers were felled by disease."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Some terrible illness?"
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "No. No virulent plague or newly arisen blight. For the local Tonawawta and Shetona, it was but a mild affliction of the sort that comes with the turning of the seasons."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "What manifested for them as slight fevers and coughs, however, proved deadly to our people."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "Out of every ten Yok Huy who joined that northern campaign, nine succumbed to the infection. Those who survived continued to suffer, finding it difficult to sire offspring."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've heard of this before. Lacking an inherited resistance, visitors to distant lands can fall deathly ill to diseases a local might shrug off."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "These events might also have given rise to the practice of cremation, rather than the burial, of mortal remains."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "This final mural depicts the return of our grieving brethren to Urqopacha."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "The reason they first left─why they had fought so long and pushed so far─was to ensure peace for our homeland."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "This undertaking began in ancient times. When our forebears learned they shared the continent with peoples unalike to us in appearance or custom, they feared invasion was inevitable."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "Rather than meekly await their fate, they decided to strike the first blow. Yet as they fought on and on, the old idea of peace drifted further and further away."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "Only after the disaster in Xak Tural and their withdrawal to the mountains did they come to understand..."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "The peace we envisioned had been ours for the taking all along. It was here, in the place which birthed us; here, in the stones upon which we recorded our days; here, in this tranquil life we had traded for conquest and conflict."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When you do nothing but fight, it can blind you to what's right before your eyes..."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "And so we return to the present. I trust you found this brief history of our people enlightening?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm always glad to learn more about my fellow Turali─how you've lived until now, and how you wish to live from now on!"
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "Then I believe you are ready to proceed. The High Luminary bids you meet him upon the summit of Worqor Zormor."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I had a feeling we'd end up scaling that big old mountain... Well, it's a feat worthy of the name!"
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "Follow the trail south of here to begin your ascent, but be wary: beyond the entryway, the mountainside is home to ferocious beasts both mundane and otherwise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll keep that in mind! Thank you for the warning─and the lesson!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Finally, we know where we're going─to the top of Worqor Zormor!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If I'd known we'd be climbing Worqor Zormor, I might not have raced up and down all those trails. My feet are killing me."
+    },
+    {
+      "character": "Stoic Chronicler",
+      "text_en": "Your genuine interest in our history is...refreshing."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "<pant> This thin mountain air...is going to be the death of me..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Wha─ How long have you been standing there!? I was just taking in the scenery, is all!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Come on─we don't want to fall too far behind Alphinaud and the others!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The true size of a mountain is never more apparent than when you're standing right at its foot..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I fear I won't be of much use to you as a guide past this point. Even in Tuliyollal, there is precious little written about the sacred peak of Worqor Zormor. Beyond whimsical poetry, that is."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I cast a rejuvenating spell on Wuk Lamat. Even our indomitable Third Promise is feeling the strain of these slopes."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I hope we come across Bakool Ja Ja on our way to the summit─we still owe him for the troubles he caused us in Kozama'uka."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You remember how the chronicler was saying that the more they fought, the further away they moved from their idea of peace?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It occurs to me that if Zoraal Ja is attempting the Feat of Proof, then he will have heard that same lesson."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can only hope that it's made him reconsider his own stance on “educating” people through war."
+    }
+  ]
+}

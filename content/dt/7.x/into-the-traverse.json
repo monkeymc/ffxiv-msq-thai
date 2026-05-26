@@ -1,0 +1,244 @@
+{
+  "id": "into-the-traverse",
+  "wiki_path": "/wiki/Into_the_Traverse",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Into the Traverse",
+  "level": "94",
+  "location": "Yak T'el(X:10.8,Y:12.9)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "For as weathered as our Promise looks, she's positively glowing with confidence. What in the world happened?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The twins ran me from one end of the Ut'ohmu Horizon to the other, asking about everything of remote interest along the way..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Erenville's tour was both educational and exciting! I hope we can persuade him to conduct another in the lower forests."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Did something happen while we were away? There's a certain satisfied air about you..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So what's the state of the Ty'iinbek Traverse?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Still being cleared, I'd assume. Hunmu Rruk said he would notify us as soon as work was done."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then perhaps now would be a good time to consider how we might reclaim Wuk Lamat's stolen keystone. The next feat will be our last, after all."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, I already got it back."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What!? When?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Not to mention how! This is Bakool Ja Ja we're talking about!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...So I taught him a lesson and took my keystone back."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You bested Bakool Ja Ja in single combat? Bravo!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hehe, what can I say? I've had good friends to encourage and cheer me on."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "There you are. Our excavators have contacted me with news of their success. The Ty'iinbek Traverse is now safe for travel."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Then we finally can make for Mamook."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Come to think of it, isn't it Bakool Ja Ja's home? We can only hope its residents don't share his winning personality."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If it is indeed the city where Ketenramm first met the Dawnservant, surely some civility awaits us."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I would not be so certain."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "It is true that the Dawnservant received Ketenramm in Mamook and was instrumental in the establishment of friendly relations between the Xbr'aal and Mamool Ja."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "But since that time, most of the Mamool Ja who supported his peace have left their city in favor of abiding in the capital."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "What remains is a cloister of Mamook. And while these traditionalists do not take up arms against us, neither do they bear great love for outsiders."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whatever they're like, the people of Mamook are also of Tuliyollal. If I'm to be Dawnservant, it's my job to know them first of all."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, we'll be on our way, then. I'm glad I could learn about where I came from. And eat so much xibruq pibil besides!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you for everything, Hunmu Rruk. Till next time, take care!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "First we make our way across the Xobr'it Cinderfield, due southeast."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "How you have grown indeed..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "The Third Promise has grown into a remarkable young woman. I have no doubts that her journey will continue to lead her true."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I filled my bag with xibruq pibil before we left, but I'm down to my last serving already..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I wonder if the First and Second Promises have already arrived in Mamook."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If Bakool Ja Ja ran in this direction after losing to Wuk Lamat, then he undoubtedly was returning to Mamook."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "After seeing that battlefield, I find it miraculous that the Dawnservant was able to negotiate a peace."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Traverse will bring us straight into the Ja Tiika Heartland."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Remember how you insisted this forest is green?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This path is quite steep, isn't it? Let us take our time and descend safely."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'll take a moment's rest, I think..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I spoke with one of the excavators on my way down. Apparently, Bakool Ja Ja cleared away the one fallen tree remaining by barreling through it."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That Wuk Lamat single-handedly defeated someone possessed of such physical might is nothing short of remarkable."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Still, we ought to proceed with caution. There's no telling what his wounded pride might compel him to attempt."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We will doubtless face Bakool Ja Ja again. I cannot say I relish the thought of the reunion."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Erenville said this Traverse was dug to facilitate incursions into the forests above. Intentions notwithstanding, you have to admire the dedication."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just look at this thing! What a vibrant glow!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Alluring, isn't it?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "In more ways than one. Take my pairing stone and hold it close to the glowing rock."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Go on. Use my pairing stone and see what happens."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Pairing stones are natural magnets─and that's a meteorite filled with iron. One of many remnants of an ancient meteor shower."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The heterogeneous aether they emit causes surrounding flora to glow unique hues, as you can see."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So these glowing boulders came plummeting down from the heavens? Vidraal be merciful..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There you are!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Blue! It's all blue!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A far cry from the upper forests, indeed."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This place is already so fascinating... I'm eager to hear what the people of Mamook can tell us about it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Keep running! We're almost there!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Now to see whether or not Hunmu Rruk's fears were well founded..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Rather more quiet than I expected..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I wonder what the final feat will be."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And here we finally are... Now to find the elector!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As this is also my first time visiting Mamook, I have no experience interacting with the locals."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But given Hunmu Rruk's parting words, I would advise...a cautionary approach."
+    }
+  ]
+}

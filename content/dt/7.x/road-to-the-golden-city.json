@@ -1,0 +1,848 @@
+{
+  "id": "road-to-the-golden-city",
+  "wiki_path": "/wiki/Road_to_the_Golden_City",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/12/Road_to_the_Golden_City.png",
+  "patch": "7.0",
+  "title_en": "Road to the Golden City",
+  "level": "95",
+  "location": "Yak T'el(X:31.5,Y:32.6)",
+  "npc_start": "Ketenramm",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "It's never too late to let go of prejudice. No matter how difficult it may seem, it can be done."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This is my first time meeting Ketenramm. A Roegadyn if I ever saw one."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Tankwa does look similar to some Eorzean sailors I've seen, but I never would have guessed he was Ketenramm !"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We ought to speak with Ketenramm before we do anything else."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Of all the things I expected to discover in Tural, Eorzea's most legendary sailor was not among them..."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "This ain't no place for a proper chat."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Me cabin's just north of the city. “Blue-eyes' Abode,” as people here call it on account of me dazzlin' twinklers."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The man values his privacy..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A rather humble residence for a legendary explorer. I would've expected a manor decorated with exotic treasures."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I've heard that upon Ketenramm's disappearance, explorers from across Eorzea banded together in search of him. But I doubt they ever thought to look here..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I wonder how long it's been since he settled down here..."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Naught but four walls and a roof, but enough for most folk. Make yerselves comfortable."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Why did you choose to settle down in Mamook? They haven't exactly been welcoming to outsiders─legendary explorer or otherwise."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "All the more reason to keep a weather eye on 'em. Though seein' how ye've won them over, methinks I'll have less need for vigilance."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "I'm here at Gulool Ja Ja's behest to ensure his hard-won peace is kept. And, incidentally, to remind Zereel Ja of his duty as elector should he have forgotten it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "My old man ordered you to stay here? That's no way to treat an honored guest..."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Heh. I'd say I'm more than yer father's “guest” by now. Or didn't ye see the sepulchre atop Worqor Zormor?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's right...“Ketenramm” was one of the names!"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Yer father and I fought shoulder to shoulder in many a battle, Valigarmanda bein' but one of our triumphs. He and I are brothers."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "So when yer brother tells you to stand watch, ye stand watch. Ye trust in his judgment an' his strength of will─even if that means ye have to sit out the occasional scrap."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Surely you understand such a bond? Surrounded as ye are by all these bright an' eager faces."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I do. My comrades are my strength─and it's thanks to them that I understand Papa's hopes for this nation. What I must continue to protect."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Then prove yer readiness for the throne, Wuk Lamat. Find the golden city!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, I will. With these ones beside me, even uncovering a legend should be child's play!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Especially since I believe I already have."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All by yourself!? How!? When!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, as you know, electors are forbidden from giving unfair advantage to claimants."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So when Hunmu Rruk refused to divulge why my grandfather passed through Iq Br'aax twenty years ago, his silence spoke volumes."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You think Galuf's visit had something to do with the golden city?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Precisely. Moreover, only the Yok Huy who lived in Yak T'el ever dreamt those golden dreams."
+    },
+    {
+      "character": "Krile",
+      "text_en": "When exposed to certain triggers, those with magical aptitude have been known to receive visions."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And if Gurfurlur's abilities are at all representative, the Yok Huy are no stranger to the arcane..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Which means the dreamers of eld likely owe their experiences to their inherent qualities and their proximity to the city itself. Here, in these forests."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then all we need to do is search Yak T'el from top to bottom, right?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It would behoove us to try and narrow our focus. To that end, I propose we return to Mamook and make inquiries."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While there, we can all take the opportunity to see to any necessary travel preparations. When everyone is ready, let us assemble at the aetheryte."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "...You're Cahciua's boy, ain't ye?"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "She told me about you. Said she tasked ye with findin' the golden city."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Aye. I might even succeed, despite my best efforts."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I had begun to think it was a fool's errand. My own fruitless search in my youth proved as much."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Yet here you are, older and wiser, playin' the fool again."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Courtesy of the company I've been keeping, perhaps. Wuk Lamat's not the only one to have grown thanks to her comrades."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We'll find it. Together."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Heh. Was I ever that young...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You waited for me? It seems Ketenramm knows my mentor, so we chatted for a bit longer."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Alphinaud said to meet by the aetheryte, so I'll see you there."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "So you're the Forename Surname I've heard so much about. Seems every time I visit the capital, I hear another tale of yer derrin'-do from traders and dockhands."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Wuk Lamat chose her team well, indeed."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The merchants were more than happy to mend my gear and sell me supplies."
+    },
+    {
+      "character": "Krile",
+      "text_en": "One would hardly believe that they were ever averse to aiding visitors."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hehe! You won't believe how many najool they gave me!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now all we need is a hint to point us in the right direction. City of gold, here we come!"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "I think I can offer that much."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "I have an inkling of where the golden city might be."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Miilal Ja! A-And Zereel Ja!? You've come to help us?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "As an elector, I am forbidden from speaking of the golden city. ...But my wife is beholden to no such constraints."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then anything you can tell us would be greatly appreciated."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Our people have lived here for centuries. There is no corner of this forest we do not intimately know─save for one."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Do you recall the place I showed you, where my son confessed the truth of blessed siblings?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "That stone pier stands at the entrance of the Skydeep Cenote. The final resting place for children we lost to our zealotry."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Precious few are permitted beyond the cenotaph doors, and we have not explored its deepest recesses. If the golden city is in Yak T'el, it may well be hidden there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Will you permit us to search for it?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "...I have no reason to refuse you."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "No longer will we rely on blessed siblings, nor will we conceal the sacrifices made to conceive them."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "The cenote is no longer under our protection. It is a dismal burial ground...and our children deserve better. Their bodies will be moved to a place of comfort and peace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sure Bakool Ja Ja would appreciate that. And we're here to offer any help, if you need it."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Your father also visited the cenote, come to think of it."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "It was many years ago by now, but a notable affair due to the foreigner he brought with him. A mage, I believe."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Truly!?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "The Dawnservant did not disclose his reasons, but he descended past our cenotaph and into the old Yok Huy quarries."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Doubtless the very same ones excavated by Vorporlor's dreamers."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then the golden city must be there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In the depths of the Skydeep Cenote!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, both of you. We'll set out straightaway!"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "You will find a winged beast or two lingering in Gok Draak Descent. They will carry you below."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "I believe in you, Third Promise. You will make a magnificent Dawnservant."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is it, everyone. To the Skydeep Cenote!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the cenotaph. Which means that beyond these doors is..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Rite of succession or no, disturbing the souls that rest here feels wrong."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know...but I can't turn back. Let's pay our respects, at the very least."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's go."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm ready to complete my journey."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I confess, I anticipated my duty as a guide with no little weariness."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I knew our journey might change the course of my nation, but...I did not think it would change the course of my own life."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Cenotaphs are notorious for attracting malefic creatures. We must exercise all due caution."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Part of me is sad to see our journey end...but I have to see what's waiting for us in there!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wuk Evu, Mablu...so many people have helped us reach this moment. Let us honor their generosity and find the golden city at last!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I don't know what's down there, but I'm eager to see it with my own eyes."
+    },
+    {
+      "character": "Speaking Stone",
+      "text_en": "Rats... There are rats!"
+    },
+    {
+      "character": "Speaking Stone",
+      "text_en": "Workers, arise! Eliminate the rats!"
+    },
+    {
+      "character": "Speaking Stone",
+      "text_en": "Smash them! Smear them into pulp!"
+    },
+    {
+      "character": "Speaking Stone",
+      "text_en": "Silence... Our workers have fallen... Activate Firearms!"
+    },
+    {
+      "character": "Speaking Stone",
+      "text_en": "Core engaged... Firearms is risen!"
+    },
+    {
+      "character": "Firearms",
+      "text_en": "Hahaha, such power! Destroy, destroy, destroy!"
+    },
+    {
+      "character": "Firearms",
+      "text_en": "By enchanted sledge, intruders begone! Begone, begone, begone!"
+    },
+    {
+      "character": "Firearms",
+      "text_en": "Burn upon the mettlegrounds! Burn, burn, burn!"
+    },
+    {
+      "character": "Firearms",
+      "text_en": "Crumble beneath my full might! Die, die, die!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Then that must be..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That light..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We must be very deep underground by now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've never seen a place like this before."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Strikingly different from the rest of the cenote..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's go, everyone."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Stay on your guard. There's no telling what we might encounter."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's remarkably cold down here..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Those tree roots are enormous."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We really are beneath the forest..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look at all those roots..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So many urns..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Beneath the water..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We won't forget these children. Not ever."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To think of how much pain each vessel represents..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Looks like a species of ray..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whatever it is, we have to fight it."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Doesn't seem keen on letting us through."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A ray? In a place like this?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Does anyone else feel...itchy?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I fear we've been cursed..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whoa!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So the attacks are coordinated..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, that's irritating."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I mustn't let everyone down..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "These bubbles...!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Prioritize evasive measure!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Argh! Enough already!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Everyone, keep your focus!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Coming through!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Didn't stand a chance!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Everyone all right? Then let us proceed."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "that wasn't too bad."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We must have reached the Yok Huy quarries."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then we're on the right track."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This must be the quarry. We're on our way."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So these are the Yok Huy quarries..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Look at all of these statues..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Everyone stay alert. Something's amiss..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "These sculptures couldn't be..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Do you get the feeling we're being watched?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I knew it. It's a trap!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Good thing we're ready for them."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If only they'd stayed sleeping..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "An impressive trap, I must say."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That little one just hopped right in!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It can dream as big as it likes—we're still toppling it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whoops!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I see—the attacks reflect!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ha! Nice try!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Peculiar technology, to be sure..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Pardon me!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Again!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We have more to be wary of now..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Once we determine a pattern, we can avoid its attacks."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All right! We did it!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's keep moving."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Now this is peculiar..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That stone is glowing with...aether?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That glowing stone...is it infused with aether?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is that?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That golden light..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I-It's huge!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Time to test our mettle, then."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A guardian this mighty must protect something precious."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You've got to be joking."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Th-The sheer force it's mustering!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Stay alert! Keep moving!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Watch out, everyone!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That was a close one!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is everyone all right!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Get caught in that, and you're done for..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What immeasurable strength!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Dodge its attacks, then resume the offensive!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I thought this place was of Yok Huy origin...but is this glowing stone their creation as well?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I don't believe so. I've never seen anything like it."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then it's from an even older time?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Don't tell me it's the Allagans again..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While careful study would be required to confirm, it does not appear to be reminiscent of their designs."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A golden light... Could it be...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's a platform on the other side. But how do we get over there...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That's how, apparently."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then. Let's go and take a look."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That seal... That's Sharlayan and no mistake!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How do we open it?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Come and look at this."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Your tablets might be a good fit, wouldn't you say?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Leave it to Alphinaud!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is this it? The golden city?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Though there is some resemblance, it doesn't quite live up to what the Yok Huy described from their dreams..."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Aaahahaha! Well done. Well done, indeed!"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "You, my dear daughter, have found the entrance to the city of gold and triumphed in the rite of succession."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So we did it..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We made it to the end!"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "You seem more perplexed than joyous."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's just...this place is unlike anything we've seen in Tural, never mind the peculiar stone."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So I am given to wonder...what exactly lies beyond that gate?"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Nothing less than the golden city of legend, I assure you─though circumstance prevents us from opening the gate."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "As to what the city is and what Galuf Baldesion discovered all those years ago..."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "This knowledge and more I will share with you after your ascension. What you choose to do with it will be up to you."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The golden city is real..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It took a while, but I finally found it..."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Come, let us return to Tuliyollal!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Home at last!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It feels as though we have more questions than we set out with. But for now, returning in one piece is cause enough for celebration."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That was wholly unlike what I imagined in my youth... Since when did a place like that exist in Yok Tural?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I understand now why the Students of Baldesion were petitioned..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But what were my grandfather's findings? Not only regarding that stone, but that gate..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, we've done it. We've seen Wuk Lamat to victory in the rite of succession."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Like me, I expect you have no few questions about the golden city, but they must wait until our claimant has settled into her new role."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Even as we speak, she prepares for the ascension ceremony back at the palace. I'm given to understand it will be held in a few days time."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In the meantime, let us all enjoy some well-deserved rest."
+    }
+  ]
+}

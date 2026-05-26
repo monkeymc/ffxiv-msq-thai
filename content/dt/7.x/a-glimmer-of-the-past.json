@@ -1,0 +1,364 @@
+{
+  "id": "a-glimmer-of-the-past",
+  "wiki_path": "/wiki/A_Glimmer_of_the_Past",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/6/6e/A_Glimmer_of_the_Past.png",
+  "patch": "7.2",
+  "title_en": "A Glimmer of the Past",
+  "level": "100",
+  "location": "The Backroom(X:6.0,Y:6.4)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Gulool Ja",
+      "text_en": "Shale said she left this machine running to process more of the data from the field station. Is it done yet?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ah, Forename , your timing could not have been better. If you have a moment, we have some things we'd like to share."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Excellent. We'll just wait for Lamaty'i─she should arrive shortly."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Forename ! Glad to see you here too."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And speak of the devil. Let's catch each other up, shall we?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right. I'll go first if nobody minds."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've been back in Tuliyollal and spoke with Koana. I told him all about the records left behind by Gulool Ja's mother, as well as Sphene's reappearance."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We decided that I should remain in the dome until things settled down more."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But while I'm Gulool Ja's guardian, I'm also a foreign ruler. I'll have to take care not to appear as though I'm meddling in Alexandrian politics. That's all from me."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As for the rest of us, we've been keeping track of this new Sphene. She has been making regular appearances before the people."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And each time she does, she encourages them to become Endless. Alas, much else about her remains a mystery, including why she's chosen to reveal herself now."
+    },
+    {
+      "character": "Geode",
+      "text_en": "On our end, we've confirmed that only those wearing regulators have had their knowledge of Queen Sphene's death altered."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Someone must have tampered with the devices to remove any and all memories of the event. Though we haven't yet identified the perpetrator, given recent events, Sphene is the chief suspect."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Many believe that the Queen of Reason is alive and well, and remember her funeral as a memorial for those lost in the attack. Needless to say, this has proven confusing for those with more accurate recollections."
+    },
+    {
+      "character": "Geode",
+      "text_en": "We'll carry on with our investigation. I'll head to Earthen Sky now and coordinate with our people there."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There's one other matter. The highlight of this gathering, you might say..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We'd like you to meet a certain someone."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By all means. Where's this person now?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "In the break room. She is unwell, and Y'shtola and Alisaie have been tending to her. They'll be able to explain things."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I want to see how she's doing, so I'll come too."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The break room is at the end of the hallway through that door. We can go whenever you're ready."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Much as I'd love to join you in the break room, I'd rather not overwhelm our guest with too many new faces. Better to keep investigating the activities of our new Sphene."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Alphinaud and Erenville have taken it upon themselves to attend to the people of Alexandria. Full many are still struggling to deal with recent events, and they hope to make a difference by lending them a sympathetic ear."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is she doing here?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We just heard she was busy spreading talk of becoming Endless among the Alexandrians. What's going on here?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "She...is not who you think she is."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Not the Queen of Reason who has made a miraculous return, but an individual of flesh and blood, possessed of a soul."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We chanced upon her in Living Memory, but she collapsed before we could exchange words. We decided to bring her here for now."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Her body was suffused with lightning aether, which caused a debilitating paralysis."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Y'shtola reached out and informed me of her condition, and I came with a porxie as fast as I could. We're now waiting to see if the treatment was effective."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Judging by her appearance, the circumstances of our encounter, and her extreme aetherial aspect..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...I am all but certain that she is the one from whom the Endless Sphene was created─the original Queen Sphene of Alexandria."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What!? But how can that be possible?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The real Sphene died of illness four centuries ago!"
+    },
+    {
+      "character": "Familiar-looking Woman",
+      "text_en": "I...I died...?"
+    },
+    {
+      "character": "Familiar-looking Woman",
+      "text_en": "Whatever...do you mean?"
+    },
+    {
+      "character": "Familiar-looking Woman",
+      "text_en": "I...I am not dead! I'm not!"
+    },
+    {
+      "character": "Familiar-looking Woman",
+      "text_en": "What...what is this place?"
+    },
+    {
+      "character": "Familiar-looking Woman",
+      "text_en": "Where is everyone? Otis...and Zelenia..."
+    },
+    {
+      "character": "Familiar-looking Woman",
+      "text_en": "And who are you people!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Calm down─we mean you no harm. You've been unwell, and it wouldn't do to strain yourself."
+    },
+    {
+      "character": "Familiar-looking Woman",
+      "text_en": "Please...help me. I don't understand...any of this..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Of course. But if I might confirm some things first... You are Queen Sphene of Alexandria, are you not?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes... Yes, I am."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And ere you awoke here, you were in another unfamiliar place. Is that correct?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I opened my eyes...and saw a strange, dark room. Outside, there were towering buildings...clad in electrope..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You slumbered at the heart of that city for many years, within a facility called the Meso Terminal."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Many things have come to pass during that time...some of which you may find upsetting. Are you sure you wish to learn of them?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "In that dark room, there was an electrope casket designed to preserve its occupant in cold stasis."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Until the terminal and its systems were recently shut down, that was where you were kept, in all likelihood."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Since the time of the old kingdom, for four centuries..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What...? Do you...speak true?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I've been asleep for that long...? Four hundred years?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Our records say that Queen Sphene succumbed to the rampant lightning energies unleashed during the Storm Surge. But it seems the truth is rather different."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The original Queen Sphene... We'll tell her what she wants to know. Then we'll decide what we need to do."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What would Otis do if he were here? What can I do?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "To wake up alone in the distant future, and seemingly by no choice of your own... You can hardly blame her for reacting as she did."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The treatment may have been effective, but the road ahead for her remains uncertain."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We turned up her chamber when we searched the Meso Terminal. Safe to say none of us had anticipated this development."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I...I do not believe that you are lying. So please...tell me everything that has happened. Everything..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Very well."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But let us do so with care, lest we cause you undue strain."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Now, while I should like more of us to assist, it isn't practical to gather everyone, so I will summon G'raha Tia and Krile for now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know this has all been a lot to take in, but how are you feeling? Physically, I mean."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Much better now, thanks to Y'shtola and Alisaie's ministrations. In fact, I can scarcely remember the last time I felt so hale."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I know not how to repay them... Not only for coming to my aid, but for telling me about my kingdom besides..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't think they're ones to keep score. Isn't that right?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He's / She's known those two for a long time. You can trust in his / her judgment."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Besides, you helped to prove that their treatment works here as well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With this success, they'll be able to help others in Alexandria who suffer from the same illness. Few things could make them happier."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I see... Full glad am I to know that we may cure the affliction after so long."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So very long..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I steeled myself, having been warned, but it's...difficult to come to terms with everything..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Sphene..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Maybe going out and seeing it would help. Alexandria, as it is now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Great idea! There's no substitute for seeing things with your own eyes."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That said, there is a chance that you'll run into the other Sphene..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Still want to take a look even so?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It would be a lie to say I do not feel anxious. But...I wish to walk among the people. To hear their voices and learn about their realm."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Truly? I would be honored."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then allow us to show you the sights!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you, Wuk Lamat."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "Seekers of Eternity"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, we'll give Sphene the grand tour!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Sphene asked me not to call her by her title. I understand why, but it feels strange."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you as well, Forename , for your kindness."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The Endless Sphene... You knew her, did you not?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It may take time for both of us to come to terms with this situation─myself especially. But I recognize that I must. I may still be here, but the world I knew is gone..."
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "id": "taking-a-stand",
+  "wiki_path": "/wiki/Taking_a_Stand",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/6/65/Taking_a_Stand.png",
+  "patch": "7.0",
+  "title_en": "Taking a Stand",
+  "level": "94",
+  "location": "Yak T'el(X:9.6,Y:13.4)",
+  "npc_start": "Hunmu Rruk",
+  "dialogues": [
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Recalling the past has rendered me...emotional."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I require a moment to compose myself. But please, do not keep the Third Promise waiting."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I feel better having spoken with you. My thanks."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Finished speaking with Hunmu Rruk, have you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're back! So what did Hunmu Rruk want?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, it's all right, you don't have to say. More importantly, the Ty'iinbek Traverse still isn't clear yet. Something about even more rocks."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then I think I'll take the opportunity to rest. All that cooking and preparing for it has worn me out..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A nap does sound tempting..."
+    },
+    {
+      "character": "???",
+      "text_en": "A moment, Promise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're one of Bakool Ja Ja's... What do you want?"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "I've come to fetch you. You're welcome to refuse, but know that it would be most unwise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And why's that?"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "I'm sure your salted friend has an idea. What do you think?"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "And they say house cats don't come when called! Follow me, Promise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is the meaning of this? And just how far do you plan on taking us?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hunmu Rruk!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bakool Ja Ja, you snake! If you want my keystones so badly, you deal with me and me alone! Leave the elector out of this!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Ghahahahahaha!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Is that all you think he is? Foolish kitty, this man is the reason we are here."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Take a good look at him. Go on, look . Surely you recognize your real father!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Don't believe us? Then ask your trusted sellsword─ she / he heard it straight from the old man's mouth!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is it true? Is Hunmu Rruk my..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Your silence says it all."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Now that you understand the situation, let's see those keystones. I'll even let you fight for them─just you and me."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "If that adventurer attempts to interfere..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'll kill the old man myself!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You despicable, heartless fiend..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Kinsman or no, I won't stand for you taking hostages!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, then! You want a fight? I'll give you a fight!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Oooh, such heroic caterwauling, Promise. I'm shaking."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Guard our hostage well. We wouldn't want to tempt any thoughts of rescue."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "By the by, house cat. They've been instructed to put down Papa dearest when you lose. Hopefully he's settled his affairs."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't worry. I'm not losing to the likes of him."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, what are you waiting for, you blessed bastards!? It's two against one! Don't tell me you're scared!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I know I didn't hear you right..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "You dare call us cowards!?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "You think this weakling could hurt me !?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Foreign scum! Who are you to mock me!?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'll kill you─kill you─kill you all !"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Don't look away, salt! I want you to watch as I tear your beloved Promise to shreds!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, eyes on me. The house cat, remember?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll say it again: I'm not losing to the likes of you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm going to become Dawnservant─and I will protect my people!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Come, you mangy house cat, so I can rip you to pieces!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'll cut you to shreds!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "My magic should be more than enough for Miss Mittens!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'll make you eat dirt!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No more tricks, Bakool Ja Ja! We're settling this here and now!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Still playing the part of the brave warrior."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Miss Mittens...is no longer amusing me, Brother!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This rite has taught me so much..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "About my nation, my people, and myself!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "What, can't keep up?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "How do you like this?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Heeere kitty, kitty, kitty, kitty, kitty!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I finally understand what it means to live in peace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To greet each day in safety and happiness."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Irritating pest!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "It's time we finished her, Brother."
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "This is the end for you, kitten!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Know your place!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's not enough to claim the title of Dawnservant."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I must carry on Papa's legacy─his love for our people!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'll grind you beneath my heel!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "What, can't keep up?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Flea-ridden upstart! Why won't you die!?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Fine! I'll show you the true power of the blessed!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will be the next Dawnservant! And I'll protect my people's happiness to the last!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's why there's no way...I'll ever lose...to the likes...of you!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "What!? But that was everything I had!"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "Argh, I can't stand it anymore! Attack!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "This is our fight! Stay out of it!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "You bring shame upon us!"
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "You think we care about your stupid pride!?"
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "This is for Mamook! We cannot lose!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oho! The great Bakool Ja Ja needs help, I see!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Send your whole army! You still won't win!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will prove that my allies are right to believe in me."
+    },
+    {
+      "character": "Doppro Illusionist",
+      "text_en": "Such confidence... What changed? She wasn't like this before!"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "T-Too strong..."
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "<pant> <pant>"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I reclaim what you stole."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "N-No... How can this be...?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "How could that puny house cat beat all of us...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You've caused nothing but trouble with your dirty tricks."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Threatening the Hanuhanu, releasing Valigarmanda─harassing me is one thing, but you've endangered too many innocents!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No more, Bakool Ja Ja! I will not stand for it! If you even think of tormenting my people again, you will answer to me!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "No... No..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "No... No..."
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "[NOISE OF IRRITATION]"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "And he goes and forgets he had the way blocked..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What? That was his doing?"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "The only part left in the saga is the Lay of the Brotherhood─in Mamook."
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "The plan was to force you here so we could take the rest of your keystones."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So that's what he was up to... But, uh, should you be telling us this?"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "[SIGH]"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "What does it matter? You've beaten us. It's over."
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "We'll release the hostage."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I'm sorry. I was careless."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are you all right?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So what Bakool Ja Ja said... About you and me..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I─ Ah, but to single-handedly defeat Bakool Ja Ja! You truly are the Dawnservant's daughter."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "It has been my honor to bear witness to your journey, Promise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Promise... Yes, that's what I am."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm Gulool Ja Ja's daughter, and Tuliyollal's next Dawnservant!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on. Let's rejoin the others."
+    },
+    {
+      "character": "Krile",
+      "text_en": "For as weathered as our Promise looks, she's positively glowing with confidence. What in the world happened?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The twins ran me from one end of the Ut'ohmu Horizon to the other, asking about everything of remote interest along the way..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Erenville's tour was both educational and exciting! I hope we can persuade him to conduct another in the lower forests."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Did something happen while we were away? There's a certain satisfied air about you..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seems we were last to return. I'm glad everyone made it back safely."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you for having faith in me. Keeping out of the fight even when it got dirty couldn't have been easy for you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But Bakool Ja Ja won't be the last person to threaten those I care about."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I wanted to prove to myself that I can stand up to such villains, even when I stand alone."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Which isn't to say I won't ask for your help when I need it, of course! I know better than that now!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The passage to Mamook remains blocked. For now, all we can do is try to rest and recover."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...Perhaps with a meal, as my sister would no doubt suggest. Shall we borrow the kitchens and prepare some xibruq pibil?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "[FOND CHUCKLE]"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "So thou hast taken a liking to the dish."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As we learn to appreciate the unfamiliar, 'tis only natural that we develop new affinities. There is no shame in this."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But there is in ignorance. I had barely considered what the people of Tuliyollal hold dear. What hopes they harbor for the future."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Our nation is built upon the bonds that Father forged during his journey across Tural."
+    },
+    {
+      "character": "Koana",
+      "text_en": "But so single-minded have I been in my advocacy of foreign innovations...that I failed to understand my own people."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Could someone who struggles to connect with the populace ever make a worthy Dawnservant?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "To understand and connect with people is by no means easy."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But there is something you can do to pave the way."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Let them see you for who you really are. What makes you laugh and cry and rage. That sort of honesty is the first step towards mutual understanding─and connection."
+    },
+    {
+      "character": "Koana",
+      "text_en": "“Understanding begets fellowship.” As my father said..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "And yet, what you suggest does not come naturally to me..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I, too, have found it difficult to speak from the heart. In thy struggles, I see mine own─painful in their familiarity."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Yet frightening though it may feel, if we are to move forward, we must indeed take that first step. Dispense with pretense and simply be ."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Do you remember when you first approached us, and we asked you why you wanted to become Dawnservant?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You said you wished to use the knowledge you acquired in Sharlayan for your country─and in doing so repay your father for the opportunities he afforded you."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "What won me over was not your ambition, but your motivation."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So let your people know this. And in time, they'll come to support you as we do."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You can't hide behind that stoicism forever."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Very well, then. I will make a greater effort to be myself...by not being my usual self so much."
+    }
+  ]
+}

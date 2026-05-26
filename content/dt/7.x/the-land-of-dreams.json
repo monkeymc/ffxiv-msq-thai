@@ -1,0 +1,272 @@
+{
+  "id": "the-land-of-dreams",
+  "wiki_path": "/wiki/The_Land_of_Dreams",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Land of Dreams",
+  "level": "99",
+  "location": "Living Memory(X:7.4,Y:27.7)",
+  "npc_start": "Cahciua",
+  "dialogues": [
+    {
+      "character": "G'raha Tia",
+      "text_en": "I had braced myself for it, but to actually erase the Endless is...hard."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This is Living Memory's true appearance..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I chose this path. I won't halt my steps."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Don't torment yourselves so. I asked this of you, so the burden lies with me."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And remember, we Endless are but facsimiles crafted from memories. You needn't feel guilt for erasing us."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Be that as it may, it's so hard to say good-bye..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It is. Nonetheless, it's our duty as the living to know and remember them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So let's pull ourselves together and keep at it. Keep seeking them out."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I'd appreciate that. Come, let's head to the next zone."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Yesterland, it's called, and another zip line at the Gate of Remembrance will take you there."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Ah, but I ought to mention..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "While shutting down a terminal should erase the Endless bound to it, those with strong, unresolved feelings may linger for a time."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If you encounter such individuals, perhaps you could lend them an ear. For their hopes are proof that they once lived."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yesterland has an altogether different look. Each zone has a distinct character, 'twould seem."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That lively place yonder appears to be Yesterland. I wonder what manner of folk we will find there."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Worry not, Forename . I don't intend to halt my steps either."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Cahciua's already gone ahead. Let's get going too."
+    },
+    {
+      "character": "Yesterland Guard",
+      "text_en": "System reboot complete. <bleep> <bloop> Error. Error. User registration...conf-f-firmed."
+    },
+    {
+      "character": "Yesterland Guard",
+      "text_en": "I bid you welcome to Yesterland, where the dreams of children and inner children alike come true! Please enjoy your stay!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Amazing... Is this also a recreation of an actual place?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "After a fashion. Yesterland is themed upon a period of peace, before the Storm Surge had engulfed the world in conflict."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It was a golden age for Alexandria, and they've captured it here in the form of an amusement park."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well now, another large-scale attraction!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Haha, I'm not ashamed to admit I'm excited as well, and I imagine this is how we're intended to feel."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So it goes with such places. But at the very least, it doesn't appear overly crowded."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It does, doesn't it? It's exciting to simply step through the entrance, and I imagine this is how we're intended to feel."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You mean you've visited the pixies' Garden of Dreams!? Thank goodness you are still with us..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "'Tis all too easy to lose oneself in such a wondrous place. By the time you think to leave, dozens of years may have already passed."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And perhaps the very same could be said of this place..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "On the far side of Yesterland is a castle. That's where the terminal is located, in the basement."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I'll go on ahead and wait for you there. Take what time you need to get acquainted with the locals."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Have fun, now!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Like before, we'll speak with the Endless. We'll learn what's dear to them before doing what we must."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's start by exploring and get our bearings!"
+    },
+    {
+      "character": "Endless Boy",
+      "text_en": "Oh, hello there, mister / miss ! We're just talking about Ser Otis. Do you know him?"
+    },
+    {
+      "character": "Endless Boy",
+      "text_en": "He's a bit odd and doesn't get jokes, but he's really strong and can vanquish fiends in a flash!"
+    },
+    {
+      "character": "Endless Boy",
+      "text_en": "He's probably out there fighting right now. When I grow up, I want to be strong like him!"
+    },
+    {
+      "character": "Endless Boy",
+      "text_en": "When I grow up, I want to be strong like Ser Otis! I'm going to protect Queen Sphene!"
+    },
+    {
+      "character": "Old-fashioned Knight",
+      "text_en": "'Tis plain you are no stranger to battle. If you would kindly tend to this fiend, I shall protect the children!"
+    },
+    {
+      "character": "Old-fashioned Knight",
+      "text_en": "I know not who you are, but my thanks for your timely aid!"
+    },
+    {
+      "character": "Playful Girl",
+      "text_en": "You're both so strong!"
+    },
+    {
+      "character": "Roguish Boy",
+      "text_en": "That was amazing, Otis! And you too, mister / miss !"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Hahaha! Fiends such as these are naught to be feared."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well then... Dealt with it already, have you?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Be at ease, one and all. So long as I, Ser Otis, live and breathe, no citizen shall come to harm!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Otis!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of all the people—could you really be that Otis?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "I'm certain I do not know what you mean by that Otis. I am who I am—and I should very much like to know who you are."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're Ser Otis Velona, lord captain of the royal knights of Alexandria, yes? We met you while searching for Gulool Ja."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You cooked a most delicious repast for us. Fought beside us in Solution Nine."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Gulool Ja...? Solution Nine...? I've never heard of such things."
+    },
+    {
+      "character": "Otis",
+      "text_en": "These events of which you speak are utterly unknown to me. As are you—I'm quite confident I would recall if we had met before!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Could this be... <gasp> Villainy!? You seek to bewilder me for purposes most foul!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, no! No villainy intended, I swear!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "(Tell me I'm not mad. This is definitely the Otis we know...right?)"
+    },
+    {
+      "character": "Otis",
+      "text_en": "I say, what are you whispering about there!?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Wait—I've no time for this! I must attend to my preparations for the Founding Celebration."
+    },
+    {
+      "character": "Otis",
+      "text_en": "The children begged and begged that I perform in the marquee play, and I cannot possibly disappoint them!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "I take my leave of you. Good day!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Founding Celebration...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gods, what a surprise to meet Otis."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He might not be the exact same as the one we met in Heritage Found, but still..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thinking back, he mentioned that he was a test subject for soul preservation. That might explain why he's here in this way."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In any case, I'd love to talk to him some more. There are some things I need to tell him."
+    }
+  ]
+}

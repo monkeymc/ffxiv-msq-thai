@@ -1,0 +1,332 @@
+{
+  "id": "a-festive-people",
+  "wiki_path": "/wiki/A_Festive_People",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Festive People",
+  "level": "90",
+  "location": "Kozama'uka(X:16.1,Y:10.0)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "Assuming we have the right idea, one of the Dawnservant's electors should be here somewhere."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "One can tell at a glance how very different the Hanu culture is to the Vanu's."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The water from the falls must flood the wetlands and flow into all these streams and rivers..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I agreed to serve as a guide, not a nursemaid."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's like our friend said. The people are in no mood for festivities..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can only assume they are still recovering from the damage wrought by the storm."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Indeed... Well, let's do what we came to do and find this elector."
+    },
+    {
+      "character": "Elderly Hanu Woman",
+      "text_en": "Ohokaliy!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oho...what now?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's a Hanu greeting. Surely you heard it the last time you were here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, I was busy enjoying the festival..."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "Greetings to the Third Promise and her entourage! I, Zanuhali, welcome you to Ok'hanu."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "As elder of my people, I shall also be fulfilling the duties of elector during the rite of succession."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So our idea about the electors was correct. We just do as Papa said, and retrace his path from the saga!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm ready! Give me the feat and test my worth!"
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "All in good time, all in good time. In fact, I came to let you know that we are not quite ready to begin."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "For the moment, please enjoy the hospitality of our village."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Should we poke around a bit, then? We might pick up some clues about the feat. You know, prepare ourselves."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That's surprisingly prudent of you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What! You think I'm being too cautious!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "No, no, I'm impressed, is all. You admire and respect your father, who is prone to decisive action, so I expected you to rush in first and ask questions later. Or never."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I do look up to Papa, but you should know that he has a pragmatic side too. The Head of Reason is the thinker who takes time to consider all the possibilities."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With the long naps he takes these days, though, the Head of Resolve is less restrained by his wisdom. I can't fault you for thinking that's all there is to him, but there's more to the Dawnservant you've seen thus far."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I should like to speak with the Head of Reason one day."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, well...I'm sure you'll catch him awake soon enough."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "To return to the subject at hand, you wish to take a look around Ok'hanu, then? Do some groundwork before the feat begins?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Something like that. I mean, I could probably pass this test with my eyes closed, but it'll keep us busy while we're waiting!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Wuk Lamat has the right of it. As Elder Zanuhali is a resident of this village, learning more about it can only improve our chances in the feat."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, then. It helped to do some investigating at Wachunpelo, so let's take a look around here as well!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Might I suggest a division of forces? For instance, Erenville, Alisaie, and Krile could concentrate on the southern half of the settlement."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Meanwhile, Wuk Lamat, Forename , and myself will handle this northern half."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sounds good to me!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is even worse than I expected..."
+    },
+    {
+      "character": "Dispirited Hanu",
+      "text_en": "<sigh>"
+    },
+    {
+      "character": "Dispirited Hanu",
+      "text_en": "You heard about the storm? I've never seen the likes of it before."
+    },
+    {
+      "character": "Dispirited Hanu",
+      "text_en": "With the supplies and help the Dawnservant sent, we're making progress repairing and rebuilding our homes..."
+    },
+    {
+      "character": "Dispirited Hanu",
+      "text_en": "But while rooves and walls can be patched, there is so much else that was lost for good..."
+    },
+    {
+      "character": "Dispirited Hanu",
+      "text_en": "<sigh>"
+    },
+    {
+      "character": "Dispirited Hanu",
+      "text_en": "<sigh> What are we to do...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A lot of houses are still damaged, and the Hanu I've spoken to are not their usual cheery selves. That storm broke more than wood and reeds."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There must be something I can do to help them..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm going to look around a bit more."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Some manner of boat?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This boat must be woven from the same reeds I've seen gathered into bundles here and there. The plants hold both practical and cultural significance to the Hanu, then..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hello, can you all hear me?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm told they're ready to receive us now. Come to the large building in the south of the village!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "On my way!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We ought to hurry over, too."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No sign of Zoraal Ja or that oversized lout."
+    },
+    {
+      "character": "Koana",
+      "text_en": "How much easier it would be if Zoraal Ja were to fail here. But that isn't likely to happen..."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "Honored guests! I am Zanuhali, elder of the Hanu."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "I am also an elector, charged with judging which among you is worthy of ascending the throne."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "Without further ado, let us talk of the feat."
+    },
+    {
+      "character": "???",
+      "text_en": "Not so fast! Surely you couldn't begin without us!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh. He made it after all..."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "No need to fuss─there is no time limit for this challenge. Now, if you would allow me to proceed..."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "It is here, in Ok'hanu, where my people forged a bond with the Dawnservant during our own chapter of the Tuliyollal Saga."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "In homage to those events, I have prepared for you the Feat of Reeds."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Reeds seem to be of great importance to the Hanu. I wonder what this feat entails..."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "We use reeds in every part of our lives, be it as food or weaving material."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "But look around the nearby paddies, and you will see that this season, our crops are failing."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "How fortunate, then, that my appointment to elector coincided with this predicament."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "For surely, those who aspire to be Dawnservant would find the matter of an ailing harvest a mere trifle to resolve?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Aye, well, it is indeed the duty of a ruler to address the people's woes."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "Exactly, exactly! Do well in this, and you will earn my keystone!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Why bother mucking about in the mud...when we can take the stone by force?"
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "Oh, mercy me! You are a hot-headed fellow, Bakool Ja Ja!"
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "Some electors may enjoy going toe-to-toe with scrappers like you, but I refuse to entertain your base instincts."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "Arrangements have been made. Should you attempt to engage a feat-giver in combat without their consent, word of your immediate disqualification will be sent to the palace. If you're still feeling feisty, then by all means, draw your weapon."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Hmph, this contest is presided over by cowards. There's no sport in fighting you."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "Then we can return to the business of earning my keystone."
+    },
+    {
+      "character": "Zanuhali",
+      "text_en": "The Feat of Reeds is begun! Claimants, I wish you the best of luck!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "The clever kitty crossed the seas to study foreign novelties─he might know tricks we don't. Tricks we can use."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "What of Little Miss Mittens?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Hah, you know the answer to that! Compared to the First and Second Promise, she's a distant Third. Not even in the running!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Then we see eye to eye on this, Brother. Being Bakool Ja Ja so long with me has rubbed off on you!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "These allies of hers, though... They might be a problem."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Dammit, I'm just as qualified to be here as they are. I'll show them!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Easy now. There's no time limit, remember? Let's keep calm and think things through."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right. You're right. I won't win against that lumbering vidraal by losing my head!"
+    }
+  ]
+}

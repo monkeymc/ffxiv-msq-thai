@@ -1,0 +1,548 @@
+{
+  "id": "trail-to-the-heavens",
+  "wiki_path": "/wiki/Trail_to_the_Heavens_(Quest)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/7/71/Trail_to_the_heavens_%28quest%291.png",
+  "patch": "7.5",
+  "title_en": "Trail to the Heavens",
+  "level": "100",
+  "location": "Mare Lamentorum(X:21.0,Y:11.7)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "G'raha Tia",
+      "text_en": "To think that individuals of Calyx's ilk or worse exist on other shards..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You'll have to forgive me. I'm still coming to terms with it all..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Halmarut can't be speaking the truth... Can she?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The Ascians once labored to resurrect Zodiark and bring back those who rendered up their lives to summon Him. For the sake of those who now live, we fought tirelessly to oppose them."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "If Halmarut doth truly seek a rejoining to avert this Solstice─to ensure some survive when otherwise all would perish...then our interests are not so disparate."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Trust the Ascians to be plotting something utterly reprehensible..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Though I am tempted to dismiss a “preemptive rejoining” as an utterly absurd solution, her words are not to be taken lightly..."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "I realize present circumstances are hardly conducive to doing so, but please try to get some rest while you can! I know I would be exhausted after your trials in the void..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The implications of the Solstice and the Winterers' schemes, as well as our approach moving forward, will take time to consider. To that end, I believe we should gather and speak in person."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And by “we,” I mean all our fellow Scions."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "For a change of pace, why don't we convene at the Rising Stones? I'm sure Tataru and the others would be happy to meet us there."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A fine idea. In many ways, our return is long overdue."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "No doubt we could all use some respite after Garlemald, but I trust there are no objections?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis settled, then. To the Rising Stones."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Rest assured we will do all we can to support your endeavors!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "There was much and more to take care of in Garlemald, even after tending to the wounded. I shall be sure to share a full report with Ojika."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Tis a pity my stay in Tural came to such an abrupt end. I should like to make arrangements to remain in touch with Shale."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It feels like a lifetime ago I first set foot within these walls. Though given we've all experienced a lifetime's worth of triumphs and tribulations in the interim, perhaps that is only natural."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Since leaving for Tural, we've been almost constantly on the move. It feels good to put my feet up in familiar stamping grounds."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "In spite of time's vicissitudes, some things endure. This sanctuary is surely among them."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "At times like this, the company of friends is all the more precious!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Nary a thing has changed since we last gathered here... No doubt Tataru is chiefly responsible for the prevailing state of tidiness."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Speaking of whom, she and a great many of our comrades are en route. Let us wait for them a while longer."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Long it hath been since last we gathered here..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though our order's dissolution was indeed in name only, thereafter we did largely operate independent of one another."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "All of which is to say, full glad am I to stand in such esteemed company once more."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "Apologies for our delay!"
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "We're reporting for duty as bid!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "This is everyone that we could round up on short notice. The others are still en route."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Estinien alone, we weren't able to make contact with...but we're working on it!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "No doubt his linkpearl is buried at the bottom of his bag."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Knowing him, he'll turn up when we least expect it."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "Now, as much as I would like to savor our reunion, Tataru tells us there have been developments ."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "Will you apprise us of the details?"
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "The Winterers and the Solstice..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The veracity of Halmarut's claims remains unclear."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yet it cannot be denied that, in his bid to convert the living into Endless, Calyx was privy to knowledge of the reflections and more."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "And the Winterers are formed of others like him..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In light of the recent voidsent incursions, I believe it would be wise to treat the Solstice as a genuine threat."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The problem is how to deal with it..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Both the Source and the reflections are home to irreplaceable life. I would protect them all if I could."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But if doing so means ushering in complete annihilation..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then what can we possibly do?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I wonder, was Hydaelyn aware of the Solstice?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Hmmm..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Given that we had no knowledge of it when you journeyed to Elpis, you couldn't have warned Venat."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So it is entirely possible She was unaware. But in the course of sustaining the sundered star, She may have glimpsed this eventuality."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Indeed, not even Hydaelyn could be expected to foresee everything. And with Her gone, we have only speculation."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So She believed that we could overcome this trial as well? Or rather, that the choice was ours to make..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Whichever it may be, it is we who must find the answer."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We who live in the here and now."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Perhaps we could take a recess? I daresay everyone could use a rest."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Indeed. We have ample food for thought, and it would be good to catch each other up."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ere I forget... Hereon, I believe you should keep the key─Ethos─in your possession."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "After all, it seems that is one mystery I am not destined to unravel."
+    },
+    {
+      "character": "Coultenet",
+      "text_en": "This latest development is indeed a shock, but I am heartened to see not a single face clouded with despair!"
+    },
+    {
+      "character": "Ephemie",
+      "text_en": "I helped repel the voidsent incursion in Lapis Manalis. Fighting off fiend-controlled Galateae is something I won't rush to relive, but it was nonetheless good training."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Don't worry about me. I'm sure you've plenty to discuss with all these old faces."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It seems our colleagues have much to catch each other up on. I shall have to brew some tea!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Tataru is ever the considerate facilitator. Grateful am I to refrain from weighty discussions and simply converse with old friends."
+    },
+    {
+      "character": "Clemence",
+      "text_en": "Oh, Aenor... I hoped you'd come to your senses, but I see you're still in the throes of withdrawal."
+    },
+    {
+      "character": "Aenor",
+      "text_en": "The brothers are reunited, yet a distance between them persists! How cruel fate is to force me to choose..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hearing our comrades' tales reminds me of my efforts to master pictomancy. We've all come so far─striven so hard."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Even after discussing the revelations concerning Calyx, there is a great deal to share. 'Tis difficult to know where to begin!"
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "Coultenet and I had remained in Corvos to monitor the situation among the Garleans and the Corvosi."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "Though seldom smooth sailing, in time the region settled, and we were able to return."
+    },
+    {
+      "character": "Coultenet",
+      "text_en": "I understand the Garlean community has made great strides in improving relations with other peoples."
+    },
+    {
+      "character": "Coultenet",
+      "text_en": "Hearing that, I feel renewed zeal for resolving the issues in Corvos."
+    },
+    {
+      "character": "Ephemie",
+      "text_en": "Then perhaps you'd like to hear more about the Garleans' accomplishments from me and the twins. It might stoke that fire even hotter!"
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "I don't suppose your adventures have taken you to Corvos? While it still bears the scars of war, 'tis a beautiful region, and well worth a visit!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Twas by no means an easy decision, but as the Solstice is now our paramount concern, Alisaie and I have opted to formally withdraw from our efforts in Garlemald."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "After all, anything we can do to protect our world will also serve to keep the Garleans safe."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Jullus and his comrades are already working towards a brighter future of their own accord. Honestly, I'm more worried about us."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's so difficult to see the path ahead. But hopefully we can get through this and return to Garlemald with our heads held high one day..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed... In the meantime, let us prepare a letter for Jullus and the community. We mustn't let despair stay our hand."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We hardly had time to catch up with Mother and Father back in Sharlayan. I hope they don't take umbrage at so brief a visit..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "After Urianger and I went off on our own, we decided to spend some time exploring Xak Tural. We never had the chance to visit during the rite of succession, you see."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We journeyed east through Loazeniheta before heading up the coast to the frigid northern reaches, where they revere a storied beast of the sea. The excursion only served to reinforce just how diverse Tural really is."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "We also met with the Whalaqee. Though we had not the time to study their arts at length, we were privy to several intriguing demonstrations."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Would that we could have indulged our curiosity further and traveled to yet more distant lands. For better or for worse, pragmatism tempered our wanderlust."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Suffice it to say, we still have plenty to see of the continent. I should very much like to return, given the chance."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Apparently, the landscape in the far south of Yok Tural is quite unique as well. I can see why Ketenramm was so enamored with the vastness of it all."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Judging by your guise, Clemence, your studies must have been productive."
+    },
+    {
+      "character": "Clemence",
+      "text_en": "Indeed! I have more or less mastered the fundamental principles of Sharlayan astrology."
+    },
+    {
+      "character": "Clemence",
+      "text_en": "At one point I considered exploring other healing arts, but decided to persevere with more focused training to better leverage my skills on the battlefield."
+    },
+    {
+      "character": "Aenor",
+      "text_en": "I don't think I'd be much use on a battlefield these days. I can scarcely hold my bow steady, let alone hit a target... So sorely bereft of brotherly ministrations as I am..."
+    },
+    {
+      "character": "Clemence",
+      "text_en": "I knew you still required constant supervision!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You two haven't changed in the slightest. It makes me wonder how our colleagues that couldn't join us today are faring."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Seeing the two siblings together made me think of my sisters and half-sisters... All twelve of us actually had the opportunity to gather not so long ago."
+    },
+    {
+      "character": "Ocher Boulder",
+      "text_en": "Aenor and I were training in Gridania when voidsent attacked the Twelveswood. Thankfully, we were able to fend them off with the help of the Twin Adders."
+    },
+    {
+      "character": "Ocher Boulder",
+      "text_en": "When I heard the invasion had already spread across the star, I realized the gravity of the situation and ordered a confidential report sent to the other Scions."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That's why Tataru was so quickly apprised! Thanks to you, we were able to make haste for Garlemald."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "While circumstance and duty may keep us apart, we remain bound by common purpose."
+    },
+    {
+      "character": "Ocher Boulder",
+      "text_en": "Indeed. May that purpose continue to guide us now that we stand together once again!"
+    },
+    {
+      "character": "Ocher Boulder",
+      "text_en": "I hadn't seen Hoary for some time until today. Hopefully he gets a sense of the progress I've made since last we met!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It seems everyone has much and more to discuss with one another!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Anyway, you're overdue for a proper break! The peace and quiet will help you think."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Feel free to make yourself comfortable in Dawn's Respite!"
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Of course, should it serve to satisfy your ambition, you are welcome to deal with the reflections as you deem fit."
+    },
+    {
+      "character": "Halmarut",
+      "text_en": "Like the pariah and wanderer who satisfied his own, when he brought the star to the brink of ruin to face you."
+    },
+    {
+      "character": "???",
+      "text_en": "I detest evenings such as this. Too bright, too stimulating. The mind distracted by the inconsequential."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You needn't be so wary. I merely come to offer information before my departure."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Halmarut and I will soon cross the rift to observe the enactment of another Winterer's plan."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Our destination is the Fourth..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "A world locked in ice, whose lands are blanketed in thick clouds. In order to survive, man has fled to the skies, using great magicks to establish new civilizations."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "It was not my intent to excite. I have my own designs I would see realized, nothing more."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I have my own designs I would see realized, nothing more."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Believe me or don't, as you like. For all I know, you lack the means to follow us anyway."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "What Halmarut said to you earlier..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "She suggested that “dealing with” the reflections might satisfy your ambition. But is that truly so?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You have seen battles beyond counting. Have defeated even the fear of death. Is there some conclusion that you seek no matter the cost?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I will share with you a truth."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "We Winterers each have an ambition that we wish to fulfill. To that end, we may share information with one another, but we do not necessarily share the same beliefs."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Just as you and yours decried my actions, I find those of my fellows objectionable."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Be that as it may..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "It is the culmination of our lives' works that we would bring to the world─fruits born of undying devotion, daring aspiration, and unwavering ideals."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "No matter how we are reviled, no matter what we must steal, our actions will be vindicated by those who abide in the future we create."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "In your benevolence, you may seek to save everything and everyone. But once all is consequently consigned to oblivion..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Your noble deeds will amount to nothing more than folly. For no living soul shall remain to judge them."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "If shattered stars are doomed to mend, How turns the key to Winter's end?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I wonder whose voice it was that named the key “Ethos.” The more we learn, the more mysteries abound!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "When you have a moment, I should like to hear more of your trip to the Thirteenth."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You ought to let Jullus know you met with Zero. I'm sure he'll wish to hear she's faring well."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I'll let you know when discussions are set to resume. Until then, please do get some rest!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "We must needs ascertain the veracity of Halmarut's claims. I shall send word to my colleagues in Sharlayan─they may be able to offer us valuable insights."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "As the Word of the Mother, Minfilia conveyed the will of the star. Surely she would've known if nature itself ran counter to that will..."
+    },
+    {
+      "character": "Coultenet",
+      "text_en": "Few tales of Tural reach Corvos, even today. I'd like to hear of your adventures next time we meet."
+    },
+    {
+      "character": "Ephemie",
+      "text_en": "Alphinaud and Alisaie saw fit to relinquish their responsibilities in Garlemald and concentrate on the fight ahead. I shall likewise be reprising my duties as a Scion─wherever they may take me."
+    },
+    {
+      "character": "Ocher Boulder",
+      "text_en": "I'd been making headway with my training, but I have a long way to go compared to present company... I look forward to learning from the very best again someday!"
+    },
+    {
+      "character": "Clemence",
+      "text_en": "Aenor... At least feign a little interest in your sister. This obsession has gone too far!"
+    },
+    {
+      "character": "Aenor",
+      "text_en": "Looks like there's a lull in the conversation... This is my chance!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I will continue to keep abreast of the situation in Garlemald via reports from the Ilsabard contingent.  Should another crisis arise, we will not hesitate to provide our support."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Knowing that a connection persists between the First and the Thirteenth fills me with joy."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "Sounds like you faced a tough fight in the void. I know your instinct is to charge into the fray, but even heroes need rest."
+    }
+  ]
+}

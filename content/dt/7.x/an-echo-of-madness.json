@@ -1,0 +1,424 @@
+{
+  "id": "an-echo-of-madness",
+  "wiki_path": "/wiki/An_Echo_of_Madness",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "An Echo of Madness",
+  "level": "93",
+  "location": "Urqopacha(X:29.5,Y:33.7)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "If you are ready, there are many injured here who need aid. Should you find anyone passed out from their wounds, I ask that you alert me to them."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Otherwise, I shall be tending to whomever requires the most urgent healing. We can gather here once we've seen to these people's hurts."
+    },
+    {
+      "character": "Yorgerwor",
+      "text_en": "You... The Third Promise's protector..."
+    },
+    {
+      "character": "Yorgerwor",
+      "text_en": "Everything was bathed in bright red. A searing heat enveloped my entire body. I couldn't move..."
+    },
+    {
+      "character": "Zurferlar",
+      "text_en": "<groan>"
+    },
+    {
+      "character": "Zurferlar",
+      "text_en": "Everything burns... The touch of cloth is agony. Yet I will live. Leave me─there are others in more dire need of help."
+    },
+    {
+      "character": "Zerborlor",
+      "text_en": "Ah..."
+    },
+    {
+      "character": "Zerborlor",
+      "text_en": "My wounds are nothing serious, but this dryness in my throat... It's as if all the moisture has left my body."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Once we've treated the wounded, I'll have everyone meet at the spot where we were talking earlier."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Stay with me! We'll have a healer see to you soon!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "There, that should help. Rest awhile, and you'll be back on your feet in no time."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This is a Sharlayan restorative potion. Drink it slowly."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You'll be fine. Just try to avoid sudden movements so you don't reopen your wounds."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Urianger says fire aether pervades the entire village. What happened here...?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Many of the villagers sustained burns, but the fire found no purchase in these stone buildings. A small mercy."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though Valigarmanda's escape is of dire concern, we must needs tend to those caught in the conflagration."
+    },
+    {
+      "character": "Yorgerwor",
+      "text_en": "What happened to us...?"
+    },
+    {
+      "character": "Zurferlar",
+      "text_en": "We are fortunate indeed that you and your companions have come."
+    },
+    {
+      "character": "Zerborlor",
+      "text_en": "That strangers from across the salt should be the ones to aid us..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I've done all I can for now. The injured you found were awake and alert, then?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That is well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've left the injured as comfortable as we could."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Many were suffering from burns to a greater or lesser degree. Did a fire sweep through the village?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The details are unclear..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Once I'd healed the giant attacked by that mountain bird, the group's leader─Vorporlor, I believe they called him─bade me depart. It was then that I felt an intense wave of aether, and returned to find Worlar's Echo in this state."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I rushed over to the first giant I saw. Though delirious with pain, he repeated the same warning: Valigarmanda had broken free. Thus did I contact you with all haste."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, we're going to need more information than that before we can deal with the situation."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, we should speak with the temple guard, and see what's become of the Skyruin's prison!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We need to find out exactly what's going on!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "They did say the prison was beginning to fail, but I felt certain it would hold for another few years, at least. Was I mistaken?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The High Luminary will have returned by now. Hopefully he's found out more than we have..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I would be glad to learn that this was all some misunderstanding... A futile hope, by the looks of things."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Whatever answers exist await us inside the temple."
+    },
+    {
+      "character": "Temple Guard",
+      "text_en": "The High Luminary grants you entry, and awaits you within."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What happened!?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "So it's true─the ice has failed..."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Zurmurwur. Tell them what you told me."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "A short while ago, a claimant paid us a visit..."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Who enters this hallowed hall?"
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Ah, a claimant."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Oooh. And here we have the mighty Valigarmanda."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "A terrifying vidraal. With every awakening, it has seared its ruinous name into the memories of a new generation..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "What a good little terror."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "You've stayed napping right up until the day I needed you!"
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Explain yourself."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "It is as they say... Gulool Ja Ja caused its magic to run rampant, trapping it in a frozen prison of its own creation. Clever, clever!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "To unmake it, it would be quite tricky."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Two spells must be cast at the exact same moment: a conflagration intense enough to melt the ice, and a wakening flame to rekindle the slumbering vidraal's soul."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "The only ones capable of such harmonious execution would be the Heads of Reason and Resolve..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "...and the blessed siblings─Bakool Ja Ja!"
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "You mustn't!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "But I already have..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Rise and rage, little terror."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I might've overdone the fire a bit."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Utter madness... Why have you done this?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "For the throne, of course!"
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "You unleash calamity for your own gain? Have you any idea how many may die!?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Wreak havoc, Valigarmanda. Live up to your legend."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "A messenger to Tuliyollal has been dispatched. The Landsguard will send a contingent, I am sure, but there is no telling when they will arrive..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That idiot... This monstrous act is a step too far, even for him!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So...what's the plan?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If we leave the vidraal to others, it will be a massacre."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Some might call it the wiser choice if I don't want to fall behind the competition, but I could never live with myself─and my supporters deserve a better ruler!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So that's that. I will stay and fight Valigarmanda!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is an enemy so powerful that even my father failed to slay it. Alone, I don't stand a chance."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I understand you've no obligation to aid me outside the rite of succession..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But for the sake of Urqopacha and its people, I beg you join me in this battle!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hah. Drawn to the chaos-you're as bad as Papa. Don't worry: the Skyruin should prove a big enough challenge for all of us."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Far be it from us to abandon a dear comrade in her time of need."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Dear comrades now, eh..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, I have to say, it does have a comforting ring to it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Knowing someone has your back makes it easier to do what you have to do."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And what will we do?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "One committed to winning the contest above all else would race on ahead..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If you're resolved to slay Valigarmanda, we'll need to find out where the beast went."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's what we have you for, old friend!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Inform the Pelupelu of the danger. They may need to flee to lower ground."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Two casters releasing spells of fire at the exact same moment... A feat impossible for any but a two-headed Mamool Ja."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "When I said I would take on the duties of a guide, that did not include the tracking of ancient and terrible tural vidraal. Still, we can't leave Valigarmanda free to ravage the land."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Should a claimant reckless enough to free the Skyruin become Dawnservant, what would become of Tuliyollal?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That fiend Bakool Ja Ja─he's rotten through and through! There's nothing “blessed” about him!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, Erenville. Any ideas on how we can track Valigarmanda?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The tried-and-true method of comparing sightings with other signs of passage is the most reliable. But also the most time-consuming."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There is a second option... Not as reliable as the first, but if we're lucky, it will let us ascertain the Skyruin's whereabouts far more quickly."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Though a tural vidraal of extraordinary nature, Valigarmanda is still a creature of this world."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Like you and me, it is thus sustained by corporeal energy and possesses a unique aetherial balance. Which means this device should come in handy ."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A floating hand!? Now's not the time to be playing with toys!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This is no toy─it's an aether seeker. As the name suggests, gleaners use it to detect the aether of living beings."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And you've had that in your pack this whole time...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I can calibrate it to follow a specific aetherial aspect. The problem with Valigarmanda, however, is that it can shift freely between the elements of fire, ice, or lightning..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, we know that in order to awaken Valigarmanda from its icy imprisonment, Bakool Ja Ja cast spells which quickened its fire-aspected aether."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And the residents here were uniformly afflicted by burns."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Therefore the logical conclusion is that, upon breaking free, Valigarmanda unleashed a great fiery blast."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Then the choice is plain. Fire."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The seeker, however, is not without its faults. As we were not able to input our quarry's unique aetheric signature in advance, the device will respond to any living source of fire-aspected aether."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So, we have the reliable─yet slow─method of information gathering, versus the potentially swift─but easily misled─gleaner tool. I say why not pursue both methods at the same time?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Good idea! We'll have the first to fall back on if the second fails!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You travel with me, then, Forename . In case the seeker leads me to some other fiery fiend."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The rest of us can stay behind and talk to eyewitnesses. The more Skyruin sightings we can compare, the more accurate our information will be."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If no one has any objections, I shall remain here in the village and tend to the Yok Huy."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Very few are seriously injured, but I am wary of wounds inflicted by a creature like Valigarmanda. I should like to be close at hand should their condition suddenly worsen."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, it sounds like we all have work to do!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We should be on our way as well."
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "id": "to-urqopacha",
+  "wiki_path": "/wiki/To_Urqopacha",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/1d/To_Urqopacha.png",
+  "patch": "7.0",
+  "title_en": "To Urqopacha",
+  "level": "90",
+  "location": "Tuliyollal(X:12.7,Y:13.8)",
+  "npc_start": "Approachable Pelu",
+  "dialogues": [
+    {
+      "character": "Approachable Pelu",
+      "text_en": "I've been waiting for what feels like days...and eaten enough of Br'uk Evu's tacos to feed an army!"
+    },
+    {
+      "character": "Approachable Pelu",
+      "text_en": "What is it you'd like to know?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Our main concern was confirming the state of the road ahead."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As I recall, to reach Urqopacha, we depart from the Arch of the Dawn, then take the road west at the first fork. Should we be wary of anything along the way?"
+    },
+    {
+      "character": "Approachable Pelu",
+      "text_en": "That is indeed the way to Urqopacha. After the damage wrought by the recent downpour, however, you'll be doing more stumbling than walking."
+    },
+    {
+      "character": "Approachable Pelu",
+      "text_en": "But do take heart! When it comes to rugged terrain, we have a most dependable solution available. Come with me!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll be back to talk to you in good time, friend Hanu. Meanwhile, you can eat and drink your fill at Xbalyav Ty'e─it's all been arranged!"
+    },
+    {
+      "character": "Helpful Hanu",
+      "text_en": "So...I can order anything I like at Xbalyav Ty'e? Anything !? The Third Promise is too generous!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh, why did it have to be alpacas..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The beasts are sure-footed, that's for certain."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh my! Are these fluffy babies our mounts!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Talking to a Pelu before we departed was a wise decision. I for one would rather not brave a treacherous, slippery trail on foot."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The Pelupelu all being small is confusing enough, but those masks make it almost impossible to tell men from women, let alone guess at their age."
+    },
+    {
+      "character": "Approachable Pelu",
+      "text_en": "May I introduce to you our most dependable companion─the alpaca!"
+    },
+    {
+      "character": "Approachable Pelu",
+      "text_en": "These animals can traverse Urqopacha's steep mountain trails as if they were gentle fields, and all while carrying heavy loads. Our merchants would be lost without them!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So they fill much the same niche as our chocobos back home."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You don't have alpacas in Eorzea?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Alpacas are native to Yok Tural. Eorzea has its chocobos, and the eastern lands have their horses. Why go to the trouble of breeding another pack beast in a place which ill suits its qualities and where it is not needed anyway?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hm... But must we ride these little monsters?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I get the impression you aren't fond of alpacas."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When I was small─and being a bit naughty─I went around pulling on their wool. One of them spat on me, and it was the foulest stench you can imagine..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Haha, I see..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What are they like to ride?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Alpacas bred as mounts are inquisitive and docile. Even those without experience find them easy to handle."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're really doing this, then..."
+    },
+    {
+      "character": "Approachable Pelu",
+      "text_en": "So...was my information useful to you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I... Yes, very helpful. Even if it wasn't what I wanted to hear..."
+    },
+    {
+      "character": "Approachable Pelu",
+      "text_en": "Good! I'll take my payment now!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You want me to pay you!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...I guess I should've expected as much from a Pelu merchant. Let me see what I have on me."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Pelupelu value the act of spreading joy through trade, as you should know. They take pride in making deals that benefit both parties."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here you go! A fair price for your fair advice."
+    },
+    {
+      "character": "Approachable Pelu",
+      "text_en": "Yes! I made a trade with the Third Promise herself! My friends will never believe this!"
+    },
+    {
+      "character": "Approachable Pelu",
+      "text_en": "I shall be on my way now. I wish you safe travels!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Off you go then, and thank you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I better not get spit on again..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You brought that on yourself. Remain calm and gentle, and so will they."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm still not happy about this... But if we need to ride alpacas to reach Urqopacha, then that's what we'll do."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Turali poets of yore sang of a mountain that would stand tall even should all other lands sink beneath the sea."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Indomitable and eternal, it arises from Urqopacha─the hundred peaks of time."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Of all the beasts which crawl and fly, only the legendary Valigarmanda could hope to disturb the summit's serene majesty."
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Yet with that flying calamity imprisoned by the Dawnservant, what great feat remains for those who would claim the throne?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So this is Urqopacha... I've never actually been here before."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The air is so crisp and clear."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Mountains everywhere you look."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That one massive peak in particular has quite the presence. It puts me in mind of Sohm Al."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That is Worqor Zormor, the tallest mountain in Yok Tural. Its sheer height makes it an imposing climb, but there are other reasons the ambitious keep their distance..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Oh? Do tell."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Hmm, where to begin..."
+    },
+    {
+      "character": "???",
+      "text_en": "Excuse me, but...you're Wuk Lamat, are you not? I-I hadn't thought to encounter one of the Dawn's Promise here of all places..."
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Ah, but I should introduce myself. I am Bol Noq', a weaver by trade."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well met, Bol Noq'. We're on our way to Wachunpelo."
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Truly? I've just come from there, as it happens."
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "I'd asked the Pelupelu who sell me their wool to give me a tour of their alpaca ranch."
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "The head rancher and I shared a bottle of mezcal while he explained the finer points of wool production."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Mezcal? Is that a local beverage?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's an Urqopacha specialty. A spirit made from distilled agave heart juice."
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Yes, and it must have done wonders for my mood, for I tripled my usual order of alpaca wool. They did offer me a discount, though, so it wasn't a bad deal in the end."
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Ah, but listen to me boring you with my tedious stories. I-I will leave you before you are lulled to sleep. Good-bye, and safe travels."
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Oh, silly me. I almost forgot to say the thing I actually wanted to say."
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Peace for Tural─I agree with your vision, Third Promise. You have my support in your bid for the throne."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I gather from his tale we would be foolish to underestimate Pelupelu merchants..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Yes, they do more than run the markets in Tuliyollal. Pelupelu peddlers can be found everywhere in Tural, traveling from place to place on their sturdy alpacas."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They are effusive and engaging speakers, and many's the customer who's been talked into spending more than they bargained for."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They won't find this customer so easily charmed!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Wachunpelo's down the path off the main road! Don't get lost!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's right there!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The palace crowds were more supportive of her brothers, but Wuk Lamat's peaceful politics do have their quiet adherents, I see."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I feel the change in altitude most keenly. While mayhap not to the same degree as the Sea of Clouds, the air is decidedly thin here."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I could see more buildings down the path Bol Noq' was taking. I wonder what's over that way..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This is it: Wachunpelo, home of the Pelupelu. Wuk Lamat should have arrived before us..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...That's not good."
+    },
+    {
+      "character": "Amiable Pelu",
+      "text_en": "You've come all this way for the rite of succession? Oh! So this means I'm exchanging words with the future Dawnservant!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "P-Please, the outcome is far from decided...but it is a possibility!"
+    },
+    {
+      "character": "Amiable Pelu",
+      "text_en": "How fortunate, then, that I deal in cloaks woven from especially luxurious alpaca wool. Such a garment would look magnificent when draped over the shoulders of our budding ruler."
+    },
+    {
+      "character": "Amiable Pelu",
+      "text_en": "And a nation's ruler should dress her best for her adoring people, yes? Finery for our finest lady, that's right! Come, Third Promise, my well-stocked shelves are but a few steps away..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "“Finest lady”? Heh heh, I like the sound of that..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright, I suppose a quick look wouldn't hurt..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ahem. What did we just talk about?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville, when did you─!?"
+    },
+    {
+      "character": "Amiable Pelu",
+      "text_en": "Ah, a Shetona from far-off Xak Tural? Northern winters are bitterly cold affairs, I'm told. I cannot imagine how you survived them without a lovely warm cloak of quality alpaca wool..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No, thank you. I'm not in need of new clothes at the moment, and neither is the Third Promise. Perhaps another time."
+    },
+    {
+      "character": "Amiable Pelu",
+      "text_en": "Of course, of course! My shop door is always open!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You were saying something about not being “easily charmed”?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I was just─ <sigh>"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As I mentioned previously, the Pelu people live for bringing happiness through trade. They won't cheat you or sell you defective goods."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They will, however, disarm you with their deft turns of phrase, and unwitting customers like Wuk Lamat fall prey to this affable approach time and time again."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Your only recourse is a clear and firm refusal─they won't pursue the matter should you make your disinterest plain."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A valuable insight into the minds of the Pelupelu. Let us all take Erenville's words of caution to heart."
+    }
+  ]
+}

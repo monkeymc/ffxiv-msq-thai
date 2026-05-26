@@ -1,0 +1,208 @@
+{
+  "id": "scales-of-blue",
+  "wiki_path": "/wiki/Scales_of_Blue",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Scales of Blue",
+  "level": "98",
+  "location": "Solution Nine(X:15.0,Y:14.2)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, we're supposed to go to a place called True Vue, in the eastern sector. This conveyor ought to take us there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You know, once you get used to it, they're actually kind of fun. Come on, Forename !"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the right place, you think?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't see the others, though..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, rather than sitting and waiting, we might as well explore a bit more."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh? Forename , look over there!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A Mamool Ja child... What are they doing here?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You noticed too, right? The resemblance to Zoraal Ja."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The blue scales of a Boonewa with the features of a Hoobigo..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This can't be a coincidence."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "At any rate, it wouldn't do to leave such a small child on their own."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, let's go after them!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I think they ran this way..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So this is True Vue. I'm not sure what I'm looking at, but it does seem lively!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That building's just about the only one that isn't lit up. Not open for business at the moment, I guess?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Uwaaah!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I-I didn't see you there..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Listen, we don't mean you any harm. We just want to talk."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's a bit odd, don't you think? They run off when we approach, only to suddenly reappear..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Could it be they want to take us somewhere?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is that the way of it? You want us to follow you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So it is! Alright, then, lead the way!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's see where they take us."
+    },
+    {
+      "character": "Blue-scaled Hoobigo Child",
+      "text_en": "...!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's try not to lose sight of them this time!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hm? Alexandrian food not agreeing with your stomach? Alright, I'll let the little one know you need some time. We'll wait for you back where we started."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn it, we've lost them! Probably best to return to where we started..."
+    },
+    {
+      "character": "Blue-scaled Hoobigo Child",
+      "text_en": "...!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is this where you wanted to bring us?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is this place? If you're meant to relax here, it isn't working for me..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, what's your name?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So you're still not inclined to talk..."
+    },
+    {
+      "character": "Melancholy",
+      "text_en": "He'll only talk if he's completely comfortable with you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You know him?"
+    },
+    {
+      "character": "Melancholy",
+      "text_en": "After a fashion. But never mind that. How about something to wet your whistle?"
+    },
+    {
+      "character": "Melancholy",
+      "text_en": "Adorable as you are, it's on the house. I can recommend our special—Her Majesty. I'll prepare one without liquor for the boy, too."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Uh, thanks, but no thanks. We're supposed to meet a friend named Cahciua."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But we ran into the child on the way, and he led us here."
+    },
+    {
+      "character": "Melancholy",
+      "text_en": "Ohhh, so you're with Cahciua."
+    },
+    {
+      "character": "Melancholy",
+      "text_en": "In that case, go and have a chat with big Tassos there. He'll show you to a fun place."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What about him?"
+    },
+    {
+      "character": "Melancholy",
+      "text_en": "I don't think he's in a mood to talk, so he can tend the bar with me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This has taken a turn for the strange, but you don't think we're walking into a trap, do you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damned if this doesn't have suspicious written all over it..."
+    },
+    {
+      "character": "Melancholy",
+      "text_en": "If you feel like that drink after all, just let me know."
+    },
+    {
+      "character": "Blue-scaled Hoobigo Child",
+      "text_en": "..."
+    },
+    {
+      "character": "Tassos",
+      "text_en": "You seem eager to go, but what about your friend there?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is this “fun place” meant to be? Is Cahciua there?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, I suppose there's only one way to find out..."
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "id": "her-people-her-family",
+  "wiki_path": "/wiki/Her_People,_Her_Family",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Her People, Her Family",
+  "level": "98",
+  "location": "Solution Nine(X:4.3,Y:19.6)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To think that they had such a problem..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Well, let's continue the tour, shall we?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look, you obviously have duties to attend to—citizens to look after. We can stop here if you like."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No, no. I do this because I want to, so please do not worry."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Next, I'll show you one of the district's most vital facilities, a place called Resolution. To reach it, we'll need to go by way of leynode nine, where the aetheryte is situated."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "<gulp> D-Don't tell me we need to use that now?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The conveyor ahead will transport you to the government sector, where Resolution is located."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The markings on a conveyor indicate its direction, and there is a pair just like it on the other side."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I-Is it safe?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Extremely. There's no need to be afraid."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wh-Who said I was afraid? Come on, Forename !"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "N-Nothing to it, eh? A child's amusement ride!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And here we are—Resolution, the operational heart of Solution Nine."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "From Resolution we oversee the running of the district and provide essential services to citizens, such as welfare support and job introductions."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's quicker to show than tell, so let's proceed inside."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Strange contraptions everywhere you look..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's that?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "An infusion station. It dispenses souls in exchange for credits."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Through hard work, citizens can obtain the peace of mind provided by spare souls. It's the way of life for Alexandrians and has been for quite some time."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But I imagine it must be difficult for outsiders to comprehend."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's putting it lightly. To be honest, it sounds disturbing."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Still, I won't dismiss it out of hand. Practices like these don't arise from nothing."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's a reason why your culture is the way it is, and I'd like to understand. Won't you tell us some of your realm's history?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Very well. Be warned, though, that it may take a while."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "In the distant past—over a thousand years ago, it's said—lightning energy began to swell in our world."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "According to ancient records that date back around eight centuries, the rainy season spanned a quarter of the year, during which time severe thunderstorms ravaged the land."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Four centuries later, this season had lengthened to nearly half the year."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The trend continued, with our ancestors spending longer and longer languishing beneath storm clouds. Crops failed and livestock starved."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But amidst this growing desperation, a miraculous material was discovered that promised salvation: electrope."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The stuff that's used everywhere here."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Indeed. One day, when out inspecting a forest after lightning had caused a fire, a villager came upon a curious black ore none had seen before."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Testing revealed that the ore possessed a singular property: it could store lightning and convert it to other energies. In that instant, the scourge of endless storms became a blessing."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Dubbed electrope, the ore found use in myriad inventions and dramatically improved people's lives."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So much so, in fact, that all nations soon became dependent upon it—despite the difficulty of obtaining it in quantity."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Supply was chronically scarce. And when nations couldn't meet their needs with their own deposits, some resorted to taking electrope from others..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Fighting was isolated and sporadic—until electrope came to be used in warfare. First in the weaponry of invaders, then in the countermeasures of defenders, and then in every aspect of combat where an advantage might be had."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This served only to exacerbate the ore shortage, leading to further escalation. Before long, the entire world was engulfed in a terrible war known as the Storm Surge."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As the war came to a head, Alexandria's neighbor Lindblum committed its stores of electrope to the production of a weapon of mass destruction."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "They deployed it on the front lines...and triggered a calamity of frightful magnitude. Not even their own scientists had anticipated the force of the lightning that was unleashed. The energy inundated the entire continent, laying it to waste."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So that's how your world came to be this way..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You truly know a great many things that I don't. I should like to learn about you too sometime."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But to continue the tale... The people of Alexandria had already lost much to the war. They lost almost everything else to the levin."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Those who survived bore deep scars, tormented by the memory of loved ones taken too soon. Though they yet lived, the cruel specter of death was with them always."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Seeking a solution, our scientists turned once more to electrope. And after extensive research, they developed the means to preserve memory and soul."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Physical death isn't the end. So long as our memories endure, we may live on..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This belief sustained us then, and it sustains us now, granting us comfort."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's quite a tale..."
+    },
+    {
+      "character": "Frantic Man",
+      "text_en": "Your Majesty! Help me, I beg you! Help me!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wh-What's the matter?"
+    },
+    {
+      "character": "Frantic Man",
+      "text_en": "I've got no souls left—not a single one—but the lot at Soul Supply refuse to give me any!"
+    },
+    {
+      "character": "Frantic Man",
+      "text_en": "Please, you must do something!"
+    },
+    {
+      "character": "Resolution Clerk",
+      "text_en": "My apologies, Your Majesty! This man, he does no work. Instead he drinks his days away on True Vue."
+    },
+    {
+      "character": "Resolution Clerk",
+      "text_en": "He has only himself to blame if he has no credits for souls."
+    },
+    {
+      "character": "Frantic Man",
+      "text_en": "That's not true! I'm a fighter at the Arcadion—or rather, I was!"
+    },
+    {
+      "character": "Frantic Man",
+      "text_en": "I haven't been allowed to fight because of the king's decree! It isn't my choice!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I see, you're a brave warrior of the arena."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I want to help you, I sincerely do, but I cannot give you preferential treatment."
+    },
+    {
+      "character": "Frantic Man",
+      "text_en": "Then open up the Arcadion again so I can fight!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm sorry, but that's not my decision to make. The king requires feral souls for war. He doesn't wish for them to be expended on amusements."
+    },
+    {
+      "character": "Frantic Man",
+      "text_en": "You're useless! A queen in naught but name!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "[WRY LAUGHTER]"
+    },
+    {
+      "character": "Resolution Clerk",
+      "text_en": "Insolent wretch! How dare you take that tone with Her Majesty!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's quite alright. Such things don't bother me, nor do I think ill of this man."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Hear me. Though I cannot grant you a soul, I mean it when I say I want you to live."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I love all of you equally. Dearly. You are as family to me, and it pains me to see you deny yourself hope."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I want you to find a happiness all your own, even if you must grow it from the smallest seed of joy. Out there, somewhere, is a reason for you to smile again."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We all need to vent our frustrations from time to time. I will always be willing to lend an ear."
+    },
+    {
+      "character": "Frantic Man",
+      "text_en": "Yes, ma'am... Of course..."
+    },
+    {
+      "character": "Frantic Man",
+      "text_en": "Even without a spare soul, I suppose I'm fine as long as I stay in Solution Nine."
+    },
+    {
+      "character": "Frantic Man",
+      "text_en": "I apologize for my rudeness. Good day to you."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Keep your chin up, my friend! And when you feel better, I'm sure you'll find another way to apply your talents."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ahaha... I'm sorry you had to see that. Let's keep moving, shall we?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Right—I believe we've visited all the main facilities. With that, I declare our tour concluded!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That man from before... Does that sort of thing happen often?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Somewhat. It's unavoidable. Hardships are a fact of life."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Our soul management system has sustained our realm for generations, but it isn't without flaws."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For one, people have become accustomed to having spare souls. Without them they feel vulnerable and anxious. Some claim it may also have contributed to a decline in births."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just thinking out loud, but would it be possible to do away with the system?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know it isn't easy to change one's beliefs and way of life. The Mamool Ja had their reasons for their reliance on blessed siblings, much as you have yours for souls."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But if we defeated Zoraal Ja, you'd be able to make all the decisions, right?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then we could work together to fix things. Restore your realm to where it belongs, and see where we can go from there."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Listen to me. There's something that I need to tell you..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is it?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A-Actually, never mind. It's nothing of import."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Well, it was lovely showing you around."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course, of course."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thanks so much for the tour. We've learned not only about your realm, but you as well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "For now, our priority is Zoraal Ja."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But once we've dealt with him, perhaps I can return the favor and show you Tuliyollal."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'd like that very much!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It seems I've no choice but to continue down this path..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Forgive me, Vow Wuk Lamat, but I must disappoint you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What was Sphene wanting to tell us, I wonder..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, it can wait for another time. We've been exploring for a while now and should probably go to Cahciua's meeting point."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That'll be back the way we came...I think?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene genuinely cares for her people. I can respect her for that."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And thanks to her tour, I've come to better understand the lives of Alexandrians."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They don't feel so strange and distant anymore."
+    }
+  ]
+}

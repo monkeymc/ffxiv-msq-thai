@@ -1,0 +1,376 @@
+{
+  "id": "a-father-first",
+  "wiki_path": "/wiki/A_Father_First",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/2/24/A_Father_First.png",
+  "patch": "7.0",
+  "title_en": "A Father First",
+  "level": "92",
+  "location": "Tuliyollal(X:16.1,Y:11.2)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, I have some things to take care of at the palace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "While you can pass the time however you like, I'd suggest you head back to the cabins."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "After all, even heroes need to rest, and we still have a big journey ahead of us!"
+    },
+    {
+      "character": "Landsguard Messenger",
+      "text_en": "At last..."
+    },
+    {
+      "character": "Peshekwa",
+      "text_en": "Welcome back, sir / madam . You've had a Landsguard messenger most anxiously waiting on your return."
+    },
+    {
+      "character": "Landsguard Messenger",
+      "text_en": "Forename of the Third Promise's entourage? I've been all over the city looking for you."
+    },
+    {
+      "character": "Landsguard Messenger",
+      "text_en": "The Dawnservant summons you to the palace. You are to present yourself to the gate guard stationed outside Sunperch at your earliest convenience."
+    },
+    {
+      "character": "Landsguard Messenger",
+      "text_en": "Oh, and one more thing: you are not to mention this visit to Wuk Lamat."
+    },
+    {
+      "character": "Sunperch Guard",
+      "text_en": "The Dawnservant awaits you within. While I was not informed of the reason for your audience, in terms of attire, I would suggest full battle regalia."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Forgive me this sudden summons."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "When I learned my daughter's champion was back in the city, I couldn't resist the opportunity."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "And they call me Head of Resolve for good reason─old as I am, I have not lost a battle worthy of the name since the day I took the throne."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "And I've been craving a proper challenge. The lance-wielder, Estinien, he fought well enough...but our bout was ended before a victor could be decided."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Judging by the sailors' gossip, you are a warrior of renown in your homeland."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Yet I wonder─with all your deeds done and victories won..."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Are you warrior enough to stand against me?"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "[HEARTY LAUGHTER - “Gwahahaha!”]"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "A spirited answer! Why not, indeed!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "[AMUSED SNORT]"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Not even the slightest hint of fear... I knew you were no pretender."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "[AMUSED SNORT]"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Do you think me unworthy? I'll soon change your mind!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "The battle rage is upon me! I'll stop short of killing you, of course...but expect no other mercies!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Come! Ready your arms and show me the truth of the tales!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Give it your all─I want a fight to remember!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Let's test the waters!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "They didn't even blink."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "You can do better than that!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "I see you know the viper style..."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Have you ever fought a viper?"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Hah! Let's see how you handle this!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "The spearman did not lie. Very well, then!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Resolve and Reason kindle..."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Oh, right."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Hah! Did you think you had my measure?"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Take this!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Still holding up?"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "We're far from finished!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "No more holding back!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Stay alert!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Hyaaah!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "You fight well indeed!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Hah!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "You really are formidable!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Now we'll see what you're truly made of..."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Hraaaaaargh!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "That will do! You've shown me more than enough!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "I've brought my full strength to bear against opponents before, but you are the first to withstand it."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Even with my Head of Reason asleep, I never expected you to give me so much trouble..."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Estinien did not exaggerate: you are a force to be reckoned with!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "[HEARTY LAUGHTER - “Gwahahaha!”]"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Now, a confession. I said I craved a challenge, and that was no lie...but I had another reason for calling you here."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "I had to judge for myself if you were fit to attend my beloved daughter."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "In some respects, she is much like me: hot-headed and prone to rush into danger."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "But one with your adamant defense could shield Lamaty'i from those who would do her harm."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "But one with your healing touch could sustain Lamaty'i even as she contends with the most fearsome of foes."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "But one with your talents could readily dispatch the threats that bar Lamaty'i's way."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Will you hear my question and answer me plainly? Address me not as the ruler of Tuliyollal, but a concerned father."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Thank you."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Then tell me, given your journey together thus far, what is your impression of Lamaty'i?"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Whether it be as Third Promise, or just a companion on the road. Speak your mind."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "[AMUSED SNORT]"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "A tactful response. But agreed: she is not ready for the throne. Not yet."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Gwahahaha!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Well, I did ask you to speak your mind. But agreed: she is not ready for the throne. Not yet."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Lamaty'i thinks she understands our many peoples─their histories, their cultures, their beliefs. But she knows only what she's seen in the capital."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "And it's not only her who concerns me. Even this early in the contest, you must have realized..."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "As potential rulers, all four claimants are lacking."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "This is why I elected to hold the rite of succession─not to choose a fitting candidate, but to cultivate one."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "And if no one has impressed me by the end of it, then to no one will I yield my throne."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "As a parent, I pray that my children rise to the occasion..."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "With outsiders dragged into my game, I am also hopeful that the different perspectives you and your companions have to offer will inspire them to grow."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "I imagine you in particular have traveled many lands. Known many peoples and cultures─loved them and been loved in turn."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Guide Lamaty'i as you think best. Walk at her side and, when needed, push her to walk ahead."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I knew it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There I was, about to sit down for some of Namikka's cooking, when I heard that Papa had sent for you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You were dueling behind my back, weren't you!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Gwahahaha!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "I see there is no point in denying it!"
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "You needn't worry, Daughter: I took care not to inflict lasting injuries."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "You and your ally may return to the contest without disadvantage. No harm done!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I swear, just as I was learning newfound respect for my father..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's take our leave of this battle-mad oaf before he calls on the rest of my entourage."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Watch over her, champion."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "Koana's recruits are no less sharp─as one might expect of Galuf's countrymen. They saw the flaws in our claimants from the outset."
+    },
+    {
+      "character": "Gulool Ja Ja",
+      "text_en": "The other two, though... They dismiss comrades willing to point out their shortcomings, and no good can come of it..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If he had his way, Papa would keep dueling until the day he dies."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even now, I know of only three people who didn't need to be carried away after their bouts: Zoraal Ja, your lance-wielding friend Estinien, and yourself."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You really do live up to your fearsome reputation!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm curious, though. Did Papa want anything else of you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, if that's all it was..."
+    }
+  ]
+}

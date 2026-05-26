@@ -1,0 +1,788 @@
+{
+  "id": "targeted-tragedy",
+  "wiki_path": "/wiki/Targeted_Tragedy",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/4/4c/Targeted_tragedy1.png",
+  "patch": "7.3",
+  "title_en": "Targeted Tragedy",
+  "level": "100",
+  "location": "The Backroom(X:6.0,Y:6.3)",
+  "npc_start": "Shale",
+  "dialogues": [
+    {
+      "character": "Shale",
+      "text_en": "If you have a moment, Forename , Geode wants to take stock of the current crisis."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Oblivion may be lacking the finer details in certain areas, so we'd like you to lend your perspective to the conversation."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Sorry to drag you into our meeting, but we need to get a better handle on the threats Alexandria is facing right now."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not at all. Much has happened since the state funeral, and a clearer idea of where things stand would be beneficial for us as well."
+    },
+    {
+      "character": "Shale",
+      "text_en": "First things first, then─let's discuss the state of the machine malfunctions."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Every single sector reported instances of sentries attacking citizens without provocation, and vehicles suddenly becoming unresponsive to controls."
+    },
+    {
+      "character": "Shale",
+      "text_en": "And while these malfunctions were resolved fairly quickly, they nevertheless resulted in a considerable number of injuries and deaths..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But you haven't heard anything about new incidents since then, right?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Right. No additional reports have been logged, as far as I know. That's the good news."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The bad news is, I tried to take control of the soldiers when they started hurting people, but they wouldn't listen to me─even though I have the king's authority."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Once things calmed down, I was finally able to make them give up their weapons. But...if it happens again, I don't know if they'll ignore me like before."
+    },
+    {
+      "character": "Geode",
+      "text_en": "The King of Resolve's authority is about the highest there is. Who is this man that can override it with such impunity?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx... He lived in the age of the Storm Surge, as I did."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Lest you forget, he was known for his advancements in electrope technology, and it was he who established Preservation for the purpose of furthering his research."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The wasting disease which afflicted him, however, was said to leave him scant years left to live... He must have chosen to undergo conversion into an Endless, that he might continue his efforts into the present day."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Preservation's early goals seemed noble enough─exploring treatments for levin sickness, designing Everkeep's core system, that sort of thing."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Why harm the people he was ostensibly trying to help...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I do not pretend to fully understand Calyx's motivations... Only that he appeared incensed by what he saw as mankind's failings."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He asserted that the strategy of adapting our species through generational succession was outdated; that evolution now requires us to forsake bodies of flesh in favor of eternal preservation."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We've already seen how he's employed the simulant to convince Alexandrians that Endless conversion is their only hope for survival."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Eternal life is “assured” for the five thousand who register their neo regulators..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But this is merely one part of Calyx's greater plan."
+    },
+    {
+      "character": "Krile",
+      "text_en": "He wants the key to interdimensional fusion. With that relic in his possession, he will draw aether from the reflections, and expand his efforts to create Endless a thousandfold."
+    },
+    {
+      "character": "Shale",
+      "text_en": "If we mean to foil Calyx's schemes, then our only option is to determine where he's hiding and put him down."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Which, unfortunately, is easier said than done. I've been scouring the terminal we found in the depths of Everkeep, but I've failed to uncover even the slightest trace of his activities."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Give me a little more time, though, and I'm sure I can sniff him out."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll help you!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "While Gulool Ja and Shale are working on that, I think I'm going to take a look around town."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I want to make sure no new problems have cropped up, as well as search for any information that might lead us to Calyx."
+    },
+    {
+      "character": "Geode",
+      "text_en": "You're welcome to come along. Another “malfunction” could happen at any time, and I'd be glad to have some brawlers at my back."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Count me in!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Raha and the others are helping Oblivion patrol the other levels of the keep, so shall we stick to the streets of Solution Nine?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Sounds like a plan. Thanks, you two, I appreciate the company!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I have to speak with the city's administrators about bringing in the Landsguard. I want our soldiers around to protect those who're moving to Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alphinaud and Alisaie will be joining me for the meeting, so the three of us can cover that sector as soon as we're done!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If I may..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'd like to join Forename 's group, if you'll have me?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "The more mouths to ask questions, the merrier. As long as you're aware of the dangers."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you! I'll do my best not to be a burden."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'm more worried about you, Geode. Don't do anything stupid."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Pfft, you'll change your tune once we get back with the goods on Calyx. Then the drinks are on you!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Come on, let's continue this outside."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I wish I could grow up faster... There'll be so much more I can do when I'm bigger like you."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Good luck with your patrol, and take your time. We can do without Geode until you're done with the old sot."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ah, sorry. Just when I think I've internalized better manners, talking with Geode brings back all the old bad habits."
+    },
+    {
+      "character": "Genolt",
+      "text_en": "Seems the machines've gone quiet again, so I can get back to maintainin' the weapons around here. Hope for the best, but prepare for the worst, as they say!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I will do my utmost to ensure the happiness of Alexandria and its people..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The city looks as though it's regained a sense of normalcy. Alas, the people will not soon forget recent events..."
+    },
+    {
+      "character": "Disquieted Citizen",
+      "text_en": "I finally got my hands on a neo regulator─and then came this close to crashing into a hover cargo!"
+    },
+    {
+      "character": "Disquieted Citizen",
+      "text_en": "The day I become Endless can't come soon enough... I only hope I live that long."
+    },
+    {
+      "character": "Geode",
+      "text_en": "...Sorry, I was off in my own little world! Shall we get started?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "They do, and can't say as I blame them."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Me...? I'm well enough, given the circumstances."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Right you are. It's time we took some action."
+    },
+    {
+      "character": "Geode",
+      "text_en": "It was the queen's fondest wish that her subjects remain shielded from the horrors of death. And so they were for the longest time."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Then, the moment mortality once again becomes an unavoidable fact of life, they're greeted with an outbreak of bloody violence."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Many are bound to give the Endless alternative serious consideration."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Indeed, and I do not blame them for that. It is only natural that such thoughts should come to mind."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What I cannot forgive is the way Calyx wields fear and misery to manipulate people into making that choice."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No one─not Calyx, nor anyone else─should dictate how we cope with the specter of death."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As one who lived as an Alexandrian, I wish to put the choices for this country's future back into the hands of its citizens."
+    },
+    {
+      "character": "Geode",
+      "text_en": "And you think we can handle that responsibility? After everything you've seen of us?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It is what I've seen that has convinced me you can."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I awoke four centuries later to find our people living and laughing beneath Alexandria's banner. Though surprised and bewildered, I was overjoyed to see it so. You all deserve to be happy..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "...Well, then."
+    },
+    {
+      "character": "Geode",
+      "text_en": "We'd best not let you down!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Now, I suggest we move as a group─we don't know if or when a battle might find us."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh. I believe someone came prepared for just such an eventuality."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that the grimoire you retrieved from the old castle?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, my parents gifted it to me when I was a child. They were adamant that I should learn to protect the things important to me."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I was fortunate enough to have a tutor in the arcane arts, so I lay claim to some small measure of skill."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If that's the case, it might be better if we split into two groups after all. 'Twould certainly be more efficient for information gathering!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "I, uh... I guess that makes sense?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "The two of you can take the west side of the recreation zone, then."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Forename and I will take the east."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Very well. We shall end our patrol in the plaza just past True Vue and await you there."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My grimoire is inlaid with electrope in a manner which augments arcane power. It should prove a useful tool."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'll keep my eyes and ears open. Any information could be helpful, no matter how seemingly insignificant."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Let's do the rounds, then. We'll see what's what, and chat to the people we meet along the way."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Pay special attention to anyone who looks overwhelmed or overly excited. Hopefully that will earn us a tidbit or two we didn't know before."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I'm guessing you would've preferred to go with Sphene and Krile, but I'm afraid you're stuck with me. I grow on people, though, I promise."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Need to step away? Fair enough. I'll wait for you outside the Neon Stein."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Ready to head out again?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Ah, the memories... I used to drink around here all the time."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I made sure not to overdo it when I had work the next day, but once we were past the busy season─or when the ladies weren't amenable to my company─well... You'd have to scrape me off the street outside in the morning. Or afternoon."
+    },
+    {
+      "character": "Geode",
+      "text_en": "The worst I ever got was on what should have been the worst day of my life...if only I could remember it. I was still wearing a regulator back then."
+    },
+    {
+      "character": "Geode",
+      "text_en": "It was also the day I first met Shale, although I guarantee she's forgotten it completely."
+    },
+    {
+      "character": "Light-hearted Citizen",
+      "text_en": "There, it's done!"
+    },
+    {
+      "character": "Light-hearted Citizen",
+      "text_en": "What has me in such a fine mood, you ask?"
+    },
+    {
+      "character": "Light-hearted Citizen",
+      "text_en": "Well, I've just registered my new regulator. I was leery of becoming nothing but memories at first, but now that I've gone through with the registration, I've never felt more at ease!"
+    },
+    {
+      "character": "Light-hearted Citizen",
+      "text_en": "Also, once it was done, the regulator displayed the current numbers. Of the five thousand slots available, over thirty-eight hundred have already been filled."
+    },
+    {
+      "character": "Light-hearted Citizen",
+      "text_en": "So if you're still hesitant, you've not much time to make your mind up. Mark my words, friend: when there's only a few slots left, it's going to get very ugly."
+    },
+    {
+      "character": "Light-hearted Citizen",
+      "text_en": "We'll be seeing fights over neo regulators in the very near future. Should you get one, I suggest you register right away."
+    },
+    {
+      "character": "Somber Citizen",
+      "text_en": "<sigh>"
+    },
+    {
+      "character": "Somber Citizen",
+      "text_en": "Are the sentries and air-wheelers safe to be around now?"
+    },
+    {
+      "character": "Somber Citizen",
+      "text_en": "I just know it's going to happen again...and maybe next time I'll be the one who dies in a horrible accident."
+    },
+    {
+      "character": "Somber Citizen",
+      "text_en": "I need a neo regulator. Becoming Endless is the only way─even Queen Sphene said so!"
+    },
+    {
+      "character": "Somber Citizen",
+      "text_en": "But how to get one...? Maybe I can convince someone who's unsure to give me theirs."
+    },
+    {
+      "character": "Grieving Citizen",
+      "text_en": "You look familiar..."
+    },
+    {
+      "character": "Grieving Citizen",
+      "text_en": "You want to hear my story? While I appreciate you offering a sympathetic ear, there's not much to tell..."
+    },
+    {
+      "character": "Grieving Citizen",
+      "text_en": "If you must know, a good friend of mine died when those machines went crazy. His air-wheeler dropped right out of the sky, and he didn't survive the crash."
+    },
+    {
+      "character": "Grieving Citizen",
+      "text_en": "Damn fool wasn't wearing a regulator... I know that's not so strange these days, but he'd never bothered with one."
+    },
+    {
+      "character": "Grieving Citizen",
+      "text_en": "He was at peace with the idea of dying someday, and I thought I understood what that meant. Until it happened..."
+    },
+    {
+      "character": "Grieving Citizen",
+      "text_en": "We used to forget people after they died. No memories. No grief. I'm not sure if we'd be better off if that was still the case."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Forename , a word?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "I feel like there was a new factor in these stories we've heard. One we hadn't considered during our discussion with everyone in the Backroom..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "That's a point of concern, don't get me wrong, but I think we were acutely aware of it already..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "The fact that nearly four thousand people have registered is worthy of its own report. But are you sure there wasn't anything else...?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Yes, that's it!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "The vast majority of residents have always worn regulators, so it's not a detail we'd normally think about. With the supply of souls cut off, though, more and more people have been going without them..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "We need to look into the casualties from the recent attacks, and check whether or not they were equipped with regulators."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Let's ask around on the street over to the east. It was pretty chaotic at the time, but maybe we'll find eyewitnesses who can help us confirm if this was a pattern or not."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Aside from Oblivion members, only a handful of people used to go out and about without regulators. How times have changed."
+    },
+    {
+      "character": "Geode",
+      "text_en": "It was once my job to deliver goods by hover cargo. That's why I know a fair number of names and faces throughout the city."
+    },
+    {
+      "character": "Geode",
+      "text_en": "The little ones who'd jump for joy when I brought them packages... The old lady who'd always greet me with a smile... I'd hate for anything bad to happen to them."
+    },
+    {
+      "character": "Unarmed Sentry",
+      "text_en": "Hello, how are you today? Please let me know if I may be of service."
+    },
+    {
+      "character": "Unarmed Sentry",
+      "text_en": "...City-wide casualty data unavailable. Government officials are currently processing reports from all affected zones."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Can you narrow it down to the recreation zone, then? You must have some estimates on hand?"
+    },
+    {
+      "character": "Unarmed Sentry",
+      "text_en": "Recalibrating parameters. Injured: Eighty-seven individuals. Casualties: Nineteen individuals."
+    },
+    {
+      "character": "Unarmed Sentry",
+      "text_en": "Casualties equipped with regulators: Zero."
+    },
+    {
+      "character": "Unarmed Sentry",
+      "text_en": "Please remain calm: I am under orders to ensure the safety of our citizens. In the unlikely event of another mass malfunction, I will act to subdue any affected machines."
+    },
+    {
+      "character": "Unsettled Sanitation Worker",
+      "text_en": "I'm too scared of the sentries to clean anywhere near them..."
+    },
+    {
+      "character": "Unsettled Sanitation Worker",
+      "text_en": "You wish to know if the people who died in the machine rampage were wearing regulators?"
+    },
+    {
+      "character": "Unsettled Sanitation Worker",
+      "text_en": "I'm sorry, but I was assigned to clearing away debris. I didn't see any of the deceased."
+    },
+    {
+      "character": "Unsettled Sanitation Worker",
+      "text_en": "No bodies were present by the time I arrived, so I assume the ushers had already done their work..."
+    },
+    {
+      "character": "Unsettled Sanitation Worker",
+      "text_en": "I do remember there being patches of white dust scattered about that were quite a chore to clean up, but nothing else worthy of mention."
+    },
+    {
+      "character": "Unsettled Sanitation Worker",
+      "text_en": "It's terrifying to think that death might be waiting for us around every corner. But what can you do but keep working and hope for the best...?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "... Forename . I think it's time we rejoined Krile and Sphene."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I was half-joking with my boast to Shale, but we may have stumbled upon something major here. We should share our findings and keep pursuing this avenue of inquiry."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Didn't Krile say to meet them in the plaza just outside of True Vue? Let's get going."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Come on, we should meet Krile and Sphene at the plaza. Can't say I'm thrilled to have Shale owe me a drink over something like this..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Shall we go find Krile and Sphene, then?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...Is Geode not with you?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh? Did Geode have something else to attend to?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We've finished our patrol as well. Did it not seem that more people wanted neo regulators than before...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So, essentially, you're saying that the people who were killed by malfunctioning machines weren't wearing regulators!?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Well, the numbers are still tentative, and only apply to that one zone. We don't know how they'll stack up against the overall data, but...this is definitely more than a coincidence."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I think it's safe to say that anyone who had removed their regulator was a priority target."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Now that you mention it, the person I was treating for injuries wasn't wearing one either..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But, why? Why are they being targeted over everyone else?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Based solely on the lack of a neo regulator, we cannot judge if a person has no desire to become Endless, or if they simply failed to acquire one of the limited devices."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But those who wear no regulator at all..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "They have clearly rejected the old system of using souls to revive themselves."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Put another way, they have chosen to live their lives in the knowledge that death is an inevitability."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The chances that such resolute people would wish to become Endless are far lower, I would imagine."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And so Calyx has chosen those least likely to accept his vision as victims to stoke fear and panic..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "But there was no need to kill anyone!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "With the way things were, the people were already fearful enough─he could have found five thousand willing citizens without all this madness!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "You make a good point. Perhaps this sowing of terror is in service to another scheme, or he had some other need for the lives he's taken..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Right, the sanitation worker's story. She saw no bodies, but mentioned piles of white dust..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I wonder... What about that sanitation worker's story? She saw no bodies, but mentioned piles of white dust..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Dust, but no bodies? Now where have I heard that before..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Do you recall when we went to save Erenville from the sentries in the outskirts? That usher Malachite told us much the same thing."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "When I arrived, I found no body. Only a pile of dust, which the wind quickly scattered."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Confused, I questioned the residents, but none knew what had become of it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That both stories speak of missing remains is suspicious enough, but the shared mention of this dust is too much to ignore."
+    },
+    {
+      "character": "Krile",
+      "text_en": "In that case, we should confirm if this substance was present at other sites, and attempt to ascertain its nature."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Following this thread may lead us not only to an explanation for the missing bodies, but also the intent behind Calyx's murderous actions."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Forename , we need your help! I've lost control over the soldiers in the residential area. They might be trying to hurt people again."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Oblivion members are on their way now, but are you close enough to join them?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Dammit! Our new investigation will have to wait... Let's go!"
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "S-Stay back! Stay away from me!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Leave him alone!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Are you alright?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "What happened here?"
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "A sentry walked into my apartment...even though I'd locked the door and everything!"
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "I managed to run, but the man who tried to save me..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "No weapons. Which is to be expected, considering all the sentries were meant to be disarmed."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yet it was ordered to attack all the same...even if that meant using its bare hands..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I'll leave matters here to you. I'm going to do a sweep of the surrounding area."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Do you know anyone else in this sector who no longer wears a regulator?"
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "Uh... Oh, I don't think I've seen Isadora and her boy with theirs recently..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Go to them─quickly!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wayakkwe!"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "I'll be fine. But Isadora's in bad shape..."
+    },
+    {
+      "character": "Milos",
+      "text_en": "Mother! Mother, please..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Isadora!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank goodness, she wasn't struck anywhere vital..."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "I'm sorry... If only I'd gotten here sooner..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Everything will be all right. I promise to make your mother better."
+    },
+    {
+      "character": "Milos",
+      "text_en": "Thank you, miss..."
+    },
+    {
+      "character": "Milos",
+      "text_en": "Will she sleep like that forever...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No, not forever. She'll wake soon, I'm sure of it."
+    },
+    {
+      "character": "Milos",
+      "text_en": "That's good to hear..."
+    },
+    {
+      "character": "Milos",
+      "text_en": "Thank you for saving her."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "THE PROMISE OF TOMORROW"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "She should recover in due course. I'm glad we arrived when we did..."
+    },
+    {
+      "character": "Milos",
+      "text_en": "When I was sick and couldn't move, my mother was always at my side, always keeping me company. And I'm going to do the same for her!"
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "Why...? Why is this happening...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'll take care of this gentleman. Go and check on Isadora and Milos!"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Forgive me, I was reckless... You shouldn't have had to waste time tending my wounds as well."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Did you see our other comrade back there? He stayed behind in the lobby, but I heard the sounds of fighting..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He... I am sorry. He must have fallen protecting the residents..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For their sakes, I have to remain calm..."
+    }
+  ]
+}

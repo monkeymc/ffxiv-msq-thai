@@ -1,0 +1,392 @@
+{
+  "id": "alexandria-mourns",
+  "wiki_path": "/wiki/Alexandria_Mourns",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.1",
+  "title_en": "Alexandria Mourns",
+  "level": "100",
+  "location": "The Backroom(X:6.0,Y:6.3)",
+  "npc_start": "Gulool Ja",
+  "dialogues": [
+    {
+      "character": "G'raha Tia",
+      "text_en": "For the people to take it on themselves to organize and hold the funeral... It speaks to their enduring love for Sphene."
+    },
+    {
+      "character": "Krile",
+      "text_en": "From a group that plotted to undermine a tyrant king from the shadows to one that aids their fellow citizens in the open... Oblivion has come a long way."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's a relief to see that Gulool Ja is doing well. He's been through too much for one so young."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Although I've been in the Backroom before, there was no time to see the sights. I should like to take a closer look at the equipment."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa always said he didn't want a somber funeral, so we celebrated his life together with our victory. I'm sure he would've loved it..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I like to think he was watching us from the world beyond, filling his cup every time we filled our own."
+    },
+    {
+      "character": "Shale",
+      "text_en": "While we proposed the funeral, the royal administration took on the brunt of the planning. One of their number can better explain what the ceremony will entail."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The flowers are being handed out at Praxis Park. I'm thinking of heading over there now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll join you. There's a man I would like to speak with─Gossan. He was apparently Sphene's aide, and the one who sent us the invitation."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, let's go."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All correspondence was being handled by the Wing of Reflection, so this is my first time speaking with Gossan."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Judging from all the activity, I presume the funeral will be held here."
+    },
+    {
+      "character": "Krile",
+      "text_en": "While it appears souls are still being issued, supply must be limited now that they're no longer being harvested. The grim faces in the queue tell the tale."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It makes sense that Sphene had loyal aides such as Gossan, given how much time she dedicated to walking among her people."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Wuk Lamat's attendance will surely help strengthen relations between the two nations. I get the strong impression that both Tuliyollal and Alexandria wish to put this tragic past behind them."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Here he is. Gossan."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Why, you're..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm Vow Wuk Lamat of Tuliyollal. Thank you for extending us an invitation to Queen Sphene's funeral."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "We are honored, truly. I had seen you before from a distance, but never had the pleasure."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "I am Gossan, former chief aide to the queen. Since her passing, I have been responsible for administering affairs of state."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Um, can we get our flowers here?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Yes, Your Majesty. The flowers are being handed out at the counter yonder, alongside the regulators."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What? We need to wear regulators for the funeral?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Ah, rest assured they are not a requirement. We're aware your people do not use them."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "You see, people in the Alexandria of old wore tokens of mourning upon their persons when attending funerals."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "As such tokens were black, it was suggested that we might wear regulators painted the same color."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "We've yet to produce enough for everyone, but we're distributing them as we are able."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see..."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Yet regulator or no, the important thing is that we remember Queen Sphene. Remember her and her kindness as you make an offering of your flower."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "The proceedings will soon begin in this plaza. Please take your place once you have your flower."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Although we are gathered here for the same reason, we hail from different lands."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Some were born and raised in the Alexandria of old, while others came to us from Tuliyollal."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "It was from this union of diverse peoples that a new Alexandria was born─the only home that our younger generation knows."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "How did we overcome the barriers between us? What moved us to join hands in common purpose beneath crackling skies?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "You know the answer. We survived─we thrived─because Queen Sphene brought us together."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Inspired and encouraged by her boundless kindness, we strove to be better, for ourselves as well as those around us."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "And in Her Majesty's absence...there is a sadness beyond words. Yet we must─we will remember her. Remember all the good that she has done for us."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "So let us pray, as the people of the old kingdom once did, for the peaceful repose of the departed."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "And let us keep our beloved queen forever in our hearts, that her memory might guide us unto the morrow."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Would that I could find solace in my own words..."
+    },
+    {
+      "character": "Pensive Boy",
+      "text_en": "Was Queen Sphene taken to the cloud?"
+    },
+    {
+      "character": "Boy's Mother",
+      "text_en": "She must have been. To still remember her...is strange, isn't it, darling?"
+    },
+    {
+      "character": "Pensive Boy",
+      "text_en": "I miss her. She would always cheer me up when I was down."
+    },
+    {
+      "character": "Pensive Boy",
+      "text_en": "But even though I remember her, I'll never see her again? That doesn't make sense!"
+    },
+    {
+      "character": "Boy's Mother",
+      "text_en": "It seems that's what it means to die, I'm afraid."
+    },
+    {
+      "character": "Pensive Boy",
+      "text_en": "But...but what will happen to us? Are we just going to be sad forever?"
+    },
+    {
+      "character": "Mourning Man",
+      "text_en": "What will happen indeed..."
+    },
+    {
+      "character": "Mourning Man",
+      "text_en": "Everything that we have, we owe to Queen Sphene. How are we to go on without her?"
+    },
+    {
+      "character": "Mourning Woman",
+      "text_en": "I still remember Her Majesty so clearly... If only I didn't, I might feel better about the future of our realm."
+    },
+    {
+      "character": "Mourning Man",
+      "text_en": "Perhaps we should also consider moving to Tuliyollal. The journey won't be easy, but it'd be better than staying here in uncertainty."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In times like these, I take comfort in the beliefs of a Turali people called the Yok Huy."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To them, death isn't the end. So long as we're remembered, we never truly die."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It could be the same for Queen Sphene, you know? If you keep her alive in your hearts, she'll always be with you."
+    },
+    {
+      "character": "Pensive Boy",
+      "text_en": "But...we still won't be able to see her, right? I don't want to think about that..."
+    },
+    {
+      "character": "Pensive Boy",
+      "text_en": "I wish I could just forget instead of having to feel like this..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sorry, I didn't mean to impose... Please, mourn your queen however you see fit."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As expected, they struggle to come to terms with their loss. I hope they can find a way to move forward."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's not only grief that weighs on them, but worry for the future. Bereft of their queen, how will they proceed..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "True... But with that, at least, we're not powerless to help."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is it, Gulool Ja?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I was wondering... Is it better to remember or forget someone when they're dead?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I remember my father. And every time I think of him, it hurts."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It's the same with Queen Sphene. Knowing that she's gone makes me feel sad."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But it's different with my mother. I never knew her, so I don't feel as bad."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I want to remember my father. But maybe I'd be better off forgetting him..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gulool Ja..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Why don't we continue this somewhere else?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm sorry. I shouldn't have brought that up..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Simply leaving Alexandria won't solve all their problems, I fear. The problem runs deeper than that."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This seems a good place to continue our conversation."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Seeing that child reminded me of myself. Of how hard it was for me to accept that Grandfather was gone."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But that sadness is what gave me the strength to come this far, and I would never choose to forget it. Never."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I hope the altar can provide comfort to those who need it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, Gulool Ja? Do you really know nothing at all about your mother?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Shale searched the system for information on residents, but the only Mamool Ja she found listed were my father and me."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Even if she died and was erased from people's memories, she should've been there. But she wasn't..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, that you're here means she was here too, inside the dome. There can't be any other way about it."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Maybe... It's hard to explain. I'm not sad, but I feel like...like I'm missing something."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "So even if it makes me feel sad, I want to know my mother."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I think so. Even if it makes me feel sad, I want to know her."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "So I want to try looking again. And if I don't find anything this time, I'll give up."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see... Well, if that's what you want..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Then I'll help you!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'd like to help as well, and I believe I speak for the others too."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But...I can't bother you with this. You already came for the funeral..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We came here not only for the funeral, but to see whether all was well in Alexandria. We're not about to leave just yet."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Besides, in seeking to learn about your mother, we're bound to learn about your father as well."
+    },
+    {
+      "character": "Krile",
+      "text_en": "By retracing the steps of this man who kept his own counsel, we may gain knowledge that can serve the people of Alexandria."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "...Alright. Thank you, everyone!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "We might learn more about my father, too? I hadn't thought of that."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can very much relate to his feelings. I pray Gulool Ja finds what he seeks."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If no records remain of Gulool Ja's mother, then where do we begin our search?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I understand all too well Gulool Ja's desire. For the longest time I found my own father's actions inexplicable..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If this is what Gulool Ja wants, then I'll help him however I can. After all, we're family!"
+    }
+  ]
+}

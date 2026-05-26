@@ -1,0 +1,360 @@
+{
+  "id": "a-darkness-in-the-heart",
+  "wiki_path": "/wiki/A_Darkness_in_the_Heart",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.3",
+  "title_en": "A Darkness in the Heart",
+  "level": "100",
+  "location": "Earthen Sky Hideout(X:6.2,Y:5.9)",
+  "npc_start": "Shale",
+  "dialogues": [
+    {
+      "character": "Shale",
+      "text_en": "It's time I went back to locating Calyx's lair."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I have a new strategy in mind, but it remains to be seen if it will aid in narrowing down the possibilities."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'll ask Krile for help. I want to reexamine the data, starting with that of her parents."
+    },
+    {
+      "character": "Shale",
+      "text_en": "After all, they were the first to break away from Preservation and establish an organized resistance with Oblivion. There must be something in there that can point us in the right direction."
+    },
+    {
+      "character": "Shale",
+      "text_en": "What are your plans, Forename ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Forename , is that you? Apologies for calling suddenly."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I've been making the rounds in the outskirts, and I cannot help but feel as though something is amiss."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Might I ask you to join me? Your perspective would be most appreciated. It can wait until you've finished attending to Shale, of course."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It seems your plans have been decided for you. Go on─I've others to speak with before I return to the Backroom."
+    },
+    {
+      "character": "Shale",
+      "text_en": "As long as the memories remain, this wound in my heart will never fully heal. But it might be better that way."
+    },
+    {
+      "character": "Shale",
+      "text_en": "To feel something─even pain─is to remember that they lived. And to know that I am still alive."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "I'll be fine now, just fine..."
+    },
+    {
+      "character": "Trembling Resident",
+      "text_en": "I can't... I can't go on like this..."
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "Wh-What do you want...? You can't have my regulator!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Forename , thank you for coming!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As I mentioned, I would benefit from your worldly experience."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Perhaps it is my imagination, but the townspeople appear to be acting oddly. That is, even considering the current state of affairs."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As I am yet unfamiliar with the outskirts, I thought you might be better equipped to judge if their behavior is unusual or not."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Would you speak with them and see what you think? Though I hope to be proven wrong, I fear something is not right here..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's nothing so obvious as loud wailing or acts of violence, but... Well, it would be best if you saw for yourself."
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "You... You're not wearing a regulator!? Don't you know the end is coming!?"
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "Well, it's your life to lose. Me? I got myself one of those neo regulators and registered a little while ago."
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "As soon as I did, a display appeared showing the number of registered users. Right now it's sitting at four thousand one hundred and sixty-eight."
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "The upper limit was five thousand, wasn't it? Seems the total shot up right after those machine malfunctions. It's only a matter of time before everyone's registered."
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "I pity those who weren't chosen, but I'm going to be an Endless. I'm going to evolve, and live happily ever after..."
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "I hope you come to your senses and get your hands on a neo regulator, friend!"
+    },
+    {
+      "character": "Trembling Resident",
+      "text_en": "Oh, please tell me you brought more neo regulators! Officially , they've all been handed out already, but I've heard rumors there were a few left over..."
+    },
+    {
+      "character": "Trembling Resident",
+      "text_en": "Surely the government still has some? Or perhaps Queen Sphene!?"
+    },
+    {
+      "character": "Trembling Resident",
+      "text_en": "I may not look it, but I was a hunter once. Back then, I hardly gave death a second thought. But now that I know the truth, it's all I can think about!"
+    },
+    {
+      "character": "Trembling Resident",
+      "text_en": "There has to be a way to hold on. There has to..."
+    },
+    {
+      "character": "Trembling Resident",
+      "text_en": "I can't go on like this..."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Greetings! I remember when you visited with Queen Sphene... Come to check on our well-being, have you?"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Well, I can say that things are rather stressful out here as well."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Without knowing if or when our machinery might turn murderous, the specter of death is ever present. People are terrified, and the clamor for neo regulators has reached a fever pitch."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "I, personally, was fortunate to have claimed a new device early on, and have long since completed the registration. Death has no hold over me now."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Now, I must begin my prayers. The darkness draws closer, grows deeper...and we must cast it out..."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "I must pray..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So, what do you think? Was I right to worry?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, that is exactly it..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The people are overwhelmed by uncertainty and fear. And with each new registration, that fear inside them grows more insistent..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "How long until it drives them into full-blown panic?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Forename ! Can you come to Resolution?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We have a problem... I'm already here with Lamaty'i and Alphinaud."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It sounds like she wants us there in a hurry. We should go!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What's happened?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Sorry to drag you out here, but I thought it best you see for yourself..."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Death is your constant companion."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Though you toil with diligence, death may come ere your reward is bestowed. Though your grand works be poised for completion, death may come ere you wake the following morn."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Though you enjoy a life of peace and good fortune, death needs but one instant to claim you."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Your bodies are weak. Your heart, your brain, every fragile organ rolls the dice from moment to moment, sheer chance deciding if they function or fail."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Be you stoic or generous or righteous, no virtues tip the scales in that fatal reckoning."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "The choice is made without reason. The end is cloaked in terror. That is what it means to die."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The announcement began after we finished our meeting with Gossan. As for its source, well..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx..."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "There is no shame in being afraid. It is that very fear which will drive you to conquer death."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Let us set a new course for mankind. Let us preserve our existence unto perpetuity."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Hope for it. Wish for it. Pray for it. We will become Endless."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "With evolution's brilliance will we banish the ever-present darkness of mortality..."
+    },
+    {
+      "character": "Neo Regulator-equipped Citizen",
+      "text_en": "Change isn't easy. No one ever wants to take the first step."
+    },
+    {
+      "character": "Neo Regulator-equipped Citizen",
+      "text_en": "But this...this is the right path for us. What other way could there be? I'm gonna do it─I'm going to register!"
+    },
+    {
+      "character": "Agitated Citizen",
+      "text_en": "Vow Wuk Lamat!"
+    },
+    {
+      "character": "Agitated Citizen",
+      "text_en": "You couldn't have come at a better time. Please, you have to let us move to Tuliyollal!"
+    },
+    {
+      "character": "Confounded Citizen",
+      "text_en": "It's too dangerous to stay here. And who knows when the next sentry will turn on us..."
+    },
+    {
+      "character": "Confounded Citizen",
+      "text_en": "Even if we wanted to become Endless, there are no more neo regulators to be had... Fleeing is our only option."
+    },
+    {
+      "character": "Neo Regulator-equipped Citizen",
+      "text_en": "If the solution was as simple as leaving, then we'd all have left already. Did you not hear the announcement? For the living, death is a foregone conclusion."
+    },
+    {
+      "character": "Neo Regulator-equipped Citizen",
+      "text_en": "No matter where we go, or who we shelter with, we won't get another chance like this to overcome our fate."
+    },
+    {
+      "character": "Agitated Citizen",
+      "text_en": "Easy for you to say when you have that regulator!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Landsguard are on their way as we speak, and arrangements have been made to see that you all will be safely evacuated."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Tuliyollal will aid you in whatever way we can..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So please, remain calm."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I want to help Alexandria. I want to save its people..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But what can I do?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I am not their queen..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "First those deadly malfunctions, and now a city-wide announcement. He has spent considerable effort recruiting his five thousand Endless. Perhaps more than necessary, even..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We had the hopefuls who descended on Lamaty'i disperse for now. We could see tempers in the crowd were starting to fray..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This latest wave of attacks may not have been as widespread, but people are reaching their breaking point. We have to stop Calyx, and soon."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sorry I couldn't be there in time. Krile told me everything that happened while we were away..."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "My apologies. The sign is not responding to any of our attempts to change the display or switch it off..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx has access to the core system... Which means that if he chose to do so, he could deploy the soldiers beyond the barrier."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Even if our people learn to live with death and decide to leave the dome behind, they will not be beyond his reach."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yet if it serves to allay their fears even a little, I beg you, Wuk Lamat: please let them shelter in Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We will welcome any and all who want to come. We've already begun evacuations, and we'll be able to pick up the pace once the Landsguard arrives."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In which case, we had best spread out and keep an eye on the crowds. The mood is tense, and we must prepare for possible violence."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If you happen to determine where Calyx is hiding, though, we'll be ready to move at a moment's notice."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Surely we'll find a clue of some kind soon. He can't elude us forever."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Violence and fear... This is not the future she envisioned for her nation."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You give so much of yourselves to aid those in need. I must endeavor to find my own small way to help..."
+    }
+  ]
+}

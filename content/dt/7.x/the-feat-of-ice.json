@@ -1,0 +1,288 @@
+{
+  "id": "the-feat-of-ice",
+  "wiki_path": "/wiki/The_Feat_of_Ice",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Feat of Ice",
+  "level": "93",
+  "location": "Urqopacha(X:5.4,Y:24.2)",
+  "npc_start": "Thancred",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll make Bakool Ja Ja answer for this!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The matter of outdoing our father aside, this was the best outcome we could have hoped for. Never again will our people need fear the looming shadow of the Skyruin."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Didn't I tell you? I pull my own weight in battle now!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Witnessing Zoraal Ja in battle, I understand why he's widely considered to be Tuliyollal's greatest warrior."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis fortunate we vanquished that winged calamity ere it could inflict greater suffering upon these lands."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Spending time alone with Sareel Ja was akin to torture. Despite my obvious disinterest, he spewed a constant stream of mean-spirited bile. Honestly, I might have preferred facing fire and ruin with you on the battlefield..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The Yok Huy must still be anxious, wondering where and when Valigarmanda will strike next."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I suggest we hurry back and allay their fears. Alphinaud's as well, I should think."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, you're right! We shouldn't let them worry another moment!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I expected I would be asked to track many things during the course of our journey, but Valigarmanda was not among them."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Amidst the chaos of the Skyruin's awakening, I'd forgotten we still have the Feat of Ice to complete..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I thought the villagers would be in hiding. Alphinaud's confidence in us must have reassured them."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Welcome back. Not for a moment did I doubt that you'd return safe and sound."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Scaling a massive mountain. Fighting an elector. Battle against a legendary monstrosity... Yes, you could say I'm a little tired."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "While we were contending with that screeching menace, I expect Bakool Ja Ja was off to the next feat."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I see Master Alphinaud hath made good use of the time to further tend the wounded."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Before we do anything else, we should talk to Gurfurlur."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To the temple, then?"
+    },
+    {
+      "character": "???",
+      "text_en": "That won't be necessary, heroes of the hour."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Valigarmanda is no more. Yours is a victory worthy of song."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Hmm... We had plans for a second feat to be conducted here in town, but the recklessness of your fellow claimant has rendered them pointless."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A second feat?"
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "The Feat of Ice. You were to fortify Valigarmanda's prison."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Hmm... How shall we proceed, High Luminary?"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "What more would we test, Zurmurwur? They have defeated the Skyruin and saved the gods know how many lives. If they are not worthy heirs to Gulool Ja Ja, then no one is."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Now that our last claimant has arrived, we can proceed with the formalities. For the skill and bravery the three of you have shown, I award you each a second keystone."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That makes five. Only two left to collect."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Except that one of those five is in Bakool Ja Ja's thieving hands. He will answer for that─and for loosing Valigarmanda!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "You have brought lasting tranquility to our home, and earned the gratitude of every Yok Huy."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "May glory and prosperity continue to bless Tuliyollal as we enter this new age!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Was never much of a talker, our brother."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you're up for it, you should visit the capital! I'd like everyone to get to know you and your people better!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Hah! I'll consider it...if it's one of you two who claims the throne."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Then you need only await a missive from Sunperch─I'll be sending out invitations."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Today is a day for unusual visitors."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "You... Wuk Lamat, was it not?"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "I doubted you could slay Valigarmanda, but the quiet skies proclaim your triumph."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Had the vidraal been suffered to roam free, it would have terrorized us all... Once again, we find ourselves in your debt."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You owe us nothing─we fought because we wanted to."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Yet a debt has been incurred all the same. It will haunt me if I do not repay it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hrmmm... I wouldn't even know what to ask for."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Perhaps he can tell us about the dreams of the golden city?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, good idea! That was on my list of questions I wanted to ask!"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "The golden dreams... Yes, we have records of our forebears and their visions from the time before the Xak Tural expedition."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What did your forebears see?"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "A heavenly land , suffused with a golden glow. Its people lived as gods, never aging, never dying, free from hardship and conflict."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Every building was a palace, and in their midst reigned a silent goddess . A statue so tall even my kin would need lift their gaze to behold its visage."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A statue of a goddess? That's new..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Aye. And compared to the abstract imagery we'd previously heard, this was a detailed description."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "The dreamers were consumed by their visions─compelled to seek out the paradise they'd been shown. They journeyed to Xak Tural...where they died in droves."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Those who go in search of the golden city do not return... The tales Wuk Evu shared may have been rooted in historical fact."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Perhaps. Who can know the truth of it? Once our ancestors left the forest, there were no more dreams nor dreamers."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The forest? What do you mean?"
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "From the very first, the visions were said to visit only those who worked the quarries in Yak T'el."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "But after they were ravaged by disease and saw fewer newborns, they were forced to abandon that territory."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Once our people's withdrawal to Urqopacha was complete, we never again dreamed of the golden city."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So only Yok Huy in that one specific area experienced the visions... Fascinating."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, we're headed to Yak T'el next. Maybe we'll find out more when we get there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you for sharing your stories with us."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "I do not require gratitude. I merely repaid a debt."
+    },
+    {
+      "character": "Vorporlor",
+      "text_en": "Farewell, Wuk Lamat. I do not think our paths will cross again."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "So Yak T'el is where the Yok Huy had their golden dreams. We may soon have the chance to investigate that tale firsthand."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A heavenly land, suffused with a golden glow..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "With only two keystones remaining, we've at last begun to gain a fuller picture of the legend of the golden city."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What a turn of events─we were only meant to strengthen the ice, but Bakool Ja Ja's idiocy forced us to do them one better."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Long has it been since any from Chirwagur Saltern have deigned to enter Worlar's Echo. A day for unusual visitors, indeed."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "Watching Vorporlor get caught up in Wuk Lamat's unstoppable wake reminds me of my younger days..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't think Vorporlor and his brethren will have a sudden change of heart about Tuliyollal."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But that doesn't mean they'll never change at all. Today is proof of that!"
+    }
+  ]
+}

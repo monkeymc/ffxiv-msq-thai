@@ -1,0 +1,488 @@
+{
+  "id": "the-feat-of-pots",
+  "wiki_path": "/wiki/The_Feat_of_Pots",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Feat of Pots",
+  "level": "92",
+  "location": "Kozama'uka(X:12.4,Y:28.3)",
+  "npc_start": "Koana",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I tried a serving of the dish we prepared for Kaahe. It was so good, I had a second helping!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Pfffkohhh... Rakorok will see that potsworn Kaahe's lustrous oil lamp is delivered to the palace at once!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The elector bids the claimants assemble in the large building on the west side of the village. I will head over after finding Thancred and Urianger."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Ah, I also ran into the Leveilleur twins on the way here. I took the liberty of directing them to the venue."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're rivals. It's not his job to make sure I know the feat is starting. But even now, he's conscientious to a fault..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Anyway, let's not keep Rediroq waiting!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Pfffkohhh... Rakorok is thankful potsworn Kaahe did not quitleave like the others! He thinks you will have no hardtimes with the coming feat!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I thought everyone would be here by now."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Pfff... Pfffkohhh... Rediroq thanks you for assisting helphand Rakorok!"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "She will announce the feat once the other claimants arrive, so please be patient a little while longer."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I'm happy to report that we were able to convince one of the potsworn to stay. How did you fare?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So you managed to do the same. Splendid."
+    },
+    {
+      "character": "Opportunistic Moblin",
+      "text_en": "Pfffkohhh... Welcome to Earthenshire, First Promise! We support your plans for saltcrossings and the new potsworn they will bring!"
+    },
+    {
+      "character": "Grateful Moblin",
+      "text_en": "Hail the mighty Zoraal Ja! He cleared many piles of rockfall as if they were pebblestones! The Resilient Son for Dawnservant!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Zoraal Ja was clearing fallen rocks? I'm surprised he would volunteer his time for anything unrelated to the contest."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Well, well, we meet again."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Just in time for the feat to begin. I'll bet he was already here, laying low while the rest of us did all the work."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Pfff... Pfffkohhh... Claimants, your attention please!"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "As Rediroq has explained, many of our potsworn left us following the storm."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "The precious metalwork crafted by those artisans bring in much jinglyshine from across the salt! Should our stream of trade goods dry up, Earthenshire will suffer! Tuliyollal merchants will suffer!"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "So Rediroq sets you this feat: each of you are to find one cleverhand goldsmith to bring back here to us!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So we're to recruit new potsworn. Makes sense for the Feat of Pots."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Calling this a “feat” does not justify taking advantage of the claimants and their influence. How does finding workers for you demonstrate their worthiness for the throne?"
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "You are free to refuse Rediroq's request. She will be happy to inform the Dawnservant of Zoraal Ja's disqualification!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "The rite is a means to an end. The steps we take to get there are not important."
+    },
+    {
+      "character": "Rediroq",
+      "text_en": "Then Rediroq declares the Feat of Pots begun! But remember: a potpact must be agreed to willingly. No grabsnatching or deceitful tongueflaps!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "The elector said nothing of taking a willing artisan from a rival..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "...which is exactly what we should do."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Gehehehe!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "A fine suggestion, Brother!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "I'm glad you think so, Brother. Come, let us lay our plans!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That nasty brute is up to something..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Aye, he may seek to delay us again as he did on the river. We can but remain vigilant while we plot our course."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What do you think, Wuk Lamat? Have you any candidates in mind to satisfy this feat?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know some artisans amongst my supporters, but they're all in their twilight years."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I couldn't ask them to give up the comforts of Tuliyollal to live in this remote village─no matter how beautiful the scenery."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Meanwhile, Koana probably has a hundred young craftspeople to choose from..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not that I'm comparing us, you understand! That's just statement of fact."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hmmm. I suppose we could try asking around Wachumeqimeqi...?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That seems a logical place to start. Back to Tuliyollal it is!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait... Does that mean we have to take the boat again?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, no, no! I can't do it! I can't stomach another boat ride!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You said I should share my burdens, so I will speak plainly."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The truth is..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...I get really, really sick on boats."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Wuk Lamat, this is hardly news..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But it was brave of you to admit. In any case, we won't be fighting the current this time! Heading downriver will be much smoother."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It will? Are you sure...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm positive! ...Mostly."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've procured many unusual items for clients, but meeting the personalized needs of a potsworn is not an experience I'd care to repeat."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wuk Lamat suffers such terrible bouts of seasickness. I wish I had a spell or potion that could ease her nausea..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Did we mention the potsworn in our care required a constant stream of encouragement in order to craft?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The four of us must have chanted the same cheer dozens, if not hundreds, of times. Erenville was scolded more than once for not cheering loudly enough."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What obstacle will Bakool Ja Ja throw at us next? Or will he try something more direct...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh... I need a moment... Upriver or downriver, Ihuykatumu is too rough for me..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The nausea is a bit more bearable now that I've stopped trying to hide it, but I'd still rather not set foot on a boat if I can help it..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright...I think I'm ready. Let's see if Master Ropli can help us recruit a potsworn."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Phew... The fresh harbor air was just what I needed."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Wachumeqimeqi is a gathering spot for skilled artisans of all kinds. If we're to find a potsworn candidate, I can think of no better place to begin our search."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So this is the Wachumeqimeqi that Wuk Lamat was talking about. I had yet to make it this far in my wanderings."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Erenville brought us here on our first tour of the city, but time did not permit a close look. I should like to observe these masters at work."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Surely at least one person will answer Wuk Lamat's call for a potsworn. Maybe Master Ropli can help us."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Greetings, Third Promise. What brings you back to Wachumeqimeqi? You've not chipped your axe again, have you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, Master Ropli. Actually, I have a favor to ask..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So what do you think? Do you know of any craftsmen who might be interested?"
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Filching my artisans for the Moblins, eh? Well, seeing as it's the Third Promise making the request, I'm willing to look the other way if one of them decides to take you up on the offer."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Only, I can't think of a suitable candidate off the top of my head. Who do I know with a mastery of goldsmithing that would also have no qualms about relocating to Earthenshire...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You mean Fonjeantaine? He did say he was employed at some fancy jewelry store across the salt."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And considering the distance he's already come, I'd like to think he wouldn't mind moving a little up the river."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That said, he's only just got himself a new job. Is it too soon to ask him to sign a potpact?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There's no harm in making the offer. Once he hears how well the potsworn are treated, he may even jump at the chance."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Either way, you won't find Fonjeantaine at his workbench at this hour. He's finished for the day. Probably enjoying a meal over at Xbalyav Ty'e."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then maybe we should go and talk to him. Just you and me, since he knows us. Wouldn't want him to feel intimidated by having to deal with a crowd of new faces."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The two of us can handle this. Take a rest at the cabins, if you like."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right! Let's go and see a man about a pot!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh, I'm still not sure about this..."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "When Fonjeantaine first arrived, the ways of our city were so new and confusing for him. It's funny how quickly people get used to things, though."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Oh, Forename , you're here too. The Third Promise said she wanted to chat. I've just finished eating, so shall we find a quiet spot outside?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The last time we talked on this beach, you were in a miserable state."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Ahahaha, yes, I was, wasn't I? A lost soul... Until the two of you came along and helped me rediscover my purpose."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "My new place of employment has been most welcoming, and for the first time in a long time, I feel content with my lot in life."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's wonderful."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "So, what is it you wished to discuss?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, it's hard to ask this right after you've settled in...but I'm looking for someone to become a potsworn."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Ah, I've heard my new colleagues mention the term. That's when an artisan signs a contract to work for the Moblins, isn't it? But...you're not a Moblin. I'm not sure I understand."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's for a feat in the rite of succession. I need to bring a new potsworn to Earthenshire."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "So that is the way of it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've barely met, and after pushing you to work at Wachumeqimeqi, I'm now demanding you throw that away and sign a potpact instead. It's a selfish request, I know."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I have something to tell you, Third Promise."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "The other day, I completed the necessary procedures for immigration. I'm pleased to say I am now an official subject of Tuliyollal."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I've since endeavored to learn what I can of my new nation, beginning with the rite of succession and its claimants─including you, of course."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Now, you will recall it was my father's example which led me to pursue goldsmithing."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "He was at East End when Garlean forces laid siege to the settlement. And in the ensuing chaos, he was slain."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "War took him from me in an instant. The man I loved and admired. I never wish to suffer such a loss again..."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "And so, as much as I'm indebted to you for turning my life around, it is as a fellow peace-loving Tuliyollan that I want you to win the throne."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "If I can help you achieve that by signing a potpact, then I shall gladly do so."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Fonjeantaine... Thank you."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I shall return to Master Ropli and inform him of my decision."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Allow me. I'm the reason you're leaving, so I should be the one to deliver the news."
+    },
+    {
+      "character": "Br'uk Evu",
+      "text_en": "Perhaps you remember me? Br'uk Evu, owner of Xbalyav Ty'e? I'd like a word, if you don't mind."
+    },
+    {
+      "character": "Br'uk Evu",
+      "text_en": "You're Wuk Lamat's ally from across the salt, right? And a hero of some renown, too, if the gossip's to be believed."
+    },
+    {
+      "character": "Br'uk Evu",
+      "text_en": "Well, as it so happens, I could use some heroic help. It doesn't need to be right now, but could you come by when you have a spare moment?"
+    },
+    {
+      "character": "Br'uk Evu",
+      "text_en": "Much appreciated! I'll be waiting for you at my shop, then."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "I see you managed to find Fonjeantaine."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "It feels ungrateful to leave so soon after Master Ropli granted me employment, but surely he'll understand... I do this for the future of Tuliyollal!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Master Ropli. I'm sorry to have to tell you this, but, uh..."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Fonjeantaine has agreed to sign the potpact, yes?"
+    },
+    {
+      "character": "Ropli",
+      "text_en": "While it is a shame to lose a capable goldsmith, to have one of our own handpicked to serve the Third Promise is a great honor for Wachumeqimeqi."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I appreciate your understanding."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Of course, if you happen to know other talented artisans, regardless of their expertise, I hope you send them my way."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "It could even be yourself, if you're so inclined."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll keep that in mind."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Though my time here was brief, I will not forget your kindness, Master Ropli. I am blessed to have these workshops be my first home in Tuliyollal."
+    },
+    {
+      "character": "Ropli",
+      "text_en": "Come back to us if the Moblins cut you loose. You'll always have a job at Wachumeqimeqi."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I expect you'll want to leave for Earthenshire as soon as possible. I'll go and pack my things."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What became of Fonjeantaine? Were you able to find him?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We did, and he's agreed to become a potsworn. We'll leave when he's ready, but you still have a little time."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Splendid. We shall meet you anon."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I had plenty of reasons to win the contest, but now I have one more. Fonjeantaine's putting his faith in me, and I won't let him down!"
+    }
+  ]
+}

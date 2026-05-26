@@ -1,0 +1,420 @@
+{
+  "id": "knowing-the-pelupelu",
+  "wiki_path": "/wiki/Knowing_the_Pelupelu",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/7/77/Knowing_the_Pelupelu.png",
+  "patch": "7.0",
+  "title_en": "Knowing the Pelupelu",
+  "level": "90",
+  "location": "Urqopacha(X:21.0,Y:8.4)",
+  "npc_start": "Mablu",
+  "dialogues": [
+    {
+      "character": "Mablu",
+      "text_en": "Wuk Lamat still seems a bit unsteady on her feet. Hardly surprising after she spent the night chasing alpacas. You know what will melt away fatigue like magic, though? Mate tea!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I'll run to the ranch and get a pot brewing. That way you can take your time, and the tea will be ready when you arrive!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As Mablu so wisely suggested, we shall set a slower pace for our exhausted Third Promise."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Came back ahead of the others, did you? I should hurry along with the tea, then─Wuk Lamat can't be that far behind!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ooh, that tea really is magical─I feel better already!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I see you've become more comfortable around our fuzzy friends."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Watching this one taught me a lot about alpacas. What grasses and fruits they eat, what sounds they react to, their adorable little quirks..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I guess I've grown kind of fond of them!"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Welcome back, Third Promise. Accomplished the Feat of Gold, have you?"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Hm, yes, there is no mistaking a valley alpaca."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "I commend you on your success. Well done!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, we did it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Although I couldn't find a shiny one like Zoraal Ja did."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "I'd be surprised if you had! Golden alpacas are born but once every few decades. They are elusive, solitary creatures that are rarely seen─much less captured─thanks to their innate physical and magical gifts."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Only a single other person is known to have caught one before─that being Gulool Ja Ja himself."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa was chasing alpacas, too!?"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "So my grandfather's stories say."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "It was before the founding of Tuliyollal, in a time when the mountain giants─the Yok Huy─held our people in thrall."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Compelled by their overlords, our forebears would ride their alpaca mounts to the highlands to deliver gifts of food and other tributes. Those were wretched days, to hear Grandfather tell it."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Then along came the young Gulool Ja Ja, yet unburdened by the mantle of Dawnservant."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Our people were amazed by this imposing two-headed figure, equal to the Yok Huy in stature, and puzzled by his entourage of mismatched companions."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Some trembled in fear, believing a new conqueror had come."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Yet Gulool Ja Ja showed no such inclinations. He sat and spoke with us, sipping from the cups of mate tea we offered him, and grew somber when he learned of our plight."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "None could have anticipated what their visitor decided to do next! Gulool Ja Ja ascended the cliffs to face the giants and freed the Pelupelu from the Yok Huy's subjugation!"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "He then turned an appraising eye upon our riders and proposed we take to the road to peddle our beverages. The suggestion seemed obvious for one who traveled as he did, intent on fostering amity between the clans."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "So it was that a few words from Gulool Ja Ja transformed us into a clan of itinerant merchants."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've never heard the bond Papa forged with the Pelupelu spoken of in that way before. The saga is not so detailed."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Then you may not know that Gulool Ja Ja sought a sure-footed guide for his trek up into the highlands. Thus did he capture a golden alpaca."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So both my brother and my father caught the rarest of creatures..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...while an ordinary one was the best I could manage!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "The feat required no more than that, Third Promise. And you brought back a perfectly wonderful beast!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Mablu's right. You're a perfectly wonderful beast. If anyone's ordinary, it's me..."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Not only did you accomplish the Feat of Gold, you also made many trades and brought joy to many people in true Pelupelu fashion. I sorely doubt your sibling could have achieved the same result."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "You should be proud of the accomplishments which earned you your keystone."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So this is what they look like."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Go on, set it in the tablet!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A perfect fit! That leaves six more."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Five more to go!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "You're well on your way, Third Promise!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'd have been lost without you, Mablu. Thanks to you, I learned so much about the Pelu people and your customs."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It might seem obvious, but I've come to realize the importance of properly knowing something. It was because I didn't understand alpacas that I was uncomfortable around them."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I'm thankful to you as well, Wuk Lamat. You've given me the courage to say what I wasn't sure I could ever say!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Tobli... I want to leave the ranch and become a merchant!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I appreciate everything you've done for me, and I've loved every moment caring for the alpacas."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "But this is something I need to do! I need to walk my own path, and make my own trades!"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "As your parent, allow me to say one thing."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "I've always tried to give my wards lives filled with as much happiness as I could provide. Yet never once have I wanted that to be the only happiness you knew."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "You have my blessing to walk any path you choose, Mablu. It gladdens me to hear you've found a calling you wish to pursue with such passion. You will make an exceptional peddler, I'm sure of it."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Thank you, Tobli..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What did I tell you, Mablu!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "There's one last thing I can help you with, Third Promise. You need to find the golden city, right?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's the end goal..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Then I suggest you talk to the Yok Huy."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "They once ruled over far more than just Urqopacha and the Pelupelu. A thousand years ago, they were the overlords of Yok Tural and all its peoples."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "During that era, the Pelupelu were commanded to search for a city of gold."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "They scoured every corner of the continent, but never found any trace of that fabled place."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But...if they didn't find anything, what could the Yok Huy have to tell us?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "They may not have found it...but the fact that they thought to look for it at all makes me curious. Perhaps there's value in delving into how the legend originated?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We lose nothing from asking the question. Besides, if we're determined to follow the path of the saga..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...we'll be visiting the giants eventually."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Oh, Krile. I have a question I'd been meaning to ask, and since we've finished with the feat─where did you acquire that earring?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "My earring? Do you recognize it?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Yes, pieces just like it first became fashionable in Yok Tural around twenty years ago. Since then, it's become common to wear one as a charm for safe travel."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Twenty years ago─right about the time my grandfather made his journey. Yet the Dawnservant implied the earring was connected to the golden city in some way. Surely there was more to its significance than simple fashion..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "If you want to know how it first came to be crafted, I could try to find out. Seeing as it's a regular seller for many merchants, I'm curious to learn about it myself!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I would appreciate that very much, thank you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Jumping feetfirst into the peddler business, eh, Mablu?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, let's head back to Tuliyollal and get ready to search for the next elector!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, that's two keystones down. I say we head back to Tuliyollal and plan our next move!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Farewell for now, and thanks for all your help! I will become Dawnservant, so make sure you set aside your best mezcal for the occasion!"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "She has a fearsome opponent in that brother of hers. He even brought a golden alpaca to heel."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "But you've heard Zoraal Ja's supporters talk. They might see opportunity in his expansionist ambitions, but they find the man himself intimidating. Terrifying, even."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Whereas I've grown to love Wuk Lamat! Everyone she meets will come to love her, too, and that's why she'll win the throne!"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "You might be right, Mablu. You might be right."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Yok Huy once ruled the entirety of Yok Tural. I'm curious to see what has become of them."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I expected as much from the moment I saw him, but winning the contest against Zoraal Ja will not be easy."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I never dared hope we would find a lead for this earring mystery so quickly."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Four-legged troubles aside, Wuk Lamat completed the feat and earned a keystone. That's all that matters."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That makes two out of seven keystones... So far, so good."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It feels good to have the Feat of Gold safely under our belt...even if my victory pales beside Zoraal Ja and his shiny golden alpaca."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know I shouldn't let it bother me, and gods know you've all been so supportive, but I want to be strong─or wise─like my brothers. To be a Promise that people respect."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Which is not likely if I stand here carrying on and on about things! Let's move on!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Back to Xbalyav Ty'e with us─the contest has hardly begun!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I've heard there are hot springs in Urqopacha. Mayhap, time permitting..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The Pelu remind me of Lalafell, never letting their size slow them down or hold them back. They move at their own pace, making their textiles and mezcal, and raise alpacas to bear them to market."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Neither Koana nor Bakool Ja Ja appeared to be in Wachunpelo... I imagine they're around somewhere, making progress even as we are."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A golden alpaca... Alone, I may have tried to track the beast myself."
+    },
+    {
+      "character": "Helpful Hanu",
+      "text_en": "Xbalyav Ty'e is truly a wonder of the culinarian world."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I've heard there are hot springs in Urqopacha. Mayhap, time permitting..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I have not forgotten our obligations to Wuk Lamat, of course. Having immersed ourselves in the cultures of others, though, my anticipation for the new experiences this adventure will bring us has only grown."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The Pelu remind me of Lalafell, never letting their size slow them down or hold them back. They move at their own pace, making their textiles and mezcal, and raise alpacas to bear them to market."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Idle musings aside, we've made a good start on these challenges. Hopefully we can keep it up."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Neither Koana nor Bakool Ja Ja appeared to be in Wachunpelo... I imagine they're around somewhere, making progress even as we are."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yet in a contest like this one, 'tis only a matter of time until the claimants are pitted against each other in direct competition."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A golden alpaca... Alone, I may have tried to track the beast myself."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Traveling with so large and diverse a group is...unfamiliar to me. If she could see me now..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And just like that, we found an elector and won our first keystone. I knew I was right to trust your instincts!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on! Let's keep things moving, and march onwards to Kozama'uka!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Chances are good we'll find an elector there as well. Before we do anything, however, we should see what your patient Hanu friend has to say."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look at us!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The contest has barely begun and we already have two keystones! Surely even my talented brothers aren't doing this well!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We can only hope."
+    }
+  ]
+}

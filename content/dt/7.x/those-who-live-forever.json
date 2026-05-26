@@ -1,0 +1,592 @@
+{
+  "id": "those-who-live-forever",
+  "wiki_path": "/wiki/Those_Who_Live_Forever",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/18/Those_Who_Live_Forever.png",
+  "patch": "7.0",
+  "title_en": "Those Who Live Forever",
+  "level": "99",
+  "location": "Living Memory(X:21.4,Y:28.7)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "While Sphene's intentions are good, her methods are anything but. We cannot yield at any cost."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The Endless were unsustainable from the first. Sphene has been fighting a lost cause."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Endless exist in defiance of the laws of nature. But they exist nonetheless, with Sphene holding them to be no different from the living..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It doesn't seem like we can do much else here. Let's return to the aetheryte for now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The caretaker, Constancy. Perhaps he can tell us more about this business of Sphene going into a slumber."
+    },
+    {
+      "character": "Krile",
+      "text_en": "No sign of Constancy..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is that...? No, that's not him."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "He's left the area."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't tell me he's gone somewhere else!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He's nowhere in sight..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Perhaps he has taken other recent arrivals on a tour."
+    },
+    {
+      "character": "???",
+      "text_en": "Looking for someone, are you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes... He was here just earlier, a fellow named Constancy."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait, what!?"
+    },
+    {
+      "character": "???",
+      "text_en": "Hello, everyone. You made it here, as I knew you would."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that who I think it is?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It is! It's Cahciua!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "None other. This is the first time some of you are seeing me in the proverbial flesh, isn't it?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Feast your eyes, then! She who was controlling that unassuming machine was a ravishing Shetona maiden!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "...That was a bit much, wasn't it? Ignore me."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "So it was true. That you're here means..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I tried to tell you. So many times. But my courage always failed me..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I am indeed an Endless. Have been for quite a while now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Now, you've come to stop Sphene, yes? I can help with that, but I have a request to make."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You know how to stop her, then?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "While there are no guarantees, your coming here makes it a distinct possibility."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As my wish is relevant to your mission, will you hear me out? You can decide what to do afterwards."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Excellent. To begin, we'll need to head to a different area."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "See that sentry? I'll have them grant you access to the zip line."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zip line? What is that?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "A fun little mode of transport. They don't see much use, though, as we Endless can teleport freely within Living Memory."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "This particular line will take you to a zone called Canal Town. I'll be waiting for you there."
+    },
+    {
+      "character": "Krile",
+      "text_en": "<chuckle> With that endearing pushiness, it could only be Cahciua. Let's go!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It has the look of the contraptions found throughout the Isle of Haam, does it not?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Cahciua has already teleported ahead, it seems."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm sorry, it's just...she's gone, yet to see and hear her carrying on like nothing's... I don't know how to feel."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I think I know how it works! I've got this!"
+    },
+    {
+      "character": "Canal Town Guard",
+      "text_en": "Hm? You don't seem to be— <bleep> <bloop> Error. Error. User registration...c-c-confirmed."
+    },
+    {
+      "character": "Canal Town Guard",
+      "text_en": "I bid you welcome to Canal Town, the resort of romance and relaxation! Please enjoy your stay!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What a charming place..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "That's them. The people Sphene strives to protect."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They look happy."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, what's this request of yours?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I want you to erase us. Erase the Endless."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "And by “erase,” she means..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "For now, let us hear the rest."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Cahciua must have her reasons."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Oh, come now, spare me those gloomy faces."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Being alive, you're the only ones who can do this. And we won't have a better opportunity than now, while Queen Sphene is busy preparing to initiate interdimensional fusion."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's wrong to sacrifice others to sustain the Endless. This I firmly believe."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But talking to you now, you seem as real as any of us. And if you need an answer right away, I don't know if I can give it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is there a reason we need to act so soon?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Because, as you've just said, it's wrong to sacrifice others to sustain us. Remember, we need life force—other forms of aether don't cut it."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "In the beginning, we managed with the aether of those who died in the barrier. But as our numbers grew, there began to be a shortage."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "That's why Queen Sphene looked to other sources. Even the aether I'm composed of may have come from the victims of the attack on Tuliyollal."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I can't bear that thought. Can't bear to exist because someone died."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'd probably feel the same way if we were in your shoes... But what exactly are you asking us to do?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "In each zone, there is an enormous data storage device called a terminal. That is where our memories are kept."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If you shut down a terminal, the memories within will disappear—along with those Endless created from them."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But does this need to be done now? Can't we stop Sphene first, and then take it from there?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It's precisely in order to stop Sphene that it must be done now."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Her own memories are stored within the Meso Terminal, which stands at the heart of Living Memory."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As you would expect, the terminal's defenses are extremely tight. But it has moments of vulnerability, such as when it has just finished calculations, which we can exploit to shut it down from within."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "While we wait for that opening, we erase the Endless. Once we are gone, Sphene will no longer have a reason to plunder aether from other worlds."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Would Sphene simply allow us to shut down the terminals?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "In preparation for fusion, the Meso Terminal is currently performing massive calculations while gathering energy. Even if the system notices us, it cannot easily suspend the process."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Rather than doing so, I believe it will attempt to accelerate the timetable and bridge worlds before the plan can be thwarted."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It wouldn't be a decision Sphene would wish to make, but she would be able to save those who are stored in the Meso Terminal, at least..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There's sense in your strategy, and in resolving to stop Sphene, we had anticipated that it might come to this. But to actually talk about erasing the Endless...is difficult."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You needn't feel any guilt. No matter how lifelike we may seem, we Endless are but facsimiles crafted from memories."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Besides, stopping Sphene requires that you shut down the Meso Terminal, which sustains all of us. Sooner or later, it will need to be done."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If we are to be erased, then let it be before more people come to harm. Living, breathing people with futures they deserve to experience."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Thank you. For respecting my wish."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I'm afraid not. We spent years scouring Preservation's records, but found nothing. It's truly a bothersome system they've created."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "<chuckle> While I appreciate the thought, we can't afford to miss this chance. Do this for me, will you?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And, as a personal request... While her actions cannot be condoned, I ask that you afford Queen Sphene a measure of understanding. Know that she herself didn't choose to become an Endless."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It was Preservation that made the choice for her."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "She is powerless to resist her purpose."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What do you mean?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The Sphene you know is an ideal that Preservation brought to life."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Harnessing the love the living Sphene bore for her people, they brought forth an eternal queen whose primary directive is to preserve the Endless."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "But as you know, the Endless consume aether. Sphene was compelled to find ways to procure it, and that compulsion has driven her to resort to interdimensional fusion."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What? Are you telling me the original Sphene wouldn't have chosen this?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "What the queen might have done, only she herself would know."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "But the scientists of Preservation have vanished, leaving their created queen to walk alone."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "So as you go about your mission, think not that you're stopping a ruthless villain. But rather, that you're relieving a troubled soul of her burden."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright, Cahciua. We understand now. Both your reasoning and your feelings."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But before we erase the Endless, I'd like to know them. I'd like to know what she fights tooth and nail for."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If we're going to reject someone's beliefs, let it be after we've come to understand them. This is a lesson I learned from the rite of succession."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I realize we're pressed for time, but if it's alright with you, I want to meet as many people as I can."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You truly are Gulool Ja Ja's kitten... Well, the calculations will take a while still. It should be fine if we do this as we proceed to the terminals."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm with you. We might not be able to learn everything, but it would nevertheless be meaningful if we could glimpse the hearts of those who inhabit this place before we set them free."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I'll leave you to it, then. When you've finished here, come and find me at the fountain near that big clock tower."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's split up and find some locals to speak with!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It really is a lovely place. You should run along and enjoy it while you can."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A part of me hopes that my parents are here too, but it's probably too much to ask for..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The Endless seem to eat the food with relish, but it couldn't be real...could it?"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "Welcome! We have popcorn and cookies by way of snacks, and mugs and plushies for the memories!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I will not object to your decision... And as my mother says, you needn't feel any guilt."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Yet I admit I myself am still conflicted. To have such doubts after coming all this way... It's laughable, isn't it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Your ancestors were refugees from Lindblum? What tales they must have..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I must say, I'm starting to enjoy myself. Even if it's only brief, this has the feel of a journey."
+    },
+    {
+      "character": "Cheerful Endless",
+      "text_en": "Well now, I don't believe I've seen you around before. A newcomer, I take it?"
+    },
+    {
+      "character": "Cheerful Endless",
+      "text_en": "It's wonderful here, let me tell you! Why, I just bumped into a dear friend in life, and we've been whiling away the hours reminiscing."
+    },
+    {
+      "character": "Cheerful Endless",
+      "text_en": "It might have been more like days, actually. You don't get a sense of the time here."
+    },
+    {
+      "character": "Cheerful Endless",
+      "text_en": "By the way, did you hear the announcement earlier? As much as I love this place, I wonder if Queen Sphene can really sustain us forever..."
+    },
+    {
+      "character": "Cheerful Endless",
+      "text_en": "But I suppose there's no use worrying about such things. Anyway, thanks to you, we found a break in our conversation. We'll go and ride the gondola next!"
+    },
+    {
+      "character": "Genial Endless",
+      "text_en": "Oh, hello there. Taking in the sights of Canal Town too, are you? Both my wife and I just adore this place."
+    },
+    {
+      "character": "Genial Endless",
+      "text_en": "We had become estranged in life, she and I, but being here gave us the chance to reconcile."
+    },
+    {
+      "character": "Genial Endless",
+      "text_en": "I couldn't be more grateful for the chance to spend these blessed little moments together again."
+    },
+    {
+      "character": "Genial Endless",
+      "text_en": "I have no more regrets. Whether Her Majesty's plan succeeds or no, I can rest with peace in my heart."
+    },
+    {
+      "character": "Genial Endless",
+      "text_en": "Well, we shall continue on our way, but we hope to see you again. Till next time."
+    },
+    {
+      "character": "Satisfied Endless",
+      "text_en": "You there! Have you tried the popcorn from that stall?"
+    },
+    {
+      "character": "Satisfied Endless",
+      "text_en": "You haven't? You don't know what you're missing!"
+    },
+    {
+      "character": "Satisfied Endless",
+      "text_en": "I consider myself something of a gourmand, and believe me when I say the classic salt flavor is amazing! The saltiness is simply exquisite —that's the only way to describe it. Once you have a mouthful, it's impossible to stop until it's all gone!"
+    },
+    {
+      "character": "Satisfied Endless",
+      "text_en": "And after you've tried that, I urge you to seek out other stalls. There are lots of them everywhere, offering all manner of delights."
+    },
+    {
+      "character": "Satisfied Endless",
+      "text_en": "For another recommendation off the top of my head...the ice cream over in Asyle Volcane! It's so smooth and rich and—"
+    },
+    {
+      "character": "Satisfied Endless",
+      "text_en": "<slurp> Just thinking about it has given me a hankering... That's it—I'm going to go and have some right now!"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "Welcome, welcome! Have a browse and let me know when you're ready to order."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You're here on that lady's recommendation as well, I take it?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I had been wondering what the Endless do for sustenance, so it seemed a good opportunity to learn."
+    },
+    {
+      "character": "Erastus",
+      "text_en": "Oho, this is your first time eating, is it?"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "The food here is created using aether and memory data. To us, it tastes just like the real thing."
+    },
+    {
+      "character": "Erastus",
+      "text_en": "So, how about it? Would you care for some popcorn?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let's give it a try, shall we?"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "That's the spirit! Find a table you like, and I'll bring it right out. And lest you worry, there's no charge—all the food is free here."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Food created with memory data... How will this taste to the living, I wonder."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, as they say, there's only one way to find out!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Good gods... It tastes like nothing at all..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Er, I-I mean...it's amazing! I've never had such tasty popcorn!"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "Hehe, it's not our best seller for nothing!"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "And what about you?"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "Hahaha! It's always special, watching newcomers eat for the first time!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "They're just like the people of Everkeep."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Their communal spirit, their delighted smiles. Exactly the same..."
+    },
+    {
+      "character": "Erastus",
+      "text_en": "Thank you for your custom. Come again any time!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "By the way, prior to this, a young man caught my eye near the canal. He appeared to be searching for something, and rather frantically."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Did you perchance see him too?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "No? I must say I'm curious as to what has him so flustered. Could you help me look for the fellow?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "My thanks. Let's head to where I saw him."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "'Twould seem he is no longer in the vicinity."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let us keep looking. Whatever it is that troubles him, perhaps we can be of assistance."
+    }
+  ]
+}

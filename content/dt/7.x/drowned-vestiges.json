@@ -1,0 +1,296 @@
+{
+  "id": "drowned-vestiges",
+  "wiki_path": "/wiki/Drowned_Vestiges",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Drowned Vestiges",
+  "level": "98",
+  "location": "Heritage Found(X:7.3,Y:17.2)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I only saw him for a moment before he disappeared behind a building, but I'm pretty sure Gulool Ja was heading further south."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll contact Alisaie on linkpearl and let her know to join us."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the area, but the canals and the debris make it hard to get a good view..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's split up and search. If you could head into the canals, I'll make my way through the streets."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When we find Gulool Ja, let's watch from a distance until he gets to his destination. Wouldn't want to startle him and cause an accident."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alisaie is coming as fast as she can. Let's keep searching in the meantime."
+    },
+    {
+      "character": "Gulool Ja (text bubble)",
+      "text_en": "Uwaaah!"
+    },
+    {
+      "character": "Gulool Ja (text bubble)",
+      "text_en": "Oh dear..."
+    },
+    {
+      "character": "Gulool Ja (text bubble)",
+      "text_en": "Hm?"
+    },
+    {
+      "character": "Gulool Ja (text bubble)",
+      "text_en": "..."
+    },
+    {
+      "character": "Gulool Ja (text bubble)",
+      "text_en": "Hm?"
+    },
+    {
+      "character": "Gulool Ja (text bubble)",
+      "text_en": "..."
+    },
+    {
+      "character": "Gulool Ja (text bubble)",
+      "text_en": "Hm?"
+    },
+    {
+      "character": "Gulool Ja (text bubble)",
+      "text_en": "..."
+    },
+    {
+      "character": "Gulool Ja (text bubble)",
+      "text_en": "Whew!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He's come a long way on such short legs. It's a relief he didn't get hurt."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What's here, I wonder."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So he's looking after those little ones."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gulool Ja..."
+    },
+    {
+      "character": "???",
+      "text_en": "Not another step!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "[SURPRISED REAX “Uwaaah!”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A sentry!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Run, Gulool Ja! Run!"
+    },
+    {
+      "character": "Rusty Mechanical Soldier",
+      "text_en": "You know the boy? Who are you and what do you want?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "My name is Wuk Lamat, and I've come to talk to Gulool Ja."
+    },
+    {
+      "character": "Rusty Mechanical Soldier",
+      "text_en": "Is that so..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sorry if I scared you. I want to get to know you better. That's all."
+    },
+    {
+      "character": "Rusty Mechanical Soldier",
+      "text_en": "And you, my boy? Do you wish to speak with them?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I heard them talking... She said she's going to kill my father..."
+    },
+    {
+      "character": "Rusty Mechanical Soldier",
+      "text_en": "Villains! I will deal with them forthwith!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I...I want to get to know her too."
+    },
+    {
+      "character": "Rusty Mechanical Soldier",
+      "text_en": "I see. If that is your desire, then I shall stand aside."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright, then! Let's talk, you and I—lots!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But, uh...who's the ancient-looking and...articulate machine?"
+    },
+    {
+      "character": "Rusty Mechanical Soldier",
+      "text_en": "If I look ancient, it is because I am. This has been my vessel for no less than three hundred and eighty years."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Vessel...?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Otis is my friend. When I was hungry and sad, he came and looked after me."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "He cooks for me, and teaches me all kinds of things."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Like how to read and write and...and not be noticed by dangerous creatures."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This machine...cooks for you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And teaches you about fiends... What is he exactly?"
+    },
+    {
+      "character": "Rusty Mechanical Soldier",
+      "text_en": "Ah, how remiss of me. I had neglected to introduce myself."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Ser Otis Velona, lord captain of the royal knights of Alexandria, at your service."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're captain of the knights!?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "[AMUSED LAUGHTER “Hahaha!”]"
+    },
+    {
+      "character": "Otis",
+      "text_en": "And there I thought it was Gulool Ja with whom you wished to speak. Not that I'm averse to taking a walk down memory lane..."
+    },
+    {
+      "character": "Otis",
+      "text_en": "But ere I regale you: we must take our repast!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A meal? Here? I hate to turn down food, but I'd prefer to have this conversation in the Backroom..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Please? I'm really hungry..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright, alright! A repast it is!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "She's going to spoil her nephew silly. I'll send word to Erenville so the others can stop worrying."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Now, if I might prevail upon your assistance, I shall whip up my most delectable specialty!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He spoke to us! Gulool Ja actually spoke to us!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If Otis has been around for as long as he claims, perhaps he knows things that not even Oblivion is aware of."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Otis cooks the best food."
+    },
+    {
+      "character": "Otis",
+      "text_en": "So, my new friends! I would enlist your aid in procuring the ingredients for our repast."
+    },
+    {
+      "character": "Otis",
+      "text_en": "After all, the most enjoyable meals are those we make together!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're happy to pitch in, of course. What ingredients did you have in mind?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "First of all, some yam and pumpkin. The people of the outskirts should be willing to share their harvest, if you and Gulool Ja could go and speak to them."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Sure. I'll ask for the castoffs too, as usual."
+    },
+    {
+      "character": "Otis",
+      "text_en": "As for Forename and Alisaie, I would be obliged if you could procure some woolback meat."
+    },
+    {
+      "character": "Otis",
+      "text_en": "The creatures can be found grazing on the slopes outside of town. As beef is less readily available, their flesh makes for a good substitute—that of the younger ones especially, as it is more tender and less gamy."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Consider it done. We'll be back with the meat before you know it!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Thank you kindly! In the meantime, I shall see to other preparations."
+    },
+    {
+      "character": "Otis",
+      "text_en": "Hahaha! There is nothing so fine as a meal with friends old and new!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Say, why don't we make a contest out of it? Whoever delivers the meat first is the winner!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You haven't finished yet, right? That would be too fast, even for you!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "What's this? Am I to understand that you have already procured the meat?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Good heavens, you have—and such a choice cut it is besides!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "'Tis plain you know how to handle yourself in battle. Were it four hundred years ago, I would have recruited you to the royal knights. Hahaha!"
+    }
+  ]
+}

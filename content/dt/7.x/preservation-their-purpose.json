@@ -1,0 +1,876 @@
+{
+  "id": "preservation-their-purpose",
+  "wiki_path": "/wiki/Preservation_Their_Purpose",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.3",
+  "title_en": "Preservation Their Purpose",
+  "level": "100",
+  "location": "Solution Nine(X:11.8,Y:5.9)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Sphene",
+      "text_en": "You give so much of yourselves to aid those in need. I must endeavor to find my own small way to help..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Tuliyollal would gladly welcome every last Alexandrian with open arms..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But what of the nation the late queen was so desperate to preserve? What of that bright haven of peace and laughter?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wuk Lamat..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I won't stand here and let her legacy be sullied any further. I will protect Alexandria─that was the promise I made her at the last!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But she betrayed you, did she not? Why do you feel this obligation?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I saw myself in her, I suppose. We both felt the people's joy as our own, yet alone, we lacked the strength to protect them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There is so much that I love in this world─too much for me to take in my arms and keep safe. And that made me afraid. I wanted─I needed someone who shared that love and fear, so together we could do what we couldn't by ourselves."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Or maybe it's simpler than that..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Maybe I just wished that we could have been friends."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So when she turned to me in her final hour, desperate to safeguard Alexandria's future, I swore that I would see it done."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "In the end, I think you both found the friend you needed."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I would be yours as well, Sphene."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whenever you fall or struggle to rise, I'll come running to the rescue. And you do the same for me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's how we'll protect the things we love. That's how we'll protect Alexandria!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You're right─you're right!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "How could we!? We'd not be where we are now without you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, uh, we got a bit sidetracked there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We should probably be on our way. Do we patrol, or see if Shale needs a hand...?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There you all are!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gulool Ja!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ah, splendid─we were afraid we'd miss you. Alisaie and the others said you were here."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Good news, Forename : we've finally found a chink in Calyx's armor!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "We discovered laboratories on Everkeep's tenth level that once housed a Preservation initiative."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Containment Complex 10-29, it's called, and it's been falsely registered as a distribution center. In reality, it hasn't recorded any traffic in decades..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We don't think this is where Calyx is hiding as such, but it may well contain clues that will point us in the right direction."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'm sorry it took so long just to get this far. If you're interested, what do you say we all go and check it out together?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you for all your hard work! This is a huge step forward!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Heh heh, and up . We need to take the lift to get to the complex!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I've cleared this expedition with the relevant authorities, and have one of our people waiting to operate said lift. Let's not keep her waiting."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'll share the method we used to find the containment complex once we're inside. It wasn't actually all that different to the story of how we stumbled across the Backroom."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It sounds like Gulool Ja played a big part in this breakthrough. I'll be sure to treat him to a fine feast once this is all over!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Shale made me her assistant! She was teaching me the basics of “data management.”"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Preservation laboratories... I shudder to think at what they were researching, but this is no time to be squeamish."
+    },
+    {
+      "character": "Krile",
+      "text_en": "An institute on Preservation's scale would have had many such facilities in the city. Yet I cannot help but wonder if this one is where my parents worked..."
+    },
+    {
+      "character": "Lift Attendant",
+      "text_en": "Ready to head on up? Next stop: the tenth level!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So this is one of Preservation's laboratories...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's so dark, I can barely see..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Just a moment. If I can reroute the power to the circuit..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "You got the lights working!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Smell how stale the air is. This room hasn't been in use for many years."
+    },
+    {
+      "character": "Shale",
+      "text_en": "It was thanks to Krile and Gulool Ja that we managed to locate this place."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You may remember that my earring contained the control code for the gate to the golden city."
+    },
+    {
+      "character": "Krile",
+      "text_en": "As it was Preservation that constructed the portal, we reasoned that the code to operate it might include a signature of some sort unique to their organization."
+    },
+    {
+      "character": "Shale",
+      "text_en": "So I took a closer look, and a line-by-line examination yielded a string of symbols identifying the code's author."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We then began accessing the nodes for every door in Everkeep, seeking out control codes which contained those same symbols..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "After a grueling search, we finally discovered our prize behind door number one-eight-six-zero. The entrance to the facility in which we now stand. I'd probably still be at it if Gulool Ja hadn't been around to assist me."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I took breaks, but Shale never stopped working. Not even once."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I can contribute precious little else, I'm afraid, but...I appreciate your kind words."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Those concoctions would probably do me more harm than good, but...I appreciate the sentiment."
+    },
+    {
+      "character": "Shale",
+      "text_en": "In any case, this next part will require your helping hands."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We need to spread out and search for something that may lead us to Calyx."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We're more than happy to help, of course, but I wonder... Won't he realize we've found this place?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's highly likely. And personally, I hope he does."
+    },
+    {
+      "character": "Shale",
+      "text_en": "You all know our main objective: we're here to pick up Calyx's trail."
+    },
+    {
+      "character": "Shale",
+      "text_en": "And I've learned of a certain device that should help us do just that."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'll explain how as we proceed, but according to the information I was able to dredge up, the device in question should have been installed in the director's office."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Now, as for where that might be... Yes, this map matches my data."
+    },
+    {
+      "character": "Shale",
+      "text_en": "This room we're in is the researchers' commons, located in the western side of the complex. The director's office is to the northeast of here."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So, we should cut across this circular chamber in the middle, yes?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Yes, we should, but..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Unfortunately for us, the interior door is locked."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We'll need a security key with the appropriate clearance to open it. Judging by the mechanism, it'll probably be a card of some kind."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Can't you...you know, work some electrope magic?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'll try my best, but this type of lock is well before my time. It may take a while to crack it."
+    },
+    {
+      "character": "Shale",
+      "text_en": "And in case I can't , you might want to look around and see if anyone left a security card behind."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Considering the state of the place, it does seem like they abandoned it in some haste... I shouldn't be surprised if we found one."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Very well, let's get to searching, shall we?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I expect we'll have the most luck looking where the researchers kept their personal belongings ."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Perhaps the researchers kept their personal belongings at their work stations...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No luck so far... This bin had nothing in it at all."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ugh, the arcane circuits in use here are decades old... I'll keep at it, but a security card might be the only way we're getting past this lock any time soon."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Was this really a Preservation laboratory? I thought there'd be something more, I don't know, special about it."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "These shelves are almost entirely bare, but I'll examine the files to be certain."
+    },
+    {
+      "character": "Personnel Protocols",
+      "text_en": "For security reasons, Containment Complex 10-29 has been registered as a materials distribution center. Keep this in mind and conduct yourself accordingly, both inside and outside the facility."
+    },
+    {
+      "character": "Personnel Protocols",
+      "text_en": "Each employee must perform their tasks within their designated workrooms: the researchers' commons, the protolab, or the deuterolab. Entrance into another workroom without official clearance is strictly prohibited."
+    },
+    {
+      "character": "Personnel Protocols",
+      "text_en": "Carry your security card at all times. Your clearance level dictates the areas to which you have access."
+    },
+    {
+      "character": "Personnel Protocols",
+      "text_en": "Equip your regulator at all times. Due to the highly confidential nature of the research materials and other data managed within this complex, Preservation retains the ownership of─and the rights to modify─the memories of all registered personnel."
+    },
+    {
+      "character": "Research Objectives",
+      "text_en": "Access denied. Please log in with your personnel account to view."
+    },
+    {
+      "character": "Leadership Personnel",
+      "text_en": "Complex Director: Demetrius Protolab Chief: Eosphor Deuterolab Chief: Redacted"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Nothing in there, then? I'm not even sure where people keep their personal belongings in this day and age..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh, could that be what we're looking for? Try it on the door and see if it opens!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That looks like it could be a security card. Let's see if it works!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It's open! You did it, Forename !"
+    },
+    {
+      "character": "Shale",
+      "text_en": "And a good thing, too─I was getting nowhere with that outdated circuit."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I am curious, though... Why would they abandon a facility like this?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It was run by a “Director Demetrius,” or so that terminal there told me."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Perhaps there are more answers to be had once we venture further inside."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Then let's continue onwards. The door to the director's office is across the central hub."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "This must be the door to the director's office. Go on! Try the card!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Looks like every room can be accessed from this hub."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not a single soul here besides us..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Going by the room labels on that map, we haven't entered any of the actual labs yet."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Another locked door. We could try the same card again, but..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "No good...? Maybe we need a different card?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Yes, the scanner is demanding a Level 3 security clearance to open the lock."
+    },
+    {
+      "character": "Shale",
+      "text_en": "As much as the delay chafes me, we'll just have to comb through the nearby rooms and hope we stumble upon the card we need."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Let's start our search in the protolab. That door is already open, at least..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We will find a way through together, Shale, I'm sure of it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "These notes seem to be about the research they did in here. Let's take a look..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "“Experiment 148... Submitting inference candidate 201930 to be considered for efficiency procedure review.” Uh huh..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "“Experiment 158... Maximum value of 11509 recorded... Comparative study to be included in the report...” Alright, then..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, and one more: “Experiment 163... New proposal produced a result of 9834 . Decreased value verified.”"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Well, I have no idea what any of that means. Maybe it will make sense later on?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Please excuse my impatience. The means to track down Calyx are close, and I'm itching to get my hands on them..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This machine feeds into a soul cell..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "<shudder> I am reminded of my imprisonment by the Empire. Surely this device wasn't made to hold people...?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I dug through this data tablet and found a journal. I'll read it to you..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "“The results of Experiment 158 show a marked improvement in aether extraction rates. At last, we have achieved the target value set by Master Calyx."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "“Though I will become Endless as per our ascendancy protocols, I will preserve this historic number along with my few remaining worldly effects.”"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Preserve the number? Hmmm..."
+    },
+    {
+      "character": "Journal Entry #1",
+      "text_en": "Today I began my employment at Preservation. The organization was unfamiliar to me, but when the recruitment letter arrived, I had a gut feeling that this work would be far more fulfilling than any orthodox medical practice."
+    },
+    {
+      "character": "Journal Entry #2",
+      "text_en": "My instincts were correct. Master Calyx's philosophy is the refined ideal of notions I've only ever vaguely entertained: that mankind must evolve beyond the shackles of its flesh-and-blood existence."
+    },
+    {
+      "character": "Journal Entry #4",
+      "text_en": "I had a meeting with Director Demetrius today. I've heard others praise his genius intellect, yet he seems but a guttering candle in comparison to Master Calyx's blinding brilliance."
+    },
+    {
+      "character": "Journal Entry #9",
+      "text_en": "This morning I was permitted to access the top floor and observe the workings of Living Memory. As predicted, the shortage of aether required to sustain the Endless is reaching critical levels, yet “Queen Sphene” insists on continuing her ineffectual flailing."
+    },
+    {
+      "character": "Journal Entry #14",
+      "text_en": "Our Milalla colleagues, including the protolab chief, have been behaving in a decidedly suspicious manner of late. Should I report my concerns to the director?"
+    },
+    {
+      "character": "Journal Entry #18",
+      "text_en": "From tomorrow, I have been assigned to assist with the research project in the deuterolab. We are scheduled to conduct a major experiment, the details of which I have been kept ignorant... It would seem prudent to back up my memory data."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The way this room is set up..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The canister inserted into that large device looks to be a soul cell. Could this be where they conducted their experiments to create Endless?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, but we could probably spend days investigating this complex. Finding a way into the director's office must take precedence."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Speaking of which, Gulool Ja mentioned a locker over in the corner that he couldn't open. Perhaps you could take a look?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It all looks so complicated... I shall have to ask Shale to teach me how to use these machines."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Forename , you got the locker open!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "And you found another security card!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Oh, but does that say “Level 2”? We needed a “Level 3,” didn't we...?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Yes, but it should still open more doors for us to explore. You did well, Forename ."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "These Preservation members led such surprisingly normal lives."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Leaving notes, losing their cards... I guess I imagined they'd be more...what's the word? Bloodless? Mechanical?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "<giggle> My parents were once part of Preservation, if you'll recall!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It would seem the researchers who agreed with Calyx and his philosophy underwent the conversion to Endless entities..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But I assume those who could not─or would not─eventually left the organization altogether."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Oh, I almost forgot! The researchers kept journals in their data tablets."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The one I read doesn't explain much, but something big happened in the complex, and afterwards it was decided that everyone would become Endless."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The writer was really happy about this. You can tell how much they admired Calyx and his work..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The entries ended after that, but maybe you can read more in the other tablet there!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's move this investigation to another room."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Well, we have the deuterolab and the maintenance facilities left to search. Both are accessed via the southeast corridor."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "So it's back to the hub and the locked door across the way."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Which will hopefully yield before our new security card. I'll take the old one, if you like─I doubt we'll have any more use for it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Calyx hasn't bothered to show his face yet, I see. Maybe he hasn't noticed us? Or maybe he's just watching...and waiting."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What else do they have in this place? If I read that map right, it must be a lot smaller than the Yuweyawata facility..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "The scanner awaits. Hold the security card up to the panel and it should unlock the door."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It seems not everyone who joined Preservation became Endless right away. There must have been research that required physical bodies."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If there were others besides my parents who left Preservation, where might they be now...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, it opened!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "So, where should we go first? The deuterolab or Facilities?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Hmmm... Let's start with the lab!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Hm, what does this sign say...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "How strange. This door is not lit up like the others."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Shouldn't the security card open this door as easily as the last one?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is it, Gulool Ja?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Shale... There doesn't seem to be any power here."
+    },
+    {
+      "character": "Shale",
+      "text_en": "No, none at all. It's possible the energy supply for this room is on a separate conduit...which means there should be a contingency for opening the door."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Look here. There's a sign above the card scanner: “In case of emergency, backup power can be rerouted from Facilities.”"
+    },
+    {
+      "character": "Shale",
+      "text_en": "The facilities room is down the other branch of this corridor. Let's see about getting the power restored to the deuterolab, shall we?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Oh good, the terminal is lit up. That means we have power in this room."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The deuterolab must have required greater amounts of energy to operate. What kind of experiments were they conducting in there...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Those are some big, flashy floor tiles. I wonder what they're for..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So this room was for managing the power supply and utilities. I hope they kept security cards in here as well..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Engaging power supply..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "No good. It's returning an error. There must be a preliminary procedure..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "According to this error code reference, if the power supply has been interrupted for an extended period of time, then we need to reconfigure both the emergency generator and the circuit control panels..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "...Shale? That's the emergency generator over there, isn't it?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Yes. And by the looks of it, it's the same model as the one used in Heritage Found."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But...how does it send power to the other lab?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "...Ah, I see."
+    },
+    {
+      "character": "Shale",
+      "text_en": "The energy cable attached to the base of this terminal leads down the hall, directly to the deuterolab."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Which means we need a way to connect the generator to that cable..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What about these patterns on the floor? Could this be the circuit we need to reconfigure?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I believe you have the right of it."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Using the control panels set into each of the tiles, we create an unbroken path for the power to follow."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What I wouldn't give for an instruction manual..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Indeed. If you could look around for any written procedures, I'll keep digging through the terminal's directories. Might I also ask someone to operate the generator?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I can do it! I've used that type of machine before!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then would you be willing to try and reconfigure the circuit path, Forename ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The rest of us can help by supplying Forename with whatever information might be found on the circuitry configuration."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I've locked in the power supply route and adjusted the current for optimal flow. Everything should be ready for when you've reconfigured the circuit."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I was able to glimpse part of a warning sign behind the containers. From what I could make out, it said, “Caution: Circuit will not function with duplicate patterns.”"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I suppose that means only one of each circuitry pattern can be set at the same time...?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The generator doesn't seem to need any fancy settings. As long as it's running and the circuit is fixed, we should have a power supply ready to go."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Forename , take a look at this diagram!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's a note in the bottom left about backup power: “Configure the four circuit control panels to provide an uninterrupted path.”"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "These symbols must represent the room we're in."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If that square in the top left is Shale's terminal, then the bottom right should be the generator that Gulool Ja is working on."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hrm... It's hard to make out the rest. Assuming these are our four tile patterns, the bottom right is a square and the top right is...half a circle?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's something to get you started, at least."
+    },
+    {
+      "character": "Krile",
+      "text_en": "These appear to be datalogs from a former age. My scholarly interest is piqued by a few of the labels, but none are relevant to the task at hand."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've also had no luck locating more security cards. We shall have to rely upon our backup power strategy, I'm afraid."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It worked!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We did it, Forename !"
+    },
+    {
+      "character": "Shale",
+      "text_en": "The deuterolab should now be fully powered. Well done, everyone."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If I may, Shale... Could we access a certain datalog before moving on?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I was checking the storage shelves and one of the labels caught my eye. Preservation: The Early Days is the title."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Of course. It'll only take a moment to bring up the contents."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ah, it looks to be a text-based account. I'll read it out."
+    },
+    {
+      "character": "Shale",
+      "text_en": "“Preservation, an Alexandrian institute for technological development, was founded by Calyx, an eleven-year-old child prodigy."
+    },
+    {
+      "character": "Shale",
+      "text_en": "“Approval for establishing the organization came during Alexandria's involvement in the Storm Surge, with Calyx's designs for new defensive solutions funded in large part by the treasury."
+    },
+    {
+      "character": "Shale",
+      "text_en": "“As the conflict grew in intensity and casualties mounted, Calyx funneled Preservation's resources towards the perfection of memory storage."
+    },
+    {
+      "character": "Shale",
+      "text_en": "“Research into this field continued even after the Storm Surge came to an end, with Calyx eventually electing to preserve his own memories in a virtual domain.”"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So this account is from before he embraced his Endless existence. Hundreds of years ago."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I met him only once, before the Storm Surge began. I was attending my father, who was then the reigning king of Alexandria."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx could not have been more than ten years of age, and required constant treatment for his debilitating illness. Yet still he published theories so highly regarded that even the royal family was aware of his achievements."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "“Life should not be lost to the injustice of death”... Even now I can hear the single-minded will behind his words."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So it was that when war came to our kingdom, my father was quick to commit his unwavering support to this somber youth and his proposals for Preservation."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Several years later, the ensuing violence brought the death of both my parents. Overwhelmed as I was by my sudden succession to the throne, I suspect they spared me the reports on Endless research and other less-urgent matters."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "So you had no way of knowing what kind of person Calyx was changing into..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Did he change? I wonder. Perhaps he has ever been the type to value ideals over compassion, and I failed to see it at the time."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Or perhaps he did change, but is still driven by those same deeply held beliefs. That mortality is cruel and unjust...and his role is to deliver mankind from this fate."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Whatever the case may be, we cannot allow him to shape our future. Let's press on, shall we?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "If I've done my job correctly, the door to the deuterolab should be accessible now. I'll give everything a once-over just to be sure."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Yes! The door has power now!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That Alexandria survived the war was in no small part thanks to the defensive measures developed by Preservation. In that regard, I shall always be grateful."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everything we read in this place sings Calyx's praises. The people who worked here must have truly idolized him..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Had his own body not been fated to fail him so young, would Calyx have pursued his Endless project with such fervor?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "The energy current seems stable enough... Still, you should let me handle this one."
+    },
+    {
+      "character": "Shale",
+      "text_en": "The security card, if you please. Oh, and a quick prayer that a shorted wire doesn't burn me from the inside out."
+    }
+  ]
+}

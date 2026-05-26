@@ -1,0 +1,364 @@
+{
+  "id": "a-royal-welcome",
+  "wiki_path": "/wiki/A_Royal_Welcome",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Royal Welcome",
+  "level": "97",
+  "location": "Heritage Found(X:27.1,Y:18.0)",
+  "npc_start": "Alisaie",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Well, having established that we should be wary, we could use more information."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So let's head to this place, the outskirts, and see what we can learn. Perhaps about Sphene, as well."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A most unusual farm, but the produce appears normal enough."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Have you ever seen such strange contraptions? I wonder what this one is used for."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Those brick buildings... I've seen their like before, though I cannot remember where."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's a relief to see the people here are well, at least."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The innovations of Alexandria are nothing short of extraordinary."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I trust you have similar farming facilities in Tural?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They're completely different from ours. I've got no idea what all those machines do."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We settled on this approach after some trial and error. The Turali have their own methods of farming, which they wanted to continue employing."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But the environment makes it challenging. There's too much rain and not enough light."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thankfully, the use of electrope has allowed us to fortify the buildings here, as well as provide what nature cannot."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Electro-what...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Electrope. It's a material we use for myriad devices and applications."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A topic for another time, perhaps. If you would follow me, we're nearly to the outskirts."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's a rather lively settlement, isn't it? In defiance of this ceaseless gloom, almost."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's a relief to see the people here are well. Hopefully the same can be said for everyone in Yyasulani."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'll admit, I've seen nothing particularly suspicious. Yet."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It's fascinating how they've combined traditional bricklaying with electrope-based engineering. A curious blending of two cultures."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This is a Tonawawtan village. Or at least, it was. Before the dome and these strange contraptions."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Here we are! Though you'll doubtless find much of what you see in Alexandria strange, the traditional agriculture practiced in this village, at least, should be familiar."
+    },
+    {
+      "character": "Amiable Resident",
+      "text_en": "Queen Sphene! What business brings her here, I wonder."
+    },
+    {
+      "character": "Town Resident",
+      "text_en": "The queen is come!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You look well, Pakwene."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And Ketonye, I see you've already taken to your new position."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "When she introduced herself as queen, I was expecting someone...colder. Honestly, she reminds me of you, Lamaty'i."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Me?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's only natural for a ruler to love her people."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And I should like to know them as best I can—even the most trifling details."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The more you come to know them, the more you grow to love them. Who they are, and what they've built."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That's it! Beautifully put."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And it would appear that she is well loved in turn..."
+    },
+    {
+      "character": "Affable Townsman",
+      "text_en": "Your Majesty, you honor us with your presence!"
+    },
+    {
+      "character": "Affable Townsman",
+      "text_en": "And who are these fine people?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Tuliyollal's Vow of Resolve, Wuk Lamat, and her companions."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "They come from beyond the barrier, but you needn't worry. They are good people, and are to be treated as my honored guests."
+    },
+    {
+      "character": "Affable Townsman",
+      "text_en": "The rumors of a link to the outside are true, then! Wuk Lamat is still so young..."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Ah, where are my manners? I am Pepoane—a leader, of sorts, of the people living out here."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Pepoane? That has a Tonawawtan ring to it."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Right you are! I take it you hail from this region as well? Tesh'pyani, perhaps?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Yes, I do. I don't suppose you know a woman by the name of Cahciua?"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Cahciua...?"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Hmm... I'm afraid I'm not sure if I've ever met someone with that name."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Mother isn't here... But it's a relief to know at least some of the people of Yyasulani are alive and well."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Your mother, you say?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Now that you mention it, I do see the resemblance."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You know my mother?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I do, yes."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Then tell me, please—where is she?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...I cannot say. Not here. But I promise I will in due time."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I have a question, Pepoane. Do you recall what happened the day the dome first appeared?"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Ah, the barrier? Well...um..."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "I remember fixing a shelf that had collapsed after a terrible earthquake. Then the ground began to tremble, there was a brilliant flash of light, and...then..."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Forgive me. My recollection of it all is rather poor."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You needn't push yourself, Pepoane. After thirty years, no one could blame you for not remembering."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thirty years!? As in thirty years in the past?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Absurd though it may sound, there is no doubt in my mind the events that led to the joining of our lands occurred thirty years ago."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Which is not to say I understand why our perceptions of the intervening time are so radically different. We only just became aware of the discrepancy, when Zoraal Ja's military base was completed, and we were at last able to venture beyond the barrier."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I believed you long dead. To have the chance to kill you myself is an unforeseen blessing."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thirty years... Little wonder Zoraal Ja assumed our father had already passed away."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It's not unlike how time passes differently in the First and the Source—the fluctuating space of the rift between them disrupting temporal equivalence."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Perhaps the same holds true here, and time flowed faster within the dome."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I cannot say for certain, but I strongly suspect that to be the case."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I was able to make contact with Y'shtola not long ago via linkpearl, so that shouldn't be cause for concern."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And based on the queen's account, this encampment may have come to serve as a physical bridge between the two planes, after which the dome was forced into the Source's temporal flow."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If we're to be certain of anything, we need more information."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Sphene, would it be all right if we had a look around and spoke with the townspeople?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "By all means!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Time to see what we can see of Alexandria, then."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "And its people. I may yet find familiar faces among the survivors from Yyasulani..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even if I don't understand the half of it, I would learn more of this place before we confront Zoraal Ja."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Perhaps you'd care to see how we make our living?"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Though we have always prided ourselves on the use of traditional Tonawawtan farming methods, the use of electrope-fueled technologies has led to countless agricultural innovations."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I would join you as well!"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Ma'am, please, you needn't trouble yourself."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's no trouble at all. And I promise not to cause any manner of distraction."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Reassuring words—or they would be had I not heard them countless times before. Very well, but do be careful."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Of course! I shall proceed with the utmost care."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Now, then. If you two would follow me, we can begin the tour!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't say that I trust her yet, but I trust that her affection for these people is genuine. And that's enough for me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Touring farmlands with the queen of another nation is not how I expected to spend my day."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Electrope has done much to improve the efficiency of their farming, but hasn't replaced everything."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The people wanted to preserve their old way of life, and we did not want to force ours upon them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You went to such lengths so that our cultures could coexist. Even going so far as to learn our tongue... I'm sure everyone appreciated that."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Communication was thankfully not an issue, for the Turali tongue is surprisingly similar to Alexandrian."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Of course, there are words and phrases for which there is no equivalent, but those can be taught with minimal effort."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Through mutual respect, understanding, and patience, we Alexandrians and Turali have learned a great deal from one another."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And I am sure there is much you wish to learn as well. So please, if you have questions, do not hesitate to ask."
+    }
+  ]
+}

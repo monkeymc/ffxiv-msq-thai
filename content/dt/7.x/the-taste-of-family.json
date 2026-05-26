@@ -1,0 +1,496 @@
+{
+  "id": "the-taste-of-family",
+  "wiki_path": "/wiki/The_Taste_of_Family",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/f8/The_Taste_of_Family.png",
+  "patch": "7.0",
+  "title_en": "The Taste of Family",
+  "level": "100",
+  "location": "Living Memory(X:28.3,Y:15.5)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "G'raha Tia",
+      "text_en": "To think that Krile would actually meet her parents..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Miracles really do happen here... I'm happy for Krile."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Alright. I feel a little calmer now."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I thought myself prepared for the possibility, but to actually come face-to-face with my parents was overwhelming."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And having been parted from them as an infant, I'm not sure how to behave..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Take your time. After everything that has happened, you deserve to do so."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You have many things to say to one another. Now you can say them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Indeed. This is a meeting to be cherished. Just do what comes natural, eh?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you, everyone. I'll make the most of our time together..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let us keep an eye on things for now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You could carve the tension with a knife..."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "You're all our daughter's friends, yes? Thank you for bringing her to us."
+    },
+    {
+      "character": "Robor",
+      "text_en": "That we should meet our daughter again here of all places..."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "It's such a strange feeling to be reunited with you beyond death..."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "Your companions—what are they called?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh dear, I'd completely forgotten to introduce them!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Over here is Wuk Lamat, Vow of Resolve of Tuliyollal. Beside her is G'raha Tia, my colleague in the Students of Baldesion."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And this is Forename , an adventurer—though that hardly does him / her justice. He / She is the most dependable of friends, to whom I owe my life."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "My word. We clearly have a great deal of thanks to give. Don't we, dear?"
+    },
+    {
+      "character": "Robor",
+      "text_en": "Oh, uh...yes! Yes, we do! Our heartfelt gratitude to you all."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Not the smoothest of beginnings, is it...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If only we had some xibruq pibil to ease the way, am I right?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait... That's not a bad idea."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, are you hungry? We could bring you something to eat if you like?"
+    },
+    {
+      "character": "Robor",
+      "text_en": "Oh...uh, thank you, but we're fine."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "You know, it's quite hot here by the springs."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "Something cold would be lovely."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Understood! We'll fetch you all treats that'll help cool you off!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I wouldn't want to be a bother, but..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Think nothing of it. This is what friends are for."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you. We shall look forward to the cool treats."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As we've learned, good food brings people together—even sworn foes!"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "You're very considerate."
+    },
+    {
+      "character": "Robor",
+      "text_en": "I feel like a bundle of nerves..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you, Forename . We look forward to seeing what you bring."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That was well conceived, Wuk Lamat."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hehe, just putting what I learned in Yak T'el to use."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If I had to mention a potential problem, however, it is that food here tastes like nothing to the living."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seriously!? I had no idea..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Still, it appears to be perfectly enjoyable for the Endless. In going along with the idea, Krile likely understands this."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It may not instantly break the ice, but I'm hopeful that it will help to thaw it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So, shall we split up and look for what Alayla requested? Something cold, ironically."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is supposed to be a special moment, so I say we go with the best treat there is—one that'll leave an impression! The locals ought to be able to recommend something."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you wanted to ask people near the aetheryte, Forename , G'raha Tia and I will do the same elsewhere."
+    },
+    {
+      "character": "Indecisive Man",
+      "text_en": "Hm-hm, what snack to have today..."
+    },
+    {
+      "character": "Indecisive Man",
+      "text_en": "Eh? You want a recommendation for something tasty and cold? This stall doesn't have that sort of thing, I'm afraid."
+    },
+    {
+      "character": "Indecisive Man",
+      "text_en": "But speaking of something cold, I could use an iced drink with my snack. I think I'll get a coffee. Actually, a tea might be better, or even a lemonade..."
+    },
+    {
+      "character": "Indecisive Man",
+      "text_en": "Ah, but I can't go past a beer! Yes, let's make it a white beer today."
+    },
+    {
+      "character": "Indecisive Man",
+      "text_en": "Actually, a dark one might be better. Or would it...?"
+    },
+    {
+      "character": "Relaxing Woman",
+      "text_en": "A cold treat that will leave an impression? That's a difficult one."
+    },
+    {
+      "character": "Relaxing Woman",
+      "text_en": "Asyle Volcane is home to fighters, so the food here is mostly the hearty and filling kind..."
+    },
+    {
+      "character": "Relaxing Woman",
+      "text_en": "Ah, right! There's a popular stall to the southwest that might just have what you're after. Why don't you go and take a look?"
+    },
+    {
+      "character": "Relaxing Woman",
+      "text_en": "I've been curious about that stall myself, but I haven't checked it out yet. It could be just the thing, though."
+    },
+    {
+      "character": "Florid Man",
+      "text_en": "Whew... After a long, hot soak like that, I'm going to need a gold star ice cream."
+    },
+    {
+      "character": "Florid Man",
+      "text_en": "What? You don't know gold star ice cream? It's only the most popular treat here in Asyle Volcane!"
+    },
+    {
+      "character": "Florid Man",
+      "text_en": "While it's a little tricky to tuck into, you can't come here and not try it. There's a stall just to the southwest, so you have no excuses!"
+    },
+    {
+      "character": "Florid Man",
+      "text_en": "You'll understand when you see the ice cream, but you need to handle it with care. Wouldn't want to have all that delicious goodness become a puddle on the ground!"
+    },
+    {
+      "character": "Ice Cream Vendor",
+      "text_en": "Hello there! Would you care for our famous gold star ice cream?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, so you're here too. Everyone I spoke with recommended gold star ice cream."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Those colorful balls stacked on top of each other—that'd be the ice cream, I take it?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can see the appeal, but it's going to be hard to deliver it intact. We need three servings, so let's get G'raha to help carry one."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You mean you can do it alone!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, there do seem to be vessels for carrying three... Are you sure about this?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Great. They're definitely safer in your hands than in mine."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll go and tell G'raha everything's taken care of. See you back at the springs!"
+    },
+    {
+      "character": "Ice Cream Vendor",
+      "text_en": "Hello there! Would you care for our famous gold star ice cream?"
+    },
+    {
+      "character": "Ice Cream Vendor",
+      "text_en": "Alright, three servings coming right up!"
+    },
+    {
+      "character": "Ice Cream Vendor",
+      "text_en": "Here you are! You'll want to be quick so it doesn't melt, but also careful so it doesn't collapse. Good luck, and enjoy!"
+    },
+    {
+      "character": "Ice Cream Vendor",
+      "text_en": "Oh dear, the ice cream has collapsed, has it? Not to worry, I'll fix it for you!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you, Forename . We look forward to seeing what you bring."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Goodness me, what an amazing-looking treat! Thank you so much, Forename !"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "Never did we imagine that such a reward awaited us. Isn't that so, Robor?"
+    },
+    {
+      "character": "Robor",
+      "text_en": "Uh...y-yes."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "Oh, don't mind your father. Like me, he's still getting used to seeing you all grown up."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is just excruciating ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Yes, well. A twenty-year blank is not so quickly filled."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even so... There's got to be something we can do..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You know, I think I might have an idea."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Raha...?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "[BITING INTO ICE CREAM EXERT]"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "[BITING INTO ICE CREAM EXERT]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is he doing...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "[AMUSED LAUGHTER “Hehe... Hehehe!”]"
+    },
+    {
+      "character": "Krile",
+      "text_en": "[BITING INTO ICE CREAM EXERT]"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "Y-You needn't force yourself..."
+    },
+    {
+      "character": "Robor",
+      "text_en": "It doesn't taste of anything to the living, surely?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "No, no. It's delicious."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I mean it. I've never tasted anything so good."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "[HAPPY CHUCKLE “Hehe”]"
+    },
+    {
+      "character": "Robor",
+      "text_en": "[BITING INTO ICE CREAM EXERT]"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "[BITING INTO ICE CREAM EXERT]"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "It really does taste so much better when we're all together."
+    },
+    {
+      "character": "Robor",
+      "text_en": "Yes, indeed."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm suddenly craving dessert. How about you?"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "Truly, we've never felt so happy in all our lives. We don't know how to thank you."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "But at the very least, we can give you some answers. You've risked so much and come so far for them, after all."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "'Tis our understanding you were researching a power called interdimensional fusion. Will you tell us about it?"
+    },
+    {
+      "character": "Robor",
+      "text_en": "To begin at the very beginning, there is a legend passed down by our people, the Milalla."
+    },
+    {
+      "character": "Robor",
+      "text_en": "In the distant past, we abided in a different world. Our homeland was a paradise of eternal summer. The flowers were always in bloom."
+    },
+    {
+      "character": "Robor",
+      "text_en": "Until, that is, a great calamity turned the very seas to ice. As those around them froze to death, our ancestors looked to a mighty relic for salvation. By its power they opened a portal, and used it to flee to another reality."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "The key is none other than that relic, and it has been in the safekeeping of our people since time immemorial."
+    },
+    {
+      "character": "Robor",
+      "text_en": "Yes. When lightning threatened this world, we attempted to use the key to flee again like our ancestors once did."
+    },
+    {
+      "character": "Robor",
+      "text_en": "Alas, no matter what we tried, we couldn't invoke its power. We had all but given up when Preservation approached us with an offer of partnership."
+    },
+    {
+      "character": "Robor",
+      "text_en": "Desperate as we were, we accepted their help...only to later discover their ulterior motive: to plunder other worlds of aether."
+    },
+    {
+      "character": "Robor",
+      "text_en": "Seeking to frustrate their plans, we defected from the order. And as their agents closed in on us, we seized control of the prototype gate and activated it."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "What followed, you already know. We sent our daughter and the key through the portal, entrusting them to the men we encountered."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "You were born with an unusual gift, you see. Upon learning of it, Preservation sought to subject you to experiments."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "An unusual gift... The Echo, I daresay."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Our people, the Milalla. Are there any ways I might learn more about them?"
+    },
+    {
+      "character": "Robor",
+      "text_en": "There are—such as visiting the cavern inside the volcano. Our ancient homeland has been recreated there."
+    },
+    {
+      "character": "Robor",
+      "text_en": "While it's intended to serve as an entertaining diversion, it ought to teach you a thing or two about our history and traditions."
+    },
+    {
+      "character": "Krile",
+      "text_en": "May we go there? Selfish though it may be, I should love to learn of my ancestors."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Of them...and of the legacy my parents entrusted to me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sure, by all means. As it happens, it's on the way to our destination."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That went really well! And you, Forename —your sense of balance is something else!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though it had no taste, the ice cream was a treat for the eyes. I'm glad it served to ease the tension."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "You all have good hearts. Our daughter is fortunate to have friends like you."
+    },
+    {
+      "character": "Robor",
+      "text_en": "You've gone through much trouble for us."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Forename , Raha, Lamaty'i..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "With your help, I was able to not only bond with my parents, but know the joy of sharing a meal with them besides."
+    },
+    {
+      "character": "Krile",
+      "text_en": "For that, and so much else, I thank you."
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "id": "on-the-cloud",
+  "wiki_path": "/wiki/On_the_Cloud",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "On the Cloud",
+  "level": "97",
+  "location": "Heritage Found(X:19.1,Y:14.4)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Mahuwsa",
+      "text_en": "My apologies for laughing earlier. Your friend painted an image so far removed from the Sphene we know, I couldn't help myself."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja, you bastard..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Perhaps we should head back to the outskirts? I daresay your friends will also have returned by now."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "My thanks again for dealing with the fiends. Come and visit us any time."
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Like everyone, I have the utmost admiration and respect for Queen Sphene. It's a little embarrassing to say such things to her in person, though..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There is so much of Alexandria I would love to show you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Do you hear that?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's happening over there?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's nearly time."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "I'm glad you could make it."
+    },
+    {
+      "character": "Softspoken Man",
+      "text_en": "Are you with us?"
+    },
+    {
+      "character": "Softspoken Woman",
+      "text_en": "Queen Sphene has come to see you."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We're here, Namikka. Everything is going to be all right."
+    },
+    {
+      "character": "Namikka",
+      "text_en": "Wu... Wuk..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What's the matter, dear?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It can't be..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's the bangle I gave to Namikka!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You know her?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course I know her. She was like a mother to me..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I see. She was always willing to lend a kindly ear to others, but rarely did she ever speak of herself."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is it...is it really you?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "She must have arrived shortly before the barrier manifested. For us it was perhaps days, but for her..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Namikka, it's me! Wuk Lamat!"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "I'm afraid her time with us is nearly at an end..."
+    },
+    {
+      "character": "Worried Gentleman",
+      "text_en": "Has she no more soul cells?"
+    },
+    {
+      "character": "Disappointed Woman",
+      "text_en": "She always used hers sparingly, but at her age? It wouldn't make a difference."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Ma'am, the ushers have arrived."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you, Namikka, for your many years of friendship. Take comfort in the knowledge that this is not the end."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Be not afraid. Your memory will live on in us."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Living on in memory... The giants share a similar belief."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait! Where are you taking her!?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Worry not. She is being escorted to a medical facility in the tower. There we will ease her burden."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I had hoped to make arrangements for her sooner, but she wished to remain here for as long as possible. I could not bring myself to refuse her."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is there any way I might stay with her for a little while longer?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We may not share the same blood, but...she was my mother. Please..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Let us give them some time alone."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "She didn't speak, but I'm grateful that I could be with her at the end. Thank you."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's not the end."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hm?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh, nothing. I was just thinking that we have much to discuss. Where shall we begin?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "With what we can be reasonably certain of, perhaps."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Between what we have witnessed and the testimony of Alexandria's inhabitants, it's safe to say that two distinct lands have indeed become one."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What's more, having met Namikka, there is no denying the divergence in the passage of time."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Taken together, these phenomena strongly suggest that some manner of cross-rift displacement has occurred."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Specifically, the displacement of Alexandria from another reflection to the Source."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It does seem the most likely explanation."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What perplexes me, however, is the scale of said displacement. It far exceeds what could conceivably be achieved with a voidgate, or even with the Crystal Tower."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In essence, we are dealing with a localized instance of dimensional compression. The Ascians would no doubt liken it to a Rejoining."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Which invites the question: how was such a feat accomplished?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...I wish that I had an answer for you, but this talk of reflections and dimensions is well beyond my understanding."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I can only tell you that we lived peacefully under the barrier's protection for many, many years, until the day that peace was suddenly broken."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If I may clarify—the barrier predates Alexandria's displacement?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "By several hundred years, yes. To when the continent we call home was ravaged by a devastating cataclysm."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The barrier was erected to isolate us from the surrounding land's nocuous influence."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I see... And it was only later that it was whisked away, along with its contents, by means unknown."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In other words, Sphene's as lost as the rest of us, right? The Alexandrians didn't mean to end up in Tural."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...Ah, but of course! Our next stop ought to be Everkeep. That tower over yonder."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Once you have been registered as my guests, you will have access to Solution Nine and its residential district, where you will doubtless gain invaluable insight into Alexandria's state of affairs."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Unfortunately, I cannot take you directly to where Zoraal Ja resides..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That you'd let us in at all goes a long way toward proving you're not content to let Zoraal Ja do as he pleases."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But we're not talking about a simple difference of opinion here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've come to avenge my father, and to do so, I intend to take Zoraal Ja's life. Are you willing to stand by and allow Alexandria's king to be slain?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A fair question..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Permit me to answer it thus. My people come first. Their welfare is paramount."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I will do everything in my power to keep them from harm."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It is a ruler's duty."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Now, I am off to register you at Everkeep. It may take some time, but you shall find the entrance open to you in due course."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh, and ere I forget... Your mother, Cahciua. You might try the Thunderyards to the east."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Thunderyards? Is that where she is!?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm afraid I can say no more than that. Make for the Thunderyards, and all will be made clear."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's not as if we have other pressing business. Not until we can get into this Everkeep, anyway."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you for earlier...and for being a friend to Namikka these past thirty years. It means a lot to me."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Namikka...? I'm sorry, but I don't know who you mean."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What? We were just with her! If this is some sort of a joke, it isn't funny."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "I don't mean to give offense, but...I honestly have no idea who you are talking about. I'm sorry."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How can you not know who she is?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You're in charge here! She was under your care!"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Then in all likelihood, my memories of her have been stored in the cloud."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Any person seemingly forgotten without reason is probably there. In the cloud."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Oh, I really must be getting back to work. If you'll excuse me..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is very unsettling..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As far as I could tell, Pepoane genuinely had no recollection of Namikka."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We'll see how it is with other people."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've never seen nor heard of anything like this before."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's going on? How could Pepoane suddenly forget about Namikka?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's as if he never knew her..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Could the same thing have happened to others as well, I wonder?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "There's only one way to find out. Let's make inquiries about Namikka in the area. We can reconvene afterwards at the aetheryte."
+    },
+    {
+      "character": "Working Resident",
+      "text_en": "An old woman named Namikka?"
+    },
+    {
+      "character": "Working Resident",
+      "text_en": "I'm afraid I don't know that person. I'm sorry I couldn't be of help."
+    },
+    {
+      "character": "Working Resident",
+      "text_en": "I'm sorry. Perhaps someone else knows this Namikka."
+    },
+    {
+      "character": "Preoccupied Resident",
+      "text_en": "What's that? Do I know a Namikka?"
+    },
+    {
+      "character": "Preoccupied Resident",
+      "text_en": "Never met anyone by that name, and I've worked at the outskirts for a good while now. If she'd spent time here, I would remember."
+    },
+    {
+      "character": "Preoccupied Resident",
+      "text_en": "Like as not, this Namikka is up in the cloud..."
+    },
+    {
+      "character": "Caregiving Resident",
+      "text_en": "Hmmm... I do recall caring for someone until recently. And you say that it was a woman named Namikka?"
+    },
+    {
+      "character": "Caregiving Resident",
+      "text_en": "While I can't say for certain if it was her, I wouldn't worry. I'm sure she's just been taken up to the cloud."
+    },
+    {
+      "character": "Caregiving Resident",
+      "text_en": "It's not common, but it does happen from time to time."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So it was the same for everyone."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not a single person remembers Namikka. It's as if the memory of her has been purged from their minds."
+    },
+    {
+      "character": "Krile",
+      "text_en": "While such a thing might be done with magic, to alter the memories of so many at once would be a tremendous undertaking. We would have felt a surge of aether corresponding to the act, too, and I sensed none in that moment."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Neither did I. But I did notice something else—right before Pepoane seemingly forgot, a light in the device on his head began to blink."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Could there be a connection? Someone also said something about “soul cells.”"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But who might we ask about this? If we continued making such inquiries, I expect we would only cause confusion."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Indeed... If we can't readily solve the mystery about Namikka, perhaps we could search for Cahciua instead?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Sphene said to try the Thunderyards."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It should be in this direction."
+    },
+    {
+      "character": "Unidentified Floating Object",
+      "text_en": "<gasp> Impossible!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Hm?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Another kind of mechanical soldier!? It looks dangerous! We'd better destroy it!"
+    },
+    {
+      "character": "Unidentified Floating Object",
+      "text_en": "Uwaaah!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Should we give chase?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I think it understood our words. It might be worth asking it some questions."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Erenville? Are you alright? You look like you've seen a ghost."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I-It's nothing. I'm fine."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, it went off in the direction we're headed anyway, so let's try to track it down."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Nothing but birds over here."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's faster than it looks."
+    },
+    {
+      "character": "Krile",
+      "text_en": "No sign of it over here."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I do not see it..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That voice... Could it be...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You found it!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "To the northeast? Then it must be bound for the mines."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, then!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It could well be a trap, so let's not rush in too quickly."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So it went in here?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I think it's safe to assume it went into the mines."
+    },
+    {
+      "character": "Krile",
+      "text_en": "An old coal mine? It appears to have long since been abandoned, like so many other places."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The stones in those crates... Could it be turquoise?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I heard faint voices coming from inside."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So it's not alone. But we're still going in, of course?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This may be a trap. Be ready for a fight, everyone!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This tunnel just keeps going..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm not worried. We've had to improvise countless times before, after all."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A device made with electrope. It seems to be the only one here."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It would appear no one has worked these tunnels in quite some time..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I can hear them. Several people up ahead."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Hmm. I can't make out their conversation with the echoing."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's keep going. Stay on your guard."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "[CAUGHT OFF GUARD, GASP]"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What is this?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Erenville!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh, a trap!?"
+    },
+    {
+      "character": "Unidentified Floating Object",
+      "text_en": "Elene'shpya? It really is you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Huh?"
+    },
+    {
+      "character": "Blue-haired Man",
+      "text_en": "...Who?"
+    },
+    {
+      "character": "Unidentified Floating Object",
+      "text_en": "I just had to get a look at you in the light—and I can still hardly believe my eyes! But it is you, my darling Elene'shpya."
+    },
+    {
+      "character": "Krile",
+      "text_en": "My darling what now?"
+    },
+    {
+      "character": "Unidentified Floating Object",
+      "text_en": "Oh, it's so good to see you, my fussy little bunbun. But what are you doing here? What brings you all this way?"
+    },
+    {
+      "character": "Unidentified Floating Object",
+      "text_en": "Ahahaha!"
+    },
+    {
+      "character": "Unidentified Floating Object",
+      "text_en": "Why the long face? Aren't you happy to see me after all this time?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'd know that laugh anywhere... Mother?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait, wait, wait! Since when was your mother a weird...floating thing!?"
+    },
+    {
+      "character": "Unidentified Floating Object",
+      "text_en": "And what have we here? Say, aren't you Gulool Ja Ja's kitten?"
+    },
+    {
+      "character": "Unidentified Floating Object",
+      "text_en": "I knew I recognized that adorable fuzzy face! Elene'shpya was always sooo excited whenever you invited him over to play. You remember me, I hope?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't say that I do... But you knew my father?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "[SIGH]"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Appearances notwithstanding, it would seem this is my mother, Cahciua."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm sorry...?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Oh, but this won't do! Come in, come in! Friends of my Elene'shpya are always welcome..."
+    },
+    {
+      "character": "Blue-haired Man",
+      "text_en": "All I ask is a little forewarning, but no!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "[SIGH]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just when I thought I was starting to get a handle on this place. How are things still getting stranger?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't say I understand what's going on, but at least Cahciua is safe."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Erenville's mother is a floating machine. Right—that makes about as much sense as everything else thus far."
+    },
+    {
+      "character": "Krile",
+      "text_en": "At this point, I doubt anything could possibly surprise me."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The Allagans had machines that could be controlled remotely. Is she using something similar to communicate with us?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Always too much excitement with her... Sorry for drawing our weapons on you."
+    },
+    {
+      "character": "Nostalgia",
+      "text_en": "If it's any consolation, this is all rather confusing to us as well."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Oh, uh...hello."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Come, come, make yourselves comfortable!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As far as I can tell, this is indeed my mother. I can think of few people in the world quite so spirited..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But as to what's happened, we'll need to ask her..."
+    }
+  ]
+}

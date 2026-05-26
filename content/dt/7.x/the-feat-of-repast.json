@@ -1,0 +1,448 @@
+{
+  "id": "the-feat-of-repast",
+  "wiki_path": "/wiki/The_Feat_of_Repast",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Feat of Repast",
+  "level": "94",
+  "location": "Yak T'el(X:30.9,Y:14.3)",
+  "npc_start": "Koana",
+  "dialogues": [
+    {
+      "character": "Wuk Evu",
+      "text_en": "I hope I have been of sufficient service to the Third Promise."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's thanks to Wuk Evu that we were able to learn this forest's history."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's twice now that he's helped us. To think that we might never have met him if we hadn't thought to fix the float..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Wuk Evu has given us valuable insight into the origins of xibruq pibil."
+    },
+    {
+      "character": "Koana",
+      "text_en": "However, we are still no closer to procuring the necessary najool leaves. Unless..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Tell me─was that historic feast commemorated in some fashion? With a monument, for instance?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Indeed it was. Allow me to show you."
+    },
+    {
+      "character": "Koana",
+      "text_en": "It is only speculation, but I dare to hope..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What does Koana want with a monument?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Here it is."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Offered up by the two factions, these weapons symbolize their vow that they would never again raise arms against each other."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Since this feat demands a journey through history, I thought it only logical that a monument like this might steer us true."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Especially one at the heart of so significant a battlefield."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i, Forename ─would you help me search this area for clues? Tell me if anything catches your eye."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sure thing!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Look here─this soil has been recently overturned."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oooh, someone buried a box!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Well, well... I would have been satisfied to find only a hint, but here they are─fresh najool leaves."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Hunmu Rruk's doing, I'd wager. There's a poetry in hiding them on this battlefield, given that it was central to the war they helped end."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh! So he planned all this from the start!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you again, Wuk Evu. We wouldn't have found these leaves without your help."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "It was my honor to render assistance."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "And, with apologies to present company, allow me to offer my encouragement as well, Third Promise. Ever since I witnessed your performance in the Feat of Reeds, I have been certain that you are the claimant most worthy of leading our nation."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "All devised solutions to the Hanuhanu's ailing crops, but you alone sought to know their culture and revive Ihih'hana, even if it seemed unrelated to your task."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "In my humble opinion, no one cares more for the people of Tuliyollal and what they hold dear."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Should you again require the historical musings of an old shipwright, I am ever at your service."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "For now, I take my leave."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I cannot argue with that..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...We have what we need. Let us return to Iq Br'aax."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You have to wonder whether Wuk Evu is actually a historian and not a shipwright."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "You may make use of the kitchens at any time. I look forward to tasting your xibruq pibil."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I'm glad we were successful. The others should be back soon, I expect."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I hope so─I'm famished!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "How did everyone fare?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We got the najool leaves! Wuk Evu came along and helped us find them!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wuk Evu was here? I would have liked to say hello."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, he gave us an important history lesson..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That Gulool Ja Ja brought an end to centuries of warfare surprises me little─but to achieve said peace through cuisine is something else entirely."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Leave it to my old man to find the oddest of solutions. But how about the rest of you? Is our kitchen ready?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Everything should be in order. Urianger and I made another tour of the village and borrowed the cooking utensils we need─with no mention of what we needed them for , of course."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And I am pleased to report that we are stocked with the finest firewood this forest had on offer."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Spoken like a true expert."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Erenville and I found our ibruq, so we should have meat aplenty."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It was a spirited creature. So much so that its hunter fell down a cenote trying to catch it..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What part of “never speak of this to anyone” did you not understand!?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I picked a good portion of local herbs, with particular attention to the seeds that yield achiote. I'm told our resident astrologian divined the appropriate measurements for the seasoning as well."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Aye. Through further inquiry did I determine the ideal balance of spices."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Then all that remains is to prepare the dish itself. I presume that at least one among us is versed in the culinary arts?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can hardly claim profound skill, but I have cooked for myself. You can leave the rest to me."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And you, I hope. As I recall, you are an accomplished culinarian."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And you, I hope. I could use your adventurer's grit when it comes to skinning the ibruq."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oooh, my mouth is watering already!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Without further delay, then!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, it smells so good!"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Good, there is still time. I shall prepare our sample at once."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "At first I wasn't sure about being stuck with the one-head, but better that than playing nanny to the mewling house cat."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Be quiet, Bakool Ja Ja. No one cares what you think."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Hmph. Act tough all you like. Victory will be ours."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's ready!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Apologies for the wait. We submit to you our xibruq pibil."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This looks amazing!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The dish is prepared by using the culinary techniques of the Mamool Ja to cook the spiced meats favored by the Xbr'aal."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It is a symbol of peace between their two peoples after centuries of war."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Both the ingredients and your methods appear to have been correct. Now then..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "In taste, texture, and aroma, you have recreated xibruq pibil admirably."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Granted, anyone might well achieve similar results by following the recipe to the letter."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "But you went a step further. You sought to learn the cultural significance of the dish─about Yak T'el's history of violence and your father's role in ending it."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Your willingness to take lessons from the past befits aspiring Dawnservants, and for that I commend you."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "All that remains is to partake of your creation. True understanding is gained only through experience."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now this is something I'm definitely good at!"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Ahem. I believe we have yet to receive our assessment."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Ours is also a faithful example of xibruq pibil, as you will no doubt agree."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I see..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "While your effort looks the part, unlike the Second and Third Promises' dish, it lacks its defining aroma."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "P-P-Preposterous!"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "The meat was marinated in spice before being steamed in an earthen oven! This is xibruq pibil!"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Oh? And what about the Ja Tiika banana leaf?"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "I-I─!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "It's because of you that we couldn't get any damned leaves! You can't fault us!"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "But the Second and Third Promises had no such difficulty, did they? That which they needed they acquired simply by showing interest in our history and heritage."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "It's just some crusty old leaf! What difference could it make!?"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Your dish lacks an essential ingredient. As you have failed to demonstrate an adequate understanding of xibruq pibil, I must deem your performance unsatisfactory. Your team will not receive keystones."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Hmph. This was stupid anyway."
+    },
+    {
+      "character": "Krile",
+      "text_en": "His ambition only grows more intense. That someone could harbor such dark thoughts towards family..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "What do I care for this sham of a feat? I can always take what I need later!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is delicious!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The ibruq is so tender, it melts in your mouth! And the way the najool leaf rounds out these spices is sublime!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the taste of harmony. Someone who only knows brute force and deception could never appreciate it."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Choke on your harmony."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Come, come, finish your meal. That too is part of the feat."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You don't have to tell me twice!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah... That was bliss..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You've got real culinary talent. If you ever tire of adventuring, you can always be my personal chef!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "It was palatable enough, I suppose."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "To you who have successfully performed the Feat of Repast, I present these keystones."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Only one feat left..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Well, I should get going, then."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I'm glad that I...uh, wasn't paired with one of the others."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We can do better than that, surely."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The sixth keystone is ours! Thanks for all your help, everyone."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I forgot something important!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Um...was there any xibruq pibil left? I could really use another helping..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm relieved that our dish was well received."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "One final feat remains. After this one, I hardly know what to expect."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Depriving the First Promise of a keystone is a crucial victory indeed."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We need to start considering how to reclaim that keystone from Bakool Ja Ja..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That was sooo good! I'm already looking forward to having xibruq pibil again."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here, Forename . Krile made more using leftover ingredients. You'll love it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm thinking to buy more for the road, myself. Now that the Feat of Repast is over, the villagers should be free to offer it to us, right?"
+    }
+  ]
+}

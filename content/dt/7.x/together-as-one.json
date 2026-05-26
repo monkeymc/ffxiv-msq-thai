@@ -1,0 +1,600 @@
+{
+  "id": "together-as-one",
+  "wiki_path": "/wiki/Together_as_One",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Together as One",
+  "level": "96",
+  "location": "Sunperch(X:6.1,Y:4.4)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Koana",
+      "text_en": "This talk of reflection is perplexing, to say the least. I should be glad for your help in understanding and overcoming this crisis."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I struggle to believe I am from another reflection. I wonder, does this mean my soul is thinner than a native of the Source?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Surely not. Y'shtola would have noticed. Gods, there's so much I don't understand, my head is ripe to burst..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I fear we need to know more if we're to defend against another assault."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I'm indebted to Ojika for overseeing our operations in my absence. I will endeavor to make myself as useful as I can here."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Another reflection encroaches upon our own, but how, and why now?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Please be safe..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll find a way to breach the dome, and we'll make sure everyone inside is safe."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "It's embarrassin' to think how Zoraal Ja caught me unawares, but I've no doubt the bastard came to kill me. I reckon he would've succeeded were it anyone else."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Who would've thought him takin' that key would lead to all this?"
+    },
+    {
+      "character": "Sunperch Guard",
+      "text_en": "Vow Wuk Lamat and the others are waiting for you. Right this way."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know we're in a hurry to set off. But before we do, I need to address my people."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The peace we swore to uphold has been shattered. They need to understand what's happened and how we intend to fix it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So I want to call an assembly at the Winged Walk and assure them that all will be well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But as shaken as they are, I don't know how many will come..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It's those who are most distressed that truly need hear your words..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If you like, I shall seek out such souls and encourage them to attend."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'll help too. This is an important step in the city's recovery."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Care to join us, Forename ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "While you handle that, Erenville and I will see to provisions for the expedition."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you... I'll go ahead and have the Landsguard announce the address. People must first know there's going to be one before they can decide whether or not they want to hear it."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If you could see to the Resplendent Quarter and Bayside Bevy, Alisaie and I will split the rest of the city between us."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I shall have to examine one of these mechanical soldiers later."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I have a mind to inform Thancred and Urianger as well, but they may have already left Tural."
+    },
+    {
+      "character": "Landsguard Gatekeeper",
+      "text_en": "I should hope you will continue to lend your strength to the Dawnservants. They have need of powerful allies now more than ever."
+    },
+    {
+      "character": "Cullaal Ja",
+      "text_en": "Even in times of war, the Wing of Reflection has a role to play. Our most pressing job is ensuring the Vow of Resolve can concentrate on the fight ahead."
+    },
+    {
+      "character": "Baitabrik",
+      "text_en": "Baitabrik's favorite pots were shattersmashed during the chaos of the big flusterfight, and─aaagh!─now his ankle is sprained. But these are only smallfrets."
+    },
+    {
+      "character": "Baitabrik",
+      "text_en": "More importantly, is the city safe now, or still crawling with dangerfrights? Any news of the inbreakers?"
+    },
+    {
+      "character": "Hunmu Hoh",
+      "text_en": "We've scarcely had time to welcome our new rulers, and now this? Can't we have a day of peace in this damned country?"
+    },
+    {
+      "character": "Pyatta",
+      "text_en": "Times like these are exactly why we keep careful records of everything! Now, the crates in the back are from Limsa Lominsa, and─wait, weren't those in the front? Ugh, now I'm confused..."
+    },
+    {
+      "character": "Level-headed Resident",
+      "text_en": "I still can't believe we were attacked..."
+    },
+    {
+      "character": "Level-headed Resident",
+      "text_en": "For a mercy, my family was spared. I don't know what I would've done had they come to harm."
+    },
+    {
+      "character": "Level-headed Resident",
+      "text_en": "I understand Vow Wuk Lamat is going to make an address soon. I'll be there, of course."
+    },
+    {
+      "character": "Level-headed Resident",
+      "text_en": "Level-headed Resident: If you were coming to ask after us, you needn't be concerned. My family is thankfully unharmed."
+    },
+    {
+      "character": "Cheerful Resident",
+      "text_en": "Hm? Checking on everyone, are you?"
+    },
+    {
+      "character": "Cheerful Resident",
+      "text_en": "The city's definitely seen better days, but we can only spare so much time for mourning. Only by looking to the future can we overcome this crisis─and we'll all need to do our part."
+    },
+    {
+      "character": "Cheerful Resident",
+      "text_en": "I've no doubt Vow Wuk Lamat and Vow Koana will share similar sentiments at their address."
+    },
+    {
+      "character": "Cheerful Resident",
+      "text_en": "It's about time I was on my way to the Winged Walk."
+    },
+    {
+      "character": "Dumbfounded Farmer",
+      "text_en": "If Tuliyollal falls to the enemy, what will happen to us? To our homes, our farms─everything we've worked so hard to build?"
+    },
+    {
+      "character": "Dumbfounded Farmer",
+      "text_en": "Lives and communities and histories, all reduced to ash by these merciless villains..."
+    },
+    {
+      "character": "Dumbfounded Farmer",
+      "text_en": "I heard Vow Wuk Lamat is planning to address the people, but what's the point? What can she and her brother possibly have to say?"
+    },
+    {
+      "character": "Dumbfounded Farmer",
+      "text_en": "Really? The Dawnservants have a plan already? They've lost so much, yet they're prepared to carry on."
+    },
+    {
+      "character": "Dumbfounded Farmer",
+      "text_en": "And standing around worrying about what's to come will change nothing..."
+    },
+    {
+      "character": "Dumbfounded Farmer",
+      "text_en": "It would be a lie to say I'm hopeful for the future, but I will go hear what they intend to do."
+    },
+    {
+      "character": "Sorrowful Citizen",
+      "text_en": "Please, leave me be."
+    },
+    {
+      "character": "Sorrowful Citizen",
+      "text_en": "My father is gone. Leave me to mourn."
+    },
+    {
+      "character": "Sorrowful Citizen",
+      "text_en": "Gulool Ja Ja is slain? And yet Vow Wuk Lamat and Vow Koana still fight for our nation. For us..."
+    },
+    {
+      "character": "Sorrowful Citizen",
+      "text_en": "Very well. If they would speak, the least I can do is listen."
+    },
+    {
+      "character": "Despairing Alpaca Herder",
+      "text_en": "It's not safe here, not anymore. I could try to leave Tural, but...where else is there to go?"
+    },
+    {
+      "character": "Despairing Alpaca Herder",
+      "text_en": "You look like the well-traveled sort. Please, I can't stay here─but I fear nowhere in Tural is beyond the enemy's reach. What of the lands across the salt?"
+    },
+    {
+      "character": "Despairing Alpaca Herder",
+      "text_en": "I know, I know. Even if I ran, I know I'd regret it in the end."
+    },
+    {
+      "character": "Despairing Alpaca Herder",
+      "text_en": "I love Tural. This is my home, and I know the Dawnservants would give their lives to defend her."
+    },
+    {
+      "character": "Despairing Alpaca Herder",
+      "text_en": "I will put my faith in them, and listen to what they have to say."
+    },
+    {
+      "character": "Composed Merchant",
+      "text_en": "Whew, the wares are mostly intact. Glad tidings for my clients."
+    },
+    {
+      "character": "Composed Merchant",
+      "text_en": "Oh! Sorry friend, but I've no time to spare. Vow Wuk Lamat and Vow Koana will soon be giving a public address, and I have to finish taking inventory before then."
+    },
+    {
+      "character": "Composed Merchant",
+      "text_en": "Given the circumstances, it must be quite important. You'll want to be there as well."
+    },
+    {
+      "character": "Composed Merchant",
+      "text_en": "Only a few more crates and I'll be on my way to the Winged Walk."
+    },
+    {
+      "character": "Resting Resident",
+      "text_en": "Phew. Cleaning up is tiring work."
+    },
+    {
+      "character": "Resting Resident",
+      "text_en": "You've been busy helping as well, I'm guessing?"
+    },
+    {
+      "character": "Resting Resident",
+      "text_en": "Right now it's tough for everyone, but Tuliyollal won't succumb to this."
+    },
+    {
+      "character": "Resting Resident",
+      "text_en": "With the new Dawnservants to protect and lead us, we'll get through it together."
+    },
+    {
+      "character": "Resting Resident",
+      "text_en": "Vow Wuk Lamat has asked we gather at the Winged Walk, yes? I'll be on my way after a short rest."
+    },
+    {
+      "character": "Paranoid Resident",
+      "text_en": "I can't leave now. What if those soldiers come back?"
+    },
+    {
+      "character": "Paranoid Resident",
+      "text_en": "And what are those strange machines looming overhead? Gods, I have so many questions."
+    },
+    {
+      "character": "Paranoid Resident",
+      "text_en": "I see... It would put my mind at ease to learn something─anything─of the threat we face."
+    },
+    {
+      "character": "Paranoid Resident",
+      "text_en": "All right, then. I'll go to the Winged Walk."
+    },
+    {
+      "character": "Paranoid Resident",
+      "text_en": "Thank you. I feel better already, and likely better still once I hear what the Dawnservants have to say."
+    },
+    {
+      "character": "Stockpiling Citizen",
+      "text_en": "I need to stock up food and medicine. As much as I can. And what else is there? I can't afford to forget anything..."
+    },
+    {
+      "character": "Stockpiling Citizen",
+      "text_en": "Sorry, sir / miss , but I'm busy. Too much to do and too little time."
+    },
+    {
+      "character": "Stockpiling Citizen",
+      "text_en": "There's no telling when those stone men will return. I have to get out of here, find somewhere safe."
+    },
+    {
+      "character": "Stockpiling Citizen",
+      "text_en": "Vow Wuk Lamat wants to speak to us?"
+    },
+    {
+      "character": "Stockpiling Citizen",
+      "text_en": "Perhaps she has a plan, then. I suppose there's no harm in hearing what she has to say."
+    },
+    {
+      "character": "Flustered Citizen",
+      "text_en": "Whatever it is, I don't have time. I have to finish repairing this cart."
+    },
+    {
+      "character": "Flustered Citizen",
+      "text_en": "There's only so much I can carry on my back. When those hollow devils come again, I need to be ready."
+    },
+    {
+      "character": "Flustered Citizen",
+      "text_en": "Vow Wuk Lamat and Vow Koana mean well, but they're young and inexperienced. They can barely look after themselves. If we're to survive, I do not know if we can count on them."
+    },
+    {
+      "character": "Flustered Citizen",
+      "text_en": "They're going to strike back at the enemy? So they're resolved to face this..."
+    },
+    {
+      "character": "Flustered Citizen",
+      "text_en": "Maybe it is too early to be thinking of running... Alright, I'll go and hear their address."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I was just discussing the gate to the golden city with Ketenramm. He has been patiently answering my few questions."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Did you not see Alisaie on your way here?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It seems Krile and Erenville have yet to return. Still busy making preparations for our expedition, I presume."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Thank you again for spreading word of our address. I fear those who needed assurance most would not have been present otherwise."
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "\"A few questions“? More like a bleedin' broadside of 'em. Took me back to me time with Galuf, it did. Sharlayan scholars, I swear..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It looks like you've brought quite a few people. Thank you."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Alisaie had actually returned ahead of you, but upon hearing that you were still out there, she decided she was unsatisfied with her own efforts and left again."
+    },
+    {
+      "character": "Koana",
+      "text_en": "My apologies for involving you all in Turali affairs."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We are simply helping dear friends in need. Having traveled the lands of Tural, sharing in the rich cultures of your people, I can see it no other way."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What's more, Zoraal Ja and his army pose a threat not only to Tural, but to the star as a whole."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We will stand with you, to protect what you hold dear."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Thank you."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I don't expect you've had much, if any, rest. How are you holding up?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm fine, thanks to a little encouragement from Forename ."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You needn't worry about me either."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Whatever weariness I feel is no match for my desire to protect my people."
+    },
+    {
+      "character": "Koana",
+      "text_en": "We will restore peace to the nation and preserve our father's legacy..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "And it begins by speaking to the people from our hearts."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We need to see to a few things first, but feel free to go ahead to the plaza and wait."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Their father raised them well."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That he did."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i, are you all right?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes. Don't worry."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm ready for it. The fear and sadness and anger─everything."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I am the reason to your resolve. But more than that, I am your brother. You needn't bear this burden alone. Remember this."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As you likely already know, my father, our former Dawnservant, lost his life in the recent attack."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He challenged the enemy leader to a duel and fought with skill and valor. And for a moment, we believed he had won."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But wielding an unknown power, his foe returned from death and struck him down."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I could only watch as this happened. I could not tarnish my father's honor by interfering."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Many of you have suffered terribly. You've taken wounds. You've lost friends and family."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As Vow of Resolve, I failed in my duty to protect you. Words can't express the shame and regret I feel."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And as much as it pains me to reveal this, the enemy leader was none other than my brother Zoraal Ja."
+    },
+    {
+      "character": "Shetona Youth",
+      "text_en": "Zoraal Ja!?"
+    },
+    {
+      "character": "Xbr'aal Youth",
+      "text_en": "It's true! I saw him!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We believe he staged the attack from Yyasulani, which has been encased within a mysterious dome. I know that you're concerned for your loved ones there as well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But mark my words: I won't let Zoraal Ja torment us any further. Our father gave his life to protect our nation, and I'm prepared to do the same."
+    },
+    {
+      "character": "Tonawawtan Onlooker",
+      "text_en": "You say that, but those metal monstrosities are still up there in the sky! What are you going to do about them!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The enemy is still on our doorstep, and waiting for them to strike again accomplishes nothing."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's why we're going to strike first. We're going to take the battle straight to Zoraal Ja and put an end to it all."
+    },
+    {
+      "character": "Koana",
+      "text_en": "And while my sister sallies forth, I will take charge of the city's defenses. Not another soul will come to harm, we swear to you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Like our father before us, we will lead with resolve and reason to restore peace to our nation. So please, have patience and faith."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Gehehehe!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "So the resolve goes on the attack while reason shores up the defenses... Sounds like a fine plan."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Needless to say you can count on my sword. Tural's my home, and I'll do my part for it!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Hear, hear, Brother!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "That makes two of us! Er, or was that two of we? Bah, never mind that."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "What of the rest of you? Will you let others do the work? Or will you do your part and fight!?"
+    },
+    {
+      "character": "Elderly Hanu",
+      "text_en": "We fight, we fight! We're Tuliyollans because we're united! We'll stand with you and weather this storm!"
+    },
+    {
+      "character": "Tonawawtan Onlooker",
+      "text_en": "He's right. This is our nation and it falls to us to protect it."
+    },
+    {
+      "character": "Tuliyollan Youth",
+      "text_en": "We'll fight too! For Tuliyollal!"
+    },
+    {
+      "character": "Hhetsarro Youth",
+      "text_en": "Me too! Me too!"
+    },
+    {
+      "character": "Hoobigo Onlooker",
+      "text_en": "We're all together in this!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, everyone! Thank you!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "We've already learned much about our foe, and we will continue to learn more. In time, we will have the means to make their warships fall from the sky."
+    },
+    {
+      "character": "Koana",
+      "text_en": "When we join hands with our countrymen and our allies from afar, we're stronger than we dare to hope!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Together, let us show the enemy the might of Tuliyollal!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You are the beating heart of our nation. Each and every one of you!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Uncertain days lie ahead, but for now I ask you to persevere. To go about your lives as you always do."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Only then can we ensure we have the resources to see our nation through these trials."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And when the time comes, we will strike!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Tuliyollal will not fall! We will prevail, and peace and happiness will be ours again!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...She did well."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It is inspiring to see such diverse peoples rally as one."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The people of Tural have come together for this fight. We must endeavor not to fail them."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm glad to see so many people came. I wasn't sure how many I had won over, so I decided to keep at it."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That was a rousing speech, was it not? Let us do our part to ensure that the Dawnservants can fulfill their promise to the people."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Listening to Wuk Lamat and Koana, I was reminded of my time in the First."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "While the Exarch was no king, I often found myself speaking before the people of the Crystarium in like manner. And through their deeds, they answered me."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The people of Tural, too, will rise to the occasion. This I can tell."
+    }
+  ]
+}

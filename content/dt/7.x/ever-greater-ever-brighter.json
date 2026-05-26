@@ -1,0 +1,820 @@
+{
+  "id": "ever-greater-ever-brighter",
+  "wiki_path": "/wiki/Ever_Greater,_Ever_Brighter",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Ever Greater, Ever Brighter",
+  "level": "95",
+  "location": "Tuliyollal(X:11.6,Y:7.6)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "The Head of Reason was very wise indeed to devise something so elaborate and meaningful as the rite of succession. 'Tis a shame he could not be here to bear witness to the end."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A bittersweet celebration to be sure, but I'm glad Wuk Lamat finally got the recognition she deserves."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "She might have told someone what she was planning..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But Wuk Lamat does not act without the best interests of her people in mind."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wuk Lamat has truly come into her own, has she not?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. Even as she moved the people with her heartfelt words, she retained her characteristic spontaneity─as evidenced by her nomination of Koana as fellow Dawnservant."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As sudden as it was, I would like to believe she gave it all due consideration."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "She could do far worse. Koana completed every feat except the last, and that he only forfeited to help Wuk Lamat secure victory."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I look forward to seeing how Tuliyollal will prosper under their care."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone, thank you for coming!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I could see you all perfectly from up there."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That was an impressive speech, Dawnservant."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I told you─no titles!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Besides, after everything we've been through together, you're nothing less than family."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So...like my family does, I'd like you to call me Lamaty'i."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you. It means a lot to me."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It would also be my honor to call you Lamaty'i."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, don't worry about that. However you say it, I know it'll be with love."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If we do mispronounce it, please correct us, but..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It would be my honor to call you Lamaty'i."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, say something would you? We already have Erenville for the mocking silences!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I think you've simply caught our friend off guard."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Personally, it would be my honor to call you Lamaty'i."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Mine as well."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. Consider us your Eorzean cousins, if such a notion appeals to you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Eorzean cousins..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's a little embarrassing...but not in a bad way!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's still lots I'd like to say, but I need to make my rounds first."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I want to thank my supporters who're visiting for the occasion. Could you wait for me here?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Of course. We'll keep ourselves entertained."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That said, would you join me, Forename ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wonderful! Come and meet me outside the Winged Walk, then."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "She'll always be “Wuk Lamat” to me. No matter how important she gets."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Don't worry about us! Go on and have fun with Wuk La─er, Lamaty'i!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "La ma ty'i... Lama ty 'i? Hmm..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I don't believe I saw Ketenramm in attendance. Did you?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ready? Let's go."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Our first stop is Aunt Tii's Tacos─and not just for a snack, I promise. Wuk Evu and Mablu should be there."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course, since we'll be at Aunt Tii's Tacos anyway , we might as well pick up some snacks as well, right?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Did something come up? That's fine─meet me by the Winged Walk once you're finished!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's get going!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Ohokaliy!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "These tacos are delicious! Though no doubt even tastier if topped with reeds..."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "It's been a while since I've made it to the capital. I'm glad to find it so lively."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Dawnservant Wuk Lamat! Oh, she was marvelous up there, wasn't she? I simply wept with joy!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Why if it isn't Forename ! Marvelous ceremony, wasn't it?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Dawnservant Wuk Lamat. Words cannot well express the profound joy your ascension has brought me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No need for formalities. I'm still the same old me."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "All right, then. I shall forgo formalities."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Argh, but I cannot! You are Dawnservant! Too disrespectful it is to address you without your due title!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As Dawnservant, I'm ordering you not to bother with formalities!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "All right, then. I won't bother anymore."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "I could more easily converse with a drunken alpaca."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Thank you for helping Wuk Lamat become Dawnservant, Forename !"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Political opinions in our community may have been divided, but a Dawnservant's ascension presents us all with a prime opportunity. Which is why I convinced everyone to participate in a commemorative sales campaign!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "A wonderful plan, no? My first big undertaking as a merchant!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I do like the sound of a sale! ...So long as I'm not persuaded to buy too much."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's so good to see all of you again. I wanted to personally thank each of you for your help."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Feat of Reeds and the Feat of Gold were my first true tests as a claimant. If not for your guidance, I would have failed the rite of succession before I fully understood its importance."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now that you've given me a taste for celebrating culture, I can't wait to see what else Tuliyollal has to offer. In Xak Tural, for instance!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "As always, you must observe proper etiquette. I would be happy to offer my services as a tutor, should you desire them."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can think of no better instructor! I'll be sure to bring Koana as well."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Your duties as Dawnservant will be plentiful─but don't forget your promise to attend Ihih'hana next season."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course! I wouldn't miss it."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "When I've made a name for myself as a merchant, I'll come by the palace and tell you all about my biggest sales!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hehe, I look forward to it!"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "I have been personally attending to your alpaca's care. Dare we hope to see you at the ranch again?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hehe, tell my fluffy, spit-filled friend that Wuk Lamat will visit soon."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Anyway, you'll have to excuse us. Oh─you haven't seen Fonjeantaine around here, have you? A tall, slim fellow with long pointy ears."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I saw a man matching that description by the weapons dealer in Bayside Bevy. In the company of a Moblin and a pair of Yok Huy, if I remember correctly."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bayside Bevy─got it!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Enjoy the festivities, everyone. And the tacos!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "We could not have asked for a finer Dawnservant."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Then it's settled─the Dawnservant Dedication Day Discount is hereby in effect!"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "The First Promise's golden alpaca is as spirited as ever. Too spirited, if you ask me."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I hope Dawnservant Koana will join us for Ihih'hana as well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sounds like Fonjeantaine has made new friends. Which should make him easy to find!"
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "The citizens behold the High Luminary with awe. No doubt few have seen one of his station...or his stature."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "I have not come to Tuliyollal in quite some time..."
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Kohhh... Potfriend! Rakorok is grateful for this meetagain!"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Ah, Forename ! A pleasure to see you again."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Wuk La─er, Dawnservant! Forename ! You honor us with your presence!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you for coming, everyone! I know the journey to Tuliyollal isn't a short one."
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Pfffkohhh... Longroad worth the travel to congratulate new Dawnservants!"
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "To hear the Head of Reason has passed brings me sorrow, but we who remember him will ensure he lives on. May the accolades of this day be as offerings to the future he envisioned."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "The High Luminary and I attend on behalf of Worlar's Echo. Had our people come en masse, we would have been an obstruction."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Nonsense! You're always welcome─all of you! This is your city as much as anyone's!"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I'm glad to see you hale and whole, Forename . Though I know little of the particulars, I can only imagine your latest adventure has been both long and...colorful."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Beginning with near shipwreck, if you'll remember! Yet here we stand, celebrating the ascension of your claimant."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When my journey began, I thought only of preserving the peace that my father worked so hard to create."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But the Feat of Pots, the Feat of Proof, and the Feat of Ice showed me that peace is not simply the absence of war."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Being able to live together in safety and happiness─that was what my father envisioned for this nation. That's the Tuliyollal I want for you all."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So I promise you this─as Dawnservant, I will do everything I can to bring that same happiness to the bandits in Kozama'uka and the Yok Huy of Chirwagur Saltern. I won't forsake them."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "As I was moved by your father's influence, so too may the Chirwagur come to accept your peace."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Their beliefs have stood for a millennium. While not easily shifted, neither are they immutable."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh! Well, I can be pretty determined. They'll come around eventually, mark my words!"
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "I can vouch for the efficacy of such determination. Thanks to the Moblins' hospitality, I have been able to rediscover the joy of my craft and honor my father's legacy."
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Kohhh... Now that goodliving is secure, the village overflows with feelsmiles! Such cooperation between helphands and potsworn is the very spirit of a healthy potpact."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A partnership like yours is bound to be fruitful. I look forward to seeing the fantastic pieces you produce!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There are some other people I'd like to see, so we should take our leave. Let's try and find Hunmu Rruk."
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "The Xbr'aax Rax? I believe I saw him on the sands below."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Gleamsands! Thank you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Enjoy your time in the city! And remember─this will always be your home too."
+    },
+    {
+      "character": "Fonjeantaine",
+      "text_en": "Come and visit us in Earthenshire! Rakorok and I should be glad to welcome you."
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfffkohhh... Rakorok is excited to see how the new Dawnservants will handhelp Tuliyollal. This city will be as one big happypot!"
+    },
+    {
+      "character": "Zurmurwur",
+      "text_en": "Before the ceremony, we perused the Tuliyollal Saga on Morrow's Measure. I am proud to see Yok Huy glyphic traditions so prominently displayed in the city."
+    },
+    {
+      "character": "Gurfurlur",
+      "text_en": "I must pay my respects to Gulool Ja Ja, though he will doubtless insist upon a bout..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's make for the Gleamsands. Hunmu Rruk should be there!"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "What a wonderful variety of foods and flavors they have here... I must be sure to bring some home for the others."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "You must think my attendance incongruous to such an auspicious occasion. Yet as Autarch of Mamook, I have a duty to represent the goodwill of my people."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Glad am I to see you, Forename . I had hoped I might extend congratulations to the Dawnservant, but she no doubt has other duties to attend to..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "My, my. You honor us with a personal visit, Dawnservant. Congratulations upon your ascension."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, no, none of that. My title may have changed, but I'm still just Wuk Lamat."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "More than “just,” I'd say. You have grown into a leader fit for this nation. Your father must be proud."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I hope so. But...big events like this make me wonder, you know? What my birth parents might say if they knew."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "...I imagine they would say that it fills their hearts with joy to see the strong, compassionate woman you have become."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I owe you my thanks as well. For fulfilling your promise to me."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "I told Bakool Ja Ja to stay with us so we could all congratulate you in person."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "But he marched off, muttering something about not being able to face you just yet."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "The boy needs purpose. Purpose beyond catering to the demands of others. He was always too obliging for his own good..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sure he'll find it in his own time. Especially if he knows his family is there for him."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "...That we are."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By the by, have you seen Ketenramm anywhere? Er, Tankwa, that is!"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Ketenramm, was it? A strong name...if a bit exotic."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "We called upon him before leaving Mamook, but he wasn't at home. I don't recall seeing him at the ceremony either."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "The First Promise was notably absent as well. Though I assumed he required time to salve his injured pride."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone thought he'd be the one to succeed Papa. My victory must have come as quite a shock to him."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As for Tankwa, I'm sure he's around here somewhere. Or ready to appear when we least expect him."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'd best be going, but relax, enjoy, and make yourselves at home! And come and visit us any time!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All right, I think I found everyone I could find. Let's return to the others in the Winged Walk!"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "More than a few of Mamook's citizens have expressed new interest in moving to Tuliyollal. I will confer with Dawnservant Koana to ensure their transition is a smooth one."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "I've heard there's another shop that serves delicious tacos. I'd love to try them..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Wuk Lamat may have realized her goal, but I hope you will continue to be a friend to her."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's head back to the Winged Walk. Everyone's waiting!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There are rumors that Gulool Ja Ja may go on pilgrimage now that he's no longer Dawnservant. Though I'm sure the transition process will keep him in the capital for some time yet."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Oh, you're back! Erenville was just regaling us with stories of Lamaty'i from when they were little."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What, the one about the taco? It was basically clean when I found it─or no, the one about Papa's feathers!? Look, I didn't know where else to wipe my nose, and I was too little to know better!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Gulool Ja Ja stopped by to offer his thanks for our support."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He also bade me extend his gratitude to you for assisting a concerned father? I'm not sure what he meant by it, but I assume you do."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is Wuk Lamat still making her rounds?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Welcome back. I hope you didn't rush on our account."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Seen everyone you wanted to see?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I have. Sorry for keeping you all."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now, there's just one last matter. What Koana spoke to you about."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sure he made it abundantly clear, but I'm completely serious."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I want you to stay in Tuliyollal with me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...I'm not forcing you, of course. But should you wish it, you'll always have a place here."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, that's right. This is for you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A permit granting passage to Xak Tural, which as I recall, you've yet to see."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "An adventurer like you could hardly resist, no?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't believe our journey is over already!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You accepted me as a comrade and stood with me to the end."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You have my eternal gratitude. Thank you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, I had better get going. I need to start learning all my official Dawnservant duties."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll be sure to share what my old man says about the golden city too, once he tells me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Till then, feel free to pass the time as you like."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "For now, I will remain in Tural. There's someone I'd like to see before returning to Sharlayan."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What about the rest of you?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Alisaie and I also intend to remain a while longer. As educational as this experience has been thus far, we feel there are even more lessons to be had for Garlemald."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "By hearing about the peace your father facilitated, and then seeing you reforge relations with Mamook, we were reminded of a profound truth."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That is, acceptance begins with understanding."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And like you demonstrated throughout the rite, there are unexpected-yet-effective ways for two sides to understand each other."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The question is how to encourage it, and by seeing more of this nation born of unity, we hope to find some hints."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Personally, I can hardly wait to learn more about the city of gold. So if I may, I'd like to stay in Tuliyollal as well."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By all means! Your rooms are at your disposal for as long as you need them."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And what of you? Thinking of touring Xak Tural, perhaps?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Of course. You're hardly the type to leave half of a continent unexplored."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Then perhaps we could travel together?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The person I intend to meet is my mentor, so I'll be visiting my hometown in Xak Tural."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If you have no particular destination in mind, I'd be happy to guide you en route."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then it's farewell for now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Take care, all of you!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "When you're ready, come and meet me at the Xak Tural skygate."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're friends to the end, you hear me! Friends to the end!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Past these gates and over the bridge lies Xak Tural."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You have your permit, yes? Packed and ready? No last-minute stops to make before we leave?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "<sigh> Forgive me. I'm afraid traveling with our new Dawnservant may have scarred me for life..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "This...is the gate to the golden city?"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Two decades ago, your father bade me transcribe a letter to a scholar across the salt, petitioning the study of this place."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "What he discovered was something the Dawnservant feared enough to seal away forever...or so we thought until the rite's objective became the city of gold."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "But to think that Tankwa would be entrusted with its safekeeping! Had I known that doddering old fool carried a set of keystones, we might have spared ourselves those tiresome feats."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Great power sleeps here─and with it, you shall obtain your birthright."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "So you say. Yet the new Dawnservants succeeded where I could not. Taking their throne will be no easy task."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "The Resilient Son underestimates his own potential! There is no need for worry."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "I have liberated the key from the Dawnservant's vault. You alone have the means to unlock the gate."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "You will gain all you were denied. The rite, your father's shade─these bitter memories shall soon be forgotten."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Seize your future, Promise. Open the gate, and become the ruler you were destined to be!"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "I-It's working!"
+    },
+    {
+      "character": "???",
+      "text_en": "Is some...there? Can...hear me?"
+    },
+    {
+      "character": "???",
+      "text_en": "...At last!"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Who's there!? Show yourself!"
+    },
+    {
+      "character": "???",
+      "text_en": "If only I could. Alas, this gate will not open for me. Only the key in your possession can connect us."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Then...you are the guardian of the city's great power?"
+    },
+    {
+      "character": "???",
+      "text_en": "I do not claim this power is great... But the knowledge I possess is enough to realize any desire. To remake worlds."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Is that so..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Hahaha... Ahahaha!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Fascinating. Name your price, then. For my desire is the world itself..."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "Yes, yes! The Resilient Son rises! Together we shall create a nation worthy of our rule!"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "P-Promise! Wh-Why?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "The useless tool is cast aside."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Deliver me a new world. One that bends to my will."
+    },
+    {
+      "character": "???",
+      "text_en": "As you wish. But in exchange..."
+    }
+  ]
+}

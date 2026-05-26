@@ -1,0 +1,524 @@
+{
+  "id": "village-of-the-hunt",
+  "wiki_path": "/wiki/Village_of_the_Hunt",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/18/Village_of_the_Hunt.png",
+  "patch": "7.0",
+  "title_en": "Village of the Hunt",
+  "level": "94",
+  "location": "Yak T'el(X:14.4,Y:12.8)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "Are all cenotes this deep, I wonder?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We should press on. The other candidates may be well ahead of us."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Are we ready to proceed? I am eager to learn more about Iq Br'aax and Xbr'aal customs."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Just so you know, I shall be very cross if you push me."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ready to head on in?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Our first task should be finding the elector. Hopefully our relative tardiness will not reflect poorly upon us..."
+    },
+    {
+      "character": "Gentle Villager",
+      "text_en": "The Third Promise and her retinue, I presume."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You presume right. I seek the Dawnservant's elector."
+    },
+    {
+      "character": "Gentle Villager",
+      "text_en": "Then come and join us in the Garden of the Stars, at the village center. Everyone is waiting for you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "“Everyone”?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "And who might that be...?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There is but one way to find out. Come, let us follow him."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "At last we are graced by the presence of the Third Promise."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "If I'd known we'd be waiting on your mangy hide, I wouldn't have bothered with Valigarmanda in the first place."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You self-serving piece of wivre dung! Do you have any idea how many could've been hurt!?"
+    },
+    {
+      "character": "Gentle Villager",
+      "text_en": "Now that we are assembled, let us begin."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "My name is Hunmu Rruk. As Xbr'aax Rax, I have the honor of serving as elector on behalf of my people."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "As all four claimants must be present for this feat, we have eagerly awaited your arrival."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Third Promise, if you would please join us."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Thus far, you have faced each other as rivals. The Feat of Repast, however, will test your cooperation. You must complete this challenge in teams of two."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "What!? You expect us to work with one of these weaklings!?"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Be warned─only the triumphant team will receive keystones. I advise you to cooperate with your partner."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Teams will be decided by lots. Those who draw the same color will be paired accordingly."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Twelve forbid Wuk Lamat is paired with Bakool Ja Ja. After all he's put her through, I wouldn't blame her if she did something rash. I might even help."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Claimants, please present your colors."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I have red."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Blue."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "On separate teams, then. And the rest?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Red. Which means..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Together again, as fate would have it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Victory's as good as ours!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "With our claimants thus paired, so too is their opposition..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Ugh, not the one-head..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Listen well, for the trial that awaits you is as follows..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Each team is to prepare a sample of traditional Xbr'aal cuisine─xibruq pibil."
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "And now we must cook. Another ludicrous feat."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So it might seem, but there's bound to be deeper meaning to it."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Agreed. Given that the very future of our nation is at stake, all parts of this rite must have significance."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Our Promises have grown rather promising, wouldn't you say?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. If I were to guess at the significance of the feat..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Few things reflect the history and development of a culture so clearly as its culinary traditions."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The variety of stewed dishes in Garlean cuisine bespeaks their agricultural roots and cold climes, true."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The peoples we've met on our journey─they've all had different practices involving food and drink."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Hanuhanu replenish their magical energies with reeds, while the Pelupelu have turned their fondness of beverages into a living."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So basically, to know a people's cuisine is to know something of their ways!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "With each feat, we have deepened our familiarity with a given community's history and culture..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Is this what Father intended for us all along...?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "But a leader with his vision must see that the past doesn't hold the answers we need. It is through embracing innovation, not adhering to tradition, that we will usher Tuliyollal unto a more prosperous future."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "The rules are simple."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "The first team to prepare and partake of satisfactory xibruq pibil will be deemed victorious. You will be judged by your samples' taste and appearance, as well as your adherence to appropriate cooking techniques."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Kitchens have been made available for your use. Note that you may be asked to retry should your dish fail to pass muster."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Let the Feat of Repast begin."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've never actually heard of xibruq pibil before. What's it like, I wonder..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I consider myself a connoisseur of all things tasty and Turali, but this is the first I've heard of xibruq pibil..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The First Promise and Bakool Ja Ja are formidable on the field, but in the kitchen? I think the odds are in our favor."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Only two claimants can receive keystones from this feat. Intimidating, perhaps, but irrelevant─we shall prevail!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Second Promise will no doubt have thoughts on how best to proceed. Let us ask for his perspective."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Do you suppose the First Promise and Bakool Ja Ja will wear matching aprons? I dearly hope so."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "As much as I would have loved to defeat you all in a high-stakes culinary battle, I couldn't have asked for better allies."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For the pairings to be thus decided, the stars align for us indeed."
+    },
+    {
+      "character": "Koana",
+      "text_en": "How fortunate that this feat's unique stipulations have frustrated Bakool Ja Ja's attempts to delay us."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Serves him right! That's what he gets for endangering my people with his schemes!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Why doesn't he just compete fairly? He's plenty strong─and obviously has a mind for strategy, twisted though it may be."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll never understand him..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Putting aside our competition for the moment, allow me to express how glad I am for this opportunity to work together. As I see it, our team possesses a distinct advantage─"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh. Of course we do! Any team I'm on is bound to succeed."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...Precisely."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You mean we have an advantage in numbers , yes?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Our competition has a team of six─the two claimants, Sareel Ja, and Bakool Ja Ja's lackeys."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Whereas we are a team of nine. That's three more people we can mobilize."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "With the tasks suitably delegated, it should be a brisk affair to learn the recipe and assemble necessary ingredients."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Too easy!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, we mustn't be over confident, lest we make a careless mistake that could've been easily avoided."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Our first order of business should be determining the recipe for xibruq pibil. We can hardly gather ingredients for a dish we know nothing about."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Given the nature of this feat, asking for answers directly may prove less effective than simply observing the daily habits of the Xbr'aal people."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Let us gather here once we have seen what clues this village has to offer."
+    },
+    {
+      "character": "Light-hearted Lady",
+      "text_en": "<chuckle> That one's called “achiote.” We mostly use it to add a bit of color to, er, our most popular cuisine ...but its medicinal benefits are significant as well."
+    },
+    {
+      "character": "Fastidious Fellow",
+      "text_en": "The recipe for xibruq pibil?"
+    },
+    {
+      "character": "Fastidious Fellow",
+      "text_en": "I wish I could tell you, friend! A dish so delicious is meant to be shared. Alas, we are forbidden from divulging anything ─orders from Hunmu Rruk himself."
+    },
+    {
+      "character": "Fastidious Fellow",
+      "text_en": "But your mentioning it has given me a fierce craving! I only hope there's still ibruq to be had at market... <wink>"
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "Tch. So much for our plan..."
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "We ought to cut our losses and head to Mamook. This feat is nothing but a fool's errand."
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "You're the fool if you think he won't tan our hides for leather if we dare to return without enough keystones! Besides, we've taken from the house cat before─how difficult could a second time be?"
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "Wh-What are you looking at, salt-licker!? Mind your own business!"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Oh no! It appears I've gone and dropped my najool─I mean, Ja Tiika banana peel! I could barely see it for all the steam issuing from my underground oven . Ahhh, there's nothing like enjoying a tasty banana while you use the leaves in your cooking!"
+    },
+    {
+      "character": "Alphinaud (text bubble)",
+      "text_en": "I see..."
+    },
+    {
+      "character": "Krile (text bubble)",
+      "text_en": "And what flavor would that be?"
+    },
+    {
+      "character": "Wuk Lamat (text bubble)",
+      "text_en": "A banana...?"
+    },
+    {
+      "character": "Urianger (text bubble)",
+      "text_en": "That smoke..."
+    },
+    {
+      "character": "Erenville (text bubble)",
+      "text_en": "Come with me for a moment."
+    },
+    {
+      "character": "Ty'at Tst'ei",
+      "text_en": "The food ain't ready yet, you hear!? ...Oh, you aren't here for that? Apologies, I get people breathin' down my neck constantly, like they don't realize a proper meal takes time."
+    },
+    {
+      "character": "Light-hearted Lady",
+      "text_en": "This should be all I need..."
+    },
+    {
+      "character": "Fastidious Fellow",
+      "text_en": "Hmm? I was simply thinking aloud about my next meal! No harm in that."
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Hehe... What fun this is!"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "You may make use of the kitchens at any time. I look forward to tasting your xibruq pibil."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry, sorry! I'm back!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "What did we discover about xibruq pibil?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "True to your prediction, the villagers were forbidden from educating us, er, directly ."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "However, many were still preparing it as one might a staple dish, and observation of their techniques yielded clues enough."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A lady blending local herbs and spices was only too happy to describe the ones I didn't recognize─while neither confirming nor denying any relation to xibruq pibil."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But one in particular she attributed to all common Xbr'aal dishes. “Achiote,” she called it."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I see. Then if xibruq pibil is indeed a dish as ubiquitous as Alphinaud claims, we have confirmed our first ingredient."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Meanwhile, I did observe a cook burying bundles wrapped in the leaf of najool─or banana, in certain localities. 'Twould seem the use of subterranean ovens is commonplace."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I saw the same! I think we all know what's inside those bundles, then, don't you?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "As would be expected of a dish called “xibruq pibil,” indeed."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I think you were smelling what you wanted to smell. Cattle is uncommon in Yok Tural and unlikely to be an ingredient used in Xbr'aal traditional cuisine."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What kind of creature is that? There seem to be more hunters than fishers here, so I think we're looking for a different meat─but I'd be keen to give it a try next time!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "So to summarize, this dish is one of ibruq, flavored with a combination of spices that includes achiote, and steamed underground within najool─or banana─leaves."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Given our assumptions are correct, we must now learn where and how to procure our ingredients."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As a staple cuisine, its ingredients would be close at hand─which is why Thancred and I scouted the surrounding forests while you all were exploring the village."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Between the local vegetation and wild ibruq, we should have everything we need in regards to meat and spices."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, leave it to a master gleaner!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "With that, we should next divvy up our tasks. While some gather ingredients, others should make ready the kitchen."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can help prepare the kitchen."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Permit me to assist as well. Our ovens will doubtless require firewood, and I have some experience in its gathering."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I, too, should be glad to volunteer mine aid."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Then the rest of us will gather ingredients. I can make quick work of the spices and herbs myself."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I am happy to lead someone to a suitable ibruq, if they will perform the requisite deed. Alisaie?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "As for the najool leaves, I believe I am capable of acquiring that much on my own."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Be warned─you won't find najool in these parts. They only grow in the Ja Tiika Heartland, forests far below these."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Hm. Such an excursion may be time-consuming. Perhaps we ought to try bartering first."
+    },
+    {
+      "character": "Koana",
+      "text_en": "This feat encourages our communication with the locals, after all."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i, Forename . If you would accompany me on my errand?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No better way to whet my appetite!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Good. Let us be about our tasks, then."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...Lamaty'i had no specific task assigned to her, so I had her accompany me. No more, no less."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on! Let's go and get those najool leaves."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The sooner we do, the sooner we can eat!"
+    }
+  ]
+}

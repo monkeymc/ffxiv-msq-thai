@@ -1,0 +1,172 @@
+{
+  "id": "pointing-the-way",
+  "wiki_path": "/wiki/Pointing_the_Way",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Pointing the Way",
+  "level": "93",
+  "location": "Urqopacha(X:28.8,Y:33.6)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Aether Seeker",
+      "text_en": "PlEaSe SpEcIfY dEsIrEd AeThErIaL aSpEcT!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We'll head to the outskirts of the village first, then set the seeker to detect fire-aspected aether."
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "SeNsOrS sEt To DeTeCt AeThErIaL aSpEcT: fIrE."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Right, the seeker is ready to go. Worlar's Echo is still suffused with the Skyruin's residual aether, so I've excluded it from the search area to prevent it from swamping the sensors."
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "AfFiRmAtIvE! tRaCkInG nEaReSt SoUrCe Of FiRe-AsPeCtEd AeThEr!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Let's begin tracking, shall we?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Don't look at me─the seeker is pointing the way."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Understood. Come back to the village entrance when you're ready to pursue our quarry without interruptions."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Are you sure you're ready this time? Then let's resume tracking."
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "AfFiRmAtIvE! rEsUmInG tRaCkInG!"
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "WeLcOmE bAcK! rEsUmInG tRaCkInG!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We need to keep up with the seeker, or we won't be able to track Valigarmanda. Let's head back to Worlar's Echo and see if we can pick up the trail."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ready? Don't let the seeker out of your sight this time."
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "<beep> SoUrCe Of FiRe-AsPeCtEd AeThEr LoCaTeD. tRaCkInG dIsEnGaGeD."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Not quite the legendary creature we were after."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Would you mind dealing with that fire sprite? It will continue to confuse the seeker if we leave it be."
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "PlEaSe SpEcIfY dEsIrEd AeThErIaL aSpEcT!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You'll have to snuff out that sprite before we can resume tracking. Take care you're not burned in the process."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A necessary measure, I'm afraid."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Let's try this again..."
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "AfFiRmAtIvE! tRaCkInG nEaReSt SoUrCe Of FiRe-AsPeCtEd AeThEr!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Understood. Come back to Solace when you're ready to continue."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You need to keep up with the seeker, or we won't be able to track Valigarmanda. Let's head back to Solace and see if we can pick up the trail."
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "<beep> SoUrCe Of FiRe-AsPeCtEd AeThEr LoCaTeD. tRaCkInG dIsEnGaGeD."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Frightening enough, but again, not what we were looking for."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If you would be so kind...?"
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "PlEaSe SpEcIfY dEsIrEd AeThErIaL aSpEcT!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As I said, the seeker method is not without its faults. Once it locks onto a source, it will follow it forever."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "My thanks. I'd ask if it gave you any trouble, but considering who I'm talking to..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Seeker, resume tracking. And do try to point out something useful this time."
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "AfFiRmAtIvE! rEsUmInG tRaCkInG!"
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "<beep> SoUrCe Of FiRe-AsPeCtEd AeThEr LoCaTeD. tRaCkInG dIsEnGaGeD."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ah, another remnant of Valigarmanda's last rampage. The crater's flames registered to the seeker as corporeal aether..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "In the words of the Tuliyollal Saga, when Valigarmanda rages out of control, its fire burns forever, its ice does not thaw, and its lightning crackles without cease. Thus was the Dawnservant able to turn the Skyruin's perpetual magic against itself, trapping it within an unmelting prison of ice."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This is no mundane fire, but some kind of...everlasting sorcery. Once again, it is a strange feeling to see fanciful poetry proven true..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The important thing is that the fire was classified as living aether─we can feed a sample into the seeker and greatly improve its accuracy. One moment..."
+    },
+    {
+      "character": "Aether Seeker",
+      "text_en": "SaMpLe AnAlYzEd. ReCaLiBrAtInG sEnSoRs."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There. Now the seeker should ignore any aetheric signature but Valigarmanda's."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Had I realized this was possible from the start, then you needn't have fought those creatures at all."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "My apologies. It seems I still have much to learn from this journey─as a gleaner, and as a guide."
+    }
+  ]
+}

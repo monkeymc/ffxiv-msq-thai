@@ -1,0 +1,248 @@
+{
+  "id": "the-meeting",
+  "wiki_path": "/wiki/The_Meeting",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.2",
+  "title_en": "The Meeting",
+  "level": "100",
+  "location": "Solution Nine(X:17.8,Y:17.9)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What a cruel thing to say to Sphene..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Alexandria has no need for Queen Sphene. It's the Queen of Reason─my Endless counterpart─that they love."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And although it is a hard truth to accept...it is nevertheless the truth. I must find a new way to serve..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "You're not alone. And together, we can get through anything."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well said. And it just so happens there's something that only you can do right this moment..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's start with Calyx. What can you tell us about him?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He was a prodigy who specialized in the field of electrope and made his mark during the Storm Surge. Yet even as he basked in the admiration of his peers, he struggled with an illness he had from birth, which left him with precious little time to live."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For him to still be here four centuries on, I think it safe to assume that he too has become an Endless."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see... While we're somewhat familiar with Preservation, I never imagined we'd cross paths with one of them like this."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You know about Preservation?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We do. They're supposed to have created Everkeep's core system as well as the Endless Sphene."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Did they? All while I was slumbering..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The members of Oblivion have spent a lot of time investigating Preservation. We should head to the Backroom and tell them what's happened."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "To think that Krile's parents were once members of Preservation..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've given the others a summary, but we can wait on the details if you need some rest."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Are you feeling alright?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "The sign might yield some clues..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We heard about the ambush. You seem to have weathered it well, but try to avoid straining yourself, do you hear me?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We've heard what happened. So, Preservation has revealed itself at last."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And using the key, they mean to turn even more people into Endless..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It seems safe to assume that they, too, intend to steal aether from the other reflections."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But unlike the previous Sphene, they have no intention of saving everyone."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Calyx of all people would know precisely how much aether is required to sustain an Endless. Thus he is able to set a realistic limit to their creation, without being swayed by emotion."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Carefully managed, eternal preservation... Whether or not this can be considered an evolution, 'tis plain that man's very existence would be forever changed."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Say... If this Calyx is as brilliant a scientist as everyone says, could he have been the one who erased everyone's memories of Endless Sphene's death?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That is a possibility, though I cannot speak to his motives..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Though Calyx has outright stated his ultimate goal, how his actions will further this agenda remains unclear..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That said, we have seen how anxiety towards death continues to spread amongst Alexandrians. Perhaps the simulant stokes this fear to entice them to become Endless."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Everyone is afraid of death. We try to put it out of our minds, and I do not blame the people for feeling as they do."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Nonetheless, I wish to stop the simulant. I wish to do what I can for those who believe in their queen."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Although I wear no crown, were I to forsake the people...then I would truly have no place here."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I don't know if this will help in that endeavor, but I've found something interesting."
+    },
+    {
+      "character": "Shale",
+      "text_en": "When I analyzed the sign that Calyx appeared on, I was able to determine the source of transmission. I traced it back to a terminal used only by Preservation, located in the foundation sector."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Foundation sector... That came up in my mother's records, didn't it? It's where the old castle was hidden."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Everkeep was built atop the castle of the former kingdom. Access to the immediate area─the foundation sector─is highly restricted, with map data accordingly classified."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The old castle is inside this tower...?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's an ideal place for Preservation to conceal a terminal, I must say. Having existed since the Storm Surge, they would be familiar with the castle's layout."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But I wonder, would someone so versed in electrope such as Calyx be so careless as to leave a trail?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Oh, I expect he intended for us to find the terminal."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It may be a trap, but it's our only lead. What do you think, my friend?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "No, we cannot. We must learn exactly what he is plotting."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Agreed. And besides, you owe him for that bolt of lightning."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That it is. While I'm glad you're safe, we cannot allow his offense to go unanswered."
+    },
+    {
+      "character": "Shale",
+      "text_en": "If you're set on this course of action, I'll work on getting you access to the foundation sector. Sit tight for now."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Please let me come with you!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I may not possess any special skills, but I know the castle better than any. So please..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If that's what you want, then we go together. The rest of us will take point and secure the way, and we'll count on you to guide us in the castle."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In the world of Sphene's memories, the town was already submerged. Given their dire circumstances, I expect the people considered stripping the castle for materials to rebuild."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "For the structure to endure even now... It speaks to its importance to the Alexandrians, as well as their resilience."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Calyx determines how many will become Endless, but leaves the choice of who in the hands of the people..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is this his idea of fairness, or does he simply not care? Perhaps he considers all to be worthy of salvation...? Oh, but it's too early for such speculation..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'm working on securing a route to the foundation sector. Please sit tight for a while."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "According to the records from Yuweyawata, my mother was investigating Origenics for her own research into souls."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There was map data for Origenics in the records, and that's how we learned about the castle in the foundation sector."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "At last we have a plan. Let's make it count!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you for allowing me to accompany you."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It may take time for me to find my place in this new Alexandria, but I will. Slowly but surely."
+    }
+  ]
+}

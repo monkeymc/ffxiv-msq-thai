@@ -1,0 +1,284 @@
+{
+  "id": "the-sanctuary-of-the-strong",
+  "wiki_path": "/wiki/The_Sanctuary_of_the_Strong",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Sanctuary of the Strong",
+  "level": "100",
+  "location": "Living Memory(X:36.4,Y:25.8)",
+  "npc_start": "Cahciua",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "And that makes half..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Upon our return, we must regale Gulool Ja with the heroic tale of Ser Otis Velona."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Two zones to go."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We still have a ways to go. Let's keep moving."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "So far there appears to be no change with the Meso Terminal."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "So let's take the opportunity to visit another zone: Asyle Volcane, in the northeast."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The place with the volcano, eh? And I suppose we're using the zip line again."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You know it. Like before, I'll take care of the guard at the Gate of Remembrance. Come, let's head back."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That's a fiery place indeed... I wonder what it's themed upon."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I must say, it saddens me to see the scenery change in our wake."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "How can she be so carefree about everything...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That volcano really isn't real, right? All that smoke pouring out is just part of the glamour?"
+    },
+    {
+      "character": "Asyle Volcane Guard",
+      "text_en": "<bleep> <bloop> Error. Error. Download...complete. User registration...c-c-confirmed."
+    },
+    {
+      "character": "Asyle Volcane Guard",
+      "text_en": "Dauntless adventurers, I bid you welcome to Asyle Volcane, the sanctuary of the strong! Fight with courage and honor, that your legend may resound forevermore in the Arena of Valor!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "<gulp> It's only an illusion... It's only an illusion..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "What's this, now? Don't tell me you're afraid of the lava?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "N-Not on your life! I-It isn't even real, is it?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Oh, definitely not. But don't take my word for it—jump in and see for yourself."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "N-No need. I-I believe you."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "That there is the terminal."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You can get to it via the caverns that run through the volcano."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I'll go on ahead and wait for you. Take care around the wildlife, now!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, Erenville?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll explore alone. You needn't worry—I'll give the wildlife a wide berth."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Poor Erenville... He's still coming to terms with it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You can hardly blame him. Let's leave him be for now."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, let's get moving ourselves."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Right would seem to be the more direct path to the terminal, but I must say I'm curious about that building on the left."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The mechanical soldiers are as common here as they are in Solution Nine. I wonder how long ago they were created."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Looks like we have two paths to choose from. I thought I saw Cahciua heading left, though."
+    },
+    {
+      "character": "Krile",
+      "text_en": "While that would seem to be a detour, I must say I'm rather curious about that round building."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, I'm always up for the scenic route. Let's follow after Cahciua and see what the building's about!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Found her!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A round building with seating for spectators... Might this be a fighting arena?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville is...elsewhere, of course."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Well now, look who came this way too. Great minds, as they say!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This appears to be a fighting arena. Is it also a recreation of an actual place?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "In all likelihood. While I don't know the details, I understand such facilities were once common across the land."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Though it's closed at the moment, even Solution Nine has the Arcadion. It may well be a legacy of the past."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Anyway, it seems the next match is about to begin. As I've already spectated my fill, I will move on, but you ought to head inside for a look!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That rather resembles arcanima, wouldn't you agree?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Indeed. While similar arts could have developed independently across reflections, this verges on being identical."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is something wrong?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What!?"
+    },
+    {
+      "character": "Milalla Woman",
+      "text_en": "Do we know each other from somewhere?"
+    },
+    {
+      "character": "Milalla Man",
+      "text_en": "Come on, dear!"
+    },
+    {
+      "character": "Milalla Woman",
+      "text_en": "I'm sorry, but I must be going."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wait, please!"
+    },
+    {
+      "character": "Milalla Woman",
+      "text_en": "You're new here, I gather. It may seem strange at first, but give it time. You'll grow accustomed to it soon enough."
+    },
+    {
+      "character": "Krile",
+      "text_en": "No, no, I-I'm not... Er... Rather, I'm... Oh, what can I say?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Of course! This earring—do you recognize it?"
+    },
+    {
+      "character": "Milalla Man",
+      "text_en": "Impossible!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "My name is Krile. When I was a baby, I was taken from this world to another, where I grew up without knowledge of my past."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I know not how much time has passed for you, and er...things may not be as you expect them to be, but...I'm here now. I've found my way back."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This earring, it contained a code with which I was able to reopen the gate. And I did, and I'm here, and..."
+    },
+    {
+      "character": "Milalla Man",
+      "text_en": "Could it be as she claims...?"
+    },
+    {
+      "character": "Milalla Woman",
+      "text_en": "She's not lying—I can tell. And there is no mistaking the earring..."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "[DEEP CONTENTED SIGH]"
+    },
+    {
+      "character": "Milalla Woman",
+      "text_en": "How you've grown, my darling daughter!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "[OVERWHELMED EXHALE]"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It has been twenty years..."
+    },
+    {
+      "character": "Robor",
+      "text_en": "Ah, yes, names. I'm Robor, and this is Alayla...your mother."
+    },
+    {
+      "character": "Robor",
+      "text_en": "Doubtless we have a mountain of questions for each other, but perhaps we can take this somewhere quieter?"
+    },
+    {
+      "character": "Robor",
+      "text_en": "The heatwells, for instance. There's a spot there where we can relax and chat."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "To think that Krile would actually meet her parents..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Miracles really do happen here... I'm happy for Krile."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Could it be that the system orchestrated this reunion as well...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Forgive me... This is all so much to take in, I'm struggling to collect my thoughts."
+    }
+  ]
+}
